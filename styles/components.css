@@ -249,6 +249,24 @@
   font-size: var(--text-sm);
   transition: color var(--fast) var(--ease), border-color var(--fast) var(--ease);
 }
+/* Sao chưa bật để mờ hẳn: một bảng 50 từ mà cái nào cũng sáng thì nhìn như
+   nhau cả, mất luôn tác dụng đánh dấu. Bật rồi mới có màu và có nền. */
+.star-toggle {
+  font-size: var(--text-base);
+  line-height: 1;
+  color: var(--text-subtle);
+  border-color: transparent;
+  background: transparent;
+}
+.star-toggle:hover {
+  color: var(--warning);
+  border-color: var(--border);
+}
+.star-toggle.is-on {
+  color: var(--warning);
+  border-color: transparent;
+  background: var(--warning-surface);
+}
 .icon-btn:hover {
   color: var(--brand);
   border-color: var(--brand-border);
@@ -591,6 +609,15 @@
   transform: rotateY(180deg);
   background: linear-gradient(165deg, var(--surface-raised), var(--surface-sunken));
 }
+/* Góc trên phải của cả hai mặt thẻ. Nằm ngoài luồng flex nên không đẩy chữ
+   xuống, và mặt sau tuy bị rotateY(180deg) nhưng sao vẫn hiện đúng góc phải
+   vì cả mặt thẻ quay cùng nhau. */
+.card-star {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+  z-index: 1;
+}
 .flashcard img {
   max-height: 180px;
   object-fit: contain;
@@ -916,6 +943,18 @@ tbody tr:last-child td {
 }
 tbody tr:hover {
   background: var(--bg-subtle);
+}
+/* Cột sao: hẹp nhất có thể, để nó không ăn chỗ của cột Nghĩa. */
+.col-star {
+  width: 1%;
+  padding-right: var(--space-2);
+  text-align: center;
+  color: var(--text-subtle);
+}
+/* Dòng gắn sao: một dải mảnh ở mép trái. Không tô nền cả dòng vì đụng với
+   nền hover có sẵn của bảng, mà chồng hai nền lên nhau thì chữ khó đọc. */
+tr.is-starred td:first-child {
+  box-shadow: inset 3px 0 0 var(--warning);
 }
 th {
   font-size: var(--text-xs);

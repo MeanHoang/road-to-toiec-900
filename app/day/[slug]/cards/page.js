@@ -1,13 +1,14 @@
 'use client';
 
+import Link from 'next/link';
 import { use, useCallback, useEffect, useMemo, useState } from 'react';
 import { useProgress } from '@/lib/progress';
-import { Badge, Button, Card, Progress } from '@/components/primitives';
+import { Badge, Button, Card, Progress, StarToggle } from '@/components/primitives';
 import { TopBar, PageHeader, Speak } from '@/components/patterns';
 import { DayGate } from '@/components/DayGate';
 
 function CardsScreen({ slug, day }) {
-  const { day: state, ready, setVocab, resetVocab } = useProgress(slug);
+  const { day: state, ready, setVocab, setStar, resetVocab } = useProgress(slug);
   const [flipped, setFlipped] = useState(false);
   const [cursor, setCursor] = useState(0);
 
@@ -32,11 +33,17 @@ function CardsScreen({ slug, day }) {
     [card, setVocab],
   );
 
+  const starred = Boolean(card && state.star[card.id]);
+  const toggleStar = useCallback(() => {
+    if (card) setStar(card.id, !state.star[card.id]);
+  }, [card, state.star, setStar]);
+
   // Phím tắt — kéo chuột trên máy tính rất khó chịu.
   useEffect(() => {
     const onKey = (e) => {
       if (e.key === 'ArrowLeft') mark('unknown');
       else if (e.key === 'ArrowRight') mark('known');
+      else if (e.key === 's' || e.key === 'S') toggleStar();
       else if (e.key === ' ') {
         e.preventDefault();
         setFlipped((f) => !f);
@@ -44,7 +51,7 @@ function CardsScreen({ slug, day }) {
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [mark]);
+  }, [mark, toggleStar]);
 
   const crumbs = [
     { label: 'Trang chủ', href: '/' },
@@ -67,7 +74,8 @@ function CardsScreen({ slug, day }) {
           <Progress percent={(known / total) * 100} label={`${known} / ${total} đã biết`} />
         </div>
         <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-          <kbd>Space</kbd> lật · <kbd>←</kbd> chưa thuộc · <kbd>→</kbd> đã biết
+          <kbd>Space</kbd> lật · <kbd>←</kbd> chưa thuộc · <kbd>→</kbd> đã biết · <kbd>S</kbd> gắn
+          sao
         </p>
       </PageHeader>
 
@@ -94,6 +102,12 @@ function CardsScreen({ slug, day }) {
           >
             <div className="flashcard-inner">
               <div className="flashcard-face">
+                <StarToggle
+                  className="card-star"
+                  on={starred}
+                  onClick={toggleStar}
+                  label={starred ? `Bỏ sao ${card.word}` : `Gắn sao ${card.word} để xem lại mặt chữ`}
+                />
                 <Badge eyebrow>{card.group}</Badge>
                 <div className="word">{card.word}</div>
                 {/* Mỗi giọng một dòng, nhãn và phiên âm thẳng cột nhau. Trước đây
@@ -119,6 +133,12 @@ function CardsScreen({ slug, day }) {
               </div>
 
               <div className="flashcard-face back">
+                <StarToggle
+                  className="card-star"
+                  on={starred}
+                  onClick={toggleStar}
+                  label={starred ? `Bỏ sao ${card.word}` : `Gắn sao ${card.word} để xem lại mặt chữ`}
+                />
                 {card.image && <img src={card.image} alt="" />}
                 <Badge>{card.pos}</Badge>
                 <div className="meaning">{card.meaningVi}</div>
@@ -140,7 +160,10 @@ function CardsScreen({ slug, day }) {
             <Button variant="quiet" size="sm" onClick={resetVocab}>
               ↺ Học lại tất cả
             </Button>
-            <span className="caption">Thẻ &ldquo;đã biết&rdquo; chỉ bị ẩn, không xoá vĩnh viễn</span>
+            <span className="caption">
+              Thẻ &ldquo;đã biết&rdquo; chỉ bị ẩn, không xoá vĩnh viễn. Gắn ★ cho từ hay quên mặt
+              chữ rồi lọc lại ở <Link href={`/day/${slug}/vocab`}>bảng từ vựng</Link>.
+            </span>
           </div>
         </div>
       )}

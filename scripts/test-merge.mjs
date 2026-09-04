@@ -7,7 +7,7 @@ import { mergeDay } from '../lib/merge.js';
 
 const OLD = '2026-09-01T00:00:00.000Z';
 const NEW = '2026-09-02T00:00:00.000Z';
-const base = { vocab:{}, listen:{}, trans:{}, picture:{}, dictation:{} };
+const base = { vocab:{}, star:{}, listen:{}, trans:{}, picture:{}, dictation:{} };
 
 // 1. Hợp nhất id chỉ có ở một bên — kịch bản 2 máy học 2 phần khác nhau
 {
@@ -91,4 +91,33 @@ const base = { vocab:{}, listen:{}, trans:{}, picture:{}, dictation:{} };
   console.log('✓ đối xứng: mergeDay(a,b) === mergeDay(b,a)');
 }
 
-console.log('\n9/9 pass');
+// 10. sao KHÔNG dính: gỡ sao ở máy này thì máy kia cũng phải mất sao
+{
+  const cu  = { ...base, star:{ 'd1-v01':true  }, updatedAt: OLD };
+  const moi = { ...base, star:{ 'd1-v01':false }, updatedAt: NEW };
+  assert.equal(mergeDay(cu, moi).star['d1-v01'], false);
+  assert.equal(mergeDay(moi, cu).star['d1-v01'], false, 'đổi thứ tự vẫn thế');
+  console.log('✓ star: bỏ sao truyền được sang máy khác');
+}
+
+// 11. sao độc lập với known/unknown — đúng cái ca dùng: nhớ nghĩa rồi vẫn gắn sao
+{
+  const a = { ...base, vocab:{ 'd1-v01':'known' }, star:{ 'd1-v01':true }, updatedAt: NEW };
+  const b = { ...base, vocab:{ 'd1-v01':'known' }, updatedAt: OLD };
+  const m = mergeDay(a, b);
+  assert.equal(m.vocab['d1-v01'], 'known');
+  assert.equal(m.star['d1-v01'], true);
+  console.log('✓ star sống độc lập với trạng thái đã biết');
+}
+
+// 12. bản cũ không có bucket star (dữ liệu ghi trước khi có tính năng)
+{
+  const cu = { vocab:{ 'd1-v01':'known' }, listen:{}, trans:{}, picture:{}, dictation:{}, updatedAt: OLD };
+  const moi = { ...base, star:{ 'd1-v01':true }, updatedAt: NEW };
+  const m = mergeDay(cu, moi);
+  assert.equal(m.star['d1-v01'], true);
+  assert.equal(m.vocab['d1-v01'], 'known', 'không được nuốt mất vocab của bản cũ');
+  console.log('✓ doc cũ chưa có bucket star vẫn gộp được');
+}
+
+console.log('\n12/12 pass');

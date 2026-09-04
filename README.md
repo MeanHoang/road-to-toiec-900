@@ -180,6 +180,12 @@ days/<slug>/collections/<name>     one document per content file
 progress/<uid>/days/<slug>         per-user progress
 ```
 
+One progress document per day, one map per activity: `vocab`, `star`, `listen`, `trans`,
+`picture`, `dictation`, all keyed by item id. `star` is deliberately separate from `vocab`
+rather than a third status value — a word marked `known` disappears from the flashcard deck,
+but "I remember the meaning and still misread the spelling" is a different problem, and the
+vocabulary table filters on it independently of whether the word is known.
+
 Two Firestore constraints shaped the schema: documents are capped at 1 MB (content files are
 far below that), and **arrays cannot be nested**, which is why paired data is stored as
 `[{ left, right }]` rather than `[[left, right]]`.

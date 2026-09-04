@@ -2,18 +2,21 @@
 
 import { use, useMemo, useState } from 'react';
 import { useProgress } from '@/lib/progress';
-import { Badge, Button, Input } from '@/components/primitives';
+import { Badge, Button, Input, StarToggle } from '@/components/primitives';
 import { TopBar, PageHeader, Speak, CopyUnknown } from '@/components/patterns';
 import { DayGate } from '@/components/DayGate';
 
+// 'star' nằm ngoài trục chưa học / đã biết, cố ý: từ gắn sao thường CHÍNH LÀ từ
+// đã đánh dấu "đã biết" — nhớ nghĩa rồi nhưng nhìn mặt chữ vẫn ngờ ngợ.
 const FILTERS = [
   { key: 'all', label: 'Tất cả' },
   { key: 'unknown', label: 'Chưa học' },
   { key: 'known', label: 'Đã biết' },
+  { key: 'star', label: '★ Gắn sao' },
 ];
 
 function VocabTableScreen({ slug, day }) {
-  const { day: state, ready, setVocab } = useProgress(slug);
+  const { day: state, ready, setVocab, setStar } = useProgress(slug);
   const [query, setQuery] = useState('');
   const [filter, setFilter] = useState('all');
 
@@ -21,7 +24,9 @@ function VocabTableScreen({ slug, day }) {
     const needle = query.trim().toLowerCase();
     return day.vocabulary.filter((v) => {
       const status = state.vocab[v.id] === 'known' ? 'known' : 'unknown';
-      if (filter !== 'all' && filter !== status) return false;
+      if (filter === 'star') {
+        if (!state.star[v.id]) return false;
+      } else if (filter !== 'all' && filter !== status) return false;
       if (!needle) return true;
       return (
         v.word.toLowerCase().includes(needle) ||
@@ -30,7 +35,12 @@ function VocabTableScreen({ slug, day }) {
         (v.ipa.us || '').includes(needle)
       );
     });
-  }, [day.vocabulary, state.vocab, query, filter]);
+  }, [day.vocabulary, state.vocab, state.star, query, filter]);
+
+  const starCount = useMemo(
+    () => day.vocabulary.filter((v) => ready && state.star[v.id]).length,
+    [day.vocabulary, state.star, ready],
+  );
 
   return (
     <>
@@ -73,7 +83,7 @@ function VocabTableScreen({ slug, day }) {
             variant={filter === f.key ? 'primary' : 'quiet'}
             onClick={() => setFilter(f.key)}
           >
-            {f.label}
+            {f.key === 'star' && starCount ? `${f.label} (${starCount})` : f.label}
           </Button>
         ))}
       </div>
@@ -82,6 +92,11 @@ function VocabTableScreen({ slug, day }) {
         <table>
           <thead>
             <tr>
+              <th className="col-star">
+                <span aria-label="Gắn sao" title="Gắn sao">
+                  ★
+                </span>
+              </th>
               <th>#</th>
               <th>Từ</th>
               <th>UK</th>
@@ -94,8 +109,16 @@ function VocabTableScreen({ slug, day }) {
           <tbody>
             {rows.map((v) => {
               const known = ready && state.vocab[v.id] === 'known';
+              const starred = ready && Boolean(state.star[v.id]);
               return (
-                <tr key={v.id}>
+                <tr key={v.id} className={starred ? 'is-starred' : ''}>
+                  <td className="col-star">
+                    <StarToggle
+                      on={starred}
+                      onClick={() => setStar(v.id, !starred)}
+                      label={starred ? `Bỏ sao ${v.word}` : `Gắn sao ${v.word}`}
+                    />
+                  </td>
                   <td className="caption">{v.no}</td>
                   <td>
                     <strong>{v.word}</strong>
@@ -129,12 +152,16 @@ function VocabTableScreen({ slug, day }) {
 
       {rows.length === 0 && (
         <p className="section-lead" style={{ marginTop: 'var(--space-4)' }}>
-          Không có từ nào khớp.
+          {filter === 'star' && !starCount
+            ? 'Chưa gắn sao từ nào. Bấm ★ ở đây, hoặc bấm S khi đang học thẻ từ vựng.'
+            : 'Không có từ nào khớp.'}
         </p>
       )}
 
       <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
         Bấm vào nhãn trạng thái để đổi. Trả lời sai ở game cũng tự đẩy từ về &ldquo;chưa học&rdquo;.
+        Gắn ★ cho từ nhớ nghĩa rồi mà hay quên mặt chữ — sao không phụ thuộc trạng thái, từ
+        &ldquo;đã biết&rdquo; vẫn lọc lại được.
         Nghĩa tiếng Việt do AI bổ sung vì tài liệu gốc bỏ trống — sửa trong{' '}
         <code>content/{slug}/vocabulary.json</code> nếu thấy lệch.
       </p>
