@@ -479,6 +479,76 @@
   }
 }
 
+/* Thanh tài khoản: tiến độ đang nằm ở đâu, và đổi được chỗ đó. */
+.account {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  margin-bottom: var(--space-4);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+.account-mark,
+.account-avatar {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  border-radius: var(--radius-full);
+}
+.account-mark {
+  display: grid;
+  place-items: center;
+  background: var(--surface-sunken);
+  color: var(--text-subtle);
+  font-weight: var(--weight-bold);
+  font-size: var(--text-sm);
+}
+.account-mark.is-on {
+  background: var(--brand-surface);
+  color: var(--brand);
+}
+.account-avatar {
+  object-fit: cover;
+  border: 1px solid var(--border);
+}
+.account-who {
+  min-width: 0;
+  flex: 1;
+}
+.account-who b {
+  display: block;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  line-height: var(--leading-snug);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.account-who span {
+  display: block;
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  line-height: var(--leading-snug);
+}
+.account-action {
+  flex: none;
+}
+@media (max-width: 640px) {
+  .account {
+    flex-wrap: wrap;
+  }
+  .account-action {
+    width: 100%;
+  }
+  .account-action .btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
 /* ------------------------------------------------------------- flashcard */
 .flashcard-stage {
   display: grid;

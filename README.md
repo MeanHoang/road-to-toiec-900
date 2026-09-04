@@ -53,6 +53,19 @@ changes, so it is committed to the repo and mirrored to Firestore. Progress chan
 few seconds and belongs to one person, so it lives in `localStorage` (written instantly,
 works offline) and syncs to Firestore in the background.
 
+**Progress follows the account, not the browser.** A visitor is signed in anonymously so they
+can start studying without an account, but an anonymous uid is stored per browser profile and
+per origin — so `localhost:3000`, the deployed site, a second Chrome profile and a second
+machine are four different learners. Signing in with Google fixes that. When the anonymous
+session is the account's first, `linkWithPopup` upgrades it in place and the uid is unchanged,
+so the progress document carries over untouched. When the Google account already has a uid
+(a second device), the uid changes and `mergeLocalIntoAccount` merges what is on this machine
+into the account instead of dropping it.
+
+Two progress documents are merged per id, never document-wide — see `lib/merge.js`, tested by
+`npm run test:merge`. Document-wide last-write-wins meant studying on a laptop and then opening
+a desktop that had an older copy silently destroyed the laptop's work.
+
 ## Getting started
 
 Requirements: Node 20+, and for the import pipeline `poppler`, `ffmpeg` and `whisper-cpp`.
@@ -65,6 +78,12 @@ npm run dev
 
 `.env.local` is optional. With no Firebase configuration the app falls back to the JSON
 bundled in the repo and stores progress in `localStorage` only — useful for local work.
+
+Two switches in Firebase Console → Authentication → Sign-in method have to be on: **Anonymous**,
+so a visitor can study without an account, and **Google**, so progress can follow a person
+across devices. Google cannot be enabled from the Admin SDK — it needs an OAuth client, which
+the Console creates for you when you toggle it. Add every domain you serve from to
+Authentication → Settings → Authorized domains; `localhost` is there by default.
 
 For the import and transcription scripts:
 
@@ -88,6 +107,7 @@ Project settings → Service accounts → Generate new private key, saved as
 | `npm run import <drive-url>` | Crawl a Drive folder, download audio, extract images and text |
 | `npm run transcribe <day>` | Transcribe every audio clip with whisper.cpp |
 | `npm run validate [day]` | Check content files for structural errors and unreviewed fields |
+| `npm run test:merge` | Check the progress merge rules in `lib/merge.js` |
 | `npm run push-content [day]` | Upload `content/<day>/*.json` to Firestore (`--dry` to preview) |
 
 `npm run validate` is the important one. It catches duplicate ids, asset paths pointing at
@@ -103,10 +123,12 @@ components/
   primitives/           Button, Badge, Card, Progress, Input … — know nothing about TOEIC
   patterns/             TopBar, NavCard, AudioPlayer, Speak … — know about lessons
 lib/
-  firebase.js           client init + anonymous auth
+  firebase.js           client init, anonymous + Google auth
   content.js            fetch lessons from Firestore, fall back to bundled JSON
   days.js               bundled fallback content and shared helpers
-  progress.js           localStorage + Firestore sync
+  progress.js           the useProgress hook — reads local, merges cloud, syncs back
+  store.js              localStorage helpers + pushing local progress into an account
+  merge.js              how two copies of one day are merged (no imports, so node can test it)
 content/<day>/*.json    lesson content
 public/assets/<day>/    images and audio
 scripts/                import, transcribe, validate, push

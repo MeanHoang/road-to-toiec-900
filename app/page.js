@@ -5,6 +5,7 @@ import { useDayList } from '@/components/DayProvider';
 import { useProgress, summarize } from '@/lib/progress';
 import { Callout } from '@/components/primitives';
 import { NavCard } from '@/components/patterns';
+import { AccountBar } from '@/components/AccountBar';
 
 function DayRow({ day }) {
   const { day: state, ready } = useProgress(day.slug);
@@ -49,6 +50,8 @@ export default function Home() {
         </div>
       </div>
 
+      <AccountBar />
+
       <div className="stack">
         {loading && <p className="section-lead">Đang tải danh sách buổi học…</p>}
         {days.map((d) => (
@@ -64,8 +67,8 @@ export default function Home() {
       </div>
 
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Toàn bộ nội dung là file tĩnh trong repo. Tiến độ học lưu ngay trên máy bạn, không gửi đi
-        đâu cả.
+        Toàn bộ nội dung là file tĩnh trong repo. Tiến độ học luôn lưu trước ở máy bạn nên mất mạng
+        vẫn học được; đăng nhập Google thì được đồng bộ thêm lên tài khoản để đổi máy vẫn học tiếp.
       </Callout>
     </>
   );

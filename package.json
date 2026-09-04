@@ -9,6 +9,7 @@
     "start": "next start",
     "import": "node scripts/import-day.mjs",
     "validate": "node scripts/validate-content.mjs",
+    "test:merge": "node scripts/test-merge.mjs",
     "transcribe": "WHISPER_MODEL=.cache/models/ggml-small.en.bin node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs"
   },
