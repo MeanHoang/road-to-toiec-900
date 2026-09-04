@@ -24,7 +24,17 @@ public/assets/*/extra/
 .idea/
 
 # Biến môi trường thật — không commit
-.env.local
+
+# --- Bí mật: chặn theo MẪU, không chặn theo tên cụ thể ---
+# Chặn cả biến thể (.env, .env.production.local...) để sau này thêm file mới
+# vẫn tự động an toàn, không phải nhớ cập nhật danh sách.
+.env
+.env.*
+!.env.example
+*serviceAccount*.json
+*firebase-adminsdk*.json
+*-key.json
+*.pem
 
 # File trung gian của importer — chứa link Drive gốc và text thô, không cần cho app
 content/*.raw.json
