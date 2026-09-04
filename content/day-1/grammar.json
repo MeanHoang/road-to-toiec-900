@@ -1,0 +1,104 @@
+{
+  "collection": "grammar",
+  "day": "day-1",
+  "title": "Grammar corner",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-g1",
+      "voice": "active",
+      "name": "Thì hiện tại tiếp diễn",
+      "nameVi": "đang …",
+      "formula": "S + is/are + V_ing + place",
+      "example": {
+        "en": "Some people are standing outside.",
+        "vi": "Một vài người đang đứng bên ngoài."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    },
+    {
+      "id": "d1-g2",
+      "voice": "active",
+      "name": "There is / are",
+      "nameVi": "Có một / Có những …",
+      "formula": "There is/are + Noun + place",
+      "example": {
+        "en": "There are trees along the path.",
+        "vi": "Có những cái cây dọc lối đi."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    },
+    {
+      "id": "d1-g3",
+      "voice": "active",
+      "name": "Thì hiện tại hoàn thành",
+      "nameVi": "đã …",
+      "formula": "S + have/has + P2 + place",
+      "example": {
+        "en": "The train has arrived at the station.",
+        "vi": "Đoàn tàu đã tới ga."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    },
+    {
+      "id": "d1-g4",
+      "voice": "passive",
+      "name": "Bị động hiện tại đơn",
+      "nameVi": "được / bị …",
+      "formula": "S + is/are + P2 + place",
+      "example": {
+        "en": "The table is placed in a corner of the room.",
+        "vi": "Cái bàn được đặt ở một góc phòng."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    },
+    {
+      "id": "d1-g5",
+      "voice": "passive",
+      "name": "Bị động hiện tại hoàn thành",
+      "nameVi": "đã được / đã bị …",
+      "formula": "S + have/has + been + P2 + place",
+      "example": {
+        "en": "The table has been placed in a corner of the room.",
+        "vi": "Cái bàn đã được đặt ở một góc phòng."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    },
+    {
+      "id": "d1-g6",
+      "voice": "passive",
+      "name": "Bị động hiện tại tiếp diễn",
+      "nameVi": "đang được / đang bị …",
+      "formula": "S + is/are + being + P2 + place",
+      "example": {
+        "en": "The table is being placed in a corner of the room.",
+        "vi": "Cái bàn đang được đặt ở một góc phòng."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "ai"
+      }
+    }
+  ]
+}

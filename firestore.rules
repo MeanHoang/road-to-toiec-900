@@ -1,0 +1,34 @@
+rules_version = '2';
+
+// Bảo mật nằm ở đây, không nằm ở apiKey — apiKey của Firebase vốn là public.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // NỘI DUNG BÀI HỌC — ai mở app cũng đọc được, KHÔNG ai ghi được từ trình duyệt.
+    // Chỉ script push-content dùng service account (Admin SDK) mới ghi được;
+    // Admin SDK đi vòng qua rules nên không cần khai gì thêm ở đây.
+    //
+    // Lưu ý: tài liệu là của trung tâm. Rule đọc mở nghĩa là ai có URL app đều
+    // đọc được nội dung. Muốn kín thì đổi thành `allow read: if request.auth != null`
+    // và bỏ anonymous auth, bắt đăng nhập bằng Google.
+    match /meta/{doc} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /days/{slug} {
+      allow read: if true;
+      allow write: if false;
+
+      match /collections/{name} {
+        allow read: if true;
+        allow write: if false;
+      }
+    }
+
+    // TIẾN ĐỘ HỌC — chỉ chính chủ uid đó đọc và ghi được.
+    // Người khác biết uid của bạn cũng không đọc được, vì phải đăng nhập đúng uid đó.
+    match /progress/{uid}/days/{slug} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}

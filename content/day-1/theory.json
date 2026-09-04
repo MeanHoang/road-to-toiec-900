@@ -1,0 +1,181 @@
+{
+  "collection": "theory",
+  "day": "day-1",
+  "title": "Lý thuyết tả tranh",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-t-aspects",
+      "type": "aspects",
+      "title": "Bốn yếu tố khi tả tranh người",
+      "items": [
+        {
+          "id": "d1-t-aspect-subject",
+          "title": "Chủ thể",
+          "en": "subject",
+          "lines": [
+            "Tranh 1 người: he/she, a person/man/woman, hoặc danh từ chỉ người — a pedestrian, a worker, a customer…",
+            "Tranh nhiều người: They, Some people/men/women/passengers/children/shoppers…",
+            "Chỉ một nhóm cụ thể trong tranh: One of / Two of / Some of the people…"
+          ]
+        },
+        {
+          "id": "d1-t-aspect-action",
+          "title": "Hành động",
+          "en": "action",
+          "lines": [
+            "Dùng nhiều nhất: S + is/are + V_ing + place (hiện tại tiếp diễn, chủ động).",
+            "Ngoài ra: hiện tại đơn S + is/are + place.",
+            "Và: There + is/are + N + place."
+          ]
+        },
+        {
+          "id": "d1-t-aspect-location",
+          "title": "Vị trí",
+          "en": "location",
+          "lines": [
+            "Giới từ, trạng từ chỉ vị trí và danh từ chỉ địa điểm — xem bảng bên dưới."
+          ]
+        },
+        {
+          "id": "d1-t-aspect-clothing",
+          "title": "Trang phục",
+          "en": "clothing",
+          "lines": [
+            "Quần áo: shirt, jacket, coat, suit…  Mũ: hat, cap.  Giày: shoes, boots.",
+            "Phụ kiện: tie, glasses, scarf, headphones…",
+            "Động từ hay dùng: wear, put on, try on, take off."
+          ]
+        }
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d1-t-prep",
+      "type": "pairs",
+      "title": "Bảng giới từ chỉ vị trí",
+      "note": "PDF gốc là bảng ba cột. Xếp thành cặp đối lập cho dễ nhớ.",
+      "pairs": [
+        {
+          "left": "in front of",
+          "right": "behind"
+        },
+        {
+          "left": "above",
+          "right": "under"
+        },
+        {
+          "left": "inside · indoors",
+          "right": "outside · outdoors"
+        },
+        {
+          "left": "upstairs",
+          "right": "downstairs"
+        },
+        {
+          "left": "(walk) toward",
+          "right": "away from"
+        },
+        {
+          "left": "(get/turn) on",
+          "right": "off"
+        },
+        {
+          "left": "up",
+          "right": "down"
+        }
+      ],
+      "singles": [
+        "in",
+        "out",
+        "on",
+        "at",
+        "by",
+        "beside",
+        "next to",
+        "near",
+        "opposite",
+        "across from",
+        "between",
+        "among",
+        "along",
+        "around",
+        "into",
+        "onto"
+      ],
+      "source": {
+        "pairs": "pdf",
+        "grouping": "ai"
+      }
+    },
+    {
+      "id": "d1-t-places",
+      "type": "wordGroups",
+      "title": "Danh từ chỉ địa điểm",
+      "groups": {
+        "Địa điểm chung": [
+          "street",
+          "restaurant",
+          "park",
+          "supermarket",
+          "parking lot",
+          "train station",
+          "store",
+          "construction site",
+          "kitchen",
+          "grocery store"
+        ],
+        "Trong toà nhà": [
+          "lobby",
+          "waiting area",
+          "office",
+          "hall",
+          "stairway",
+          "warehouse",
+          "meeting room",
+          "conference room"
+        ],
+        "Trong phòng": [
+          "door",
+          "window",
+          "wall",
+          "table",
+          "desk",
+          "chair",
+          "board",
+          "counter",
+          "shelf",
+          "bookshelf"
+        ]
+      },
+      "source": "pdf"
+    },
+    {
+      "id": "d1-t-wear",
+      "type": "compare",
+      "title": "wear vs put on",
+      "note": "Phải có hành động \"put on\" xong mới có trạng thái \"wear\".",
+      "left": {
+        "word": "wear",
+        "gloss": "to have something on your body",
+        "vi": "Nhấn mạnh trạng thái đang mặc, đeo, đội sẵn trên người.",
+        "example": {
+          "en": "A woman is wearing a jacket.",
+          "vi": "Một người phụ nữ đang mặc áo khoác."
+        },
+        "image": "/assets/day-1/images/day-1/p03-1.jpg"
+      },
+      "right": {
+        "word": "put on",
+        "gloss": "to move something you wear onto your body",
+        "vi": "Nhấn mạnh hành động chuẩn bị mặc, đeo, đội lên người.",
+        "example": {
+          "en": "A woman is putting on a jacket.",
+          "vi": "Một người phụ nữ đang mặc áo khoác lên."
+        },
+        "image": "/assets/day-1/images/day-1/p03-2.jpg"
+      },
+      "source": "pdf"
+    }
+  ]
+}

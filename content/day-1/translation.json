@@ -1,0 +1,230 @@
+{
+  "collection": "translation",
+  "day": "day-1",
+  "title": "Bài tập ngữ pháp — gạch S/V/O rồi dịch",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-tr01",
+      "no": 1,
+      "tokens": [
+        "The whole company",
+        "is planning",
+        "to go on vacation",
+        "next Friday"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Cả công ty đang dự định đi nghỉ mát vào thứ Sáu tới.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr02",
+      "no": 2,
+      "tokens": [
+        "The president",
+        "was",
+        "late",
+        "for her physical examination"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Vị chủ tịch đã tới muộn buổi khám sức khoẻ.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr03",
+      "no": 3,
+      "tokens": [
+        "We",
+        "would like to read",
+        "the book's reviews"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Chúng tôi muốn đọc các bài đánh giá về cuốn sách.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr04",
+      "no": 4,
+      "tokens": [
+        "Alice",
+        "assisted",
+        "me",
+        "in developing public speaking skills"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Alice đã giúp tôi phát triển kỹ năng nói trước đám đông.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr05",
+      "no": 5,
+      "tokens": [
+        "The employees",
+        "have to deal with",
+        "the problems"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Các nhân viên phải xử lý những vấn đề đó.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr06",
+      "no": 6,
+      "tokens": [
+        "Nurses",
+        "must check on",
+        "the patients",
+        "frequently"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Y tá phải kiểm tra bệnh nhân thường xuyên.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr07",
+      "no": 7,
+      "tokens": [
+        "Mr. Peter",
+        "is",
+        "the department head",
+        ". He",
+        "is announcing",
+        "the new office procedures",
+        "to the team"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Ông Peter là trưởng bộ phận. Ông ấy đang thông báo quy trình làm việc mới cho cả nhóm.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr08",
+      "no": 8,
+      "tokens": [
+        "Many subscribers",
+        "have renewed",
+        "their magazine subscription"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Nhiều người đăng ký đã gia hạn thuê bao tạp chí của họ.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr09",
+      "no": 9,
+      "tokens": [
+        "The writer",
+        "received",
+        "the comments",
+        ", and he",
+        "will reply to",
+        "them"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Tác giả đã nhận được các bình luận, và anh ấy sẽ trả lời chúng.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d1-tr10",
+      "no": 10,
+      "tokens": [
+        "Mr. Vega and Mr. Rios",
+        "will try their best to meet",
+        "his demands"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Ông Vega và ông Rios sẽ cố gắng hết sức để đáp ứng các yêu cầu của ông ấy.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    }
+  ]
+}

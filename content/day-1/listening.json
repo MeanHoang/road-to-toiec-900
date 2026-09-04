@@ -1,0 +1,998 @@
+{
+  "collection": "listening",
+  "day": "day-1",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-p11",
+      "code": "p11",
+      "title": "Practice 1 — File 1.1",
+      "subtitle": "Nghe và chép lại câu tiếng Anh mô tả bức tranh",
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d1-p11-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/1.mp3",
+          "image": "/assets/day-1/images/day-1/p04-1.jpg",
+          "answer": null,
+          "transcript": "Unit 1 He's typing on the keyboard. He's sitting at his desk. He's wearing a long-sleeved shirt.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            }
+          ]
+        },
+        {
+          "id": "d1-p11-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/2.mp3",
+          "image": "/assets/day-1/images/day-1/p04-2.jpg",
+          "answer": null,
+          "transcript": "She's doing some paperwork. She's holding a pen in her hand. She's writing on a document.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "She's"
+            },
+            {
+              "prefix": "She's"
+            },
+            {
+              "prefix": "She's"
+            }
+          ]
+        },
+        {
+          "id": "d1-p11-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/3.mp3",
+          "image": "/assets/day-1/images/day-1/p04-3.jpg",
+          "answer": null,
+          "transcript": "A woman is using a copier. A woman is copying a document. A woman is pushing a button on a copier.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A woman"
+            },
+            {
+              "prefix": "A woman"
+            },
+            {
+              "prefix": "A woman"
+            }
+          ]
+        },
+        {
+          "id": "d1-p11-04",
+          "no": 4,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/4.mp3",
+          "image": "/assets/day-1/images/day-1/p05-1.jpg",
+          "answer": null,
+          "transcript": "He's reading a newspaper. He's relaxing outdoors. He's wearing glasses.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            }
+          ]
+        },
+        {
+          "id": "d1-p11-05",
+          "no": 5,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/5.mp3",
+          "image": "/assets/day-1/images/day-1/p05-2.jpg",
+          "answer": null,
+          "transcript": "She's looking into a microscope. She's adjusting an instrument. She's working with some laboratory equipment.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "She's"
+            },
+            {
+              "prefix": "She's"
+            },
+            {
+              "prefix": "She's"
+            }
+          ]
+        },
+        {
+          "id": "d1-p11-06",
+          "no": 6,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-1/6.mp3",
+          "image": "/assets/day-1/images/day-1/p05-3.jpg",
+          "answer": null,
+          "transcript": "He's working on an assembly line. He's looking at the machine. He's wearing gloves.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            },
+            {
+              "prefix": "He's"
+            }
+          ]
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d1-p12",
+      "code": "p12",
+      "title": "Practice 1 — File 1.2",
+      "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
+      "mode": "choice",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d1-p12-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/1.mp3",
+          "image": "/assets/day-1/images/day-1/p06-1.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "She's opening up a bag.",
+            "B": "She's lying on the grass.",
+            "C": "She's folding up a book.",
+            "D": "She's reading outdoors."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-p12-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/2.mp3",
+          "image": "/assets/day-1/images/day-1/p06-2.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "She's using a pen.",
+            "B": "She's reading a book.",
+            "C": "She's putting on her jacket.",
+            "D": "typing at the keyboard."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-p12-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/3.mp3",
+          "image": "/assets/day-1/images/day-1/p06-3.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "She's sitting at the computer.",
+            "B": "She's opening the office door.",
+            "C": "She's standing behind the desk.",
+            "D": "She's sorting out some papers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d1-p21",
+      "code": "p21",
+      "title": "Practice 2 — File 2.1",
+      "subtitle": "Nghe và chép lại câu tiếng Anh mô tả bức tranh",
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d1-p21-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 1.mp3",
+          "image": "/assets/day-1/images/day-1/p07-1.jpg",
+          "answer": null,
+          "transcript": "Unit 2 Two men are having a conversation. Two men are facing each other. Two men are gesturing as they speak.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "Two men"
+            },
+            {
+              "prefix": "Two men"
+            },
+            {
+              "prefix": "Two men",
+              "suffix": "as they speak."
+            }
+          ]
+        },
+        {
+          "id": "d1-p21-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 2.mp3",
+          "image": "/assets/day-1/images/day-1/p07-2.jpg",
+          "answer": null,
+          "transcript": "The women are walking side by side. Some women are strolling along a path. One of the women is holding some books.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "The women"
+            },
+            {
+              "prefix": "Some women"
+            },
+            {
+              "prefix": "One of the women"
+            }
+          ]
+        },
+        {
+          "id": "d1-p21-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 3.mp3",
+          "image": "/assets/day-1/images/day-1/p07-3.jpg",
+          "answer": null,
+          "transcript": "A man is giving a presentation. A man is pointing to a picture. Some people are listening to a speaker.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A man"
+            },
+            {
+              "prefix": "A man"
+            },
+            {
+              "prefix": "Some people"
+            }
+          ]
+        },
+        {
+          "id": "d1-p21-04",
+          "no": 4,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 4.mp3",
+          "image": "/assets/day-1/images/day-1/p07-4.jpg",
+          "answer": null,
+          "transcript": "Many passengers are standing in line outside. Some people are waiting to get on a bus. One man is collecting tickets.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "Many passengers"
+            },
+            {
+              "prefix": "Some people"
+            },
+            {
+              "prefix": "One man"
+            }
+          ]
+        },
+        {
+          "id": "d1-p21-05",
+          "no": 5,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 5.mp3",
+          "image": "/assets/day-1/images/day-1/p08-1.jpg",
+          "answer": null,
+          "transcript": "One of the men is playing an instrument. The men are enjoying some music. One of the men is wearing glasses.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "One of the men"
+            },
+            {
+              "prefix": "The men"
+            },
+            {
+              "prefix": "One of the men"
+            }
+          ]
+        },
+        {
+          "id": "d1-p21-06",
+          "no": 6,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-1/Audio 6.mp3",
+          "image": "/assets/day-1/images/day-1/p08-2.jpg",
+          "answer": null,
+          "transcript": "The waitress is serving food. One of the women is standing near a table. One of the women is wearing a uniform.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "The waitress"
+            },
+            {
+              "prefix": "One of the women"
+            },
+            {
+              "prefix": "One of the women"
+            }
+          ]
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d1-p22",
+      "code": "p22",
+      "title": "Practice 2 — File 2.2",
+      "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
+      "mode": "choice",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d1-p22-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 1.mp3",
+          "image": "/assets/day-1/images/day-1/p08-3.jpg",
+          "answer": null,
+          "transcript": "Some people are waiting to get on the bus.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "image": "pdf",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d1-p22-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 2.mp3",
+          "image": "/assets/day-1/images/day-1/p08-3.jpg",
+          "answer": null,
+          "transcript": "The men are walking in the same direction.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "image": "pdf",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d1-p22-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 3.mp3",
+          "image": "/assets/day-1/images/day-1/p09-1.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "The people are sitting at a round table.",
+            "B": "One man is facing a group of people."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-p22-04",
+          "no": 4,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 4.mp3",
+          "image": "/assets/day-1/images/day-1/p09-2.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "Some people are moving the furniture.",
+            "B": "A man is giving a presentation."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-p22-05",
+          "no": 5,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 5.mp3",
+          "image": "/assets/day-1/images/day-1/p09-3.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "They're working on a plane.",
+            "B": "They're having a conversation.",
+            "C": "They're holding microphones.",
+            "D": "They're cleaning the table."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-p22-06",
+          "no": 6,
+          "audio": "/assets/day-1/audio/1-practice-part-1-practice-2-file-2-2/Audio 6.mp3",
+          "image": "/assets/day-1/images/day-1/p09-4.jpg",
+          "answer": null,
+          "lines": null,
+          "transcript": {
+            "A": "They're picking up their guitars.",
+            "B": "They're clapping to the music.",
+            "C": "They're playing the same kind of instrument.",
+            "D": "They're dancing in a circle."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d1-hw1",
+      "code": "hw1",
+      "title": "Homework 1",
+      "subtitle": "10 câu · có đáp án chính thức",
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-1/audio/2-homework-homework-1/0 - Full.mp3",
+      "questions": [
+        {
+          "id": "d1-hw1-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/1.mp3",
+          "image": "/assets/day-1/images/day-1/p10-1.jpg",
+          "answer": "C",
+          "lines": null,
+          "transcript": {
+            "A": "She's cooking a meal.",
+            "B": "She's walking around a farm.",
+            "C": "She's shopping for food.",
+            "D": "She's eating a salad."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/2.mp3",
+          "image": "/assets/day-1/images/day-1/p10-2.jpg",
+          "answer": "D",
+          "lines": null,
+          "transcript": {
+            "A": "They're talking on the phone.",
+            "B": "They're moving some furniture.",
+            "C": "They're reading some books.",
+            "D": "They're standing by a table. Go on to the next page. you"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/3.mp3",
+          "image": "/assets/day-1/images/day-1/p11-1.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "He's climbing into a truck.",
+            "B": "He's entering a store.",
+            "C": "He's getting on a train.",
+            "D": "He's locking up a drawer."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-04",
+          "no": 4,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/4.mp3",
+          "image": "/assets/day-1/images/day-1/p11-2.jpg",
+          "answer": "D",
+          "lines": null,
+          "transcript": {
+            "A": "She's opening a box.",
+            "B": "She's putting on boots.",
+            "C": "She's folding some paper.",
+            "D": "She's holding a book."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-05",
+          "no": 5,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/5.mp3",
+          "image": "/assets/day-1/images/day-1/p12-1.jpg",
+          "answer": "C",
+          "lines": null,
+          "transcript": {
+            "A": "They're meeting in a restaurant.",
+            "B": "They're looking at the computer.",
+            "C": "They're examining a document.",
+            "D": "They're filing some forms."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-06",
+          "no": 6,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/6.mp3",
+          "image": "/assets/day-1/images/day-1/p12-2.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "The man is pushing a cart.",
+            "B": "The man is taking a break.",
+            "C": "The man is leaving the store.",
+            "D": "The man is closing the door. Go on to the next page. you"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-07",
+          "no": 7,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/7.mp3",
+          "image": "/assets/day-1/images/day-1/p13-1.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "Some people are sitting outside.",
+            "B": "Some people are watching a movie.",
+            "C": "Some people are cutting the grass.",
+            "D": "Some people are planting trees."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-08",
+          "no": 8,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/8.mp3",
+          "image": "/assets/day-1/images/day-1/p13-2.jpg",
+          "answer": "B",
+          "lines": null,
+          "transcript": {
+            "A": "The men are adjusting microphones.",
+            "B": "The men are playing music together.",
+            "C": "The men are listening to a lecture.",
+            "D": "The men are working in the garden."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-09",
+          "no": 9,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/9.mp3",
+          "image": "/assets/day-1/images/day-1/p14-1.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "There are pictures on the wall.",
+            "B": "The tables are covered with tablecloths.",
+            "C": "The chairs are being put away.",
+            "D": "The piano is being played."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw1-10",
+          "no": 10,
+          "audio": "/assets/day-1/audio/2-homework-homework-1/10.mp3",
+          "image": "/assets/day-1/images/day-1/p14-2.jpg",
+          "answer": "B",
+          "lines": null,
+          "transcript": {
+            "A": "The baskets are empty.",
+            "B": "There are baked goods on shelves.",
+            "C": "The cabinets are being repaired.",
+            "D": "They're buying some bread."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d1-hw2",
+      "code": "hw2",
+      "title": "Homework 2",
+      "subtitle": "10 câu · có đáp án chính thức",
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-1/audio/2-homework-homework-2/0 - Full.mp3",
+      "questions": [
+        {
+          "id": "d1-hw2-01",
+          "no": 1,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/1.mp3",
+          "image": "/assets/day-1/images/day-1/p16-1.jpg",
+          "answer": "C",
+          "lines": null,
+          "transcript": {
+            "A": "He's walking around the office.",
+            "B": "He's putting on his jacket.",
+            "C": "He's working at his desk.",
+            "D": "He's picking up a cup."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-02",
+          "no": 2,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/2.mp3",
+          "image": "/assets/day-1/images/day-1/p16-2.jpg",
+          "answer": "C",
+          "lines": null,
+          "transcript": {
+            "A": "The bicycles are lying on the ground.",
+            "B": "The people are driving their cars down the road.",
+            "C": "The bicycles are parked in front of the buildings.",
+            "D": "The people are riding their bicycles along the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-03",
+          "no": 3,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/3.mp3",
+          "image": "/assets/day-1/images/day-1/p17-1.jpg",
+          "answer": "B",
+          "lines": null,
+          "transcript": {
+            "A": "The man is moving some chairs.",
+            "B": "The people are eating in a restaurant.",
+            "C": "The waiter is serving some sandwiches.",
+            "D": "The woman is ordering her meal."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-04",
+          "no": 4,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/4.mp3",
+          "image": "/assets/day-1/images/day-1/p17-2.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "The stairs have been carpeted.",
+            "B": "The woman is going upstairs.",
+            "C": "The railing has been removed.",
+            "D": "The window is being cleaned."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-05",
+          "no": 5,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/5.mp3",
+          "image": "/assets/day-1/images/day-1/p18-1.jpg",
+          "answer": "D",
+          "lines": null,
+          "transcript": {
+            "A": "The swimmers are in the water.",
+            "B": "The boats are out to sea.",
+            "C": "The pedestrians are crossing the bridge.",
+            "D": "Some people are standing on the shore."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-06",
+          "no": 6,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/6.mp3",
+          "image": "/assets/day-1/images/day-1/p18-2.jpg",
+          "answer": "B",
+          "lines": null,
+          "transcript": {
+            "A": "They're setting the table for a meal.",
+            "B": "They're concentrating on some documents.",
+            "C": "They're taking off their glasses.",
+            "D": "They're taking their seats for a meeting."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-07",
+          "no": 7,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/7.mp3",
+          "image": "/assets/day-1/images/day-1/p19-1.jpg",
+          "answer": "A",
+          "lines": null,
+          "transcript": {
+            "A": "The books have been arranged in piles.",
+            "B": "The bookshelves have fallen over.",
+            "C": "The cart has been turned on its side.",
+            "D": "The files have been stacked on the bookshelf."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-08",
+          "no": 8,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/8.mp3",
+          "image": "/assets/day-1/images/day-1/p19-2.jpg",
+          "answer": "B",
+          "lines": null,
+          "transcript": {
+            "A": "The shopkeeper is lining up some goods for sale.",
+            "B": "The man is holding some reading material.",
+            "C": "The shopper is picking out clothes from the rack.",
+            "D": "The man is folding the merchandise on the table."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-09",
+          "no": 9,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/9.mp3",
+          "image": "/assets/day-1/images/day-1/p20-1.jpg",
+          "answer": "C",
+          "lines": null,
+          "transcript": {
+            "A": "The man is building a brick wall.",
+            "B": "The man is taking off his cap.",
+            "C": "Some weeds are growing next to a wall.",
+            "D": "Some trees are being planted in pots."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d1-hw2-10",
+          "no": 10,
+          "audio": "/assets/day-1/audio/2-homework-homework-2/10.mp3",
+          "image": "/assets/day-1/images/day-1/p20-2.jpg",
+          "answer": "D",
+          "lines": null,
+          "transcript": {
+            "A": "The pins have been pressed into the board.",
+            "B": "The cups have been left to dry.",
+            "C": "The closet is full of boxes.",
+            "D": "Pencils have been arranged in containers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+{
+  "collection": "vocabulary",
+  "day": "day-1",
+  "title": "Từ vựng",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-v01",
+      "no": 1,
+      "word": "type",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/taɪp/",
+        "us": "/taɪp/"
+      },
+      "meaningVi": "đánh máy; loại, kiểu",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v02",
+      "no": 2,
+      "word": "keyboard",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkiːbɔːd/",
+        "us": "/ˈkiːbɔːrd/"
+      },
+      "meaningVi": "bàn phím",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v03",
+      "no": 3,
+      "word": "long-sleeved",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌlɒŋˈsliːvd/",
+        "us": "/ˌlɑːŋˈsliːvd/"
+      },
+      "meaningVi": "tay dài (áo)",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v04",
+      "no": 4,
+      "word": "paperwork",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpeɪpəwɜːk/",
+        "us": "/ˈpeɪpərwɜːrk/"
+      },
+      "meaningVi": "giấy tờ, thủ tục giấy tờ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v05",
+      "no": 5,
+      "word": "document",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdɒkjumənt/",
+        "us": "/ˈdɑːkjumənt/"
+      },
+      "meaningVi": "tài liệu, văn bản",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v06",
+      "no": 6,
+      "word": "copier",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒpiə(r)/",
+        "us": "/ˈkɑːpiər/"
+      },
+      "meaningVi": "máy photocopy",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v07",
+      "no": 7,
+      "word": "copy",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/ˈkɒpi/",
+        "us": "/ˈkɑːpi/"
+      },
+      "meaningVi": "sao chép; bản sao",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v08",
+      "no": 8,
+      "word": "push",
+      "pos": "v",
+      "ipa": {
+        "uk": "/pʊʃ/",
+        "us": "/pʊʃ/"
+      },
+      "meaningVi": "đẩy, ấn, bấm",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v09",
+      "no": 9,
+      "word": "button",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbʌtn/",
+        "us": "/ˈbʌtn/"
+      },
+      "meaningVi": "nút bấm; cúc áo",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v10",
+      "no": 10,
+      "word": "newspaper",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈnjuːzpeɪpə(r)/",
+        "us": "/ˈnuːzpeɪpər/"
+      },
+      "meaningVi": "tờ báo",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v11",
+      "no": 11,
+      "word": "relax",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈlæks/",
+        "us": "/rɪˈlæks/"
+      },
+      "meaningVi": "thư giãn, nghỉ ngơi",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v12",
+      "no": 12,
+      "word": "microscope",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmaɪkrəskəʊp/",
+        "us": "/ˈmaɪkrəskəʊp/"
+      },
+      "meaningVi": "kính hiển vi",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v13",
+      "no": 13,
+      "word": "adjust",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈdʒʌst/",
+        "us": "/əˈdʒʌst/"
+      },
+      "meaningVi": "điều chỉnh",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v14",
+      "no": 14,
+      "word": "instrument",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɪnstrəmənt/",
+        "us": "/ˈɪnstrəmənt/"
+      },
+      "meaningVi": "dụng cụ; nhạc cụ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v15",
+      "no": 15,
+      "word": "laboratory = lab",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ləˈbɒrətri/",
+        "us": "/ˈlæbrətɔːri/"
+      },
+      "meaningVi": "phòng thí nghiệm",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v16",
+      "no": 16,
+      "word": "equipment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪˈkwɪpmənt/",
+        "us": "/ɪˈkwɪpmənt/"
+      },
+      "meaningVi": "thiết bị",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v17",
+      "no": 17,
+      "word": "assembly line",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈsembli laɪn/",
+        "us": "/əˈsembli laɪn/"
+      },
+      "meaningVi": "dây chuyền lắp ráp",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v18",
+      "no": 18,
+      "word": "machine",
+      "pos": "n",
+      "ipa": {
+        "uk": "/məˈʃiːn/",
+        "us": "/məˈʃiːn/"
+      },
+      "meaningVi": "máy móc",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v19",
+      "no": 19,
+      "word": "glove",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡlʌv/",
+        "us": "/ɡlʌv/"
+      },
+      "meaningVi": "găng tay",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v20",
+      "no": 20,
+      "word": "lie",
+      "pos": "v",
+      "ipa": {
+        "uk": "/laɪ/",
+        "us": "/laɪ/"
+      },
+      "meaningVi": "nằm; nói dối",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v21",
+      "no": 21,
+      "word": "grass",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡrɑːs/",
+        "us": "/ɡræs/"
+      },
+      "meaningVi": "cỏ, bãi cỏ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v22",
+      "no": 22,
+      "word": "fold",
+      "pos": "v",
+      "ipa": {
+        "uk": "/fəʊld/",
+        "us": "/fəʊld/"
+      },
+      "meaningVi": "gấp, xếp lại",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v23",
+      "no": 23,
+      "word": "jacket",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdʒækɪt/",
+        "us": "/ˈdʒækɪt/"
+      },
+      "meaningVi": "áo khoác",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v24",
+      "no": 24,
+      "word": "sort out",
+      "pos": "v",
+      "ipa": {
+        "uk": "/sɔːt/",
+        "us": "/sɔːrt/"
+      },
+      "meaningVi": "phân loại, sắp xếp",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v25",
+      "no": 25,
+      "word": "conversation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkɒnvəˈseɪʃn/",
+        "us": "/ˌkɑːnvərˈseɪʃn/"
+      },
+      "meaningVi": "cuộc trò chuyện",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v26",
+      "no": 26,
+      "word": "gesture",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈdʒestʃər/",
+        "us": "/ˈdʒestʃər/"
+      },
+      "meaningVi": "cử chỉ; ra hiệu bằng tay",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v27",
+      "no": 27,
+      "word": "side by side",
+      "pos": "adv",
+      "ipa": {
+        "uk": null,
+        "us": null
+      },
+      "meaningVi": "cạnh nhau, sát bên nhau",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v28",
+      "no": 28,
+      "word": "stroll",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/strəʊl/",
+        "us": "/strəʊl/"
+      },
+      "meaningVi": "đi dạo thong thả",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v29",
+      "no": 29,
+      "word": "presentation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌpreznˈteɪʃn/",
+        "us": "/ˌpriːznˈteɪʃn/"
+      },
+      "meaningVi": "bài thuyết trình",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v30",
+      "no": 30,
+      "word": "speaker",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈspiːkə(r)/",
+        "us": "/ˈspiːkər/"
+      },
+      "meaningVi": "người phát biểu; loa",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v31",
+      "no": 31,
+      "word": "passenger",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpæsɪndʒər/",
+        "us": "/ˈpæsɪndʒər/"
+      },
+      "meaningVi": "hành khách",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v32",
+      "no": 32,
+      "word": "stand in line = wait in line",
+      "pos": "v",
+      "ipa": {
+        "uk": "/laɪn/",
+        "us": "/laɪn/"
+      },
+      "meaningVi": "xếp hàng chờ",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v33",
+      "no": 33,
+      "word": "collect",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəˈlekt/",
+        "us": "/kəˈlekt/"
+      },
+      "meaningVi": "thu thập, gom lại",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v34",
+      "no": 34,
+      "word": "waitress",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈweɪtrəs/",
+        "us": "/ˈweɪtrəs/"
+      },
+      "meaningVi": "nữ phục vụ bàn",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v35",
+      "no": 35,
+      "word": "serve",
+      "pos": "v",
+      "ipa": {
+        "uk": "/sɜːv/",
+        "us": "/sɜːrv/"
+      },
+      "meaningVi": "phục vụ, bưng bê",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v36",
+      "no": 36,
+      "word": "uniform",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈjuːnɪfɔːm/",
+        "us": "/ˈjuːnɪfɔːrm/"
+      },
+      "meaningVi": "đồng phục",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v37",
+      "no": 37,
+      "word": "direction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dəˈrekʃn/ · /daɪˈrekʃn/",
+        "us": "/dəˈrekʃn/ · /daɪˈrekʃn/"
+      },
+      "meaningVi": "phương hướng; chỉ dẫn",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v38",
+      "no": 38,
+      "word": "round",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/raʊnd/",
+        "us": "/raʊnd/"
+      },
+      "meaningVi": "tròn; vòng, hiệp",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v39",
+      "no": 39,
+      "word": "furniture",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfɜːrnɪtʃər/",
+        "us": "/ˈfɜːrnɪtʃər/"
+      },
+      "meaningVi": "đồ nội thất",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v40",
+      "no": 40,
+      "word": "microphone",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmaɪkrəfəʊn/",
+        "us": "/ˈmaɪkrəfəʊn/"
+      },
+      "meaningVi": "micro",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v41",
+      "no": 41,
+      "word": "pick",
+      "pos": "v",
+      "ipa": {
+        "uk": "/pɪk/",
+        "us": "/pɪk/"
+      },
+      "meaningVi": "chọn; hái; gảy (đàn)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v42",
+      "no": 42,
+      "word": "guitar",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡɪˈtɑːr/",
+        "us": "/ɡɪˈtɑːr/"
+      },
+      "meaningVi": "đàn ghi-ta",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v43",
+      "no": 43,
+      "word": "clap",
+      "pos": "v",
+      "ipa": {
+        "uk": "/klæp/",
+        "us": "/klæp/"
+      },
+      "meaningVi": "vỗ tay",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v44",
+      "no": 44,
+      "word": "kind",
+      "pos": "n, adj",
+      "ipa": {
+        "uk": "/kaɪnd/",
+        "us": "/kaɪnd/"
+      },
+      "meaningVi": "loại, kiểu; tử tế",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v45",
+      "no": 45,
+      "word": "circle",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈsɜːkl/",
+        "us": "/ˈsɜːrkl/"
+      },
+      "meaningVi": "vòng tròn; vây quanh",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v46",
+      "no": 46,
+      "word": "refreshments",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈfreʃmənts/",
+        "us": "/rɪˈfreʃmənts/"
+      },
+      "meaningVi": "đồ ăn nhẹ và nước uống",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    }
+  ]
+}

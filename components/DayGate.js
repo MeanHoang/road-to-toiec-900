@@ -1,0 +1,44 @@
+'use client';
+
+// Chặn đầu mỗi màn con: chờ nội dung tải xong rồi mới render.
+// Gom vào một chỗ để 9 màn không phải lặp lại đoạn kiểm tra loading/không tìm thấy.
+
+import { useDay } from '@/components/DayProvider';
+import { Notice } from '@/components/primitives';
+import { TopBar } from '@/components/patterns';
+
+export function DayGate({ slug, crumbLabel, children }) {
+  const { day, loading, error } = useDay();
+
+  const crumbs = [
+    { label: 'Trang chủ', href: '/' },
+    ...(crumbLabel ? [{ label: day?.title || slug, href: `/day/${slug}` }] : []),
+    { label: crumbLabel || day?.title || slug },
+  ];
+
+  if (loading) {
+    return (
+      <>
+        <TopBar crumbs={crumbs} />
+        <div className="page-head">
+          <p className="section-lead">Đang tải nội dung buổi học…</p>
+        </div>
+      </>
+    );
+  }
+
+  if (error || !day) {
+    return (
+      <>
+        <TopBar crumbs={crumbs} />
+        <div className="page-head">
+          <Notice>
+            {error ? `Không tải được nội dung: ${error}` : `Không tìm thấy buổi học "${slug}".`}
+          </Notice>
+        </div>
+      </>
+    );
+  }
+
+  return children(day);
+}

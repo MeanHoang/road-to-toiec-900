@@ -1,0 +1,153 @@
+/* =============================================================================
+   BASE — reset nhẹ + typography nền
+   Chỉ dùng semantic token, không đụng vào giá trị thô.
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family:
+    ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif;
+  font-size: var(--text-base);
+  line-height: var(--leading-normal);
+  font-weight: var(--weight-normal);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+img,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+/* Focus phải nhìn thấy được — điều hướng bằng bàn phím là yêu cầu a11y,
+   không phải tuỳ chọn. Dùng :focus-visible để chuột không bị viền thừa. */
+:where(a, button, input, textarea, select, [tabindex]):focus-visible {
+  outline: none;
+  box-shadow: var(--ring);
+  border-radius: var(--radius-sm);
+}
+
+a {
+  color: var(--brand);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* --- tiêu đề: cỡ từ type scale, dòng chặt, chữ hơi khít --- */
+h1,
+h2,
+h3,
+h4 {
+  font-weight: var(--weight-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--text-3xl);
+}
+h2 {
+  font-size: var(--text-xl);
+}
+h3 {
+  font-size: var(--text-lg);
+}
+
+p {
+  text-wrap: pretty;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.9em;
+  background: var(--surface-sunken);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 1px 5px;
+}
+
+kbd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: var(--text-xs);
+  background: var(--surface-sunken);
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: var(--radius-sm);
+  padding: 1px 6px;
+  color: var(--text-muted);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: var(--space-5) 0;
+}
+
+::selection {
+  background: var(--brand-surface);
+}
+
+/* Người bật "giảm chuyển động" thì tắt hết animation. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* --- layout khung trang --- */
+.app-shell {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 var(--space-5) var(--space-9);
+}
+
+@media (max-width: 640px) {
+  .app-shell {
+    padding: 0 var(--space-4) var(--space-8);
+  }
+  h1 {
+    font-size: var(--text-2xl);
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

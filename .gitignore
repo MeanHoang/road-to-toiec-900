@@ -1,0 +1,30 @@
+node_modules/
+.next/
+.DS_Store
+.vercel
+*.log
+
+# --- Tài liệu nguồn: KHÔNG commit ---
+# .cache/ chứa PDF gốc tải từ Drive. Đây là tài liệu có bản quyền của trung tâm,
+# và app không cần tới nó lúc chạy — chỉ script import dùng.
+# Mất thì chạy lại `npm run import <link>` là có.
+.cache/
+*.pdf
+
+# Ảnh rời tải kèm từ Drive (bảng đáp án gốc...). Đáp án đã được chép vào
+# content/*/listening.json rồi nên app không cần ảnh này để chạy.
+public/assets/*/extra/
+
+# --- CÓ commit, vì deploy cần ---
+# content/**/*.json        nội dung bài học
+# public/assets/*/images/  ảnh đề bài đã bóc từ PDF
+# public/assets/*/audio/   file nghe
+
+# WebStorm
+.idea/
+
+# Biến môi trường thật — không commit
+.env.local
+
+# File trung gian của importer — chứa link Drive gốc và text thô, không cần cho app
+content/*.raw.json

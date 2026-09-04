@@ -1,0 +1,522 @@
+{
+  "collection": "pictures",
+  "day": "day-1",
+  "title": "Từ vựng qua hình",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d1-pic-clothes",
+      "title": "Types of clothes",
+      "icon": "👕",
+      "questions": [
+        {
+          "id": "d1-pic-clothes-01",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-1.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-02",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-2.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-03",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-3.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-04",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-4.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-05",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-5.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-06",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-6.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-07",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-7.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-08",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-8.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-09",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-9.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-10",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-10.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-11",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-11.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-12",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-12.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-13",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-13.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-14",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-14.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-15",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-15.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-16",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-16.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-17",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-17.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-clothes-18",
+          "image": "/assets/day-1/images/picture-for-part-1/p01-18.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        }
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d1-pic-positions",
+      "title": "Positions",
+      "icon": "📍",
+      "questions": [
+        {
+          "id": "d1-pic-positions-01",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-1.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-02",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-2.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-03",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-3.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-04",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-4.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-05",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-5.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-06",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-6.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-07",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-7.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-08",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-8.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-09",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-9.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-10",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-10.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-11",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-11.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-12",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-12.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-13",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-13.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-14",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-14.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-15",
+          "image": "/assets/day-1/images/picture-for-part-1/p02-15.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-16",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-1.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-17",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-2.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-18",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-3.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-19",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-4.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-20",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-5.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-21",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-6.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-22",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-7.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-positions-23",
+          "image": "/assets/day-1/images/picture-for-part-1/p03-8.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        }
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d1-pic-locations",
+      "title": "Locations",
+      "icon": "🏢",
+      "questions": [
+        {
+          "id": "d1-pic-locations-01",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-1.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-02",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-2.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-03",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-3.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-04",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-4.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-05",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-5.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-06",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-6.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-07",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-7.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        },
+        {
+          "id": "d1-pic-locations-08",
+          "image": "/assets/day-1/images/picture-for-part-1/p04-8.jpg",
+          "answer": null,
+          "accept": [],
+          "source": {
+            "image": "pdf",
+            "answer": null
+          }
+        }
+      ],
+      "source": "pdf"
+    }
+  ]
+}

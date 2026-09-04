@@ -1,0 +1,5 @@
+/* Điểm vào duy nhất của style. Thứ tự import là có chủ đích:
+   token → base → component. Component chỉ đọc token, không định nghĩa token. */
+@import '../styles/tokens.css';
+@import '../styles/base.css';
+@import '../styles/components.css';

@@ -1,0 +1,26 @@
+{
+  "name": "road-to-toeic-900",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "import": "node scripts/import-day.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "transcribe": "WHISPER_MODEL=.cache/models/ggml-small.en.bin node scripts/transcribe.mjs",
+    "push-content": "node scripts/push-content.mjs"
+  },
+  "dependencies": {
+    "firebase": "^12.18.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "firebase-admin": "^14.3.0",
+    "typescript": "5.8.2"
+  }
+}
