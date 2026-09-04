@@ -1048,6 +1048,116 @@
         "ipa": "ai",
         "meaningVi": "ai"
       }
+    },
+    {
+      "id": "d1-v56",
+      "no": 56,
+      "word": "announce",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈnaʊns/",
+        "us": "/əˈnaʊns/"
+      },
+      "meaningVi": "thông báo, công bố",
+      "image": null,
+      "example": {
+        "en": "He is announcing the new office procedures to the team."
+      },
+      "group": "Bài dịch",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "pdf"
+      }
+    },
+    {
+      "id": "d1-v57",
+      "no": 57,
+      "word": "procedure",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈsiːdʒə/",
+        "us": "/prəˈsiːdʒər/"
+      },
+      "meaningVi": "quy trình, thủ tục",
+      "image": null,
+      "example": {
+        "en": "He is announcing the new office procedures to the team."
+      },
+      "group": "Bài dịch",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "pdf"
+      }
+    },
+    {
+      "id": "d1-v58",
+      "no": 58,
+      "word": "demand",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/dɪˈmɑːnd/",
+        "us": "/dɪˈmænd/"
+      },
+      "meaningVi": "yêu cầu, đòi hỏi",
+      "image": null,
+      "example": {
+        "en": "Mr. Vega and Mr. Rios will try their best to meet his demands."
+      },
+      "group": "Bài dịch",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "pdf"
+      }
+    },
+    {
+      "id": "d1-v59",
+      "no": 59,
+      "word": "department head",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈpɑːtmənt hed/",
+        "us": "/dɪˈpɑːrtmənt hed/"
+      },
+      "meaningVi": "trưởng bộ phận, trưởng phòng",
+      "image": null,
+      "example": {
+        "en": "Mr. Peter is the department head."
+      },
+      "group": "Bài dịch",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "pdf"
+      }
+    },
+    {
+      "id": "d1-v60",
+      "no": 60,
+      "word": "physical examination",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌfɪzɪkl ɪɡˌzæmɪˈneɪʃn/",
+        "us": "/ˌfɪzɪkl ɪɡˌzæmɪˈneɪʃn/"
+      },
+      "meaningVi": "buổi khám sức khoẻ",
+      "image": null,
+      "example": {
+        "en": "The president was late for her physical examination."
+      },
+      "group": "Bài dịch",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "pdf"
+      }
     }
   ]
 }
