@@ -96,19 +96,24 @@ function CardsScreen({ slug, day }) {
               <div className="flashcard-face">
                 <Badge eyebrow>{card.group}</Badge>
                 <div className="word">{card.word}</div>
+                {/* Mỗi giọng một dòng, nhãn và phiên âm thẳng cột nhau. Trước đây
+                    cả bốn thứ nằm trong một flex-wrap nên khi hết chỗ nó ngắt bừa,
+                    nút loa Anh rơi xuống nằm cạnh phiên âm Mỹ. */}
                 <div className="ipa-row">
                   {card.ipa.uk && (
-                    <span>
-                      <span className="ipa-label">UK</span> <span className="ipa">{card.ipa.uk}</span>
-                    </span>
+                    <div className="ipa-line">
+                      <span className="ipa-label">UK</span>
+                      <span className="ipa">{card.ipa.uk}</span>
+                      <Speak text={card.word} lang="en-GB" label={`Đọc ${card.word} giọng Anh`} />
+                    </div>
                   )}
-                  <Speak text={card.word} lang="en-GB" label={`Đọc ${card.word} giọng Anh`} />
                   {card.ipa.us && (
-                    <span>
-                      <span className="ipa-label">US</span> <span className="ipa">{card.ipa.us}</span>
-                    </span>
+                    <div className="ipa-line">
+                      <span className="ipa-label">US</span>
+                      <span className="ipa">{card.ipa.us}</span>
+                      <Speak text={card.word} lang="en-US" label={`Đọc ${card.word} giọng Mỹ`} />
+                    </div>
                   )}
-                  <Speak text={card.word} lang="en-US" label={`Đọc ${card.word} giọng Mỹ`} />
                 </div>
                 <div className="hint">tự nhớ nghĩa trước · bấm để lật</div>
               </div>

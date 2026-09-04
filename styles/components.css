@@ -542,12 +542,28 @@
   font-size: var(--text-xs);
   color: var(--text-subtle);
 }
+/* UK và US mỗi giọng một dòng, không bao giờ ngắt bừa.
+   `.ipa-line` là display:contents nên cả hai dòng dùng CHUNG bộ cột của
+   .ipa-row — nhãn thẳng nhãn, phiên âm thẳng phiên âm, nút loa thẳng nút loa.
+   Gói theo dòng như vậy thì nút loa luôn dính với đúng phiên âm của nó. */
 .ipa-row {
-  display: flex;
-  gap: var(--space-3);
-  align-items: center;
+  display: grid;
+  grid-template-columns: auto minmax(0, auto) auto;
   justify-content: center;
-  flex-wrap: wrap;
+  align-items: center;
+  column-gap: var(--space-2);
+  row-gap: var(--space-1);
+  max-width: 100%;
+}
+.ipa-line {
+  display: contents;
+}
+.ipa-row .ipa-label {
+  justify-self: end;
+}
+.ipa-row .ipa {
+  justify-self: start;
+  overflow-wrap: anywhere;
 }
 .ipa {
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
