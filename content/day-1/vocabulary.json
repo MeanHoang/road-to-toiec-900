@@ -877,6 +877,177 @@
         "ipa": "pdf",
         "meaningVi": "ai"
       }
+    },
+    {
+      "id": "d1-v47",
+      "no": 47,
+      "word": "parking lot",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɑːkɪŋ lɒt/",
+        "us": "/ˈpɑːrkɪŋ lɑːt/"
+      },
+      "meaningVi": "bãi đỗ xe",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v48",
+      "no": 48,
+      "word": "construction site",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kənˈstrʌkʃn saɪt/",
+        "us": "/kənˈstrʌkʃn saɪt/"
+      },
+      "meaningVi": "công trường xây dựng",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v49",
+      "no": 49,
+      "word": "grocery store",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡrəʊsəri stɔː/",
+        "us": "/ˈɡroʊsəri stɔːr/"
+      },
+      "meaningVi": "cửa hàng tạp hoá",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v50",
+      "no": 50,
+      "word": "stairway",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsteəweɪ/",
+        "us": "/ˈsterweɪ/"
+      },
+      "meaningVi": "lối cầu thang",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v51",
+      "no": 51,
+      "word": "warehouse",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈweəhaʊs/",
+        "us": "/ˈwerhaʊs/"
+      },
+      "meaningVi": "nhà kho",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v52",
+      "no": 52,
+      "word": "conference room",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒnfərəns ruːm/",
+        "us": "/ˈkɑːnfərəns ruːm/"
+      },
+      "meaningVi": "phòng họp lớn, phòng hội nghị",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v53",
+      "no": 53,
+      "word": "counter",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkaʊntə/",
+        "us": "/ˈkaʊntər/"
+      },
+      "meaningVi": "quầy (thu ngân, phục vụ)",
+      "image": null,
+      "example": null,
+      "group": "Danh từ chỉ địa điểm",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v54",
+      "no": 54,
+      "word": "scarf",
+      "pos": "n",
+      "ipa": {
+        "uk": "/skɑːf/",
+        "us": "/skɑːrf/"
+      },
+      "meaningVi": "khăn quàng cổ",
+      "image": null,
+      "example": null,
+      "group": "Trang phục",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d1-v55",
+      "no": 55,
+      "word": "toward",
+      "pos": "prep",
+      "ipa": {
+        "uk": "/təˈwɔːd/",
+        "us": "/tɔːrd/"
+      },
+      "meaningVi": "về phía, hướng về",
+      "image": null,
+      "example": null,
+      "group": "Giới từ chỉ vị trí",
+      "source": {
+        "word": "pdf",
+        "ipa": "ai",
+        "meaningVi": "ai"
+      }
     }
   ]
 }
