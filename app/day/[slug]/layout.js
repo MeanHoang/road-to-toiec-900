@@ -1,7 +1,7 @@
 'use client';
 
 import { use } from 'react';
-import { DayProvider } from '@/components/DayProvider';
+import { DayProvider } from '@/features/lesson/DayProvider';
 
 // Nạp nội dung buổi học một lần ở đây rồi chia cho mọi màn con.
 export default function DayLayout({ params, children }) {

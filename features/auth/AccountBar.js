@@ -5,9 +5,13 @@
 // Ẩn danh không phải là "chưa đăng nhập" — nó vẫn học và vẫn lưu bình thường,
 // chỉ là gắn với đúng trình duyệt này. Câu chữ ở đây phải nói rõ chuyện đó,
 // không thì người dùng tưởng mất dữ liệu.
+//
+// Vì sao nằm ở features/auth chứ không phải shared/ui/organisms: nó đọc trạng
+// thái đăng nhập và gọi signIn/signOut — đó là logic domain, không phải UI suông.
 
-import { useAuth } from '@/components/AuthProvider';
-import { Button, Notice } from '@/components/primitives';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { useAuth } from './AuthProvider';
 
 export function AccountBar() {
   const { cloud, ready, user, anonymous, busy, error, signIn, signOut } = useAuth();

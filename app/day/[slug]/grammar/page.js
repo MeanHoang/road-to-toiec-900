@@ -1,10 +1,15 @@
 'use client';
 
 import { use, useEffect, useState } from 'react';
-import { useProgress } from '@/lib/progress';
-import { Badge, Button, Card, Textarea } from '@/components/primitives';
-import { TopBar, PageHeader, StepList } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Card } from '@/shared/ui/atoms/Card';
+import { Textarea } from '@/shared/ui/atoms/Textarea';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { StepList } from '@/shared/ui/molecules/StepList';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 const LABELS = [
   { key: 'S', text: 'chủ ngữ', tone: 'brand' },

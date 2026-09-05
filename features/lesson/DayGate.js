@@ -3,9 +3,9 @@
 // Chặn đầu mỗi màn con: chờ nội dung tải xong rồi mới render.
 // Gom vào một chỗ để 9 màn không phải lặp lại đoạn kiểm tra loading/không tìm thấy.
 
-import { useDay } from '@/components/DayProvider';
-import { Notice } from '@/components/primitives';
-import { TopBar } from '@/components/patterns';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
+import { useDay } from './DayProvider';
 
 export function DayGate({ slug, crumbLabel, children }) {
   const { day, loading, error } = useDay();

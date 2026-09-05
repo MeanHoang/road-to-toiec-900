@@ -1,10 +1,18 @@
 'use client';
 
 import { use, useState } from 'react';
-import { useProgress } from '@/lib/progress';
-import { Badge, Button, Callout, Input, Notice, Textarea } from '@/components/primitives';
-import { TopBar, PageHeader, AudioPlayer, StepList } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Callout } from '@/shared/ui/atoms/Callout';
+import { Input } from '@/shared/ui/atoms/Input';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { Textarea } from '@/shared/ui/atoms/Textarea';
+import { AudioPlayer } from '@/shared/ui/molecules/AudioPlayer';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { StepList } from '@/shared/ui/molecules/StepList';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 const CHOICES = ['A', 'B', 'C', 'D'];
 

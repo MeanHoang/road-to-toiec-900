@@ -1,11 +1,16 @@
 'use client';
 
 import { use } from 'react';
-import {countPictures, countQuestions} from '@/lib/days';
-import { useProgress, summarize } from '@/lib/progress';
-import { Badge, Progress, Section } from '@/components/primitives';
-import { TopBar, PageHeader, NavCard } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { countPictures, countQuestions } from '@/features/lesson/stats';
+import { summarize } from '@/features/progress/summarize';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Progress } from '@/shared/ui/atoms/Progress';
+import { Section } from '@/shared/ui/atoms/Section';
+import { NavCard } from '@/shared/ui/molecules/NavCard';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 /** Nhãn trạng thái ở cuối mỗi thẻ hoạt động. */
 function stateBadge(done, total) {

@@ -1,10 +1,14 @@
 'use client';
 
 import { use, useState } from 'react';
-import { useProgress } from '@/lib/progress';
-import { Badge, Button, Input, Notice } from '@/components/primitives';
-import { TopBar, PageHeader } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Input } from '@/shared/ui/atoms/Input';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 const norm = (s) => (s || '').trim().toLowerCase();
 

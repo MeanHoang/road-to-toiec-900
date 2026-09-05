@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-// Test luật gộp tiến độ (lib/merge.js) — chỗ dễ mất dữ liệu nhất trong app.
+// Test luật gộp tiến độ (features/progress/merge.js) — chỗ dễ mất dữ liệu nhất trong app.
 //   npm run test:merge
 
 import assert from 'node:assert/strict';
-import { mergeDay } from '../lib/merge.js';
+import { mergeDay } from '../features/progress/merge.js';
 
 const OLD = '2026-09-01T00:00:00.000Z';
 const NEW = '2026-09-02T00:00:00.000Z';

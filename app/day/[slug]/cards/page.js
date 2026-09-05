@@ -2,10 +2,16 @@
 
 import Link from 'next/link';
 import { use, useCallback, useEffect, useMemo, useState } from 'react';
-import { useProgress } from '@/lib/progress';
-import { Badge, Button, Card, Progress, StarToggle } from '@/components/primitives';
-import { TopBar, PageHeader, Speak } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Card } from '@/shared/ui/atoms/Card';
+import { Progress } from '@/shared/ui/atoms/Progress';
+import { StarToggle } from '@/shared/ui/atoms/StarToggle';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { Speak } from '@/shared/ui/molecules/Speak';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 function CardsScreen({ slug, day }) {
   const { day: state, ready, setVocab, setStar, resetVocab } = useProgress(slug);

@@ -1,9 +1,16 @@
 'use client';
 
 import { use } from 'react';
-import { Badge, Button, Callout, Card, Notice, Section } from '@/components/primitives';
-import { TopBar, PageHeader, Speak } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Button } from '@/shared/ui/atoms/Button';
+import { Callout } from '@/shared/ui/atoms/Callout';
+import { Card } from '@/shared/ui/atoms/Card';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { Section } from '@/shared/ui/atoms/Section';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { Speak } from '@/shared/ui/molecules/Speak';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 /**
  * Khối lý thuyết không đồng dạng — có khối là danh sách, có khối là bảng cặp đối lập,

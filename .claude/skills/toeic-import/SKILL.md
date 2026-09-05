@@ -105,7 +105,7 @@ For abstract words (`relax`, `adjust`, `sort out`), **leave it `null`** — an i
 Two places; miss either one and the app will not see the new session:
 
 1. `content/days.json` — add the slug to the `days` array
-2. `lib/days.js` — add a static import and an entry in `REGISTRY` (Next.js needs a static import to bundle the JSON)
+2. `features/lesson/bundled.js` — add a static import and an entry in `REGISTRY` (Next.js needs a static import to bundle the JSON)
 
 ### Step 6 — Verify, then report honestly
 

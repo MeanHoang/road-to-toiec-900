@@ -9,10 +9,19 @@
 // Ảnh và audio KHÔNG nằm ở đây — chúng ở public/assets, đi theo repo.
 
 import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
-import { db, isConfigured } from './firebase';
-import { days as bundledDays, assemble } from './days';
+import { db, isConfigured } from '@/lib/firebase';
+import { assemble } from './schema';
+import { bundledDays, getBundledDay } from './bundled';
 
-const COLLECTIONS = ['grammar', 'theory', 'vocabulary', 'translation', 'listening', 'pictures', 'quiz'];
+const COLLECTIONS = [
+  'grammar',
+  'theory',
+  'vocabulary',
+  'translation',
+  'listening',
+  'pictures',
+  'quiz',
+];
 
 /** Danh sách slug các buổi học. */
 export async function fetchDayList() {
@@ -22,7 +31,7 @@ export async function fetchDayList() {
       const snap = await getDoc(doc(store, 'meta', 'days'));
       if (snap.exists()) return snap.data().days || [];
     } catch (e) {
-      console.warn('[content] không đọc được danh sách buổi từ Firestore:', e.message);
+      console.warn('[lesson] không đọc được danh sách buổi từ Firestore:', e.message);
     }
   }
   return bundledDays.map((d) => d.slug);
@@ -50,11 +59,11 @@ export async function fetchDay(slug) {
         return assemble(slug, files);
       }
     } catch (e) {
-      console.warn(`[content] không đọc được ${slug} từ Firestore:`, e.message);
+      console.warn(`[lesson] không đọc được ${slug} từ Firestore:`, e.message);
     }
   }
 
-  return bundledDays.find((d) => d.slug === slug) || null;
+  return getBundledDay(slug) || null;
 }
 
 export const usingFirestore = () => isConfigured;

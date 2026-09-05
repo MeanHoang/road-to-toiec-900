@@ -8,7 +8,9 @@
 
 import { createContext, useCallback, useContext, useEffect, useRef, useState } from 'react';
 import { isConfigured, signInWithGoogle, signOutUser, watchUser } from '@/lib/firebase';
-import { clearLocal, mergeLocalIntoAccount, readOwner, writeOwner } from '@/lib/store';
+import { clearLocal, readOwner, writeOwner } from '@/features/progress/localStore';
+import { mergeLocalIntoAccount } from '@/features/progress/accountMerge';
+import { isCancelled, messageFor } from './authErrors';
 
 const AuthContext = createContext(null);
 
@@ -57,9 +59,7 @@ export function AuthProvider({ children }) {
         writeOwner(res.uid);
       }
     } catch (e) {
-      if (e.code !== 'auth/popup-closed-by-user' && e.code !== 'auth/cancelled-popup-request') {
-        setError(messageFor(e));
-      }
+      if (!isCancelled(e)) setError(messageFor(e));
     } finally {
       claiming.current = false;
       setBusy(null);
@@ -96,21 +96,6 @@ export function AuthProvider({ children }) {
   };
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
-}
-
-function messageFor(e) {
-  switch (e.code) {
-    case 'auth/operation-not-allowed':
-      return 'Chưa bật đăng nhập Google trong Firebase Console → Authentication → Sign-in method.';
-    case 'auth/unauthorized-domain':
-      return 'Tên miền này chưa được cho phép trong Firebase Console → Authentication → Settings → Authorized domains.';
-    case 'auth/popup-blocked':
-      return 'Trình duyệt chặn popup. Cho phép popup cho trang này rồi thử lại.';
-    case 'auth/network-request-failed':
-      return 'Mất mạng. Tiến độ vẫn đang lưu ở máy, đăng nhập lại sau cũng được.';
-    default:
-      return e.message || 'Đăng nhập không thành công.';
-  }
 }
 
 export function useAuth() {

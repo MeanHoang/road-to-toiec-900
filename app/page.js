@@ -1,11 +1,12 @@
 'use client';
 
-import { countQuestions } from '@/lib/days';
-import { useDayList } from '@/components/DayProvider';
-import { useProgress, summarize } from '@/lib/progress';
-import { Callout } from '@/components/primitives';
-import { NavCard } from '@/components/patterns';
-import { AccountBar } from '@/components/AccountBar';
+import { AccountBar } from '@/features/auth/AccountBar';
+import { countQuestions } from '@/features/lesson/stats';
+import { useDayList } from '@/features/lesson/useDayList';
+import { summarize } from '@/features/progress/summarize';
+import { useProgress } from '@/features/progress/useProgress';
+import { Callout } from '@/shared/ui/atoms/Callout';
+import { NavCard } from '@/shared/ui/molecules/NavCard';
 
 function DayRow({ day }) {
   const { day: state, ready } = useProgress(day.slug);

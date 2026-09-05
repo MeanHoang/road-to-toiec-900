@@ -1,11 +1,15 @@
 'use client';
 
 import { use } from 'react';
-import {countQuestions} from '@/lib/days';
-import { useProgress } from '@/lib/progress';
-import { Badge, Callout, Notice } from '@/components/primitives';
-import { TopBar, PageHeader, NavCard } from '@/components/patterns';
-import { DayGate } from '@/components/DayGate';
+import { DayGate } from '@/features/lesson/DayGate';
+import { countQuestions } from '@/features/lesson/stats';
+import { useProgress } from '@/features/progress/useProgress';
+import { Badge } from '@/shared/ui/atoms/Badge';
+import { Callout } from '@/shared/ui/atoms/Callout';
+import { Notice } from '@/shared/ui/atoms/Notice';
+import { NavCard } from '@/shared/ui/molecules/NavCard';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { TopBar } from '@/shared/ui/organisms/TopBar';
 
 function ListenIndexScreen({ slug, day }) {
   const { day: state, ready } = useProgress(slug);

@@ -62,8 +62,9 @@ so the progress document carries over untouched. When the Google account already
 (a second device), the uid changes and `mergeLocalIntoAccount` merges what is on this machine
 into the account instead of dropping it.
 
-Two progress documents are merged per id, never document-wide — see `lib/merge.js`, tested by
-`npm run test:merge`. Document-wide last-write-wins meant studying on a laptop and then opening
+Two progress documents are merged per id, never document-wide — see
+`features/progress/merge.js`, tested by `npm run test:merge`. Document-wide
+last-write-wins meant studying on a laptop and then opening
 a desktop that had an older copy silently destroyed the laptop's work.
 
 ## Getting started
@@ -107,7 +108,7 @@ Project settings → Service accounts → Generate new private key, saved as
 | `npm run import <drive-url>` | Crawl a Drive folder, download audio, extract images and text |
 | `npm run transcribe <day>` | Transcribe every audio clip with whisper.cpp |
 | `npm run validate [day]` | Check content files for structural errors and unreviewed fields |
-| `npm run test:merge` | Check the progress merge rules in `lib/merge.js` |
+| `npm run test:merge` | Check the progress merge rules in `features/progress/merge.js` |
 | `npm run push-content [day]` | Upload `content/<day>/*.json` to Firestore (`--dry` to preview) |
 
 `npm run validate` is the important one. It catches duplicate ids, asset paths pointing at
@@ -117,18 +118,39 @@ and therefore unverified.
 
 ## Project structure
 
+Two axes, and they are not the same axis. **Atomic Design organises the UI**; **feature modules
+organise the application logic.** One file per component — no barrel files, so an import line
+says exactly what it depends on.
+
 ```
-app/                    routes only — screens compose components, no data logic
-components/
-  primitives/           Button, Badge, Card, Progress, Input … — know nothing about TOEIC
-  patterns/             TopBar, NavCard, AudioPlayer, Speak … — know about lessons
+app/                    routes only — a route composes a feature, holds no data logic
+shared/ui/              PRESENTATION ONLY — knows nothing about TOEIC, never fetches
+  atoms/                Button, Badge, Card, Progress, Input, Notice …
+  molecules/            NavCard, StepList, PageHeader, Speak, AudioPlayer
+  organisms/            TopBar
+features/               DOMAIN — state, data access, and the UI that is tied to them
+  auth/
+    AuthProvider.js     who is studying — anonymous, or Google; useAuth lives here
+    AccountBar.js       reads useAuth, so it is a feature component, not an organism
+    authErrors.js       Firebase auth codes → a sentence a learner can act on
+  lesson/
+    schema.js           schemaVersion check + assemble() one day from its collection files
+    bundled.js          the JSON committed to the repo — offline / no-Firebase fallback
+    api.js              fetch a lesson from Firestore, fall back to bundled.js
+    stats.js            countQuestions / countPictures
+    DayProvider.js      load the open lesson once per route subtree; useDay
+    useDayList.js       the home screen's list of lessons
+    DayGate.js          loading / not-found guard shared by all nine screens
+  progress/
+    merge.js            how two copies of one day are merged (no imports, so node can test it)
+    localStore.js       localStorage read/write + which uid owns the local copy
+    accountMerge.js     push the local copy into an account on sign-in
+    useProgress.js      the hook — reads local, merges cloud, syncs back
+    summarize.js        the numbers behind the progress bars
+  vocabulary/
+    CopyUnknown.js      copy the not-yet-known words out for the import skill
 lib/
-  firebase.js           client init, anonymous + Google auth
-  content.js            fetch lessons from Firestore, fall back to bundled JSON
-  days.js               bundled fallback content and shared helpers
-  progress.js           the useProgress hook — reads local, merges cloud, syncs back
-  store.js              localStorage helpers + pushing local progress into an account
-  merge.js              how two copies of one day are merged (no imports, so node can test it)
+  firebase.js           infrastructure: client init, anonymous + Google auth
 content/<day>/*.json    lesson content
 public/assets/<day>/    images and audio
 scripts/                import, transcribe, validate, push
@@ -136,8 +158,12 @@ styles/                 tokens → base → components
 .claude/skills/         Claude Code skill for importing a new lesson
 ```
 
-The boundary between `primitives` and `patterns` is worth keeping: if a primitive ever needs
-to import from `lib/days`, it belongs in `patterns` instead.
+The boundary worth keeping is the one between the two axes. A component under `shared/ui`
+that needs `useProgress`, `useAuth`, or the shape of a vocabulary item is in the wrong place —
+it belongs to a feature. `AccountBar` and `CopyUnknown` are exactly that case, which is why
+they sit in `features/` and not in `organisms/`. Inside `shared/ui`, the levels are the usual
+atomic ones: an atom is composed of nothing, a molecule of atoms, an organism stands alone
+on a page.
 
 ## Data model
 

@@ -1,5 +1,5 @@
 import './globals.css';
-import { AuthProvider } from '@/components/AuthProvider';
+import { AuthProvider } from '@/features/auth/AuthProvider';
 
 export const metadata = {
   title: 'Road to TOEIC 900',
