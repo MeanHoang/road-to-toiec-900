@@ -29,13 +29,15 @@ async function fetchText(url) {
 // Bỏ đuôi metadata để lấy lại tên gốc, và suy ra đây là folder hay file.
 function readLabel(label) {
   const isFolder = /\bfolder\b/i.test(label);
-  const name = label
+  const stripped = label
     .replace(/\s*Shared\s*folder\s*$/i, '')
     .replace(/\s*folder\s*$/i, '')
-    .replace(/\s*Shared\s*$/i, '')
-    .replace(/\s+(PDF|Audio|Video|Image|PNG|JPEG|MP3|Text)\s*$/i, '')
-    .trim();
-  return { name, isFolder };
+    .replace(/\s*Shared\s*$/i, '');
+  // Loại file Drive khai ở cuối label là nguồn tin duy nhất khi tên file không có
+  // đuôi ("DAY 2 - tài liệu" là PDF nhưng tên trống đuôi) — giữ lại, đừng vứt đi.
+  const kind = stripped.match(/\s+(PDF|Audio|Video|Image|PNG|JPEG|MP3|Text)\s*$/i);
+  const name = (kind ? stripped.slice(0, kind.index) : stripped).trim();
+  return { name, isFolder, kind: kind ? kind[1].toUpperCase() : null };
 }
 
 /** Danh sách item trực tiếp trong một folder. */
@@ -53,8 +55,8 @@ export async function listFolder(folderId) {
     const window = html.slice(m.index, m.index + 12000);
     const label = window.match(/aria-label="([^"]+)"/);
     if (!label) continue;
-    const { name, isFolder } = readLabel(label[1]);
-    items.push({ id, name, type: isFolder ? 'folder' : 'file' });
+    const { name, isFolder, kind } = readLabel(label[1]);
+    items.push({ id, name, kind, type: isFolder ? 'folder' : 'file' });
   }
   return items;
 }

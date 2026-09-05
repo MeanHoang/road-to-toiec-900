@@ -156,9 +156,14 @@ async function main() {
   const looseImages = [];
 
   for (const file of files) {
-    const isPdf = PDF_EXT.test(file.name);
-    const isAudio = AUDIO_EXT.test(file.name);
-    const isImage = IMAGE_EXT.test(file.name);
+    // Tên file trên Drive có thể không có đuôi; khi đó dựa vào loại Drive khai.
+    const isPdf = PDF_EXT.test(file.name) || file.kind === 'PDF';
+    const isAudio = AUDIO_EXT.test(file.name) || file.kind === 'AUDIO' || file.kind === 'MP3';
+    const isImage =
+      IMAGE_EXT.test(file.name) ||
+      file.kind === 'IMAGE' ||
+      file.kind === 'PNG' ||
+      file.kind === 'JPEG';
     if (!isPdf && !isAudio && !isImage) {
       console.log(`  bỏ qua ${file.name}`);
       continue;
@@ -203,7 +208,8 @@ async function main() {
       continue;
     }
 
-    const local = path.join(cacheDir, file.name.replace(/[^\w.\- ]+/g, '_'));
+    const safePdf = file.name.replace(/[^\w.\- ]+/g, '_');
+    const local = path.join(cacheDir, PDF_EXT.test(safePdf) ? safePdf : `${safePdf}.pdf`);
     if (!existsSync(local)) {
       process.stdout.write(`  ↓ pdf ${file.name} ... `);
       const { bytes } = await downloadFile(file.id, local, fsp);

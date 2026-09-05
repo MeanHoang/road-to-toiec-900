@@ -22,18 +22,24 @@ import path from 'node:path';
 const run = promisify(execFile);
 const ROOT = path.resolve(import.meta.dirname, '..');
 
-const MODEL_ENV = process.env.WHISPER_MODEL;
+// Đặt mặc định ngay trong script: npm script không đặt được biến môi trường theo
+// kiểu `VAR=x lệnh` trên Windows (cmd.exe không hiểu cú pháp đó).
+const MODEL_ENV = process.env.WHISPER_MODEL || '.cache/models/ggml-small.en.bin';
 
 /** whisper-cpp cài qua brew có tên binary khác nhau tuỳ bản. */
 async function findWhisper() {
   for (const bin of ['whisper-cli', 'whisper-cpp', 'main']) {
     try {
-      await run('which', [bin]);
+      // Gọi thẳng binary thay vì hỏi `which` — Windows không có `which`.
+      await run(bin, ['--help']);
       return bin;
-    } catch {}
+    } catch (e) {
+      if (e.code !== 'ENOENT') return bin; // chạy được nhưng --help trả mã khác 0
+    }
   }
   throw new Error(
-    'Không tìm thấy whisper. Cài bằng:  brew install whisper-cpp ffmpeg',
+    'Không tìm thấy whisper. macOS: brew install whisper-cpp ffmpeg. ' +
+      'Windows: tải whisper-bin-x64.zip của whisper.cpp rồi thêm thư mục chứa whisper-cli.exe vào PATH.',
   );
 }
 
