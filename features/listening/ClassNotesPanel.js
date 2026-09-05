@@ -33,7 +33,7 @@ export function ClassNotesPanel({ item, note, onNoteChange }) {
       <p className="caption">Tự lưu trên máy — đóng trang mở lại vẫn còn nguyên.</p>
 
       {item.transcript && (
-        <RevealAnswer>
+        <RevealAnswer questionId={item.id} title={`Lời thoại câu ${item.no}`}>
           <TranscriptBox transcript={item.transcript} />
         </RevealAnswer>
       )}

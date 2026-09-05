@@ -1,29 +1,26 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Callout } from '@/shared/ui/atoms/Callout';
+import { Modal } from '@/shared/ui/organisms/Modal';
 
 /**
- * Xem đáp án phải hỏi lại một lần.
- * Nhìn thấy đáp án là mất luôn cơ hội tự nghe ra, bấm nhầm thì không lấy lại được.
- * Dùng khối xác nhận ngay trong trang chứ không dùng confirm() của trình duyệt.
+ * Xem đáp án phải hỏi lại một lần, rồi mới mở ra trong hộp thoại.
+ *
+ * Hỏi lại vì nhìn thấy đáp án là mất luôn cơ hội tự nghe ra, bấm nhầm thì không
+ * lấy lại được. Hộp thoại vì đáp án nằm thẳng trong trang thì nó CHIẾM CHỖ —
+ * và chỉ cần nó còn đó lúc chuyển câu là đập thẳng vào mắt.
+ *
+ * `questionId` là chốt an toàn: đổi câu thì đóng, không phụ thuộc vào việc
+ * component có được dựng lại hay không.
  */
-export function RevealAnswer({ children, label = 'Xem đáp án', onReveal }) {
+export function RevealAnswer({ questionId, label = 'Xem đáp án', title, onReveal, children }) {
   const [step, setStep] = useState('hidden'); // hidden → asking → shown
 
-  if (step === 'shown') {
-    return (
-      <>
-        <div className="row row-end">
-          <Button variant="quiet" onClick={() => setStep('hidden')}>
-            Ẩn đáp án
-          </Button>
-        </div>
-        {children}
-      </>
-    );
-  }
+  useEffect(() => {
+    setStep('hidden');
+  }, [questionId]);
 
   if (step === 'asking') {
     return (
@@ -49,10 +46,16 @@ export function RevealAnswer({ children, label = 'Xem đáp án', onReveal }) {
   }
 
   return (
-    <div className="row row-end">
-      <Button variant="primary" onClick={() => setStep('asking')}>
-        {label}
-      </Button>
-    </div>
+    <>
+      <div className="row row-end">
+        <Button variant="primary" onClick={() => setStep('asking')}>
+          {label}
+        </Button>
+      </div>
+
+      <Modal open={step === 'shown'} onClose={() => setStep('hidden')} title={title || label}>
+        {children}
+      </Modal>
+    </>
   );
 }

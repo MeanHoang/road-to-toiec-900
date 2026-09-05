@@ -30,7 +30,7 @@ export function DictationPanel({ item, slug, lines, onChangeLine }) {
       <p className="caption">Bài chép tự lưu — đóng trang mở lại vẫn còn nguyên.</p>
 
       {item.transcript ? (
-        <RevealAnswer>
+        <RevealAnswer questionId={item.id} title={`Lời thoại câu ${item.no}`}>
           <TranscriptBox transcript={item.transcript} />
         </RevealAnswer>
       ) : (

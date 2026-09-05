@@ -1368,3 +1368,85 @@ th {
 .shell.drawer-open .app-shell {
   padding-top: var(--space-5);
 }
+
+/* ----------------------------------------------------------------- modal */
+/* Đáp án nằm thẳng trong trang thì nó chiếm chỗ, và chỉ cần còn đó lúc chuyển
+   câu là đập vào mắt. Đưa vào hộp thoại: xem xong đóng lại, trang sạch. */
+.modal-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4);
+  background: rgba(8, 12, 20, 0.55);
+  animation: modal-fade var(--fast) var(--ease);
+}
+
+.modal {
+  width: min(560px, 100%);
+  max-height: min(80vh, 640px);
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  box-shadow: var(--shadow-lg);
+  animation: modal-rise var(--normal) var(--ease);
+}
+.modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-5);
+  border-bottom: 1px solid var(--border);
+}
+.modal-body {
+  overflow-y: auto;
+  padding: var(--space-5);
+}
+
+.script-list p {
+  display: flex;
+  gap: var(--space-3);
+  align-items: baseline;
+  padding: var(--space-2) 0;
+  line-height: var(--leading-snug);
+}
+.script-list p + p {
+  border-top: 1px solid var(--border);
+}
+
+@keyframes modal-fade {
+  from {
+    opacity: 0;
+  }
+}
+@keyframes modal-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+
+/* Màn hẹp: hộp thoại trượt lên từ đáy, nút đóng nằm trong tầm ngón cái. */
+@media (max-width: 640px) {
+  .modal-scrim {
+    align-items: flex-end;
+    padding: 0;
+  }
+  .modal {
+    width: 100%;
+    max-height: 85vh;
+    border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+    border-bottom: 0;
+    animation: modal-sheet var(--normal) var(--ease);
+  }
+  @keyframes modal-sheet {
+    from {
+      transform: translateY(100%);
+    }
+  }
+}

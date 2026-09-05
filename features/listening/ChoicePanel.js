@@ -7,15 +7,35 @@ import { RevealAnswer } from './RevealAnswer';
 import { CHOICES, SKIP_AFTER_TRIES } from './rules';
 import { choiceText } from './transcript';
 
+/** Bốn câu audio đọc, bày trong hộp thoại — không chiếm chỗ trong trang. */
+function ChoiceScript({ item }) {
+  return (
+    <>
+      <div className="script-list">
+        {CHOICES.map((letter) => (
+          <p key={letter}>
+            <span className="key">{letter}</span>
+            {choiceText(item.transcript, letter) || '— chưa có lời thoại'}
+          </p>
+        ))}
+      </div>
+      <p className="caption" style={{ marginTop: 'var(--space-4)' }}>
+        Đây là nguyên văn 4 câu audio đọc. Part 1 không có lời dẫn nào khác — nghe được câu nào thì
+        đối chiếu câu đó, đừng đọc trước rồi mới nghe.
+      </p>
+    </>
+  );
+}
+
 /**
  * Bài trắc nghiệm có đáp án chính thức.
  *
- * Dựng lại theo từng câu (parent truyền `key={item.id}`) nên `picked` và
- * `showSubs` tự sạch khi sang câu khác — không cần nhớ reset bằng tay nữa.
+ * Lời thoại chỉ hiện thẳng trong bốn ô phương án khi đã trả lời ĐÚNG — lúc đó
+ * nó là phần chữa bài. Còn muốn xem trước thì phải mở hộp thoại và qua một lần
+ * hỏi lại, và hộp thoại đóng lại ngay khi sang câu khác.
  */
 export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
   const [picked, setPicked] = useState(null);
-  const [showSubs, setShowSubs] = useState(false);
 
   const solved = Boolean(saved?.correct);
   const tries = saved?.tries || 0;
@@ -45,9 +65,7 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
             >
               <span className="key">{letter}</span>
               <span style={{ color: 'var(--text-muted)' }}>
-                {showSubs || solved
-                  ? choiceText(item.transcript, letter) || '— chưa có lời thoại'
-                  : 'Nghe audio rồi chọn'}
+                {solved ? choiceText(item.transcript, letter) || '— chưa có lời thoại' : 'Nghe audio rồi chọn'}
               </span>
             </button>
           );
@@ -61,12 +79,13 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
         </div>
       )}
 
-      {!solved && !showSubs && item.transcript && (
-        <RevealAnswer label="Xem lời thoại 4 phương án" onReveal={() => setShowSubs(true)}>
-          <p className="caption">
-            Đang hiện nguyên văn 4 câu audio đọc. Part 1 không có lời dẫn nào khác — audio chỉ đọc
-            đúng bốn câu này.
-          </p>
+      {!solved && item.transcript && (
+        <RevealAnswer
+          questionId={item.id}
+          label="Xem lời thoại 4 phương án"
+          title={`Lời thoại câu ${item.no}`}
+        >
+          <ChoiceScript item={item} />
         </RevealAnswer>
       )}
 
