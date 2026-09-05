@@ -1,0 +1,1165 @@
+{
+  "collection": "vocabulary",
+  "day": "day-2",
+  "title": "Từ vựng",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d2-v01",
+      "no": 1,
+      "word": "corner",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɔːnə(r)/",
+        "us": "/ˈkɔːrnər/"
+      },
+      "meaningVi": "góc (phòng, phố)",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v02",
+      "no": 2,
+      "word": "chest",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tʃest/",
+        "us": "/tʃest/"
+      },
+      "meaningVi": "rương, hòm; a chest of drawers = tủ nhiều ngăn kéo",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v03",
+      "no": 3,
+      "word": "drawer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/drɔː(r)/",
+        "us": "/drɔːr/"
+      },
+      "meaningVi": "ngăn kéo",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v04",
+      "no": 4,
+      "word": "hang - hung - hung",
+      "pos": "v",
+      "ipa": {
+        "uk": "/hæŋ/ - /hʌŋ/",
+        "us": "/hæŋ/ - /hʌŋ/"
+      },
+      "meaningVi": "treo, móc lên",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v05",
+      "no": 5,
+      "word": "reflect",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈflekt/",
+        "us": "/rɪˈflekt/"
+      },
+      "meaningVi": "phản chiếu, soi bóng",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v06",
+      "no": 6,
+      "word": "pointed = pointy",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈpɔɪntɪd/",
+        "us": "/ˈpɔɪntɪd/"
+      },
+      "meaningVi": "nhọn, có đầu nhọn",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v07",
+      "no": 7,
+      "word": "roof",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ruːf/",
+        "us": "/ruːf/"
+      },
+      "meaningVi": "mái nhà",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v08",
+      "no": 8,
+      "word": "shore",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃɔː(r)/",
+        "us": "/ʃɔːr/"
+      },
+      "meaningVi": "bờ (biển, hồ)",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v09",
+      "no": 9,
+      "word": "skyscraper",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈskaɪskreɪpər/",
+        "us": "/ˈskaɪskreɪpər/"
+      },
+      "meaningVi": "toà nhà chọc trời",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v10",
+      "no": 10,
+      "word": "overlook",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌəʊvəˈlʊk/",
+        "us": "/ˌəʊvərˈlʊk/"
+      },
+      "meaningVi": "nhìn ra, trông ra (hướng nhìn); bỏ sót",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v11",
+      "no": 11,
+      "word": "set up",
+      "pos": "v",
+      "ipa": null,
+      "meaningVi": "dựng lên, bày ra, sắp đặt",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": null,
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v12",
+      "no": 12,
+      "word": "umbrella",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʌmˈbrelə/",
+        "us": "/ʌmˈbrelə/"
+      },
+      "meaningVi": "cái ô, cái dù",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v13",
+      "no": 13,
+      "word": "cover",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/ˈkʌvə(r)/",
+        "us": "/ˈkʌvər/"
+      },
+      "meaningVi": "che phủ; nắp, bìa",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v14",
+      "no": 14,
+      "word": "vine",
+      "pos": "n",
+      "ipa": {
+        "uk": "/vaɪn/",
+        "us": "/vaɪn/"
+      },
+      "meaningVi": "cây leo, dây leo",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v15",
+      "no": 15,
+      "word": "display",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/dɪˈspleɪ/",
+        "us": "/dɪˈspleɪ/"
+      },
+      "meaningVi": "sự trưng bày; trưng bày (on display = đang được bày ra)",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v16",
+      "no": 16,
+      "word": "merchandise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmɜːtʃəndaɪs/",
+        "us": "/ˈmɜːtʃəndaɪs/"
+      },
+      "meaningVi": "hàng hoá",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v17",
+      "no": 17,
+      "word": "pile",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/paɪl/",
+        "us": "/paɪl/"
+      },
+      "meaningVi": "đống; chất thành đống",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v18",
+      "no": 18,
+      "word": "basket",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbɑːskɪt/",
+        "us": "/ˈbæskɪt/"
+      },
+      "meaningVi": "cái giỏ, cái rổ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v19",
+      "no": 19,
+      "word": "boat",
+      "pos": "n",
+      "ipa": {
+        "uk": "/bəʊt/",
+        "us": "/bəʊt/"
+      },
+      "meaningVi": "thuyền, tàu nhỏ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v20",
+      "no": 20,
+      "word": "rest",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/rest/",
+        "us": "/rest/"
+      },
+      "meaningVi": "tựa vào, đặt lên; nghỉ ngơi",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v21",
+      "no": 21,
+      "word": "bridge",
+      "pos": "n",
+      "ipa": {
+        "uk": "/brɪdʒ/",
+        "us": "/brɪdʒ/"
+      },
+      "meaningVi": "cây cầu",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v22",
+      "no": 22,
+      "word": "tile",
+      "pos": "n",
+      "ipa": {
+        "uk": "/taɪl/",
+        "us": "/taɪl/"
+      },
+      "meaningVi": "gạch lát, viên ngói",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v23",
+      "no": 23,
+      "word": "lamp",
+      "pos": "n",
+      "ipa": {
+        "uk": "/læmp/",
+        "us": "/læmp/"
+      },
+      "meaningVi": "cái đèn",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v24",
+      "no": 24,
+      "word": "globe",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡləʊb/",
+        "us": "/ɡləʊb/"
+      },
+      "meaningVi": "quả địa cầu; quả cầu",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v25",
+      "no": 25,
+      "word": "curtain",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɜːtn/",
+        "us": "/ˈkɜːrtn/"
+      },
+      "meaningVi": "rèm cửa",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v26",
+      "no": 26,
+      "word": "block",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/blɒk/",
+        "us": "/blɑːk/"
+      },
+      "meaningVi": "dãy nhà, khối; chặn lại",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v27",
+      "no": 27,
+      "word": "vehicle",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈviːəkl/",
+        "us": "/ˈviːəkl/ - /ˈviːhɪkl/"
+      },
+      "meaningVi": "xe cộ, phương tiện đi lại",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v28",
+      "no": 28,
+      "word": "store",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/stɔː(r)/",
+        "us": "/stɔːr/"
+      },
+      "meaningVi": "cửa hàng; cất trữ",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v29",
+      "no": 29,
+      "word": "fishing pole = fishing rod",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfɪʃɪŋ pəʊl/ · /ˈfɪʃɪŋ rɒd/",
+        "us": "/ˈfɪʃɪŋ pəʊl/ · /ˈfɪʃɪŋ rɑːd/"
+      },
+      "meaningVi": "cần câu cá",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v30",
+      "no": 30,
+      "word": "waterfront",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɔːtəfrʌnt/",
+        "us": "/ˈwɔːtərfrʌnt/"
+      },
+      "meaningVi": "khu bờ sông, bờ biển",
+      "image": null,
+      "example": null,
+      "group": "Practice 1",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v31",
+      "no": 1,
+      "word": "cross",
+      "pos": "v",
+      "ipa": {
+        "uk": "/krɒs/",
+        "us": "/krɔːs/"
+      },
+      "meaningVi": "băng qua, đi ngang qua",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v32",
+      "no": 2,
+      "word": "sculpture",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈskʌlptʃə(r)/",
+        "us": "/ˈskʌlptʃər/"
+      },
+      "meaningVi": "tác phẩm điêu khắc, bức tượng",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v33",
+      "no": 3,
+      "word": "browse",
+      "pos": "v",
+      "ipa": {
+        "uk": "/braʊz/",
+        "us": "/braʊz/"
+      },
+      "meaningVi": "xem lướt, ngắm nghía (sách, hàng hoá)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v34",
+      "no": 4,
+      "word": "shelf",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃelf/",
+        "us": "/ʃelf/"
+      },
+      "meaningVi": "cái kệ, giá sách",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v35",
+      "no": 5,
+      "word": "cyclist",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsaɪklɪst/",
+        "us": "/ˈsaɪklɪst/"
+      },
+      "meaningVi": "người đi xe đạp",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v36",
+      "no": 6,
+      "word": "toward",
+      "pos": "prep",
+      "ipa": {
+        "uk": "/təˈwɔːdz/",
+        "us": "/tɔːrdz/"
+      },
+      "meaningVi": "về phía, hướng tới",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v37",
+      "no": 7,
+      "word": "winding",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈwaɪndɪŋ/",
+        "us": "/ˈwaɪndɪŋ/"
+      },
+      "meaningVi": "quanh co, ngoằn ngoèo",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v38",
+      "no": 8,
+      "word": "pedestrian",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pəˈdestriən/",
+        "us": "/pəˈdestriən/"
+      },
+      "meaningVi": "người đi bộ",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v39",
+      "no": 9,
+      "word": "different",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈdɪfrənt/",
+        "us": "/ˈdɪfrənt/"
+      },
+      "meaningVi": "khác nhau, đa dạng",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v40",
+      "no": 10,
+      "word": "construct",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kənˈstrʌkt/",
+        "us": "/kənˈstrʌkt/"
+      },
+      "meaningVi": "xây dựng",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v41",
+      "no": 11,
+      "word": "construction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kənˈstrʌkʃn/",
+        "us": "/kənˈstrʌkʃn/"
+      },
+      "meaningVi": "việc xây dựng, công trình",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v42",
+      "no": 12,
+      "word": "ladder",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈlædə(r)/",
+        "us": "/ˈlædər/"
+      },
+      "meaningVi": "cái thang",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v43",
+      "no": 13,
+      "word": "reach for",
+      "pos": "v",
+      "ipa": {
+        "uk": "/riːtʃ/",
+        "us": "/riːtʃ/"
+      },
+      "meaningVi": "với tay lấy",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v44",
+      "no": 14,
+      "word": "bend",
+      "pos": "v",
+      "ipa": {
+        "uk": "/bend/",
+        "us": "/bend/"
+      },
+      "meaningVi": "cúi xuống, uốn cong",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v45",
+      "no": 15,
+      "word": "stack",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/stæk/",
+        "us": "/stæk/"
+      },
+      "meaningVi": "chồng, đống; xếp chồng lên",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v46",
+      "no": 16,
+      "word": "several + Np",
+      "pos": "det",
+      "ipa": {
+        "uk": "/ˈsevrəl/",
+        "us": "/ˈsevrəl/"
+      },
+      "meaningVi": "vài, một số (đi với danh từ số nhiều)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v47",
+      "no": 17,
+      "word": "row",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/rəʊ/",
+        "us": "/rəʊ/"
+      },
+      "meaningVi": "hàng, dãy (n); chèo thuyền (v)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v48",
+      "no": 18,
+      "word": "publication",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌpʌblɪˈkeɪʃn/",
+        "us": "/ˌpʌblɪˈkeɪʃn/"
+      },
+      "meaningVi": "ấn phẩm; việc xuất bản",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v49",
+      "no": 19,
+      "word": "bench",
+      "pos": "n",
+      "ipa": {
+        "uk": "/bentʃ/",
+        "us": "/bentʃ/"
+      },
+      "meaningVi": "ghế băng dài",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v50",
+      "no": 20,
+      "word": "position = place",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/pəˈzɪʃn/ · /pleɪs/",
+        "us": "/pəˈzɪʃn/ · /pleɪs/"
+      },
+      "meaningVi": "vị trí (n) = đặt, để vào chỗ (v)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v51",
+      "no": 21,
+      "word": "intersection",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɪntəsekʃn/",
+        "us": "/ˈɪntərsekʃn/"
+      },
+      "meaningVi": "ngã tư, giao lộ",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v52",
+      "no": 22,
+      "word": "climb",
+      "pos": "v",
+      "ipa": {
+        "uk": "/klaɪm/",
+        "us": "/klaɪm/"
+      },
+      "meaningVi": "trèo, leo lên",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v53",
+      "no": 23,
+      "word": "lead",
+      "pos": "v",
+      "ipa": {
+        "uk": "/liːd/",
+        "us": "/liːd/"
+      },
+      "meaningVi": "dẫn tới, dẫn dắt",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v54",
+      "no": 24,
+      "word": "discussion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈskʌʃn/",
+        "us": "/dɪˈskʌʃn/"
+      },
+      "meaningVi": "cuộc thảo luận",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v55",
+      "no": 25,
+      "word": "stock",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/stɒk/",
+        "us": "/stɑːk/"
+      },
+      "meaningVi": "hàng trong kho (n); chất hàng lên kệ (v)",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v56",
+      "no": 26,
+      "word": "storage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈstɔːrɪdʒ/",
+        "us": "/ˈstɔːrɪdʒ/"
+      },
+      "meaningVi": "việc lưu trữ, kho chứa",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v57",
+      "no": 27,
+      "word": "hill",
+      "pos": "n",
+      "ipa": {
+        "uk": "/hɪl/",
+        "us": "/hɪl/"
+      },
+      "meaningVi": "ngọn đồi",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    },
+    {
+      "id": "d2-v58",
+      "no": 28,
+      "word": "crew",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kruː/",
+        "us": "/kruː/"
+      },
+      "meaningVi": "tổ, nhóm làm việc",
+      "image": null,
+      "example": null,
+      "group": "Practice 2",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "ipa": "pdf",
+        "meaningVi": "ai"
+      }
+    }
+  ]
+}

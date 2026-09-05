@@ -1,0 +1,30 @@
+{
+  "collection": "theory",
+  "day": "day-2",
+  "title": "Lý thuyết tả tranh vật & tranh hỗn hợp",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d2-t-things",
+      "type": "notes",
+      "title": "DAY 2.1 — Tranh tả vật (Photographs of things)",
+      "lines": [
+        "Tranh tả vật sẽ không có người trong tranh → loại ngay mọi đáp án chứa danh từ chỉ người.",
+        "Các cấu trúc BỊ ĐỘNG là thứ hay gặp nhất khi mô tả tranh về vật.",
+        "Ngoài bị động, tranh vật còn dùng hiện tại đơn, hiện tại tiếp diễn và There is/are — xem Grammar corner."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d2-t-assorted",
+      "type": "notes",
+      "title": "DAY 2.2 — Tranh hỗn hợp (Assorted photographs)",
+      "lines": [
+        "Chủ ngữ là cả người lẫn vật → dùng được toàn bộ công thức của hai loại tranh kia.",
+        "Có thêm một công thức riêng: hiện tại tiếp diễn thể BỊ ĐỘNG — diễn tả một vật đang bị người tác động.",
+        "Ví dụ: A picture is being hung on the wall — có người đang thực hiện hành động treo tranh."
+      ],
+      "source": "pdf"
+    }
+  ]
+}

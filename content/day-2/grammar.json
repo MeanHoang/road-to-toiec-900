@@ -1,0 +1,104 @@
+{
+  "collection": "grammar",
+  "day": "day-2",
+  "title": "Grammar corner",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d2-g1",
+      "voice": "passive",
+      "name": "Bị động ở thì Hiện tại đơn",
+      "nameVi": "được … ",
+      "formula": "S + is/are + PII + place",
+      "example": {
+        "en": "A picture is hung on the wall.",
+        "vi": "Một bức tranh được treo trên tường."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    },
+    {
+      "id": "d2-g2",
+      "voice": "passive",
+      "name": "Bị động ở thì Hiện tại hoàn thành",
+      "nameVi": "đã được …",
+      "formula": "S + have/has been + PII + place",
+      "example": {
+        "en": "A picture has been hung on the wall.",
+        "vi": "Một bức tranh đã được treo trên tường."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    },
+    {
+      "id": "d2-g3",
+      "voice": "active",
+      "name": "Thì Hiện tại đơn",
+      "nameVi": "thì đang ở …",
+      "formula": "S + is/are/Vo/Vs/es + N + place",
+      "example": {
+        "en": "A picture is on the wall.",
+        "vi": "Một bức tranh thì ở trên tường."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    },
+    {
+      "id": "d2-g4",
+      "voice": "active",
+      "name": "Thì Hiện tại tiếp diễn",
+      "nameVi": "đang …",
+      "formula": "S + is/are + V_ing + place",
+      "example": {
+        "en": "A picture is hanging on the wall.",
+        "vi": "Một bức tranh đang treo trên tường."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    },
+    {
+      "id": "d2-g5",
+      "voice": "active",
+      "name": "There is / are",
+      "nameVi": "Có một / Có những …",
+      "formula": "There + is/are + N + place",
+      "example": {
+        "en": "There is a picture on the wall.",
+        "vi": "Có một bức tranh trên tường."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    },
+    {
+      "id": "d2-g6",
+      "voice": "passive",
+      "name": "Bị động ở thì Hiện tại tiếp diễn",
+      "nameVi": "đang được … (có người đang làm)",
+      "formula": "S + is/are + being + PII + place",
+      "example": {
+        "en": "A picture is being hung on the wall.",
+        "vi": "Một bức tranh đang được treo trên tường (có người đang thực hiện hành động treo tranh)."
+      },
+      "source": {
+        "formula": "pdf",
+        "example": "pdf",
+        "exampleVi": "pdf"
+      }
+    }
+  ]
+}

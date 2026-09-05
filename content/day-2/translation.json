@@ -1,0 +1,138 @@
+{
+  "collection": "translation",
+  "day": "day-2",
+  "title": "Bài tập ngữ pháp — gạch S/V/O rồi dịch",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d2-tr01",
+      "no": 1,
+      "tokens": [
+        "The director",
+        "wants to examine",
+        "the environmental effects",
+        "of his company's activities"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Giám đốc muốn xem xét những tác động tới môi trường từ các hoạt động của công ty ông ấy.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr02",
+      "no": 2,
+      "tokens": [
+        "The president",
+        "unintentionally",
+        "took",
+        "Ms. Potvin's timetable"
+      ],
+      "key": ["S", null, "V", "O"],
+      "vi": "Vị chủ tịch đã vô ý cầm nhầm thời khoá biểu của bà Potvin.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr03",
+      "no": 3,
+      "tokens": [
+        "All employees",
+        "may order",
+        "any necessary office supplies",
+        "from the catalog"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Mọi nhân viên có thể đặt bất kỳ vật dụng văn phòng cần thiết nào từ cuốn catalog.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr04",
+      "no": 4,
+      "tokens": [
+        "At the meeting",
+        "the manager",
+        "announced",
+        "that she would prepare the presentation for the project"
+      ],
+      "key": [null, "S", "V", "O"],
+      "vi": "Tại cuộc họp, người quản lý thông báo rằng cô ấy sẽ chuẩn bị bài thuyết trình cho dự án.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr05",
+      "no": 5,
+      "tokens": [
+        "Mr. White",
+        "asked",
+        "management",
+        "for a salary increase"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Ông White đã đề nghị ban quản lý tăng lương.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr06",
+      "no": 6,
+      "tokens": [
+        "Company representatives",
+        "spend",
+        "the whole day",
+        "answering phones and e-mails"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Các đại diện của công ty dành cả ngày để trả lời điện thoại và email.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr07",
+      "no": 7,
+      "tokens": [
+        "The manager",
+        "welcomed",
+        "us",
+        "to the factory floor"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Người quản lý đã chào đón chúng tôi tới khu xưởng sản xuất.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr08",
+      "no": 8,
+      "tokens": [
+        "Dr. Elizabeth",
+        "was",
+        "alone",
+        "until the arrival of Dr. Lan Desilva at 8:30 A.M."
+      ],
+      "key": ["S", "V", null, null],
+      "vi": "Bác sĩ Elizabeth ở một mình cho tới khi bác sĩ Lan Desilva tới lúc 8 giờ 30 sáng.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr09",
+      "no": 9,
+      "tokens": [
+        "The guests",
+        "have to reserve",
+        "a hotel",
+        "for themselves"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Khách phải tự đặt khách sạn cho mình.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    },
+    {
+      "id": "d2-tr10",
+      "no": 10,
+      "tokens": [
+        "Ms. Nora",
+        "decided to find",
+        "a solution",
+        "for her problem"
+      ],
+      "key": ["S", "V", "O", null],
+      "vi": "Cô Nora đã quyết định tìm ra giải pháp cho vấn đề của mình.",
+      "source": { "tokens": "pdf", "key": "ai", "vi": "ai" }
+    }
+  ]
+}

@@ -15,6 +15,13 @@ import d1listening from '@/content/day-1/listening.json';
 import d1pictures from '@/content/day-1/pictures.json';
 import d1quiz from '@/content/day-1/quiz.json';
 
+import d2day from '@/content/day-2/day.json';
+import d2grammar from '@/content/day-2/grammar.json';
+import d2theory from '@/content/day-2/theory.json';
+import d2vocabulary from '@/content/day-2/vocabulary.json';
+import d2translation from '@/content/day-2/translation.json';
+import d2listening from '@/content/day-2/listening.json';
+
 import { assemble } from './schema';
 
 const REGISTRY = {
@@ -27,6 +34,14 @@ const REGISTRY = {
     listening: d1listening,
     pictures: d1pictures,
     quiz: d1quiz,
+  },
+  'day-2': {
+    day: d2day,
+    grammar: d2grammar,
+    theory: d2theory,
+    vocabulary: d2vocabulary,
+    translation: d2translation,
+    listening: d2listening,
   },
 };
 

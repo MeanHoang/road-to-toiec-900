@@ -1,0 +1,1211 @@
+{
+  "collection": "listening",
+  "day": "day-2",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d2-p31",
+      "code": "p31",
+      "title": "Practice 1 — File 3.1",
+      "subtitle": "Tranh tả vật: nghe và chép nốt câu mô tả bức tranh",
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d2-p31-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/practice-file-3-1/1.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-1.jpg",
+          "answer": null,
+          "transcript": "Unit 3. A small table has been placed in the corner of a room. A chest of drawers is against a wall. A picture has been hung near a lamp.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A small table"
+            },
+            {
+              "prefix": "A chest of drawers"
+            },
+            {
+              "prefix": "A picture"
+            }
+          ]
+        },
+        {
+          "id": "d2-p31-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/practice-file-3-1/2.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-2.jpg",
+          "answer": null,
+          "transcript": "The house is reflected in the water. A tree has been planted near the water. The house has a pointed roof.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "The house"
+            },
+            {
+              "prefix": "A tree"
+            },
+            {
+              "prefix": "The house"
+            }
+          ]
+        },
+        {
+          "id": "d2-p31-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/practice-file-3-1/3.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-3.jpg",
+          "answer": null,
+          "transcript": "There are buildings along the shore. Some buildings are larger than others. Skyscrapers overlook the water.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "There are"
+            },
+            {
+              "prefix": "Some buildings"
+            },
+            {
+              "prefix": "Skyscrapers"
+            }
+          ]
+        },
+        {
+          "id": "d2-p31-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/practice-file-3-1/4.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-1.jpg",
+          "answer": null,
+          "transcript": "Tables and chairs are set up outdoors. Some chairs have been placed around the tables. There are umbrellas at some of the tables.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "Tables and chairs"
+            },
+            {
+              "prefix": "Some chairs"
+            },
+            {
+              "prefix": "There are"
+            }
+          ]
+        },
+        {
+          "id": "d2-p31-05",
+          "no": 5,
+          "audio": "/assets/day-2/audio/practice-file-3-1/5.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-2.jpg",
+          "answer": null,
+          "transcript": "Some cars are parked along the street. A building is covered with vines. Windows face a city street.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "Some cars"
+            },
+            {
+              "prefix": "A building"
+            },
+            {
+              "prefix": "Windows"
+            }
+          ]
+        },
+        {
+          "id": "d2-p31-06",
+          "no": 6,
+          "audio": "/assets/day-2/audio/practice-file-3-1/6.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-3.jpg",
+          "answer": null,
+          "transcript": "Some jackets are on display in a store. Some merchandise has been hung outside the store. Some clothes have been piled into baskets.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "Some jackets"
+            },
+            {
+              "prefix": "Some merchandise"
+            },
+            {
+              "prefix": "Some clothes",
+              "suffix": "into baskets."
+            }
+          ]
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d2-p32",
+      "code": "p32",
+      "title": "Practice 1 — File 3.2",
+      "subtitle": "Tranh tả vật: nghe rồi điền các phương án còn thiếu",
+      "mode": "choice",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d2-p32-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/practice-file-3-2/1.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-1.jpg",
+          "answer": null,
+          "lines": [
+            "A. The _________ is _________ ________ a bridge.",
+            "B. The bridge is ___________ in the ____________."
+          ],
+          "transcript": {
+            "A": "The boat is resting under a bridge.",
+            "B": "The bridge is reflected in the water."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p32-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/practice-file-3-2/2.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-2.jpg",
+          "answer": null,
+          "lines": [
+            "A. Some ________ are on _________ in a ________.",
+            "B. ___________ are being ________ on the _______."
+          ],
+          "transcript": {
+            "A": "Some shoes are on display in a store.",
+            "B": "Tiles are being placed on the floor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p32-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/practice-file-3-2/3.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-3.jpg",
+          "answer": null,
+          "lines": [
+            "A. The _________ has been _________ on the _________.",
+            "B. The ________ is _________ the desk and the ________.",
+            "C. The ________ has been placed _______ to the ________.",
+            "D. The __________ is ___________ the ___________."
+          ],
+          "transcript": {
+            "A": "The lamp has been set on the floor.",
+            "B": "The chair is between the desk and the globe.",
+            "C": "The globe has been placed next to the desk.",
+            "D": "The lamp is behind the curtain."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p32-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/practice-file-3-2/4.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-4.jpg",
+          "answer": null,
+          "lines": [
+            "A. The __________ is __________ by a ___________ tree.",
+            "B. A __________ is ___________ next to the __________.",
+            "C. There are _________ ________ ________ on the street.",
+            "D. Several _________ are __________ at a stop ________."
+          ],
+          "transcript": {
+            "A": "The street is blocked by a fallen tree.",
+            "B": "A vehicle is parked next to the building.",
+            "C": "There are several lines painted on the street.",
+            "D": "Several cars are stopped at a stop sign."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d2-p41",
+      "code": "p41",
+      "title": "Practice 2 — File 4.1",
+      "subtitle": "Tranh hỗn hợp: nghe và chép nốt câu mô tả bức tranh",
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d2-p41-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/practice-file-4-1/1.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-1.jpg",
+          "answer": null,
+          "transcript": "Unit 4. A woman is standing with her arms crossed. Some paintings have been hung on the walls. A sculpture has been positioned in the middle of the room.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A woman"
+            },
+            {
+              "prefix": "Some paintings"
+            },
+            {
+              "prefix": "A sculpture",
+              "suffix": "the room."
+            }
+          ]
+        },
+        {
+          "id": "d2-p41-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/practice-file-4-1/2.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-2.jpg",
+          "answer": null,
+          "transcript": "People are browsing in a bookstore. The shelves are filled with books. Some books are displayed against a wall.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "People"
+            },
+            {
+              "prefix": "The shelves"
+            },
+            {
+              "prefix": "Some books"
+            }
+          ]
+        },
+        {
+          "id": "d2-p41-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/practice-file-4-1/3.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-3.jpg",
+          "answer": null,
+          "transcript": "A man is riding a bicycle. A cyclist is heading towards some trees. A path winds through some trees.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A man"
+            },
+            {
+              "prefix": "A cyclist"
+            },
+            {
+              "prefix": "A path"
+            }
+          ]
+        },
+        {
+          "id": "d2-p41-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/practice-file-4-1/4.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-1.jpg",
+          "answer": null,
+          "transcript": "A pedestrian is crossing the street. A man is in the middle of the street. Different kinds of vehicles are sharing the road.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A pedestrian"
+            },
+            {
+              "prefix": "A man"
+            },
+            {
+              "prefix": "Different kinds"
+            }
+          ]
+        },
+        {
+          "id": "d2-p41-05",
+          "no": 5,
+          "audio": "/assets/day-2/audio/practice-file-4-1/5.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-2.jpg",
+          "answer": null,
+          "transcript": "The workers are building a house. A house is being constructed. Some ladders are leaning against a building.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "The workers"
+            },
+            {
+              "prefix": "A house"
+            },
+            {
+              "prefix": "Some ladders"
+            }
+          ]
+        },
+        {
+          "id": "d2-p41-06",
+          "no": 6,
+          "audio": "/assets/day-2/audio/practice-file-4-1/6.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-3.jpg",
+          "answer": null,
+          "transcript": "A man is reaching for the box at the top. One man is bending over a box. Some boxes have been stacked several rows high.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "prompts": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          },
+          "prompts": [
+            {
+              "prefix": "A man"
+            },
+            {
+              "prefix": "One man"
+            },
+            {
+              "prefix": "Some boxes"
+            }
+          ]
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d2-p42",
+      "code": "p42",
+      "title": "Practice 2 — File 4.2",
+      "subtitle": "Tranh hỗn hợp: nghe rồi điền các phương án còn thiếu",
+      "mode": "choice",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d2-p42-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/practice-file-4-2/1.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-1a.jpg",
+          "answer": null,
+          "lines": [
+            "__________ kinds of __________ are __________ the road."
+          ],
+          "transcript": "Different kinds of vehicles are sharing the road.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/practice-file-4-2/2.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-1b.jpg",
+          "answer": null,
+          "lines": [
+            "The publications are __________ __________ a __________."
+          ],
+          "transcript": "The publications are displayed against a wall.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/practice-file-4-2/3.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-2a.jpg",
+          "answer": null,
+          "lines": [
+            "A. A series of __________ has been __________ on the __________.",
+            "B. __________ are __________ __________ the paintings."
+          ],
+          "transcript": {
+            "A": "A series of paintings has been hung on the wall.",
+            "B": "Benches are positioned under the paintings."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/practice-file-4-2/4.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-2b.jpg",
+          "answer": null,
+          "lines": [
+            "A. __________ are __________ the __________.",
+            "B. __________ are __________ the __________."
+          ],
+          "transcript": {
+            "A": "Cars are blocking the intersection.",
+            "B": "Pedestrians are crossing the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-05",
+          "no": 5,
+          "audio": "/assets/day-2/audio/practice-file-4-2/5.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-1.jpg",
+          "answer": null,
+          "lines": [
+            "A. They’re ______________ the ___________.",
+            "B. A man is _____________ the ____________.",
+            "C. They’re ____________ a large ___________.",
+            "D. The __________ is _________ ________ a tree."
+          ],
+          "transcript": {
+            "A": "They're fixing the windows.",
+            "B": "A man is climbing the tree.",
+            "C": "They're moving a large machine.",
+            "D": "The ladder is leaning against a tree."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-06",
+          "no": 6,
+          "audio": "/assets/day-2/audio/practice-file-4-2/6.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-2.jpg",
+          "answer": null,
+          "lines": [
+            "A. The man is ___________ a _____________.",
+            "B. The man is ___________ the ____________.",
+            "C. The _______ have been _________ in _________.",
+            "D. The __________ are ________ _________ books."
+          ],
+          "transcript": {
+            "A": "The man is leading a discussion.",
+            "B": "The man is stocking the shelves.",
+            "C": "The books have been placed in storage.",
+            "D": "The shelves are filled with books."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-p42-07",
+          "no": 7,
+          "audio": "/assets/day-2/audio/practice-file-4-2/7.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-3.jpg",
+          "answer": null,
+          "lines": [
+            "A. There are ______ on ______ sides of the _______.",
+            "B. Some people are ________ ________ a ________.",
+            "C. There are _____ ________ on top of the _______.",
+            "D. A __________ _______ is _________ on the road."
+          ],
+          "transcript": {
+            "A": "There are trees on both sides of the street.",
+            "B": "Some people are walking along a path.",
+            "C": "There are no buildings on top of the hill.",
+            "D": "A construction crew is working on the road."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": null,
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d2-hw1",
+      "code": "hw1",
+      "title": "Homework 1",
+      "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-2/audio/homework-homework-1/0 - Full - HOMEWORK 1.mp3",
+      "questions": [
+        {
+          "id": "d2-hw1-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/homework-homework-1/1.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p09-1.jpg",
+          "answer": "D",
+          "lines": [
+            "A. The __________ are being _______________.",
+            "B. The __________ is under _______________.",
+            "C. The bicyclists are _________ through the _________.",
+            "D. Some __________ are __________ on the street."
+          ],
+          "transcript": {
+            "A": "The signs are being painted.",
+            "B": "The building is under construction.",
+            "C": "The bicyclists are riding through the streets.",
+            "D": "Some cars are parked on the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/homework-homework-1/2.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p09-2.jpg",
+          "answer": "B",
+          "lines": [
+            "A. They’re ___________ in line ___________.",
+            "B. They’re ___________ a game __________.",
+            "C. They’re ___________ at the ____________.",
+            "D. They’re _____________________________."
+          ],
+          "transcript": {
+            "A": "They're waiting in line together.",
+            "B": "They're playing a game outdoors.",
+            "C": "They're sitting at the dentist's office.",
+            "D": "They're opening the gate."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/homework-homework-1/3.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p10-1.jpg",
+          "answer": "A",
+          "lines": [
+            "A. A man is ______________ from the _____________.",
+            "B. The ____________ is ___________ with swimmers.",
+            "C. The _____________ are pulling in their _________.",
+            "D. The man is ________________________________."
+          ],
+          "transcript": {
+            "A": "A man is fishing from the shore.",
+            "B": "The beach is crowded with swimmers.",
+            "C": "The fishermen are pulling in their nets.",
+            "D": "The man is cooking a fish."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/homework-homework-1/4.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p10-2.jpg",
+          "answer": "C",
+          "lines": [
+            "A. The woman has __________________________.",
+            "B. The men are ___________ across the _________.",
+            "C. There is a pair of ___________ on the __________.",
+            "D. The woman is putting ____________ in a ________."
+          ],
+          "transcript": {
+            "A": "The woman has left her seat.",
+            "B": "The men are leaning across the table.",
+            "C": "There is a pair of sunglasses on the table.",
+            "D": "The woman is putting some flowers in a vase."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-05",
+          "no": 5,
+          "audio": "/assets/day-2/audio/homework-homework-1/5.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p11-1.jpg",
+          "answer": "D",
+          "lines": [
+            "A. There’s a chair __________________________.",
+            "B. There are no ___________ on the __________.",
+            "C. There’s a stack of sheets __________________.",
+            "D. There’s a _________________ above the beds."
+          ],
+          "transcript": {
+            "A": "There's a chair next to the beds.",
+            "B": "There are no pillows on the bed.",
+            "C": "There's a stack of sheets on the shelf.",
+            "D": "There's a picture above the beds."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-06",
+          "no": 6,
+          "audio": "/assets/day-2/audio/homework-homework-1/6.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p11-2.jpg",
+          "answer": "C",
+          "lines": [
+            "A. The ___________ are being ________________.",
+            "B. The people ___________ on the ____________.",
+            "C. The people are ___________ to the _____________.",
+            "D. The ____________ are cleaning the _____________."
+          ],
+          "transcript": {
+            "A": "The handrails are being polished.",
+            "B": "The people are seated on the steps.",
+            "C": "The people are going up to the next floor.",
+            "D": "The workers are cleaning the walkway."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-07",
+          "no": 7,
+          "audio": "/assets/day-2/audio/homework-homework-1/7.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p12-12.jpg",
+          "answer": "D",
+          "lines": [
+            "A. The man is ________________ some ___________.",
+            "B. A ___________ is being hung _________________.",
+            "C. The man is ________ down to _________ some tape.",
+            "D. A ___________ has been _________ along the street."
+          ],
+          "transcript": {
+            "A": "The man is throwing away some posters.",
+            "B": "The picture is being hung on the wall.",
+            "C": "The man is reaching down to pick up some tape.",
+            "D": "A railing has been placed along the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-08",
+          "no": 8,
+          "audio": "/assets/day-2/audio/homework-homework-1/8.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p12-3.jpg",
+          "answer": "B",
+          "lines": [
+            "A. She’s ___________ some ____________ together.",
+            "B. She’s doing some _________________________.",
+            "C. She’s ________________ her _______________.",
+            "D. She’s ______________ to the _______________."
+          ],
+          "transcript": {
+            "A": "She's stapling some documents together.",
+            "B": "She's doing some paperwork.",
+            "C": "She's looking over her shoulder.",
+            "D": "She's riding to the office."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-09",
+          "no": 9,
+          "audio": "/assets/day-2/audio/homework-homework-1/9.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p13-1.jpg",
+          "answer": "A",
+          "lines": [
+            "A. The taller ______ is propped up against the _______.",
+            "B. The man is _____________ the ____________.",
+            "C. The windows are closed _______ of the __________.",
+            "D. The man is _________________ in front of the house."
+          ],
+          "transcript": {
+            "A": "The taller ladder is propped up against the building.",
+            "B": "The man is putting away the ladder.",
+            "C": "The windows are closed because of the cold weather.",
+            "D": "The man is planting a flower garden in front of the house."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw1-10",
+          "no": 10,
+          "audio": "/assets/day-2/audio/homework-homework-1/10.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p13-2.jpg",
+          "answer": "B",
+          "lines": [
+            "A. The _______ is setting up some ______ at each table.",
+            "B. Potted _________ have been arranged along the _________ of the _________.",
+            "C. Some _________ are sharing a _______ on a _______.",
+            "D. The __________ have been ________ for the evening."
+          ],
+          "transcript": {
+            "A": "The waiter is setting up some chairs at each table.",
+            "B": "Potted plants have been arranged along the border of the patio.",
+            "C": "Some customers are sharing a seat on a bench.",
+            "D": "The tablecloths have been removed for the evening."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d2-hw2",
+      "code": "hw2",
+      "title": "Homework 2",
+      "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-2/audio/homework-homework-2/Test03 - full.mp3",
+      "questions": [
+        {
+          "id": "d2-hw2-01",
+          "no": 1,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_01.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p15-1.jpg",
+          "answer": "B",
+          "lines": [
+            "A. He’s _______________ a briefcase.",
+            "B. He’s ________________________.",
+            "C. He’s _________________ a plane.",
+            "D. He’s _______________ the ground."
+          ],
+          "transcript": {
+            "A": "He's opening a briefcase.",
+            "B": "He's wearing a hat.",
+            "C": "He's piloting a plane.",
+            "D": "He's sweeping the ground."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-02",
+          "no": 2,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_02.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p15-2.jpg",
+          "answer": "A",
+          "lines": [
+            "A. The man is ____________________ of paper.",
+            "B. The man is __________ a drawer _________.",
+            "C. The man is ___________________________.",
+            "D. The man is ___________________________."
+          ],
+          "transcript": {
+            "A": "The man is writing on a sheet of paper.",
+            "B": "The man is pulling a drawer open.",
+            "C": "The man is wrapping gifts.",
+            "D": "The man is installing shelves."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-03",
+          "no": 3,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_03.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p16-1.jpg",
+          "answer": "D",
+          "lines": [
+            "A. She’s ______________________________.",
+            "B. She’s ______________________________.",
+            "C. She’s ______________________________.",
+            "D. She’s ______________ a button."
+          ],
+          "transcript": {
+            "A": "She's opening a box.",
+            "B": "She's pulling a cart.",
+            "C": "She's cleaning a floor.",
+            "D": "She's pushing a button."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-04",
+          "no": 4,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_04.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p16-2.jpg",
+          "answer": "C",
+          "lines": [
+            "A. They’re _____________________________.",
+            "B. They’re _______________ some steps.",
+            "C. They’re ____________________________.",
+            "D. They’re _______________ bricks."
+          ],
+          "transcript": {
+            "A": "They're working in a shop.",
+            "B": "They're climbing some steps.",
+            "C": "They're walking outdoors.",
+            "D": "They're laying bricks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-05",
+          "no": 5,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_05.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p17-1.jpg",
+          "answer": "B",
+          "lines": [
+            "A. The people are ______________________.",
+            "B. The ___________ are on _____________.",
+            "C. The _______________ are clearly visible.",
+            "D. The pies _________________________."
+          ],
+          "transcript": {
+            "A": "The people are eating the pies.",
+            "B": "The desserts are on display.",
+            "C": "The prices are clearly visible.",
+            "D": "The pies are being sliced."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-06",
+          "no": 6,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_06.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p17-2.jpg",
+          "answer": "D",
+          "lines": [
+            "A. A man is __________________________.",
+            "B. A man is _________________ a purchase.",
+            "C. A man is _______________ a photograph.",
+            "D. A man is __________________________."
+          ],
+          "transcript": {
+            "A": "A man is painting a picture.",
+            "B": "A man is paying for a purchase.",
+            "C": "A man is hanging up a photograph.",
+            "D": "A man is adjusting a camera."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-07",
+          "no": 7,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_07.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p18-1.jpg",
+          "answer": "D",
+          "lines": [
+            "A. The man is _________________________.",
+            "B. The bicycle is ______________________.",
+            "C. The man is _________________________.",
+            "D. The bicycle is in a ___________________."
+          ],
+          "transcript": {
+            "A": "The man is fixing his watch.",
+            "B": "The bicycle is lying on the ground.",
+            "C": "The man is cleaning the shop.",
+            "D": "The bicycle is in a repair shop."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-08",
+          "no": 8,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_08.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p18-2.jpg",
+          "answer": "B",
+          "lines": [
+            "A. The woman’s hand ___________________.",
+            "B. The woman is _______________________.",
+            "C. The woman’s hat is ___________________.",
+            "D. The woman is _______________________."
+          ],
+          "transcript": {
+            "A": "The woman's hands are in her pockets.",
+            "B": "The woman is kneeling in the garden.",
+            "C": "The woman's hat is on the ground.",
+            "D": "The woman is surrounded by flowers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-09",
+          "no": 9,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_09.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p19-1.jpg",
+          "answer": "C",
+          "lines": [
+            "A. He’s ______________________________.",
+            "B. He’s ______________________________.",
+            "C. He’s ______________________________.",
+            "D. He’s comparing _____________________."
+          ],
+          "transcript": {
+            "A": "He's packing his luggage.",
+            "B": "He's picking up his briefcase.",
+            "C": "He's working on a laptop computer.",
+            "D": "He's comparing two computers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        },
+        {
+          "id": "d2-hw2-10",
+          "no": 10,
+          "audio": "/assets/day-2/audio/homework-homework-2/Test03_10.mp3",
+          "image": "/assets/day-2/images/day-2-t-i-li-u/p19-2.jpg",
+          "answer": "C",
+          "lines": [
+            "A. The woman is _______________________.",
+            "B. The woman is _______________________.",
+            "C. The woman is ______________________.",
+            "D. The woman is ______________________."
+          ],
+          "transcript": {
+            "A": "The woman is getting a cup of coffee.",
+            "B": "The woman is sitting near the machine.",
+            "C": "The woman is picking up a document.",
+            "D": "The woman is unplugging the machine."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "lines": "pdf",
+            "transcript": "whisper",
+            "image": "pdf"
+          }
+        }
+      ],
+      "source": "drive"
+    }
+  ]
+}

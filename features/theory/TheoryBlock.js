@@ -15,6 +15,8 @@ export function TheoryBlock({ block }) {
   switch (block.type) {
     case 'aspects':
       return <AspectsBlock block={block} />;
+    case 'notes':
+      return <NotesBlock block={block} />;
     case 'pairs':
       return <PairsBlock block={block} />;
     case 'wordGroups':
@@ -29,6 +31,23 @@ export function TheoryBlock({ block }) {
         </Notice>
       );
   }
+}
+
+/** Khối ghi chú thuần chữ: vài ý cần nhớ về một loại tranh. */
+function NotesBlock({ block }) {
+  return (
+    <Section title={block.title}>
+      <Card>
+        <div className="stack" style={{ gap: 'var(--space-3)' }}>
+          {block.lines.map((line, i) => (
+            <p key={i} style={{ lineHeight: 'var(--leading-snug)' }}>
+              {line}
+            </p>
+          ))}
+        </div>
+      </Card>
+    </Section>
+  );
 }
 
 function AspectsBlock({ block }) {
