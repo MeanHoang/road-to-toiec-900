@@ -300,15 +300,6 @@
   );
 }
 
-/* Màn cần tập trung. Việc DỪNG animation do LottiePiece lo bằng JS — CSS không
-   với tới được, vì Lottie tự vẽ từng khung chứ không chạy CSS animation. */
-.event-overlay.is-calm > div {
-  animation: none;
-}
-.event-overlay.is-calm {
-  opacity: 0.5;
-}
-
 @keyframes ev-fade-in {
   from {
     opacity: 0;

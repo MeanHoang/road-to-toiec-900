@@ -61,11 +61,11 @@ const LAMPS = [
   [97, 72, 56, -3, 0.7],
 ];
 
-export function MidAutumnScene({ calm = false }) {
+export function MidAutumnScene() {
   return (
     <>
-      <div className={`event-overlay${calm ? ' is-calm' : ''}`} aria-hidden="true">
-        <LottiePiece src={`${A}/moon-girl.json`} className="ev-moon" still={calm} speed={0.55} />
+      <div className="event-overlay" aria-hidden="true">
+        <LottiePiece src={`${A}/moon-girl.json`} className="ev-moon" speed={0.55} />
 
         {/* Mây GIỮ NGUYÊN một khung hình: file gốc phóng to thu nhỏ theo vòng
             lặp, nhìn như đang thở. Mây thật thì trôi chứ không phập phồng — nên
@@ -97,14 +97,14 @@ export function MidAutumnScene({ calm = false }) {
               '--delay': `${delay}s`,
               '--op': op,
             }}
-            still={calm || !live}
+            still={!live}
             rest={0.45}
             speed={0.6}
           />
         ))}
 
-        <LottiePiece src={`${A}/rabbit.json`} className="ev-bunny" still={calm} speed={0.5} />
-        <LottiePiece src={`${A}/rabbit-wave.json`} className="ev-bunny-wave" still={calm} speed={0.5} />
+        <LottiePiece src={`${A}/rabbit.json`} className="ev-bunny" speed={0.5} />
+        <LottiePiece src={`${A}/rabbit-wave.json`} className="ev-bunny-wave" speed={0.5} />
 
         {/* Cảnh sống ở nửa trên; nửa dưới tan vào đúng --bg phẳng, nơi có danh
             sách buổi, bảng từ vựng và ô nhập chính tả. */}
@@ -117,7 +117,7 @@ export function MidAutumnScene({ calm = false }) {
           nghe đang mở thì hết đường đọc. `pointer-events: none` để nó không
           nuốt mất cú bấm nào. */}
       <div className="ev-front" aria-hidden="true">
-        <LottiePiece src={`${A}/rabbit-scooter.json`} className="ev-scooter" still={calm} />
+        <LottiePiece src={`${A}/rabbit-scooter.json`} className="ev-scooter" />
       </div>
     </>
   );
