@@ -165,6 +165,10 @@ they sit in `features/` and not in `organisms/`. Inside `shared/ui`, the levels 
 atomic ones: an atom is composed of nothing, a molecule of atoms, an organism stands alone
 on a page.
 
+The `arch-review` skill checks a diff against these rules — six greps for the mechanical part
+(no upward imports, no barrels, no data access in `app/`), and the placement questions for the
+part greps cannot answer. Run it before committing a new component or hook.
+
 ## Data model
 
 One folder per lesson, one JSON file per content type. Every file has the same envelope:
