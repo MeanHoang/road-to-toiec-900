@@ -1,0 +1,456 @@
+/* =============================================================================
+   SỰ KIỆN — TẾT TRUNG THU
+   Bật/tắt bằng ACTIVE_EVENT trong shared/lib/event.js, không phải ở đây.
+
+   Khối 1-3  override token tier-2 (+ vài biến --ev-* cho lớp phủ)
+   Khối 4    nền: đưa lên <html> để lớp phủ z-index:-1 nằm đúng chỗ
+   Khối 5    lớp phủ Lottie
+
+   Vì sao phải viết ĐỦ BA khối token, giống hệt cách tokens.css làm: selector
+   `:root[data-event]` có specificity (0,2,0), HOÀ với `:root[data-theme='dark']`.
+   Nếu chỉ viết một khối [data-event] thì thứ tự import quyết định — và sự kiện
+   sẽ kéo cả dark mode về light. Giá trị dark bị lặp hai lần là cố ý.
+   ========================================================================== */
+
+/* -------------------------------------------------------------- 1. BAN NGÀY */
+/* "Giấy dó & sơn mài" — chiều rằm, không phải ban ngày trống trơn. */
+:root[data-event='mid-autumn'],
+:root[data-event='mid-autumn'][data-theme='light'] {
+  --bg: #fdf6ea;
+  --bg-subtle: #f9edda;
+  --surface: #fffaf2;
+  --surface-raised: #ffffff;
+  --surface-sunken: #f5e9d6;
+
+  --border: #ecd9be;
+  --border-strong: #d9bd97;
+
+  --text: #2e1c14;
+  --text-muted: #6b4a38;
+  /* Đậm hơn thang gốc một bậc (5,6:1 thay vì 4,6:1). Nhãn phụ là thứ duy nhất
+     nằm trực tiếp trên --bg ở nửa trên màn hình, tức là chỗ cảnh nền lộ ra;
+     dư địa này để nó không tụt xuống dưới ngưỡng đọc được. */
+  --text-subtle: #7d5c46;
+  --text-on-brand: #ffffff;
+
+  /* Đỏ tía sơn mài + xanh ngọc bích, KHÔNG phải đỏ đèn lồng + vàng trăng.
+     Đỏ và vàng đâm thẳng vào --danger và --warning (ΔE chỉ 14-21), nút chính
+     sẽ trông y hệt nút cảnh báo. Đỏ đèn lồng và vàng trăng vẫn còn nguyên —
+     nhưng ở trong bức tranh, nơi chúng không mang nghĩa đúng/sai. */
+  --brand: #9c1750;
+  --brand-hover: #b81d61;
+  --brand-surface: rgba(156, 23, 80, 0.1);
+  --brand-border: rgba(156, 23, 80, 0.32);
+
+  --accent: #0d6d6f;
+  --accent-surface: rgba(13, 109, 111, 0.12);
+
+  --shadow-sm: 0 1px 2px rgba(74, 40, 20, 0.07);
+  --shadow-md: 0 2px 6px rgba(74, 40, 20, 0.08), 0 8px 20px rgba(74, 40, 20, 0.06);
+  --shadow-lg: 0 4px 12px rgba(74, 40, 20, 0.1), 0 18px 44px rgba(74, 40, 20, 0.09);
+
+  --ring: 0 0 0 3px rgba(156, 23, 80, 0.75);
+  --photo-bg: #ffffff;
+  color-scheme: light;
+
+  /* --- biến riêng của lớp phủ --- */
+  --ev-cloud-op: 0.85;
+  --ev-veil-0: rgba(253, 246, 234, 0);
+  /* ban ngày: rửa cảnh về phía kem, hạ tương phản để chữ còn đọc được */
+  --ev-tint: linear-gradient(180deg, rgba(253, 246, 234, 0.42), rgba(253, 246, 234, 0.68));
+  --ev-scrim: rgba(46, 20, 14, 0.5);
+}
+
+/* ------------------------------------------------- 2. BAN ĐÊM theo hệ điều hành */
+@media (prefers-color-scheme: dark) {
+  :root[data-event='mid-autumn']:not([data-theme='light']) {
+    --bg: #150f1c;
+    --bg-subtle: #1c1424;
+    --surface: #211829;
+    --surface-raised: #2a1f33;
+    --surface-sunken: #0f0a15;
+
+    --border: #3a2c42;
+    --border-strong: #55415d;
+
+    --text: #f6ecdd;
+    --text-muted: #bda98f;
+    --text-subtle: #96836f;
+    --text-on-brand: #2a0a1a;
+
+    --brand: #f97fc4;
+    --brand-hover: #ffa0d4;
+    --brand-surface: rgba(249, 127, 196, 0.14);
+    --brand-border: rgba(249, 127, 196, 0.34);
+
+    --accent: #4fd0cf;
+    --accent-surface: rgba(79, 208, 207, 0.16);
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.45);
+    --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.5);
+    --shadow-lg: 0 8px 34px rgba(0, 0, 0, 0.6);
+
+    --ring: 0 0 0 3px rgba(249, 127, 196, 0.68);
+    --photo-bg: #f7f2e9;
+    color-scheme: dark;
+    --ev-cloud-op: 0.2;
+    --ev-veil-0: rgba(21, 15, 28, 0);
+    --ev-tint: linear-gradient(180deg, rgba(21, 15, 28, 0.28), rgba(21, 15, 28, 0.58));
+    --ev-scrim: rgba(10, 5, 16, 0.6);
+  }
+}
+
+/* ------------------------------------------------------ 3. BAN ĐÊM ép cứng */
+/* Lặp nguyên khối 2. Cố ý — tokens.css cũng lặp y hệt như vậy, và nhất quán với
+   file đang có quan trọng hơn DRY ở chỗ này. */
+:root[data-event='mid-autumn'][data-theme='dark'] {
+  --bg: #150f1c;
+  --bg-subtle: #1c1424;
+  --surface: #211829;
+  --surface-raised: #2a1f33;
+  --surface-sunken: #0f0a15;
+  --border: #3a2c42;
+  --border-strong: #55415d;
+  --text: #f6ecdd;
+  --text-muted: #bda98f;
+  --text-subtle: #96836f;
+  --text-on-brand: #2a0a1a;
+  --brand: #f97fc4;
+  --brand-hover: #ffa0d4;
+  --brand-surface: rgba(249, 127, 196, 0.14);
+  --brand-border: rgba(249, 127, 196, 0.34);
+  --accent: #4fd0cf;
+  --accent-surface: rgba(79, 208, 207, 0.16);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.45);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 34px rgba(0, 0, 0, 0.6);
+  --ring: 0 0 0 3px rgba(249, 127, 196, 0.68);
+  --photo-bg: #f7f2e9;
+  color-scheme: dark;
+  --ev-cloud-op: 0.2;
+  --ev-veil-0: rgba(21, 15, 28, 0);
+  --ev-tint: linear-gradient(180deg, rgba(21, 15, 28, 0.28), rgba(21, 15, 28, 0.58));
+  --ev-scrim: rgba(10, 5, 16, 0.6);
+}
+
+/* ----------------------------------------------------------------- 4. NỀN */
+/* Đưa nền lên <html> để phần tử z-index:-1 nằm giữa nền và nội dung.
+   base.css đặt nền trên <body>; theo spec CSS thì nền của body được truyền lên
+   canvas nên z-index:-1 vẫn hiện — nhưng đó là một luật tinh vi, không đáng
+   đem cả hiệu ứng ra cược. Khai báo tường minh thì chắc chắn. */
+:root[data-event='mid-autumn'] {
+  background: var(--bg);
+}
+:root[data-event='mid-autumn'] body {
+  background: transparent;
+}
+
+/* Ngăn kéo NHÌN XUYÊN sang cảnh nền.
+   Chạy được vì thứ tự vẽ: lớp phủ ở z-index -1, ngăn kéo ở 40, cả hai cùng nằm
+   trong .shell — nền ngăn kéo trong mờ thì đèn lồng phía sau lộ ra.
+   `backdrop-filter` KHÔNG phải để cho đẹp mà để đọc được: chữ điều hướng nằm
+   thẳng trên một chiếc đèn lồng đỏ đang trôi qua là hết đường nhìn. Làm mờ hậu
+   cảnh biến cảnh vật thành một mảng màu êm thay vì những hình rõ nét.
+   Trình duyệt không hỗ trợ `backdrop-filter` thì bỏ qua dòng đó và vẫn còn nền
+   đục 82%, tức vẫn đọc tốt — chỉ kém lung linh. */
+:root[data-event='mid-autumn'] .drawer {
+  background: color-mix(in srgb, var(--surface) 82%, transparent);
+  backdrop-filter: blur(16px) saturate(1.15);
+}
+
+/* Hai lớp mờ của repo dùng hex xanh-lạnh thô, lạc quẻ trên bảng màu ấm.
+   Sửa ở đây chứ không đụng vào components.css. */
+:root[data-event='mid-autumn'] .drawer-scrim,
+:root[data-event='mid-autumn'] .modal-scrim {
+  background: var(--ev-scrim);
+}
+
+/* ================================================= 5. LỚP PHỦ / CẢNH VẬT === */
+/* z-index ÂM, không phải dương: đặt z-index dương lên .shell-main sẽ biến nó
+   thành stacking context, mà Modal không dùng portal nên .modal-scrim (60) bị
+   nhốt bên trong và .drawer (40) — vốn là anh em ở ngoài — đè lên trên. Đúng ở
+   màn luyện nghe, nơi drawer tự mở. z-index:-1 không tạo stacking context ở đâu
+   cả: modal, sticky header, thẻ lật 3D đều nguyên vẹn. */
+.event-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+  animation: ev-fade-in 520ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+/* Mọi mảnh đều định vị tuyệt đối và chỉ động bằng transform/opacity. */
+.event-overlay > div {
+  position: absolute;
+}
+
+/* --- trăng: góc trên phải, chỗ duy nhất không có chữ ---------------------- */
+.ev-moon {
+  top: 3vh;
+  right: 4vw;
+  width: 280px;
+  height: 280px;
+  animation: ev-bob 9s ease-in-out infinite alternate;
+}
+
+/* --- mây: hai mép, chừa cột chữ ở giữa ------------------------------------ */
+.ev-cloud {
+  width: var(--w);
+  height: var(--w);
+  opacity: var(--ev-cloud-op);
+  animation: ev-drift var(--dur) ease-in-out var(--delay) infinite alternate;
+}
+.ev-cloud-1 {
+  --w: 300px;
+  --dur: 78s;
+  --delay: -20s;
+  left: -3vw;
+  top: 12vh;
+}
+.ev-cloud-2 {
+  --w: 220px;
+  --dur: 96s;
+  --delay: -44s;
+  right: 1vw;
+  top: 33vh;
+}
+.ev-cloud-3 {
+  --w: 170px;
+  --dur: 64s;
+  --delay: -9s;
+  left: 14vw;
+  top: 2vh;
+}
+
+/* --- đèn lồng: bay lên từ đáy, thả kín trời ----------------------------- */
+/* Vị trí / cỡ / nhịp truyền vào bằng CSS custom property inline từ
+   MidAutumnScene, nên 16 chiếc đèn dùng chung ĐÚNG MỘT rule và một @keyframes
+   chứ không phải 16 khối CSS gần giống nhau. */
+.ev-lamp {
+  left: var(--x);
+  bottom: -20lvh;
+  width: var(--w);
+  height: var(--w);
+  opacity: var(--op);
+  animation: ev-rise var(--dur) linear var(--delay) infinite;
+}
+
+/* Đèn không chạy Lottie thì tự nghiêng qua nghiêng lại bằng CSS — gộp luôn vào
+   keyframe bay lên, vì một phần tử chỉ có một thuộc tính `transform`. */
+.ev-lamp.is-held {
+  animation-name: ev-rise-sway;
+}
+
+/* --- thỏ ngồi trong cảnh, hai mép, dưới tầm chữ ------------------------- */
+.ev-bunny {
+  left: 3vw;
+  top: 30vh;
+  width: 118px;
+  height: 118px;
+  opacity: 0.9;
+  animation: ev-hop 4.6s ease-in-out infinite alternate;
+}
+.ev-bunny-wave {
+  right: 2vw;
+  top: 46vh;
+  width: 96px;
+  height: 96px;
+  opacity: 0.75;
+  animation: ev-hop 5.8s ease-in-out -2s infinite alternate;
+}
+
+/* =============================== TẦNG TRƯỚC NỘI DUNG ====================== */
+/* Khác hẳn .event-overlay: cái kia ở z-index -1 nằm sau mọi thứ, cái này nằm
+   TRƯỚC nội dung trang. 20 là chọn có tính toán, không phải "trên cùng": ngăn
+   kéo ở 40 và hộp thoại ở 60 vẫn phải thắng, vì một con thỏ chạy ngang qua
+   đáp án bài nghe đang mở thì hết đường đọc.
+   `pointer-events: none` để nó không nuốt mất cú bấm nào — thiếu dòng này là
+   cả dải màn hình thành vùng chết. */
+.ev-front {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+/* Thỏ trượt ván: chạy ngang đáy màn hình, trái sang phải. Bản thân file đã có
+   động tác đạp chân nên ở đây chỉ cần đẩy ngang, không thêm nhún nhảy gì. */
+.ev-scooter {
+  position: absolute;
+  left: 0;
+  bottom: 3vh;
+  width: 170px;
+  height: 170px;
+  animation: ev-scoot 27s linear -7s infinite;
+}
+
+/* Nửa dưới tan vào đúng --bg phẳng, nơi có danh sách buổi, bảng từ vựng và ô
+   nhập chính tả. Dùng rgba trong suốt CÙNG MÀU --bg chứ không dùng
+   `transparent` — `transparent` nội suy qua đen và để lại một vệt xám. */
+.ev-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    var(--ev-veil-0) 0%,
+    var(--ev-veil-0) 34%,
+    var(--bg) 72%
+  );
+}
+
+/* Màn cần tập trung. Việc DỪNG animation do LottiePiece lo bằng JS — CSS không
+   với tới được, vì Lottie tự vẽ từng khung chứ không chạy CSS animation. */
+.event-overlay.is-calm > div {
+  animation: none;
+}
+.event-overlay.is-calm {
+  opacity: 0.5;
+}
+
+@keyframes ev-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes ev-bob {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 18px, 0);
+  }
+}
+@keyframes ev-drift {
+  0% {
+    transform: translate3d(-6vw, 0, 0);
+  }
+  100% {
+    transform: translate3d(6vw, 0, 0);
+  }
+}
+@keyframes ev-rise {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, -132lvh, 0);
+  }
+}
+@keyframes ev-hop {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, -10px, 0);
+  }
+}
+/* Trái sang phải, ra hẳn ngoài khung hai đầu để không thấy nó hiện ra đột ngột. */
+@keyframes ev-scoot {
+  0% {
+    transform: translate3d(-24vw, 0, 0);
+  }
+  100% {
+    transform: translate3d(120vw, 0, 0);
+  }
+}
+/* Bay lên đều, nhưng nghiêng qua nghiêng lại như bị gió tạt. */
+@keyframes ev-rise-sway {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(-5deg);
+  }
+  25% {
+    transform: translate3d(0, -33lvh, 0) rotate(4deg);
+  }
+  50% {
+    transform: translate3d(0, -66lvh, 0) rotate(-3deg);
+  }
+  75% {
+    transform: translate3d(0, -99lvh, 0) rotate(5deg);
+  }
+  100% {
+    transform: translate3d(0, -132lvh, 0) rotate(-5deg);
+  }
+}
+
+/* base.css chạy animation trong 0,01ms chứ KHÔNG tắt, tức mọi thứ đỗ lại ở
+   khung hình cuối — đèn lồng đỗ ở -132lvh là bay khỏi màn hình, mất sạch.
+   Giảm chuyển động là bớt động, không phải xoá nội dung. Khối này thắng nhờ
+   specificity (.event-overlay > div = (0,1,0) > * = (0,0,0)) nên PHẢI đứng sau
+   khối đặt vị trí ở trên. */
+@media (prefers-reduced-motion: reduce) {
+  .event-overlay > div,
+  .ev-front > div {
+    animation: none !important;
+  }
+  /* Thỏ trượt ván đỗ ở khoảng một phần ba màn hình chứ không ở 120vw — tức là
+     ngoài khung, tức là biến mất. */
+  .ev-scooter {
+    transform: translate3d(32vw, 0, 0);
+  }
+  /* Rải đèn ra năm độ cao khác nhau thay vì để chúng đỗ thành một hàng ngang. */
+  .ev-lamp:nth-child(5n + 1) {
+    transform: translate3d(0, -30lvh, 0) rotate(-3deg);
+  }
+  .ev-lamp:nth-child(5n + 2) {
+    transform: translate3d(0, -52lvh, 0) rotate(2deg);
+  }
+  .ev-lamp:nth-child(5n + 3) {
+    transform: translate3d(0, -74lvh, 0) rotate(-2deg);
+  }
+  .ev-lamp:nth-child(5n + 4) {
+    transform: translate3d(0, -41lvh, 0) rotate(4deg);
+  }
+  .ev-lamp:nth-child(5n) {
+    transform: translate3d(0, -63lvh, 0) rotate(-4deg);
+  }
+}
+
+/* --------------------------------------------------- 6. MÀN NHỎ / DỌC ===== */
+@media (max-width: 900px) {
+  .ev-moon {
+    width: 210px;
+    height: 210px;
+  }
+  .ev-cloud-1 {
+    --w: 210px;
+  }
+  .ev-cloud-2 {
+    --w: 160px;
+  }
+  .ev-cloud-3 {
+    --w: 120px;
+  }
+}
+
+@media (max-width: 640px) {
+  .ev-moon {
+    width: 150px;
+    height: 150px;
+    right: 0;
+  }
+  /* Bỏ hai mảnh ở GIỮA để mấy cái còn lại vẫn trải đều hai mép. */
+  .ev-cloud-3 {
+    display: none;
+  }
+  /* Màn hẹp: bỏ bớt đèn cho đỡ rối, và thu nhỏ số còn lại. */
+  .ev-lamp:nth-child(odd) {
+    display: none;
+  }
+  .ev-lamp {
+    width: calc(var(--w) * 0.62);
+    height: calc(var(--w) * 0.62);
+  }
+  .ev-veil {
+    background: linear-gradient(
+      to bottom,
+      var(--ev-veil-0) 0%,
+      var(--ev-veil-0) 26%,
+      var(--bg) 62%
+    );
+  }
+}

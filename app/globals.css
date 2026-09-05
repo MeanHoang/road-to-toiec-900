@@ -1,5 +1,7 @@
 /* Điểm vào duy nhất của style. Thứ tự import là có chủ đích:
-   token → base → component. Component chỉ đọc token, không định nghĩa token. */
+   token → sự kiện → base → component. Component chỉ đọc token, không định nghĩa
+   token; file sự kiện chỉ ghi đè bảng alias tier-2, đặt ngay sau tokens.css. */
 @import '../styles/tokens.css';
+@import '../styles/events/mid-autumn.css';
 @import '../styles/base.css';
 @import '../styles/components.css';

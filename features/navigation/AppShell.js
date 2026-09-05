@@ -2,7 +2,10 @@
 
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
+import { MidAutumnScene } from '@/shared/ui/organisms/MidAutumnScene';
+import { ACTIVE_EVENT } from '@/shared/lib/event';
 import { NavDrawer } from './NavDrawer';
+import { isCalmRoute } from './currentRoute';
 
 /**
  * Khung của cả app: ngăn kéo bên trái + nội dung bên phải.
@@ -41,6 +44,10 @@ export function AppShell({ children }) {
 
   return (
     <div className={`shell ${open ? 'drawer-open' : ''}`}>
+      {/* Bật/tắt hiệu ứng lễ hội là quyết định của người viết code, ở
+          shared/lib/event.js — không phải một công tắc cho người học. */}
+      {ACTIVE_EVENT === 'mid-autumn' && <MidAutumnScene calm={isCalmRoute(pathname)} />}
+
       <NavDrawer
         open={open}
         onClose={() => setOpen(false)}
