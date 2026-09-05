@@ -12,12 +12,21 @@ Two axes. They are not the same axis, and mixing them is the failure this skill 
 | Axis | Where | Rule |
 |---|---|---|
 | **UI composition** — Atomic Design | `shared/ui/{atoms,molecules,organisms}` | Presentation only. Knows nothing about TOEIC. Never fetches. |
-| **Application logic** — feature modules | `features/{auth,lesson,progress,vocabulary}` | Owns state, data access, and the components tied to them. |
+| **Application logic** — feature modules | `features/*` | Owns state, data access, screens, and the components tied to them. |
 
-Supporting layers: `app/` is routes only, `lib/` is infrastructure (`firebase.js`), `content/` is data.
+Supporting layers: `shared/lib/` is pure domain-free functions, `app/` is routes only,
+`lib/` is infrastructure (`firebase.js`), `content/` is data.
+
+Two consequences that are easy to get wrong:
+
+- **A screen belongs to its feature, not to `app/`.** Every route file is the same five lines —
+  resolve `params`, render the screen inside `DayGate`. A route that grows a helper function, a
+  constant, or JSX beyond that is drifting back to where this layout started.
+- **Each feature keeps its rules in a React-free module** (`rules.js`, `marks.js`, `grade.js`,
+  `filters.js`, `buildRound.js`). New domain logic goes there, not inside a component body.
 
 Source of truth for the layout: the **Project structure** section of `README.md`, plus
-`shared/ui/README.md` and `features/README.md`. If a rule here contradicts those, the READMEs win —
+`shared/README.md` and `features/README.md`. If a rule here contradicts those, the READMEs win —
 say so in the report instead of silently following this file.
 
 ## Scope
@@ -39,11 +48,15 @@ diff does not touch are **not** findings — mention them at most as one closing
 Run these first. Every one of them should print nothing but the OK line.
 
 ```bash
-# 1. shared/ui must not know about domain, infrastructure or content
-grep -rnE "@/features|@/lib|@/content" shared/ && echo "VIOLATION above" || echo "OK: shared/ui is pure"
+# 1. shared/ must not know about domain, infrastructure or content
+grep -rnE "@/features|@/lib/|@/content" shared/ && echo "VIOLATION above" || echo "OK: shared/ is pure"
 
-# 2. app/ is routes only — no direct data access
+# 1b. shared/lib is plain functions — no React, no components
+grep -rnE "@/features|react|jsx" shared/lib/ && echo "VIOLATION above" || echo "OK: shared/lib has no React"
+
+# 2. app/ is routes only — no data access, and no screen logic
 grep -rnE "firebase/firestore|localStorage|firebase/auth" app/ && echo "VIOLATION above" || echo "OK: app/ has no data access"
+find app -name "*.js" -size +1k | grep . && echo "the routes above outgrew five lines" || echo "OK: routes are thin"
 
 # 3. no barrel files anywhere in the two axes
 find shared features -name "index.js" -o -name "index.jsx" | grep . && echo "VIOLATION above" || echo "OK: no barrels"

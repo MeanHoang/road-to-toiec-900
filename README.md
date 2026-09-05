@@ -123,47 +123,49 @@ organise the application logic.** One file per component — no barrel files, so
 says exactly what it depends on.
 
 ```
-app/                    routes only — a route composes a feature, holds no data logic
-shared/ui/              PRESENTATION ONLY — knows nothing about TOEIC, never fetches
-  atoms/                Button, Badge, Card, Progress, Input, Notice …
-  molecules/            NavCard, StepList, PageHeader, Speak, AudioPlayer
-  organisms/            TopBar
-features/               DOMAIN — state, data access, and the UI that is tied to them
-  auth/
-    AuthProvider.js     who is studying — anonymous, or Google; useAuth lives here
-    AccountBar.js       reads useAuth, so it is a feature component, not an organism
-    authErrors.js       Firebase auth codes → a sentence a learner can act on
-  lesson/
-    schema.js           schemaVersion check + assemble() one day from its collection files
-    bundled.js          the JSON committed to the repo — offline / no-Firebase fallback
-    api.js              fetch a lesson from Firestore, fall back to bundled.js
-    stats.js            countQuestions / countPictures
-    DayProvider.js      load the open lesson once per route subtree; useDay
-    useDayList.js       the home screen's list of lessons
-    DayGate.js          loading / not-found guard shared by all nine screens
-  progress/
-    merge.js            how two copies of one day are merged (no imports, so node can test it)
-    localStore.js       localStorage read/write + which uid owns the local copy
-    accountMerge.js     push the local copy into an account on sign-in
-    useProgress.js      the hook — reads local, merges cloud, syncs back
-    summarize.js        the numbers behind the progress bars
-  vocabulary/
-    CopyUnknown.js      copy the not-yet-known words out for the import skill
+app/                    routes only — five lines each: resolve params, render a screen
+shared/                 REUSABLE — knows nothing about TOEIC, never fetches
+  ui/atoms/             Button, Badge, Card, Progress, Input, Notice …
+  ui/molecules/         NavCard, StepList, PageHeader, CountBadge, Speak, AudioPlayer
+  ui/organisms/         TopBar
+  lib/                  pure functions: shuffle.js, text.js
+features/               DOMAIN — state, data access, and the UI tied to them
+  auth/                 AuthProvider (useAuth), AccountBar, authErrors
+  lesson/               schema, bundled, api, stats, crumbs, DayProvider (useDay),
+                        useDayList, DayGate, HomeScreen, DayRow, DayOverviewScreen
+  progress/             merge, localStore, accountMerge, useProgress, summarize
+  vocabulary/           filters, Flashcard, CardsScreen, VocabRow, VocabTableScreen,
+                        CopyUnknown
+  game/                 buildRound, GameScreen, QuestionCard, GameResult
+  listening/            rules, transcript, ListenIndexScreen, ListenSetScreen,
+                        DictationPanel, ClassNotesPanel, ChoicePanel, RevealAnswer,
+                        TranscriptBox
+  translation/          marks, TokenRow, GrammarExerciseScreen
+  pictures/             grade, PicturesScreen
+  theory/               TheoryBlock, TheoryScreen
 lib/
   firebase.js           infrastructure: client init, anonymous + Google auth
 content/<day>/*.json    lesson content
 public/assets/<day>/    images and audio
 scripts/                import, transcribe, validate, push
 styles/                 tokens → base → components
-.claude/skills/         Claude Code skill for importing a new lesson
+.claude/skills/         importing a lesson, and reviewing a diff against this layout
 ```
 
-The boundary worth keeping is the one between the two axes. A component under `shared/ui`
+Each feature keeps its rules in a module with no React in it — `rules.js`, `marks.js`,
+`grade.js`, `filters.js`, `buildRound.js`. Those are the parts worth reading on their own,
+and the parts a test can reach without a renderer.
+
+The boundary worth keeping is the one between the two axes. A component under `shared/`
 that needs `useProgress`, `useAuth`, or the shape of a vocabulary item is in the wrong place —
 it belongs to a feature. `AccountBar` and `CopyUnknown` are exactly that case, which is why
 they sit in `features/` and not in `organisms/`. Inside `shared/ui`, the levels are the usual
 atomic ones: an atom is composed of nothing, a molecule of atoms, an organism stands alone
 on a page.
+
+Screens follow the same rule. A screen reads progress and knows what a listening set is, so it
+lives with its feature; `app/` only resolves the route params and renders it. That keeps every
+route file the same five lines, and puts each screen next to the rules it depends on.
 
 The `arch-review` skill checks a diff against these rules — six greps for the mechanical part
 (no upward imports, no barrels, no data access in `app/`), and the placement questions for the

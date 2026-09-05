@@ -5,16 +5,13 @@
 
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { TopBar } from '@/shared/ui/organisms/TopBar';
+import { lessonCrumbs } from './crumbs';
 import { useDay } from './DayProvider';
 
 export function DayGate({ slug, crumbLabel, children }) {
   const { day, loading, error } = useDay();
 
-  const crumbs = [
-    { label: 'Trang chủ', href: '/' },
-    ...(crumbLabel ? [{ label: day?.title || slug, href: `/day/${slug}` }] : []),
-    { label: crumbLabel || day?.title || slug },
-  ];
+  const crumbs = lessonCrumbs(slug, day?.title || slug, ...(crumbLabel ? [crumbLabel] : []));
 
   if (loading) {
     return (
