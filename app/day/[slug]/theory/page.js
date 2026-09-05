@@ -6,5 +6,5 @@ import { TheoryScreen } from '@/features/theory/TheoryScreen';
 
 export default function Page({ params }) {
   const { slug } = use(params);
-  return <DayGate slug={slug} crumbLabel="Lý thuyết">{(day) => <TheoryScreen slug={slug} day={day} />}</DayGate>;
+  return <DayGate slug={slug}>{(day) => <TheoryScreen slug={slug} day={day} />}</DayGate>;
 }

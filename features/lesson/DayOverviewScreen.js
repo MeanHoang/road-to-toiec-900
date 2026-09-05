@@ -8,8 +8,6 @@ import { Section } from '@/shared/ui/atoms/Section';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
-import { lessonCrumbs } from './crumbs';
 import { countPictures, countQuestions } from './stats';
 
 const percentOf = (done, total) => (total ? (done / total) * 100 : 0);
@@ -21,8 +19,6 @@ export function DayOverviewScreen({ slug, day }) {
 
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title)} />
-
       <PageHeader eyebrow={`Buổi ${day.no}`} title={day.title} subtitle={day.subtitle}>
         <div style={{ marginTop: 'var(--space-5)' }}>
           <Progress percent={ready ? s.percent : 0} label="Tiến độ" />

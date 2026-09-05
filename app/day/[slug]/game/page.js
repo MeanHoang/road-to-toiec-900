@@ -6,5 +6,5 @@ import { GameScreen } from '@/features/game/GameScreen';
 
 export default function Page({ params }) {
   const { slug } = use(params);
-  return <DayGate slug={slug} crumbLabel="Game từ vựng">{(day) => <GameScreen slug={slug} day={day} />}</DayGate>;
+  return <DayGate slug={slug}>{(day) => <GameScreen slug={slug} day={day} />}</DayGate>;
 }

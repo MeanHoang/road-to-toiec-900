@@ -67,3 +67,36 @@ export async function fetchDay(slug) {
 }
 
 export const usingFirestore = () => isConfigured;
+
+/**
+ * Danh sách buổi RÚT GỌN cho drawer: slug, số, tiêu đề, và buổi đó có những
+ * collection nào — đủ để dựng cây điều hướng.
+ *
+ * Cố ý KHÔNG tải nội dung: drawer nằm ở mọi trang, mà fetchDay kéo về cả từ
+ * vựng lẫn bài nghe của từng buổi. Mười buổi là mười lần tải thừa mỗi lần mở
+ * trang, chỉ để vẽ mấy dòng chữ.
+ */
+export async function fetchDayIndex() {
+  const store = db();
+
+  if (store) {
+    try {
+      const snap = await getDocs(collection(store, 'days'));
+      if (!snap.empty) {
+        return snap.docs
+          .map((d) => d.data())
+          .sort((a, b) => (a.no || 0) - (b.no || 0));
+      }
+    } catch (e) {
+      console.warn('[lesson] không đọc được danh sách buổi rút gọn:', e.message);
+    }
+  }
+
+  return bundledDays.map(({ slug, no, title, subtitle, collections }) => ({
+    slug,
+    no,
+    title,
+    subtitle,
+    collections,
+  }));
+}

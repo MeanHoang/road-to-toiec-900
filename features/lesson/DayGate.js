@@ -4,36 +4,23 @@
 // Gom vào một chỗ để 9 màn không phải lặp lại đoạn kiểm tra loading/không tìm thấy.
 
 import { Notice } from '@/shared/ui/atoms/Notice';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
-import { lessonCrumbs } from './crumbs';
+import { LessonSkeleton } from './LessonSkeleton';
 import { useDay } from './DayProvider';
 
-export function DayGate({ slug, crumbLabel, children }) {
+export function DayGate({ slug, children }) {
   const { day, loading, error } = useDay();
 
-  const crumbs = lessonCrumbs(slug, day?.title || slug, ...(crumbLabel ? [crumbLabel] : []));
-
   if (loading) {
-    return (
-      <>
-        <TopBar crumbs={crumbs} />
-        <div className="page-head">
-          <p className="section-lead">Đang tải nội dung buổi học…</p>
-        </div>
-      </>
-    );
+    return <LessonSkeleton />;
   }
 
   if (error || !day) {
     return (
-      <>
-        <TopBar crumbs={crumbs} />
-        <div className="page-head">
-          <Notice>
-            {error ? `Không tải được nội dung: ${error}` : `Không tìm thấy buổi học "${slug}".`}
-          </Notice>
-        </div>
-      </>
+      <div className="page-head">
+        <Notice>
+          {error ? `Không tải được nội dung: ${error}` : `Không tìm thấy buổi học "${slug}".`}
+        </Notice>
+      </div>
     );
   }
 

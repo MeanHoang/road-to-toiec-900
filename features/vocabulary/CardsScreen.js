@@ -2,13 +2,12 @@
 
 import Link from 'next/link';
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
 import { Progress } from '@/shared/ui/atoms/Progress';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
+import { LessonSkeleton } from '@/features/lesson/LessonSkeleton';
 import { Flashcard } from './Flashcard';
 import { notKnownYet } from './filters';
 
@@ -58,13 +57,12 @@ export function CardsScreen({ slug, day }) {
     return () => window.removeEventListener('keydown', onKey);
   }, [mark, toggleStar]);
 
-  const crumbs = lessonCrumbs(slug, day.title, 'Thẻ từ vựng');
-  if (!ready) return <TopBar crumbs={crumbs} />;
+  if (!ready) {
+    return <LessonSkeleton blocks={1} />;
+  }
 
   return (
     <>
-      <TopBar crumbs={crumbs} />
-
       <PageHeader
         eyebrow={day.title}
         title="Thẻ từ vựng"

@@ -1,12 +1,10 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Input } from '@/shared/ui/atoms/Input';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { CopyUnknown } from './CopyUnknown';
 import { FILTERS, countStarred, filterVocabulary, isKnown, notKnownYet } from './filters';
 import { VocabRow } from './VocabRow';
@@ -34,8 +32,6 @@ export function VocabTableScreen({ slug, day }) {
 
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title, 'Bảng từ vựng')} />
-
       <PageHeader
         eyebrow={day.title}
         title="Bảng từ vựng"

@@ -6,5 +6,5 @@ import { ListenIndexScreen } from '@/features/listening/ListenIndexScreen';
 
 export default function Page({ params }) {
   const { slug } = use(params);
-  return <DayGate slug={slug} crumbLabel="Luyện nghe">{(day) => <ListenIndexScreen slug={slug} day={day} />}</DayGate>;
+  return <DayGate slug={slug}>{(day) => <ListenIndexScreen slug={slug} day={day} />}</DayGate>;
 }

@@ -1,6 +1,5 @@
 'use client';
 
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { countQuestions } from '@/features/lesson/stats';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
@@ -9,7 +8,6 @@ import { Notice } from '@/shared/ui/atoms/Notice';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { countCorrect } from './rules';
 
 export function ListenIndexScreen({ slug, day }) {
@@ -17,8 +15,6 @@ export function ListenIndexScreen({ slug, day }) {
 
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title, 'Luyện nghe')} />
-
       <PageHeader
         eyebrow={day.title}
         title="Luyện nghe"

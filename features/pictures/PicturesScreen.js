@@ -1,14 +1,12 @@
 'use client';
 
 import { useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Input } from '@/shared/ui/atoms/Input';
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { countLabelled, isRight, isWrong } from './grade';
 
 /** Một ảnh + ô điền. Chỉ tô xanh/đỏ khi người học đã bấm "Kiểm tra". */
@@ -44,8 +42,6 @@ export function PicturesScreen({ slug, day }) {
 
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title, 'Từ vựng qua hình')} />
-
       <PageHeader
         eyebrow={day.title}
         title="Từ vựng qua hình"

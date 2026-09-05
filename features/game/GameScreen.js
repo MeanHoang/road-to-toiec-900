@@ -1,11 +1,10 @@
 'use client';
 
 import { useCallback, useEffect, useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Card } from '@/shared/ui/atoms/Card';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
+import { LessonSkeleton } from '@/features/lesson/LessonSkeleton';
 import { ROUND, buildRound } from './buildRound';
 import { GameResult } from './GameResult';
 import { QuestionCard } from './QuestionCard';
@@ -71,13 +70,12 @@ export function GameScreen({ slug, day }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready]);
 
-  const crumbs = lessonCrumbs(slug, day.title, 'Game từ vựng');
-  if (!ready) return <TopBar crumbs={crumbs} />;
+  if (!ready) {
+    return <LessonSkeleton blocks={1} />;
+  }
 
   return (
     <>
-      <TopBar crumbs={crumbs} />
-
       <PageHeader
         eyebrow={day.title}
         title="Game từ vựng"

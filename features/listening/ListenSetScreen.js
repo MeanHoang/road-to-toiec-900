@@ -1,14 +1,12 @@
 'use client';
 
 import { useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { AudioPlayer } from '@/shared/ui/molecules/AudioPlayer';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { StepList } from '@/shared/ui/molecules/StepList';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { ChoicePanel } from './ChoicePanel';
 import { ClassNotesPanel } from './ClassNotesPanel';
 import { DictationPanel } from './DictationPanel';
@@ -23,20 +21,12 @@ export function ListenSetScreen({ slug, setId, day }) {
   const { day: state, ready, answer, setDictation } = useProgress(slug);
   const [idx, setIdx] = useState(0);
 
-  const crumbs = lessonCrumbs(
-    slug,
-    day.title,
-    { label: 'Luyện nghe', href: `/day/${slug}/listen` },
-    set?.title || setId,
-  );
-
   // Guard phải đứng TRƯỚC mọi chỗ đụng tới `set` — trước đây nó nằm sau đoạn
   // tính khoá câu, nên gõ sai setId trên URL là trắng màn hình chứ không phải
   // hiện thông báo này.
   if (!set) {
     return (
       <>
-        <TopBar crumbs={crumbs} />
         <Notice>Không tìm thấy bộ bài &ldquo;{setId}&rdquo;.</Notice>
       </>
     );
@@ -57,8 +47,6 @@ export function ListenSetScreen({ slug, setId, day }) {
 
   return (
     <>
-      <TopBar crumbs={crumbs} />
-
       <PageHeader eyebrow={day.title} title={set.title} subtitle={set.subtitle} />
 
       <StepList

@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
@@ -9,7 +8,6 @@ import { Card } from '@/shared/ui/atoms/Card';
 import { Textarea } from '@/shared/ui/atoms/Textarea';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { StepList } from '@/shared/ui/molecules/StepList';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { isAllCorrect, isTagged } from './marks';
 import { TokenRow } from './TokenRow';
 
@@ -55,8 +53,6 @@ export function GrammarExerciseScreen({ slug, day }) {
 
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title, 'Bài tập ngữ pháp')} />
-
       <PageHeader
         eyebrow={day.title}
         title="Bài tập ngữ pháp"

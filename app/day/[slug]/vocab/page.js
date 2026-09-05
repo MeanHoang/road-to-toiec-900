@@ -6,5 +6,5 @@ import { VocabTableScreen } from '@/features/vocabulary/VocabTableScreen';
 
 export default function Page({ params }) {
   const { slug } = use(params);
-  return <DayGate slug={slug} crumbLabel="Bảng từ vựng">{(day) => <VocabTableScreen slug={slug} day={day} />}</DayGate>;
+  return <DayGate slug={slug}>{(day) => <VocabTableScreen slug={slug} day={day} />}</DayGate>;
 }

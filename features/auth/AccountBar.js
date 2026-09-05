@@ -11,6 +11,7 @@
 
 import { Button } from '@/shared/ui/atoms/Button';
 import { Notice } from '@/shared/ui/atoms/Notice';
+import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { useAuth } from './AuthProvider';
 
 export function AccountBar() {
@@ -30,14 +31,16 @@ export function AccountBar() {
     );
   }
 
+  // Chưa biết ai đang đăng nhập: giữ đúng khung thanh tài khoản, đừng viết
+  // 'đang kiểm tra' rồi lát nữa đổi chiều cao khi tên thật hiện ra.
   if (!ready) {
     return (
-      <div className="account">
-        <span className="account-mark" aria-hidden="true">
-          ·
-        </span>
+      <div className="account" role="status" aria-busy="true">
+        <Skeleton width={34} height={34} radius="var(--radius-full)" style={{ flex: 'none' }} />
         <div className="account-who">
-          <b>Đang kiểm tra tài khoản…</b>
+          <span className="visually-hidden">Đang kiểm tra tài khoản</span>
+          <Skeleton width={140} height={16} />
+          <Skeleton width="70%" height={13} style={{ marginTop: 'var(--space-2)' }} />
         </div>
       </div>
     );

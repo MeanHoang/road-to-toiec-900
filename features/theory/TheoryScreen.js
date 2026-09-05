@@ -1,6 +1,5 @@
 'use client';
 
-import { lessonCrumbs } from '@/features/lesson/crumbs';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Callout } from '@/shared/ui/atoms/Callout';
@@ -8,7 +7,6 @@ import { Card } from '@/shared/ui/atoms/Card';
 import { Section } from '@/shared/ui/atoms/Section';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { Speak } from '@/shared/ui/molecules/Speak';
-import { TopBar } from '@/shared/ui/organisms/TopBar';
 import { TheoryBlock } from './TheoryBlock';
 
 function GrammarCard({ item, index }) {
@@ -36,8 +34,6 @@ function GrammarCard({ item, index }) {
 export function TheoryScreen({ slug, day }) {
   return (
     <>
-      <TopBar crumbs={lessonCrumbs(slug, day.title, 'Lý thuyết')} />
-
       <PageHeader eyebrow={day.title} title="Lý thuyết" subtitle={day.subtitle} />
 
       <Section

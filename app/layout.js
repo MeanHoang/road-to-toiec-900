@@ -1,5 +1,6 @@
 import './globals.css';
 import { AuthProvider } from '@/features/auth/AuthProvider';
+import { AppShell } from '@/features/navigation/AppShell';
 
 export const metadata = {
   title: 'Road to TOEIC 900',
@@ -18,7 +19,7 @@ export default function RootLayout({ children }) {
     <html lang="vi">
       <body>
         <AuthProvider>
-          <main className="app-shell">{children}</main>
+          <AppShell>{children}</AppShell>
         </AuthProvider>
       </body>
     </html>

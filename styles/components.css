@@ -71,60 +71,6 @@
   font-size: var(--text-base);
 }
 
-/* ---------------------------------------------------------------- topbar */
-.topbar {
-  position: sticky;
-  top: 0;
-  z-index: 20;
-  display: flex;
-  align-items: center;
-  gap: var(--space-3);
-  padding: var(--space-3) 0;
-  margin-bottom: var(--space-2);
-  background: color-mix(in srgb, var(--bg) 88%, transparent);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
-}
-.topbar .back {
-  width: 36px;
-  height: 36px;
-  flex: 0 0 auto;
-  display: grid;
-  place-items: center;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text-muted);
-  cursor: pointer;
-  transition: color var(--fast) var(--ease), border-color var(--fast) var(--ease);
-}
-.topbar .back:hover {
-  color: var(--brand);
-  border-color: var(--brand-border);
-}
-.breadcrumb {
-  display: flex;
-  align-items: center;
-  gap: var(--space-2);
-  flex-wrap: wrap;
-  font-size: var(--text-sm);
-  color: var(--text-muted);
-  min-width: 0;
-}
-.breadcrumb a {
-  color: var(--text-muted);
-}
-.breadcrumb a:hover {
-  color: var(--text);
-}
-.breadcrumb b {
-  color: var(--text);
-  font-weight: var(--weight-medium);
-}
-.breadcrumb .sep {
-  color: var(--text-subtle);
-}
-
 /* ------------------------------------------------------------------ card */
 .card {
   background: var(--surface);
@@ -1164,4 +1110,261 @@ th {
 .dictation-line .input {
   flex: 1;
   min-width: 0;
+}
+
+/* --------------------------------------------------------------- skeleton */
+/* Thay cho dòng chữ "đang tải": người học thấy ngay TRANG sắp có hình dạng
+   gì, và khi nội dung về thì nó thế chỗ đúng khối đó chứ không nhảy dựng lên.
+   Ô skeleton luôn cao đúng bằng thứ nó đại diện, nếu không thì vẫn giật. */
+.skeleton {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+  background: var(--surface-sunken);
+}
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  animation: skeleton-sweep 1.4s ease-in-out infinite;
+}
+
+@keyframes skeleton-sweep {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* Không chỉ làm chậm animation mà TẮT HẲN: base.css ép mọi animation về
+   0.01ms, mà vệt sáng này lặp vô hạn — để nguyên thành ra nhấp nháy liên tục,
+   đúng thứ mà "giảm chuyển động" muốn tránh. */
+@media (prefers-reduced-motion: reduce) {
+  .skeleton::after {
+    display: none;
+  }
+}
+
+/* Khối giả một thẻ điều hướng — trùng khớp .nav-card để không đổi chiều cao. */
+.nav-card-skeleton {
+  pointer-events: none;
+  box-shadow: none;
+}
+.nav-card-skeleton .lead-slot {
+  background: var(--surface-sunken);
+  border-color: var(--border);
+}
+
+/* ------------------------------------------------------- drawer điều hướng */
+/* Màn rộng: ngăn kéo ĐẨY nội dung sang phải, không đè lên.
+   Màn hẹp: ẩn hẳn, mở ra thì trượt lên trên nội dung kèm lớp mờ.
+   Cùng một biến `is-open` cho cả hai, chỉ khác cách CSS hiểu nó. */
+.shell {
+  min-height: 100vh;
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 40;
+  width: var(--drawer-w);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  transform: translateX(-100%);
+  transition: transform var(--normal) var(--ease);
+  overflow: hidden;
+}
+.drawer.is-open {
+  transform: translateX(0);
+}
+
+.drawer-scrim {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  background: rgba(8, 12, 20, 0.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--normal) var(--ease);
+}
+.drawer-scrim.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.drawer-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-4) var(--space-4) var(--space-3);
+  border-bottom: 1px solid var(--border);
+}
+.drawer-brand {
+  flex: 1;
+  min-width: 0;
+  font-weight: var(--weight-bold);
+  letter-spacing: var(--tracking-tight);
+  color: var(--text);
+}
+.drawer-brand:hover {
+  text-decoration: none;
+  color: var(--brand);
+}
+.drawer-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-3) var(--space-3) var(--space-6);
+}
+
+.nav-days {
+  list-style: none;
+  margin: var(--space-2) 0 0;
+  padding: 0;
+}
+.nav-group + .nav-group {
+  margin-top: var(--space-1);
+}
+
+.nav-day {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+  padding: var(--space-3);
+  border: 0;
+  border-radius: var(--radius-md);
+  background: none;
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+}
+.nav-day:hover {
+  background: var(--surface-sunken);
+}
+.nav-day.is-current {
+  color: var(--brand);
+}
+.nav-day-no {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border-radius: var(--radius-sm);
+  background: var(--surface-sunken);
+  font-size: var(--text-xs);
+  font-weight: var(--weight-bold);
+}
+.nav-day.is-current .nav-day-no {
+  background: linear-gradient(150deg, var(--brand), var(--accent));
+  color: #ffffff;
+}
+.nav-day-title {
+  flex: 1;
+  min-width: 0;
+  font-weight: var(--weight-medium);
+  font-size: var(--text-sm);
+}
+.nav-caret {
+  flex: none;
+  color: var(--text-subtle);
+  transition: transform var(--fast) var(--ease);
+}
+.nav-caret.is-open {
+  transform: rotate(90deg);
+}
+
+.nav-activities {
+  list-style: none;
+  margin: var(--space-1) 0 var(--space-2);
+  /* Đường kẻ dọc nối các mục con về đúng buổi của nó — nhìn là biết cái nào
+     thuộc buổi nào mà không cần thụt lề sâu thêm. */
+  padding: 0 0 0 var(--space-5);
+  border-left: 1px solid var(--border);
+  margin-left: var(--space-5);
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+  min-height: 34px;
+}
+.nav-link:hover {
+  background: var(--surface-sunken);
+  color: var(--text);
+  text-decoration: none;
+}
+.nav-link.is-current {
+  background: var(--brand-surface);
+  color: var(--brand);
+  font-weight: var(--weight-medium);
+}
+
+
+/* Màn rộng: ngăn kéo là một cột thật, không phải lớp phủ. */
+@media (min-width: 1024px) {
+  .drawer-scrim {
+    display: none;
+  }
+  .shell-main {
+    transition: padding-left var(--normal) var(--ease);
+  }
+  .shell.drawer-open .shell-main {
+    padding-left: var(--drawer-w);
+  }
+}
+
+/* Nút đóng/mở ngăn kéo. Một hình dáng, hai chỗ đứng:
+   - mở: nằm trong đầu ngăn kéo, mũi tên « để thu vào
+   - đóng: dính vào mép trái màn hình, mũi tên » để bung ra
+   Không có thanh tiêu đề riêng nữa nên nó phải tự nổi lên trên nội dung. */
+.drawer-handle {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  flex: none;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: var(--text-lg);
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    color var(--fast) var(--ease),
+    border-color var(--fast) var(--ease),
+    background var(--fast) var(--ease);
+}
+.drawer-handle:hover {
+  color: var(--brand);
+  border-color: var(--brand-border);
+}
+
+/* Lúc đóng: bám mép trái, ngang tầm mắt với tiêu đề trang. */
+.drawer-handle:not(.drawer-handle-in) {
+  position: fixed;
+  top: var(--space-4);
+  left: var(--space-4);
+  z-index: 25;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Chừa chỗ cho nút nổi, không thì nó đè lên chữ đầu trang. */
+.shell:not(.drawer-open) .app-shell {
+  padding-top: var(--space-8);
+}
+.shell.drawer-open .app-shell {
+  padding-top: var(--space-5);
 }
