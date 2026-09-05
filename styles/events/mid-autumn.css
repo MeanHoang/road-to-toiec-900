@@ -281,8 +281,8 @@
   position: absolute;
   left: 0;
   bottom: 3vh;
-  width: 170px;
-  height: 170px;
+  width: 85px;
+  height: 85px;
   animation: ev-scoot 27s linear -7s infinite;
 }
 
