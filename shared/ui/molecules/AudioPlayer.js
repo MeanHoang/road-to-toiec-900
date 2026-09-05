@@ -2,17 +2,19 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-/**
- * Player gọn: play/pause, tua, đổi tốc độ. Nghe TOEIC ở 0.75× rất có ích.
- * State ở đây chỉ là state UI (đang phát, tốc độ, vị trí) — không biết gì về bài học.
- */
+// Nghe TOEIC ở 0.75× rất có ích, và câu nào nghe mãi không ra thì bò xuống 0.5×
+// hoặc 0.25× để tách từng âm. Nhanh hơn 1× là để nghe lại bài đã thuộc.
+const RATES = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2];
+
+/** Player gọn: play/pause, tua, chọn tốc độ. Không biết gì về bài học. */
 export function AudioPlayer({ src, onEnded }) {
   const ref = useRef(null);
   const [playing, setPlaying] = useState(false);
   const [rate, setRate] = useState(1);
   const [pos, setPos] = useState(0);
 
-  // Đổi bài thì dừng bài cũ, kéo thanh tua về đầu.
+  // Đổi bài thì dừng bài cũ, kéo thanh tua về đầu. Giữ nguyên tốc độ đang chọn:
+  // đang nghe chậm để dò từng câu thì câu sau cũng muốn chậm như thế.
   useEffect(() => {
     setPlaying(false);
     setPos(0);
@@ -31,10 +33,9 @@ export function AudioPlayer({ src, onEnded }) {
     }
   };
 
-  const cycleRate = () => {
-    const next = rate === 1 ? 0.75 : rate === 0.75 ? 1.25 : 1;
-    setRate(next);
-    if (ref.current) ref.current.playbackRate = next;
+  const changeRate = (value) => {
+    setRate(value);
+    if (ref.current) ref.current.playbackRate = value;
   };
 
   const seek = (e) => {
@@ -57,9 +58,21 @@ export function AudioPlayer({ src, onEnded }) {
       <span className="seek" onClick={seek}>
         <i style={{ right: `${100 - pos}%` }} />
       </span>
-      <button className="btn btn-quiet btn-sm" onClick={cycleRate} type="button">
-        {rate}×
-      </button>
+
+      <select
+        className="rate-select"
+        value={rate}
+        onChange={(e) => changeRate(Number(e.target.value))}
+        aria-label="Tốc độ phát"
+        title="Tốc độ phát"
+      >
+        {RATES.map((r) => (
+          <option key={r} value={r}>
+            {r}×
+          </option>
+        ))}
+      </select>
+
       <audio
         ref={ref}
         src={src}

@@ -11,19 +11,32 @@ import { NavDrawer } from './NavDrawer';
  * thanh nữa chỉ để lặp lại đúng chữ đó là thừa. Nút đóng/mở nằm ngay trong
  * ngăn kéo lúc mở, và co về mép trái lúc đóng.
  */
+const isWide = () => window.matchMedia('(min-width: 1024px)').matches;
+
 export function AppShell({ children }) {
   const pathname = usePathname() || '/';
+  const inLesson = pathname.startsWith('/day/');
 
-  // Màn hẹp phải đóng sẵn, không thì vào trang là bị ngăn kéo che mất nội dung.
   const [open, setOpen] = useState(false);
+
+  /**
+   * Ngăn kéo mở khi đang HỌC, đóng khi ở trang chủ: trang chủ vốn đã là danh
+   * sách buổi rồi, thêm một danh sách nữa bên cạnh là thừa. Vào một buổi thì
+   * mới cần đường nhảy qua lại giữa các phần.
+   *
+   * Phụ thuộc `inLesson` chứ không phải `pathname`, nên nó chỉ đổi lúc ra/vào
+   * khu vực bài học — nhảy giữa các màn trong cùng một buổi thì tôn trọng việc
+   * người học đã tự thu ngăn kéo lại. Màn hẹp thì luôn đóng sẵn, không thì vào
+   * trang là bị che mất nội dung.
+   */
   useEffect(() => {
-    setOpen(window.matchMedia('(min-width: 1024px)').matches);
-  }, []);
+    setOpen(inLesson && isWide());
+  }, [inLesson]);
 
   // Bấm một mục trong ngăn kéo: màn hẹp thì đóng lại cho thấy nội dung, màn
   // rộng thì GIỮ NGUYÊN — ngăn kéo ở đó là để nhảy qua nhảy lại.
   const closeIfNarrow = () => {
-    if (!window.matchMedia('(min-width: 1024px)').matches) setOpen(false);
+    if (!isWide()) setOpen(false);
   };
 
   return (

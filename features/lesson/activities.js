@@ -7,13 +7,13 @@
 // buổi nào không có bài dịch thì không hiện mục Bài tập ngữ pháp.
 
 const ACTIVITIES = [
-  { key: 'theory', path: 'theory', label: 'Lý thuyết', icon: '📘', needs: 'grammar' },
-  { key: 'cards', path: 'cards', label: 'Thẻ từ vựng', icon: '🗂', needs: 'vocabulary' },
-  { key: 'game', path: 'game', label: 'Game từ vựng', icon: '🎮', needs: 'vocabulary' },
-  { key: 'pictures', path: 'pictures', label: 'Từ vựng qua hình', icon: '🖼', needs: 'pictures' },
-  { key: 'grammar', path: 'grammar', label: 'Bài tập ngữ pháp', icon: '✍️', needs: 'translation' },
-  { key: 'listen', path: 'listen', label: 'Luyện nghe', icon: '🎧', needs: 'listening' },
-  { key: 'vocab', path: 'vocab', label: 'Bảng từ vựng', icon: '📋', needs: 'vocabulary' },
+  { key: 'theory', path: 'theory', label: 'Lý thuyết', needs: 'grammar' },
+  { key: 'cards', path: 'cards', label: 'Thẻ từ vựng', needs: 'vocabulary' },
+  { key: 'game', path: 'game', label: 'Game từ vựng', needs: 'vocabulary' },
+  { key: 'pictures', path: 'pictures', label: 'Từ vựng qua hình', needs: 'pictures' },
+  { key: 'grammar', path: 'grammar', label: 'Bài tập ngữ pháp', needs: 'translation' },
+  { key: 'listen', path: 'listen', label: 'Luyện nghe', needs: 'listening' },
+  { key: 'vocab', path: 'vocab', label: 'Bảng từ vựng', needs: 'vocabulary' },
 ];
 
 /**

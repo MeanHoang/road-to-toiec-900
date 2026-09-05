@@ -36,7 +36,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
               className={`nav-link ${currentPath === overview ? 'is-current' : ''}`}
               onClick={onNavigate}
             >
-              <span aria-hidden="true">🏠</span> Tổng quan buổi
+              Tổng quan buổi
             </Link>
           </li>
           {activities.map((a) => (
@@ -46,7 +46,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
                 className={`nav-link ${currentPath.startsWith(a.href) ? 'is-current' : ''}`}
                 onClick={onNavigate}
               >
-                <span aria-hidden="true">{a.icon}</span> {a.label}
+                {a.label}
               </Link>
             </li>
           ))}
