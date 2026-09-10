@@ -112,6 +112,12 @@
   color: var(--text-subtle);
   line-height: var(--leading-snug);
 }
+/* Link nằm trong chữ mờ phải gạch chân sẵn: chỉ đổi màu thôi thì lọt thỏm,
+   không ai nhận ra là bấm được. */
+.caption a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
 
 /* ---------------------------------------------------------------- button */
 .btn {
@@ -1109,27 +1115,105 @@ th {
 }
 
 /* ------------------------------------------------------ chép chính tả */
-/* PDF cho sẵn chủ ngữ mở đầu ("He's ___"), nên ô nhập phải nằm ngay sau
-   phần cho sẵn đó chứ không phải một textarea trống trơn. */
-.dictation-line {
+.dictation-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: var(--space-3);
   font-size: var(--text-base);
 }
-.dictation-prefix,
-.dictation-suffix {
-  flex: 0 0 auto;
-  font-weight: var(--weight-medium);
-  white-space: nowrap;
-}
-.dictation-suffix {
-  font-weight: var(--weight-normal);
-  color: var(--text-muted);
-}
-.dictation-line .input {
+
+/* Ô gõ có gạch chân từng từ.
+   <textarea> không tô được từng chữ, nên chữ thật để trong suốt và lớp "gương"
+   phía dưới vẽ lại đúng nội dung đó. Hai lớp BẮT BUỘC cùng font, cùng padding,
+   cùng border và cùng kiểu xuống dòng — lệch một thứ là chữ chạy khỏi con trỏ.
+   Gương nằm trong luồng nên nó quyết định chiều cao: dòng dài thì ô tự cao lên. */
+.dictation-field {
+  position: relative;
   flex: 1;
   min-width: 0;
+}
+.dictation-mirror,
+.dictation-entry {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 40px;
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid transparent;
+  border-radius: var(--radius-md);
+  font: inherit;
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.dictation-mirror {
+  border-color: var(--border);
+  background: var(--surface);
+  transition: border-color var(--fast) var(--ease);
+}
+.dictation-entry {
+  position: absolute;
+  inset: 0;
+  color: transparent;
+  caret-color: var(--text);
+  background: transparent;
+  resize: none;
+  overflow: hidden;
+}
+.dictation-entry::placeholder {
+  color: var(--text-subtle);
+}
+.dictation-field:hover .dictation-mirror {
+  border-color: var(--border-strong);
+}
+.dictation-field:focus-within .dictation-mirror {
+  border-color: var(--brand);
+}
+.dictation-field.is-correct .dictation-mirror {
+  border-color: color-mix(in srgb, var(--success) 45%, transparent);
+  background: var(--success-surface);
+}
+/* Gạch chân chứ không tô đỏ chữ: chữ vẫn phải đọc được để mà so với đáp án. */
+.dictation-bad {
+  text-decoration: underline wavy var(--warning);
+  text-underline-offset: 3px;
+}
+
+.dictation-line {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.dictation-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+.dictation-verdict {
+  font-size: var(--text-sm);
+}
+.dictation-verdict.is-ok {
+  color: var(--success);
+}
+.dictation-verdict.is-bad {
+  color: var(--warning);
+}
+
+/* Đáp án lộ dần. Từ đã mở hiện chữ thật, phần còn lại là dấu sao đúng bằng độ
+   dài từ — đủ để biết còn mấy từ và mỗi từ dài bao nhiêu, chưa đủ để chép lại. */
+.dictation-reveal {
+  margin: 0;
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+}
+.dictation-reveal .is-shown {
+  color: var(--success);
+  font-weight: var(--weight-medium);
+}
+.dictation-reveal .is-hidden {
+  color: var(--text-subtle);
+  letter-spacing: 1px;
 }
 
 /* --------------------------------------------------------------- skeleton */

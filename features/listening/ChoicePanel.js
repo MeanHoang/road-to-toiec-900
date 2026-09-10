@@ -75,7 +75,7 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
       {solved && (
         <div className="feedback feedback-success">
           ✅ Đúng — đáp án <strong>{item.answer}</strong>. Bốn câu trên là đúng nguyên văn audio
-          đọc. Câu tiếp đã mở khoá.
+          đọc.
         </div>
       )}
 

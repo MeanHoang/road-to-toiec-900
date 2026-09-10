@@ -141,8 +141,10 @@ async function validateDay(slug) {
 
         const noImage = set.questions.filter((q) => !q.image).length;
         if (noImage) warn(file, `${set.title}: ${noImage} câu chưa gán ảnh đề bài`);
+        // Transcript giờ vừa là lời thoại vừa là ĐÁP ÁN để chấm bài chép —
+        // thiếu nó thì bộ nào cũng không chấm được, không riêng bộ trắc nghiệm.
         const noScript = set.questions.filter((q) => !q.transcript).length;
-        if (noScript && set.mode === 'choice')
+        if (noScript)
           warn(file, `${set.title}: ${noScript} câu chưa có transcript (chưa chạy whisper)`);
       }
     }
