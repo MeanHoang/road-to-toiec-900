@@ -14,6 +14,24 @@ import { isCancelled, messageFor } from './authErrors';
 
 const AuthContext = createContext(null);
 
+/**
+ * Tên và ảnh của người đăng nhập.
+ *
+ * Phải đọc từ `providerData`, KHÔNG phải từ `user.displayName`: app đăng nhập
+ * bằng `linkWithPopup` lên phiên ẩn danh, mà Firebase không tự chép hồ sơ Google
+ * lên cấp tài khoản. Nhìn `user.displayName` sẽ thấy null và tưởng Google không
+ * trả tên về — thực ra tên nằm ở providerData[0].
+ */
+function profileOf(user) {
+  if (!user || user.isAnonymous) return { name: null, photo: null, email: null };
+  const google = user.providerData?.find((p) => p.displayName || p.email) || {};
+  return {
+    name: user.displayName || google.displayName || null,
+    photo: user.photoURL || google.photoURL || null,
+    email: user.email || google.email || null,
+  };
+}
+
 export function AuthProvider({ children }) {
   const [user, setUser] = useState(null);
   const [ready, setReady] = useState(!isConfigured);
@@ -83,10 +101,13 @@ export function AuthProvider({ children }) {
     }
   }, []);
 
+  const profile = profileOf(user);
+
   const value = {
     user,
     uid: user?.uid || null,
     anonymous: !user || user.isAnonymous,
+    ...profile,
     ready,
     busy,
     error,

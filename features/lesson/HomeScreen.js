@@ -1,6 +1,7 @@
 'use client';
 
 import { AccountBar } from '@/features/auth/AccountBar';
+import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { LoadingBlock } from '@/shared/ui/molecules/LoadingBlock';
@@ -41,7 +42,7 @@ export function HomeScreen() {
         </div>
       </div>
 
-      <AccountBar />
+      <AccountBar trailing={<LeaderboardButton />} />
 
       {loading ? (
         <LoadingBlock label="Đang tải danh sách buổi học">

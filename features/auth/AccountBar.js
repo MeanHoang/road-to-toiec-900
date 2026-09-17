@@ -10,11 +10,19 @@
 // thái đăng nhập và gọi signIn/signOut — đó là logic domain, không phải UI suông.
 
 import { Button } from '@/shared/ui/atoms/Button';
+import { ButtonGroup } from '@/shared/ui/atoms/ButtonGroup';
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { useAuth } from './AuthProvider';
 
-export function AccountBar() {
+/**
+ * `trailing` là một khe trống bên phải, cạnh nút đăng nhập/đăng xuất.
+ *
+ * Để màn gọi nhét thêm thứ thuộc về "danh tính" vào đây — hiện là nút bảng xếp
+ * hạng. Làm thành khe thay vì import thẳng, để AccountBar không phải biết bảng
+ * xếp hạng là cái gì; nó vẫn chỉ lo mỗi chuyện ai đang học.
+ */
+export function AccountBar({ trailing }) {
   const { cloud, ready, user, anonymous, busy, error, signIn, signOut } = useAuth();
 
   if (!cloud) {
@@ -81,15 +89,18 @@ export function AccountBar() {
         </div>
 
         <div className="account-action">
-          {anonymous ? (
-            <Button variant="primary" size="sm" onClick={signIn} disabled={Boolean(busy)}>
-              {label || 'Đăng nhập Google'}
-            </Button>
-          ) : (
-            <Button variant="quiet" size="sm" onClick={signOut} disabled={Boolean(busy)}>
-              {busy === 'out' ? 'Đang thoát…' : 'Đăng xuất'}
-            </Button>
-          )}
+          <ButtonGroup align="end">
+            {trailing}
+            {anonymous ? (
+              <Button variant="primary" size="sm" onClick={signIn} disabled={Boolean(busy)}>
+                {label || 'Đăng nhập Google'}
+              </Button>
+            ) : (
+              <Button variant="quiet" size="sm" onClick={signOut} disabled={Boolean(busy)}>
+                {busy === 'out' ? 'Đang thoát…' : 'Đăng xuất'}
+              </Button>
+            )}
+          </ButtonGroup>
         </div>
       </div>
 

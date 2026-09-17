@@ -113,6 +113,12 @@
   --text-subtle: var(--slate-500); /* 4.48:1 — đạt trên thẻ trắng (4.77) */
   --text-on-brand: #ffffff;
 
+  /* Huy chương. Chỉ dùng làm VIỀN và nền nhạt, không bao giờ làm nền cho chữ —
+     ba màu này đều quá nhạt để chữ trắng đọc được trên đó. */
+  --medal-1: #c9971b;
+  --medal-2: #8a97a8;
+  --medal-3: #b0713f;
+
   --brand: var(--brand-600);
   --brand-hover: var(--brand-500);
   --brand-surface: rgba(61, 139, 247, 0.1);
@@ -154,6 +160,11 @@
     --text-subtle: #76839b; /* sáng thêm một chút: bản cũ chỉ đạt 4.30:1 so với --bg */
     --text-on-brand: #04101f;
 
+  /* Sáng hơn bản nền sáng, để viền huy chương còn nổi trên nền tối. */
+  --medal-1: #e8b93f;
+  --medal-2: #a9b5c4;
+  --medal-3: #cf8f5c;
+
     --brand: var(--brand-400);
     --brand-hover: #8dbcff;
     --brand-surface: rgba(107, 169, 255, 0.14);
@@ -191,6 +202,11 @@
   --text-muted: var(--slate-400);
   --text-subtle: #76839b; /* sáng thêm một chút: bản cũ chỉ đạt 4.30:1 so với --bg */
   --text-on-brand: #04101f;
+
+  /* Sáng hơn bản nền sáng, để viền huy chương còn nổi trên nền tối. */
+  --medal-1: #e8b93f;
+  --medal-2: #a9b5c4;
+  --medal-3: #cf8f5c;
   --brand: var(--brand-400);
   --brand-hover: #8dbcff;
   --brand-surface: rgba(107, 169, 255, 0.14);

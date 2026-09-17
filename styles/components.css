@@ -185,6 +185,18 @@
   font-size: var(--text-xs);
 }
 
+/* Cụm nút. Khoảng cách nhỏ hơn --space-3 của hàng thường: nút trong cùng cụm
+   phải trông như một nhóm, tách khỏi thứ bên cạnh rõ hơn là tách khỏi nhau. */
+.btn-group {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+.btn-group-end {
+  justify-content: flex-end;
+}
+
 .icon-btn {
   width: 32px;
   height: 32px;
@@ -512,6 +524,13 @@
   }
   .account-action {
     width: 100%;
+  }
+  /* Màn hẹp: mỗi nút một dòng, chiếm trọn bề ngang. Hai nút nhỏ nằm sát nhau
+     trên điện thoại là hai vùng bấm hẹp kề nhau — dễ bấm nhầm sang cái bên
+     cạnh, mà ở đây cái bên cạnh là đăng nhập. */
+  .account-action .btn-group {
+    flex-direction: column;
+    align-items: stretch;
   }
   .account-action .btn {
     width: 100%;
@@ -1559,4 +1578,182 @@ th {
       transform: translateY(100%);
     }
   }
+}
+
+
+/* ---------------------------------------------------------- bảng xếp hạng */
+/* Thứ hạng phải ĐỌC ĐƯỢC BẰNG MẮT trước khi đọc bằng số. Càng lên cao thì hàng
+   càng nặng ký: avatar to hơn, điểm to hơn, viền huy chương, nền đậm hơn. Một
+   danh sách phẳng đều tăm tắp thì phải dò từng dòng mới biết ai hơn ai.
+   Mỗi hàng là một thẻ rời chứ không phải dòng trong bảng — để hàng top nở ra
+   được mà không xô lệch hàng dưới. */
+.board {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.board-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 44px;
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  /* Chặn dải nền tràn ra ngoài góc bo. */
+  overflow: hidden;
+  isolation: isolate;
+}
+
+/* Dải chạy sau lưng, dài theo điểm so với người dẫn đầu. Con số nói CHÍNH XÁC
+   bao nhiêu, dải nói CÁCH BIỆT bao xa — không phải trừ nhẩm trong đầu. */
+.board-bar {
+  position: absolute;
+  inset: 0 auto 0 0;
+  z-index: -1;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--brand) 16%, transparent),
+    color-mix(in srgb, var(--brand) 4%, transparent)
+  );
+  transition: width var(--slow) var(--ease);
+}
+
+.board-rank {
+  flex: 0 0 auto;
+  width: 26px;
+  text-align: center;
+  font-size: var(--text-sm);
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted);
+}
+.board-avatar {
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-full);
+  object-fit: cover;
+  background: var(--surface-sunken);
+}
+.board-avatar-blank {
+  display: grid;
+  place-items: center;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--text-muted);
+}
+.board-name {
+  flex: 1;
+  min-width: 0;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  /* Tên dài thì cắt chứ không xuống dòng — hàng giữ đúng một dòng để mắt quét
+     cột điểm bên phải cho thẳng. */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.board-you {
+  color: var(--text-muted);
+  font-weight: var(--weight-normal);
+}
+.board-score {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-1);
+  font-variant-numeric: tabular-nums;
+}
+.board-score b {
+  font-size: var(--text-base);
+  font-weight: var(--weight-bold);
+  color: var(--text);
+}
+.board-score small {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+}
+
+/* --- ba hạng đầu: nở ra --- */
+.board-row.is-top {
+  padding: var(--space-3) var(--space-4);
+}
+.board-row.is-top .board-rank {
+  font-size: var(--text-xl);
+  width: 32px;
+}
+.board-row.is-top .board-avatar {
+  width: 40px;
+  height: 40px;
+}
+.board-row.is-top .board-name {
+  font-size: var(--text-base);
+}
+.board-row.is-top .board-score b {
+  font-size: var(--text-xl);
+}
+
+/* Viền huy chương: 2px để nó là đường viền thật sự chứ không phải sợi chỉ. */
+.board-row.is-top1,
+.board-row.is-top2,
+.board-row.is-top3 {
+  border-width: 2px;
+}
+.board-row.is-top1 {
+  border-color: var(--medal-1);
+}
+.board-row.is-top2 {
+  border-color: var(--medal-2);
+}
+.board-row.is-top3 {
+  border-color: var(--medal-3);
+}
+
+/* Quán quân được thêm một nấc: avatar to nhất, điểm to nhất, nền ánh vàng. */
+.board-row.is-top1 {
+  padding: var(--space-4);
+  box-shadow: var(--shadow-sm);
+}
+.board-row.is-top1 .board-avatar {
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 0 0 2px var(--medal-1);
+}
+.board-row.is-top1 .board-score b {
+  font-size: var(--text-2xl);
+}
+.board-row.is-top1 .board-bar {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--medal-1) 22%, transparent),
+    color-mix(in srgb, var(--medal-1) 5%, transparent)
+  );
+}
+.board-row.is-top2 .board-bar {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--medal-2) 20%, transparent),
+    color-mix(in srgb, var(--medal-2) 4%, transparent)
+  );
+}
+.board-row.is-top3 .board-bar {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--medal-3) 20%, transparent),
+    color-mix(in srgb, var(--medal-3) 4%, transparent)
+  );
+}
+
+/* Hàng của chính mình: viền thương hiệu nét đứt. Không tô đậm chữ — đậm lên là
+   nó tranh nhấn mạnh với người dẫn đầu, mà người dẫn đầu mới là nội dung chính
+   của bảng. Nét đứt đủ để mắt tìm ra mình mà không cướp spotlight. */
+.board-row.is-me {
+  border-style: dashed;
+  border-color: var(--brand);
 }

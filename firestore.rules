@@ -27,8 +27,43 @@ service cloud.firestore {
 
     // TIẾN ĐỘ HỌC — chỉ chính chủ uid đó đọc và ghi được.
     // Người khác biết uid của bạn cũng không đọc được, vì phải đăng nhập đúng uid đó.
+    //
+    // Rule này CỐ Ý không nới ra cho bảng xếp hạng. Bảng xếp hạng chỉ cần tên và
+    // điểm; mở /progress ra là phơi luôn từng chữ người ta gõ sai lúc chép chính
+    // tả và sai mấy lần — thứ không ai cần thấy để biết ai đang dẫn đầu.
     match /progress/{uid}/days/{slug} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // BẢNG XẾP HẠNG — công khai, nhưng CHỈ chứa thứ đủ để xếp hạng.
+    //
+    // Đây là bản sao hẹp, cố ý tách khỏi /progress: ai cũng đọc được tên, ảnh và
+    // điểm, còn tiến độ thô vẫn kín. Người học tự ghi doc của chính mình.
+    //
+    // Phải có email trong token, nghĩa là đã đăng nhập thật (Google). Phiên ẩn
+    // danh không có email nên không lên bảng được — mà cũng không nên, vì nó
+    // không có tên, và mỗi trình duyệt lại đẻ ra một uid ẩn danh mới.
+    //
+    // KHÔNG chặn được người tự khai điểm cao: client nào cũng ghi được doc của
+    // mình. Rule dưới đây chỉ giữ cho dữ liệu đúng HÌNH DẠNG — đúng số trường,
+    // điểm là số nguyên không âm, tên không dài quá. Muốn chống gian thật thì
+    // phải tính điểm ở server (Cloud Function đọc /progress rồi ghi), chưa làm.
+    match /leaderboard/{uid} {
+      allow read: if true;
+
+      allow write: if request.auth != null
+        && request.auth.uid == uid
+        && request.auth.token.email != null
+        && request.resource.data.keys().hasOnly(['name', 'photo', 'score', 'updatedAt'])
+        && request.resource.data.name is string
+        && request.resource.data.name.size() > 0
+        && request.resource.data.name.size() <= 60
+        && request.resource.data.score is int
+        && request.resource.data.score >= 0
+        && request.resource.data.score <= 100000;
+
+      // Cho tự rút khỏi bảng.
+      allow delete: if request.auth != null && request.auth.uid == uid;
     }
   }
 }
