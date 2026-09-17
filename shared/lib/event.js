@@ -6,7 +6,7 @@
 // không. Và vì nó là hằng số lúc build nên server với client render giống hệt
 // nhau — không hydration mismatch, không chớp màu lúc tải, màu vẫn đúng kể cả
 // khi JS chết.
-export const ACTIVE_EVENT = 'mid-autumn';
+export const ACTIVE_EVENT = null;
 
 // Màu thanh địa chỉ trên mobile phải khớp --bg, không thì nó lệch hẳn so với
 // trang. `base` là giá trị gốc trong tokens.css (--slate-50 / --slate-950).
