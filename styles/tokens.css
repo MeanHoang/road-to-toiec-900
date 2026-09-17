@@ -102,8 +102,15 @@
   --border-strong: var(--slate-300);
 
   --text: var(--slate-900);
-  --text-muted: var(--slate-500);
-  --text-subtle: var(--slate-400);
+  /* Mỗi bậc dịch xuống một nấc so với trước, vì bậc cũ không đọc nổi trên nền
+     sáng: slate-400 chỉ đạt 2.63:1 so với --bg, trong khi WCAG AA cần 4.5:1 —
+     đó là cỡ chữ 12px ở tiêu đề bảng từ vựng và trong thẻ <code>.
+     Đậm thêm CẢ HAI bậc cho bằng nhau thì hỏng: ép cả hai lên 4.5 là chúng hội
+     tụ về gần cùng một màu, mất luôn phân cấp. Dịch nấc thì vừa đạt chuẩn vừa
+     còn hai bậc phân biệt được.
+     Hai primitive này không chỗ nào khác dùng, nên đổi alias là đủ. */
+  --text-muted: var(--slate-600); /* 6.94:1 so với --bg */
+  --text-subtle: var(--slate-500); /* 4.48:1 — đạt trên thẻ trắng (4.77) */
   --text-on-brand: #ffffff;
 
   --brand: var(--brand-600);
@@ -144,7 +151,7 @@
 
     --text: #e9eef6;
     --text-muted: var(--slate-400);
-    --text-subtle: #6d7a92;
+    --text-subtle: #76839b; /* sáng thêm một chút: bản cũ chỉ đạt 4.30:1 so với --bg */
     --text-on-brand: #04101f;
 
     --brand: var(--brand-400);
@@ -182,7 +189,7 @@
   --border-strong: #33415a;
   --text: #e9eef6;
   --text-muted: var(--slate-400);
-  --text-subtle: #6d7a92;
+  --text-subtle: #76839b; /* sáng thêm một chút: bản cũ chỉ đạt 4.30:1 so với --bg */
   --text-on-brand: #04101f;
   --brand: var(--brand-400);
   --brand-hover: #8dbcff;

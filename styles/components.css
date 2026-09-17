@@ -764,7 +764,13 @@
   font-size: var(--text-xs);
   font-weight: var(--weight-bold);
   cursor: pointer;
-  transition: all var(--fast) var(--ease);
+  /* Liệt kê đúng ba thuộc tính thật sự đổi, không dùng `all`: `all` bắt trình
+     duyệt theo dõi mọi thuộc tính, nên thêm một dòng CSS bất kỳ vào .step sau
+     này là tự dưng nó cũng được animate mà không ai định thế. */
+  transition:
+    background var(--fast) var(--ease),
+    border-color var(--fast) var(--ease),
+    color var(--fast) var(--ease);
 }
 .step:hover {
   border-color: var(--border-strong);
