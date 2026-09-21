@@ -5,13 +5,13 @@ import { StarToggle } from '@/shared/ui/atoms/StarToggle';
 import { Speak } from '@/shared/ui/molecules/Speak';
 
 /** Một dòng phiên âm: nhãn giọng, IPA, nút đọc. */
-function IpaLine({ label, ipa, word, lang, voice }) {
+function IpaLine({ label, ipa, word, lang, voice, src }) {
   if (!ipa) return null;
   return (
     <div className="ipa-line">
       <span className="ipa-label">{label}</span>
       <span className="ipa">{ipa}</span>
-      <Speak text={word} lang={lang} label={`Đọc ${word} giọng ${voice}`} />
+      <Speak text={word} lang={lang} src={src} label={`Đọc ${word} giọng ${voice}`} />
     </div>
   );
 }
@@ -51,8 +51,22 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
               cả bốn thứ nằm trong một flex-wrap nên khi hết chỗ nó ngắt bừa,
               nút loa Anh rơi xuống nằm cạnh phiên âm Mỹ. */}
           <div className="ipa-row">
-            <IpaLine label="UK" ipa={card.ipa.uk} word={card.word} lang="en-GB" voice="Anh" />
-            <IpaLine label="US" ipa={card.ipa.us} word={card.word} lang="en-US" voice="Mỹ" />
+            <IpaLine
+              label="UK"
+              ipa={card.ipa.uk}
+              word={card.word}
+              lang="en-GB"
+              voice="Anh"
+              src={card.voice?.uk}
+            />
+            <IpaLine
+              label="US"
+              ipa={card.ipa.us}
+              word={card.word}
+              lang="en-US"
+              voice="Mỹ"
+              src={card.voice?.us}
+            />
           </div>
           <div className="hint">tự nhớ nghĩa trước · bấm để lật</div>
         </div>

@@ -235,6 +235,13 @@
   color: var(--brand);
   border-color: var(--brand-border);
 }
+/* Nút loa khi đọc hỏng. Đổi cả màu lẫn biểu tượng (🔊 → ⚠️) chứ không chỉ đổi
+   màu: người phân biệt màu kém vẫn phải thấy là có chuyện. Lý do cụ thể nằm ở
+   thuộc tính title và aria-label. */
+.icon-btn.is-error {
+  color: var(--danger);
+  border-color: color-mix(in srgb, var(--danger) 45%, transparent);
+}
 
 /* ----------------------------------------------------------------- badge */
 .badge {
@@ -838,19 +845,81 @@
 .track .play:hover {
   background: var(--brand-hover);
 }
-.track .seek {
+.track-main {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Vùng bắt chuột cao 20px, rãnh nhìn thấy chỉ 6px vẽ ở giữa.
+   Bản cũ để cả phần tử cao 6px — ngắm trúng đã khó, kéo còn khó hơn, mà kéo
+   tới lui một đoạn mới là việc chính ở màn chép chính tả. */
+.seek {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 24px;
+  /* Thụt vào đúng bán kính núm lúc to nhất, để núm ở mốc 0 và mốc cuối vẫn
+     nằm trọn trong thanh thay vì thò ra đâm vào nút phát. */
+  padding: 0 9px;
+  cursor: pointer;
+  /* Bắt buộc cho kéo bằng ngón tay: không có nó thì trình duyệt cuộn trang
+     thay vì để mình kéo. */
+  touch-action: none;
+}
+.seek-rail {
+  position: relative;
   flex: 1;
   height: 6px;
   border-radius: var(--radius-full);
   background: var(--surface-sunken);
-  position: relative;
-  cursor: pointer;
 }
-.track .seek > i {
+.seek-fill {
   position: absolute;
-  inset: 0;
+  inset: 0 auto 0 0;
   border-radius: var(--radius-full);
   background: var(--brand);
+}
+/* Núm LUÔN hiện, không chỉ khi rê chuột: nó là thứ duy nhất nói cho người dùng
+   biết thanh này kéo được. Giấu đi thì lại quay về chỗ cũ. */
+.seek-thumb {
+  position: absolute;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  transform: translate(-50%, -50%);
+  border-radius: var(--radius-full);
+  background: var(--brand);
+  box-shadow: 0 0 0 2px var(--surface);
+  transition: width var(--fast) var(--ease), height var(--fast) var(--ease);
+}
+.seek:hover .seek-thumb,
+.seek.is-dragging .seek-thumb {
+  width: 18px;
+  height: 18px;
+}
+.seek:focus-visible {
+  outline: none;
+}
+.seek:focus-visible .seek-thumb {
+  box-shadow: 0 0 0 2px var(--surface), var(--ring);
+}
+
+/* Thời gian: đang ở đâu bên trái, tổng bài bên phải. Không có nó thì "chỗ lúc
+   nãy" là khái niệm mơ hồ, người học không có cách nào tự nhắc mình quay lại
+   đúng chỗ nào. tabular-nums để số không nhảy ngang khi giây đổi.
+   Thẳng hàng với hai đầu rãnh, nên cùng padding với .seek. */
+.track-time {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 9px;
+  font-size: var(--text-xs);
+  color: var(--text-subtle);
+  font-variant-numeric: tabular-nums;
+}
+/* Số đang chạy là số người ta nhìn; tổng bài chỉ để đối chiếu. */
+.track-now {
+  color: var(--text-muted);
+  font-weight: var(--weight-medium);
 }
 /* Chọn tốc độ. Là <select> thật của trình duyệt: trên điện thoại nó mở bánh xe
    chọn quen tay, và người dùng bàn phím có sẵn mũi tên lên xuống. */

@@ -21,7 +21,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v01-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v01-us.mp3"
       }
     },
     {
@@ -41,7 +46,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v02-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v02-us.mp3"
       }
     },
     {
@@ -61,7 +71,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v03-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v03-us.mp3"
       }
     },
     {
@@ -81,7 +96,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v04-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v04-us.mp3"
       }
     },
     {
@@ -101,7 +121,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v05-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v05-us.mp3"
       }
     },
     {
@@ -121,7 +146,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v06-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v06-us.mp3"
       }
     },
     {
@@ -141,7 +171,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v07-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v07-us.mp3"
       }
     },
     {
@@ -161,7 +196,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v08-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v08-us.mp3"
       }
     },
     {
@@ -181,7 +221,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v09-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v09-us.mp3"
       }
     },
     {
@@ -201,7 +246,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v10-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v10-us.mp3"
       }
     },
     {
@@ -218,7 +268,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": null,
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v11-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v11-us.mp3"
       }
     },
     {
@@ -238,7 +293,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v12-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v12-us.mp3"
       }
     },
     {
@@ -258,7 +318,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v13-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v13-us.mp3"
       }
     },
     {
@@ -278,7 +343,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v14-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v14-us.mp3"
       }
     },
     {
@@ -298,7 +368,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v15-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v15-us.mp3"
       }
     },
     {
@@ -318,7 +393,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v16-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v16-us.mp3"
       }
     },
     {
@@ -338,7 +418,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v17-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v17-us.mp3"
       }
     },
     {
@@ -358,7 +443,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v18-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v18-us.mp3"
       }
     },
     {
@@ -378,7 +468,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v19-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v19-us.mp3"
       }
     },
     {
@@ -398,7 +493,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v20-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v20-us.mp3"
       }
     },
     {
@@ -418,7 +518,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v21-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v21-us.mp3"
       }
     },
     {
@@ -438,7 +543,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v22-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v22-us.mp3"
       }
     },
     {
@@ -458,7 +568,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v23-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v23-us.mp3"
       }
     },
     {
@@ -478,7 +593,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v24-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v24-us.mp3"
       }
     },
     {
@@ -498,7 +618,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v25-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v25-us.mp3"
       }
     },
     {
@@ -518,7 +643,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v26-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v26-us.mp3"
       }
     },
     {
@@ -538,7 +668,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v27-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v27-us.mp3"
       }
     },
     {
@@ -558,7 +693,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v28-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v28-us.mp3"
       }
     },
     {
@@ -578,7 +718,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v29-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v29-us.mp3"
       }
     },
     {
@@ -598,7 +743,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v30-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v30-us.mp3"
       }
     },
     {
@@ -618,7 +768,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v31-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v31-us.mp3"
       }
     },
     {
@@ -638,7 +793,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v32-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v32-us.mp3"
       }
     },
     {
@@ -658,7 +818,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v33-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v33-us.mp3"
       }
     },
     {
@@ -678,7 +843,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v34-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v34-us.mp3"
       }
     },
     {
@@ -698,7 +868,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v35-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v35-us.mp3"
       }
     },
     {
@@ -718,7 +893,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v36-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v36-us.mp3"
       }
     },
     {
@@ -738,7 +918,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v37-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v37-us.mp3"
       }
     },
     {
@@ -758,7 +943,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v38-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v38-us.mp3"
       }
     },
     {
@@ -778,7 +968,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v39-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v39-us.mp3"
       }
     },
     {
@@ -798,7 +993,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v40-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v40-us.mp3"
       }
     },
     {
@@ -818,7 +1018,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v41-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v41-us.mp3"
       }
     },
     {
@@ -838,7 +1043,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v42-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v42-us.mp3"
       }
     },
     {
@@ -858,7 +1068,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v43-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v43-us.mp3"
       }
     },
     {
@@ -878,7 +1093,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v44-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v44-us.mp3"
       }
     },
     {
@@ -898,7 +1118,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v45-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v45-us.mp3"
       }
     },
     {
@@ -918,7 +1143,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v46-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v46-us.mp3"
       }
     },
     {
@@ -938,7 +1168,12 @@
         "word": "pdf",
         "pos": "pdf",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v47-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v47-us.mp3"
       }
     },
     {
@@ -958,7 +1193,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v48-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v48-us.mp3"
       }
     },
     {
@@ -978,7 +1218,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v49-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v49-us.mp3"
       }
     },
     {
@@ -998,7 +1243,12 @@
         "word": "pdf",
         "pos": "pdf",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v50-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v50-us.mp3"
       }
     },
     {
@@ -1018,7 +1268,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v51-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v51-us.mp3"
       }
     },
     {
@@ -1038,7 +1293,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v52-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v52-us.mp3"
       }
     },
     {
@@ -1058,7 +1318,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v53-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v53-us.mp3"
       }
     },
     {
@@ -1078,7 +1343,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v54-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v54-us.mp3"
       }
     },
     {
@@ -1098,7 +1368,12 @@
         "word": "pdf",
         "pos": "pdf",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v55-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v55-us.mp3"
       }
     },
     {
@@ -1118,7 +1393,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v56-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v56-us.mp3"
       }
     },
     {
@@ -1138,7 +1418,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v57-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v57-us.mp3"
       }
     },
     {
@@ -1158,7 +1443,12 @@
         "word": "pdf",
         "pos": "ai",
         "ipa": "pdf",
-        "meaningVi": "ai"
+        "meaningVi": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-2/voice/d2-v58-uk.mp3",
+        "us": "/assets/day-2/voice/d2-v58-us.mp3"
       }
     }
   ]

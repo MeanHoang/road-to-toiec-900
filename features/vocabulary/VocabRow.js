@@ -35,7 +35,9 @@ export function VocabRow({ word, known, starred, onToggleKnown, onToggleStar }) 
         </button>
       </td>
       <td>
-        <Speak text={word.word} />
+        {/* Bảng tra cứu chỉ có một nút, lấy giọng Mỹ — cột IPA ở đây không
+            tách UK/US nên bày hai nút là bày thêm việc phải chọn. */}
+        <Speak text={word.word} src={word.voice?.us} />
       </td>
     </tr>
   );

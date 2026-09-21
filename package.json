@@ -11,6 +11,7 @@
     "validate": "node scripts/validate-content.mjs",
     "test:merge": "node scripts/test-merge.mjs",
     "test:score": "node scripts/test-score.mjs",
+    "voice-vocab": "node scripts/voice-vocab.mjs",
     "test:dictation": "node scripts/test-dictation.mjs",
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs"
