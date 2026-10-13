@@ -166,6 +166,18 @@ async function validateDay(slug) {
       }
     }
 
+    if (name === 'theory') {
+      for (const b of data.items) {
+        if (b.type !== 'table') continue;
+        for (const [i, row] of (b.rows || []).entries()) {
+          // Mảng trong mảng thì Firestore từ chối ghi — dòng phải là { cells }.
+          if (!Array.isArray(row?.cells)) err(file, `${b.id} dòng ${i + 1} phải có dạng { cells: [...] }`);
+          else if (row.cells.length !== b.columns.length)
+            err(file, `${b.id} dòng ${i + 1} có ${row.cells.length} ô, bảng có ${b.columns.length} cột`);
+        }
+      }
+    }
+
     if (name === 'exercises') {
       for (const set of data.items) {
         if (!set.code) err(file, `${set.id} thiếu code (dùng làm URL)`);

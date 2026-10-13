@@ -54,8 +54,11 @@ function NotesBlock({ block }) {
 
 /**
  * Khối bảng: bảng thì, công thức bị động, cách trả lời từng loại câu hỏi…
- * `columns` là tiêu đề cột, `rows` là mảng các dòng, mỗi dòng cùng số ô với
- * `columns`. Ô có xuống dòng (\n) thì giữ nguyên xuống dòng.
+ * `columns` là tiêu đề cột, `rows` là mảng các dòng `{ cells: [...] }`, mỗi
+ * dòng cùng số ô với `columns`. Ô có xuống dòng (\n) thì giữ nguyên xuống dòng.
+ *
+ * Dòng phải bọc trong object chứ không để mảng trần: Firestore không lưu được
+ * mảng nằm trong mảng ("Property array contains an invalid nested entity").
  */
 function TableBlock({ block }) {
   return (
@@ -72,7 +75,7 @@ function TableBlock({ block }) {
           <tbody>
             {block.rows.map((row, i) => (
               <tr key={i}>
-                {row.map((cell, j) => (
+                {row.cells.map((cell, j) => (
                   <td key={j} style={{ whiteSpace: 'pre-line', lineHeight: 'var(--leading-snug)' }}>
                     {cell}
                   </td>

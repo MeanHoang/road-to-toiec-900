@@ -27,26 +27,36 @@
         "Mẫu câu"
       ],
       "rows": [
-        [
-          "Chọn một trong hai",
-          "The … one/ones (The white one)\n… prefer/ like/ would like/ want/ choose…"
-        ],
-        [
-          "Chọn cả",
-          "Both / All (I’ll take all)"
-        ],
-        [
-          "Không chọn cái nào",
-          "None/ Neither /ˈnaɪ.ðər/ /ˈniː.ðər/"
-        ],
-        [
-          "Cái nào cũng được",
-          "Either /ˈaɪ.ðər/ /ˈiː.ðər/ (Either is fine)\nWhichever (Whichever costs less)\nIt doesn’t matter to me."
-        ],
-        [
-          "Phân vân",
-          "It depends on … / I’m not sure yet/ …"
-        ]
+        {
+          "cells": [
+            "Chọn một trong hai",
+            "The … one/ones (The white one)\n… prefer/ like/ would like/ want/ choose…"
+          ]
+        },
+        {
+          "cells": [
+            "Chọn cả",
+            "Both / All (I’ll take all)"
+          ]
+        },
+        {
+          "cells": [
+            "Không chọn cái nào",
+            "None/ Neither /ˈnaɪ.ðər/ /ˈniː.ðər/"
+          ]
+        },
+        {
+          "cells": [
+            "Cái nào cũng được",
+            "Either /ˈaɪ.ðər/ /ˈiː.ðər/ (Either is fine)\nWhichever (Whichever costs less)\nIt doesn’t matter to me."
+          ]
+        },
+        {
+          "cells": [
+            "Phân vân",
+            "It depends on … / I’m not sure yet/ …"
+          ]
+        }
       ],
       "source": "pdf"
     },

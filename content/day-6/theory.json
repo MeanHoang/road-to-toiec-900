@@ -14,18 +14,24 @@
         "Ví dụ"
       ],
       "rows": [
-        [
-          "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
-          "Who is the new manager?\n=> Mr.Thompson"
-        ],
-        [
-          "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
-          "Did you do your homework?\n=> No, not yet."
-        ],
-        [
-          "3. Câu trần thuật\nStatement",
-          "There is a mail for you.\n=> Who's it from?"
-        ]
+        {
+          "cells": [
+            "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
+            "Who is the new manager?\n=> Mr.Thompson"
+          ]
+        },
+        {
+          "cells": [
+            "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
+            "Did you do your homework?\n=> No, not yet."
+          ]
+        },
+        {
+          "cells": [
+            "3. Câu trần thuật\nStatement",
+            "There is a mail for you.\n=> Who's it from?"
+          ]
+        }
       ],
       "source": "pdf"
     },
@@ -54,18 +60,24 @@
         "Ví dụ"
       ],
       "rows": [
-        [
-          "Tên riêng",
-          "Mr/ Ms/ Mrs…., Tom, Thomas, …"
-        ],
-        [
-          "Tên chức vụ, nghề nghiệp",
-          "President, director, manager, supervisor, secretary, assistant, accountant, receptionist, representative, employee, staff, client, customer,…"
-        ],
-        [
-          "Tên bộ phận, phòng ban",
-          "Sales department, accounting department, maintenance department, marketing department, shipping/delivery department, production department, personnel department/ human resources, …"
-        ]
+        {
+          "cells": [
+            "Tên riêng",
+            "Mr/ Ms/ Mrs…., Tom, Thomas, …"
+          ]
+        },
+        {
+          "cells": [
+            "Tên chức vụ, nghề nghiệp",
+            "President, director, manager, supervisor, secretary, assistant, accountant, receptionist, representative, employee, staff, client, customer,…"
+          ]
+        },
+        {
+          "cells": [
+            "Tên bộ phận, phòng ban",
+            "Sales department, accounting department, maintenance department, marketing department, shipping/delivery department, production department, personnel department/ human resources, …"
+          ]
+        }
       ],
       "source": "pdf"
     },
@@ -79,14 +91,18 @@
         "Ví dụ"
       ],
       "rows": [
-        [
-          "Giới từ ví trí + Danh từ địa điểm, đồ vật",
-          "At a hotel/café, in the office/restaurant/room/drawer, on the table/desk/shelf, down/across the street, on the corner, over there, …"
-        ],
-        [
-          "Cách chỉ đường",
-          "Go to/ to/ try / check + place"
-        ]
+        {
+          "cells": [
+            "Giới từ ví trí + Danh từ địa điểm, đồ vật",
+            "At a hotel/café, in the office/restaurant/room/drawer, on the table/desk/shelf, down/across the street, on the corner, over there, …"
+          ]
+        },
+        {
+          "cells": [
+            "Cách chỉ đường",
+            "Go to/ to/ try / check + place"
+          ]
+        }
       ],
       "source": "pdf"
     },
@@ -100,38 +116,54 @@
         "Ví dụ"
       ],
       "rows": [
-        [
-          "Đơn vị thời gian",
-          "In a few minutes/ hours/ days, within a week/month/year, …"
-        ],
-        [
-          "Trạng từ chỉ thời gian",
-          "Yesterday, last, ago, today, tonight, tomorrow, next, soon"
-        ],
-        [
-          "Giờ giấc",
-          "At 9 o’clock/ AM/ PM …"
-        ],
-        [
-          "Các buổi trong ngày",
-          "In the morning/ afternoon/ evening, at noon/ lunchtime/ night"
-        ],
-        [
-          "Các thứ trong tuần",
-          "On Monday/ Tuesday…"
-        ],
-        [
-          "Các tháng trong năm",
-          "In January/ February…"
-        ],
-        [
-          "Các mùa",
-          "In spring/ winter/ summer/ fall/ autumn"
-        ],
-        [
-          "Từ nối chỉ thời gian",
-          "When, while, before, after, until, as soon as, whenever + MĐ"
-        ]
+        {
+          "cells": [
+            "Đơn vị thời gian",
+            "In a few minutes/ hours/ days, within a week/month/year, …"
+          ]
+        },
+        {
+          "cells": [
+            "Trạng từ chỉ thời gian",
+            "Yesterday, last, ago, today, tonight, tomorrow, next, soon"
+          ]
+        },
+        {
+          "cells": [
+            "Giờ giấc",
+            "At 9 o’clock/ AM/ PM …"
+          ]
+        },
+        {
+          "cells": [
+            "Các buổi trong ngày",
+            "In the morning/ afternoon/ evening, at noon/ lunchtime/ night"
+          ]
+        },
+        {
+          "cells": [
+            "Các thứ trong tuần",
+            "On Monday/ Tuesday…"
+          ]
+        },
+        {
+          "cells": [
+            "Các tháng trong năm",
+            "In January/ February…"
+          ]
+        },
+        {
+          "cells": [
+            "Các mùa",
+            "In spring/ winter/ summer/ fall/ autumn"
+          ]
+        },
+        {
+          "cells": [
+            "Từ nối chỉ thời gian",
+            "When, while, before, after, until, as soon as, whenever + MĐ"
+          ]
+        }
       ],
       "source": "pdf"
     }

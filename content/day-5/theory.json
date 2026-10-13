@@ -15,21 +15,27 @@
         "Đáp"
       ],
       "rows": [
-        [
-          "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
-          "Who is the new manager?",
-          "Mr.Thompson"
-        ],
-        [
-          "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
-          "Did you do your homework?",
-          "No, not yet."
-        ],
-        [
-          "3. Câu trần thuật\nStatement",
-          "There is a mail for you.",
-          "Who's it from?"
-        ]
+        {
+          "cells": [
+            "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
+            "Who is the new manager?",
+            "Mr.Thompson"
+          ]
+        },
+        {
+          "cells": [
+            "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
+            "Did you do your homework?",
+            "No, not yet."
+          ]
+        },
+        {
+          "cells": [
+            "3. Câu trần thuật\nStatement",
+            "There is a mail for you.",
+            "Who's it from?"
+          ]
+        }
       ],
       "source": "pdf"
     },
@@ -44,21 +50,27 @@
         "2. Trả lời gián tiếp"
       ],
       "rows": [
-        [
-          "What do you need for the upcoming meeting?",
-          "This month’s sales report",
-          "Let me check."
-        ],
-        [
-          "When is the electricity bill due (đến hạn)?",
-          "Next Tuesday.",
-          "I have no idea. You should ask Tom."
-        ],
-        [
-          "Would you please close the window?",
-          "Yes. No problem.",
-          "Is it too noisy?"
-        ]
+        {
+          "cells": [
+            "What do you need for the upcoming meeting?",
+            "This month’s sales report",
+            "Let me check."
+          ]
+        },
+        {
+          "cells": [
+            "When is the electricity bill due (đến hạn)?",
+            "Next Tuesday.",
+            "I have no idea. You should ask Tom."
+          ]
+        },
+        {
+          "cells": [
+            "Would you please close the window?",
+            "Yes. No problem.",
+            "Is it too noisy?"
+          ]
+        }
       ],
       "source": "pdf"
     },
