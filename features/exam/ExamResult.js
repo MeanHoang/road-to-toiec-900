@@ -8,10 +8,13 @@
 // Hiện SỐ CÂU ĐÚNG, không quy ra thang 10-990. ETS không công khai bảng quy
 // đổi câu đúng sang điểm, nên mọi con số kiểu "bạn được 720" đều là bịa.
 
+import { useState } from 'react';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
 import { Progress } from '@/shared/ui/atoms/Progress';
+import { Modal } from '@/shared/ui/organisms/Modal';
+import { ExamQuestion } from './ExamQuestion';
 import { partTitle } from './rules';
 
 /** Cắt mảng đáp án theo ranh giới từng chặng đã lưu trong lượt thi. */
@@ -44,7 +47,9 @@ function byPart(attempt) {
   return [...out.values()].sort((x, y) => x.part - y.part);
 }
 
-export function ExamResult({ attempt, onAgain, onBack }) {
+export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
+  const [selected, setSelected] = useState(null);
+  const question = selected && questions.find((q) => q.id === selected.id);
   const sections = bySection(attempt);
   const parts = byPart(attempt);
   const correct = attempt.answers.filter((a) => a.picked === a.answer).length;
@@ -109,24 +114,62 @@ export function ExamResult({ attempt, onAgain, onBack }) {
 
       <Card>
         <span className="eyebrow">Từng câu</span>
+        <p className="caption">Bấm vào câu sai hoặc bỏ trống để xem lại câu hỏi và đáp án.</p>
         {sections.map((s) => (
           <div key={s.label} className="exam-review">
             {sections.length > 1 && <span className="caption">{s.label}</span>}
             {s.answers.map((a, i) => {
               const ok = a.picked === a.answer;
+              const Row = ok ? 'div' : 'button';
               return (
-                <div key={a.id} className="exam-review-row">
+                <Row
+                  key={a.id}
+                  className={`exam-review-row ${ok ? '' : 'exam-review-trigger'}`}
+                  {...(!ok && {
+                    type: 'button',
+                    onClick: () => setSelected({ ...a, no: a.no ?? s.from + i + 1 }),
+                    'aria-label': `Xem đáp án câu ${a.no ?? s.from + i + 1}`,
+                    'aria-haspopup': 'dialog',
+                  })}
+                >
                   <span className="exam-review-no">{a.no ?? s.from + i + 1}</span>
-                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'đúng' : 'sai'}</Badge>
+                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'đúng' : a.picked ? 'sai' : 'bỏ trống'}</Badge>
                   <span className="caption">
                     Chọn {a.picked || '—'} · Đáp án {a.answer}
                   </span>
-                </div>
+                </Row>
               );
             })}
           </div>
         ))}
       </Card>
+
+      <Modal
+        open={Boolean(selected)}
+        onClose={() => setSelected(null)}
+        title={`Đáp án câu ${selected?.no ?? ''}`}
+      >
+        {selected && (
+          <div className="stack exam-answer-review">
+            <p>
+              {selected.picked ? `Bạn chọn ${selected.picked}` : 'Bạn bỏ trống câu này'}
+              {' · '}Đáp án đúng: <b>{selected.answer}</b>
+            </p>
+            {question && (
+              <>
+                <ExamQuestion question={{ ...question, answer: selected.answer }} picked={selected.picked} review />
+                {question.audio && <audio key={question.id} controls src={question.audio} preload="none" aria-label="Nghe lại câu hỏi" />}
+                {question.script?.length > 0 && (
+                  <div className="script-list">
+                    <span className="eyebrow">Lời thoại</span>
+                    {question.script.map((line, i) => <p key={i}>{line.text}</p>)}
+                  </div>
+                )}
+              </>
+            )}
+          </div>
+        )}
+      </Modal>
 
       <div className="exam-actions">
         <Button variant="primary" onClick={onAgain}>

@@ -2071,6 +2071,41 @@ th {
   color: var(--text-subtle);
   font-variant-numeric: tabular-nums;
 }
+.exam-review-trigger {
+  width: 100%;
+  min-height: 44px;
+  padding: var(--space-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.exam-review-trigger:hover {
+  background: var(--surface-sunken);
+  border-color: var(--border-strong);
+}
+.exam-review-trigger:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+.exam-option-review {
+  flex-wrap: wrap;
+  cursor: default;
+}
+.exam-option-review.is-correct {
+  border-color: var(--success);
+  background: var(--success-surface);
+}
+.exam-option-review.is-wrong {
+  border-color: var(--danger);
+  background: var(--danger-surface);
+}
+.exam-answer-review audio {
+  width: 100%;
+}
 
 /* --- màn hẹp: xếp dọc, vẫn gói trong một màn hình --- */
 @media (max-width: 900px) {

@@ -38,6 +38,7 @@ export function ExamScreen() {
 
   const [paper, setPaper] = useState(null); // đề đang làm
   const [attempt, setAttempt] = useState(null); // lượt vừa nộp
+  const [reviewQuestions, setReviewQuestions] = useState([]);
 
   // Mỗi đề là một file đề trọn vẹn, nên "Đề số 1" giống nhau với mọi người học
   // và không đổi khi thêm đề mới — so điểm giữa các lần thi mới có nghĩa.
@@ -61,6 +62,7 @@ export function ExamScreen() {
       a.answers = a.answers.map((x, i) => ({ ...x, picked: picked[i] }));
       a.correct = a.answers.filter((x) => x.picked === x.answer).length;
       saveAttempt(a);
+      setReviewQuestions(paper.sections.flatMap((s) => s.questions));
       setAttempt(a);
       setPaper(null);
     },
@@ -86,6 +88,7 @@ export function ExamScreen() {
         <PageHeader eyebrow="Phòng thi" title="Kết quả" />
         <ExamResult
           attempt={attempt}
+          questions={reviewQuestions}
           onAgain={() => start(attempt.paperId, attempt.only ?? null)}
           onBack={() => setAttempt(null)}
         />

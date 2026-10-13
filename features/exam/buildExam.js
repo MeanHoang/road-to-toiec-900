@@ -29,6 +29,7 @@ export function formQuestions(form) {
         audioSeconds: q.audio ? q.audioSeconds : set.audioSeconds,
         graphic: set.graphic ?? null,
         passage: set.passage ?? null,
+        script: q.script || set.script || null,
       });
     }
   }

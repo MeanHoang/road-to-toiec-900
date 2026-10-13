@@ -11,9 +11,10 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
+import { Badge } from '@/shared/ui/atoms/Badge';
 import { partTitle } from './rules';
 
-export function ExamQuestion({ question, picked, onPick }) {
+export function ExamQuestion({ question, picked, onPick, review = false }) {
   return (
     <div className="exam-q">
       <span className="eyebrow">
@@ -35,7 +36,19 @@ export function ExamQuestion({ question, picked, onPick }) {
       {question.stem && <p className="exam-stem">{question.stem}</p>}
 
       <div className="exam-options">
-        {question.choices.map((letter) => (
+        {question.choices.map((letter) => review ? (
+          <div
+            key={letter}
+            className={`exam-option exam-option-review ${letter === question.answer ? 'is-correct' : picked === letter ? 'is-wrong' : ''}`}
+          >
+            <span className="exam-option-letter">{letter}</span>
+            <span>
+              {question.options?.[letter] || question.script?.find((line) => line.text.startsWith(`${letter}. `))?.text.slice(3)}
+            </span>
+            {letter === question.answer && <Badge tone="success">Đáp án đúng</Badge>}
+            {picked === letter && <Badge tone="danger">Bạn chọn</Badge>}
+          </div>
+        ) : (
           <button
             key={letter}
             type="button"
