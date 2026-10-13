@@ -120,4 +120,25 @@ const base = { vocab:{}, star:{}, listen:{}, trans:{}, picture:{}, dictation:{} 
   console.log('✓ doc cũ chưa có bucket star vẫn gộp được');
 }
 
-console.log('\n12/12 pass');
+// --- lượt thi: hợp hai tập, không lượt nào đè lượt nào -----------------------
+// Thi trên laptop rồi thi trên desktop thì phải còn CẢ HAI, kể cả khi bản kia
+// cũ hơn. Đây là chỗ mà luật "bản mới hơn thắng cả document" từng làm mất dữ liệu.
+{
+  const laptop = {
+    ...base,
+    exams: { '2026-10-13T01:00:00Z': { part: 1, total: 6, correct: 5 } },
+    updatedAt: '2026-10-13T01:05:00Z',
+  };
+  const desktop = {
+    ...base,
+    exams: { '2026-10-12T09:00:00Z': { part: 2, total: 25, correct: 19 } },
+    updatedAt: '2026-10-12T09:30:00Z',
+  };
+  const out = mergeDay(laptop, desktop);
+  assert.equal(Object.keys(out.exams).length, 2, 'phải giữ cả hai lượt thi');
+  assert.equal(out.exams['2026-10-12T09:00:00Z'].correct, 19, 'lượt cũ hơn không bị mất');
+  assert.deepEqual(mergeDay(desktop, laptop).exams, out.exams, 'gộp hai chiều cho kết quả như nhau');
+  console.log('✓ hai máy thi khác nhau thì giữ đủ cả hai lượt');
+}
+
+console.log('\n13/13 pass');

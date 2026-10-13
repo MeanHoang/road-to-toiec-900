@@ -25,12 +25,33 @@ service cloud.firestore {
       }
     }
 
+    // ĐỀ THI — cùng luật với nội dung bài học: ai cũng đọc, không ai ghi từ
+    // trình duyệt. Nằm NGANG HÀNG với /days chứ không nằm trong, vì đề thi
+    // không thuộc buổi học nào. Chỉ script push-exam (Admin SDK) ghi được.
+    //
+    // Nội dung ở đây là đề mẫu do ETS phát hành miễn phí. Nó vẫn có bản quyền
+    // của ETS, nên giữ app ở chế độ riêng tư — xem ghi chú trong README.
+    match /exam/{form} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // DANH SÁCH ĐỀ — đề nào gồm bộ nào. Tách khỏi /exam vì nó không phải một
+    // đề, nó là bảng khai. Ai cũng đọc được, và PHẢI giống nhau với mọi người
+    // học: "Đề số 1" mà mỗi máy một kiểu thì không so điểm được với nhau.
+    match /exam-papers/{doc} {
+      allow read: if true;
+      allow write: if false;
+    }
+
     // TIẾN ĐỘ HỌC — chỉ chính chủ uid đó đọc và ghi được.
     // Người khác biết uid của bạn cũng không đọc được, vì phải đăng nhập đúng uid đó.
     //
     // Rule này CỐ Ý không nới ra cho bảng xếp hạng. Bảng xếp hạng chỉ cần tên và
     // điểm; mở /progress ra là phơi luôn từng chữ người ta gõ sai lúc chép chính
     // tả và sai mấy lần — thứ không ai cần thấy để biết ai đang dẫn đầu.
+    // Kết quả phòng thi cũng nằm dưới đây, ở doc `exam-room` — nó dùng chung
+    // đường ghi với tiến độ buổi học nên không cần rule riêng.
     match /progress/{uid}/days/{slug} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
     }

@@ -178,6 +178,15 @@ export function useProgress(daySlug) {
     [write],
   );
 
+  /**
+   * Lưu MỘT lượt thi đã nộp. Khoá là thời điểm bắt đầu, nên lượt mới không bao
+   * giờ đè lượt cũ — khác hẳn các bucket kia vốn ghi đè trạng thái hiện tại.
+   */
+  const saveAttempt = useCallback(
+    (attempt) => write((p) => ({ ...p, exams: { ...p.exams, [attempt.id]: attempt } })),
+    [write],
+  );
+
   /** Lưu từng dòng chép chính tả theo id câu. */
   const setDictation = useCallback(
     (id, lines) => write((p) => ({ ...p, dictation: { ...p.dictation, [id]: lines } })),
@@ -196,5 +205,6 @@ export function useProgress(daySlug) {
     setTrans,
     setPicture,
     setDictation,
+    saveAttempt,
   };
 }

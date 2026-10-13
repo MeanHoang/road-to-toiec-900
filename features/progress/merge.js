@@ -4,8 +4,20 @@
 // Đây là chỗ dễ mất dữ liệu nhất trong app, nên nó có test riêng:
 //   npm run test:merge
 
-export const EMPTY = { vocab: {}, star: {}, listen: {}, trans: {}, picture: {}, dictation: {} };
-const BUCKETS = ['vocab', 'star', 'listen', 'trans', 'picture', 'dictation'];
+// `exams` là các LƯỢT THI, khoá theo thời điểm bắt đầu. Khác hẳn năm bucket
+// kia: chúng ghi trạng thái hiện tại của một mục và bị ghi đè liên tục, còn
+// một lượt thi nộp xong là bất biến. Nhờ vậy gộp hai máy chỉ là hợp hai tập id
+// — không lượt nào đè lượt nào, và không cần luật gộp riêng.
+export const EMPTY = {
+  vocab: {},
+  star: {},
+  listen: {},
+  trans: {},
+  picture: {},
+  dictation: {},
+  exams: {},
+};
+const BUCKETS = ['vocab', 'star', 'listen', 'trans', 'picture', 'dictation', 'exams'];
 
 /**
  * Gộp hai bản tiến độ của CÙNG một buổi học.

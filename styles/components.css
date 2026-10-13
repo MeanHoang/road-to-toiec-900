@@ -1850,3 +1850,401 @@ th {
   border-style: dashed;
   border-color: var(--brand);
 }
+
+/* ====================================================== PHÒNG THI ======== */
+/* Chỉ đọc token, không có hex nào — nên bảng màu sự kiện đang chạy tự lo màu. */
+
+.exam-group-title {
+  font-size: var(--text-sm);
+  color: var(--text-subtle);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: var(--space-5) 0 var(--space-2);
+}
+.exam-group-title:first-child {
+  margin-top: 0;
+}
+
+.exam-row {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  justify-content: space-between;
+}
+.exam-row-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  min-width: 0;
+}
+.exam-row-head {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* --- thanh trạng thái lúc đang thi --- */
+/* Dính trên đỉnh: đồng hồ là thứ người thi liếc liên tục, cuộn xuống câu dài
+   mà mất đồng hồ thì phải cuộn ngược lên để xem còn bao lâu. */
+/* Không cần `sticky` nữa: cả màn thi không cuộn, chỉ khối câu hỏi cuộn bên
+   trong nó, nên thanh giờ luôn nằm nguyên chỗ. */
+.exam-bar {
+  display: flex;
+  gap: var(--space-4);
+  align-items: baseline;
+  justify-content: space-between;
+  padding: var(--space-3) 0;
+  background: var(--bg);
+}
+.exam-bar-label {
+  font-weight: var(--weight-medium);
+}
+.exam-clock {
+  font-size: var(--text-2xl);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+/* Ba mươi giây cuối đổi màu. Đổi MÀU chứ không nhấp nháy: nhấp nháy ở đúng lúc
+   căng nhất chỉ làm người ta cuống, mà còn vi phạm giảm chuyển động. */
+.exam-clock.is-low {
+  color: var(--danger);
+}
+
+/* MỘT MÀN HÌNH, không cuộn trang. Đang tính giờ mà phải cuộn mới thấy ô chọn
+   câu thì ô đó vô dụng: người thi cần thấy cùng lúc còn bao lâu, còn câu nào
+   trống, và câu đang làm.
+   `dvh` chứ không phải `vh`: trên điện thoại thanh địa chỉ co vào giãn ra, dùng
+   `vh` thì đáy màn bị thanh đó ăn mất và nút Câu sau nằm ngoài tầm với. */
+.exam-run {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: var(--space-4);
+  height: calc(100dvh - var(--space-6));
+}
+.exam-run .exam-bar {
+  grid-column: 1 / -1;
+}
+.exam-side {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  min-height: 0;
+}
+/* Khối câu hỏi tự cuộn BÊN TRONG nó. Bài đọc Part 7 dài hơn màn hình, nhưng
+   cuộn cả trang thì mất thanh giờ và ô chọn câu. */
+.exam-main {
+  min-height: 0;
+  overflow: auto;
+  padding-right: var(--space-2);
+}
+.exam-q {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.exam-audio {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius-md);
+}
+.exam-photo {
+  width: 100%;
+  max-height: 46vh;
+  object-fit: contain;
+  background: var(--photo-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+.exam-passage {
+  padding: var(--space-4);
+  background: var(--surface-sunken);
+  border-radius: var(--radius-md);
+  /* Bài đọc dài thì cuộn trong khung, để khối phương án không bị đẩy khuất. */
+  max-height: 44vh;
+  overflow: auto;
+}
+.exam-passage img {
+  width: 100%;
+  background: var(--photo-bg);
+  border-radius: var(--radius-sm);
+}
+.exam-stem {
+  font-size: var(--text-lg);
+  line-height: var(--leading-snug);
+}
+
+.exam-options {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+.exam-option {
+  display: flex;
+  gap: var(--space-3);
+  align-items: baseline;
+  text-align: left;
+  width: 100%;
+  /* 44px chứ không phải 40px tối thiểu của repo: đây là thứ bấm liên tục dưới
+     sức ép thời gian, bấm trượt là mất câu. */
+  min-height: 44px;
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+}
+.exam-option:hover {
+  border-color: var(--border-strong);
+}
+.exam-option.is-picked {
+  border-color: var(--brand);
+  background: var(--brand-surface);
+}
+/* Chữ cái phương án: ô vuông cố định để bốn dòng thẳng hàng dù chữ dài ngắn. */
+.exam-option-letter {
+  flex: 0 0 auto;
+  width: 24px;
+  font-weight: var(--weight-bold);
+  color: var(--text-muted);
+}
+.exam-option.is-picked .exam-option-letter {
+  color: var(--brand);
+}
+
+.exam-actions {
+  display: flex;
+  gap: var(--space-3);
+  justify-content: flex-end;
+}
+
+/* --- kết quả --- */
+.exam-score {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  align-items: center;
+  text-align: center;
+}
+.exam-score-big {
+  font-size: var(--text-5xl);
+  line-height: 1.1;
+  color: var(--brand);
+  font-variant-numeric: tabular-nums;
+}
+.exam-review {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+}
+.exam-review-row {
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+}
+.exam-review-no {
+  width: 28px;
+  text-align: right;
+  color: var(--text-subtle);
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- màn hẹp: xếp dọc, vẫn gói trong một màn hình --- */
+@media (max-width: 900px) {
+  .exam-run {
+    grid-template-columns: minmax(0, 1fr);
+    /* bốn hàng: thanh giờ · ô chọn câu · câu hỏi (co giãn) · nút bấm */
+    grid-template-rows: auto auto minmax(0, 1fr) auto;
+  }
+  /* Ô chọn câu lên trên câu hỏi, nút bấm xuống dưới cùng — ngón cái với tới
+     được, và không phải cuộn để bấm Câu sau. */
+  .exam-side {
+    display: contents;
+  }
+  .palette {
+    grid-row: 2;
+    /* Dải ngang cuộn được, cao tối đa hai hàng ô: chiếm quá nữa thì không còn
+       chỗ cho chính câu hỏi. */
+    max-height: 128px;
+  }
+  .exam-main {
+    grid-row: 3;
+    padding-right: 0;
+  }
+  .exam-actions {
+    grid-row: 4;
+  }
+  .exam-actions .btn {
+    flex: 1;
+  }
+}
+
+@media (max-width: 640px) {
+  .exam-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .exam-bar {
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .exam-clock {
+    font-size: var(--text-xl);
+  }
+  .exam-photo {
+    max-height: 32vh;
+  }
+  .exam-passage {
+    max-height: none;
+  }
+}
+
+/* --- đề thi: một đề gồm hai phần --- */
+.paper {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+.paper-head {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.paper-title {
+  font-size: var(--text-xl);
+}
+.paper-sections {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--border);
+}
+.paper-section {
+  display: flex;
+  gap: var(--space-4);
+  align-items: center;
+  justify-content: space-between;
+}
+.paper-section-main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  min-width: 0;
+}
+.paper-note {
+  padding-top: var(--space-3);
+  border-top: 1px dashed var(--border);
+}
+
+/* --- ô chọn câu --- */
+.palette {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: var(--space-3);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  /* Cột trái cao bằng màn hình; lưới 100 ô của đề đầy đủ thì tự cuộn trong
+     khung này chứ không đẩy nút bấm xuống dưới đáy. */
+  min-height: 0;
+  overflow: auto;
+}
+.palette-head {
+  display: flex;
+  gap: var(--space-3);
+  align-items: baseline;
+  justify-content: space-between;
+}
+.palette-grid {
+  display: grid;
+  /* Ô cố định chứ không co giãn: lưới số mà mỗi ô một cỡ thì đếm câu bằng mắt
+     rất mệt, và ô hẹp thì bấm trượt. 40px là mức tối thiểu repo đặt cho vùng
+     bấm, giữ nguyên cả trên cột hẹp. */
+  grid-template-columns: repeat(auto-fill, 40px);
+  gap: var(--space-2);
+  justify-content: start;
+}
+.palette-cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text-muted);
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+.palette-cell:hover:not(:disabled) {
+  border-color: var(--border-strong);
+}
+/* Đã chọn đáp án: tô nền. Khác với "đang ở câu này" — một cái là tiến độ, một
+   cái là vị trí, và người thi cần đọc được cả hai cùng lúc. */
+.palette-cell.is-picked {
+  background: var(--brand-surface);
+  border-color: var(--brand-border);
+  color: var(--brand);
+  font-weight: var(--weight-medium);
+}
+.palette-cell.is-current {
+  outline: 2px solid var(--brand);
+  outline-offset: 1px;
+}
+.palette-cell:disabled {
+  cursor: default;
+  opacity: 0.75;
+}
+
+/* --- kết quả theo phần --- */
+.exam-sections {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+.exam-section-score {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: var(--space-1) var(--space-3);
+  align-items: baseline;
+}
+.exam-section-num {
+  font-variant-numeric: tabular-nums;
+  color: var(--brand);
+  font-weight: var(--weight-bold);
+}
+.exam-section-score .progress-track {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 640px) {
+  .paper-head,
+  .paper-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+/* Lưới đề: hai cột trên màn rộng. Mỗi đề là một thẻ ngắn, nên xếp một cột thì
+   phải cuộn nhiều mà hai phần ba bề ngang bỏ trống. */
+.paper-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: var(--space-4);
+}
+@media (max-width: 760px) {
+  .paper-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

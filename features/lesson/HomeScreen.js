@@ -1,6 +1,7 @@
 'use client';
 
 import { AccountBar } from '@/features/auth/AccountBar';
+import { ExamRoomButton } from '@/features/exam/ExamRoomButton';
 import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { EventGreeting } from '@/shared/ui/atoms/EventGreeting';
@@ -46,6 +47,8 @@ export function HomeScreen() {
       <EventGreeting />
 
       <AccountBar trailing={<LeaderboardButton />} />
+
+      <ExamRoomButton days={days} loading={loading} />
 
       {loading ? (
         <LoadingBlock label="Đang tải danh sách buổi học">
