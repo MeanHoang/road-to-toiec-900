@@ -18,8 +18,7 @@ import { useAuth } from './AuthProvider';
 /**
  * `trailing` là một khe trống bên phải, cạnh nút đăng nhập/đăng xuất.
  *
- * Để màn gọi nhét thêm thứ thuộc về "danh tính" vào đây — hiện là nút bảng xếp
- * hạng. Làm thành khe thay vì import thẳng, để AccountBar không phải biết bảng
+ * Để màn gọi nhét thêm nút vào đây — hiện là nút phòng thi và bảng xếp hạng. Làm thành khe thay vì import thẳng, để AccountBar không phải biết bảng
  * xếp hạng là cái gì; nó vẫn chỉ lo mỗi chuyện ai đang học.
  */
 export function AccountBar({ trailing }) {
@@ -35,6 +34,13 @@ export function AccountBar({ trailing }) {
           <b>Chỉ lưu ở máy này</b>
           <span>Chưa cấu hình Firebase — tiến độ nằm trong trình duyệt, không đồng bộ.</span>
         </div>
+        {/* Không có Firebase vẫn phải có lối vào những thứ trong khe, như phòng
+            thi — nó chạy được hoàn toàn từ nội dung trong repo. */}
+        {trailing && (
+          <div className="account-action">
+            <ButtonGroup align="end">{trailing}</ButtonGroup>
+          </div>
+        )}
       </div>
     );
   }

@@ -46,9 +46,14 @@ export function HomeScreen() {
 
       <EventGreeting />
 
-      <AccountBar trailing={<LeaderboardButton />} />
-
-      <ExamRoomButton />
+      <AccountBar
+        trailing={
+          <>
+            <ExamRoomButton />
+            <LeaderboardButton />
+          </>
+        }
+      />
 
       {loading ? (
         <LoadingBlock label="Đang tải danh sách buổi học">

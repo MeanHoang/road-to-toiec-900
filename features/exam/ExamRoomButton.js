@@ -1,23 +1,16 @@
 'use client';
 
-// Lối vào phòng thi, đặt ở trang chủ ngay trên danh sách buổi.
+// Lối vào phòng thi: một nút nhỏ trên thanh tài khoản, cạnh "Bảng xếp hạng".
 //
-// Một thẻ to chứ không phải một nút trong thanh tài khoản: thi thử là việc
-// khác hẳn học bài, và nó không thuộc buổi nào nên không có chỗ nào trong
-// danh sách buổi để nhét vào.
-//
-// Số đề đếm từ các đề bundle sẵn — thêm đề mới là con số tự tăng.
+// Không đặt thành một thẻ trong danh sách buổi: thẻ cùng kiểu với DAY 1, DAY 2…
+// trông như một buổi học, trong khi thi thử là việc khác hẳn học bài.
 
-import { NavCard } from '@/shared/ui/molecules/NavCard';
-import { bundledForms } from './examContent';
+import { Button } from '@/shared/ui/atoms/Button';
 
 export function ExamRoomButton() {
   return (
-    <NavCard
-      href="/exam"
-      lead="📝"
-      title="Phòng thi"
-      meta={`${bundledForms.length} đề · 200 câu, 7 Part · bấm giờ như thi thật`}
-    />
+    <Button size="sm" href="/exam">
+      📝 Phòng thi
+    </Button>
   );
 }
