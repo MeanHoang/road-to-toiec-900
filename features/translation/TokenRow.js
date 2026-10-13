@@ -49,10 +49,10 @@ export function TokenRow({ question, marks, checked, onAssign }) {
       {!checked && (
         <div className="row" style={{ marginTop: 'var(--space-4)' }}>
           {sel == null ? (
-            <span className="caption">Chọn một cụm từ ở trên để gán nhãn</span>
+            <span className="caption">Select a phrase above to label it</span>
           ) : (
             <>
-              <span className="caption">Gán nhãn cho &ldquo;{question.tokens[sel]}&rdquo;:</span>
+              <span className="caption">Label &ldquo;{question.tokens[sel]}&rdquo;:</span>
               {LABELS.map((l) => (
                 <Button key={l.key} size="sm" onClick={() => assign(l.key)}>
                   <Badge tone={l.tone}>{l.key}</Badge>
@@ -60,7 +60,7 @@ export function TokenRow({ question, marks, checked, onAssign }) {
                 </Button>
               ))}
               <Button variant="quiet" size="sm" onClick={() => assign(null)}>
-                Xoá nhãn
+                Clear label
               </Button>
             </>
           )}

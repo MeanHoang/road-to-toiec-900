@@ -61,7 +61,7 @@ export function AppShell({ children }) {
           type="button"
           className="drawer-handle"
           onClick={() => setOpen(true)}
-          aria-label="Mở menu điều hướng"
+          aria-label="Open navigation menu"
           aria-expanded={false}
         >
           »

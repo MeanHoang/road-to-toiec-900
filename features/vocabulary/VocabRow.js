@@ -12,7 +12,7 @@ export function VocabRow({ word, known, starred, onToggleKnown, onToggleStar }) 
         <StarToggle
           on={starred}
           onClick={onToggleStar}
-          label={starred ? `Bỏ sao ${word.word}` : `Gắn sao ${word.word}`}
+          label={starred ? `Unstar ${word.word}` : `Star ${word.word}`}
         />
       </td>
       <td className="caption">{word.no}</td>
@@ -29,9 +29,9 @@ export function VocabRow({ word, known, starred, onToggleKnown, onToggleStar }) 
           type="button"
           onClick={onToggleKnown}
           style={{ background: 'none', border: 0, padding: 0, cursor: 'pointer' }}
-          aria-label={`Đánh dấu ${word.word} là ${known ? 'chưa học' : 'đã biết'}`}
+          aria-label={`Mark ${word.word} as ${known ? 'To learn' : 'Known'}`}
         >
-          <Badge tone={known ? 'success' : 'warning'}>{known ? 'đã biết' : 'chưa học'}</Badge>
+          <Badge tone={known ? 'success' : 'warning'}>{known ? 'Known' : 'To learn'}</Badge>
         </button>
       </td>
       <td>

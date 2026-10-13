@@ -55,15 +55,15 @@ export function GrammarExerciseScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Bài tập ngữ pháp"
-        subtitle="Gạch câu thành từng phần S / V / O, rồi dịch sang tiếng Việt."
+        title="Grammar exercises"
+        subtitle="Label each sentence with S / V / O, then translate it into Vietnamese."
       >
         {ready && done.length > 0 && (
           <div className="row" style={{ marginTop: 'var(--space-4)' }}>
-            <Badge tone="success">✅ {rightCount} đúng</Badge>
-            <Badge tone="danger">❌ {done.length - rightCount} sai</Badge>
+            <Badge tone="success">✅ {rightCount} correct</Badge>
+            <Badge tone="danger">❌ {done.length - rightCount} incorrect</Badge>
             <span className="caption">
-              Kết quả lưu lại trên máy — bấm số câu để xem lại hoặc làm lại
+              Your results are saved on this device. Select a question number to review or retry it.
             </span>
           </div>
         )}
@@ -81,21 +81,21 @@ export function GrammarExerciseScreen({ slug, day }) {
       <Card style={{ marginTop: 'var(--space-4)' }}>
         <div className="quiz-head">
           <span>
-            Câu {idx + 1} / {day.translation.length}
+            Question {idx + 1} / {day.translation.length}
           </span>
           {checked ? (
             <Badge tone={correct ? 'success' : 'danger'}>
-              {correct ? '✅ đã làm đúng' : '❌ đã làm sai'}
+              {correct ? '✅ Correct' : '❌ Incorrect'}
             </Badge>
           ) : (
-            <Badge tone="brand">Bước 1 · gạch S / V / O</Badge>
+            <Badge tone="brand">Step 1 · label S / V / O</Badge>
           )}
         </div>
 
         <p className="section-lead">
           {checked
-            ? 'Bài bạn đã làm — bấm "Làm lại" nếu muốn thử lại.'
-            : 'Bấm vào cụm từ, rồi chọn nhãn bên dưới.'}
+            ? 'Your saved answer. Click Retry to try again.'
+            : 'Select a phrase, then choose a label below.'}
         </p>
 
         <TokenRow
@@ -109,44 +109,44 @@ export function GrammarExerciseScreen({ slug, day }) {
         <hr />
 
         <div className="quiz-head">
-          <Badge tone={tagged ? 'brand' : 'neutral'}>Bước 2 · dịch sang tiếng Việt</Badge>
-          {!tagged && <span className="caption">🔒 mở khi gạch xong</span>}
+          <Badge tone={tagged ? 'brand' : 'neutral'}>Step 2 · translate into Vietnamese</Badge>
+          {!tagged && <span className="caption">🔒 Unlocks after labeling</span>}
         </div>
 
         <Textarea
           rows={2}
           disabled={!tagged || checked}
-          placeholder="Nhập bản dịch của bạn…"
+          placeholder="Enter your Vietnamese translation…"
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
         />
 
         {checked && (
           <div className={`feedback ${correct ? 'feedback-success' : 'feedback-error'}`}>
-            {correct ? '✅ Gạch đúng hết.' : '❌ Có cụm gạch sai — chỗ viền đỏ ở trên.'}
+            {correct ? '✅ All labels are correct.' : '❌ Some labels are incorrect. Check the phrases outlined in red.'}
             <p style={{ marginTop: 'var(--space-3)' }}>
-              <strong>Bản dịch mẫu:</strong> {q.vi}
+              <strong>Sample translation:</strong> {q.vi}
             </p>
             <p className="caption" style={{ marginTop: 'var(--space-2)' }}>
-              Bản dịch không chấm máy móc — một câu có nhiều cách dịch đúng. Tự đối chiếu.
+              Translations are not automatically graded. Compare yours with the sample; more than one translation may be correct.
             </p>
           </div>
         )}
 
         <div className="row row-between" style={{ marginTop: 'var(--space-4)' }}>
           <Button variant="quiet" disabled={idx === 0} onClick={() => setIdx(idx - 1)}>
-            ← Câu trước
+            ← Previous question
           </Button>
 
           <span className="row">
             {checked && (
               <Button variant="quiet" onClick={redo}>
-                ↺ Làm lại câu này
+                ↺ Retry question
               </Button>
             )}
             {!checked ? (
               <Button variant="primary" disabled={!tagged} onClick={check}>
-                Kiểm tra
+                Check
               </Button>
             ) : (
               <Button
@@ -154,7 +154,7 @@ export function GrammarExerciseScreen({ slug, day }) {
                 disabled={idx === day.translation.length - 1}
                 onClick={() => setIdx(idx + 1)}
               >
-                Câu tiếp →
+                Next question →
               </Button>
             )}
           </span>

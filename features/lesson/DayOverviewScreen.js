@@ -19,29 +19,29 @@ export function DayOverviewScreen({ slug, day }) {
 
   return (
     <>
-      <PageHeader eyebrow={`Buổi ${day.no}`} title={day.title} subtitle={day.subtitle}>
+      <PageHeader eyebrow={`Lesson ${day.no}`} title={day.title} subtitle={day.subtitle}>
         <div style={{ marginTop: 'var(--space-5)' }}>
-          <Progress percent={ready ? s.percent : 0} label="Tiến độ" />
+          <Progress percent={ready ? s.percent : 0} label="Progress" />
         </div>
       </PageHeader>
 
       <Section
-        title="Nội dung buổi học"
-        lead="Làm theo thứ tự từ trên xuống — lý thuyết trước, luyện nghe sau cùng."
+        title="Lesson activities"
+        lead="Work from top to bottom: start with theory and finish with listening practice."
       >
         <div className="stack">
           {(day.has('grammar') || day.has('theory')) && (
             <NavCard
               href={`${base}/theory`}
               lead="📘"
-              title="Lý thuyết"
+              title="Theory"
               meta={[
-                day.grammar.length > 0 && `${day.grammar.length} cấu trúc ngữ pháp`,
-                day.theory.length > 0 && `${day.theory.length} khối lý thuyết`,
+                day.grammar.length > 0 && `${day.grammar.length} grammar structures`,
+                day.theory.length > 0 && `${day.theory.length} theory sections`,
               ]
                 .filter(Boolean)
                 .join(' · ')}
-              trailing={<Badge>đọc</Badge>}
+              trailing={<Badge>read</Badge>}
             />
           )}
 
@@ -50,8 +50,8 @@ export function DayOverviewScreen({ slug, day }) {
               <NavCard
                 href={`${base}/cards`}
                 lead="🗂"
-                title="Thẻ từ vựng"
-                meta="Mặt trước là từ + IPA, lật ra mới có nghĩa"
+                title="Flashcards"
+                meta="Word and IPA on the front; flip to see the meaning"
                 percent={ready ? percentOf(s.known, s.total) : 0}
                 trailing={<CountBadge done={s.known} total={s.total} />}
               />
@@ -59,9 +59,9 @@ export function DayOverviewScreen({ slug, day }) {
               <NavCard
                 href={`${base}/game`}
                 lead="🎮"
-                title="Game từ vựng"
-                meta="Trắc nghiệm Anh ↔ Việt · sai từ nào thì từ đó quay lại thẻ chưa học"
-                trailing={<Badge>chơi</Badge>}
+                title="Vocabulary game"
+                meta="English ↔ Vietnamese quiz · missed words return to your To learn flashcards"
+                trailing={<Badge>play</Badge>}
               />
             </>
           )}
@@ -70,9 +70,9 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/pictures`}
               lead="🖼"
-              title="Từ vựng qua hình"
-              meta={`${countPictures(day)} ảnh · quần áo, giới từ vị trí, địa điểm`}
-              trailing={<Badge>luyện</Badge>}
+              title="Picture vocabulary"
+              meta={`${countPictures(day)} images · clothes, prepositions of place, and locations`}
+              trailing={<Badge>practice</Badge>}
             />
           )}
 
@@ -80,8 +80,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/grammar`}
               lead="✍️"
-              title="Bài tập ngữ pháp"
-              meta={`${day.translation.length} câu · gạch S / V / O rồi dịch`}
+              title="Grammar exercises"
+              meta={`${day.translation.length} sentences · label S / V / O, then translate`}
               percent={ready ? percentOf(s.transDone, s.transTotal) : 0}
               trailing={<CountBadge done={s.transDone} total={s.transTotal} />}
             />
@@ -91,8 +91,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/exercises`}
               lead="🧩"
-              title="Trắc nghiệm ngữ pháp"
-              meta={`${day.exercises.length} bài · ${countExercises(day)} câu · chọn đáp án điền vào câu`}
+              title="Grammar quiz"
+              meta={`${day.exercises.length} sets · ${countExercises(day)} questions · choose an answer to complete the sentence`}
               percent={ready ? percentOf(s.drillDone, s.drillTotal) : 0}
               trailing={<CountBadge done={s.drillDone} total={s.drillTotal} />}
             />
@@ -102,8 +102,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/listen`}
               lead="🎧"
-              title="Luyện nghe"
-              meta={`${day.listening.length} bộ bài · ${countQuestions(day)} câu`}
+              title="Listening practice"
+              meta={`${day.listening.length} sets · ${countQuestions(day)} questions`}
               percent={ready ? percentOf(s.listenDone, s.listenTotal) : 0}
               trailing={<CountBadge done={s.listenDone} total={s.listenTotal} />}
             />
@@ -113,16 +113,16 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/vocab`}
               lead="📋"
-              title="Bảng từ vựng"
-              meta={`Tra cứu ${day.vocabulary.length} từ · IPA UK/US · lọc theo trạng thái`}
-              trailing={<Badge>tra cứu</Badge>}
+              title="Vocabulary list"
+              meta={`Browse ${day.vocabulary.length} words · UK/US IPA · filter by learning status`}
+              trailing={<Badge>browse</Badge>}
             />
           )}
         </div>
       </Section>
 
       <p className="caption" style={{ marginTop: 'var(--space-5)' }}>
-        Tiến độ lưu ngay trên máy bạn, không gửi đi đâu.
+        Your progress is saved on this device and syncs to your account when you sign in.
       </p>
     </>
   );

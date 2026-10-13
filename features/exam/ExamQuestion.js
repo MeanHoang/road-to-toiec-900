@@ -18,14 +18,14 @@ export function ExamQuestion({ question, picked, onPick, review = false }) {
   return (
     <div className="exam-q">
       <span className="eyebrow">
-        Câu {question.no} · {partTitle(question.part)}
+        Question {question.no} · {partTitle(question.part)}
       </span>
 
       {question.passage && <Passage passage={question.passage} />}
 
       {question.graphic && (
         // eslint-disable-next-line @next/next/no-img-element
-        <img className="exam-graphic" src={question.graphic} alt="Hình minh hoạ của bài nghe" />
+        <img className="exam-graphic" src={question.graphic} alt="Illustration for the listening passage" />
       )}
 
       {question.image && (
@@ -45,8 +45,8 @@ export function ExamQuestion({ question, picked, onPick, review = false }) {
             <span>
               {question.options?.[letter] || question.script?.find((line) => line.text.startsWith(`${letter}. `))?.text.slice(3)}
             </span>
-            {letter === question.answer && <Badge tone="success">Đáp án đúng</Badge>}
-            {picked === letter && <Badge tone="danger">Bạn chọn</Badge>}
+            {letter === question.answer && <Badge tone="success">Correct answer</Badge>}
+            {picked === letter && <Badge tone="danger">Your answer</Badge>}
           </div>
         ) : (
           <button
@@ -96,10 +96,10 @@ export function Tape({ src, onEnded }) {
       <audio ref={ref} src={src} preload="auto" onEnded={onEnded} />
       {blocked ? (
         <Button size="sm" variant="primary" onClick={start}>
-          Bắt đầu phát
+          Start audio
         </Button>
       ) : (
-        <span className="caption">Băng đang chạy — chỉ nghe một lần, không tua</span>
+        <span className="caption">Audio is playing — listen once, no seeking</span>
       )}
     </div>
   );

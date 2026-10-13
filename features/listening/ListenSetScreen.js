@@ -32,7 +32,7 @@ export function ListenSetScreen({ slug, setId, day }) {
   if (!set) {
     return (
       <>
-        <Notice>Không tìm thấy bộ bài &ldquo;{setId}&rdquo;.</Notice>
+        <Notice>Listening set not found: &ldquo;{setId}&rdquo;.</Notice>
       </>
     );
   }
@@ -84,22 +84,22 @@ export function ListenSetScreen({ slug, setId, day }) {
       >
         {hasPhoto(set) &&
           (item.image ? (
-            <img className="photo" src={item.image} alt={`Tranh câu ${item.no}`} />
+            <img className="photo" src={item.image} alt={`Image for question ${item.no}`} />
           ) : (
-            <div className="photo-placeholder">🖼 Câu này chưa có ảnh đề bài</div>
+            <div className="photo-placeholder">🖼 No image available for this question</div>
           ))}
 
         <div className="stack stack-lg">
           <AudioPlayer src={item.audio} />
 
           {set.fullAudio && (
-            <p className="caption">Bộ này có cả bản audio liền mạch để nghe một mạch cả bài.</p>
+            <p className="caption">A full-length audio track is also available for this set.</p>
           )}
 
           {/* Part 3: lời hội thoại đã có bộ chép riêng, không gạt sang chép ở bộ câu hỏi. */}
           {set.hasKey && set.part !== 3 && (
             <Switch checked={writing} onChange={() => setWriting((w) => !w)}>
-              Chế độ chép lại — nghe rồi chép lại lời audio thay vì chọn {lettersLabel}
+              Dictation mode — transcribe the audio instead of choosing {lettersLabel}
             </Switch>
           )}
 
@@ -124,12 +124,12 @@ export function ListenSetScreen({ slug, setId, day }) {
 
           <div className="row row-between">
             <Button variant="quiet" disabled={idx === 0} onClick={() => goto(idx - 1)}>
-              ← Câu trước
+              ← Previous question
             </Button>
 
             {!lastQuestion ? (
               <Button variant="primary" onClick={() => goto(idx + 1)}>
-                Câu tiếp →
+                Next question →
               </Button>
             ) : nextSet ? (
               <Button variant="primary" href={`/day/${slug}/listen/${nextSet.code}`}>
@@ -137,7 +137,7 @@ export function ListenSetScreen({ slug, setId, day }) {
               </Button>
             ) : (
               <Button variant="primary" href={`/day/${slug}/listen`}>
-                Xong bộ cuối — về danh sách →
+                All sets complete — back to list →
               </Button>
             )}
           </div>

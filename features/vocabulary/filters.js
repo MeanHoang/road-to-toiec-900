@@ -5,10 +5,10 @@ import { includesNorm, norm } from '@/shared/lib/text';
 // 'star' nằm ngoài trục chưa học / đã biết, cố ý: từ gắn sao thường CHÍNH LÀ từ
 // đã đánh dấu "đã biết" — nhớ nghĩa rồi nhưng nhìn mặt chữ vẫn ngờ ngợ.
 export const FILTERS = [
-  { key: 'all', label: 'Tất cả' },
-  { key: 'unknown', label: 'Chưa học' },
-  { key: 'known', label: 'Đã biết' },
-  { key: 'star', label: '★ Gắn sao' },
+  { key: 'all', label: 'All' },
+  { key: 'unknown', label: 'To learn' },
+  { key: 'known', label: 'Known' },
+  { key: 'star', label: '★ Starred' },
 ];
 
 export const isKnown = (vocabState, id) => vocabState[id] === 'known';

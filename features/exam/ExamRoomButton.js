@@ -10,7 +10,7 @@ import { Button } from '@/shared/ui/atoms/Button';
 export function ExamRoomButton() {
   return (
     <Button size="sm" href="/exam">
-      📝 Phòng thi
+      📝 Exam room
     </Button>
   );
 }

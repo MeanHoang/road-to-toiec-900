@@ -35,12 +35,12 @@ export function HomeScreen() {
     <>
       <div className="hero">
         <h1>Road to TOEIC 900</h1>
-        <p>Chọn buổi học để bắt đầu</p>
+        <p>Choose a lesson to get started</p>
 
         <div className="stat-row">
-          <Stat value={days.length} label="buổi học" loading={loading} />
-          <Stat value={totalVocab} label="từ vựng" loading={loading} />
-          <Stat value={totalAudio} label="câu nghe" loading={loading} />
+          <Stat value={days.length} label="lessons" loading={loading} />
+          <Stat value={totalVocab} label="words" loading={loading} />
+          <Stat value={totalAudio} label="listening questions" loading={loading} />
         </div>
       </div>
 
@@ -56,7 +56,7 @@ export function HomeScreen() {
       />
 
       {loading ? (
-        <LoadingBlock label="Đang tải danh sách buổi học">
+        <LoadingBlock label="Loading lessons">
           <NavCardSkeleton />
           <NavCardSkeleton />
         </LoadingBlock>
@@ -71,15 +71,14 @@ export function HomeScreen() {
           <NavCard
             empty
             lead={String(days.length + 1).padStart(2, '0')}
-            title="Buổi tiếp theo"
-            meta="Chưa nhập tài liệu"
+            title="Next lesson"
+            meta="Material not available yet"
           />
         </div>
       )}
 
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Toàn bộ nội dung là file tĩnh trong repo. Tiến độ học luôn lưu trước ở máy bạn nên mất mạng
-        vẫn học được; đăng nhập Google thì được đồng bộ thêm lên tài khoản để đổi máy vẫn học tiếp.
+        Your progress is saved on this device so you can keep studying offline. Sign in with Google to sync it to your account and continue on another device.
       </Callout>
     </>
   );

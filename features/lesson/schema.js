@@ -1,6 +1,8 @@
 // Hình dạng của một buổi học và cách ghép các file collection lại.
 // Không phụ thuộc nguồn: import tĩnh trong repo hay Firestore đều dùng chung.
 
+import { englishMetadata } from '../../shared/lib/englishLabels.js';
+
 export const SCHEMA_VERSION = 1;
 
 /**
@@ -15,19 +17,19 @@ export function assemble(slug, files) {
     if (!file) continue;
     if (file.schemaVersion !== SCHEMA_VERSION) {
       throw new Error(
-        `${slug}/${name} dùng schemaVersion ${file.schemaVersion}, code đang ở ${SCHEMA_VERSION}.`,
+        `${slug}/${name} uses schemaVersion ${file.schemaVersion}; the app expects ${SCHEMA_VERSION}.`,
       );
     }
     if (file.day !== slug) {
-      throw new Error(`${slug}/${name} khai báo day="${file.day}" — nhầm buổi?`);
+      throw new Error(`${slug}/${name} belongs to day="${file.day}" instead of ${slug}.`);
     }
   }
 
   const has = (name) => day.collections?.includes(name) && !!collections[name];
-  const items = (name) => (has(name) ? collections[name].items : []);
+  const items = (name) => (has(name) ? collections[name].items.map(englishMetadata) : []);
 
   return {
-    ...day,
+    ...englishMetadata(day),
     has,
     grammar: items('grammar'),
     theory: items('theory'),

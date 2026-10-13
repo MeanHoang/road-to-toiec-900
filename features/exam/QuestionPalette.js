@@ -14,9 +14,9 @@ export function QuestionPalette({ marks, onGo }) {
   return (
     <div className="palette">
       <div className="palette-head">
-        <span className="eyebrow">Câu hỏi</span>
+        <span className="eyebrow">Questions</span>
         <span className="caption">
-          {blank === 0 ? 'đã làm hết' : `còn ${blank} câu chưa làm`}
+          {blank === 0 ? 'All answered' : `${blank} unanswered`}
         </span>
       </div>
       <div className="palette-grid">
@@ -32,7 +32,7 @@ export function QuestionPalette({ marks, onGo }) {
               .filter(Boolean)
               .join(' ')}
             aria-current={m.current ? 'true' : undefined}
-            aria-label={`Câu ${m.no}${m.picked ? ', đã chọn' : ', chưa chọn'}`}
+            aria-label={`Question ${m.no}${m.picked ? ', answered' : ', unanswered'}`}
             onClick={() => onGo(m.at)}
           >
             {m.no}

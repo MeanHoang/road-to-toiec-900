@@ -36,7 +36,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
               className={`nav-link ${currentPath === overview ? 'is-current' : ''}`}
               onClick={onNavigate}
             >
-              Tổng quan buổi
+              Lesson overview
             </Link>
           </li>
           {activities.map((a) => (

@@ -64,8 +64,8 @@ export async function fetchTop(max = 20) {
     return {
       rows: [],
       error: denied
-        ? 'Chưa mở quyền đọc bảng xếp hạng. Cần dán firestore.rules lên Firebase Console rồi Publish.'
-        : 'Không đọc được bảng xếp hạng. Kiểm tra kết nối mạng.',
+        ? 'Leaderboard access is not enabled. Publish firestore.rules in Firebase Console.'
+        : 'Unable to load the leaderboard. Check your connection.',
     };
   }
 }

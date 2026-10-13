@@ -38,12 +38,12 @@ function Row({ entry, rank, isMe, pct }) {
 
       <span className="board-name">
         {entry.name}
-        {isMe && <span className="board-you"> · bạn</span>}
+        {isMe && <span className="board-you"> · you</span>}
       </span>
 
       <span className="board-score">
         <b>{entry.score}</b>
-        <small>điểm</small>
+        <small>points</small>
       </span>
     </li>
   );
@@ -71,10 +71,10 @@ export function LeaderboardButton() {
     <>
       {/* size="sm" để đứng ngang hàng với nút đăng nhập ngay cạnh. */}
       <Button size="sm" onClick={() => setOpen(true)}>
-        🏆 Bảng xếp hạng
+        🏆 Leaderboard
       </Button>
 
-      <Modal open={open} onClose={() => setOpen(false)} title="Bảng xếp hạng">
+      <Modal open={open} onClose={() => setOpen(false)} title="Leaderboard">
         {loading ? (
           <div className="stack">
             <Skeleton height={44} />
@@ -86,7 +86,7 @@ export function LeaderboardButton() {
           // người ta đi tìm nhầm chỗ, tưởng chưa ai học.
           <Notice>⚠️ {error}</Notice>
         ) : rows.length === 0 ? (
-          <Notice>Chưa có ai trên bảng.</Notice>
+          <Notice>No learners on the leaderboard yet.</Notice>
         ) : (
           <ol className="board">
             {rows.map((entry, i) => (
@@ -105,8 +105,7 @@ export function LeaderboardButton() {
 
         {anonymous && !loading && (
           <Notice style={{ marginTop: 'var(--space-4)' }}>
-            Bạn đang học ẩn danh nên chưa có tên trên bảng. Đăng nhập Google để lên bảng — tiến độ
-            đang có vẫn giữ nguyên.
+            You are studying as a guest. Sign in with Google to join the leaderboard and keep your existing progress.
           </Notice>
         )}
       </Modal>

@@ -18,7 +18,7 @@ export function DayGate({ slug, children }) {
     return (
       <div className="page-head">
         <Notice>
-          {error ? `Không tải được nội dung: ${error}` : `Không tìm thấy buổi học "${slug}".`}
+          {error ? `Unable to load content: ${error}` : `Lesson not found: "${slug}".`}
         </Notice>
       </div>
     );

@@ -12,13 +12,13 @@
  *   Reading:   100 câu, 75 phút — Part 5-7
  */
 export const PARTS = [
-  { part: 1, section: 'listening', label: 'Mô tả tranh', questions: 6 },
-  { part: 2, section: 'listening', label: 'Hỏi & Đáp', questions: 25 },
-  { part: 3, section: 'listening', label: 'Hội thoại ngắn', questions: 39 },
-  { part: 4, section: 'listening', label: 'Bài nói ngắn', questions: 30 },
-  { part: 5, section: 'reading', label: 'Điền vào chỗ trống', questions: 30 },
-  { part: 6, section: 'reading', label: 'Điền vào đoạn văn', questions: 16 },
-  { part: 7, section: 'reading', label: 'Đọc hiểu văn bản', questions: 54 },
+  { part: 1, section: 'listening', label: 'Photographs', questions: 6 },
+  { part: 2, section: 'listening', label: 'Question–Response', questions: 25 },
+  { part: 3, section: 'listening', label: 'Conversations', questions: 39 },
+  { part: 4, section: 'listening', label: 'Talks', questions: 30 },
+  { part: 5, section: 'reading', label: 'Incomplete Sentences', questions: 30 },
+  { part: 6, section: 'reading', label: 'Text Completion', questions: 16 },
+  { part: 7, section: 'reading', label: 'Reading Comprehension', questions: 54 },
 ];
 
 export const SECTIONS = [

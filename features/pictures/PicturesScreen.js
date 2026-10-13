@@ -19,7 +19,7 @@ function PictureCell({ question, value, checked, onChange }) {
       <img src={question.image} alt="" loading="lazy" />
       <Input
         className={right ? 'is-correct' : wrong ? 'is-wrong' : ''}
-        placeholder="điền từ…"
+        placeholder="enter a word…"
         value={value}
         onChange={(e) => onChange(e.target.value)}
       />
@@ -44,8 +44,8 @@ export function PicturesScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Từ vựng qua hình"
-        subtitle="Nhìn hình điền từ. Ba nhóm khớp thẳng với phần lý thuyết: quần áo, giới từ vị trí, địa điểm."
+        title="Picture vocabulary"
+        subtitle="Look at each picture and enter the word. Practice clothes, prepositions of place, and locations."
       />
 
       <div className="row" style={{ marginBottom: 'var(--space-5)' }}>
@@ -65,17 +65,17 @@ export function PicturesScreen({ slug, day }) {
 
       {labelled === 0 && (
         <Notice style={{ marginBottom: 'var(--space-5)' }}>
-          ⚠️ Nhóm này chưa được gán đáp án — cần điền <code>answer</code> trong{' '}
-          <code>content/{slug}/pictures.json</code>. Vẫn gõ và lưu được, chỉ chưa chấm được.
+          ⚠️ This group has no answer key. Add the <code>answer</code> field in{' '}
+          <code>content/{slug}/pictures.json</code>. You can still type and save your answers.
         </Notice>
       )}
 
       <div className="quiz-head">
         <span>
-          {set.title} — {set.questions.length} ảnh
+          {set.title} — {set.questions.length} images
         </span>
         <Badge tone={labelled ? 'brand' : 'warning'}>
-          {labelled} / {set.questions.length} ảnh có đáp án
+          {labelled} / {set.questions.length} images with answer keys
         </Badge>
       </div>
 
@@ -93,7 +93,7 @@ export function PicturesScreen({ slug, day }) {
 
       <div className="row row-end" style={{ marginTop: 'var(--space-5)' }}>
         <Button variant="primary" disabled={labelled === 0} onClick={() => setChecked((c) => !c)}>
-          {checked ? 'Ẩn đáp án' : 'Kiểm tra tất cả'}
+          {checked ? 'Hide answers' : 'Check all'}
         </Button>
       </div>
     </>

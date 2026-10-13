@@ -11,12 +11,12 @@ export function GameResult({ score, total, missed, onReplay }) {
       <div style={{ textAlign: 'center', padding: 'var(--space-3) 0 var(--space-5)' }}>
         <div style={{ fontSize: 'var(--text-4xl)' }}>{score.wrong === 0 ? '🏆' : '📊'}</div>
         <h2 style={{ margin: 'var(--space-3) 0 var(--space-1)' }}>
-          {score.right} / {total} đúng
+          {score.right} / {total} correct
         </h2>
         <p className="section-lead" style={{ margin: '0 auto' }}>
           {score.wrong === 0
-            ? 'Đúng hết. Không từ nào bị đẩy về nhóm chưa học.'
-            : `${missed.length} từ đã quay lại nhóm chưa học ở thẻ từ vựng.`}
+            ? 'Perfect score! All words keep their current learning status.'
+            : `${missed.length} words were marked as To learn in your flashcards.`}
         </p>
       </div>
 
@@ -25,8 +25,8 @@ export function GameResult({ score, total, missed, onReplay }) {
           <table>
             <thead>
               <tr>
-                <th>Từ sai</th>
-                <th>Nghĩa</th>
+                <th>Missed words</th>
+                <th>Meaning</th>
                 <th />
               </tr>
             </thead>
@@ -49,7 +49,7 @@ export function GameResult({ score, total, missed, onReplay }) {
 
       <div className="row row-end" style={{ marginTop: 'var(--space-4)' }}>
         <Button variant="primary" onClick={onReplay}>
-          Chơi lại
+          Play again
         </Button>
       </div>
     </Card>

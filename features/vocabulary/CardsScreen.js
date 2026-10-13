@@ -65,28 +65,27 @@ export function CardsScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Thẻ từ vựng"
-        subtitle="Mặt trước chỉ có từ và IPA — phải tự nhớ nghĩa. Ảnh nằm ở mặt sau, để mặt trước là lộ đáp án."
+        title="Flashcards"
+        subtitle="Recall the meaning from the word and IPA on the front. Flip to see the meaning and image."
       >
         <div style={{ marginTop: 'var(--space-5)' }}>
-          <Progress percent={(known / total) * 100} label={`${known} / ${total} đã biết`} />
+          <Progress percent={(known / total) * 100} label={`${known} / ${total} Known`} />
         </div>
         <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-          <kbd>Space</kbd> lật · <kbd>←</kbd> chưa thuộc · <kbd>→</kbd> đã biết · <kbd>S</kbd> gắn
-          sao
+          <kbd>Space</kbd> flip · <kbd>←</kbd> To learn · <kbd>→</kbd> Known · <kbd>S</kbd> star
         </p>
       </PageHeader>
 
       {deck.length === 0 ? (
         <Card className="stack" style={{ textAlign: 'center', padding: 'var(--space-8)' }}>
           <div style={{ fontSize: 'var(--text-4xl)' }}>🎉</div>
-          <h3>Đã đi hết {total} từ</h3>
+          <h3>You have reviewed all {total} words</h3>
           <p className="section-lead" style={{ margin: '0 auto' }}>
-            Thẻ &ldquo;đã biết&rdquo; chỉ bị ẩn chứ không xoá — trí nhớ có phai, nên ôn lại được.
+            Known cards are hidden, so you can bring them back for review later.
           </p>
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="primary" onClick={resetVocab}>
-              ↺ Học lại tất cả
+              ↺ Review all words
             </Button>
           </div>
         </Card>
@@ -102,20 +101,19 @@ export function CardsScreen({ slug, day }) {
 
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="danger" onClick={() => mark('unknown')}>
-              ← Chưa thuộc
+              ← Still learning
             </Button>
             <Button variant="success" onClick={() => mark('known')}>
-              Đã biết →
+              Known →
             </Button>
           </div>
 
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="quiet" size="sm" onClick={resetVocab}>
-              ↺ Học lại tất cả
+              ↺ Review all words
             </Button>
             <span className="caption">
-              Thẻ &ldquo;đã biết&rdquo; chỉ bị ẩn, không xoá vĩnh viễn. Gắn ★ cho từ hay quên mặt
-              chữ rồi lọc lại ở <Link href={`/day/${slug}/vocab`}>bảng từ vựng</Link>.
+              Known cards are hidden. Star words you want to review, then find them in the <Link href={`/day/${slug}/vocab`}>vocabulary list</Link>.
             </span>
           </div>
         </div>

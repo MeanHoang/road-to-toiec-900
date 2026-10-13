@@ -13,7 +13,7 @@ function GrammarCard({ item, index }) {
   return (
     <Card>
       <Badge tone={item.voice === 'active' ? 'brand' : 'accent'} eyebrow>
-        {item.voice === 'active' ? 'Chủ động' : 'Bị động'} {index + 1}
+        {item.voice === 'active' ? 'Active voice' : 'Passive voice'} {index + 1}
       </Badge>
       <p className="section-lead" style={{ margin: 'var(--space-2) 0 0' }}>
         {item.name} ({item.nameVi})
@@ -34,12 +34,12 @@ function GrammarCard({ item, index }) {
 export function TheoryScreen({ slug, day }) {
   return (
     <>
-      <PageHeader eyebrow={day.title} title="Lý thuyết" subtitle={day.subtitle} />
+      <PageHeader eyebrow={day.title} title="Theory" subtitle={day.subtitle} />
 
       {day.grammar.length > 0 && (
         <Section
-          title={`Grammar corner — ${day.grammar.length} cấu trúc`}
-          lead="Bấm 🔊 để nghe ví dụ."
+          title={`Grammar corner — ${day.grammar.length} structures`}
+          lead="Click 🔊 to hear the example."
         >
           <div className="grid grid-2">
             {day.grammar.map((g, i) => (
@@ -56,11 +56,10 @@ export function TheoryScreen({ slug, day }) {
       {day.has('translation') && (
         <Callout style={{ marginTop: 'var(--space-7)' }}>
           <p style={{ marginBottom: 'var(--space-3)' }}>
-            Luyện phần này ở màn <strong>Bài tập ngữ pháp</strong> — {day.translation.length} câu
-            gạch S / V / O rồi dịch.
+            Practice in <strong>Grammar exercises</strong> — {day.translation.length} sentences to label S / V / O and translate.
           </p>
           <Button variant="primary" href={`/day/${slug}/grammar`}>
-            Vào làm bài tập →
+            Start exercises →
           </Button>
         </Callout>
       )}

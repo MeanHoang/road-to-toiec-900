@@ -90,6 +90,7 @@ export function buildPaper(form, only = null) {
   }
 
   const total = sections.reduce((n, s) => n + s.questions.length, 0);
+  const title = `Test ${form.no}`;
   return {
     id: form.form,
     no: form.no,
@@ -97,7 +98,7 @@ export function buildPaper(form, only = null) {
     // Mốc riêng cho MỖI lần dựng, kể cả dựng lại cùng một đề: màn thi dùng nó
     // làm `key` để "Thi lại" là làm lại từ đầu thật.
     startedAt: new Date().toISOString(),
-    label: only ? `${form.title} · ${partTitle(only)}` : form.title,
+    label: only ? `${title} · ${partTitle(only)}` : title,
     sections,
     total,
     seconds: sections.reduce((n, s) => n + s.seconds, 0),
@@ -114,7 +115,7 @@ export function paperSummary(form) {
   return {
     id: form.form,
     no: form.no,
-    title: form.title,
+    title: `Test ${form.no}`,
     total: all.length,
     seconds: SECTIONS.reduce(
       (n, s) => n + sectionSeconds(s.kind, all.filter((q) => partSpec(q.part)?.section === s.kind)),

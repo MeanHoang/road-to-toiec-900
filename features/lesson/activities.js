@@ -8,14 +8,14 @@
 // buổi nào không có bài dịch thì không hiện mục Bài tập ngữ pháp.
 
 const ACTIVITIES = [
-  { key: 'theory', path: 'theory', label: 'Lý thuyết', needs: ['grammar', 'theory'] },
-  { key: 'cards', path: 'cards', label: 'Thẻ từ vựng', needs: 'vocabulary' },
-  { key: 'game', path: 'game', label: 'Game từ vựng', needs: 'vocabulary' },
-  { key: 'pictures', path: 'pictures', label: 'Từ vựng qua hình', needs: 'pictures' },
-  { key: 'grammar', path: 'grammar', label: 'Bài tập ngữ pháp', needs: 'translation' },
-  { key: 'exercises', path: 'exercises', label: 'Trắc nghiệm ngữ pháp', needs: 'exercises' },
-  { key: 'listen', path: 'listen', label: 'Luyện nghe', needs: 'listening' },
-  { key: 'vocab', path: 'vocab', label: 'Bảng từ vựng', needs: 'vocabulary' },
+  { key: 'theory', path: 'theory', label: 'Theory', needs: ['grammar', 'theory'] },
+  { key: 'cards', path: 'cards', label: 'Flashcards', needs: 'vocabulary' },
+  { key: 'game', path: 'game', label: 'Vocabulary game', needs: 'vocabulary' },
+  { key: 'pictures', path: 'pictures', label: 'Picture vocabulary', needs: 'pictures' },
+  { key: 'grammar', path: 'grammar', label: 'Grammar exercises', needs: 'translation' },
+  { key: 'exercises', path: 'exercises', label: 'Grammar quiz', needs: 'exercises' },
+  { key: 'listen', path: 'listen', label: 'Listening practice', needs: 'listening' },
+  { key: 'vocab', path: 'vocab', label: 'Vocabulary list', needs: 'vocabulary' },
 ];
 
 /**

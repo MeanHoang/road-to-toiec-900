@@ -31,8 +31,8 @@ export function AccountBar({ trailing }) {
           ⌂
         </span>
         <div className="account-who">
-          <b>Chỉ lưu ở máy này</b>
-          <span>Chưa cấu hình Firebase — tiến độ nằm trong trình duyệt, không đồng bộ.</span>
+          <b>Saved on this device</b>
+          <span>Cloud sync is unavailable. Your progress is saved in this browser.</span>
         </div>
         {/* Không có Firebase vẫn phải có lối vào những thứ trong khe, như phòng
             thi — nó chạy được hoàn toàn từ nội dung trong repo. */}
@@ -52,7 +52,7 @@ export function AccountBar({ trailing }) {
       <div className="account" role="status" aria-busy="true">
         <Skeleton width={34} height={34} radius="var(--radius-full)" style={{ flex: 'none' }} />
         <div className="account-who">
-          <span className="visually-hidden">Đang kiểm tra tài khoản</span>
+          <span className="visually-hidden">Checking your account</span>
           <Skeleton width={140} height={16} />
           <Skeleton width="70%" height={13} style={{ marginTop: 'var(--space-2)' }} />
         </div>
@@ -60,7 +60,7 @@ export function AccountBar({ trailing }) {
     );
   }
 
-  const label = busy === 'merge' ? 'Đang gộp tiến độ…' : busy === 'in' ? 'Đang mở Google…' : null;
+  const label = busy === 'merge' ? 'Merging progress…' : busy === 'in' ? 'Opening Google…' : null;
 
   return (
     <>
@@ -80,16 +80,15 @@ export function AccountBar({ trailing }) {
         <div className="account-who">
           {anonymous ? (
             <>
-              <b>Đang học ẩn danh</b>
+              <b>Studying as a guest</b>
               <span>
-                Tiến độ chỉ theo trình duyệt này. Đăng nhập Google để mở máy khác vẫn học tiếp — phần
-                đang học sẽ được gộp sang, không mất.
+                Your progress is saved in this browser. Sign in with Google to continue on another device. Your existing progress will carry over.
               </span>
             </>
           ) : (
             <>
               <b>{user.displayName || user.email}</b>
-              <span>Tiến độ đồng bộ theo tài khoản, mở máy nào cũng thấy.</span>
+              <span>Your progress syncs to your account across devices.</span>
             </>
           )}
         </div>
@@ -99,11 +98,11 @@ export function AccountBar({ trailing }) {
             {trailing}
             {anonymous ? (
               <Button variant="primary" size="sm" onClick={signIn} disabled={Boolean(busy)}>
-                {label || 'Đăng nhập Google'}
+                {label || 'Sign in with Google'}
               </Button>
             ) : (
               <Button variant="quiet" size="sm" onClick={signOut} disabled={Boolean(busy)}>
-                {busy === 'out' ? 'Đang thoát…' : 'Đăng xuất'}
+                {busy === 'out' ? 'Signing out…' : 'Sign out'}
               </Button>
             )}
           </ButtonGroup>

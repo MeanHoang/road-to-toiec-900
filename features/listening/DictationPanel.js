@@ -22,8 +22,7 @@ export function DictationPanel({ item, slug, value, onChange }) {
   if (!canGrade(item)) {
     return (
       <Notice>
-        Câu này chưa có lời thoại nên chưa chấm được — chạy <code>npm run transcribe {slug}</code> ở
-        máy.
+        This question cannot be checked because its transcript is unavailable. Run <code>npm run transcribe {slug}</code> locally to generate it.
       </Notice>
     );
   }
@@ -37,16 +36,16 @@ export function DictationPanel({ item, slug, value, onChange }) {
       <p className="section-lead" style={{ margin: 0 }}>
         {nhieuPhuongAn ? (
           <>
-            Nghe rồi{' '}
+            Listen and{' '}
             <strong>
-              chép lại {coCauHoi ? 'câu hỏi và ' : ''}cả {soPhuongAn} phương án, liền một mạch
+              transcribe {coCauHoi ? 'the question and ' : ''}all {soPhuongAn} answer choices in one go
             </strong>
-            . Không cần nhập các nội dung hướng dẫn làm bài và các từ cố định như A, B, C.
+            . Skip the test instructions and answer labels such as A, B, and C.
           </>
         ) : (
           <>
-            Nghe rồi <strong>chép lại toàn bộ những gì bạn nghe được</strong>. Bấm{' '}
-            <strong>Chấm</strong> để soát — mỗi lần chấm chỉ mở thêm đúng một từ, không lộ cả câu.
+            Listen and <strong>transcribe everything you hear</strong>. Click{' '}
+            <strong>Check</strong> to review your answer. Each check reveals one more word.
           </>
         )}
       </p>

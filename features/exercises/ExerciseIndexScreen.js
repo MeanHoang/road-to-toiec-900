@@ -18,8 +18,8 @@ export function ExerciseIndexScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Trắc nghiệm ngữ pháp"
-        subtitle={`${day.exercises.length} bài · ${countExercises(day)} câu · chọn đáp án đúng để điền vào câu`}
+        title="Grammar quiz"
+        subtitle={`${day.exercises.length} sets · ${countExercises(day)} questions · choose the correct answer to complete each sentence`}
       />
 
       <div className="stack">
@@ -37,7 +37,7 @@ export function ExerciseIndexScreen({ slug, day }) {
               meta={set.subtitle}
               percent={graded && ready ? (done / total) * 100 : undefined}
               trailing={
-                graded ? <CountBadge done={done} total={total} /> : <Badge>tự soát</Badge>
+                graded ? <CountBadge done={done} total={total} /> : <Badge>self-check</Badge>
               }
             />
           );
@@ -46,8 +46,7 @@ export function ExerciseIndexScreen({ slug, day }) {
 
       {aiKeyed && (
         <Callout style={{ marginTop: 'var(--space-6)' }}>
-          <strong>Đáp án do AI giải</strong> — tài liệu không kèm đáp án chính thức. Thấy câu nào
-          nghi sai thì đối chiếu lại với lớp.
+          <strong>AI-generated answers</strong> — the material does not include an official answer key. Check any doubtful answers with your class.
         </Callout>
       )}
     </>

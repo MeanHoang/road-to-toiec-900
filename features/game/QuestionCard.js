@@ -7,9 +7,9 @@ import { Progress } from '@/shared/ui/atoms/Progress';
 import { Speak } from '@/shared/ui/molecules/Speak';
 
 const DIR_LABEL = {
-  'en-vi': 'Anh → Việt',
-  'vi-en': 'Việt → Anh',
-  cloze: 'Điền vào câu',
+  'en-vi': 'English → Vietnamese',
+  'vi-en': 'Vietnamese → English',
+  cloze: 'Complete the sentence',
 };
 
 const DIR_TONE = { 'en-vi': 'brand', 'vi-en': 'accent', cloze: 'warning' };
@@ -23,7 +23,7 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
     <Card>
       <div className="quiz-head">
         <span>
-          Câu {index + 1} / {total}
+          Question {index + 1} / {total}
         </span>
         <span className="row" style={{ gap: 'var(--space-3)' }}>
           <Badge tone={DIR_TONE[question.dir]}>{DIR_LABEL[question.dir]}</Badge>
@@ -67,9 +67,9 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
 
       {wrong && (
         <div className="feedback feedback-error">
-          ❌ Sai rồi. <strong>{question.word.word}</strong> = {question.word.meaningVi}
+          ❌ Incorrect. <strong>{question.word.word}</strong> = {question.word.meaningVi}
           <br />
-          Từ này đã được đẩy về nhóm <strong>chưa học</strong> ở thẻ và bảng từ vựng.
+          This word is now marked as <strong>To learn</strong> in your flashcards and vocabulary list.
         </div>
       )}
 
@@ -77,7 +77,7 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
         <div className="row row-end" style={{ marginTop: 'var(--space-4)' }}>
           <Speak text={question.word.word} />
           <Button variant="primary" onClick={onNext}>
-            Câu tiếp →
+            Next question →
           </Button>
         </div>
       )}

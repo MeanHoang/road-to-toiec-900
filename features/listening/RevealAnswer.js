@@ -14,7 +14,7 @@ import { Modal } from '@/shared/ui/organisms/Modal';
  * `questionId` là chốt an toàn: đổi câu thì đóng, không phụ thuộc vào việc
  * component có được dựng lại hay không.
  */
-export function RevealAnswer({ questionId, label = 'Xem đáp án', title, onReveal, children }) {
+export function RevealAnswer({ questionId, label = 'Show answer', title, onReveal, children }) {
   const [step, setStep] = useState('hidden'); // hidden → asking → shown
 
   useEffect(() => {
@@ -32,16 +32,16 @@ export function RevealAnswer({ questionId, label = 'Xem đáp án', title, onRev
       <Modal
         open={step !== 'hidden'}
         onClose={() => setStep('hidden')}
-        title={step === 'asking' ? 'Chắc chưa?' : title || label}
+        title={step === 'asking' ? 'Reveal the answer?' : title || label}
       >
         {step === 'asking' ? (
           <>
             <p>
-              Xem rồi thì không tự nghe ra được nữa — thử nghe thêm một lượt đã.
+              Revealing the answer ends this listening challenge. Try listening once more first.
             </p>
             <div className="row row-end" style={{ marginTop: 'var(--space-5)' }}>
               <Button variant="quiet" onClick={() => setStep('hidden')}>
-                Để tôi nghe lại
+                Listen again first
               </Button>
               <Button
                 variant="danger"
@@ -50,7 +50,7 @@ export function RevealAnswer({ questionId, label = 'Xem đáp án', title, onRev
                   onReveal?.();
                 }}
               >
-                Vẫn xem đáp án
+                Reveal answer
               </Button>
             </div>
           </>

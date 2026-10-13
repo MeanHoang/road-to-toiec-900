@@ -12,6 +12,7 @@ import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
 import { db, isConfigured } from '@/lib/firebase';
 import { assemble } from './schema';
 import { bundledDays, getBundledDay } from './bundled';
+import { englishMetadata } from '@/shared/lib/englishLabels';
 
 const COLLECTIONS = [
   'grammar',
@@ -85,7 +86,7 @@ export async function fetchDayIndex() {
       const snap = await getDocs(collection(store, 'days'));
       if (!snap.empty) {
         return snap.docs
-          .map((d) => d.data())
+          .map((d) => englishMetadata(d.data()))
           .sort((a, b) => (a.no || 0) - (b.no || 0));
       }
     } catch (e) {

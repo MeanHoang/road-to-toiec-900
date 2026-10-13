@@ -5,6 +5,7 @@ import { Callout } from '@/shared/ui/atoms/Callout';
 import { Card } from '@/shared/ui/atoms/Card';
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { Section } from '@/shared/ui/atoms/Section';
+import { englishLabel } from '@/shared/lib/englishLabels';
 
 /**
  * Khối lý thuyết không đồng dạng — có khối là danh sách, có khối là bảng cặp đối lập,
@@ -29,7 +30,7 @@ export function TheoryBlock({ block }) {
       // Buổi mới có type chưa hỗ trợ thì nói thẳng, đừng render ra khoảng trắng im lặng.
       return (
         <Notice style={{ marginTop: 'var(--space-5)' }}>
-          ⚠️ Khối lý thuyết kiểu <code>{block.type}</code> chưa có cách hiển thị.
+          ⚠️ Theory block type <code>{block.type}</code> is not supported yet.
         </Notice>
       );
   }
@@ -68,7 +69,7 @@ function TableBlock({ block }) {
           <thead>
             <tr>
               {block.columns.map((col) => (
-                <th key={col}>{col}</th>
+                <th key={col}>{englishLabel(col)}</th>
               ))}
             </tr>
           </thead>
@@ -93,14 +94,14 @@ function AspectsBlock({ block }) {
   return (
     <Section
       title={block.title}
-      lead="Nhìn tranh là quét lần lượt bốn thứ này, đừng nghe tới đâu đoán tới đó."
+      lead="Scan these four details in each picture before listening."
     >
       <div className="grid grid-2">
         {block.items.map((a, i) => (
           <Card key={a.id}>
             <div className="row" style={{ marginBottom: 'var(--space-3)' }}>
               <Badge tone="brand" eyebrow>
-                {i + 1}. {a.title}
+                {i + 1}. {englishLabel(a.title)}
               </Badge>
               <span className="caption" style={{ fontStyle: 'italic' }}>
                 {a.en}
@@ -122,7 +123,7 @@ function AspectsBlock({ block }) {
 
 function PairsBlock({ block }) {
   return (
-    <Section title={`${block.title} — dạng cặp đối lập`} lead={block.note}>
+    <Section title={`${block.title} — opposite pairs`} lead={block.note}>
       <Card>
         <div className="pair-list">
           {block.pairs.map((pair) => (
@@ -134,7 +135,7 @@ function PairsBlock({ block }) {
           ))}
         </div>
         <p className="caption" style={{ marginTop: 'var(--space-4)' }}>
-          Không có cặp đối: {block.singles.join(' · ')}
+          Without an opposite: {block.singles.join(' · ')}
         </p>
       </Card>
     </Section>
@@ -148,7 +149,7 @@ function WordGroupsBlock({ block }) {
         {Object.entries(block.groups).map(([group, words]) => (
           <Card key={group}>
             <Badge tone="accent" eyebrow>
-              {group}
+              {englishLabel(group)}
             </Badge>
             <p style={{ marginTop: 'var(--space-3)' }}>
               {words.map((word) => (
@@ -166,7 +167,7 @@ function WordGroupsBlock({ block }) {
 
 function CompareBlock({ block }) {
   return (
-    <Section title={`Phân biệt ${block.left.word} vs ${block.right.word}`}>
+    <Section title={`Compare ${block.left.word} vs ${block.right.word}`}>
       <Card>
         <div className="compare">
           {[block.left, block.right].map((side) => (

@@ -34,8 +34,8 @@ export function VocabTableScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Bảng từ vựng"
-        subtitle={`${day.vocabulary.length} từ · tra theo từ, nghĩa hoặc IPA`}
+        title="Vocabulary list"
+        subtitle={`${day.vocabulary.length} words · search by word, meaning, or IPA`}
       >
         <div className="row" style={{ marginTop: 'var(--space-4)' }}>
           <CopyUnknown
@@ -43,7 +43,7 @@ export function VocabTableScreen({ slug, day }) {
             words={ready ? notKnownYet(day.vocabulary, state.vocab) : []}
           />
           <span className="caption">
-            Dán vào Claude Code để skill <code>toeic-quiz</code> sinh thêm câu hỏi cho đúng mấy từ này
+            Paste into Claude Code so the <code>toeic-quiz</code> skill can generate questions for these words
           </span>
         </div>
       </PageHeader>
@@ -51,7 +51,7 @@ export function VocabTableScreen({ slug, day }) {
       <div className="row" style={{ marginBottom: 'var(--space-4)' }}>
         <Input
           type="search"
-          placeholder="Tìm từ, nghĩa hoặc IPA…"
+          placeholder="Search words, meanings, or IPA…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           style={{ flex: 1, minWidth: 200 }}
@@ -73,16 +73,16 @@ export function VocabTableScreen({ slug, day }) {
           <thead>
             <tr>
               <th className="col-star">
-                <span aria-label="Gắn sao" title="Gắn sao">
+                <span aria-label="Star" title="Star">
                   ★
                 </span>
               </th>
               <th>#</th>
-              <th>Từ</th>
+              <th>Word</th>
               <th>UK</th>
               <th>US</th>
-              <th>Nghĩa</th>
-              <th>Trạng thái</th>
+              <th>Meaning</th>
+              <th>Status</th>
               <th />
             </tr>
           </thead>
@@ -108,17 +108,14 @@ export function VocabTableScreen({ slug, day }) {
       {rows.length === 0 && (
         <p className="section-lead" style={{ marginTop: 'var(--space-4)' }}>
           {filter === 'star' && !starCount
-            ? 'Chưa gắn sao từ nào. Bấm ★ ở đây, hoặc bấm S khi đang học thẻ từ vựng.'
-            : 'Không có từ nào khớp.'}
+            ? 'No starred words yet. Click ★ here or press S while studying flashcards.'
+            : 'No matching words.'}
         </p>
       )}
 
       <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-        Bấm vào nhãn trạng thái để đổi. Trả lời sai ở game cũng tự đẩy từ về &ldquo;chưa học&rdquo;.
-        Gắn ★ cho từ nhớ nghĩa rồi mà hay quên mặt chữ — sao không phụ thuộc trạng thái, từ
-        &ldquo;đã biết&rdquo; vẫn lọc lại được.
-        Nghĩa tiếng Việt do AI bổ sung vì tài liệu gốc bỏ trống — sửa trong{' '}
-        <code>content/{slug}/vocabulary.json</code> nếu thấy lệch.
+        Click a status label to change it. Missed words in the game are marked as To learn. Star words you want to review, even if they are already Known. Vietnamese meanings were added by AI. If a meaning needs correcting, edit{' '}
+        <code>content/{slug}/vocabulary.json</code>.
       </p>
     </>
   );

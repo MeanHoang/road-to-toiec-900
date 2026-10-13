@@ -24,8 +24,8 @@ export function themeColorOf(eventId) {
 // Trung Thu cố tình không có, chỉ đổi màu và dựng cảnh.
 const GREETING = {
   'women-day': {
-    title: 'Chúc mừng ngày Phụ nữ Việt Nam 20/10',
-    body: 'Chúc các cô, các chị và các bạn nữ một ngày thật vui. Hôm nay học một chút thôi cũng được.',
+    title: 'Happy Vietnamese Women’s Day · October 20',
+    body: 'Wishing all women a wonderful day. A little studying is enough for today.',
   },
 };
 

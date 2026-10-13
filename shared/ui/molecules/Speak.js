@@ -19,15 +19,15 @@ import { useCallback, useEffect, useRef, useState } from 'react';
  */
 
 const LOI = {
-  'not-allowed': 'Trình duyệt chặn phát âm. Kiểm tra xem tab có bị tắt tiếng không.',
-  'language-unavailable': 'Máy chưa có giọng đọc cho ngôn ngữ này.',
-  'voice-unavailable': 'Máy chưa có giọng đọc cho ngôn ngữ này.',
-  'audio-busy': 'Thiết bị âm thanh đang bận.',
-  'synthesis-failed': 'Trình đọc của máy gặp lỗi.',
-  'synthesis-unavailable': 'Trình đọc của máy không dùng được.',
+  'not-allowed': 'Your browser blocked pronunciation. Check whether this tab is muted.',
+  'language-unavailable': 'No voice is available for this language on your device.',
+  'voice-unavailable': 'No voice is available for this language on your device.',
+  'audio-busy': 'Your audio device is busy.',
+  'synthesis-failed': 'Speech playback failed.',
+  'synthesis-unavailable': 'Speech playback is unavailable.',
 };
 
-const KET = 'Trình đọc của trình duyệt đang kẹt. Tải lại trang là hết.';
+const KET = 'Speech playback is stuck. Reload the page and try again.';
 
 /** Ưu tiên giọng cài sẵn trong máy: giọng chạy qua mạng hay treo im lặng. */
 function chonGiong(lang) {
@@ -60,7 +60,7 @@ export function Speak({ text, lang = 'en-US', src, label }) {
   const doc = useCallback(() => {
     const tts = window.speechSynthesis;
     if (!tts) {
-      setError('Trình duyệt không đọc được và từ này chưa có file phát âm.');
+      setError('Speech playback is unavailable and this word has no pronunciation file.');
       return;
     }
 
@@ -83,7 +83,7 @@ export function Speak({ text, lang = 'en-US', src, label }) {
         };
         u.onerror = (ev) => {
           if (ev.error === 'interrupted' || ev.error === 'canceled') return;
-          setError(LOI[ev.error] || `Không đọc được (${ev.error}).`);
+          setError(LOI[ev.error] || `Unable to pronounce (${ev.error}).`);
         };
 
         dangDoc.current = u;
@@ -122,7 +122,7 @@ export function Speak({ text, lang = 'en-US', src, label }) {
 
   if (!src && !supported) return null;
 
-  const tenGoi = label || `Đọc "${text}"`;
+  const tenGoi = label || `Pronounce "${text}"`;
   return (
     <button
       className={`icon-btn ${error ? 'is-error' : ''}`}

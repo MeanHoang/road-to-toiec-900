@@ -144,7 +144,7 @@ export function AudioPlayer({ src, onEnded }) {
         className="play"
         onClick={toggle}
         type="button"
-        aria-label={playing ? 'Tạm dừng' : 'Phát'}
+        aria-label={playing ? 'Pause' : 'Play'}
       >
         {playing ? '❚❚' : '▶'}
       </button>
@@ -156,11 +156,11 @@ export function AudioPlayer({ src, onEnded }) {
           className={`seek ${keo ? 'is-dragging' : ''}`}
           role="slider"
           tabIndex={0}
-          aria-label="Vị trí phát"
+          aria-label="Playback position"
           aria-valuemin={0}
           aria-valuemax={Number.isFinite(dur) ? Math.round(dur) : 0}
           aria-valuenow={Math.round(cur)}
-          aria-valuetext={`${phut(cur)} trên ${phut(dur)}`}
+          aria-valuetext={`${phut(cur)} of ${phut(dur)}`}
           onPointerDown={onPointerDown}
           onPointerMove={onPointerMove}
           onPointerUp={ketThucKeo}
@@ -187,8 +187,8 @@ export function AudioPlayer({ src, onEnded }) {
         className="rate-select"
         value={rate}
         onChange={(e) => changeRate(Number(e.target.value))}
-        aria-label="Tốc độ phát"
-        title="Tốc độ phát"
+        aria-label="Playback speed"
+        title="Playback speed"
       >
         {RATES.map((r) => (
           <option key={r} value={r}>

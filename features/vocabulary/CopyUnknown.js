@@ -18,7 +18,7 @@ export function CopyUnknown({ words, daySlug }) {
 
   const copy = async () => {
     const text =
-      `Sinh thêm câu hỏi cho ${daySlug}, các từ đang chưa thuộc:\n` +
+      `Generate more quiz questions for ${daySlug}, using these words I am still learning:\n` +
       words.map((w) => `${w.id}  ${w.word} — ${w.meaningVi}`).join('\n');
     try {
       await navigator.clipboard.writeText(text);
@@ -31,7 +31,7 @@ export function CopyUnknown({ words, daySlug }) {
 
   return (
     <button className="btn btn-quiet btn-sm" onClick={copy} type="button">
-      {copied ? '✓ Đã chép' : `📋 Chép ${words.length} từ chưa thuộc`}
+      {copied ? '✓ Copied' : `📋 Copy ${words.length} words to learn`}
     </button>
   );
 }

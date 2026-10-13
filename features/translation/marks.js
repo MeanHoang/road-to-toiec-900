@@ -1,9 +1,9 @@
 // Luật của bài gạch S / V / O. Không React, không state — chỉ là luật.
 
 export const LABELS = [
-  { key: 'S', text: 'chủ ngữ', tone: 'brand' },
-  { key: 'V', text: 'động từ', tone: 'success' },
-  { key: 'O', text: 'tân ngữ', tone: 'accent' },
+  { key: 'S', text: 'subject', tone: 'brand' },
+  { key: 'V', text: 'verb', tone: 'success' },
+  { key: 'O', text: 'object', tone: 'accent' },
 ];
 
 /** Chỉ đếm cụm THẬT SỰ là S/V/O; cụm `null` trong key là cụm phải để trống. */

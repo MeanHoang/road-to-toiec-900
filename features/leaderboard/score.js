@@ -38,5 +38,5 @@ export function displayNameOf({ name, email }) {
   const clean = (name || '').trim();
   if (clean) return clean;
   const local = (email || '').split('@')[0];
-  return local || 'Người học ẩn danh';
+  return local || 'Guest learner';
 }

@@ -65,12 +65,11 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
         <b className="exam-score-big">
           {correct}/{attempt.total}
         </b>
-        <span className="caption">câu đúng</span>
-        <Progress percent={(correct / attempt.total) * 100} label="Tỉ lệ đúng" />
+        <span className="caption">correct answers</span>
+        <Progress percent={(correct / attempt.total) * 100} label="Accuracy" />
         {blank > 0 && (
           <p className="caption">
-            {blank} câu bỏ trống — trong đề thật, bỏ trống tính như trả lời sai, nên cứ chọn bừa
-            còn hơn để trống.
+            {blank} unanswered questions. In the actual test, unanswered questions count as incorrect, so make a guess rather than leave them blank.
           </p>
         )}
       </Card>
@@ -79,7 +78,7 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
           một bảng "theo phần" với đúng một dòng thì chỉ tổ rối. */}
       {sections.length > 1 && (
         <Card>
-          <span className="eyebrow">Theo phần</span>
+          <span className="eyebrow">By section</span>
           <div className="exam-sections">
             {sections.map((s) => (
               <div key={s.label} className="exam-section-score">
@@ -97,7 +96,7 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       {/* Theo Part: biết mình yếu Part nào mới biết luyện riêng Part đó. */}
       {parts.length > 1 && (
         <Card>
-          <span className="eyebrow">Theo Part</span>
+          <span className="eyebrow">By part</span>
           <div className="exam-sections">
             {parts.map((p) => (
               <div key={p.part} className="exam-section-score">
@@ -113,8 +112,8 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       )}
 
       <Card>
-        <span className="eyebrow">Từng câu</span>
-        <p className="caption">Bấm vào câu sai hoặc bỏ trống để xem lại câu hỏi và đáp án.</p>
+        <span className="eyebrow">Question review</span>
+        <p className="caption">Select an incorrect or unanswered question to review it and see the correct answer.</p>
         {sections.map((s) => (
           <div key={s.label} className="exam-review">
             {sections.length > 1 && <span className="caption">{s.label}</span>}
@@ -128,14 +127,14 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
                   {...(!ok && {
                     type: 'button',
                     onClick: () => setSelected({ ...a, no: a.no ?? s.from + i + 1 }),
-                    'aria-label': `Xem đáp án câu ${a.no ?? s.from + i + 1}`,
+                    'aria-label': `Review question ${a.no ?? s.from + i + 1}`,
                     'aria-haspopup': 'dialog',
                   })}
                 >
                   <span className="exam-review-no">{a.no ?? s.from + i + 1}</span>
-                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'đúng' : a.picked ? 'sai' : 'bỏ trống'}</Badge>
+                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'correct' : a.picked ? 'incorrect' : 'unanswered'}</Badge>
                   <span className="caption">
-                    Chọn {a.picked || '—'} · Đáp án {a.answer}
+                    Your answer {a.picked || '—'} · Correct answer {a.answer}
                   </span>
                 </Row>
               );
@@ -147,21 +146,21 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       <Modal
         open={Boolean(selected)}
         onClose={() => setSelected(null)}
-        title={`Đáp án câu ${selected?.no ?? ''}`}
+        title={`Answer to question ${selected?.no ?? ''}`}
       >
         {selected && (
           <div className="stack exam-answer-review">
             <p>
-              {selected.picked ? `Bạn chọn ${selected.picked}` : 'Bạn bỏ trống câu này'}
-              {' · '}Đáp án đúng: <b>{selected.answer}</b>
+              {selected.picked ? `Your answer ${selected.picked}` : 'You left this question unanswered'}
+              {' · '}Correct answer: <b>{selected.answer}</b>
             </p>
             {question && (
               <>
                 <ExamQuestion question={{ ...question, answer: selected.answer }} picked={selected.picked} review />
-                {question.audio && <audio key={question.id} controls src={question.audio} preload="none" aria-label="Nghe lại câu hỏi" />}
+                {question.audio && <audio key={question.id} controls src={question.audio} preload="none" aria-label="Replay question audio" />}
                 {question.script?.length > 0 && (
                   <div className="script-list">
-                    <span className="eyebrow">Lời thoại</span>
+                    <span className="eyebrow">Transcript</span>
                     {question.script.map((line, i) => <p key={i}>{line.text}</p>)}
                   </div>
                 )}
@@ -173,9 +172,9 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
 
       <div className="exam-actions">
         <Button variant="primary" onClick={onAgain}>
-          Thi lại
+          Retake test
         </Button>
-        <Button onClick={onBack}>Chọn đề khác</Button>
+        <Button onClick={onBack}>Choose another test</Button>
       </div>
     </div>
   );

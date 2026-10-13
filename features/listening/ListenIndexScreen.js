@@ -25,17 +25,17 @@ function KeyNote({ sets }) {
       <div className="stack" style={{ gap: 'var(--space-2)' }}>
         {official.length > 0 && (
           <p>
-            <strong>Có đáp án chính thức</strong> lấy từ tài liệu: {names(official)}.
+            <strong>Official answer keys</strong> from the source material: {names(official)}.
           </p>
         )}
         {aiKeyed.length > 0 && (
           <p>
-            <strong>Đáp án do AI giải</strong> vì tài liệu không kèm key: {names(aiKeyed)}.
+            <strong>AI-generated answers</strong> for sets without an official key: {names(aiKeyed)}.
           </p>
         )}
         {noKey.length > 0 && (
           <p>
-            <strong>Không có đáp án</strong>, chỉ nghe rồi chép lại để đối chiếu lời audio:{' '}
+            <strong>No answer key</strong>. Listen and transcribe, then compare with the audio transcript:{' '}
             {names(noKey)}.
           </p>
         )}
@@ -51,8 +51,8 @@ export function ListenIndexScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Luyện nghe"
-        subtitle={`${day.listening.length} bộ bài · ${countQuestions(day)} câu · mỗi câu có audio riêng`}
+        title="Listening practice"
+        subtitle={`${day.listening.length} sets · ${countQuestions(day)} questions · individual audio for each question`}
       />
 
       <div className="stack">
@@ -72,7 +72,7 @@ export function ListenIndexScreen({ slug, day }) {
                 set.hasKey ? (
                   <CountBadge done={done} total={total} />
                 ) : (
-                  <Badge tone="warning">chưa có đáp án</Badge>
+                  <Badge tone="warning">no answer key</Badge>
                 )
               }
             />

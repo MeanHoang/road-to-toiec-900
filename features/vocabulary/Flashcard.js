@@ -11,7 +11,7 @@ function IpaLine({ label, ipa, word, lang, voice, src }) {
     <div className="ipa-line">
       <span className="ipa-label">{label}</span>
       <span className="ipa">{ipa}</span>
-      <Speak text={word} lang={lang} src={src} label={`Đọc ${word} giọng ${voice}`} />
+      <Speak text={word} lang={lang} src={src} label={`Pronounce ${word} (${voice} English)`} />
     </div>
   );
 }
@@ -22,7 +22,7 @@ function StarCorner({ word, starred, onToggle }) {
       className="card-star"
       on={starred}
       onClick={onToggle}
-      label={starred ? `Bỏ sao ${word}` : `Gắn sao ${word} để xem lại mặt chữ`}
+      label={starred ? `Unstar ${word}` : `Star ${word} for spelling review`}
     />
   );
 }
@@ -56,7 +56,7 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
               ipa={card.ipa.uk}
               word={card.word}
               lang="en-GB"
-              voice="Anh"
+              voice="British"
               src={card.voice?.uk}
             />
             <IpaLine
@@ -64,11 +64,11 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
               ipa={card.ipa.us}
               word={card.word}
               lang="en-US"
-              voice="Mỹ"
+              voice="American"
               src={card.voice?.us}
             />
           </div>
-          <div className="hint">tự nhớ nghĩa trước · bấm để lật</div>
+          <div className="hint">recall the meaning · click to flip</div>
         </div>
 
         <div className="flashcard-face back">

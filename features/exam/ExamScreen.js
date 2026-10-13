@@ -71,7 +71,7 @@ export function ExamScreen() {
 
   if (!ready) {
     return (
-      <LoadingBlock label="Đang chuẩn bị phòng thi">
+      <LoadingBlock label="Preparing the exam room">
         <div />
       </LoadingBlock>
     );
@@ -85,7 +85,7 @@ export function ExamScreen() {
   if (attempt) {
     return (
       <>
-        <PageHeader eyebrow="Phòng thi" title="Kết quả" />
+        <PageHeader eyebrow="Exam room" title="Results" />
         <ExamResult
           attempt={attempt}
           questions={reviewQuestions}
@@ -99,20 +99,17 @@ export function ExamScreen() {
   return (
     <>
       <PageHeader
-        eyebrow="Phòng thi"
-        title="Thi thử"
+        eyebrow="Exam room"
+        title="Practice test"
         subtitle={
           learner
-            ? `${learner} — kết quả lưu vào tài khoản, đổi máy vẫn còn.`
-            : 'Đề TOEIC trọn vẹn 200 câu, 7 Part. Listening chạy theo băng, Reading tự chia giờ.'
+            ? `${learner} — your results are saved to your account across devices.`
+            : 'A full TOEIC test with 200 questions across 7 parts. Listening follows the audio; Reading is self-paced within the time limit.'
         }
       />
       <ExamPicker papers={papers} history={history} onStart={start} />
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Câu hỏi, tranh và đáp án lấy nguyên từ đề luyện thi chính thức của ETS. Audio phần
-        Listening do máy đọc lại từ lời thoại của đề, không phải băng gốc. Kết quả chỉ tính số
-        câu đúng — ETS không công khai bảng quy đổi ra thang 10–990, nên app không bịa ra một
-        con số điểm.
+        Questions, images, and answers come from an official ETS practice test. Listening audio uses computer-generated speech from the test script. Results show correct-answer counts because ETS does not publish a conversion table for the 10–990 score scale.
       </Callout>
     </>
   );
@@ -141,7 +138,7 @@ function Running({ paper, onDone }) {
   }, []);
 
   const blank = run.marks.filter((m) => !m.picked).length;
-  const endLabel = run.isLastSection ? 'Nộp bài' : `Kết thúc ${run.section.label}`;
+  const endLabel = run.isLastSection ? 'Submit test' : `Finish ${run.section.label}`;
 
   return (
     <div className="exam-run">
@@ -153,7 +150,7 @@ function Running({ paper, onDone }) {
         </span>
         <b className={`exam-clock ${run.left <= 30 ? 'is-low' : ''}`}>{clock(run.left)}</b>
         <span className="caption">
-          Câu {run.noInSection}/{run.sectionTotal} · đã chọn {run.answered}/{run.total}
+          Question {run.noInSection}/{run.sectionTotal} · answered {run.answered}/{run.total}
         </span>
       </div>
 
@@ -166,10 +163,10 @@ function Running({ paper, onDone }) {
             mà mất cả phần thi thì quá đắt. */}
         <div className="exam-actions">
           <Button onClick={run.prev} disabled={run.atSectionStart}>
-            Câu trước
+            Previous question
           </Button>
           <Button variant="primary" onClick={run.next} disabled={run.atSectionEnd}>
-            Câu sau
+            Next question
           </Button>
         </div>
         <Button variant="quiet" onClick={() => setConfirming(true)}>
@@ -192,16 +189,16 @@ function Running({ paper, onDone }) {
       <Modal open={confirming} onClose={() => setConfirming(false)} title={`${endLabel}?`}>
         <p>
           {run.isLastSection
-            ? 'Nộp rồi là chấm luôn, không sửa lại được.'
-            : `Sang ${nextLabel(paper, run.sectionIndex)} rồi thì không quay lại ${run.section.label} được nữa.`}
+            ? 'Your test will be graded immediately. You cannot change your answers after submitting.'
+            : `Once you start ${nextLabel(paper, run.sectionIndex)}, you cannot return to ${run.section.label}.`}
         </p>
         {blank > 0 && (
           <p className="caption">
-            Còn <b>{blank} câu chưa làm</b> trong phần này. Bỏ trống tính như trả lời sai.
+            There are <b>{blank} unanswered questions</b> in this section. Unanswered questions count as incorrect.
           </p>
         )}
         <div className="exam-actions" style={{ marginTop: 'var(--space-4)' }}>
-          <Button onClick={() => setConfirming(false)}>Quay lại làm tiếp</Button>
+          <Button onClick={() => setConfirming(false)}>Continue test</Button>
           <Button
             variant="primary"
             onClick={() => {
@@ -217,4 +214,4 @@ function Running({ paper, onDone }) {
   );
 }
 
-const nextLabel = (paper, i) => paper.sections[i + 1]?.label ?? 'phần sau';
+const nextLabel = (paper, i) => paper.sections[i + 1]?.label ?? 'the next section';

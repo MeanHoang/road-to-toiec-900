@@ -4,15 +4,15 @@
 export function messageFor(e) {
   switch (e.code) {
     case 'auth/operation-not-allowed':
-      return 'Chưa bật đăng nhập Google trong Firebase Console → Authentication → Sign-in method.';
+      return 'Google sign-in is not enabled. Enable it in Firebase Console → Authentication → Sign-in method.';
     case 'auth/unauthorized-domain':
-      return 'Tên miền này chưa được cho phép trong Firebase Console → Authentication → Settings → Authorized domains.';
+      return 'This domain is not authorized. Add it in Firebase Console → Authentication → Settings → Authorized domains.';
     case 'auth/popup-blocked':
-      return 'Trình duyệt chặn popup. Cho phép popup cho trang này rồi thử lại.';
+      return 'Your browser blocked the popup. Allow popups for this site and try again.';
     case 'auth/network-request-failed':
-      return 'Mất mạng. Tiến độ vẫn đang lưu ở máy, đăng nhập lại sau cũng được.';
+      return 'You are offline. Your progress is still saved on this device. Try signing in again later.';
     default:
-      return e.message || 'Đăng nhập không thành công.';
+      return e.message || 'Sign-in failed.';
   }
 }
 

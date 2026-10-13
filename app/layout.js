@@ -5,7 +5,7 @@ import { ACTIVE_EVENT, themeColorOf } from '@/shared/lib/event';
 
 export const metadata = {
   title: 'Road to TOEIC 900',
-  description: 'Học TOEIC hai kỹ năng — lý thuyết, từ vựng, luyện nghe',
+  description: 'TOEIC listening and reading practice — theory, vocabulary, and listening drills',
 };
 
 // Màu thanh địa chỉ phải đi theo --bg của sự kiện đang chạy, không thì nó lệch
@@ -21,7 +21,7 @@ export const viewport = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="vi" data-event={ACTIVE_EVENT || undefined}>
+    <html lang="en" data-event={ACTIVE_EVENT || undefined}>
       <body>
         <AuthProvider>
           <AppShell>{children}</AppShell>

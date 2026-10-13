@@ -17,7 +17,7 @@ import { clock } from './useExamRun';
 
 export function ExamPicker({ papers, history, onStart }) {
   if (!papers?.length) {
-    return <p className="caption">Chưa có đề nào.</p>;
+    return <p className="caption">No tests available yet.</p>;
   }
 
   return (
@@ -37,11 +37,11 @@ function PaperCard({ paper, history, onStart }) {
         <div>
           <b className="paper-title">{paper.title}</b>
           <p className="caption">
-            {paper.total} câu · {clock(paper.seconds)}
+            {paper.total} questions · {clock(paper.seconds)}
           </p>
         </div>
         <Button variant="primary" size="sm" onClick={() => onStart(paper.id, null)}>
-          Thi cả đề
+          Take full test
         </Button>
       </div>
 
@@ -54,7 +54,7 @@ function PaperCard({ paper, history, onStart }) {
         return (
           <div key={s.kind} className="paper-sections">
             <span className="exam-group-title">
-              {s.label} · {count} câu
+              {s.label} · {count} questions
             </span>
             {parts.map((p) => (
               <PartRow key={p.part} part={p} history={history} paperId={paper.id} onStart={onStart} />
@@ -76,13 +76,13 @@ function PartRow({ part, history, paperId, onStart }) {
             Part {part.part} · {part.label}
           </b>
           <Badge>
-            {part.count} câu · {clock(part.seconds)}
+            {part.count} questions · {clock(part.seconds)}
           </Badge>
         </div>
         <LastScore history={history} paperId={paperId} only={part.part} />
       </div>
       <Button size="sm" onClick={() => onStart(paperId, part.part)}>
-        Thi riêng
+        Take this part
       </Button>
     </div>
   );
@@ -98,8 +98,8 @@ function LastScore({ history, paperId, only }) {
   const when = new Date(last.id);
   return (
     <p className="caption">
-      Lần gần nhất: <b>{last.correct}/{last.total} câu</b> ·{' '}
-      {when.toLocaleDateString('vi-VN')} {when.toLocaleTimeString('vi-VN', { timeStyle: 'short' })}
+      Last attempt: <b>{last.correct}/{last.total} correct</b> ·{' '}
+      {when.toLocaleDateString('en-GB')} {when.toLocaleTimeString('en-GB', { timeStyle: 'short' })}
     </p>
   );
 }

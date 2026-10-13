@@ -73,7 +73,7 @@ const empty = { vocab: {}, star: {}, listen: {}, trans: {}, picture: {}, dictati
   assert.equal(displayNameOf({ name: 'Minh Hoàng Trịnh' }), 'Minh Hoàng Trịnh');
   assert.equal(displayNameOf({ name: '   ', email: 'abc@gmail.com' }), 'abc');
   assert.equal(displayNameOf({ email: 'abc@gmail.com' }), 'abc');
-  assert.equal(displayNameOf({}), 'Người học ẩn danh');
+  assert.equal(displayNameOf({}), 'Guest learner');
   console.log('✓ tên hiển thị có đường lui khi thiếu tên');
 }
 

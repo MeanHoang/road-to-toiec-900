@@ -78,8 +78,8 @@ export function GameScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Game từ vựng"
-        subtitle={`${ROUND} câu mỗi lượt · trộn cả hai chiều Anh ↔ Việt · đáp án nhiễu bốc từ chính ${day.vocabulary.length} từ của buổi học`}
+        title="Vocabulary game"
+        subtitle={`${ROUND} questions per round · English ↔ Vietnamese · answer choices drawn from the ${day.vocabulary.length} words in this lesson`}
       />
 
       {game.finished ? (
@@ -100,7 +100,7 @@ export function GameScreen({ slug, day }) {
           onNext={game.next}
         />
       ) : (
-        <Card>Đang tạo câu hỏi…</Card>
+        <Card>Preparing questions…</Card>
       )}
     </>
   );

@@ -39,7 +39,7 @@ export function Modal({ open, onClose, title, children }) {
       >
         <header className="modal-head">
           <strong>{title}</strong>
-          <button type="button" className="icon-btn" onClick={onClose} aria-label="Đóng">
+          <button type="button" className="icon-btn" onClick={onClose} aria-label="Close">
             ✕
           </button>
         </header>

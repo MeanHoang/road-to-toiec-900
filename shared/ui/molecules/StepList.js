@@ -17,7 +17,7 @@ export function StepList({ items, currentIndex, isDone, isWrong, onPick, labelOf
             type="button"
             className={`step ${state}`}
             onClick={() => onPick(i)}
-            aria-label={`Câu ${labelOf ? labelOf(it) : i + 1}${wrong ? ' — đã làm sai' : isDone(it) ? ' — đã làm đúng' : ''}`}
+            aria-label={`Question ${labelOf ? labelOf(it) : i + 1}${wrong ? ' — answered incorrectly' : isDone(it) ? ' — answered correctly' : ''}`}
           >
             {labelOf ? labelOf(it) : i + 1}
           </button>

@@ -21,7 +21,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
   }, [activeSlug]);
 
   return (
-    <Drawer open={open} onClose={onClose} label="Điều hướng bài học">
+    <Drawer open={open} onClose={onClose} label="Lesson navigation">
       <div className="drawer-head">
         <Link href="/" className="drawer-brand" onClick={onNavigate}>
           Road to TOEIC 900
@@ -30,7 +30,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
           type="button"
           className="drawer-handle drawer-handle-in"
           onClick={onClose}
-          aria-label="Thu gọn menu điều hướng"
+          aria-label="Collapse navigation menu"
           aria-expanded={true}
         >
           «

@@ -54,7 +54,7 @@ export function DictationField({ answer, value, onChange, minHeight }) {
             rows={1}
             spellCheck={false}
             autoComplete="off"
-            placeholder="Gõ lại câu bạn nghe được…"
+            placeholder="Type what you hear…"
             value={value}
             onChange={(e) => onChange(e.target.value)}
             onKeyDown={(e) => {
@@ -71,17 +71,17 @@ export function DictationField({ answer, value, onChange, minHeight }) {
 
       <div className="dictation-actions">
         <Button size="sm" variant="primary" disabled={!value.trim()} onClick={check}>
-          Chấm
+          Check
         </Button>
 
-        {done && <span className="dictation-verdict is-ok">✓ Đúng rồi</span>}
+        {done && <span className="dictation-verdict is-ok">✓ Correct</span>}
         {!stale && result.status === 'wrong' && (
-          <span className="dictation-verdict is-bad">⚠ Chưa đúng</span>
+          <span className="dictation-verdict is-bad">⚠ Not quite right</span>
         )}
 
         {canReveal && (
           <Switch checked={gaveUp} onChange={() => setGaveUp((g) => !g)}>
-            Xem cả câu
+            Show full sentence
           </Switch>
         )}
       </div>

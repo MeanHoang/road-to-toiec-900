@@ -9,7 +9,7 @@ import { NavCardSkeleton } from '@/shared/ui/molecules/NavCardSkeleton';
  */
 export function LessonSkeleton({ blocks = 4 }) {
   return (
-    <LoadingBlock label="Đang tải nội dung buổi học">
+    <LoadingBlock label="Loading lesson content">
       <div className="page-head">
         <Skeleton width={90} height={13} />
         <Skeleton width="60%" height={34} style={{ margin: 'var(--space-3) 0' }} />
