@@ -1,127 +1,97 @@
 'use client';
 
-// Chọn ĐỀ, rồi chọn thi cả đề hay thi riêng một phần.
+// Chọn ĐỀ, rồi thi cả đề hoặc thi riêng một Part.
 //
-// Bày theo ĐỀ chứ không theo Part, vì một đề TOEIC là 200 câu gồm cả hai kỹ
-// năng làm liền một mạch — Nghe 45 phút rồi vào thẳng Đọc 75 phút. Bày Part 1,
-// Part 2… thành những bài rời nhau là mô tả sai kỳ thi.
+// Một đề TOEIC là 200 câu làm liền một mạch: Listening (Part 1-4) rồi vào
+// thẳng Reading (Part 5-7). "Thi cả đề" chạy đúng như vậy.
 //
-// Vẫn cho thi riêng một phần, vì đây là app luyện: ngồi đủ hai tiếng mỗi lần
-// thì không ai luyện nổi. Thi riêng vẫn giữ nguyên luật của phần đó.
+// Vẫn cho thi riêng từng Part, vì đây là app luyện: ngồi đủ hai tiếng mỗi lần
+// thì không ai luyện nổi, và người học thường yếu ở một Part cụ thể. Thi riêng
+// vẫn giữ nguyên luật của Part đó.
 
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
+import { SECTIONS } from './rules';
 import { clock } from './useExamRun';
 
 export function ExamPicker({ papers, history, onStart }) {
   if (!papers?.length) {
-    return <p className="caption">Chưa có nội dung nào để dựng đề.</p>;
+    return <p className="caption">Chưa có đề nào.</p>;
   }
 
-  // Dòng "đề thật 200 câu, đây mới có X" giống hệt nhau ở mọi đề, nên nói MỘT
-  // lần dưới lưới. Lặp lại ở từng thẻ chỉ làm thẻ dài gấp đôi mà không thêm
-  // thông tin nào.
-  const first = papers[0];
-
   return (
-    <>
-      <div className="paper-grid">
-        {papers.map((p) => (
-          <PaperCard key={p.id} paper={p} history={history} onStart={onStart} />
-        ))}
+    <div className="paper-grid">
+      {papers.map((p) => (
+        <PaperCard key={p.id} paper={p} history={history} onStart={onStart} />
+      ))}
+    </div>
+  );
+}
+
+/** Một đề: thi cả đề, hoặc thi riêng từng Part. */
+function PaperCard({ paper, history, onStart }) {
+  return (
+    <Card className="paper">
+      <div className="paper-head">
+        <div>
+          <b className="paper-title">{paper.title}</b>
+          <p className="caption">
+            {paper.total} câu · {clock(paper.seconds)}
+          </p>
+        </div>
+        <Button variant="primary" size="sm" onClick={() => onStart(paper.id, null)}>
+          Thi cả đề
+        </Button>
       </div>
 
-      {!first.full && (
-        <p className="caption paper-note">
-          Mỗi đề thật có 200 câu. Các đề ở đây mới có {first.total} câu vì chưa đủ nội dung
-          {Object.keys(first.shortfall).length > 0 && (
-            <> — thiếu {Object.keys(first.shortfall).join(', ')}</>
-          )}
-          . Phần Đọc lấy từ đề mẫu chính thức của ETS (30/100 câu).
-        </p>
-      )}
-    </>
-  );
-}
+      <LastScore history={history} paperId={paper.id} only={null} />
 
-/** Một đề: thi cả đề, hoặc thi riêng từng phần. */
-function PaperCard({ paper, history, onStart }) {
-  const listening = paper.sections.find((s) => s.kind === 'listening');
-  const reading = paper.sections.find((s) => s.kind === 'reading');
-
-  return (
-      <Card className="paper">
-        <div className="paper-head">
-          <div>
-            <b className="paper-title">{paper.label}</b>
-            <p className="caption">
-              {paper.total} câu · {clock(paper.seconds)}
-            </p>
+      {SECTIONS.map((s) => {
+        const parts = paper.parts.filter((p) => p.section === s.kind);
+        if (!parts.length) return null;
+        const count = parts.reduce((n, p) => n + p.count, 0);
+        return (
+          <div key={s.kind} className="paper-sections">
+            <span className="exam-group-title">
+              {s.label} · {count} câu
+            </span>
+            {parts.map((p) => (
+              <PartRow key={p.part} part={p} history={history} paperId={paper.id} onStart={onStart} />
+            ))}
           </div>
-          <Button variant="primary" size="sm" onClick={() => onStart(paper.nth, null)}>
-            Thi cả đề
-          </Button>
-        </div>
-
-        <LastScore history={history} nth={paper.nth} only={null} />
-
-        <div className="paper-sections">
-          {listening && (
-            <SectionRow
-              section={listening}
-              history={history}
-              nth={paper.nth}
-              only="listening"
-              onStart={onStart}
-            />
-          )}
-          {reading && (
-            <SectionRow
-              section={reading}
-              history={history}
-              nth={paper.nth}
-              only="reading"
-              onStart={onStart}
-            />
-          )}
-        </div>
-
-        {/* Đề 2 trở đi đang dùng lại phần Nghe Part 2 và phần Đọc của đề 1,
-            vì mỗi thứ đó mới có đúng một bộ. Nói ra, chứ bày bốn đề mà im thì
-            người học tưởng mình vừa thi bốn bài khác nhau. */}
-        {paper.reuses?.length > 0 && (
-          <p className="caption">Dùng lại {paper.reuses.join(', ')} của đề trước.</p>
-        )}
-
-      </Card>
+        );
+      })}
+    </Card>
   );
 }
 
-/** Một phần của đề: thi riêng được, và nói rõ luật của phần đó. */
-function SectionRow({ section, history, nth, only, onStart }) {
+/** Một Part của đề: thi riêng được. */
+function PartRow({ part, history, paperId, onStart }) {
   return (
     <div className="paper-section">
       <div className="paper-section-main">
         <div className="exam-row-head">
-          <b>{section.label}</b>
+          <b>
+            Part {part.part} · {part.label}
+          </b>
           <Badge>
-            {section.questions.length} câu · {clock(section.seconds)}
+            {part.count} câu · {clock(part.seconds)}
           </Badge>
         </div>
-        <LastScore history={history} nth={nth} only={only} />
+        <LastScore history={history} paperId={paperId} only={part.part} />
       </div>
-      <Button size="sm" onClick={() => onStart(nth, only)}>
+      <Button size="sm" onClick={() => onStart(paperId, part.part)}>
         Thi riêng
       </Button>
     </div>
   );
 }
 
-/** Điểm lần thi gần nhất của đúng kiểu bài này. Không có thì không hiện gì. */
-function LastScore({ history, nth, only }) {
+/** Điểm lần thi gần nhất của đúng bài này. Không có thì không hiện gì. */
+function LastScore({ history, paperId, only }) {
   const last = (history || [])
-    .filter((a) => (a.only ?? null) === only && (a.nth ?? 0) === nth)
+    .filter((a) => a.paperId === paperId && (a.only ?? null) === only)
     .sort((a, b) => b.id.localeCompare(a.id))[0];
   if (!last) return null;
 

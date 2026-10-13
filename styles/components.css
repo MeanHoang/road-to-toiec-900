@@ -1969,9 +1969,25 @@ th {
   overflow: auto;
 }
 .exam-passage img {
+  display: block;
   width: 100%;
   background: var(--photo-bg);
   border-radius: var(--radius-sm);
+}
+/* Bộ nhiều đoạn (e-mail + bảng + biểu mẫu) xếp ảnh nối nhau, có khe để thấy
+   đâu là chỗ hết đoạn này sang đoạn kia. */
+.exam-passage img + img {
+  margin-top: var(--space-3);
+}
+/* Hình minh hoạ Part 3-4 (bảng giá, lịch, bản đồ): nhỏ, giữ nguyên tỉ lệ, đủ
+   đọc chữ trong bảng mà không chiếm chỗ của câu hỏi. */
+.exam-graphic {
+  align-self: flex-start;
+  width: 100%;
+  max-width: 360px;
+  background: var(--photo-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
 }
 .exam-stem {
   font-size: var(--text-lg);

@@ -29,17 +29,10 @@ service cloud.firestore {
     // trình duyệt. Nằm NGANG HÀNG với /days chứ không nằm trong, vì đề thi
     // không thuộc buổi học nào. Chỉ script push-exam (Admin SDK) ghi được.
     //
-    // Nội dung ở đây là đề mẫu do ETS phát hành miễn phí. Nó vẫn có bản quyền
-    // của ETS, nên giữ app ở chế độ riêng tư — xem ghi chú trong README.
+    // Mỗi document là MỘT đề trọn vẹn 200 câu. Nội dung là đề luyện thi ETS
+    // phát hành miễn phí — vẫn có bản quyền của ETS, nên giữ app ở chế độ
+    // riêng tư (xem README).
     match /exam/{form} {
-      allow read: if true;
-      allow write: if false;
-    }
-
-    // DANH SÁCH ĐỀ — đề nào gồm bộ nào. Tách khỏi /exam vì nó không phải một
-    // đề, nó là bảng khai. Ai cũng đọc được, và PHẢI giống nhau với mọi người
-    // học: "Đề số 1" mà mỗi máy một kiểu thì không so điểm được với nhau.
-    match /exam-papers/{doc} {
       allow read: if true;
       allow write: if false;
     }

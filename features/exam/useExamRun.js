@@ -2,16 +2,17 @@
 
 // Trạng thái MỘT lượt thi đang chạy.
 //
-// Một đề có HAI CHẶNG — Nghe rồi Đọc — và hai chặng có luật khác nhau, nên
-// không gộp thành một đồng hồ duy nhất:
-//   - Nghe 45 phút, hết giờ là mất phần đó, không quay lại được.
-//   - Đọc 75 phút riêng, tự chia giờ.
-// Hết giờ chặng Nghe thì nhảy thẳng sang chặng Đọc, đúng như phòng thi thật.
+// Một đề có HAI CHẶNG — Listening rồi Reading — và hai chặng có luật khác
+// nhau, nên không gộp thành một đồng hồ duy nhất:
+//   - Listening chạy theo BĂNG: audio phát nối liền từ đầu tới cuối, người thi
+//     không điều khiển nhịp. Hết băng là sang Reading.
+//   - Reading 75 phút riêng, tự chia giờ. Hết giờ là nộp.
 //
 // Tách khỏi màn hình vì đây là chỗ dễ sai nhất: đồng hồ phải chạy tiếp khi đổi
 // câu, phải tự chuyển chặng, và không được chạy lại từ đầu mỗi lần render.
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { tapeOf } from './buildExam';
 
 /**
  * @param paper  { sections: [{ kind, label, seconds, questions }] }
@@ -65,18 +66,44 @@ export function useExamRun(paper, onDone) {
     setIndex(firstOf[sectionIndex + 1]);
   }, [last, submit, firstOf, sectionIndex]);
 
+  // BĂNG của chặng Listening: các đoạn audio theo thứ tự đề, phát nối nhau.
+  //
+  // Băng tách khỏi câu đang xem. Người thi được quay lại câu trước để sửa đáp
+  // án — phiếu trả lời nằm trên bàn — nhưng băng vẫn chạy tiếp, không dừng,
+  // không phát lại. Hết một đoạn thì màn hình nhảy tới câu đầu của đoạn sau,
+  // như loa đọc "Number 8" là ai cũng lật sang câu 8.
+  const tape = useMemo(
+    () => (section.kind === 'listening' ? tapeOf(section.questions) : []),
+    [section],
+  );
+  const [tapePos, setTapePos] = useState(0);
+  useEffect(() => setTapePos(0), [sectionIndex]);
+
+  const tapeEnded = useCallback(() => {
+    const next = tapePos + 1;
+    if (next >= tape.length) return nextSection(); // hết băng là hết phần nghe
+    setTapePos(next);
+    setIndex(firstOf[sectionIndex] + tape[next].from);
+  }, [tapePos, tape, nextSection, firstOf, sectionIndex]);
+
   // Đồng hồ của CHẶNG đang chạy. Đếm theo mốc thời gian thật chứ không trừ dần
   // mỗi giây: tab bị ẩn thì trình duyệt bóp nhịp setInterval, trừ dần sẽ cho
   // người thi thêm giờ.
+  //
+  // Chặng Listening: đồng hồ chỉ để XEM. Nó dài đúng bằng băng, nhưng mỗi đoạn
+  // băng tải mất vài phần mười giây, cộng dồn 50 đoạn thì đồng hồ về 0 trước
+  // khi băng hết — cắt ngang khoảng nghỉ của câu cuối. Băng mới là thứ quyết
+  // định hết phần nghe (`tapeEnded`).
   useEffect(() => {
     if (doneRef.current) return undefined;
-    const end = Date.now() + paper.sections[sectionIndex].seconds * 1000;
+    const current = paper.sections[sectionIndex];
+    const end = Date.now() + current.seconds * 1000;
     const t = setInterval(() => {
       const remain = Math.max(0, Math.round((end - Date.now()) / 1000));
       setLeft(remain);
       if (remain === 0) {
         clearInterval(t);
-        nextSection();
+        if (current.kind !== 'listening') nextSection();
       }
     }, 250);
     return () => clearInterval(t);
@@ -101,10 +128,10 @@ export function useExamRun(paper, onDone) {
    * vi vi phạm: "Referring to, looking through, or working on any test or test
    * section when not authorized to do so".
    *
-   * TRONG một chặng thì đi lại tự do, kể cả chặng Nghe. Giống phòng thi thật:
-   * phiếu trả lời nằm trên bàn, muốn tô lại ô nào trong phần đang thi cũng
-   * được. Thứ không quay lại được là BĂNG, không phải tờ phiếu — nên quay lại
-   * câu cũ thì audio KHÔNG phát lại (xem `played` bên dưới).
+   * TRONG một chặng thì đi lại tự do, kể cả chặng Listening. Giống phòng thi
+   * thật: phiếu trả lời nằm trên bàn, muốn tô lại ô nào trong phần đang thi
+   * cũng được. Thứ không quay lại được là BĂNG, không phải tờ phiếu — băng
+   * chạy riêng, đi lại giữa các câu không làm nó dừng hay phát lại.
    *
    * Và chính ETS khuyên làm vậy ở phần Đọc: "if you do not know the answer to
    * a question, come back to it later".
@@ -118,30 +145,6 @@ export function useExamRun(paper, onDone) {
     [firstOf, sectionIndex, paper.sections],
   );
 
-  /**
-   * Câu đang mở có phải lần ĐẦU đi tới không. Quay lại câu cũ thì xem lại tranh
-   * và đổi đáp án được, nhưng audio không phát lại — băng trong phòng thi
-   * không chạy ngược.
-   *
-   * Suy từ CÂU XA NHẤT đã tới, chứ không ghi dấu "đã nghe" vào một Set: ghi
-   * dấu thì phải sửa dữ liệu ngay trong lúc render, mà React ở chế độ dev
-   * render hai lần — lần thứ hai đọc thấy dấu vừa ghi và kết luận câu đầu tiên
-   * "đã nghe rồi", nên audio không bao giờ phát. Đã dính đúng lỗi đó.
-   */
-  const [furthest, setFurthest] = useState(-1);
-  useEffect(() => setFurthest((m) => Math.max(m, index)), [index]);
-
-  // `index > furthest`: chỉ phát khi đi XA HƠN chỗ đã tới. Lùi lại hay nhảy
-  // về câu cũ đều im.
-  //
-  // Hai lần sửa hụt trước đó, ghi ra để đừng lặp lại:
-  //   - `>=` thì riêng câu xa nhất cứ quay về là phát lại, các câu trước thì
-  //     không — đo được: 1→2→3, lùi 2 (im, đúng), tiến lại 3 thì PHÁT (sai).
-  //   - Chốt kết quả theo TỪNG CÂU vào một Map thì sai kiểu khác: câu nào cũng
-  //     được chốt "true" ở lần đầu tới, nên quay lại là phát lại hết.
-  // Thứ cần chốt là LẦN ĐẾN, không phải câu — và chốt ở chỗ phát (PlayOnce giữ
-  // giá trị lúc nó được dựng), không phải ở đây.
-  const firstListen = index > furthest;
 
   const inSection = index - firstOf[sectionIndex];
   const sectionTotal = section.questions.length;
@@ -150,11 +153,15 @@ export function useExamRun(paper, onDone) {
     index,
     question: flat[index].question,
     section,
-    /** Câu đang mở đã nghe lần nào chưa — chưa thì mới cho audio tự phát. */
-    firstListen,
+    /** Đoạn băng đang phát (chặng Listening), và báo khi nó phát xong. */
+    tape: tape[tapePos] ? { src: tape[tapePos].src, key: `${sectionIndex}-${tapePos}` } : null,
+    tapeEnded,
     /** Trạng thái từng câu TRONG chặng, cho ô chọn câu. */
-    marks: section.questions.map((_, i) => ({
-      no: i + 1,
+    // `no` là số câu IN TRONG ĐỀ (Part 3 bắt đầu từ 32), không đếm lại từ 1:
+    // loa đọc "Number 32" thì ô phải ghi 32. `at` là vị trí trong chặng.
+    marks: section.questions.map((q, i) => ({
+      no: q.no,
+      at: i,
       picked: Boolean(picked[firstOf[sectionIndex] + i]),
       current: i === index - firstOf[sectionIndex],
     })),
@@ -179,6 +186,14 @@ export function useExamRun(paper, onDone) {
   };
 }
 
-/** "02:34" — phút:giây, luôn hai chữ số để con số không nhảy qua nhảy lại. */
-export const clock = (s) =>
-  `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
+/**
+ * "02:34" — phút:giây, luôn hai chữ số để con số không nhảy qua nhảy lại.
+ * Từ một tiếng trở lên thì "1:56:51": cả đề dài gần hai tiếng, "116:51" phải
+ * nhẩm mới ra.
+ */
+export function clock(s) {
+  const pad = (n) => String(n).padStart(2, '0');
+  const h = Math.floor(s / 3600);
+  const m = Math.floor((s % 3600) / 60);
+  return h ? `${h}:${pad(m)}:${pad(s % 60)}` : `${pad(m)}:${pad(s % 60)}`;
+}

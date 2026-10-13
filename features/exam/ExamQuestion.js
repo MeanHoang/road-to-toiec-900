@@ -1,7 +1,7 @@
 'use client';
 
-// Một câu trong phòng thi. Nghe và Đọc dùng chung component này vì khung của
-// chúng giống hệt nhau — chỉ phần trên là khác: một bên nghe, một bên đọc.
+// Một câu trong phòng thi. Mọi Part dùng chung component này vì khung của
+// chúng giống hệt nhau — chỉ phần trên là khác: tranh, hình minh hoạ, đoạn văn.
 //
 // Khác hẳn màn Luyện nghe, và khác có chủ đích:
 //   - audio phát MỘT lần, không có thanh tua, không đổi tốc độ
@@ -10,18 +10,22 @@
 // Ba thứ đó là cái làm nên phòng thi. Thiếu một là nó lại thành bài luyện.
 
 import { useEffect, useRef, useState } from 'react';
-import { choicesOf } from '@/features/listening/rules';
+import { Button } from '@/shared/ui/atoms/Button';
+import { partTitle } from './rules';
 
-export function ExamQuestion({ question, picked, onPick, firstListen = true }) {
-  const letters = question.options
-    ? Object.keys(question.options)
-    : choicesOf({ part: question.part });
-
+export function ExamQuestion({ question, picked, onPick }) {
   return (
     <div className="exam-q">
-      {question.audio && <PlayOnce src={question.audio} firstListen={firstListen} />}
+      <span className="eyebrow">
+        Câu {question.no} · {partTitle(question.part)}
+      </span>
 
       {question.passage && <Passage passage={question.passage} />}
+
+      {question.graphic && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img className="exam-graphic" src={question.graphic} alt="Hình minh hoạ của bài nghe" />
+      )}
 
       {question.image && (
         // eslint-disable-next-line @next/next/no-img-element
@@ -31,7 +35,7 @@ export function ExamQuestion({ question, picked, onPick, firstListen = true }) {
       {question.stem && <p className="exam-stem">{question.stem}</p>}
 
       <div className="exam-options">
-        {letters.map((letter) => (
+        {question.choices.map((letter) => (
           <button
             key={letter}
             type="button"
@@ -40,8 +44,8 @@ export function ExamQuestion({ question, picked, onPick, firstListen = true }) {
             onClick={() => onPick(letter)}
           >
             <span className="exam-option-letter">{letter}</span>
-            {/* Part 1 và Part 2 KHÔNG in lời thoại ra giấy — thí sinh chỉ được
-                nghe. In ra là biến bài nghe thành bài đọc. */}
+            {/* Part 1 và Part 2 KHÔNG in lời ra đề — thí sinh chỉ được nghe.
+                In ra là biến bài nghe thành bài đọc. */}
             {question.options && <span>{question.options[letter]}</span>}
           </button>
         ))}
@@ -51,59 +55,54 @@ export function ExamQuestion({ question, picked, onPick, firstListen = true }) {
 }
 
 /**
- * Phát đúng một lần khi câu hiện ra, rồi thôi.
+ * Băng của phần Listening: phát đúng một đoạn, một lần, rồi báo `onEnded`.
  *
- * `key` theo id câu ở bên gọi, nên đổi câu là component này dựng lại từ đầu và
- * tự phát. Không `controls`, không `loop`: trong phòng thi không có nút tua.
+ * Bên gọi đặt `key` theo đoạn băng, nên sang đoạn mới là component dựng lại
+ * và tự phát. Không `controls`, không `loop`: phòng thi không có nút tua.
  *
- * Trình duyệt chặn tự phát khi trang chưa được bấm vào. Ở đây không sao: muốn
- * vào được màn này thì phải bấm "Vào thi" ở màn chọn đề, và chính cú bấm đó
- * đã mở khoá âm thanh cho cả lượt thi.
+ * Trình duyệt chặn tự phát khi trang chưa được bấm vào. Thường không xảy ra —
+ * muốn vào màn này phải bấm "Thi" — nhưng nếu vẫn bị chặn thì hiện MỘT nút
+ * "Bắt đầu phát". Đó là nút bắt đầu, không phải nút nghe lại: phát xong rồi
+ * thì nút không bao giờ hiện lại.
  */
-function PlayOnce({ src, firstListen }) {
+export function Tape({ src, onEnded }) {
   const ref = useRef(null);
-
-  // CHỐT lúc dựng. Component này mang `key` là id câu nên mỗi lần tới một câu
-  // là một lần dựng mới — đúng bằng "lần đến".
-  //
-  // Phải chốt vì `firstListen` LẬT ngay trong cùng một câu: lúc vừa tới là
-  // true nên audio chạy, rồi hiệu ứng cập nhật "câu xa nhất" xong thì thành
-  // false. Đọc thẳng nó thì dòng chữ đổi sang "đã nghe rồi" trong khi loa vẫn
-  // đang phát — người thi tưởng máy hỏng.
-  const [shouldPlay] = useState(firstListen);
+  const [blocked, setBlocked] = useState(false);
 
   useEffect(() => {
-    const el = ref.current;
-    // Quay lại câu đã nghe: xem lại tranh và đổi đáp án thì được, nghe lại thì
-    // không. Băng trong phòng thi không chạy ngược.
-    if (!el || !shouldPlay) return;
-    el.currentTime = 0;
-    el.play().catch(() => {
-      // Vẫn bị chặn thì im lặng bỏ qua. KHÔNG bày nút phát lại ra: trong phòng
-      // thi mỗi câu chỉ được nghe một lần, có nút là hỏng luật.
-    });
-  }, [src, shouldPlay]);
+    ref.current?.play().catch(() => setBlocked(true));
+  }, [src]);
+
+  const start = () => {
+    setBlocked(false);
+    ref.current?.play().catch(() => setBlocked(true));
+  };
 
   return (
     <div className="exam-audio">
-      <audio ref={ref} src={src} preload="auto" />
-      <span className="caption">
-        {shouldPlay ? 'Đang phát — mỗi câu chỉ nghe một lần' : 'Câu này đã nghe rồi, không phát lại'}
-      </span>
+      <audio ref={ref} src={src} preload="auto" onEnded={onEnded} />
+      {blocked ? (
+        <Button size="sm" variant="primary" onClick={start}>
+          Bắt đầu phát
+        </Button>
+      ) : (
+        <span className="caption">Băng đang chạy — chỉ nghe một lần, không tua</span>
+      )}
     </div>
   );
 }
 
-/** Đoạn văn của Part 6 và 7. Có khi là chữ, có khi là ảnh chụp từ đề. */
+/** Đoạn văn Part 6-7: ảnh cắt từ đề. Bộ nhiều đoạn có nhiều ảnh. */
 function Passage({ passage }) {
+  const images = passage.images || (passage.image ? [passage.image] : []);
   return (
     <div className="exam-passage">
       {passage.kind && <span className="eyebrow">{passage.kind}</span>}
       {passage.text && <p>{passage.text}</p>}
-      {passage.image && (
+      {images.map((src) => (
         // eslint-disable-next-line @next/next/no-img-element
-        <img src={passage.image} alt="" />
-      )}
+        <img key={src} src={src} alt="" />
+      ))}
     </div>
   );
 }

@@ -48,7 +48,7 @@ export function HomeScreen() {
 
       <AccountBar trailing={<LeaderboardButton />} />
 
-      <ExamRoomButton days={days} loading={loading} />
+      <ExamRoomButton />
 
       {loading ? (
         <LoadingBlock label="Đang tải danh sách buổi học">

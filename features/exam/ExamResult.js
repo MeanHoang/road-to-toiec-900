@@ -6,14 +6,13 @@
 // riêng cho Nghe và Đọc, và biết mình yếu phần nào mới sửa được.
 //
 // Hiện SỐ CÂU ĐÚNG, không quy ra thang 10-990. ETS không công khai bảng quy
-// đổi câu đúng sang điểm, nên mọi con số kiểu "bạn được 720" đều là bịa. Và
-// bài ở đây ngắn hơn đề thật nhiều, quy đổi từ 61 câu ra điểm thi thì con số
-// đó không nói lên điều gì.
+// đổi câu đúng sang điểm, nên mọi con số kiểu "bạn được 720" đều là bịa.
 
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
 import { Progress } from '@/shared/ui/atoms/Progress';
+import { partTitle } from './rules';
 
 /** Cắt mảng đáp án theo ranh giới từng chặng đã lưu trong lượt thi. */
 function bySection(attempt) {
@@ -32,8 +31,22 @@ function bySection(attempt) {
   return out;
 }
 
+/** Điểm theo từng Part, theo thứ tự đề. Lượt thi cũ không ghi Part thì bỏ qua. */
+function byPart(attempt) {
+  const out = new Map();
+  for (const a of attempt.answers) {
+    if (!a.part) continue;
+    const row = out.get(a.part) || { part: a.part, count: 0, correct: 0 };
+    row.count++;
+    if (a.picked === a.answer) row.correct++;
+    out.set(a.part, row);
+  }
+  return [...out.values()].sort((x, y) => x.part - y.part);
+}
+
 export function ExamResult({ attempt, onAgain, onBack }) {
   const sections = bySection(attempt);
+  const parts = byPart(attempt);
   const correct = attempt.answers.filter((a) => a.picked === a.answer).length;
   const blank = attempt.answers.filter((a) => !a.picked).length;
 
@@ -76,6 +89,24 @@ export function ExamResult({ attempt, onAgain, onBack }) {
         </Card>
       )}
 
+      {/* Theo Part: biết mình yếu Part nào mới biết luyện riêng Part đó. */}
+      {parts.length > 1 && (
+        <Card>
+          <span className="eyebrow">Theo Part</span>
+          <div className="exam-sections">
+            {parts.map((p) => (
+              <div key={p.part} className="exam-section-score">
+                <b>{partTitle(p.part)}</b>
+                <span className="exam-section-num">
+                  {p.correct}/{p.count}
+                </span>
+                <Progress percent={(p.correct / p.count) * 100} size="sm" />
+              </div>
+            ))}
+          </div>
+        </Card>
+      )}
+
       <Card>
         <span className="eyebrow">Từng câu</span>
         {sections.map((s) => (
@@ -85,7 +116,7 @@ export function ExamResult({ attempt, onAgain, onBack }) {
               const ok = a.picked === a.answer;
               return (
                 <div key={a.id} className="exam-review-row">
-                  <span className="exam-review-no">{s.from + i + 1}</span>
+                  <span className="exam-review-no">{a.no ?? s.from + i + 1}</span>
                   <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'đúng' : 'sai'}</Badge>
                   <span className="caption">
                     Chọn {a.picked || '—'} · Đáp án {a.answer}

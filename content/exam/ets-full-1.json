@@ -1,0 +1,4717 @@
+{
+  "collection": "exam",
+  "form": "ets-full-1",
+  "no": 1,
+  "title": "Đề số 1",
+  "source": "ETS — TOEIC Listening and Reading: A Complete Practice Test (© ETS 2017)",
+  "note": "Câu hỏi, tranh, đáp án và lời thoại lấy nguyên từ đề ETS. Audio phần Nghe do máy đọc lại từ script của đề (giọng macOS), không phải băng gốc. Chỉ dùng để tự ôn.",
+  "schemaVersion": 2,
+  "sets": [
+    {
+      "id": "ets-full-1-p1",
+      "part": 1,
+      "questions": [
+        {
+          "id": "ets-full-1-q1",
+          "no": 1,
+          "part": 1,
+          "answer": "D",
+          "image": "/assets/exam/ets-full-1/images/p1-q1.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q1.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 1.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. He’s writing a letter.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. He’s reading a book.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. He’s serving some food.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "D. He’s holding a piece of paper.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 16.7
+        },
+        {
+          "id": "ets-full-1-q2",
+          "no": 2,
+          "part": 1,
+          "answer": "B",
+          "image": "/assets/exam/ets-full-1/images/p1-q2.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q2.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 2.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. A woman is arranging the shelves.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. A woman is standing at the board.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. A woman is watering a plant.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "D. A woman is washing a window.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19.4
+        },
+        {
+          "id": "ets-full-1-q3",
+          "no": 3,
+          "part": 1,
+          "answer": "C",
+          "image": "/assets/exam/ets-full-1/images/p1-q3.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q3.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 3.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. She’s tidying her room.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. She’s brushing her teeth.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. She’s sweeping the deck.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "D. She’s scrubbing some pots.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 15.9
+        },
+        {
+          "id": "ets-full-1-q4",
+          "no": 4,
+          "part": 1,
+          "answer": "A",
+          "image": "/assets/exam/ets-full-1/images/p1-q4.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q4.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 4.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. They’re resting in a waiting area.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. They’re boarding an airplane.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. They’re waiting in line.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "D. They’re packing a suitcase.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 16.7
+        },
+        {
+          "id": "ets-full-1-q5",
+          "no": 5,
+          "part": 1,
+          "answer": "A",
+          "image": "/assets/exam/ets-full-1/images/p1-q5.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q5.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 5.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. A painting is hanging on the wall.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. Some people are eating a meal.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. The table is being cleared.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "D. A lamp is being turned off.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19.1
+        },
+        {
+          "id": "ets-full-1-q6",
+          "no": 6,
+          "part": 1,
+          "answer": "B",
+          "image": "/assets/exam/ets-full-1/images/p1-q6.jpg",
+          "audio": "/assets/exam/ets-full-1/audio/q6.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 6.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. They’re delivering a presentation.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. They’re moving a piece of furniture.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. They’re adjusting a pull-down screen.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "D. They’re connecting a computer cable.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.5
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p2",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q7",
+          "no": 7,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q7.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 7.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Where has Ms. Garcia gone?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. At three o’clock.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. To see Mr. Jones.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. No, not yet.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 15.1
+        },
+        {
+          "id": "ets-full-1-q8",
+          "no": 8,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q8.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 8.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "When will the building plans be finished?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. From the architect.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. Yes, I plan to.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. By Thursday, I hope.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 16.3
+        },
+        {
+          "id": "ets-full-1-q9",
+          "no": 9,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q9.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 9.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "Would you like to go to the beach today?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. No, it’s too cold for me.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. Better than the last ones.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. Yes, she did, didn’t she?",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.9
+        },
+        {
+          "id": "ets-full-1-q10",
+          "no": 10,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q10.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 10.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "Can you help me get to the expressway?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. It’s a very generous offer.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. Cream and sugar?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. Just follow these signs.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17
+        },
+        {
+          "id": "ets-full-1-q11",
+          "no": 11,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q11.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 11.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "Who will meet me at the airport?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. Mr. Chang, our sales manager.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. Yes, between eleven and twelve.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. There’s a good one nearby.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.9
+        },
+        {
+          "id": "ets-full-1-q12",
+          "no": 12,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q12.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 12.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "Where are you going on vacation?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. Have a great trip.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. For two weeks, at least.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. I’m just staying here.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 16.6
+        },
+        {
+          "id": "ets-full-1-q13",
+          "no": 13,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q13.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 13.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Were you surprised when you heard about Joseph’s promotion?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. It’s the wrong size.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. No, I expected it.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. On Friday, last week.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.5
+        },
+        {
+          "id": "ets-full-1-q14",
+          "no": 14,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q14.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 14.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "Don’t you need a ticket for the show?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. I bought ours online.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. Yes, it might snow.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. We took the train.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17
+        },
+        {
+          "id": "ets-full-1-q15",
+          "no": 15,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q15.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 15.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "Why don’t we get a taxi to the hotel?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. I’ll call for one on my phone.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. No, they don’t, often.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. Thanks, I’ve got some.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.6
+        },
+        {
+          "id": "ets-full-1-q16",
+          "no": 16,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q16.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 16.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "I’ll be sharing this office, won’t I?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. Their main office is in Hong Kong.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. I’ve already paid my share.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. Yes, that’s your desk, by the window.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19.5
+        },
+        {
+          "id": "ets-full-1-q17",
+          "no": 17,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q17.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 17.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Our heating system is getting old.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. Just two hours ago.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. It really needs to be replaced.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. Mr. Lee’s older sister.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.2
+        },
+        {
+          "id": "ets-full-1-q18",
+          "no": 18,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q18.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 18.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "What’s the price of this book?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. It should be on the back.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. Yes, with brown rice, please.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. From Northern Mexico.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.1
+        },
+        {
+          "id": "ets-full-1-q19",
+          "no": 19,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q19.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 19.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "Should I return Mr. Sadek’s call, or will he contact me?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. Yes, a round-trip ticket.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. It’s down the hall.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. He said he’d phone again later.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19
+        },
+        {
+          "id": "ets-full-1-q20",
+          "no": 20,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q20.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 20.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "Do you know who’ll be taking over after Claudia retires?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. I’m not tired at all.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. Oh, is she planning to?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. Over in her office.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.6
+        },
+        {
+          "id": "ets-full-1-q21",
+          "no": 21,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q21.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 21.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Could you tell me how often the bus leaves for Madrid?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. There’s a schedule on the wall there.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. Two pieces of luggage per person.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. No, she’s the trainer.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 20.2
+        },
+        {
+          "id": "ets-full-1-q22",
+          "no": 22,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q22.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 22.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "What do you like to do in your spare time?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. I suggested that.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. It depends on the weather.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. At about four thirty.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.8
+        },
+        {
+          "id": "ets-full-1-q23",
+          "no": 23,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q23.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 23.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Tomorrow is the deadline for this project, isn’t it?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. Ms. Doyle wants it done by noon.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. No, the line’s over there.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. Sorry, I’m not wearing a watch.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19.8
+        },
+        {
+          "id": "ets-full-1-q24",
+          "no": 24,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q24.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 24.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "Has anyone seen the signed purchase orders?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. It says “no parking.”",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. I’ll have the salad, please.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. I haven’t seen them.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 17.1
+        },
+        {
+          "id": "ets-full-1-q25",
+          "no": 25,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q25.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 25.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "Should I work on the report at home tonight, or can I finish it tomorrow?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. I think I’ll leave now, too.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. Whichever you prefer.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. Yes, Alex reported it.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 20.2
+        },
+        {
+          "id": "ets-full-1-q26",
+          "no": 26,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q26.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 26.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "Why did you order more office supplies?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "A. I put them in the back room.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "B. It’s always good to have extra.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "C. No, I’m not surprised.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.5
+        },
+        {
+          "id": "ets-full-1-q27",
+          "no": 27,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q27.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 27.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "Who will be presenting our idea to the board of directors?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "A. The sale ends on Friday.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "B. The present is for Miguel.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "C. I believe it’ll be Rhonda.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 19.3
+        },
+        {
+          "id": "ets-full-1-q28",
+          "no": 28,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q28.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 28.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "This room seems really warm.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. No, it was seamless.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. It does look real.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. I’ll turn on a fan.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 16.3
+        },
+        {
+          "id": "ets-full-1-q29",
+          "no": 29,
+          "part": 2,
+          "answer": "B",
+          "audio": "/assets/exam/ets-full-1/audio/q29.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 29.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Au",
+              "text": "What food are you taking to the company picnic?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. In the park, nearby.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. They’re having it catered this year.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. As soon as I finish lunch.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.9
+        },
+        {
+          "id": "ets-full-1-q30",
+          "no": 30,
+          "part": 2,
+          "answer": "A",
+          "audio": "/assets/exam/ets-full-1/audio/q30.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 30.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "The receptionist usually takes a break now, doesn’t she?",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "A. She’s not here today.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "B. No, she broke it yesterday.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Am",
+              "text": "C. The reception starts in five minutes.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.7
+        },
+        {
+          "id": "ets-full-1-q31",
+          "no": 31,
+          "part": 2,
+          "answer": "C",
+          "audio": "/assets/exam/ets-full-1/audio/q31.mp3",
+          "script": [
+            {
+              "voice": "N",
+              "text": "Number 31.",
+              "pause": 0
+            },
+            {
+              "voice": "W-Br",
+              "text": "When can I expect your final decision?",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "A. No, it’s leather, not vinyl.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "B. An increased project budget.",
+              "pause": 0
+            },
+            {
+              "voice": "M-Cn",
+              "text": "C. I’ll have to speak to my boss.",
+              "pause": 5
+            }
+          ],
+          "audioSeconds": 18.4
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p3-32",
+      "part": 3,
+      "title": "Questions 32 through 34 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-32.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 32 through 34 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Josie Cooper’s going to be interviewed for the evening news!",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "I know! An engineer from our company on TV! Do you know when it is?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "They’re interviewing her on Tuesday, but it won’t be broadcast until Thursday.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Thanks - I’ll have to remember to watch it when I get home that night.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 32. What are the speakers discussing?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 33. When will the broadcast take place?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 34. What does the man plan to do?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q32",
+          "no": 32,
+          "part": 3,
+          "answer": "C",
+          "stem": "What are the speakers discussing?",
+          "options": {
+            "A": "A contest",
+            "B": "An advertisement",
+            "C": "An interview",
+            "D": "A concert"
+          }
+        },
+        {
+          "id": "ets-full-1-q33",
+          "no": 33,
+          "part": 3,
+          "answer": "B",
+          "stem": "When will the broadcast take place?",
+          "options": {
+            "A": "On Tuesday",
+            "B": "On Thursday",
+            "C": "On Friday",
+            "D": "On Sunday"
+          }
+        },
+        {
+          "id": "ets-full-1-q34",
+          "no": 34,
+          "part": 3,
+          "answer": "D",
+          "stem": "What does the man plan to do?",
+          "options": {
+            "A": "Buy a television set",
+            "B": "Visit a friend",
+            "C": "Schedule an interview",
+            "D": "Watch a program"
+          }
+        }
+      ],
+      "audioSeconds": 59.1
+    },
+    {
+      "id": "ets-full-1-p3-35",
+      "part": 3,
+      "title": "Questions 35 through 37 refer to the following conversation with three speakers.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-35.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 35 through 37 refer to the following conversation with three speakers.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "How was the international furniture exhibition?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Really crowded—but worth the trip. Oh! I found an Indonesian company that specializes in hotel furniture—and they have great prices! I brought their catalog back to show you both.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Well, if their prices are so good, we should get some new armchairs for the lobby. It’s been at least five years since we got the ones we have now.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "True. I’m actually amazed they’ve lasted this long!",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Yes, five years is a long time when you have as many guests as we do.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 35. Where do the speakers probably work?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 36. What is an advantage of the Indonesian company?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 37. What does the man find surprising?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q35",
+          "no": 35,
+          "part": 3,
+          "answer": "B",
+          "stem": "Where do the speakers probably work?",
+          "options": {
+            "A": "At a factory",
+            "B": "At a hotel",
+            "C": "At a travel agency",
+            "D": "At a furniture store"
+          }
+        },
+        {
+          "id": "ets-full-1-q36",
+          "no": 36,
+          "part": 3,
+          "answer": "A",
+          "stem": "What is an advantage of the Indonesian company?",
+          "options": {
+            "A": "Its reasonable prices",
+            "B": "Its friendly staff",
+            "C": "Its delivery time",
+            "D": "Its product quality"
+          }
+        },
+        {
+          "id": "ets-full-1-q37",
+          "no": 37,
+          "part": 3,
+          "answer": "B",
+          "stem": "What does the man find surprising?",
+          "options": {
+            "A": "That a business is so successful",
+            "B": "That some furniture has lasted so long",
+            "C": "That a trip was so inexpensive",
+            "D": "That an exhibition was so crowded"
+          }
+        }
+      ],
+      "audioSeconds": 75.4
+    },
+    {
+      "id": "ets-full-1-p3-38",
+      "part": 3,
+      "title": "Questions 38 through 40 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-38.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 38 through 40 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "David, I heard that the marketing department is looking for a new manager. Have you thought about applying?",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "I have. But I’m a bit worried that I may not be qualified. I get on well with people I work with, but I don’t have any real managerial experience.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Well, why don’t you ask your supervisor about it? He could probably give you some advice.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "That’s an idea. I’ll talk to him when he gets back from lunch. I guess I’d need to make a decision quickly. The applications are due on Friday, aren’t they?",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 38. What are the speakers discussing?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 39. What is the man concerned about?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 40. What does the woman suggest?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q38",
+          "no": 38,
+          "part": 3,
+          "answer": "D",
+          "stem": "What are the speakers discussing?",
+          "options": {
+            "A": "A project plan",
+            "B": "A business lunch",
+            "C": "A staff meeting",
+            "D": "A job opening"
+          }
+        },
+        {
+          "id": "ets-full-1-q39",
+          "no": 39,
+          "part": 3,
+          "answer": "B",
+          "stem": "What is the man concerned about?",
+          "options": {
+            "A": "His work schedule",
+            "B": "His qualifications",
+            "C": "A marketing presentation",
+            "D": "A customer complaint"
+          }
+        },
+        {
+          "id": "ets-full-1-q40",
+          "no": 40,
+          "part": 3,
+          "answer": "A",
+          "stem": "What does the woman suggest?",
+          "options": {
+            "A": "Speaking with a supervisor",
+            "B": "Calling a client",
+            "C": "Making a reservation",
+            "D": "Reviewing an application"
+          }
+        }
+      ],
+      "audioSeconds": 73.7
+    },
+    {
+      "id": "ets-full-1-p3-41",
+      "part": 3,
+      "title": "Questions 41 through 43 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-41.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 41 through 43 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Denise? We have a problem. It looks like we’re very nearly out of paper for the printer, and I have a lot of materials to print for this sales meeting we’re hosting tomorrow.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "The regional sales meeting? Don’t worry. We’re getting several more boxes delivered this morning.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Really?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Yes--I noticed we were running low on paper a few days ago and called the office supply warehouse.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "(relieved) Oh, that’s perfect! I can print the agenda and materials this afternoon and have everything ready by end of day today!",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 41. What does the man say will happen tomorrow?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 42. What will the speakers receive this morning?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 43. What does the man mean when he says, “Oh, that’s perfect!”?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q41",
+          "no": 41,
+          "part": 3,
+          "answer": "D",
+          "stem": "What does the man say will happen tomorrow?",
+          "options": {
+            "A": "Some invitations will be printed.",
+            "B": "Some supplies will be ordered.",
+            "C": "A regional manager will arrive.",
+            "D": "A sales meeting will be held."
+          }
+        },
+        {
+          "id": "ets-full-1-q42",
+          "no": 42,
+          "part": 3,
+          "answer": "C",
+          "stem": "What will the speakers receive this morning?",
+          "options": {
+            "A": "An office machine",
+            "B": "A meeting agenda",
+            "C": "Some printer paper",
+            "D": "Some file folders"
+          }
+        },
+        {
+          "id": "ets-full-1-q43",
+          "no": 43,
+          "part": 3,
+          "answer": "A",
+          "stem": "What does the man mean when he says, “Oh, that’s perfect”?",
+          "options": {
+            "A": "He will have what he needs.",
+            "B": "He agrees with a suggestion.",
+            "C": "He has done his job correctly.",
+            "D": "He has made the right choice."
+          }
+        }
+      ],
+      "audioSeconds": 75.5
+    },
+    {
+      "id": "ets-full-1-p3-44",
+      "part": 3,
+      "title": "Questions 44 through 46 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-44.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 44 through 46 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Yes, I’d like to rent five long, rectangular tables. And fifty chairs. It’s for a dinner we’ll be holding next upspeak. How much would that cost, approximately?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "I’m sorry, but we don’t have any long tables available for next week. They’ve all been rented out. But we have square and round tables.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "No, we definitely need long, rectangular tables. I guess I’ll have to try somewhere else.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Well, I could check with our Hamilton branch. Give me five minutes, OK?",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 44. What is the conversation mainly about?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 45. What is the problem?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 46. What will the woman most likely do next?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q44",
+          "no": 44,
+          "part": 3,
+          "answer": "C",
+          "stem": "What is the conversation mainly about?",
+          "options": {
+            "A": "Choosing a menu",
+            "B": "Ordering food",
+            "C": "Renting furniture",
+            "D": "Setting up a room"
+          }
+        },
+        {
+          "id": "ets-full-1-q45",
+          "no": 45,
+          "part": 3,
+          "answer": "A",
+          "stem": "What is the problem?",
+          "options": {
+            "A": "Some items are unavailable.",
+            "B": "A business is about to close.",
+            "C": "An employee is difficult to reach.",
+            "D": "Some charges are incorrect."
+          }
+        },
+        {
+          "id": "ets-full-1-q46",
+          "no": 46,
+          "part": 3,
+          "answer": "B",
+          "stem": "What will the woman most likely do next?",
+          "options": {
+            "A": "Suggest a room layout",
+            "B": "Make a phone call",
+            "C": "Revise an order",
+            "D": "Leave for the day"
+          }
+        }
+      ],
+      "audioSeconds": 71.9
+    },
+    {
+      "id": "ets-full-1-p3-47",
+      "part": 3,
+      "title": "Questions 47 through 49 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-47.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 47 through 49 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Welcome to Clarke National Bank. How can I help you today?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Yes, I saw your advertisement in the window. That anyone who opens a bank account here will receive a bonus for signing up? So I’d like to open up an account.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Excellent! I’ll find an account representative to help you fill out the paperwork. You can just take a seat right here in the FOY-er, and someone will be with you shortly.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Thank you.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "You will need an official form of photo identification—a driver’s license or passport, for example?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "I have one.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 47. What are the speakers discussing?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 48. What does the man suggest the woman should do?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 49. What does the man tell the woman she will need?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q47",
+          "no": 47,
+          "part": 3,
+          "answer": "C",
+          "stem": "What are the speakers discussing?",
+          "options": {
+            "A": "Signing up for some training",
+            "B": "Entering a competition",
+            "C": "Opening a bank account",
+            "D": "Putting an advertisement in the newspaper"
+          }
+        },
+        {
+          "id": "ets-full-1-q48",
+          "no": 48,
+          "part": 3,
+          "answer": "B",
+          "stem": "What does the man suggest the woman should do?",
+          "options": {
+            "A": "Go to a nearby office",
+            "B": "Wait in a reception area",
+            "C": "Show a sample of some work",
+            "D": "Provide content to be published"
+          }
+        },
+        {
+          "id": "ets-full-1-q49",
+          "no": 49,
+          "part": 3,
+          "answer": "D",
+          "stem": "What does the man tell the woman she will need?",
+          "options": {
+            "A": "A credit card",
+            "B": "A résumé",
+            "C": "A postal address",
+            "D": "A form of identification"
+          }
+        }
+      ],
+      "audioSeconds": 77.7
+    },
+    {
+      "id": "ets-full-1-p3-50",
+      "part": 3,
+      "title": "Questions 50 through 52 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-50.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 50 through 52 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Mr. Filbert, do you know what time the fund-raising committee is meeting? I thought it was starting now, but there’s no one in the conference room upstairs.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Oh, the meeting’s been postponed until three because Wrigley Hall hasn’t been cleaned since last night’s dinner.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Wrigley Hall? We usually meet in the conference room on the second floor.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "No, we needed a bigger room, so we’re meeting in Wrigley Hall. The usual room won’t seat all of the committee members.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 50. What are the speakers discussing?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 51. Why was the event postponed?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 52. Why does the woman say, “We usually meet in the conference room on the second floor”?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q50",
+          "no": 50,
+          "part": 3,
+          "answer": "D",
+          "stem": "What are the speakers discussing?",
+          "options": {
+            "A": "A fund-raising dinner",
+            "B": "A medical seminar",
+            "C": "A sales conference",
+            "D": "A committee meeting"
+          }
+        },
+        {
+          "id": "ets-full-1-q51",
+          "no": 51,
+          "part": 3,
+          "answer": "B",
+          "stem": "Why was the event postponed?",
+          "options": {
+            "A": "Some people could not attend.",
+            "B": "The room was not ready.",
+            "C": "Some equipment was broken.",
+            "D": "The presenters were delayed."
+          }
+        },
+        {
+          "id": "ets-full-1-q52",
+          "no": 52,
+          "part": 3,
+          "answer": "D",
+          "stem": "Why does the woman say, “We usually meet in the conference room on the second floor”?",
+          "options": {
+            "A": "She is inviting the man to join an event.",
+            "B": "She is explaining that a room is occupied.",
+            "C": "She is giving the man directions.",
+            "D": "She is checking that the man has the correct information."
+          }
+        }
+      ],
+      "audioSeconds": 71.9
+    },
+    {
+      "id": "ets-full-1-p3-53",
+      "part": 3,
+      "title": "Questions 53 through 55 refer to the following conversation with three speakers.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-53.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 53 through 55 refer to the following conversation with three speakers.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Haven’t the workers finished installing the new security system yet?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "I don’t think so. Why?",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "I was hoping we could reopen the library’s main entrance.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Lisa? Do you have an update on the progress?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "No, but I can ask one of the technicians if you like.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Thanks, Lisa. So Bob, have there been complaints about the noise they’re making?",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "No, it’s just that the side entrance is pretty small. It gets crowded there at peak hours.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 53. What work is being done at the library?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 54. What does Lisa offer to do?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 55. According to the man, what problem has the work created?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q53",
+          "no": 53,
+          "part": 3,
+          "answer": "D",
+          "stem": "What work is being done at the library?",
+          "options": {
+            "A": "An entry door is being enlarged.",
+            "B": "New bookshelves are being built.",
+            "C": "Some computers are being repaired.",
+            "D": "A security system is being installed."
+          }
+        },
+        {
+          "id": "ets-full-1-q54",
+          "no": 54,
+          "part": 3,
+          "answer": "A",
+          "stem": "What does Lisa offer to do?",
+          "options": {
+            "A": "Speak with a technician",
+            "B": "Reorganize the reading room",
+            "C": "Ask library patrons to move",
+            "D": "Reprint a schedule"
+          }
+        },
+        {
+          "id": "ets-full-1-q55",
+          "no": 55,
+          "part": 3,
+          "answer": "C",
+          "stem": "According to the man, what problem has the work created?",
+          "options": {
+            "A": "The noise is disturbing people.",
+            "B": "Dust is getting on the books.",
+            "C": "Entering the library is more difficult.",
+            "D": "The library is open for fewer hours."
+          }
+        }
+      ],
+      "audioSeconds": 72.6
+    },
+    {
+      "id": "ets-full-1-p3-56",
+      "part": 3,
+      "title": "Questions 56 through 58 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-56.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 56 through 58 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Hello, Mr. HWAY, it’s Sarah Wylie. How’s the conference going?",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Fine, thanks, Sarah. What’s up? Is there a problem?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "I wanted to let you know that the client dinner we scheduled for tomorrow has been postponed. With Mr. Wang?",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Yes, Resolve Electronics.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Yes. He’s had to go to Tokyo at short notice. So I’ve postponed the dinner until next Tuesday.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "OK. Well actually, that works out well. There’s a seminar I’d like to attend at the conference early tomorrow. Do you think you could arrange a different flight home for me? Tomorrow evening some time?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Absolutely. I’ll contact the airline now and call you back.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Thanks, Sarah.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 56. Why did the woman call Mr. Hui?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 57. What will happen next Tuesday?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 58. What does Mr. Hui ask the woman to do?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q56",
+          "no": 56,
+          "part": 3,
+          "answer": "A",
+          "stem": "Why did the woman call Mr. Hui?",
+          "options": {
+            "A": "To inform him of a schedule change",
+            "B": "To confirm his conference registration",
+            "C": "To ask him for a customer’s name",
+            "D": "To tell him she will be out of the office"
+          }
+        },
+        {
+          "id": "ets-full-1-q57",
+          "no": 57,
+          "part": 3,
+          "answer": "D",
+          "stem": "What will happen next Tuesday?",
+          "options": {
+            "A": "A conference seminar will be held.",
+            "B": "An airline will discount ticket prices.",
+            "C": "Resolve Electronics will launch a product.",
+            "D": "Mr. Hui will have dinner with a client."
+          }
+        },
+        {
+          "id": "ets-full-1-q58",
+          "no": 58,
+          "part": 3,
+          "answer": "B",
+          "stem": "What does Mr. Hui ask the woman to do?",
+          "options": {
+            "A": "E-mail the notes for a speech",
+            "B": "Arrange a different return flight",
+            "C": "Cancel a hotel reservation",
+            "D": "Find out when a visitor will arrive"
+          }
+        }
+      ],
+      "audioSeconds": 84.5
+    },
+    {
+      "id": "ets-full-1-p3-59",
+      "part": 3,
+      "title": "Questions 59 through 61 refer to the following conversation.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-59.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 59 through 61 refer to the following conversation.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Excuse me, Brett? Do you have a moment? I have a question about our electronic time sheets.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "That’s not a surprise.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "I spent some time with the online tutorial yesterday, and . . interrupted",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "A lot of new employees have trouble using the online time- reporting system. Did you get the general idea?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Yes, I just can’t work out how to submit the time sheet when I’m finished.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Oh, it’s a small button in the corner of the screen. It’s hard to find the first time you use it. Let me know if you can’t find it. I’ll be happy to stop by your desk if you need help.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 59. What are the speakers discussing?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 60. Who most likely is the woman?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 61. What does the man offer to do?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q59",
+          "no": 59,
+          "part": 3,
+          "answer": "C",
+          "stem": "What are the speakers discussing?",
+          "options": {
+            "A": "A work schedule",
+            "B": "A sales report",
+            "C": "A computer program",
+            "D": "A store display"
+          }
+        },
+        {
+          "id": "ets-full-1-q60",
+          "no": 60,
+          "part": 3,
+          "answer": "A",
+          "stem": "Who most likely is the woman?",
+          "options": {
+            "A": "A new employee",
+            "B": "A store manager",
+            "C": "A job candidate",
+            "D": "A company customer"
+          }
+        },
+        {
+          "id": "ets-full-1-q61",
+          "no": 61,
+          "part": 3,
+          "answer": "C",
+          "stem": "What does the man offer to do?",
+          "options": {
+            "A": "Submit a business report",
+            "B": "Reschedule an interview",
+            "C": "Provide technical assistance",
+            "D": "Help waiting customers"
+          }
+        }
+      ],
+      "audioSeconds": 80.2
+    },
+    {
+      "id": "ets-full-1-p3-62",
+      "part": 3,
+      "title": "Questions 62 through 64 refer to the following conversation and price list.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-62.mp3",
+      "graphic": "/assets/exam/ets-full-1/images/p3-62-graphic.png",
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 62 through 64 refer to the following conversation and price list.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Hello Tania. It’s time to select calendars for the coming year, so I’m going around to everyone in the division to get people’s preferences. There’s a good range to choose from.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Oh thanks, Dan! But I’m a bit busy right now. Could you check back with me after lunch? Talk to others in the department first? I’ll be free, then.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "This’ll only take a minute. Just take a quick look at this catalog. Do you like any of these?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Oh, I like this! Simple, no pictures, plenty of space. And it’s less than five dollars!",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 62. Where most likely are the speakers?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 63. What does the woman suggest the man do?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 64. Look at the graphic. What product does the woman like?",
+          "pause": 12
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q62",
+          "no": 62,
+          "part": 3,
+          "answer": "A",
+          "stem": "Where most likely are the speakers?",
+          "options": {
+            "A": "In an office",
+            "B": "In a stationery store",
+            "C": "At a printing shop",
+            "D": "At a photography studio"
+          }
+        },
+        {
+          "id": "ets-full-1-q63",
+          "no": 63,
+          "part": 3,
+          "answer": "B",
+          "stem": "What does the woman suggest the man do?",
+          "options": {
+            "A": "Show her his work",
+            "B": "Come back in the afternoon",
+            "C": "Review a design",
+            "D": "Provide a free sample"
+          }
+        },
+        {
+          "id": "ets-full-1-q64",
+          "no": 64,
+          "part": 3,
+          "answer": "D",
+          "stem": "Look at the graphic. What product does the woman like?",
+          "options": {
+            "A": "The daily planner",
+            "B": "The weekly planner",
+            "C": "The monthly desk pad",
+            "D": "The undated desk pad"
+          }
+        }
+      ],
+      "audioSeconds": 82
+    },
+    {
+      "id": "ets-full-1-p3-65",
+      "part": 3,
+      "title": "Questions 65 through 67 refer to the following conversation and schedule.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-65.mp3",
+      "graphic": "/assets/exam/ets-full-1/images/p3-65-graphic.png",
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 65 through 67 refer to the following conversation and schedule.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Zahra, can I meet with you about the arrangements for next year’s summer festival?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Sure, good idea, Sammy. We should look at lessons learned from this year, before we forget.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Yes. It was a great festival this year. And the music and dance brought in huge crowds. But then there were problems with getting enough food in.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "And the numbers are hard to predict.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "OK. Let me check your schedule.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Wednesday morning is probably fine, after I take the children to school.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "All right. And I can postpone my client call.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 65. What do the speakers plan to discuss?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 66. What problem is mentioned?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 67. Look at the graphic. At what time will the speakers probably meet on Wednesday?",
+          "pause": 12
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q65",
+          "no": 65,
+          "part": 3,
+          "answer": "D",
+          "stem": "What do the speakers plan to discuss?",
+          "options": {
+            "A": "A community garden",
+            "B": "A school program",
+            "C": "A meeting location",
+            "D": "An annual festival"
+          }
+        },
+        {
+          "id": "ets-full-1-q66",
+          "no": 66,
+          "part": 3,
+          "answer": "A",
+          "stem": "What problem is mentioned?",
+          "options": {
+            "A": "Food",
+            "B": "Weather",
+            "C": "Tickets",
+            "D": "Space"
+          }
+        },
+        {
+          "id": "ets-full-1-q67",
+          "no": 67,
+          "part": 3,
+          "answer": "B",
+          "stem": "Look at the graphic. At what time will the speakers probably meet on Wednesday?",
+          "options": {
+            "A": "From 8 a.m. to 9 a.m.",
+            "B": "From 9 a.m. to 10 a.m.",
+            "C": "From 10 a.m. to 11 a.m.",
+            "D": "From 11 a.m. to 12 noon"
+          }
+        }
+      ],
+      "audioSeconds": 82
+    },
+    {
+      "id": "ets-full-1-p3-68",
+      "part": 3,
+      "title": "Questions 68 through 70 refer to the following conversation and map.",
+      "audio": "/assets/exam/ets-full-1/audio/p3-68.mp3",
+      "graphic": "/assets/exam/ets-full-1/images/p3-68-graphic.png",
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 68 through 70 refer to the following conversation and map.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Hi. Do you sell cords that work with this computer? I remembered the power outlets here are different from in Australia, and I brought an adapter, but I left the cord behind!",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Hmm… sorry. That’s not a common brand here in the US. We could order one for you, though. It’d be here within two days.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Thanks, but I'm here on business and I need to recharge the battery today. Any place around here that might have one?",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Try Frick Electronics. It’s right across the street from the train station, and it should have a better selection for travelers. Just turn left when you get to Main Street and you’ll see it on the left.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 68. What is the man looking for?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 69. What does the woman offer to do?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 70. Look at the graphic. Which store does the woman direct the man to?",
+          "pause": 12
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q68",
+          "no": 68,
+          "part": 3,
+          "answer": "C",
+          "stem": "What is the man looking for?",
+          "options": {
+            "A": "A computer",
+            "B": "An adapter",
+            "C": "A power cord",
+            "D": "A battery"
+          }
+        },
+        {
+          "id": "ets-full-1-q69",
+          "no": 69,
+          "part": 3,
+          "answer": "B",
+          "stem": "What does the woman offer to do?",
+          "options": {
+            "A": "Discount a purchase",
+            "B": "Place an order",
+            "C": "Ship a package",
+            "D": "Find some information"
+          }
+        },
+        {
+          "id": "ets-full-1-q70",
+          "no": 70,
+          "part": 3,
+          "answer": "C",
+          "stem": "Look at the graphic. Which store does the woman direct the man to?",
+          "options": {
+            "A": "Store 1",
+            "B": "Store 2",
+            "C": "Store 3",
+            "D": "Store 4"
+          }
+        }
+      ],
+      "audioSeconds": 89.7
+    },
+    {
+      "id": "ets-full-1-p4-71",
+      "part": 4,
+      "title": "Questions 71 through 73 refer to the following recorded message.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-71.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 71 through 73 refer to the following recorded message.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Thank you for calling Stalks Florists. Our office is currently closed. Our regular business hours are from 9 A.M. to 5 P.M., Monday through Thursday, and on Saturday. For your convenience, we stay open until 8 P.M. on Fridays. If you leave a message, one of our florists will return your call as soon as possible. You can also order flowering plants and flower arrangements on the Internet at stalks.com. And remember, we offer free delivery in most areas of the country. We appreciate your patronage.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 71. What type of business has been reached?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 72. On which day does the business stay open late?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 73. Why does the message suggest visiting a website?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q71",
+          "no": 71,
+          "part": 4,
+          "answer": "B",
+          "stem": "What type of business has been reached?",
+          "options": {
+            "A": "A pizza restaurant",
+            "B": "A flower shop",
+            "C": "A bakery",
+            "D": "A clothing store"
+          }
+        },
+        {
+          "id": "ets-full-1-q72",
+          "no": 72,
+          "part": 4,
+          "answer": "C",
+          "stem": "On which day does the business stay open late?",
+          "options": {
+            "A": "On Monday",
+            "B": "On Thursday",
+            "C": "On Friday",
+            "D": "On Saturday"
+          }
+        },
+        {
+          "id": "ets-full-1-q73",
+          "no": 73,
+          "part": 4,
+          "answer": "A",
+          "stem": "Why does the message suggest visiting a website?",
+          "options": {
+            "A": "To place an order",
+            "B": "To make an inquiry",
+            "C": "To find business locations",
+            "D": "To view available products"
+          }
+        }
+      ],
+      "audioSeconds": 74.8
+    },
+    {
+      "id": "ets-full-1-p4-74",
+      "part": 4,
+      "title": "Questions 74 through 76 refer to the following announcement.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-74.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 74 through 76 refer to the following announcement.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Please join me in congratulating Dave Whitfield, our most experienced family lawyer here at Traversa Legal. Today marks the twenty-fifth anniversary of Dave’s joining the firm, and so we’re here to present him with the silver medal for long-term service. I first met Dave fifteen years ago when I became a partner here, and it’s always been a pleasure to work with him. I just want to say congratulations to Dave, and thank him for all of his many contributions, which have helped us become one of the most respected law firms in the area.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 74. What area does the speaker work in?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 75. Why is Dave being congratulated?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 76. How many years has the speaker known Dave?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q74",
+          "no": 74,
+          "part": 4,
+          "answer": "C",
+          "stem": "What area does the speaker work in?",
+          "options": {
+            "A": "Education",
+            "B": "Travel",
+            "C": "Law",
+            "D": "Finance"
+          }
+        },
+        {
+          "id": "ets-full-1-q75",
+          "no": 75,
+          "part": 4,
+          "answer": "D",
+          "stem": "Why is Dave being congratulated?",
+          "options": {
+            "A": "He has been promoted.",
+            "B": "He has signed a contract.",
+            "C": "He is starting a business.",
+            "D": "He is celebrating an anniversary."
+          }
+        },
+        {
+          "id": "ets-full-1-q76",
+          "no": 76,
+          "part": 4,
+          "answer": "B",
+          "stem": "How many years has the speaker known Dave?",
+          "options": {
+            "A": "5",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          }
+        }
+      ],
+      "audioSeconds": 74.1
+    },
+    {
+      "id": "ets-full-1-p4-77",
+      "part": 4,
+      "title": "Questions 77 through 79 refer to the following telephone message.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-77.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 77 through 79 refer to the following telephone message.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "This is a message for Tanisha Travis. This is Sonia Mendez calling from Dr. Leonardo’s office. I’m calling to confirm your appointment for Friday, May third. Since this’ll be your first time here, please bring your medical records from your previous doctor with you, or arrange to have them sent to our office before your appointment. Oh, and we’ve had to push back your appointment time by a few minutes—to 2:15. If you have any questions, please give us a call at 555-0137. We’ll see you on Friday at 2:15.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 77. What is the purpose of the message?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 78. What is Ms. Travis asked to do?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 79. What change does the speaker mention?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q77",
+          "no": 77,
+          "part": 4,
+          "answer": "A",
+          "stem": "What is the purpose of the message?",
+          "options": {
+            "A": "To confirm an appointment",
+            "B": "To schedule a meeting",
+            "C": "To request a phone number",
+            "D": "To give directions"
+          }
+        },
+        {
+          "id": "ets-full-1-q78",
+          "no": 78,
+          "part": 4,
+          "answer": "D",
+          "stem": "What is Ms. Travis asked to do?",
+          "options": {
+            "A": "Make an advance payment",
+            "B": "Give contact information",
+            "C": "Make a reservation",
+            "D": "Provide previous records"
+          }
+        },
+        {
+          "id": "ets-full-1-q79",
+          "no": 79,
+          "part": 4,
+          "answer": "B",
+          "stem": "What change does the speaker mention?",
+          "options": {
+            "A": "A parking area has opened.",
+            "B": "An arrival time has been adjusted.",
+            "C": "An office policy has been revised.",
+            "D": "A patient fee has increased."
+          }
+        }
+      ],
+      "audioSeconds": 73.8
+    },
+    {
+      "id": "ets-full-1-p4-80",
+      "part": 4,
+      "title": "Questions 80 through 82 refer to the following announcement.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-80.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 80 through 82 refer to the following announcement.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "Good morning, everyone. I hope you’re enjoying our fourth annual medical conference. Before we get started today, I have a couple of changes to tell you about. Dr. Martin Keller, who was to speak this morning at ten o’clock, has been delayed. His session will be moved to this afternoon at two o’clock. And another thing: the location for tonight’s banquet is the red ballroom, not the grand ballroom. And while we’re on the subject, it’s probably a good idea, from time to time, to check the bulletin board by the information desk in the lobby for further updates. No matter how organized we try to be!",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 80. What is the purpose of this announcement?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 81. When will Dr. Keller’s presentation take place?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 82. What does the speaker imply when he says, “No matter how organized we try to be”?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q80",
+          "no": 80,
+          "part": 4,
+          "answer": "B",
+          "stem": "What is the purpose of this announcement?",
+          "options": {
+            "A": "To describe a conference",
+            "B": "To report revisions to scheduled events",
+            "C": "To summarize a presentation",
+            "D": "To introduce a featured speaker"
+          }
+        },
+        {
+          "id": "ets-full-1-q81",
+          "no": 81,
+          "part": 4,
+          "answer": "C",
+          "stem": "When will Dr. Keller’s presentation take place?",
+          "options": {
+            "A": "At 10 a.m.",
+            "B": "At 11 a.m.",
+            "C": "At 2 p.m.",
+            "D": "At 4 p.m."
+          }
+        },
+        {
+          "id": "ets-full-1-q82",
+          "no": 82,
+          "part": 4,
+          "answer": "D",
+          "stem": "What does the speaker imply when he says, “No matter how organized we try to be”?",
+          "options": {
+            "A": "He is pleased with the presentations.",
+            "B": "He would like to reassure the organizers.",
+            "C": "He is unfamiliar with the building layout.",
+            "D": "He is frustrated by the number of late changes."
+          }
+        }
+      ],
+      "audioSeconds": 82.1
+    },
+    {
+      "id": "ets-full-1-p4-83",
+      "part": 4,
+      "title": "Questions 83 through 85 refer to the following announcement.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-83.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 83 through 85 refer to the following announcement.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Before we close tonight’s meeting, I’d like to announce that our photography club will be holding a very special event on Tuesday, April sixth, at seven P.M. We’ve invited Matthew Johnson, director of the photography division at Tempo Advertising Company, to be a guest speaker. He’ll discuss techniques for indoor photography, including the management of color and light. He’ll also show examples from his work. The presentation is expected to last about two hours and will cost ten dollars. And as always, guests are welcome to attend and are encouraged to become club members.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 83. What special event is being announced?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 84. What will attendees learn about?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 85. What are guests invited to do?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q83",
+          "no": 83,
+          "part": 4,
+          "answer": "A",
+          "stem": "What special event is being announced?",
+          "options": {
+            "A": "A presentation",
+            "B": "A tour",
+            "C": "A festival",
+            "D": "A conference"
+          }
+        },
+        {
+          "id": "ets-full-1-q84",
+          "no": 84,
+          "part": 4,
+          "answer": "D",
+          "stem": "What will attendees learn about?",
+          "options": {
+            "A": "Advertising techniques",
+            "B": "Public speaking",
+            "C": "Art history",
+            "D": "Indoor photography"
+          }
+        },
+        {
+          "id": "ets-full-1-q85",
+          "no": 85,
+          "part": 4,
+          "answer": "C",
+          "stem": "What are guests invited to do?",
+          "options": {
+            "A": "Make a donation",
+            "B": "Enjoy some snacks",
+            "C": "Join a club",
+            "D": "Submit feedback online"
+          }
+        }
+      ],
+      "audioSeconds": 74.7
+    },
+    {
+      "id": "ets-full-1-p4-86",
+      "part": 4,
+      "title": "Questions 86 through 88 refer to the following advertisement.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-86.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 86 through 88 refer to the following advertisement.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Is your construction company trying to expand? Do you find it hard to compete with other businesses because your equipment is old and inefficient? Then Millennium Tools has the products you’ve been looking for. We’ve designed a sleek, completely modern line of construction tools that will cut down the time of your project. Whether you specialize in residential or commercial buildings, our tools are designed to help you maximize your team’s efficiency. Don’t waste time with outdated equipment! Visit one of our retail outlets for a demonstration of the newest models available. Call 555-0173 for a list of locations and opening times. You’ll be glad you did.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 86. Who is the advertisement most likely for?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 87. What does the speaker say about his company’s products?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 88. How are listeners invited to respond to the advertisement?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q86",
+          "no": 86,
+          "part": 4,
+          "answer": "D",
+          "stem": "Who is the advertisement most likely for?",
+          "options": {
+            "A": "Automobile manufacturers",
+            "B": "Real estate agents",
+            "C": "Computer store managers",
+            "D": "Construction company owners"
+          }
+        },
+        {
+          "id": "ets-full-1-q87",
+          "no": 87,
+          "part": 4,
+          "answer": "A",
+          "stem": "What does the speaker say about his company’s products?",
+          "options": {
+            "A": "They are more efficient than older models.",
+            "B": "They are less expensive than a competitor’s.",
+            "C": "They are easy to maintain.",
+            "D": "They are available for only a short time."
+          }
+        },
+        {
+          "id": "ets-full-1-q88",
+          "no": 88,
+          "part": 4,
+          "answer": "B",
+          "stem": "How are listeners invited to respond to the advertisement?",
+          "options": {
+            "A": "By filling out a questionnaire",
+            "B": "By attending a demonstration",
+            "C": "By placing a telephone order",
+            "D": "By requesting a free sample"
+          }
+        }
+      ],
+      "audioSeconds": 83.2
+    },
+    {
+      "id": "ets-full-1-p4-89",
+      "part": 4,
+      "title": "Questions 89 through 91 refer to the following telephone message.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-89.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 89 through 91 refer to the following telephone message.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Am",
+          "text": "Hello Dr. LAU-ree. This is Jennifer Clark, an editor with Mechanical Engineer’s Journal. I wanted to touch base with you about your paper that we recently accepted for publication— the one on lasers? We haven’t heard back from you for a while now, so I just wanted to see how you’re doing. The revision of your article is due on January twenty-fifth. Since your e-mail doesn’t seem to be working, I’ll leave my number with you—it’s 555-0105. If you don’t think you’ll be able to make that January twenty-fifth deadline, we’ll need to know soon so that we can arrange for a replacement article. Thanks so much.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 89. What is the speaker calling about?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 90. What is the deadline that the speaker mentions?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 91. What does the speaker mean when she says “I just wanted to see how you’re doing”?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q89",
+          "no": 89,
+          "part": 4,
+          "answer": "A",
+          "stem": "What is the speaker calling about?",
+          "options": {
+            "A": "A journal article",
+            "B": "A newspaper subscription",
+            "C": "Some laboratory equipment",
+            "D": "An invoice for some work"
+          }
+        },
+        {
+          "id": "ets-full-1-q90",
+          "no": 90,
+          "part": 4,
+          "answer": "D",
+          "stem": "What is the deadline that the speaker mentions?",
+          "options": {
+            "A": "January 5",
+            "B": "January 6",
+            "C": "January 19",
+            "D": "January 25"
+          }
+        },
+        {
+          "id": "ets-full-1-q91",
+          "no": 91,
+          "part": 4,
+          "answer": "C",
+          "stem": "What does the speaker mean when she says, “I just wanted to see how you’re doing”?",
+          "options": {
+            "A": "She’s confirming that a problem has been resolved.",
+            "B": "She’d like to learn how to carry out a task.",
+            "C": "She wants to know the status of some work.",
+            "D": "She hopes the man is feeling well."
+          }
+        }
+      ],
+      "audioSeconds": 82.8
+    },
+    {
+      "id": "ets-full-1-p4-92",
+      "part": 4,
+      "title": "Questions 92 through 94 refer to the following announcement.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-92.mp3",
+      "graphic": null,
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 92 through 94 refer to the following announcement.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Au",
+          "text": "In this seminar for small business owners, we’re going to discuss the importance of customer reviews. Positive online reviews are great—they boost business and you don’t have to do anything. But you do need to respond directly to negative reviews. And when you do, you must not respond rashly or emotionally. That’s easy to remember, right? It makes sense, doesn’t it? But believe me, you’ll want to write that down. Because most people react angrily to negative feedback. Now, I’ve got an example on screen. I want you to think about what an appropriate response to this negative review would be. And please be ready to tell the class about it.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 92. What is the seminar mainly about?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 93. Why does the speaker say, “you’ll want to write that down”?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 94. What are listeners asked to do?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q92",
+          "no": 92,
+          "part": 4,
+          "answer": "D",
+          "stem": "What is the seminar mainly about?",
+          "options": {
+            "A": "Website design",
+            "B": "Online security",
+            "C": "Product returns",
+            "D": "Customer feedback"
+          }
+        },
+        {
+          "id": "ets-full-1-q93",
+          "no": 93,
+          "part": 4,
+          "answer": "A",
+          "stem": "Why does the speaker say, “you’ll want to write that down”?",
+          "options": {
+            "A": "To emphasize an earlier point",
+            "B": "To request that listeners hold their questions until later",
+            "C": "To suggest that some people are not paying attention",
+            "D": "To encourage listeners to keep reliable records"
+          }
+        },
+        {
+          "id": "ets-full-1-q94",
+          "no": 94,
+          "part": 4,
+          "answer": "C",
+          "stem": "What are listeners asked to do?",
+          "options": {
+            "A": "Find a partner",
+            "B": "Return a registration form",
+            "C": "Prepare a response",
+            "D": "Watch an instructional video"
+          }
+        }
+      ],
+      "audioSeconds": 81.3
+    },
+    {
+      "id": "ets-full-1-p4-95",
+      "part": 4,
+      "title": "Questions 95 through 97 refer to the following talk and list.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-95.mp3",
+      "graphic": "/assets/exam/ets-full-1/images/p4-95-graphic.png",
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 95 through 97 refer to the following talk and list.",
+          "pause": 0
+        },
+        {
+          "voice": "M-Cn",
+          "text": "Hey! I’m Matt Wheaton for eighty-nine point five Radio! Welcome to another edition of the Chart Show, where I count down your choices for the top songs of the week. Every week, listeners like you go to our website to vote for your favorite music of the moment. This week, singer-songwriter Hiro Mori maintains his number one spot on our chart for the third week in a row, with the title track of his new album. However, our number two artist – Shanta – almost took Hiro’s place this week. If you think a new artist deserves the number one spot next week, visit our radio station’s website to cast your vote!",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 95. Who most likely is the speaker?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 96. Look at the graphic. Which song is currently voted number one?",
+          "pause": 12
+        },
+        {
+          "voice": "N",
+          "text": "Number 97. How can listeners vote for their favorite song?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q95",
+          "no": 95,
+          "part": 4,
+          "answer": "C",
+          "stem": "Who most likely is the speaker?",
+          "options": {
+            "A": "A musician",
+            "B": "A concert organizer",
+            "C": "A radio host",
+            "D": "A sound technician"
+          }
+        },
+        {
+          "id": "ets-full-1-q96",
+          "no": 96,
+          "part": 4,
+          "answer": "B",
+          "stem": "Look at the graphic. Which song is currently voted number one?",
+          "options": {
+            "A": "Searchlight",
+            "B": "Sea Waves",
+            "C": "Cherries",
+            "D": "Get To It!"
+          }
+        },
+        {
+          "id": "ets-full-1-q97",
+          "no": 97,
+          "part": 4,
+          "answer": "D",
+          "stem": "How can listeners vote for their favorite song?",
+          "options": {
+            "A": "By making a phone call",
+            "B": "By sending a text message",
+            "C": "By sending an email",
+            "D": "By visiting a website"
+          }
+        }
+      ],
+      "audioSeconds": 86.1
+    },
+    {
+      "id": "ets-full-1-p4-98",
+      "part": 4,
+      "title": "Questions 98 through 100 refer to the following telephone message and picture.",
+      "audio": "/assets/exam/ets-full-1/audio/p4-98.mp3",
+      "graphic": "/assets/exam/ets-full-1/images/p4-98-graphic.png",
+      "script": [
+        {
+          "voice": "N",
+          "text": "Questions 98 through 100 refer to the following telephone message and picture.",
+          "pause": 0
+        },
+        {
+          "voice": "W-Br",
+          "text": "Hi, Dori. I received your e-mail with the draft of the instructions for our outdoor table. The images that you’ve created look great—and this was such a rush job! I’m impressed you were able to finish it so soon. But—there was a change that I had to make. It was the number of parts. The base at the bottom of the single table leg is a separate piece, and it was missing from the picture. So I fixed it. Anyway, could you proof the change I’ve made as soon as you can? In the meantime, I’ll call the printer and let them know we’ll be sending the final draft. Thanks.",
+          "pause": 0
+        },
+        {
+          "voice": "N",
+          "text": "Number 98. Why does the speaker compliment Dori?",
+          "pause": 8
+        },
+        {
+          "voice": "N",
+          "text": "Number 99. Look at the graphic. What part was originally missing from the picture?",
+          "pause": 12
+        },
+        {
+          "voice": "N",
+          "text": "Number 100. What will the speaker do next?",
+          "pause": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets-full-1-q98",
+          "no": 98,
+          "part": 4,
+          "answer": "A",
+          "stem": "Why does the speaker compliment Dori?",
+          "options": {
+            "A": "She completed some work quickly.",
+            "B": "She impressed a valued client.",
+            "C": "She exceeded a sales goal.",
+            "D": "She recently received an award."
+          }
+        },
+        {
+          "id": "ets-full-1-q99",
+          "no": 99,
+          "part": 4,
+          "answer": "D",
+          "stem": "Look at the graphic. What part was originally missing from the picture?",
+          "options": {
+            "A": "Part A",
+            "B": "Part B",
+            "C": "Part C",
+            "D": "Part D"
+          }
+        },
+        {
+          "id": "ets-full-1-q100",
+          "no": 100,
+          "part": 4,
+          "answer": "B",
+          "stem": "What will the speaker do next?",
+          "options": {
+            "A": "Send a package",
+            "B": "Contact a print shop",
+            "C": "Attend to some equipment",
+            "D": "Assemble some furniture"
+          }
+        }
+      ],
+      "audioSeconds": 86.8
+    },
+    {
+      "id": "ets-full-1-p5",
+      "part": 5,
+      "questions": [
+        {
+          "id": "ets-full-1-q101",
+          "no": 101,
+          "part": 5,
+          "answer": "C",
+          "stem": "Employees must let ______ supervisors know before taking time off work.",
+          "options": {
+            "A": "they",
+            "B": "them",
+            "C": "their",
+            "D": "theirs"
+          }
+        },
+        {
+          "id": "ets-full-1-q102",
+          "no": 102,
+          "part": 5,
+          "answer": "B",
+          "stem": "From July 1, it will be Mr. Ishibashi’s ______ to review all corporate contracts.",
+          "options": {
+            "A": "symptom",
+            "B": "responsibility",
+            "C": "quality",
+            "D": "discipline"
+          }
+        },
+        {
+          "id": "ets-full-1-q103",
+          "no": 103,
+          "part": 5,
+          "answer": "C",
+          "stem": "We are pleased to offer you a sample copy of our ______ magazine, Office Innovations.",
+          "options": {
+            "A": "popularly",
+            "B": "popularity",
+            "C": "popular",
+            "D": "popularize"
+          }
+        },
+        {
+          "id": "ets-full-1-q104",
+          "no": 104,
+          "part": 5,
+          "answer": "A",
+          "stem": "Your security badge will be activated ______ the beginning of the work day tomorrow.",
+          "options": {
+            "A": "by",
+            "B": "under",
+            "C": "onto",
+            "D": "as"
+          }
+        },
+        {
+          "id": "ets-full-1-q105",
+          "no": 105,
+          "part": 5,
+          "answer": "D",
+          "stem": "One of Mr. Oh’s primary duties is the ______ of the corporate food service.",
+          "options": {
+            "A": "manage",
+            "B": "manages",
+            "C": "manageable",
+            "D": "management"
+          }
+        },
+        {
+          "id": "ets-full-1-q106",
+          "no": 106,
+          "part": 5,
+          "answer": "A",
+          "stem": "A majority of customers rated Sasaki mobile phones as ______ good or excellent.",
+          "options": {
+            "A": "either",
+            "B": "both",
+            "C": "although",
+            "D": "whether"
+          }
+        },
+        {
+          "id": "ets-full-1-q107",
+          "no": 107,
+          "part": 5,
+          "answer": "C",
+          "stem": "The committee objected ______ to several of the conditions listed in the initial contract.",
+          "options": {
+            "A": "badly",
+            "B": "safely",
+            "C": "strongly",
+            "D": "falsely"
+          }
+        },
+        {
+          "id": "ets-full-1-q108",
+          "no": 108,
+          "part": 5,
+          "answer": "C",
+          "stem": "All interns in the marketing department are encouraged to attend the upcoming ______.",
+          "options": {
+            "A": "subject",
+            "B": "division",
+            "C": "workshop",
+            "D": "plan"
+          }
+        },
+        {
+          "id": "ets-full-1-q109",
+          "no": 109,
+          "part": 5,
+          "answer": "B",
+          "stem": "Fewer than ten firms in the country have received the Barstow Award ______ excellence in customer service.",
+          "options": {
+            "A": "to",
+            "B": "for",
+            "C": "at",
+            "D": "with"
+          }
+        },
+        {
+          "id": "ets-full-1-q110",
+          "no": 110,
+          "part": 5,
+          "answer": "D",
+          "stem": "______ of the shipment should be expected within ten days.",
+          "options": {
+            "A": "Receive",
+            "B": "Received",
+            "C": "Receivable",
+            "D": "Receipt"
+          }
+        },
+        {
+          "id": "ets-full-1-q111",
+          "no": 111,
+          "part": 5,
+          "answer": "D",
+          "stem": "Mi-Sun Park’s artwork ______ combines classical elements with modern materials and techniques.",
+          "options": {
+            "A": "skill",
+            "B": "skilled",
+            "C": "skillful",
+            "D": "skillfully"
+          }
+        },
+        {
+          "id": "ets-full-1-q112",
+          "no": 112,
+          "part": 5,
+          "answer": "C",
+          "stem": "Tanner Publications is seeking a copy editor with previous experience ______ excellent communication skills.",
+          "options": {
+            "A": "such",
+            "B": "but",
+            "C": "and",
+            "D": "unless"
+          }
+        },
+        {
+          "id": "ets-full-1-q113",
+          "no": 113,
+          "part": 5,
+          "answer": "A",
+          "stem": "Ms. Reston and Mr. Parnthong were two of the senior partners ______ visited the clients last week.",
+          "options": {
+            "A": "who",
+            "B": "when",
+            "C": "what",
+            "D": "whose"
+          }
+        },
+        {
+          "id": "ets-full-1-q114",
+          "no": 114,
+          "part": 5,
+          "answer": "D",
+          "stem": "Silveira & Ogawa Corporation’s successful new line of cookware has helped to boost the company’s ______ performance this quarter.",
+          "options": {
+            "A": "believable",
+            "B": "interested",
+            "C": "available",
+            "D": "financial"
+          }
+        },
+        {
+          "id": "ets-full-1-q115",
+          "no": 115,
+          "part": 5,
+          "answer": "B",
+          "stem": "Before ______ the envelope, please be sure you have enclosed all of the documents listed in your orientation packet.",
+          "options": {
+            "A": "seal",
+            "B": "sealing",
+            "C": "is sealed",
+            "D": "was sealed"
+          }
+        },
+        {
+          "id": "ets-full-1-q116",
+          "no": 116,
+          "part": 5,
+          "answer": "A",
+          "stem": "Ms. Gupta has earned the ______ of her colleagues in the law firm and of the clients she represents.",
+          "options": {
+            "A": "respect",
+            "B": "respectable",
+            "C": "respectably",
+            "D": "respecting"
+          }
+        },
+        {
+          "id": "ets-full-1-q117",
+          "no": 117,
+          "part": 5,
+          "answer": "B",
+          "stem": "The CEO of Argall Enterprises is expected to ______ a statement to the press later this week.",
+          "options": {
+            "A": "act",
+            "B": "issue",
+            "C": "speak",
+            "D": "reply"
+          }
+        },
+        {
+          "id": "ets-full-1-q118",
+          "no": 118,
+          "part": 5,
+          "answer": "B",
+          "stem": "Kohler Gas has been the area’s most ______ energy supplier for more than twenty years.",
+          "options": {
+            "A": "relying",
+            "B": "reliable",
+            "C": "reliability",
+            "D": "reliably"
+          }
+        },
+        {
+          "id": "ets-full-1-q119",
+          "no": 119,
+          "part": 5,
+          "answer": "D",
+          "stem": "A hotel shuttle will be available, but you are also welcome to arrange for your ______ transportation to the conference.",
+          "options": {
+            "A": "any",
+            "B": "directly",
+            "C": "besides",
+            "D": "own"
+          }
+        },
+        {
+          "id": "ets-full-1-q120",
+          "no": 120,
+          "part": 5,
+          "answer": "A",
+          "stem": "The advertising campaign for the new Cool Fizz soft drink will feature flavor ______ price.",
+          "options": {
+            "A": "rather than",
+            "B": "in the event of",
+            "C": "except for",
+            "D": "as for"
+          }
+        },
+        {
+          "id": "ets-full-1-q121",
+          "no": 121,
+          "part": 5,
+          "answer": "B",
+          "stem": "Many of the restaurants in the village open only on weekends ______ the tourist season is over.",
+          "options": {
+            "A": "even",
+            "B": "once",
+            "C": "so",
+            "D": "always"
+          }
+        },
+        {
+          "id": "ets-full-1-q122",
+          "no": 122,
+          "part": 5,
+          "answer": "D",
+          "stem": "Members are a vital part of the Global Musicians’ Association, and finding ways to increase membership should be a high ______.",
+          "options": {
+            "A": "basis",
+            "B": "force",
+            "C": "result",
+            "D": "priority"
+          }
+        },
+        {
+          "id": "ets-full-1-q123",
+          "no": 123,
+          "part": 5,
+          "answer": "D",
+          "stem": "After ______ failing to win customer support, Tykon’s upgraded software program has been withdrawn from the market.",
+          "options": {
+            "A": "repeat",
+            "B": "repetition",
+            "C": "repeated",
+            "D": "repeatedly"
+          }
+        },
+        {
+          "id": "ets-full-1-q124",
+          "no": 124,
+          "part": 5,
+          "answer": "C",
+          "stem": "Ms. Nwokolo is the ideal leader for the project because she has ______ worked in business management.",
+          "options": {
+            "A": "yet",
+            "B": "especially",
+            "C": "previously",
+            "D": "ever"
+          }
+        },
+        {
+          "id": "ets-full-1-q125",
+          "no": 125,
+          "part": 5,
+          "answer": "B",
+          "stem": "Because the teams in Beijing and Lisbon must work together closely, e-mail is the ______ method of communication for this project.",
+          "options": {
+            "A": "prefer",
+            "B": "preferred",
+            "C": "preferably",
+            "D": "preference"
+          }
+        },
+        {
+          "id": "ets-full-1-q126",
+          "no": 126,
+          "part": 5,
+          "answer": "D",
+          "stem": "The commission will review the designs for the new industrial center and ______ one to submit to the board of directors.",
+          "options": {
+            "A": "agree",
+            "B": "operate",
+            "C": "apply",
+            "D": "choose"
+          }
+        },
+        {
+          "id": "ets-full-1-q127",
+          "no": 127,
+          "part": 5,
+          "answer": "A",
+          "stem": "According to industry experts, it is very ______ that Aakster, Inc., and Dember Technologies will announce plans to merge in early May.",
+          "options": {
+            "A": "likely",
+            "B": "confident",
+            "C": "advisable",
+            "D": "potential"
+          }
+        },
+        {
+          "id": "ets-full-1-q128",
+          "no": 128,
+          "part": 5,
+          "answer": "A",
+          "stem": "Questions about the exhibit should be directed to Mr. Stanley, the museum’s leading ______ on eighteenth-century art.",
+          "options": {
+            "A": "authority",
+            "B": "station",
+            "C": "advantage",
+            "D": "example"
+          }
+        },
+        {
+          "id": "ets-full-1-q129",
+          "no": 129,
+          "part": 5,
+          "answer": "A",
+          "stem": "Ms. Baxter and her former colleagues at the New York branch ______ in regular contact with one another.",
+          "options": {
+            "A": "remain",
+            "B": "remains",
+            "C": "remaining",
+            "D": "has remained"
+          }
+        },
+        {
+          "id": "ets-full-1-q130",
+          "no": 130,
+          "part": 5,
+          "answer": "C",
+          "stem": "Currently, the most ______ task is to finish designing the new corporate logo since no new publications can be printed without it.",
+          "options": {
+            "A": "forceful",
+            "B": "eligible",
+            "C": "pressing",
+            "D": "decisive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p6-131",
+      "part": 6,
+      "title": "Questions 131-134 refer to the following letter.",
+      "passage": {
+        "kind": "letter",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p6-131-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q131",
+          "no": 131,
+          "part": 6,
+          "answer": "D",
+          "stem": null,
+          "options": {
+            "A": "mails",
+            "B": "mailing",
+            "C": "were mailed",
+            "D": "will be mailed"
+          }
+        },
+        {
+          "id": "ets-full-1-q132",
+          "no": 132,
+          "part": 6,
+          "answer": "C",
+          "stem": null,
+          "options": {
+            "A": "incomes",
+            "B": "gains",
+            "C": "benefits",
+            "D": "accounts"
+          }
+        },
+        {
+          "id": "ets-full-1-q133",
+          "no": 133,
+          "part": 6,
+          "answer": "B",
+          "stem": null,
+          "options": {
+            "A": "you",
+            "B": "your",
+            "C": "yours",
+            "D": "yourself"
+          }
+        },
+        {
+          "id": "ets-full-1-q134",
+          "no": 134,
+          "part": 6,
+          "answer": "B",
+          "stem": null,
+          "options": {
+            "A": "Thank you for your e-mail of July 31.",
+            "B": "You can send it to us at GTSS@gst.com.",
+            "C": "This includes a café right next to the theater.",
+            "D": "We have found this performance to be very popular."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p6-135",
+      "part": 6,
+      "title": "Questions 135-138 refer to the following e-mail.",
+      "passage": {
+        "kind": "e-mail",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p6-135-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q135",
+          "no": 135,
+          "part": 6,
+          "answer": "C",
+          "stem": null,
+          "options": {
+            "A": "were presenting",
+            "B": "to present",
+            "C": "would be presented",
+            "D": "have presented"
+          }
+        },
+        {
+          "id": "ets-full-1-q136",
+          "no": 136,
+          "part": 6,
+          "answer": "D",
+          "stem": null,
+          "options": {
+            "A": "Specifically",
+            "B": "However",
+            "C": "Otherwise",
+            "D": "Additionally"
+          }
+        },
+        {
+          "id": "ets-full-1-q137",
+          "no": 137,
+          "part": 6,
+          "answer": "A",
+          "stem": null,
+          "options": {
+            "A": "Most",
+            "B": "All",
+            "C": "Very",
+            "D": "More"
+          }
+        },
+        {
+          "id": "ets-full-1-q138",
+          "no": 138,
+          "part": 6,
+          "answer": "B",
+          "stem": null,
+          "options": {
+            "A": "Unfortunately, this review does not meet our requirements.",
+            "B": "More detailed guidelines for reviewers are available on our website.",
+            "C": "They were referred to us by a colleague at your place of work.",
+            "D": "We are sorry we are not able to do so at this time."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p6-139",
+      "part": 6,
+      "title": "Questions 139-142 refer to the following memo.",
+      "passage": {
+        "kind": "memo",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p6-139-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q139",
+          "no": 139,
+          "part": 6,
+          "answer": "B",
+          "stem": null,
+          "options": {
+            "A": "offer",
+            "B": "attend",
+            "C": "lead",
+            "D": "apply"
+          }
+        },
+        {
+          "id": "ets-full-1-q140",
+          "no": 140,
+          "part": 6,
+          "answer": "C",
+          "stem": null,
+          "options": {
+            "A": "limit",
+            "B": "limits",
+            "C": "limited",
+            "D": "to limit"
+          }
+        },
+        {
+          "id": "ets-full-1-q141",
+          "no": 141,
+          "part": 6,
+          "answer": "A",
+          "stem": null,
+          "options": {
+            "A": "exceptional",
+            "B": "costly",
+            "C": "thoughtful",
+            "D": "required"
+          }
+        },
+        {
+          "id": "ets-full-1-q142",
+          "no": 142,
+          "part": 6,
+          "answer": "D",
+          "stem": null,
+          "options": {
+            "A": "There are directions to the gallery at the information desk.",
+            "B": "Copies of these paintings are on sale in the gift shop.",
+            "C": "She is famous for her creative use of color.",
+            "D": "This is an opportunity you will not want to miss"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p6-143",
+      "part": 6,
+      "title": "Questions 143-146 refer to the following letter.",
+      "passage": {
+        "kind": "letter",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p6-143-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q143",
+          "no": 143,
+          "part": 6,
+          "answer": "A",
+          "stem": null,
+          "options": {
+            "A": "renew",
+            "B": "renewing",
+            "C": "had renewed",
+            "D": "will be renewed"
+          }
+        },
+        {
+          "id": "ets-full-1-q144",
+          "no": 144,
+          "part": 6,
+          "answer": "C",
+          "stem": null,
+          "options": {
+            "A": "There are four ways that this can be arranged.",
+            "B": "It appears that you have already canceled.",
+            "C": "All you have to do is complete and return the enclosed card.",
+            "D": "We are happy we could be of service to you."
+          }
+        },
+        {
+          "id": "ets-full-1-q145",
+          "no": 145,
+          "part": 6,
+          "answer": "D",
+          "stem": null,
+          "options": {
+            "A": "rent",
+            "B": "bill",
+            "C": "receipt",
+            "D": "payment"
+          }
+        },
+        {
+          "id": "ets-full-1-q146",
+          "no": 146,
+          "part": 6,
+          "answer": "A",
+          "stem": null,
+          "options": {
+            "A": "single",
+            "B": "recognized",
+            "C": "treatable",
+            "D": "lonely"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-147",
+      "part": 7,
+      "title": "Questions 147-148 refer to the following text-message chain.",
+      "passage": {
+        "kind": "text-message chain",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-147-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q147",
+          "no": 147,
+          "part": 7,
+          "answer": "C",
+          "stem": "What does Mr. Chandran ask Mr. Seville to do?",
+          "options": {
+            "A": "Join him on a business trip",
+            "B": "Help him with a translation",
+            "C": "Change some flight plans",
+            "D": "Set up some meetings"
+          }
+        },
+        {
+          "id": "ets-full-1-q148",
+          "no": 148,
+          "part": 7,
+          "answer": "B",
+          "stem": "At 4:37 a.m., what does Mr. Seville mean when he writes, “I can try”?",
+          "options": {
+            "A": "He wants to learn how to help.",
+            "B": "He is unsure that he will be successful.",
+            "C": "He has other work to finish today.",
+            "D": "He is happy to receive an invitation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-149",
+      "part": 7,
+      "title": "Questions 149-150 refer to the following advertisement.",
+      "passage": {
+        "kind": "advertisement",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-149-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q149",
+          "no": 149,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is the purpose of the advertisement?",
+          "options": {
+            "A": "To invite customers to a grand opening of a shop",
+            "B": "To introduce a new service offered at a store",
+            "C": "To announce the anniversary of a business",
+            "D": "To promote a sale on selected items"
+          }
+        },
+        {
+          "id": "ets-full-1-q150",
+          "no": 150,
+          "part": 7,
+          "answer": "A",
+          "stem": "When does the store close on Sunday?",
+          "options": {
+            "A": "At 7:00 p.m.",
+            "B": "At 8:00 p.m.",
+            "C": "At 9:00 p.m.",
+            "D": "At 9:30 p.m."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-151",
+      "part": 7,
+      "title": "Questions 151-152 refer to the following message.",
+      "passage": {
+        "kind": "message",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-151-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q151",
+          "no": 151,
+          "part": 7,
+          "answer": "A",
+          "stem": "Why did Ms. Lang call Mr. Matsumoto?",
+          "options": {
+            "A": "To reschedule an appointment with him",
+            "B": "To ask if he will be able to meet a deadline",
+            "C": "To inquire where a meeting will take place",
+            "D": "To request that he send a new copy of a contract"
+          }
+        },
+        {
+          "id": "ets-full-1-q152",
+          "no": 152,
+          "part": 7,
+          "answer": "B",
+          "stem": "What will Ms. Lang probably do?",
+          "options": {
+            "A": "See Mr. Matsumoto on Monday",
+            "B": "Call Mr. Matsumoto again this afternoon",
+            "C": "Contact a representative of C&P Accounting",
+            "D": "Make a reservation for a lunch meeting"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-153",
+      "part": 7,
+      "title": "Questions 153-155 refer to the following advertisement.",
+      "passage": {
+        "kind": "advertisement",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-153-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q153",
+          "no": 153,
+          "part": 7,
+          "answer": "C",
+          "stem": "Where will the employees who are hired for the advertised positions work?",
+          "options": {
+            "A": "At an amusement park",
+            "B": "At a jewelry shop",
+            "C": "On a cruise ship",
+            "D": "In a factory"
+          }
+        },
+        {
+          "id": "ets-full-1-q154",
+          "no": 154,
+          "part": 7,
+          "answer": "A",
+          "stem": "What benefit is NOT mentioned in the advertisement?",
+          "options": {
+            "A": "Time off for holidays",
+            "B": "Free travel",
+            "C": "Career advancement opportunities",
+            "D": "Paid training programs"
+          }
+        },
+        {
+          "id": "ets-full-1-q155",
+          "no": 155,
+          "part": 7,
+          "answer": "D",
+          "stem": "How are interested people instructed to register?",
+          "options": {
+            "A": "By visiting the corporate office",
+            "B": "By calling Ms. Ruiz",
+            "C": "By sending an e-mail",
+            "D": "By going to the website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-156",
+      "part": 7,
+      "title": "Questions 156-157 refer to the following letter.",
+      "passage": {
+        "kind": "letter",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-156-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q156",
+          "no": 156,
+          "part": 7,
+          "answer": "C",
+          "stem": "Who most likely is Richard Donaldson?",
+          "options": {
+            "A": "A tour participant",
+            "B": "A group leader",
+            "C": "A travel agent",
+            "D": "A personal accountant"
+          }
+        },
+        {
+          "id": "ets-full-1-q157",
+          "no": 157,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is indicated about Ms. Umaga in the letter?",
+          "options": {
+            "A": "She plans to cancel her trip.",
+            "B": "She has changed her trip itinerary.",
+            "C": "She must correct her registration form.",
+            "D": "She has paid for part of the cost of her trip."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-158",
+      "part": 7,
+      "title": "Questions 158-160 refer to the following book review.",
+      "passage": {
+        "kind": "book review",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-158-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q158",
+          "no": 158,
+          "part": 7,
+          "answer": "C",
+          "stem": "What most likely is Mr. Gallagher’s job?",
+          "options": {
+            "A": "Banker",
+            "B": "Librarian",
+            "C": "Journalist",
+            "D": "Publisher"
+          }
+        },
+        {
+          "id": "ets-full-1-q159",
+          "no": 159,
+          "part": 7,
+          "answer": "A",
+          "stem": "What does the reviewer NOT mention about the book?",
+          "options": {
+            "A": "It is very long.",
+            "B": "It is entertaining.",
+            "C": "It describes people from the past.",
+            "D": "It is well researched."
+          }
+        },
+        {
+          "id": "ets-full-1-q160",
+          "no": 160,
+          "part": 7,
+          "answer": "D",
+          "stem": "What does the reviewer suggest?",
+          "options": {
+            "A": "Most people are not interested in history.",
+            "B": "A follow-up volume will soon be available.",
+            "C": "Mr. Gallagher is an experienced lecturer.",
+            "D": "The book will appeal to different groups of people."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-161",
+      "part": 7,
+      "title": "Questions 161-163 refer to the following news article.",
+      "passage": {
+        "kind": "news article",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-161-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q161",
+          "no": 161,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is the purpose of the article?",
+          "options": {
+            "A": "To report on the merger of two airlines",
+            "B": "To announce a new business agreement",
+            "C": "To inform investors of a change in project plans",
+            "D": "To describe recent renovations at an airport"
+          }
+        },
+        {
+          "id": "ets-full-1-q162",
+          "no": 162,
+          "part": 7,
+          "answer": "C",
+          "stem": "How long is the change expected to take?",
+          "options": {
+            "A": "Three years",
+            "B": "Five years",
+            "C": "Ten years",
+            "D": "Seventeen years"
+          }
+        },
+        {
+          "id": "ets-full-1-q163",
+          "no": 163,
+          "part": 7,
+          "answer": "A",
+          "stem": "What is NOT reported as a goal of Star Airways?",
+          "options": {
+            "A": "To relocate its international headquarters",
+            "B": "To be among the first to use a new aircraft",
+            "C": "To replace the older planes in its fleet",
+            "D": "To increase its number of flight destinations"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-164",
+      "part": 7,
+      "title": "Questions 164-167 refer to the following e-mail.",
+      "passage": {
+        "kind": "e-mail",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-164-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q164",
+          "no": 164,
+          "part": 7,
+          "answer": "B",
+          "stem": "Why was the e-mail sent?",
+          "options": {
+            "A": "To tell of a new payment policy",
+            "B": "To report a problem with a payment",
+            "C": "To inquire about customer satisfaction",
+            "D": "To explain how to set up an account"
+          }
+        },
+        {
+          "id": "ets-full-1-q165",
+          "no": 165,
+          "part": 7,
+          "answer": "C",
+          "stem": "What is indicated about Mr. Kager’s order?",
+          "options": {
+            "A": "It has been canceled.",
+            "B": "Some of the items are unavailable.",
+            "C": "It has been prepared for shipment.",
+            "D": "It includes an incorrect address."
+          }
+        },
+        {
+          "id": "ets-full-1-q166",
+          "no": 166,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is Mr. Kager asked to avoid doing?",
+          "options": {
+            "A": "Posting a notification",
+            "B": "Changing a shipping method",
+            "C": "Resubmitting an order",
+            "D": "Replying to an e-mail"
+          }
+        },
+        {
+          "id": "ets-full-1-q167",
+          "no": 167,
+          "part": 7,
+          "answer": "C",
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Once there, provide the number of the new credit card.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-168",
+      "part": 7,
+      "title": "Questions 168-171 refer to the following article.",
+      "passage": {
+        "kind": "article",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-168-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q168",
+          "no": 168,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is the article mainly about?",
+          "options": {
+            "A": "The construction of a new museum",
+            "B": "The restoration of a historic landmark",
+            "C": "The filming of an upcoming movie",
+            "D": "The election of a local official"
+          }
+        },
+        {
+          "id": "ets-full-1-q169",
+          "no": 169,
+          "part": 7,
+          "answer": "D",
+          "stem": "Who is Stephanie Landsbury?",
+          "options": {
+            "A": "A chief engineer",
+            "B": "A bank official",
+            "C": "A historical society member",
+            "D": "A tourist board spokesperson"
+          }
+        },
+        {
+          "id": "ets-full-1-q170",
+          "no": 170,
+          "part": 7,
+          "answer": "A",
+          "stem": "What is suggested about the lighthouse?",
+          "options": {
+            "A": "It has been in operation for nearly two centuries.",
+            "B": "It is open only to members of the historical society.",
+            "C": "It was constructed for a movie set.",
+            "D": "It is in good condition."
+          }
+        },
+        {
+          "id": "ets-full-1-q171",
+          "no": 171,
+          "part": 7,
+          "answer": "B",
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “The lighthouse is also important for cultural reasons.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-172",
+      "part": 7,
+      "title": "Questions 172-175 refer to the following online chat discussion.",
+      "passage": {
+        "kind": "online chat discussion",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-172-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q172",
+          "no": 172,
+          "part": 7,
+          "answer": "A",
+          "stem": "At 10:22 a.m., why does Mr. Dubiel write, “Here it is”?",
+          "options": {
+            "A": "He found Ms. Myers’ booking information.",
+            "B": "He located the Allaire Rentals kiosk.",
+            "C": "He is marking the airport’s location on a map.",
+            "D": "He is telling Ms. Myers where she can find a form."
+          }
+        },
+        {
+          "id": "ets-full-1-q173",
+          "no": 173,
+          "part": 7,
+          "answer": "D",
+          "stem": "What does Mr. Dubiel tell Ms. Myers to do when she gets to the kiosk?",
+          "options": {
+            "A": "Pay for her reservation",
+            "B": "Take a bus to the terminal",
+            "C": "Ask to speak to Mr. Dubiel",
+            "D": "Pick up the key to her vehicle"
+          }
+        },
+        {
+          "id": "ets-full-1-q174",
+          "no": 174,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is suggested about Ms. Lindquist?",
+          "options": {
+            "A": "She is traveling during a holiday.",
+            "B": "She is located at Boa Vista Airport.",
+            "C": "She wants to change her travel plans.",
+            "D": "She wants to reserve a car for a week."
+          }
+        },
+        {
+          "id": "ets-full-1-q175",
+          "no": 175,
+          "part": 7,
+          "answer": "C",
+          "stem": "What size vehicle will Ms. Myers rent?",
+          "options": {
+            "A": "A compact car",
+            "B": "A mid-size car",
+            "C": "A full-size car",
+            "D": "A small van"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-176",
+      "part": 7,
+      "title": "Questions 176-180 refer to the following e-mail and article.",
+      "passage": {
+        "kind": "e-mail and article",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-176-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q176",
+          "no": 176,
+          "part": 7,
+          "answer": "C",
+          "stem": "What city is the subject of Citywatch Magazine?",
+          "options": {
+            "A": "Sydney",
+            "B": "Amsterdam",
+            "C": "Chicago",
+            "D": "Taipei"
+          }
+        },
+        {
+          "id": "ets-full-1-q177",
+          "no": 177,
+          "part": 7,
+          "answer": "A",
+          "stem": "What is the purpose of the article?",
+          "options": {
+            "A": "To profile a local businessperson",
+            "B": "To report on an increase in tourism",
+            "C": "To describe a local business event",
+            "D": "To discuss the opening of a new café"
+          }
+        },
+        {
+          "id": "ets-full-1-q178",
+          "no": 178,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is Ms. Wu’s current position?",
+          "options": {
+            "A": "Coffee shop owner",
+            "B": "Marketing director",
+            "C": "Business journalist",
+            "D": "Corporate executive"
+          }
+        },
+        {
+          "id": "ets-full-1-q179",
+          "no": 179,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is indicated about the Wilkerson Beverage Company?",
+          "options": {
+            "A": "It plans to market new products in December.",
+            "B": "It operates offices in multiple cities.",
+            "C": "It has an opening for a vice president.",
+            "D": "It produces a line of coffee drinks."
+          }
+        },
+        {
+          "id": "ets-full-1-q180",
+          "no": 180,
+          "part": 7,
+          "answer": "B",
+          "stem": "What does Ms. Wu say about her job?",
+          "options": {
+            "A": "It is temporary.",
+            "B": "It is challenging.",
+            "C": "It requires a lot of travel.",
+            "D": "It pays well."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-181",
+      "part": 7,
+      "title": "Questions 181-185 refer to the following press release and e-mail.",
+      "passage": {
+        "kind": "press release and e-mail",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-181-1.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q181",
+          "no": 181,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is the subject of the press release?",
+          "options": {
+            "A": "An increase in car advertisements",
+            "B": "A decline in consumer confidence",
+            "C": "The building of a car parking garage",
+            "D": "The planned opening of a new factory"
+          }
+        },
+        {
+          "id": "ets-full-1-q182",
+          "no": 182,
+          "part": 7,
+          "answer": "B",
+          "stem": "What is indicated about Jupiter Corporation?",
+          "options": {
+            "A": "It will release a new car model next year.",
+            "B": "Its headquarters are in Seoul.",
+            "C": "It has received several customer complaints.",
+            "D": "Its sales have remained steady."
+          }
+        },
+        {
+          "id": "ets-full-1-q183",
+          "no": 183,
+          "part": 7,
+          "answer": "A",
+          "stem": "Who is Ja-Hoon Lee?",
+          "options": {
+            "A": "A corporate spokesperson",
+            "B": "A factory employee",
+            "C": "An advertising manager",
+            "D": "An automobile salesperson"
+          }
+        },
+        {
+          "id": "ets-full-1-q184",
+          "no": 184,
+          "part": 7,
+          "answer": "C",
+          "stem": "What will Robin Bertolli probably send to Ja-Hoon Lee?",
+          "options": {
+            "A": "A schedule for the grand opening of a factory",
+            "B": "A report of the company’s quarterly sales",
+            "C": "A summary of an advertising campaign",
+            "D": "A document containing construction plans"
+          }
+        },
+        {
+          "id": "ets-full-1-q185",
+          "no": 185,
+          "part": 7,
+          "answer": "D",
+          "stem": "When does Robin Bertolli expect to see Ja-Hoon Lee?",
+          "options": {
+            "A": "In February",
+            "B": "In March",
+            "C": "In June",
+            "D": "In July"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-186",
+      "part": 7,
+      "title": "Questions 186-190 refer to the following e-mails and survey.",
+      "passage": {
+        "kind": "e-mails and survey",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-186-1.png",
+          "/assets/exam/ets-full-1/images/p7-186-2.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q186",
+          "no": 186,
+          "part": 7,
+          "answer": "C",
+          "stem": "What is the purpose of the first e-mail?",
+          "options": {
+            "A": "To reserve a table at a hotel restaurant",
+            "B": "To inquire about hotel rates",
+            "C": "To confirm a hotel reservation",
+            "D": "To inform a hotel employee of a problem"
+          }
+        },
+        {
+          "id": "ets-full-1-q187",
+          "no": 187,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is NOT one of Ms. Wagner’s opinions about the hotel?",
+          "options": {
+            "A": "The quality of the housekeeping is good.",
+            "B": "The variety of menu options is below average.",
+            "C": "The quality of service at the hotel is average.",
+            "D": "The hospitality of the staff is average."
+          }
+        },
+        {
+          "id": "ets-full-1-q188",
+          "no": 188,
+          "part": 7,
+          "answer": "A",
+          "stem": "What is indicated about Ms. Wagner?",
+          "options": {
+            "A": "She has stayed at other Persimmon Royal hotels.",
+            "B": "She feels the hotel restaurants are expensive.",
+            "C": "She will soon travel to Bangkok for business.",
+            "D": "She received a bill in the mail from the hotel."
+          }
+        },
+        {
+          "id": "ets-full-1-q189",
+          "no": 189,
+          "part": 7,
+          "answer": "C",
+          "stem": "What restaurant mistakenly charged Ms. Wagner?",
+          "options": {
+            "A": "Bai Makrut",
+            "B": "Café Galanga",
+            "C": "Waterworks",
+            "D": "Elan"
+          }
+        },
+        {
+          "id": "ets-full-1-q190",
+          "no": 190,
+          "part": 7,
+          "answer": "B",
+          "stem": "Where will Ms. Wagner attend a conference in March?",
+          "options": {
+            "A": "In Bangkok",
+            "B": "In Macau",
+            "C": "In Sapporo",
+            "D": "In Melbourne"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-191",
+      "part": 7,
+      "title": "Questions 191-195 refer to the following e-mails and schedule.",
+      "passage": {
+        "kind": "e-mails and schedule",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-191-1.png",
+          "/assets/exam/ets-full-1/images/p7-191-2.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q191",
+          "no": 191,
+          "part": 7,
+          "answer": "C",
+          "stem": "What is indicated about the workshops?",
+          "options": {
+            "A": "They may be completed online.",
+            "B": "They are on topics requested by customers.",
+            "C": "They are a new initiative for the business.",
+            "D": "They will be followed by workshops with advanced-level topics."
+          }
+        },
+        {
+          "id": "ets-full-1-q192",
+          "no": 192,
+          "part": 7,
+          "answer": "A",
+          "stem": "What is suggested about the workshop on tile flooring?",
+          "options": {
+            "A": "It is filled almost to capacity.",
+            "B": "It requires a fee to cover materials.",
+            "C": "It may have to be canceled.",
+            "D": "It is led by a high-school teacher."
+          }
+        },
+        {
+          "id": "ets-full-1-q193",
+          "no": 193,
+          "part": 7,
+          "answer": "C",
+          "stem": "Which facilitator is Mr. Czerny replacing?",
+          "options": {
+            "A": "Ms. Delaney",
+            "B": "Mr. Faisal",
+            "C": "Mr. Zimmer",
+            "D": "Ms. Jimenez"
+          }
+        },
+        {
+          "id": "ets-full-1-q194",
+          "no": 194,
+          "part": 7,
+          "answer": "A",
+          "stem": "What does Ms. Gomez tell Mr. Czerny about his workshop participants?",
+          "options": {
+            "A": "They will require supervision.",
+            "B": "They must bring their own supplies.",
+            "C": "They are completing a work requirement.",
+            "D": "They will receive training materials in advance."
+          }
+        },
+        {
+          "id": "ets-full-1-q195",
+          "no": 195,
+          "part": 7,
+          "answer": "D",
+          "stem": "In the second e-mail, the word “address” in paragraph 2, line 5, is closest in meaning to",
+          "options": {
+            "A": "lecture",
+            "B": "label",
+            "C": "send out",
+            "D": "respond to"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ets-full-1-p7-196",
+      "part": 7,
+      "title": "Questions 196-200 refer to the following letter, price list, and order form.",
+      "passage": {
+        "kind": "letter, price list, and order form",
+        "text": null,
+        "images": [
+          "/assets/exam/ets-full-1/images/p7-196-1.png",
+          "/assets/exam/ets-full-1/images/p7-196-2.png"
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets-full-1-q196",
+          "no": 196,
+          "part": 7,
+          "answer": "D",
+          "stem": "What is suggested about The Sun Princess?",
+          "options": {
+            "A": "It was written by Akira Murata.",
+            "B": "It will be Margo Schmidt’s first role.",
+            "C": "It has received positive reviews from critics.",
+            "D": "It will be performed for the first time on June 17."
+          }
+        },
+        {
+          "id": "ets-full-1-q197",
+          "no": 197,
+          "part": 7,
+          "answer": "C",
+          "stem": "What is NOT suggested about the Wood Hollow Theatre in the letter?",
+          "options": {
+            "A": "It accepts donations from people in the community.",
+            "B": "It offers reduced ticket prices to members.",
+            "C": "It organizes lecture tours on the arts.",
+            "D": "It hosts special performances for members."
+          }
+        },
+        {
+          "id": "ets-full-1-q198",
+          "no": 198,
+          "part": 7,
+          "answer": "B",
+          "stem": "In the letter, the word “prominent” in paragraph 2, line 3, is closest in meaning to",
+          "options": {
+            "A": "talented",
+            "B": "famous",
+            "C": "protruding",
+            "D": "obvious"
+          }
+        },
+        {
+          "id": "ets-full-1-q199",
+          "no": 199,
+          "part": 7,
+          "answer": "A",
+          "stem": "On what day will Mr. Bhatia attend the performance?",
+          "options": {
+            "A": "Thursday",
+            "B": "Friday",
+            "C": "Saturday",
+            "D": "Sunday"
+          }
+        },
+        {
+          "id": "ets-full-1-q200",
+          "no": 200,
+          "part": 7,
+          "answer": "D",
+          "stem": "What type of ticket is Mr. Bhatia ordering?",
+          "options": {
+            "A": "Nonmember",
+            "B": "Student member",
+            "C": "Regular member",
+            "D": "Patron member"
+          }
+        }
+      ]
+    }
+  ]
+}

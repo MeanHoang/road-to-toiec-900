@@ -7,11 +7,8 @@
 // to it later" (Examinee Handbook). Không có ô này thì "quay lại sau" nghĩa là
 // bấm Câu trước hai chục lần.
 //
-// Chặng NGHE truyền `readOnly`: băng đã chạy qua thì quay lại cũng vô ích, và
-// quay lại sẽ làm audio phát lần nữa — hỏng luật mỗi câu nghe một lần. Vẫn bày
-// lưới ra vì nó cho biết mình đã bỏ trống câu nào, chỉ là bấm không nhảy.
 
-export function QuestionPalette({ marks, readOnly, onGo }) {
+export function QuestionPalette({ marks, onGo }) {
   const blank = marks.filter((m) => !m.picked).length;
 
   return (
@@ -34,10 +31,9 @@ export function QuestionPalette({ marks, readOnly, onGo }) {
             ]
               .filter(Boolean)
               .join(' ')}
-            disabled={readOnly}
             aria-current={m.current ? 'true' : undefined}
             aria-label={`Câu ${m.no}${m.picked ? ', đã chọn' : ', chưa chọn'}`}
-            onClick={() => onGo(m.no - 1)}
+            onClick={() => onGo(m.at)}
           >
             {m.no}
           </button>

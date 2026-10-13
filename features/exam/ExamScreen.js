@@ -5,24 +5,23 @@
 // Một màn chứ không phải ba route: giữa chừng mà đổi URL thì bấm Back là mất
 // bài đang làm, và đồng hồ thì không quay lại được.
 //
-// KHÔNG thuộc buổi học nào. Đề rút câu nghe từ mọi buổi và câu đọc từ đề mẫu
-// ETS, nên nó nằm ở /exam chứ không nằm dưới /day/[slug].
+// KHÔNG thuộc buổi học nào. Mỗi đề là một đề TOEIC trọn vẹn 200 câu lấy
+// nguyên từ một bộ đề (content/exam/), nên nó nằm ở /exam chứ không nằm dưới
+// /day/[slug].
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { LoadingBlock } from '@/shared/ui/molecules/LoadingBlock';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { Progress } from '@/shared/ui/atoms/Progress';
 import { Modal } from '@/shared/ui/organisms/Modal';
 import { useAuth } from '@/features/auth/AuthProvider';
-import { useDayList } from '@/features/lesson/useDayList';
 import { useProgress } from '@/features/progress/useProgress';
 import { ExamPicker } from './ExamPicker';
-import { ExamQuestion } from './ExamQuestion';
+import { ExamQuestion, Tape } from './ExamQuestion';
 import { ExamResult } from './ExamResult';
 import { QuestionPalette } from './QuestionPalette';
-import { buildPaper, newAttempt } from './buildExam';
+import { buildPaper, newAttempt, paperSummary } from './buildExam';
 import { useExamContent } from './useExamContent';
 import { clock, useExamRun } from './useExamRun';
 
@@ -33,27 +32,23 @@ import { clock, useExamRun } from './useExamRun';
 const EXAM_SLUG = 'exam-room';
 
 export function ExamScreen() {
-  const { days, loading } = useDayList();
   const { day: progress, ready, saveAttempt } = useProgress(EXAM_SLUG);
   const { name: learner } = useAuth();
-  const { papers: paperDefs, forms } = useExamContent();
+  const { forms } = useExamContent();
 
   const [paper, setPaper] = useState(null); // đề đang làm
   const [attempt, setAttempt] = useState(null); // lượt vừa nộp
 
-  // Danh sách đề đọc từ DỮ LIỆU (content/exam/papers.json), không tự tính.
-  // "Đề số 1" vì thế giống nhau với mọi người học và không đổi khi nhập thêm
-  // buổi mới — có vậy mới so điểm giữa các lần thi và giữa các người thi.
-  const papers = useMemo(
-    () => paperDefs.map((def) => buildPaper(days, forms, def)).filter(Boolean),
-    [days, paperDefs, forms],
-  );
+  // Mỗi đề là một file đề trọn vẹn, nên "Đề số 1" giống nhau với mọi người học
+  // và không đổi khi thêm đề mới — so điểm giữa các lần thi mới có nghĩa.
+  const papers = useMemo(() => forms.map(paperSummary), [forms]);
 
   const history = useMemo(() => Object.values(progress.exams || {}), [progress.exams]);
 
-  const start = (nth, only) => {
-    const def = paperDefs.find((d) => d.no - 1 === nth);
-    const built = buildPaper(days, forms, def, only);
+  /** `only` = null thi cả đề, hoặc số Part để thi riêng Part đó. */
+  const start = (paperId, only) => {
+    const form = forms.find((f) => f.form === paperId);
+    const built = form ? buildPaper(form, only) : null;
     if (built) {
       setAttempt(null);
       setPaper(built);
@@ -72,7 +67,7 @@ export function ExamScreen() {
     [paper, saveAttempt, learner],
   );
 
-  if (loading || !ready) {
+  if (!ready) {
     return (
       <LoadingBlock label="Đang chuẩn bị phòng thi">
         <div />
@@ -91,7 +86,7 @@ export function ExamScreen() {
         <PageHeader eyebrow="Phòng thi" title="Kết quả" />
         <ExamResult
           attempt={attempt}
-          onAgain={() => start(attempt.nth ?? 0, attempt.only ?? null)}
+          onAgain={() => start(attempt.paperId, attempt.only ?? null)}
           onBack={() => setAttempt(null)}
         />
       </>
@@ -106,14 +101,15 @@ export function ExamScreen() {
         subtitle={
           learner
             ? `${learner} — kết quả lưu vào tài khoản, đổi máy vẫn còn.`
-            : 'Chạy đúng nhịp đề thật: hai phần, hai đồng hồ riêng, audio nghe một lần.'
+            : 'Đề TOEIC trọn vẹn 200 câu, 7 Part. Listening chạy theo băng, Reading tự chia giờ.'
         }
       />
       <ExamPicker papers={papers} history={history} onStart={start} />
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Câu nghe lấy từ chính tài liệu khoá học. Câu đọc lấy từ đề mẫu chính thức ETS phát hành
-        miễn phí. Kết quả chỉ tính số câu đúng — ETS không công khai bảng quy đổi ra thang
-        10–990, nên app không bịa ra một con số điểm.
+        Câu hỏi, tranh và đáp án lấy nguyên từ đề luyện thi chính thức của ETS. Audio phần
+        Listening do máy đọc lại từ lời thoại của đề, không phải băng gốc. Kết quả chỉ tính số
+        câu đúng — ETS không công khai bảng quy đổi ra thang 10–990, nên app không bịa ra một
+        con số điểm.
       </Callout>
     </>
   );
@@ -178,15 +174,15 @@ function Running({ paper, onDone }) {
         </Button>
       </aside>
 
-      {/* `key` đổi theo câu để component dựng lại — nhờ đó audio chạy đúng một
-          lần cho mỗi câu, không phát lại khi bấm chọn đáp án. */}
       <div className="exam-main">
+        {/* Băng nằm NGOÀI câu hỏi: đổi câu không làm băng dừng hay phát lại.
+            `key` theo đoạn băng — sang đoạn mới mới dựng lại và phát. */}
+        {run.tape && <Tape key={run.tape.key} src={run.tape.src} onEnded={run.tapeEnded} />}
         <ExamQuestion
           key={run.question.id}
           question={run.question}
           picked={run.pickedHere}
           onPick={run.choose}
-          firstListen={run.firstListen}
         />
       </div>
 
