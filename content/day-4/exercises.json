@@ -1,0 +1,1576 @@
+{
+  "collection": "exercises",
+  "day": "day-4",
+  "title": "Trắc nghiệm ngữ pháp",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d4-ex1",
+      "code": "ex1",
+      "title": "Exercise 1 — Nhóm thì đơn",
+      "subtitle": "Chọn dạng đúng của động từ (sự hòa hợp chủ ngữ – động từ, thì đơn)",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex1-01",
+          "no": 1,
+          "text": "Everyone _______ when gas prices go up.",
+          "options": {
+            "A": "complains",
+            "B": "complain"
+          },
+          "answer": "A",
+          "explain": "Everyone là chủ ngữ số ít → động từ thêm -s: complains.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-02",
+          "no": 2,
+          "text": "Some children _______ at the ice-cream shop every day.",
+          "options": {
+            "A": "stop",
+            "B": "stops"
+          },
+          "answer": "A",
+          "explain": "Children là chủ ngữ số nhiều, every day → hiện tại đơn dạng Vo: stop.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-03",
+          "no": 3,
+          "text": "They ______ as consultants.",
+          "options": {
+            "A": "work",
+            "B": "works"
+          },
+          "answer": "A",
+          "explain": "They là chủ ngữ số nhiều → work.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-04",
+          "no": 4,
+          "text": "The manager _____ on a business trip every month.",
+          "options": {
+            "A": "goes",
+            "B": "go"
+          },
+          "answer": "A",
+          "explain": "The manager số ít, every month → hiện tại đơn: goes.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-05",
+          "no": 5,
+          "text": "When she _______ the report, she will bring it to you.",
+          "options": {
+            "A": "finish",
+            "B": "finishes"
+          },
+          "answer": "B",
+          "explain": "Mệnh đề thời gian (When…) dùng hiện tại đơn thay cho tương lai; she → finishes.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-06",
+          "no": 6,
+          "text": "My company’s Christmas party ______ at 9 o’clock tonight.",
+          "options": {
+            "A": "start",
+            "B": "starts"
+          },
+          "answer": "B",
+          "explain": "Lịch trình cố định dùng hiện tại đơn; party số ít → starts.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-07",
+          "no": 7,
+          "text": "The information about the course ______ at the bottom of the page.",
+          "options": {
+            "A": "is",
+            "B": "are"
+          },
+          "answer": "A",
+          "explain": "Chủ ngữ chính là information (không đếm được) → is.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-08",
+          "no": 8,
+          "text": "The sales meeting usually ________ at 5.",
+          "options": {
+            "A": "begins",
+            "B": "began",
+            "C": "begin",
+            "D": "will begin"
+          },
+          "answer": "A",
+          "explain": "usually → hiện tại đơn; meeting số ít → begins.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-09",
+          "no": 9,
+          "text": "If he ______ the team, we will start the project right away.",
+          "options": {
+            "A": "join",
+            "B": "will join",
+            "C": "joins",
+            "D": "joined"
+          },
+          "answer": "C",
+          "explain": "Câu điều kiện loại 1: If + hiện tại đơn; he → joins.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-10",
+          "no": 10,
+          "text": "Many workers _______ abroad in 2003.",
+          "options": {
+            "A": "go",
+            "B": "goes",
+            "C": "went",
+            "D": "will go"
+          },
+          "answer": "C",
+          "explain": "in 2003 là mốc quá khứ → quá khứ đơn: went.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-11",
+          "no": 11,
+          "text": "Several computer manufacturers __________ their new lines in the next few months.",
+          "options": {
+            "A": "introduce",
+            "B": "will introduce",
+            "C": "introduction",
+            "D": "introducing"
+          },
+          "answer": "B",
+          "explain": "in the next few months → tương lai đơn: will introduce.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-12",
+          "no": 12,
+          "text": "The hotel’s recreational facilities _______ a swimming pool and tennis courts.",
+          "options": {
+            "A": "include",
+            "B": "inclusion",
+            "C": "includes",
+            "D": "to include"
+          },
+          "answer": "A",
+          "explain": "Chủ ngữ facilities số nhiều, cần động từ chính → include.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-13",
+          "no": 13,
+          "text": "The meeting ________ at 9 AM tomorrow.",
+          "options": {
+            "A": "takes place",
+            "B": "will take place",
+            "C": "took place",
+            "D": "taking place"
+          },
+          "answer": "B",
+          "explain": "tomorrow → tương lai đơn: will take place.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-14",
+          "no": 14,
+          "text": "Ms. Cooper ______ one of her new clients 3 days ago.",
+          "options": {
+            "A": "were meeting",
+            "B": "was meeting",
+            "C": "meets",
+            "D": "met"
+          },
+          "answer": "D",
+          "explain": "3 days ago → quá khứ đơn: met.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-15",
+          "no": 15,
+          "text": "Helen is going to ________ A&T Communications next week.",
+          "options": {
+            "A": "will leave",
+            "B": "to leave",
+            "C": "left",
+            "D": "leave"
+          },
+          "answer": "D",
+          "explain": "be going to + Vo → leave.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-16",
+          "no": 16,
+          "text": "The traffic lights _______ working last night because of the heavy rain.",
+          "options": {
+            "A": "stop",
+            "B": "stops",
+            "C": "stopped",
+            "D": "to stop"
+          },
+          "answer": "C",
+          "explain": "last night → quá khứ đơn: stopped.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-17",
+          "no": 17,
+          "text": "The customer service department usually ______ with customers’ complaints related to our products.",
+          "options": {
+            "A": "dealing",
+            "B": "deals",
+            "C": "dealt",
+            "D": "will deal"
+          },
+          "answer": "B",
+          "explain": "usually → hiện tại đơn; department số ít → deals.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-18",
+          "no": 18,
+          "text": "Most of the stores downtown ______ at 10 in the morning and close at 9 P.M.",
+          "options": {
+            "A": "open",
+            "B": "opens",
+            "C": "have opened",
+            "D": "will open"
+          },
+          "answer": "A",
+          "explain": "Thói quen/lịch cố định, song song với close → hiện tại đơn; stores số nhiều → open.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-19",
+          "no": 19,
+          "text": "Before they submitted the proposal, they ________ a lot of research for it.",
+          "options": {
+            "A": "has done",
+            "B": "will have done",
+            "C": "had done",
+            "D": "did"
+          },
+          "answer": "C",
+          "explain": "Hành động xảy ra trước một hành động quá khứ (before + quá khứ đơn) → quá khứ hoàn thành: had done.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex1-20",
+          "no": 20,
+          "text": "She was working on her report when the fire ______.",
+          "options": {
+            "A": "happened",
+            "B": "happens",
+            "C": "to happen",
+            "D": "is happening"
+          },
+          "answer": "A",
+          "explain": "Hành động đang xảy ra (quá khứ tiếp diễn) thì một hành động khác xen vào → quá khứ đơn: happened.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex2",
+      "code": "ex2",
+      "title": "Exercise 2 — Nhóm thì tiếp diễn",
+      "subtitle": "Chọn đáp án đúng để hoàn thành câu",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex2-01",
+          "no": 1,
+          "text": "Our CEO ________ an important workshop at the moment.",
+          "options": {
+            "A": "attends",
+            "B": "are attending",
+            "C": "attending",
+            "D": "is attending"
+          },
+          "answer": "D",
+          "explain": "at the moment → hiện tại tiếp diễn; CEO số ít → is attending.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-02",
+          "no": 2,
+          "text": "The community center ______ for donations to help the disable and the elderly.",
+          "options": {
+            "A": "ask",
+            "B": "is asking",
+            "C": "to ask",
+            "D": "have asked"
+          },
+          "answer": "B",
+          "explain": "Chủ ngữ số ít, cần động từ chia: chỉ is asking hợp (ask/have asked hợp chủ ngữ số nhiều).",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-03",
+          "no": 3,
+          "text": "He _________ handouts when I entered the room.",
+          "options": {
+            "A": "will be distributing",
+            "B": "has distributed",
+            "C": "was distributing",
+            "D": "were distributing"
+          },
+          "answer": "C",
+          "explain": "Hành động đang diễn ra khi hành động quá khứ khác xen vào → quá khứ tiếp diễn; he → was distributing.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-04",
+          "no": 4,
+          "text": "The manager and the staff members ________ a discussion right now.",
+          "options": {
+            "A": "are having",
+            "B": "were having",
+            "C": "having",
+            "D": "will be having"
+          },
+          "answer": "A",
+          "explain": "right now → hiện tại tiếp diễn; chủ ngữ số nhiều → are having.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-05",
+          "no": 5,
+          "text": "To attract more customers, we _________ an express delivery service from next month.",
+          "options": {
+            "A": "offer",
+            "B": "offering",
+            "C": "will be offering",
+            "D": "were offering"
+          },
+          "answer": "C",
+          "explain": "from next month → tương lai: will be offering.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-06",
+          "no": 6,
+          "text": "Small business owners are currently ________ chances to increase their profits.",
+          "options": {
+            "A": "looked for",
+            "B": "looking for",
+            "C": "look",
+            "D": "looks"
+          },
+          "answer": "B",
+          "explain": "are currently + V-ing → hiện tại tiếp diễn: looking for.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-07",
+          "no": 7,
+          "text": "I ________ a presentation at 8:30 last night.",
+          "options": {
+            "A": "am preparing",
+            "B": "were preparing",
+            "C": "have prepared",
+            "D": "was preparing"
+          },
+          "answer": "D",
+          "explain": "at 8:30 last night → quá khứ tiếp diễn; I → was preparing.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-08",
+          "no": 8,
+          "text": "The memo informed us that the company _________ out the renovation of the office next month.",
+          "options": {
+            "A": "carry",
+            "B": "will be carrying",
+            "C": "has carried",
+            "D": "was carrying"
+          },
+          "answer": "B",
+          "explain": "next month → tương lai tiếp diễn: will be carrying (carry out = tiến hành).",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-09",
+          "no": 9,
+          "text": "The grocery store in this town is temporarily closed because it ________ a renovation.",
+          "options": {
+            "A": "undergo",
+            "B": "is undergoing",
+            "C": "have undergone",
+            "D": "underwent"
+          },
+          "answer": "B",
+          "explain": "Cửa hàng đang tạm đóng vì việc đang diễn ra → hiện tại tiếp diễn: is undergoing.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex2-10",
+          "no": 10,
+          "text": "At this time tomorrow, Mr. Thompson _______ an important conference.",
+          "options": {
+            "A": "is attending",
+            "B": "will be attending",
+            "C": "attends",
+            "D": "was attending"
+          },
+          "answer": "B",
+          "explain": "At this time tomorrow → tương lai tiếp diễn: will be attending.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex3",
+      "code": "ex3",
+      "title": "Exercise 3 — Nhóm thì hoàn thành",
+      "subtitle": "Chọn đáp án đúng để hoàn thành câu",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex3-01",
+          "no": 1,
+          "text": "The cost of living in the country ______ by 17 percent over the last 15 years.",
+          "options": {
+            "A": "will rise",
+            "B": "have risen",
+            "C": "rises",
+            "D": "has risen"
+          },
+          "answer": "D",
+          "explain": "over the last 15 years → hiện tại hoàn thành; cost số ít → has risen.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-02",
+          "no": 2,
+          "text": "Mr. Jantick _______ in the military for 6 months by the end of the year.",
+          "options": {
+            "A": "have served",
+            "B": "will serve",
+            "C": "will have served",
+            "D": "served"
+          },
+          "answer": "C",
+          "explain": "by the end of the year → tương lai hoàn thành: will have served.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-03",
+          "no": 3,
+          "text": "Jim _______ for a consulting firm before he came here.",
+          "options": {
+            "A": "has worked",
+            "B": "worked",
+            "C": "had worked",
+            "D": "been worked"
+          },
+          "answer": "C",
+          "explain": "Xảy ra trước hành động quá khứ (before he came) → quá khứ hoàn thành: had worked.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-04",
+          "no": 4,
+          "text": "Since last winter, they _______ financial difficulties.",
+          "options": {
+            "A": "has experienced",
+            "B": "experienced",
+            "C": "have experienced",
+            "D": "experiencing"
+          },
+          "answer": "C",
+          "explain": "Since → hiện tại hoàn thành; they → have experienced.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-05",
+          "no": 5,
+          "text": "Before they submitted the proposal, they ______ a lot of research for it.",
+          "options": {
+            "A": "had done",
+            "B": "have done",
+            "C": "will have done",
+            "D": "did"
+          },
+          "answer": "A",
+          "explain": "Xảy ra trước hành động quá khứ (before they submitted) → quá khứ hoàn thành: had done.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-06",
+          "no": 6,
+          "text": "Mr. Heath ________ Richard Barth as a financial officer by next May.",
+          "options": {
+            "A": "appoints",
+            "B": "will appoint",
+            "C": "will have appointed",
+            "D": "has appointed"
+          },
+          "answer": "C",
+          "explain": "by next May → tương lai hoàn thành: will have appointed.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-07",
+          "no": 7,
+          "text": "The number of tourists visiting this city ______ for the past few months.",
+          "options": {
+            "A": "rises",
+            "B": "risen",
+            "C": "has risen",
+            "D": "have risen"
+          },
+          "answer": "C",
+          "explain": "for the past few months → hiện tại hoàn thành; The number of … là số ít → has risen.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-08",
+          "no": 8,
+          "text": "This advertisement ________ a lot of new customers since it was released last week.",
+          "options": {
+            "A": "attracts",
+            "B": "will attract",
+            "C": "have attracted",
+            "D": "has attracted"
+          },
+          "answer": "D",
+          "explain": "since → hiện tại hoàn thành; advertisement số ít → has attracted.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-09",
+          "no": 9,
+          "text": "As of next February, the accounting manager _______ away for 2 years.",
+          "options": {
+            "A": "has been",
+            "B": "will have been",
+            "C": "had been",
+            "D": "was"
+          },
+          "answer": "B",
+          "explain": "Mốc tương lai (as of next February) + for 2 years → tương lai hoàn thành: will have been.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex3-10",
+          "no": 10,
+          "text": "They _______ several meetings with new clients for 2 weeks.",
+          "options": {
+            "A": "have",
+            "B": "have had",
+            "C": "are having",
+            "D": "will have"
+          },
+          "answer": "B",
+          "explain": "for 2 weeks → hiện tại hoàn thành: have had.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex4",
+      "code": "ex4",
+      "title": "Exercise 4 — Tổng hợp các thì & câu điều kiện",
+      "subtitle": "Chọn đáp án đúng để hoàn thành câu",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex4-01",
+          "no": 1,
+          "text": "If Ms. Kim successfully _______ the project, she will be promoted to sales manager.",
+          "options": {
+            "A": "complete",
+            "B": "completes",
+            "C": "will complete",
+            "D": "to complete"
+          },
+          "answer": "B",
+          "explain": "Điều kiện loại 1: If + hiện tại đơn; Ms. Kim → completes.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-02",
+          "no": 2,
+          "text": "The factory’s productivity _______ since the new manufacturing system was operational.",
+          "options": {
+            "A": "improves",
+            "B": "improved",
+            "C": "had improved",
+            "D": "has improved"
+          },
+          "answer": "D",
+          "explain": "since + mốc quá khứ → hiện tại hoàn thành: has improved.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-03",
+          "no": 3,
+          "text": "Fashion, Inc. _______ the order before Ms. Cho requested to cancel it.",
+          "options": {
+            "A": "ships",
+            "B": "is shipping",
+            "C": "had shipped",
+            "D": "will have shipped"
+          },
+          "answer": "C",
+          "explain": "Xảy ra trước hành động quá khứ (before … requested) → quá khứ hoàn thành: had shipped.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-04",
+          "no": 4,
+          "text": "Mr. Miller’s books have received great reviews since they ________.",
+          "options": {
+            "A": "were published",
+            "B": "publishing",
+            "C": "are published",
+            "D": "will be published"
+          },
+          "answer": "A",
+          "explain": "Sau since là mốc quá khứ; sách được xuất bản (bị động) → were published.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-05",
+          "no": 5,
+          "text": "If the weather ______ nice, the company’s picnic would have been held as scheduled.",
+          "options": {
+            "A": "was",
+            "B": "is",
+            "C": "has been",
+            "D": "had been"
+          },
+          "answer": "D",
+          "explain": "Vế sau would have + P2 → điều kiện loại 3: If + quá khứ hoàn thành: had been.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-06",
+          "no": 6,
+          "text": "By the end of this year, the Personnel manager ______ the employee reviews.",
+          "options": {
+            "A": "completes",
+            "B": "had completed",
+            "C": "will be completed",
+            "D": "will have completed"
+          },
+          "answer": "D",
+          "explain": "By the end of this year → tương lai hoàn thành; có tân ngữ nên chủ động: will have completed.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-07",
+          "no": 7,
+          "text": "Sunset Co. _______ another branch office in Florida in the near future.",
+          "options": {
+            "A": "will opened",
+            "B": "opens",
+            "C": "opening",
+            "D": "is going to open"
+          },
+          "answer": "D",
+          "explain": "in the near future → tương lai gần: is going to open (will opened sai dạng).",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-08",
+          "no": 8,
+          "text": "The manager ______ to your email as soon as he finishes the meeting with his clients.",
+          "options": {
+            "A": "replies",
+            "B": "to reply",
+            "C": "will reply",
+            "D": "replied"
+          },
+          "answer": "C",
+          "explain": "Mệnh đề chính đi với as soon as + hiện tại đơn → tương lai đơn: will reply.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-09",
+          "no": 9,
+          "text": "The play _______ before we arrive the theater.",
+          "options": {
+            "A": "is beginning",
+            "B": "will have begun",
+            "C": "begins",
+            "D": "to begin"
+          },
+          "answer": "B",
+          "explain": "Xảy ra trước một mốc tương lai (before we arrive) → tương lai hoàn thành: will have begun.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex4-10",
+          "no": 10,
+          "text": "If this month’s sales were not so low, the manager ______ a bonus for all employees.",
+          "options": {
+            "A": "will pay",
+            "B": "paid",
+            "C": "would pay",
+            "D": "would have paid"
+          },
+          "answer": "C",
+          "explain": "If + quá khứ đơn (were) → điều kiện loại 2: would pay.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex5",
+      "code": "ex5",
+      "title": "Exercise 5 — Chủ động sang bị động",
+      "subtitle": "Viết lại câu ở dạng bị động (Passive Voice)",
+      "kind": "rewrite",
+      "questions": [
+        {
+          "id": "d4-ex5-01",
+          "no": 1,
+          "text": "My mother reads newspapers every morning.",
+          "answer": "Newspapers are read by my mother every morning.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-02",
+          "no": 2,
+          "text": "Our company has implemented the new policy for 2 months.",
+          "answer": "The new policy has been implemented by our company for 2 months.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-03",
+          "no": 3,
+          "text": "Thousands of people visited the Ho Chi Minh Mausoleum yesterday.",
+          "answer": "The Ho Chi Minh Mausoleum was visited by thousands of people yesterday.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-04",
+          "no": 4,
+          "text": "Tom won’t invite John to the party.",
+          "answer": "John won’t be invited to the party by Tom.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-05",
+          "no": 5,
+          "text": "Johnny and Ted are going to decorate the classroom this Christmas.",
+          "answer": "The classroom is going to be decorated by Johnny and Ted this Christmas.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-06",
+          "no": 6,
+          "text": "Staff mustn't use this machine after 6:30 p.m.",
+          "answer": "This machine mustn't be used by staff after 6:30 p.m.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-07",
+          "no": 7,
+          "text": "The salesman is showing the customers the new penthouse.",
+          "answer": "The customers are being shown the new penthouse by the salesman.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-08",
+          "no": 8,
+          "text": "How could the thieves open this safe?",
+          "answer": "How could this safe be opened by the thieves?",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-09",
+          "no": 9,
+          "text": "Will the company employ a new secretary?",
+          "answer": "Will a new secretary be employed by the company?",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex5-10",
+          "no": 10,
+          "text": "They told us that Rebecca drank too much at her birthday party.",
+          "answer": "We were told that Rebecca drank too much at her birthday party.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex6",
+      "code": "ex6",
+      "title": "Exercise 6 — Bị động sang chủ động",
+      "subtitle": "Viết lại câu ở dạng chủ động (Active Voice)",
+      "kind": "rewrite",
+      "questions": [
+        {
+          "id": "d4-ex6-01",
+          "no": 1,
+          "text": "Students have been prevented from cheating by this rule.",
+          "answer": "This rule has prevented students from cheating.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex6-02",
+          "no": 2,
+          "text": "The first book was written by J. K. Rowling at the age of six.",
+          "answer": "J. K. Rowling wrote the first book at the age of six.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d4-ex6-03",
+          "no": 3,
+          "text": "The lunch won’t have been prepared by my parents by the time we came home.",
+          "answer": "My parents won’t have prepared the lunch by the time we came home.",
+          "source": {
+            "text": "pdf",
+            "answer": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex7",
+      "code": "ex7",
+      "title": "Exercise 7 — Chủ động hay bị động",
+      "subtitle": "Chọn một trong hai dạng của động từ",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex7-01",
+          "no": 1,
+          "text": "Our new product lines _________ for 2 weeks.",
+          "options": {
+            "A": "have released",
+            "B": "have been released"
+          },
+          "answer": "B",
+          "explain": "Sau chỗ trống không có tân ngữ, product lines bị tung ra → bị động: have been released.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-02",
+          "no": 2,
+          "text": "Our appliances will _________ for free.",
+          "options": {
+            "A": "service",
+            "B": "be serviced"
+          },
+          "answer": "B",
+          "explain": "Không có tân ngữ, thiết bị được bảo trì → bị động: be serviced.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-03",
+          "no": 3,
+          "text": "We _________ our gratitude to loyal customers.",
+          "options": {
+            "A": "convey",
+            "B": "are conveyed"
+          },
+          "answer": "A",
+          "explain": "Sau V có tân ngữ our gratitude → chủ động: convey.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-04",
+          "no": 4,
+          "text": "The CEO _________ a bonus to some excellent employees at the end of the quarter.",
+          "options": {
+            "A": "was paid",
+            "B": "paid"
+          },
+          "answer": "B",
+          "explain": "Sau V có tân ngữ a bonus → chủ động: paid.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-05",
+          "no": 5,
+          "text": "Scientists _________ that greenhouse gas emissions are the major cause of global warming.",
+          "options": {
+            "A": "argue",
+            "B": "are argued"
+          },
+          "answer": "A",
+          "explain": "Có mệnh đề that làm tân ngữ, nhà khoa học tự lập luận → chủ động: argue.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-06",
+          "no": 6,
+          "text": "Management _________ to develop a good relationship with the new partners.",
+          "options": {
+            "A": "required",
+            "B": "was required"
+          },
+          "answer": "B",
+          "explain": "Sau V là to-V chứ không phải tân ngữ (require sb to do → be required to do) → bị động: was required.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-07",
+          "no": 7,
+          "text": "He _________ to sales manager last week.",
+          "options": {
+            "A": "promoted",
+            "B": "was promoted"
+          },
+          "answer": "B",
+          "explain": "Không có tân ngữ, anh ấy được thăng chức → bị động: was promoted.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-08",
+          "no": 8,
+          "text": "Richard _________ the report while we were having lunch.",
+          "options": {
+            "A": "wrote",
+            "B": "was written"
+          },
+          "answer": "A",
+          "explain": "Sau V có tân ngữ the report → chủ động: wrote.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-09",
+          "no": 9,
+          "text": "All the necessary documents should _________ by the end of the month.",
+          "options": {
+            "A": "submit",
+            "B": "be submitted"
+          },
+          "answer": "B",
+          "explain": "Không có tân ngữ, tài liệu được nộp → bị động: be submitted.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex7-10",
+          "no": 10,
+          "text": "The technician _________ the door last week right after the director’s visit to the office.",
+          "options": {
+            "A": "repaired",
+            "B": "was repaired"
+          },
+          "answer": "A",
+          "explain": "Sau V có tân ngữ the door → chủ động: repaired.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-ex8",
+      "code": "ex8",
+      "title": "Exercise 8 — Chủ động, bị động (trắc nghiệm)",
+      "subtitle": "Chọn đáp án đúng để hoàn thành câu",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d4-ex8-01",
+          "no": 1,
+          "text": "The current tenants must _________ the offices by the end of June.",
+          "options": {
+            "A": "vacant",
+            "B": "vacancy",
+            "C": "vacate",
+            "D": "be vacated"
+          },
+          "answer": "C",
+          "explain": "Sau must cần động từ nguyên mẫu; có tân ngữ the offices → chủ động: vacate.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-02",
+          "no": 2,
+          "text": "The airline industry _________ by the government before 1979.",
+          "options": {
+            "A": "regulates",
+            "B": "regulation",
+            "C": "was regulated",
+            "D": "was regulating"
+          },
+          "answer": "C",
+          "explain": "Có by the government, mốc trước 1979 → bị động quá khứ: was regulated.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-03",
+          "no": 3,
+          "text": "The company’s future sales may _________ by the growth of its competitors.",
+          "options": {
+            "A": "affecting",
+            "B": "be affected",
+            "C": "be affecting",
+            "D": "affect"
+          },
+          "answer": "B",
+          "explain": "Có by…, không có tân ngữ → bị động sau modal: be affected.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-04",
+          "no": 4,
+          "text": "The manager ______ that the company spent too much money on office supplies.",
+          "options": {
+            "A": "is concluded",
+            "B": "concluded",
+            "C": "to conclude",
+            "D": "conclusion"
+          },
+          "answer": "B",
+          "explain": "Có mệnh đề that làm tân ngữ → chủ động; cần động từ chia: concluded.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-05",
+          "no": 5,
+          "text": "Air pollution has to ________ no matter how much money is spent.",
+          "options": {
+            "A": "reduce",
+            "B": "is reduced",
+            "C": "be reduced",
+            "D": "reducing"
+          },
+          "answer": "C",
+          "explain": "Không có tân ngữ, ô nhiễm bị giảm → have to + be + P2: be reduced.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-06",
+          "no": 6,
+          "text": "They ________ to the welcoming party, but they decided not to go there.",
+          "options": {
+            "A": "invite",
+            "B": "invited",
+            "C": "have been invited",
+            "D": "has been invited"
+          },
+          "answer": "C",
+          "explain": "Sau V là to the party, không có tân ngữ → bị động; they → have been invited.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-07",
+          "no": 7,
+          "text": "Your package will ________ immediately after we confirm your payment.",
+          "options": {
+            "A": "deliver",
+            "B": "delivered",
+            "C": "been delivered",
+            "D": "be delivered"
+          },
+          "answer": "D",
+          "explain": "Không có tân ngữ, gói hàng được giao → will + be + P2: be delivered.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-08",
+          "no": 8,
+          "text": "If all the information ______ correctly, you will then be directed to the payment.",
+          "options": {
+            "A": "entered",
+            "B": "will be entered",
+            "C": "will be entering",
+            "D": "is entered"
+          },
+          "answer": "D",
+          "explain": "Mệnh đề If loại 1 dùng hiện tại đơn; thông tin được nhập → bị động: is entered.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-09",
+          "no": 9,
+          "text": "The outdoor concert ________ on schedule if the weather is beautiful.",
+          "options": {
+            "A": "will be occurred",
+            "B": "is occurred",
+            "C": "will occur",
+            "D": "occurring"
+          },
+          "answer": "C",
+          "explain": "occur là nội động từ, không dùng bị động; vế chính điều kiện loại 1 → will occur.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d4-ex8-10",
+          "no": 10,
+          "text": "Mr. Coleman has ________ as a temporary worker at the History Museum.",
+          "options": {
+            "A": "hired",
+            "B": "been hired",
+            "C": "been hiring",
+            "D": "be hired"
+          },
+          "answer": "B",
+          "explain": "Không có tân ngữ, ông ấy được thuê → has been hired.",
+          "vi": null,
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

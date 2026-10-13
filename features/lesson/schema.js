@@ -36,5 +36,6 @@ export function assemble(slug, files) {
     listening: items('listening'),
     pictures: items('pictures'),
     quiz: items('quiz'),
+    exercises: items('exercises'),
   };
 }

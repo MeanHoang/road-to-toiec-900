@@ -14,6 +14,7 @@ component and does not belong in `shared/ui`. It belongs here.
 | `game/` | The vocabulary quiz: building a round, playing it, showing the result |
 | `listening/` | Listening sets — three panels, because dictation, class-notes and multiple-choice follow different rules |
 | `translation/` | The S / V / O marking exercise |
+| `exercises/` | Grammar multiple-choice and rewrite-the-sentence drills |
 | `pictures/` | Picture vocabulary and how an answer is graded |
 | `theory/` | Theory blocks, one renderer per block type |
 

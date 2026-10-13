@@ -1,6 +1,7 @@
-// Lời thoại có hai dạng: một câu (bài chép chính tả), hoặc bốn phương án A-D
-// (bài trắc nghiệm Part 1, audio đọc đúng bốn câu đó). Màn hình không nên phải
-// biết mình đang cầm dạng nào.
+// Lời thoại có hai dạng: một câu (bài chép chính tả), hoặc các phương án A-D
+// (bài trắc nghiệm, audio đọc đúng các câu đó). Part 2 còn có thêm `Q` — câu
+// hỏi audio đọc trước ba phương án. Màn hình không nên phải biết mình đang cầm
+// dạng nào.
 
 import { CHOICES } from './rules';
 
@@ -9,9 +10,10 @@ export function transcriptText(transcript) {
   if (!transcript) return '';
   if (typeof transcript === 'string') return transcript;
 
-  return CHOICES.filter((letter) => transcript[letter])
+  const options = CHOICES.filter((letter) => transcript[letter])
     .map((letter) => `(${letter}) ${transcript[letter]}`)
     .join('   ');
+  return transcript.Q ? `${transcript.Q}   ${options}` : options;
 }
 
 /** Lời thoại của riêng một phương án, cho màn trắc nghiệm. */

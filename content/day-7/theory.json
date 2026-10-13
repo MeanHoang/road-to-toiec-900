@@ -1,0 +1,128 @@
+{
+  "collection": "theory",
+  "day": "day-7",
+  "title": "Lý thuyết câu hỏi What, How, Why",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d7-t-what",
+      "type": "table",
+      "title": "I. WHAT question",
+      "note": "Đây là loại câu hỏi khó trong đề thi vì phạm vi trả lời rất rộng. 1 số loại câu hỏi What thường gặp (kèm cách trả lời thông dụng).",
+      "columns": [
+        "Câu hỏi",
+        "Cách trả lời thông dụng"
+      ],
+      "rows": [
+        [
+          "What time: hỏi thời gian",
+          "Cách trả lời tương tự câu hỏi When"
+        ],
+        [
+          "What … cost/price/fee/rate/charge: hỏi giá cả",
+          "Đơn vị tiền tệ: dollar, euro, cent, pound"
+        ],
+        [
+          "What kind of + N: hỏi loại gì",
+          "VD: What kind of company are you working in?\n(Bạn làm trong công ty gì?)"
+        ],
+        [
+          "What is the best way to: hỏi phương tiện đi tới đâu đó",
+          "By + Bus, train, … / Take + a taxi, flight, subway, …\nYou should drive (car)"
+        ],
+        [
+          "What do you think of: hỏi ý kiến",
+          "What do you think of my idea? (bạn nghĩ sao về ý tưởng của tôi?)"
+        ],
+        [
+          "What color/ paper/ size/ company ….",
+          ""
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d7-t-what-keyword",
+      "type": "notes",
+      "title": "WHAT — khi không có từ đặc biệt",
+      "lines": [
+        "Ngoài ra, nếu câu hỏi What không đi kèm các từ đặc biệt như trên, chúng ta phải nghe và tìm ra những từ khóa khác trong câu hỏi để hiểu nghĩa và chọn đáp án phù hợp."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d7-t-how",
+      "type": "table",
+      "title": "II. HOW question",
+      "note": "1 số loại câu hỏi How thường gặp:",
+      "columns": [
+        "Câu hỏi",
+        "Cách trả lời trực tiếp"
+      ],
+      "rows": [
+        [
+          "How many: hỏi số lượng",
+          "Câu trả lời thường xuất hiện số lượng"
+        ],
+        [
+          "How much + N: hỏi số lượng",
+          "How much time do you need? (bạn cần bao nhiêu thời gian?) → Just 5 minutes"
+        ],
+        [
+          "How much + trợ động từ: hỏi giá cả",
+          "Dấu hiệu: Dollar, euro, cent, pound\nVD: How much does this cost?"
+        ],
+        [
+          "How long: hỏi khoảng thời gian",
+          "Dấu hiệu: for, almost, nearly\nVD: How long have you stayed there?"
+        ],
+        [
+          "How long: hỏi độ dài",
+          "How long is this letter? (lá thư này dài bao nhiêu?)"
+        ],
+        [
+          "How often: hỏi tần suất",
+          "Once, twice, (three/ several) times, every"
+        ],
+        [
+          "How far: hỏi khoảng cách bao xa",
+          "Meter, kilometer, 10 minutes away, 10minute walk, within walking distance"
+        ],
+        [
+          "How soon = when\nHow late",
+          "How soon can I make an appointment with Dr. Thomson?"
+        ],
+        [
+          "How + tobe: như thế nào\nHow + trợ động từ: bằng cách nào",
+          "How is your new job?"
+        ],
+        [
+          "How about + V-ing: gợi ý làm gì",
+          "How about going out tonight? (Tối nay ra ngoài chơi đi?)\n→ That would be great! / Yes, I’d love to.\nSorry, I’m busy. / What about your homework?"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d7-t-why",
+      "type": "table",
+      "title": "III. WHY question",
+      "note": "Có 2 loại câu hỏi Why:",
+      "columns": [
+        "Loại câu hỏi",
+        "Cách trả lời"
+      ],
+      "rows": [
+        [
+          "Hỏi lý do/ mục đích\nEx: Why do you study TOEIC?\n(tại sao bạn học TOEIC?)",
+          "- Because, because of, due to + reason\nEx: Because I want to find a good job.\n- Only reason\nEx: I want to find a good job.\n- To/ in order to + V-inf\nEx: To find a good job.\n- For + V-ing/ N\nEx: For a good job."
+        ],
+        [
+          "Gợi ý, đề xuất với Why don’t\nEx: Why don’t we go out tonight?\n(Tối nay ra ngoài chơi đi?)",
+          "→ Đồng ý. Ex: That sounds nice! / It’s a good idea!\n→ Từ chối. Ex: I have another plan./ No, I’m busy."
+        ]
+      ],
+      "source": "pdf"
+    }
+  ]
+}

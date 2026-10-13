@@ -1,0 +1,877 @@
+{
+  "collection": "listening",
+  "day": "day-4",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d4-hw1",
+      "code": "hw1",
+      "title": "Homework — Exercise 1",
+      "subtitle": "Part 1: nghe 1 lần chọn đáp án mô tả đúng nhất, nghe lại rồi ghi xuống đáp án đã chọn",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-4/audio/0 - full.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d4-hw1-01",
+          "no": 1,
+          "audio": "/assets/day-4/audio/1.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-1.jpg",
+          "answer": null,
+          "transcript": "Now, part one will begin. Number one. Look at the picture mark number one in your test book. A. The man's holding a wallet. B. The man's painting a picture. C. The man's brushing his hair. D. The man's sweeping with a broom.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-02",
+          "no": 2,
+          "audio": "/assets/day-4/audio/2.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-2.jpg",
+          "answer": null,
+          "transcript": "Number two. Look at the picture mark number two in your test book. A. The woman's picking up a bag. B. The woman's carrying some flowers. C. The woman's throwing something away. D. The woman's sitting outdoors.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-03",
+          "no": 3,
+          "audio": "/assets/day-4/audio/3.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-1.jpg",
+          "answer": null,
+          "transcript": "Number three. Look at the picture marked number three in your test book. A. The men are passing a plate of food. B. The men are washing some dishes. C. The men are exchanging money. D. The men are cooking dinner.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-04",
+          "no": 4,
+          "audio": "/assets/day-4/audio/4.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-2.jpg",
+          "answer": null,
+          "transcript": "Number four. Look at the picture marked number four in your test book. A. Artwork is being taken off the wall. B. A plant has fallen over on the floor. C. A rug is lying in front of the door. D. A package has been set in the hallway.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-05",
+          "no": 5,
+          "audio": "/assets/day-4/audio/5.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-1.jpg",
+          "answer": null,
+          "transcript": "Number five. Look at the picture marked number five in your test book. A. They're entering separate offices. B. They're examining papers on a table. C. The woman's hung her jacket on a chair. D. The man's watching a presentation on a screen.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-06",
+          "no": 6,
+          "audio": "/assets/day-4/audio/6.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-2.jpg",
+          "answer": null,
+          "transcript": "Number six. Look at the picture mark number six in your test book. A. Some hikers are climbing a hill. B. A railing is being installed. C. Some people are purchasing shirts. D. Vendors are displaying their merchandise.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-07",
+          "no": 7,
+          "audio": "/assets/day-4/audio/7.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-7.jpg",
+          "answer": null,
+          "transcript": "Number seven. Look at the picture marked number seven in your test book. A. Some tents are being assembled. B. The chairs are shaded by umbrellas. C. Tourists are relaxing on the beach. D. Towels have been spread out on the sand.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-08",
+          "no": 8,
+          "audio": "/assets/day-4/audio/8.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-3.jpg",
+          "answer": null,
+          "transcript": "Some performers are on a stage. An audience is seated in rows. Tickets are being collected. People are exiting a theatre.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-09",
+          "no": 9,
+          "audio": "/assets/day-4/audio/9.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-1.jpg",
+          "answer": null,
+          "transcript": "Number nine. Look at the picture marked number nine in your test book. A. The man is removing his coat. B. The man is pushing a gate open. C. A suitcase has been left on the floor. D. A cart has been loaded with luggage.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw1-10",
+          "no": 10,
+          "audio": "/assets/day-4/audio/10.mp3",
+          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-2.jpg",
+          "answer": null,
+          "transcript": "Number 10. Look at the picture marked number 10 in your test book. A. Spectators have gathered along the street. B. A sporting event is taking place in a stadium. C. The road has been blocked by some tires. D. Riders are getting on their bicycles.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-hw2",
+      "code": "hw2",
+      "title": "Homework — Exercise 2",
+      "subtitle": "Part 3: nghe hội thoại, điền nội dung còn thiếu vào chỗ trống, rồi thử dịch cả đoạn",
+      "part": 3,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d4-hw2-01",
+          "no": 1,
+          "audio": "/assets/day-4/audio/32-34.mp3",
+          "image": null,
+          "question": "M-Au: Hello, I’m a ________ here at the ________. I plan to do some _______________ today, and I have a question.\nW-Br: Certainly. What can I help you with?\nM-Au: I’m __________ in __________ a couple of _________ neighborhoods. What would be a ________ ________ to ________ ________ to see them?\nW-Br: Well, you could ________ a ________. There’s a shop just down the street where you can get one.\nM-Au: Oh, that’s perfect if it’s not too ___________.\nW-Br: I ________ ________ what they _________, but I’d be happy to _______ them and _______ ______.",
+          "answer": null,
+          "transcript": "Questions 32-34 refer to the following conversation. Hello, I'm a guest here at the hotel. I plan to do some sightseeing today and I have a question. Certainly. What can I help you with? I'm interested in visiting a couple of historic neighbourhoods. What would be a good way to travel around to see them? Well, you could rent a bicycle. There's a shop just down the street where you can get one. Oh, that's perfect. If it's not too expensive. I don't know what they charge, but I'd be happy to call them and find out. What does the man say he plans to do today? What does the man ask about? What does the woman offer to do?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-02",
+          "no": 2,
+          "audio": "/assets/day-4/audio/35-37.mp3",
+          "image": null,
+          "question": "W-Am: The ________ of our ____________ is supposed to be in today’s _______________. Have you seen it yet?\nM-Au: I ________ it before I came in to ________. It’s the ________ ________ in the Entertainment section!\nW-Am: Really? I hope it had a lot of good things to say about us.\nM-Au: It did. In fact, I think we’ll have a lot of ________ ________ this week, thanks to the ________ ________. Especially since the reviewers really ________ our specialty _________!\nW-Am: Well, then we’d better ________ ________ ________. I’ll ________ more ______________ right away.",
+          "answer": null,
+          "transcript": "Questions 35 through 37 refer to the following conversation. The review of our restaurant is supposed to be in today's newspaper. Have you seen it yet? I read it before I came into work. It's the first review in the entertainment section. Really? I hope it had a lot of good things to say about us. It did. In fact, I think we'll have a lot of new customers this week, thanks to the positive review. Especially since the reviewers really liked our space. Well, then we'd better prepare more food. I'll order more ingredients right away. What does the man think will happen this week? What will the woman most likely do next?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-03",
+          "no": 3,
+          "audio": "/assets/day-4/audio/38-40.mp3",
+          "image": null,
+          "question": "M-Cn: Welcome to Pavilion ____________ ________. How can I help you?\nW-Am: Well, the ________ on the ________ of my refrigerator ________ ________.\nM-Cn: Oh, that’s not good. If you bought it ________ ________ a year ago, it’s not going to be ________ by the warranty.\nW-Am: I know — I bought it three years ago. But I can ________ it myself... I just need to ________ the handle.\nM-Cn: I’m sorry, but we don’t sell _______________ parts.\nW-Am: So, do you know of a store that does sell them?\nM-Cn: Well, there is a ____________ that sells appliance parts at good prices. You could see if they have what you’re ________ ________. It’s called AppliancePartsForYou.com.",
+          "answer": null,
+          "transcript": "Questions 38-40 refer to the following conversation. Welcome to Pavilion Appliance Store. How can I help you? Well, the handle on the door of my refrigerator broke off. Oh, that's not good. If you bought it more than a year ago, it's not going to be covered by the warranty. I know. I bought it three years ago. But I can fix it myself. I just need to buy the handle. I'm sorry, but we don't see sell replacement parts. So do you know of a store that does sell them? Well, there is a website that sells appliance parts at good prices. You can see if they have what you're looking for. It's called AppliancePartsForYou.com. What problem does the woman mention? What does the man suggest the woman do?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-04",
+          "no": 4,
+          "audio": "/assets/day-4/audio/41-43.mp3",
+          "image": null,
+          "question": "M-Au: Hi. I’m calling about your ________ ___________ ________. According to your Web site, it’s one of three _________ required for your Professional Certificate in Management. I’m not _________ in the ______________, so can I just take the _________ _________?\nW-Am: Yes, but it’s probably worth it to get the ___________. Have you seen our ________ ________? Most people who ___________ the certificate program are very _________.\nM-Au: Yes, I have a ________ who got the management certificate through your program. It’s really ________ her in her ________.\nW-Am: Well, if you’re worried about the ________, you might qualify for a ________ ________ ________. Would you like me to look into that for you?",
+          "answer": null,
+          "transcript": "Questions 41 through 43 refer to the following conversation. >> Hi. I'm calling about your online leadership course. According to your website, it's one of three courses required for your professional certificate in management. I'm not interested in the certificate. So can I just take the leadership course? >> Yes, but it's probably worth it to get the certificate. Have you seen our online reviews? >> A lot of people who complete the certificate program are very satisfied. >> Yes, I have a friend who got the management certificate through your program. It's really helped her in her career. >> Well, if you're worried about the cost, you might qualify for a reduced course fee. Would you like me to look into that for you? 42. What does the man say about his friend? 43. What does the woman say the man might be eligible for?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-05",
+          "no": 5,
+          "audio": "/assets/day-4/audio/44-46.mp3",
+          "image": null,
+          "question": "W-Br: Hi, Carlos. Did you see the ________ from the _________? Our ________ ________ is going to stay ________ ________ ________!\nM-Au: Yes, I read it. The e-mail said the ________ ________ will start ________ ________. I think it’ll make our members very happy. They’ve wanted later hours for a while.\nW-Br: Definitely. The __________ also asked us to ________ ________ ________ and ________ them around the ________ so members are aware of this _________.\nM-Au: I have some time now. I’ll get started _________ those ________ right away.",
+          "answer": null,
+          "transcript": "Questions 44 through 46 refer to the following conversation. Hi Carlos. Did you see the email from the manager? Our fitness center is going to stay open 24 hours. Yes, I read it. The email said the new hours will start next month. I think it'll make our members very happy. They've wanted later hours for a while. Definitely. The manager also asked us to make some signs and post them around the gym so members are aware of this change. I have some time now. I'll get started making those signs right away. #44. Where do the speakers work? #45. According to the speakers, what will happen next month? Number 46. What does the man offer to do?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-06",
+          "no": 6,
+          "audio": "/assets/day-4/audio/47-49.mp3",
+          "image": null,
+          "question": "(Cuộc hội thoại ba người)\nM-Cn: Adam, I just got a ___________ to come to the ________ floor.\nM-Cn: Is something wrong?\nM-Au: There’s a problem with the last ________ ________ that came off the ___________ _________. Look at this one — the top surface of the ________ is ________ because no glue was applied from the __________.\nM-Cn: Carol — could you join us for a minute? Can you check the glue machines on your team’s part of the assembly line? They probably need a refill.\nW-Am: OK. I’ll ________ them ________ and take a look. We should be ________ in ________ within an hour.\nM-Cn: Good. This ____________ at ________ ________, some prospective __________ will be __________. Everything needs to be running smoothly by then.",
+          "answer": null,
+          "transcript": ">> Questions 47 through 49 refer to the following conversation with three speakers. >> Adam, I just got a message to come to the factory floor. Is something wrong? >> There's a problem with the last few desks that came off the production line. Look at this one. The top surface of the desk is loose because no glue was applied from the machines. >> Carol, could you join us for a minute? Can you check the glue machines on your team's part of the assembly line? >> We probably need a refill. >> Okay. I'll shut them down and take a look. We should be back in service within an hour. >> Good. This afternoon at 1 o'clock some prospective clients will be visiting. Everything needs to be running smoothly by then. What problem do the men describe? What is scheduled to happen at 1 o'clock?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-07",
+          "no": 7,
+          "audio": "/assets/day-4/audio/50-52.mp3",
+          "image": null,
+          "question": "W-Br: Hi, Gerard. Just a reminder, all ___________ for this year’s ___________ ___________ have to be submitted by tomorrow.\nM-Cn: Yes, I know. I actually __________ my ___________ earlier today, but I haven’t been able to upload it yet… I think the Web site’s ________ for _____________.\nW-Br: Oh, I had the same problem — the __________ is really ________. You just have to keep trying.\nM-Cn: In that case, I think I’ll ______ ______ ________ first and try again when I get back. Would you like to join me?\nW-Br: Sure — let’s go now.",
+          "answer": null,
+          "transcript": "Questions 50 through 52 refer to the following conversation. - Hi, Gerard. Just a reminder, all proposals for this year's technology conference have to be submitted by tomorrow. - Yes, I know. I actually finished my proposal earlier today, but I haven't been able to upload it yet. I think the website's down for maintenance. - Oh, I had the same problem. The website's really busy. - You just have to keep trying. - In that case, I think I'll go to lunch first and try again when I get back. Would you like to join me? - Sure. Let's go now. What will the speakers do next?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d4-hw2-08",
+          "no": 8,
+          "audio": "/assets/day-4/audio/53-55.mp3",
+          "image": null,
+          "question": "M-Au: Hi, Emiko. (53) Welcome to Essen Accounting. I’m Amal Hassan, from __________ ____________. I’ll _______ you around the ________ and introduce you to the rest of the _____________ ___________.\nW-Am: Nice to meet you, Amal. Do you know if I’ll get my permanent ID badge soon? (54) I just have this temporary ID card, and this isn’t the correct spelling of my ________.\nM-Au: Well, you can ________ that ID to _________ through the ____________ today, but we’ll ask at the security desk later. Do you ________ any other _____________ before we _________ ________ _________?\nW-Am: Um, (55) I thought I’d get ___________ of my employee _____________, but I haven’t received anything yet. Is there something I should do?\nM-Au: Oh, it normally takes a few days.",
+          "answer": null,
+          "transcript": "Questions 53 through 55 refer to the following conversation. Hi, Emiko. Welcome to Essen Accounting. I'm Amal Hassan from Human Resources. I'll show you around the office and introduce you to the rest of the accounting team. Nice to meet you, Amal. Do you know if I'll get my permanent ID badge soon? I just have this temporary ID card, and this isn't the correct spelling of my name. Well, you can use that ID to move through the building today, but we'll ask at the security desk later. Do you have any other questions before we start the tour? I get copies of my employee paperwork, but I haven't received anything yet. Is there something I should do? Oh, it normally takes a few days. Number 53. Who most likely is the woman? Number 54. What does the woman tell the man about her ID card? Number 55. Why does the man and say, \"It normally takes a few days.\"",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4-hw3",
+      "code": "hw3",
+      "title": "Homework — Exercise 3",
+      "subtitle": "Part 3: đọc câu hỏi, tìm nội dung tương ứng trong hội thoại vừa nghe và chọn 1 đáp án đúng",
+      "part": 3,
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d4-hw3-32",
+          "no": 32,
+          "audio": "/assets/day-4/audio/32-34.mp3",
+          "image": null,
+          "question": "What does the man say he plans to do today?",
+          "options": {
+            "A": "Go sightseeing",
+            "B": "Attend a conference",
+            "C": "Purchase some gifts",
+            "D": "Stop at a bank"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-33",
+          "no": 33,
+          "audio": "/assets/day-4/audio/32-34.mp3",
+          "image": null,
+          "question": "What does the man ask about?",
+          "options": {
+            "A": "Internet access",
+            "B": "Use of a fitness center",
+            "C": "Transportation options",
+            "D": "Nearby restaurants"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-34",
+          "no": 34,
+          "audio": "/assets/day-4/audio/32-34.mp3",
+          "image": null,
+          "question": "What does the woman offer to do?",
+          "options": {
+            "A": "Make a reservation",
+            "B": "Print a parking pass",
+            "C": "Provide a password",
+            "D": "Check on some prices"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-35",
+          "no": 35,
+          "audio": "/assets/day-4/audio/35-37.mp3",
+          "image": null,
+          "question": "What did the man do before coming in to work?",
+          "options": {
+            "A": "He met with a friend.",
+            "B": "He revised a menu.",
+            "C": "He read a newspaper.",
+            "D": "He bought some breakfast."
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-36",
+          "no": 36,
+          "audio": "/assets/day-4/audio/35-37.mp3",
+          "image": null,
+          "question": "What does the man think will happen this week?",
+          "options": {
+            "A": "There will be more customers.",
+            "B": "There will be a safety inspection.",
+            "C": "A contract will be renewed.",
+            "D": "A new chef will be hired."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-37",
+          "no": 37,
+          "audio": "/assets/day-4/audio/35-37.mp3",
+          "image": null,
+          "question": "What will the woman most likely do next?",
+          "options": {
+            "A": "Hire additional staff",
+            "B": "Schedule some repairs",
+            "C": "Place an order",
+            "D": "Print an article"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-38",
+          "no": 38,
+          "audio": "/assets/day-4/audio/38-40.mp3",
+          "image": null,
+          "question": "Who most likely is the man?",
+          "options": {
+            "A": "A supermarket manager",
+            "B": "An appliance store employee",
+            "C": "An ice-cream shop owner",
+            "D": "A real estate agent"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-39",
+          "no": 39,
+          "audio": "/assets/day-4/audio/38-40.mp3",
+          "image": null,
+          "question": "What problem does the woman mention?",
+          "options": {
+            "A": "An invoice is incorrect.",
+            "B": "An item is broken.",
+            "C": "A document is missing.",
+            "D": "A product is too expensive."
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-40",
+          "no": 40,
+          "audio": "/assets/day-4/audio/38-40.mp3",
+          "image": null,
+          "question": "What does the man suggest the woman do?",
+          "options": {
+            "A": "Purchase a warranty",
+            "B": "Return some merchandise",
+            "C": "Call a specialist",
+            "D": "Find an item online"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-41",
+          "no": 41,
+          "audio": "/assets/day-4/audio/41-43.mp3",
+          "image": null,
+          "question": "Why is the man calling?",
+          "options": {
+            "A": "To make a payment",
+            "B": "To request an extension",
+            "C": "To cancel a registration",
+            "D": "To obtain course information"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-42",
+          "no": 42,
+          "audio": "/assets/day-4/audio/41-43.mp3",
+          "image": null,
+          "question": "What does the man say about his friend?",
+          "options": {
+            "A": "She works in his office.",
+            "B": "She benefited from a certificate program.",
+            "C": "She runs a successful accounting firm.",
+            "D": "She wrote a positive review."
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-43",
+          "no": 43,
+          "audio": "/assets/day-4/audio/41-43.mp3",
+          "image": null,
+          "question": "What does the woman say the man might be eligible for?",
+          "options": {
+            "A": "A reduced fee",
+            "B": "A consultation",
+            "C": "A job promotion",
+            "D": "A free upgrade"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-44",
+          "no": 44,
+          "audio": "/assets/day-4/audio/44-46.mp3",
+          "image": null,
+          "question": "Where do the speakers work?",
+          "options": {
+            "A": "At a clothing store",
+            "B": "At a fitness center",
+            "C": "At a software company",
+            "D": "At a sports arena"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-45",
+          "no": 45,
+          "audio": "/assets/day-4/audio/44-46.mp3",
+          "image": null,
+          "question": "According to the speakers, what will happen next month?",
+          "options": {
+            "A": "Pricing options will change.",
+            "B": "Renovation work will begin.",
+            "C": "New employees will be hired.",
+            "D": "Business hours will be extended."
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-46",
+          "no": 46,
+          "audio": "/assets/day-4/audio/44-46.mp3",
+          "image": null,
+          "question": "What does the man offer to do?",
+          "options": {
+            "A": "Make some signs",
+            "B": "Update a schedule",
+            "C": "Estimate some costs",
+            "D": "Send an e-mail"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-47",
+          "no": 47,
+          "audio": "/assets/day-4/audio/47-49.mp3",
+          "image": null,
+          "question": "Where most likely are the speakers?",
+          "options": {
+            "A": "At a print shop",
+            "B": "At a furniture factory",
+            "C": "At an appliance warehouse",
+            "D": "At a stationery store"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-48",
+          "no": 48,
+          "audio": "/assets/day-4/audio/47-49.mp3",
+          "image": null,
+          "question": "What problem do the men describe?",
+          "options": {
+            "A": "A door has been left open.",
+            "B": "A delivery truck has been delayed.",
+            "C": "Some employees are out sick.",
+            "D": "Some products are defective."
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-49",
+          "no": 49,
+          "audio": "/assets/day-4/audio/47-49.mp3",
+          "image": null,
+          "question": "What is scheduled to happen at one o’clock?",
+          "options": {
+            "A": "Some clients will visit.",
+            "B": "Some equipment will be cleaned.",
+            "C": "A training session will be conducted.",
+            "D": "An employee luncheon will be held."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-50",
+          "no": 50,
+          "audio": "/assets/day-4/audio/50-52.mp3",
+          "image": null,
+          "question": "What did the man recently finish?",
+          "options": {
+            "A": "A conference proposal",
+            "B": "An agenda for a business trip",
+            "C": "A revision to a client database",
+            "D": "A review of some blueprints"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-51",
+          "no": 51,
+          "audio": "/assets/day-4/audio/50-52.mp3",
+          "image": null,
+          "question": "What problem does the man mention?",
+          "options": {
+            "A": "Additional permits are needed.",
+            "B": "An expense was not approved.",
+            "C": "A supervisor is unavailable.",
+            "D": "A Web site is not working."
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-52",
+          "no": 52,
+          "audio": "/assets/day-4/audio/50-52.mp3",
+          "image": null,
+          "question": "What will the speakers do next?",
+          "options": {
+            "A": "Rehearse a presentation",
+            "B": "Print some documents",
+            "C": "Go have lunch",
+            "D": "Call technical support"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-53",
+          "no": 53,
+          "audio": "/assets/day-4/audio/53-55.mp3",
+          "image": null,
+          "question": "Who most likely is the woman?",
+          "options": {
+            "A": "A safety inspector",
+            "B": "An overseas client",
+            "C": "An athlete",
+            "D": "An accountant"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-54",
+          "no": 54,
+          "audio": "/assets/day-4/audio/53-55.mp3",
+          "image": null,
+          "question": "What does the woman tell the man about her ID card?",
+          "options": {
+            "A": "It is expired.",
+            "B": "It has the wrong photo.",
+            "C": "Her name is misspelled.",
+            "D": "She forgot to bring it."
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d4-hw3-55",
+          "no": 55,
+          "audio": "/assets/day-4/audio/53-55.mp3",
+          "image": null,
+          "question": "Why does the man say, “it normally takes a few days”?",
+          "options": {
+            "A": "To reject a request",
+            "B": "To address a concern",
+            "C": "To complain about a delay",
+            "D": "To acknowledge an accomplishment"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": null
+          }
+        }
+      ]
+    }
+  ]
+}

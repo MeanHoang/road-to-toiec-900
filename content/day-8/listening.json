@@ -1,0 +1,1127 @@
+{
+  "collection": "listening",
+  "day": "day-8",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d8-pwc",
+      "code": "pwc",
+      "title": "Practice — WHICH / Choice questions",
+      "subtitle": "Câu hỏi lựa chọn: nghe rồi chép lại câu hỏi và các câu trả lời (câu 5–9: chọn 1 đáp án đúng A–C)",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d8-pwc-01",
+          "no": 1,
+          "audio": "/assets/day-8/audio/which-choice/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Which room is the conference room? The one on your right. The big one.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-02",
+          "no": 2,
+          "audio": "/assets/day-8/audio/which-choice/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Which bag is yours? This one is mine. Neither one belongs to me. It's the last one.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-03",
+          "no": 3,
+          "audio": "/assets/day-8/audio/which-choice/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Do you like the red sweater or the blue one?",
+            "A": "Either is fine with me.",
+            "B": "They both look good.",
+            "C": "Whichever costs less."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-04",
+          "no": 4,
+          "audio": "/assets/day-8/audio/which-choice/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Which of you can work late tonight? None of us except Susan. None of us can stay late.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-05",
+          "no": 5,
+          "audio": "/assets/day-8/audio/which-choice/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which of these notebooks is yours?",
+            "A": "At the library.",
+            "B": "The black one's mine.",
+            "C": "Thanks, it is."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-06",
+          "no": 6,
+          "audio": "/assets/day-8/audio/which-choice/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Can we walk to the train station or should we drive?",
+            "A": "No, a round-trip ticket.",
+            "B": "We work at the bank.",
+            "C": "I think we should drive."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-07",
+          "no": 7,
+          "audio": "/assets/day-8/audio/which-choice/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Can I pay by credit card, or do I have to pay cash? No, it's not on sale. Yes, that's the right price. Either is fine.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-08",
+          "no": 8,
+          "audio": "/assets/day-8/audio/which-choice/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Which restaurant did you book for tonight?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pwc-09",
+          "no": 9,
+          "audio": "/assets/day-8/audio/which-choice/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Would you like me to bring your soup now or later? She'll meet us later. Now would be fine. Let's try another restaurant.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8-pyn",
+      "code": "pyn",
+      "title": "Practice — YES / NO questions",
+      "subtitle": "Câu hỏi xác nhận thông tin: nghe rồi chép lại câu hỏi và ba phương án A–C",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "questions": [
+        {
+          "id": "d8-pyn-01",
+          "no": 1,
+          "audio": "/assets/day-8/audio/yesno/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "number thirteen Did you go shopping last weekend? a That one comes first B. No, I didn't have time C. They're quite friendly you",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-02",
+          "no": 2,
+          "audio": "/assets/day-8/audio/yesno/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "That's a new table, isn't it? Of course you can. Yes, I bought it yesterday. I didn't see the news.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-03",
+          "no": 3,
+          "audio": "/assets/day-8/audio/yesno/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Can you call me back before 5 p.m.? Yes, no problem. There are only four. It's in the back.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-04",
+          "no": 4,
+          "audio": "/assets/day-8/audio/yesno/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Isn't Mr. Williams a little light? Yes, he should be here by now. Yes, it is a bit small. Late yesterday afternoon.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-05",
+          "no": 5,
+          "audio": "/assets/day-8/audio/yesno/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "May I ask you a question?",
+            "A": "No, I never have.",
+            "B": "Last June.",
+            "C": "Yes, how can I help you?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-06",
+          "no": 6,
+          "audio": "/assets/day-8/audio/yesno/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Weren't we supposed to meet at 2?",
+            "A": "No, you can't have too many.",
+            "B": "I met him yesterday.",
+            "C": "Yes, but I had trouble getting a taxi."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-pyn-07",
+          "no": 7,
+          "audio": "/assets/day-8/audio/yesno/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "This is Dr. Johnson's office, right?",
+            "A": "I wrote him a letter.",
+            "B": "I'd like the one on the left.",
+            "C": "No, that's next door."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8-hw1a",
+      "code": "hw1a",
+      "title": "Homework — Exercise 1 (câu 1–15)",
+      "subtitle": "Choice & Yes/No: chép toàn bộ câu hỏi + đáp án đã chọn",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no/1-15 - Choice Yes No.mp3",
+      "questions": [
+        {
+          "id": "d8-hw1a-01",
+          "no": 1,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which projects are you involved in these days?",
+            "A": "I'm on several design teams.",
+            "B": "Mondays and Fridays.",
+            "C": "At the laboratory."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-02",
+          "no": 2,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number two. Could I give you a call if I have any further questions?",
+            "A": "Let's call and ask for directions.",
+            "B": "I'd be happy to help in any way possible.",
+            "C": "Just tell them I have a few questions."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-03",
+          "no": 3,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Are you going to watch the movie or the game? Neither. I'm too tired. Yes, I'll move it here. It's not my watch.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-04",
+          "no": 4,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number four. Would you like to go hiking this weekend?",
+            "A": "That would be great.",
+            "B": "About twice a month.",
+            "C": "I met him at nine o'clock."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-05",
+          "no": 5,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number five. Which photograph do you prefer for this advertisement?",
+            "A": "I'd prefer a direct flight.",
+            "B": "In a magazine.",
+            "C": "How about the one with the boats?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-06",
+          "no": 6,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number six. Should we review our notes today or is tomorrow okay?",
+            "A": "They got great reviews.",
+            "B": "Yes, I noticed.",
+            "C": "It doesn't matter to me."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-07",
+          "no": 7,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number seven. Can't we see the movie tonight?",
+            "A": "The garden theater.",
+            "B": "Front row seats.",
+            "C": "I'm afraid I have other plans."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-08",
+          "no": 8,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which candidate was chosen as the new software engineer?",
+            "A": "At a higher salary.",
+            "B": "It's a new version.",
+            "C": "We selected Claudia Fernandez."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-09",
+          "no": 9,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Do you have my business card?",
+            "A": "I'll send a postcard.",
+            "B": "No. Could you give it to me?",
+            "C": "He may be busy."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-10",
+          "no": 10,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Do you like the red sweater or the blue one? I prefer the blue one. I haven't read that before. I bought it yesterday.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-11",
+          "no": 11,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which packages need to be sent?",
+            "A": "All of them.",
+            "B": "Yes, especially the packages.",
+            "C": "Express delivery, please."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-12",
+          "no": 12,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/12.mp3",
+          "image": null,
+          "question": "________ to Alan ________?",
+          "answer": null,
+          "transcript": {
+            "Q": "Did you speak to Alan or his assistant?",
+            "A": "Yes, he does.",
+            "B": "His assistant.",
+            "C": "The meeting's over."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper",
+            "question": "pdf"
+          }
+        },
+        {
+          "id": "d8-hw1a-13",
+          "no": 13,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which movie do you recommend?",
+            "A": "That's a good suggestion.",
+            "B": "Let's move it over there.",
+            "C": "The Comedy with Klaus Thomas."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-14",
+          "no": 14,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which do you prefer, sales or marketing?",
+            "A": "I am a new sales representative.",
+            "B": "I applied to the company.",
+            "C": "Neither. I like accounting."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1a-15",
+          "no": 15,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Do you live around here?",
+            "A": "Yes, within walking distance.",
+            "B": "No, I don't talk about it.",
+            "C": "I will leave tomorrow."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8-hw1b",
+      "code": "hw1b",
+      "title": "Homework — Exercise 1 (câu 16–30)",
+      "subtitle": "Choice & Yes/No: chép toàn bộ câu hỏi + đáp án đã chọn",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no/16-30 - Choice Yes No.mp3",
+      "questions": [
+        {
+          "id": "d8-hw1b-16",
+          "no": 16,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Would you like to sit indoors or outdoors? I'd like some fresh air. It's not necessary. I would like to reserve a table.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-17",
+          "no": 17,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Have you ever considered quitting your job?",
+            "A": "I've never seen it.",
+            "B": "No, I'm happy with this job.",
+            "C": "She hasn't done it yet."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-18",
+          "no": 18,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Have you already made a reservation, or would you like me to do it?",
+            "A": "Would you do that for me?",
+            "B": "It's already full.",
+            "C": "I didn't make a reservation."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-19",
+          "no": 19,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "May I sit next to you? A I am occupied with something. B This seat is already clean. C Sorry, but someone is sitting here.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-20",
+          "no": 20,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Should I turn on the air conditioner?",
+            "A": "Actually, you can't. It's broken.",
+            "B": "Yes, you should turn right.",
+            "C": "It's too complicated."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-21",
+          "no": 21,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number twenty-one. Which marketing reports do you need?",
+            "A": "At the outdoor market.",
+            "B": "I'll send you the list.",
+            "C": "He reports to Mr. Wu."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-22",
+          "no": 22,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which warehouse has the largest storage capacity?",
+            "A": "Carter Cities is the biggest in the area.",
+            "B": "For about a year.",
+            "C": "Where is the house located?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-23",
+          "no": 23,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Can you tell me which computer I should buy?",
+            "A": "We called a technician.",
+            "B": "I'd recommend a laptop.",
+            "C": "A two-year warranty."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-24",
+          "no": 24,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which catering service should we use for the retirement dinner?",
+            "A": "Let's decide later.",
+            "B": "The food was excellent.",
+            "C": "It's for Kenesha Jones."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-25",
+          "no": 25,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Do you think we should reduce the number of staff members?",
+            "A": "I have never hired anyone like that.",
+            "B": "I don't think that will be necessary.",
+            "C": "Nobody took care of it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-26",
+          "no": 26,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Did you hear that there is going to be an employee training session?",
+            "A": "Yes, I would like to participate in it.",
+            "B": "Jenny took part in the training session last year.",
+            "C": "I won't go over it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-27",
+          "no": 27,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which restaurant should we eat dinner at?",
+            "A": "Dinner is at 7 p.m.",
+            "B": "Either one is fine.",
+            "C": "We can meet tomorrow."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-28",
+          "no": 28,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Which company developed this software?",
+            "A": "No, it's too difficult.",
+            "B": "I'll look it up.",
+            "C": "Quite recently."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-29",
+          "no": 29,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "You don't need to use the copier now, do you? Yes, this is good coffee. I already have some, thanks. No, I just finished with it.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw1b-30",
+          "no": 30,
+          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Would you rather lead the research project team or work independently?",
+            "A": "At the research library.",
+            "B": "I'll lead the group this time.",
+            "C": "He's quite independent."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8-hw2t5",
+      "code": "hw2t5",
+      "title": "Homework — Exercise 2 · Test 5",
+      "subtitle": "Tranh Part 1: nghe một lần chọn đáp án, rồi nghe lại chép đáp án đã chọn",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-8/audio/exercise-2-tranh/Test 05 - 0 - full.mp3",
+      "questions": [
+        {
+          "id": "d8-hw2t5-01",
+          "no": 1,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 1.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p08-1.jpg",
+          "answer": null,
+          "transcript": "Number one. Look at the picture marked number one in your test book. A. A man is opening a drawer. B. A man is wiping a counter. C. A man is ordering a meal. D. A man is pouring a beverage.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t5-02",
+          "no": 2,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 2.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p08-2.jpg",
+          "answer": null,
+          "transcript": "Number two. Look at the picture marked number two in your test book. A. A bicycle has been loaded onto a truck. B. Cyclists are riding down a city street. C. Several cars are parked in a row. D. A driver is getting out of a vehicle.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t5-03",
+          "no": 3,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 3.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p09-1.jpg",
+          "answer": null,
+          "transcript": "Number three. Look at the picture marked number three in your test book. A. A woman is hanging up a sign. B. Some customers are waiting in line. C. Some customers are paying for some merchandise. D. A woman is wearing a jacket.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t5-04",
+          "no": 4,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 4.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p09-2.jpg",
+          "answer": null,
+          "transcript": "Number four. Look at the picture marked number four in your test book. A. Some people are entering a building. B. Some people are holding on to a railing. C. Some people are crossing a road. D. Some people are descending some stairs.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t5-05",
+          "no": 5,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 5.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p10-1.jpg",
+          "answer": null,
+          "transcript": "Number five. Look at the picture marked number five in your test book. A. A projector is being repositioned on a desk. B. Some printed materials are being distributed to a class. C. An audience is listening to a lecturer. D. Some people are organizing a workplace.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t5-06",
+          "no": 6,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 6.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p10-2.jpg",
+          "answer": null,
+          "transcript": "Number six. Look at the picture marked number six in your test book. A. A lamp has been attached to the wall. B. A door has been left open. C. An office is unoccupied. D. A keyboard is covered with file folders.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8-hw2t6",
+      "code": "hw2t6",
+      "title": "Homework — Exercise 2 · Test 6",
+      "subtitle": "Tranh Part 1: nghe một lần chọn đáp án, rồi nghe lại chép đáp án đã chọn",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-8/audio/exercise-2-tranh/Test 06 - 0 - full.mp3",
+      "questions": [
+        {
+          "id": "d8-hw2t6-01",
+          "no": 1,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 1.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p11-1.jpg",
+          "answer": null,
+          "transcript": "Number one. Look at the picture marked number one in your test book. A. Some people are carrying bags. B. Some people are seated next to a fence. C. A woman is opening a window. D. A man is planting a tree.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t6-02",
+          "no": 2,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 2.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p11-2-full.jpg",
+          "answer": null,
+          "transcript": "Number two. Look at the picture marked number two in your test book. A. She's fixing some broken tiles with a tool. B. She's installing a door in an entryway. C. Benches have been placed in a row. D. Reading material is on display in a hallway.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t6-03",
+          "no": 3,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 3.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p12-1.jpg",
+          "answer": null,
+          "transcript": "Number three. Look at the picture marked number three in your test book. A. The man is plugging in a computer. B. The man is drinking from a cup. C. The man is opening a window. D. The man is adjusting a chair.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t6-04",
+          "no": 4,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 4.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p12-2.jpg",
+          "answer": null,
+          "transcript": "Number four. Look at the picture marked number four in your test book. A. A man is writing on a chart. B. A woman is replacing a light bulb. C. Some people are looking at a screen. D. Some people are painting a wall.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t6-05",
+          "no": 5,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 5.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p13-1.jpg",
+          "answer": null,
+          "transcript": "Number five. Look at the picture marked number five in your test book. A. Cars are lined up at a toll booth. B. Some road signs are hanging from the ceiling. C. A tunnel has been closed for construction. D. Some people are standing on the side of a street.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d8-hw2t6-06",
+          "no": 6,
+          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 6.mp3",
+          "image": "/assets/day-8/images/day-8-which-choice-yesno/p13-2.jpg",
+          "answer": null,
+          "transcript": "Number six. Look at the picture marked number six in your test book. A. He's walking on a path. B. He's wearing sunglasses. C. He's lifting some pipes. D. He's cutting the grass.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}

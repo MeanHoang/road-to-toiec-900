@@ -1,0 +1,68 @@
+{
+  "collection": "theory",
+  "day": "day-9",
+  "title": "Lý thuyết Part 2 — Embedded questions, Statement, Indirect responses",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d9-t-embedded",
+      "type": "notes",
+      "title": "I. EMBEDDED QUESTIONS (câu hỏi kết hợp)",
+      "lines": [
+        "Là dạng câu hỏi bao gồm 2 vế:",
+        "Vế 1: Yes/No question: thường là: Do you (happen to) know …? · Do you think …? · Do you remember …? · May/Can I ask …? · Can/ Could you tell me …? · Can/ Could you show me …? …",
+        "Vế 2: Wh_question hoặc Statement",
+        "Ex: Do you know where can I get a cup of coffee? / Can you tell me how to operate this machine?",
+        "→ Cách trả lời: Đáp án cần cung cấp thông tin cho vế 2, và có thể chứa YES/NO",
+        "Ex: Yes, go to the café next to the corner. / Go to the café next to the corner."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d9-t-dontknow",
+      "type": "notes",
+      "title": "III. INDIRECT RESPONSES — Các mẫu câu “Không biết” có thể đúng với nhiều loại câu hỏi",
+      "lines": [
+        "I don’t know.",
+        "I have no idea / I have no clue.",
+        "I’m not sure / I’m not certain.",
+        "I don’t remember."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d9-t-indirect",
+      "type": "notes",
+      "title": "Các câu gián tiếp thể hiện ý \"Không biết\"",
+      "lines": [
+        "It hasn’t been decided yet. (Nó chưa được quyết định.)",
+        "I’ll have to check / Let me check / Check …",
+        "Let me find out for you. (Để tôi kiểm tra giúp bạn.)",
+        "I wasn’t informed about that. (Tôi không được thông báo về điều đó.)",
+        "I’m afraid I don’t know. (Tôi e là tôi không biết.)"
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d9-t-unsure",
+      "type": "notes",
+      "title": "Các câu mang ý \"Không chắc chắn\" hoặc \"Cần hỏi thêm\"",
+      "lines": [
+        "Ask [someone else] / You should ask/ Why don’t you ask … (Bạn nên hỏi (ai đó))",
+        "I think you’d better check with [someone]. (Tôi nghĩ bạn nên kiểm tra với [ai đó].)",
+        "I believe it’s not confirmed yet. (Tôi tin là nó chưa được xác nhận.)",
+        "I’ll need to get back to you on that. (Tôi sẽ phải báo lại sau.)"
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d9-t-context",
+      "type": "notes",
+      "title": "Phản hồi tuỳ ngữ cảnh",
+      "lines": [
+        "Ngoài những dạng câu trả lời thể hiện ý “không biết” nói trên, còn nhiều cách phản hồi khác tuỳ vào ngữ cảnh. Lúc này cần luyện nghe hiểu tốt hơn (câu hỏi cần nắm được từ để hỏi, N và V chính ngay lần nghe đầu tiên. Câu phản hồi cũng cần phải hiểu ngữ cảnh và thái độ của người nói)."
+      ],
+      "source": "pdf"
+    }
+  ]
+}

@@ -36,16 +36,18 @@ export function TheoryScreen({ slug, day }) {
     <>
       <PageHeader eyebrow={day.title} title="Lý thuyết" subtitle={day.subtitle} />
 
-      <Section
-        title={`Grammar corner — ${day.grammar.length} cấu trúc`}
-        lead="Ba cấu trúc chủ động, ba cấu trúc bị động. Bấm 🔊 để nghe ví dụ."
-      >
-        <div className="grid grid-2">
-          {day.grammar.map((g, i) => (
-            <GrammarCard key={g.id} item={g} index={i} />
-          ))}
-        </div>
-      </Section>
+      {day.grammar.length > 0 && (
+        <Section
+          title={`Grammar corner — ${day.grammar.length} cấu trúc`}
+          lead="Bấm 🔊 để nghe ví dụ."
+        >
+          <div className="grid grid-2">
+            {day.grammar.map((g, i) => (
+              <GrammarCard key={g.id} item={g} index={i} />
+            ))}
+          </div>
+        </Section>
+      )}
 
       {day.theory.map((block) => (
         <TheoryBlock key={block.id} block={block} />

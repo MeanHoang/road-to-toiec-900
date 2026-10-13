@@ -4,11 +4,45 @@ import { countQuestions } from '@/features/lesson/stats';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Callout } from '@/shared/ui/atoms/Callout';
-import { Notice } from '@/shared/ui/atoms/Notice';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { countCorrect } from './rules';
+
+/**
+ * Bộ nào có đáp án, đáp án từ đâu — tính từ dữ liệu, vì mỗi buổi một khác:
+ * Day 1–2 có key chính thức, các buổi sau không có và đáp án là AI giải.
+ */
+function KeyNote({ sets }) {
+  const keyed = sets.filter((s) => s.hasKey);
+  const aiKeyed = keyed.filter((s) => s.questions.some((q) => q.source?.answer === 'ai'));
+  const official = keyed.filter((s) => !aiKeyed.includes(s));
+  const noKey = sets.filter((s) => !s.hasKey);
+  const names = (list) => list.map((s) => s.title).join(', ');
+
+  return (
+    <Callout style={{ marginTop: 'var(--space-6)' }}>
+      <div className="stack" style={{ gap: 'var(--space-2)' }}>
+        {official.length > 0 && (
+          <p>
+            <strong>Có đáp án chính thức</strong> lấy từ tài liệu: {names(official)}.
+          </p>
+        )}
+        {aiKeyed.length > 0 && (
+          <p>
+            <strong>Đáp án do AI giải</strong> vì tài liệu không kèm key: {names(aiKeyed)}.
+          </p>
+        )}
+        {noKey.length > 0 && (
+          <p>
+            <strong>Không có đáp án</strong>, chỉ nghe rồi chép lại để đối chiếu lời audio:{' '}
+            {names(noKey)}.
+          </p>
+        )}
+      </div>
+    </Callout>
+  );
+}
 
 export function ListenIndexScreen({ slug, day }) {
   const { day: state, ready } = useProgress(slug);
@@ -46,16 +80,7 @@ export function ListenIndexScreen({ slug, day }) {
         })}
       </div>
 
-      <Callout style={{ marginTop: 'var(--space-6)' }}>
-        <strong>Homework 1 và 2 có đáp án chính thức</strong> lấy từ tài liệu, không phải AI đoán.
-        Practice 1.2 và 2.2 là phần chữa trên lớp nên không kèm đáp án — hai bộ đó chỉ nghe và tự đối
-        chiếu.
-      </Callout>
-
-      <Notice style={{ marginTop: 'var(--space-3)' }}>
-        Phụ đề tiếng Anh và Vietsub chưa có — cần chạy transcribe bằng <code>whisper.cpp</code> ở
-        máy.
-      </Notice>
+      <KeyNote sets={day.listening} />
     </>
   );
 }

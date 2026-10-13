@@ -21,6 +21,7 @@ const COLLECTIONS = [
   'listening',
   'pictures',
   'quiz',
+  'exercises',
 ];
 
 /** Danh sách slug các buổi học. */

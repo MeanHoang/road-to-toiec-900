@@ -126,6 +126,13 @@ const masked = (r) => r.reveal.filter((w) => !w.shown).map((w) => w.text).join('
   console.log('✓ transcript 4 phương án nối thành một chuỗi theo thứ tự A→D');
 }
 
+// 11d. Part 2: audio đọc câu hỏi TRƯỚC rồi mới tới ba phương án — câu hỏi đứng đầu.
+{
+  const t = { Q: 'Who is the new manager?', A: 'Mr. Thompson.', B: 'Yes, I am.', C: 'It is new.' };
+  assert.equal(spokenText(t), 'Who is the new manager? Mr. Thompson. Yes, I am. It is new.');
+  console.log('✓ transcript Part 2: câu hỏi đứng trước ba phương án');
+}
+
 // 12. Chịu thua: mở hết, không còn dấu sao nào
 {
   const f = fullLine(ANS);
@@ -134,4 +141,4 @@ const masked = (r) => r.reveal.filter((w) => !w.shown).map((w) => w.text).join('
   console.log('✓ xem cả câu → lộ hết, không còn sao');
 }
 
-console.log('\n14/14 pass');
+console.log('\n15/15 pass');

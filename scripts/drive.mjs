@@ -28,7 +28,9 @@ async function fetchText(url) {
 // aria-label trông như: "DAY 1.pdf PDF Shared" / "AUDIO DAY 1 Shared folder".
 // Bỏ đuôi metadata để lấy lại tên gốc, và suy ra đây là folder hay file.
 function readLabel(label) {
-  const isFolder = /\bfolder\b/i.test(label);
+  // Chỉ xét chữ "folder" ở CUỐI label: file ảnh bìa album tên "Folder.jpg" (Windows
+  // tự sinh khi chép nhạc) có chữ folder ở đầu, xét cả label thì bị coi nhầm là thư mục.
+  const isFolder = /\bfolder\s*$/i.test(label);
   const stripped = label
     .replace(/\s*Shared\s*folder\s*$/i, '')
     .replace(/\s*folder\s*$/i, '')

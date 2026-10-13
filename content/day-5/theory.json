@@ -1,0 +1,82 @@
+{
+  "collection": "theory",
+  "day": "day-5",
+  "title": "Part 2 – Questions & Responses (Hỏi và Đáp)",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d5-t-intro",
+      "type": "table",
+      "title": "I. Giới thiệu chung",
+      "note": "PART 2: 25 câu hỏi (7-31) — 3 đáp án phản hồi A, B, C",
+      "columns": [
+        "Loại câu",
+        "Ví dụ",
+        "Đáp"
+      ],
+      "rows": [
+        [
+          "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
+          "Who is the new manager?",
+          "Mr.Thompson"
+        ],
+        [
+          "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
+          "Did you do your homework?",
+          "No, not yet."
+        ],
+        [
+          "3. Câu trần thuật\nStatement",
+          "There is a mail for you.",
+          "Who's it from?"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d5-t-answer",
+      "type": "table",
+      "title": "II. Cách trả lời",
+      "note": "Nhìn chung, các loại câu hỏi luôn có 2 hướng trả lời. 1. Trả lời trực tiếp: đưa đúng thông tin được hỏi. 2. Trả lời gián tiếp: không đưa thông tin trực tiếp, chỉ gợi ý, hỏi ngược lại, hoặc không biết.",
+      "columns": [
+        "Câu hỏi",
+        "1. Trả lời trực tiếp",
+        "2. Trả lời gián tiếp"
+      ],
+      "rows": [
+        [
+          "What do you need for the upcoming meeting?",
+          "This month’s sales report",
+          "Let me check."
+        ],
+        [
+          "When is the electricity bill due (đến hạn)?",
+          "Next Tuesday.",
+          "I have no idea. You should ask Tom."
+        ],
+        [
+          "Would you please close the window?",
+          "Yes. No problem.",
+          "Is it too noisy?"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d5-t-dontknow",
+      "type": "notes",
+      "title": "Cần đặc biệt chú ý: các cách nói “Không biết”",
+      "lines": [
+        "Có rất nhiều cách nói để thể hiện ý “Không biết”. Và mọi câu hỏi đều có thể trả lời là ‘Không biết’, kể cả câu hỏi hay câu trần thuật.",
+        "Dưới đây là một vài câu ý ‘Không biết’ — cứ nghe thấy là chọn:",
+        "I don’t know = I have no idea.",
+        "I don't remember.",
+        "I'm not sure.",
+        "It's not certain yet.",
+        "Ask …. / Let me ask … / Why don’t you ask ….",
+        "Check …/ Let me check …"
+      ],
+      "source": "pdf"
+    }
+  ]
+}

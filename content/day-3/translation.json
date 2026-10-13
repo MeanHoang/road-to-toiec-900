@@ -1,0 +1,228 @@
+{
+  "collection": "translation",
+  "day": "day-3",
+  "title": "Translation — gạch S/V/O rồi dịch",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d3-tr01",
+      "no": 1,
+      "tokens": [
+        "Attendees",
+        "can get",
+        "a brochure",
+        "on the second floor"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Người tham dự có thể lấy tờ giới thiệu ở tầng hai.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr02",
+      "no": 2,
+      "tokens": [
+        "The number",
+        "of students in computer courses",
+        "has increased",
+        "for the past few years"
+      ],
+      "key": [
+        "S",
+        null,
+        "V",
+        null
+      ],
+      "vi": "Số lượng sinh viên theo học các khoá máy tính đã tăng lên trong vài năm qua.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr03",
+      "no": 3,
+      "tokens": [
+        "An early decision",
+        "is required",
+        "especially in this kind of situation"
+      ],
+      "key": [
+        "S",
+        "V",
+        null
+      ],
+      "vi": "Cần đưa ra quyết định sớm, đặc biệt là trong tình huống như thế này.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr04",
+      "no": 4,
+      "tokens": [
+        "We",
+        "are looking for",
+        "someone",
+        "with 2 years of experience in the field"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Chúng tôi đang tìm một người có 2 năm kinh nghiệm trong lĩnh vực này.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr05",
+      "no": 5,
+      "tokens": [
+        "The book",
+        "provides",
+        "general knowledge",
+        "on health"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Cuốn sách cung cấp kiến thức chung về sức khoẻ.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr06",
+      "no": 6,
+      "tokens": [
+        "Several companies",
+        "make",
+        "a lot of profits",
+        "in this economic situation"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Một số công ty thu được nhiều lợi nhuận trong tình hình kinh tế này.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr07",
+      "no": 7,
+      "tokens": [
+        "The management",
+        "doesn’t want to fire",
+        "employees",
+        "next year"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Ban quản lý không muốn sa thải nhân viên vào năm tới.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr08",
+      "no": 8,
+      "tokens": [
+        "Do",
+        "you",
+        "have",
+        "any concerns",
+        "about the new job"
+      ],
+      "key": [
+        "V",
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Bạn có lo lắng gì về công việc mới không?",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr09",
+      "no": 9,
+      "tokens": [
+        "Our company",
+        "took",
+        "some safety measures",
+        "by hiring more guards"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Công ty chúng tôi đã thực hiện một số biện pháp an toàn bằng cách thuê thêm bảo vệ.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d3-tr10",
+      "no": 10,
+      "tokens": [
+        "The expansion",
+        "of the IT market",
+        "was",
+        "larger than expected"
+      ],
+      "key": [
+        "S",
+        null,
+        "V",
+        null
+      ],
+      "vi": "Sự mở rộng của thị trường công nghệ thông tin lớn hơn dự kiến.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    }
+  ]
+}

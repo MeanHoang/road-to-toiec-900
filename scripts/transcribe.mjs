@@ -57,22 +57,34 @@ async function transcribe(bin, wav, model) {
 }
 
 /**
- * Audio của câu trắc nghiệm đọc liền 4 phương án: "(A) … (B) … (C) … (D) …".
+ * Audio của câu trắc nghiệm đọc liền các phương án: "(A) … (B) … (C) … (D) …".
  * Whisper chép ra một chuỗi dài, ở đây cắt lại theo dấu hiệu A/B/C/D.
  * Cắt không được thì trả null — thà để trống còn hơn cắt sai rồi hiện đáp án lệch.
+ *
+ * `letters` là phương án của bộ: A–D, hoặc A–C ở Part 2. Part 2 còn đọc câu
+ * hỏi TRƯỚC phương án A — phần đứng trước dấu "A" được giữ vào `Q` (bỏ số
+ * hiệu câu "Number 7." / "7." ở đầu).
  */
-function splitChoices(text) {
+function splitChoices(text, letters, withQuestion) {
   const marks = [...text.matchAll(/\(?\b([A-D])[)\].:]\s+/g)];
-  if (marks.length < 4) return null;
+  if (marks.length < letters.length) return null;
 
   const out = {};
+  if (withQuestion) {
+    const q = text
+      .slice(0, marks[0].index)
+      .replace(/^\s*(Number|No\.?|Question)?\s*\d+[.:]?\s*/i, '')
+      .trim();
+    if (q) out.Q = q;
+  }
   for (let i = 0; i < marks.length; i++) {
     const letter = marks[i][1];
     const start = marks[i].index + marks[i][0].length;
     const end = i + 1 < marks.length ? marks[i + 1].index : text.length;
     out[letter] = text.slice(start, end).trim();
   }
-  return ['A', 'B', 'C', 'D'].every((k) => out[k]) ? out : null;
+  const ok = letters.every((k) => out[k]) && (!withQuestion || out.Q);
+  return ok ? out : null;
 }
 
 async function main() {
@@ -96,6 +108,9 @@ async function main() {
   try {
     for (const set of data.items) {
       if (onlySet && set.code !== onlySet) continue;
+      // Bộ câu hỏi Part 3: phương án in sẵn trong đề, audio là cả đoạn hội
+      // thoại — lời thoại đó nằm ở bộ chép hội thoại đi kèm, không chép lại ở đây.
+      if (set.part === 3 && set.mode === 'choice') continue;
 
       for (const q of set.questions) {
         if (q.transcript && !force) continue;
@@ -113,16 +128,25 @@ async function main() {
           await toWav(mp3, wav);
           const text = await transcribe(bin, wav, MODEL_ENV);
 
-          if (set.mode === 'choice') {
-            const split = splitChoices(text);
+          // Part 2 luôn là câu hỏi + ba phương án, kể cả khi bộ đó luyện bằng
+          // cách chép lại — chép thì vẫn cần biết ranh giới câu hỏi/phương án.
+          const isPart2 = set.part === 2;
+          if (set.mode === 'choice' || isPart2) {
+            const letters = set.choices || ['A', 'B', 'C', 'D'];
+            const split = splitChoices(text, letters, isPart2);
             if (split) {
               q.transcript = split;
-              console.log('4 phương án ✓');
+              console.log(`${isPart2 ? 'câu hỏi + ' : ''}${letters.length} phương án ✓`);
+            } else if (set.mode === 'dictation') {
+              // Bộ chép chấm theo cả chuỗi, không cần ranh giới phương án — và
+              // nhiều bài luyện Part 2 vốn không đọc "A, B, C". Giữ nguyên chuỗi.
+              q.transcript = text.replace(/^\s*(Number|No\.?|Question)?\s*\d+[.:]?\s*/i, '');
+              console.log('chuỗi liền (không đọc A/B/C) ✓');
             } else {
               // Không cắt được thì giữ nguyên văn để người soát tự cắt.
               q.transcript = { raw: text };
               unsplit.push(q.id);
-              console.log('⚠ không tách được A/B/C/D');
+              console.log(`⚠ không tách được ${letters.join('/')}`);
             }
           } else {
             q.transcript = text;
@@ -145,7 +169,7 @@ async function main() {
 
   console.log(`\n✓ chép được ${done} câu, lỗi ${failed}`);
   if (unsplit.length) {
-    console.log(`⚠ ${unsplit.length} câu không tách được A/B/C/D, đang để ở dạng { raw }:`);
+    console.log(`⚠ ${unsplit.length} câu không tách được phương án, đang để ở dạng { raw }:`);
     console.log(`  ${unsplit.join(', ')}`);
   }
   console.log('⚠ Toàn bộ mang source "whisper" — là BẢN NHÁP, phải soát lại trước khi tin.');

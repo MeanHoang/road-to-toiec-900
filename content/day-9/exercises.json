@@ -1,0 +1,227 @@
+{
+  "collection": "exercises",
+  "day": "day-9",
+  "title": "Trắc nghiệm ngữ pháp",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d9-ex1",
+      "code": "ex1",
+      "title": "Translation — Chọn đáp án rồi dịch cả câu",
+      "subtitle": "Choose one best answer for each question and translate the whole sentence",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d9-ex1-01",
+          "no": 1,
+          "text": "Prices were ______ with the introduction of our new line of widgets.",
+          "options": {
+            "A": "fastened",
+            "B": "raised",
+            "C": "rejected",
+            "D": "canceled"
+          },
+          "answer": "B",
+          "explain": "raise prices = tăng giá; câu bị động “Prices were raised” hợp nghĩa khi ra mắt dòng sản phẩm mới.",
+          "vi": "Giá đã được tăng lên khi dòng sản phẩm widget mới của chúng tôi ra mắt.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-02",
+          "no": 2,
+          "text": "The government ______ consumer spending closely.",
+          "options": {
+            "A": "to track",
+            "B": "tracks",
+            "C": "tracking",
+            "D": "have tracked"
+          },
+          "answer": "B",
+          "explain": "Chủ ngữ số ít “The government” cần động từ chia ở hiện tại đơn; to track/tracking không làm vị ngữ, have tracked sai với chủ ngữ số ít.",
+          "vi": "Chính phủ theo dõi sát sao chi tiêu của người tiêu dùng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-03",
+          "no": 3,
+          "text": "The sales department ______ about how to market their newest product.",
+          "options": {
+            "A": "disagreed",
+            "B": "will be disagreed",
+            "C": "was disagreed",
+            "D": "disagree"
+          },
+          "answer": "A",
+          "explain": "disagree là nội động từ nên không có dạng bị động; chủ ngữ số ít “The sales department” → disagreed.",
+          "vi": "Phòng kinh doanh đã bất đồng ý kiến về cách tiếp thị sản phẩm mới nhất của họ.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-04",
+          "no": 4,
+          "text": "Louis ran his store on an old-fashioned ______: quality merchandise at attractive prices.",
+          "options": {
+            "A": "location",
+            "B": "premise",
+            "C": "agreement",
+            "D": "company"
+          },
+          "answer": "B",
+          "explain": "premise = tiền đề, nguyên tắc; phần sau dấu hai chấm chính là nguyên tắc kinh doanh đó.",
+          "vi": "Louis điều hành cửa hàng của mình theo một nguyên tắc truyền thống: hàng hoá chất lượng với giá cả hấp dẫn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-05",
+          "no": 5,
+          "text": "You should consider carefully whether a product will ______ your needs.",
+          "options": {
+            "A": "reach",
+            "B": "give",
+            "C": "meet",
+            "D": "show"
+          },
+          "answer": "C",
+          "explain": "Cụm cố định meet one’s needs = đáp ứng nhu cầu.",
+          "vi": "Bạn nên cân nhắc kỹ xem một sản phẩm có đáp ứng được nhu cầu của bạn hay không.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-06",
+          "no": 6,
+          "text": "For your own protection, you should have a ______ that provides for a replacement product.",
+          "options": {
+            "A": "warranty",
+            "B": "receipt",
+            "C": "contact",
+            "D": "guideline"
+          },
+          "answer": "A",
+          "explain": "warranty = giấy bảo hành, thứ quy định việc đổi sản phẩm thay thế.",
+          "vi": "Để tự bảo vệ mình, bạn nên có giấy bảo hành quy định việc thay thế sản phẩm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-07",
+          "no": 7,
+          "text": "The good ______ of the manufacturer inspired Maria Jose to try the new product.",
+          "options": {
+            "A": "reputation",
+            "B": "reputed",
+            "C": "reputably",
+            "D": "reputable"
+          },
+          "answer": "A",
+          "explain": "Sau “The good” cần một danh từ làm chủ ngữ → reputation.",
+          "vi": "Danh tiếng tốt của nhà sản xuất đã thôi thúc Maria Jose dùng thử sản phẩm mới.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-08",
+          "no": 8,
+          "text": "Let me ______ how this computer program works to you.",
+          "options": {
+            "A": "investigate",
+            "B": "analyze",
+            "C": "demonstrate",
+            "D": "memorize"
+          },
+          "answer": "C",
+          "explain": "demonstrate how something works = trình bày, minh hoạ cách một thứ hoạt động.",
+          "vi": "Để tôi minh hoạ cho bạn cách chương trình máy tính này hoạt động.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-09",
+          "no": 9,
+          "text": "The plan was under ______ and would not be ready for months.",
+          "options": {
+            "A": "preparation",
+            "B": "development",
+            "C": "construction",
+            "D": "organization"
+          },
+          "answer": "B",
+          "explain": "under development = đang được xây dựng, phát triển — hợp với một kế hoạch; under construction dùng cho công trình.",
+          "vi": "Kế hoạch vẫn đang được xây dựng và phải nhiều tháng nữa mới sẵn sàng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d9-ex1-10",
+          "no": 10,
+          "text": "The handout ______ the strategic points to cover in a business plan.",
+          "options": {
+            "A": "outlined",
+            "B": "dictated",
+            "C": "overlooked",
+            "D": "reviewed"
+          },
+          "answer": "A",
+          "explain": "outline = nêu những điểm chính; tài liệu phát tay nêu các điểm chiến lược.",
+          "vi": "Tài liệu phát tay đã nêu ra những điểm chiến lược cần đề cập trong một kế hoạch kinh doanh.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

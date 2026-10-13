@@ -10,6 +10,7 @@ import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { StepList } from '@/shared/ui/molecules/StepList';
 import { ChoicePanel } from './ChoicePanel';
 import { DictationPanel } from './DictationPanel';
+import { choicesOf, hasPhoto } from './rules';
 
 /**
  * Một bộ bài nghe. Màn này chỉ lo ĐIỀU HƯỚNG giữa các câu và bày bố cục;
@@ -53,6 +54,9 @@ export function ListenSetScreen({ slug, setId, day }) {
   // lại thì chấm được thật, vì đối chiếu với lời thoại chứ không cần key.
   const chepLai = set.mode === 'dictation' || !set.hasKey || writing;
 
+  const letters = choicesOf(set);
+  const lettersLabel = `${letters[0]}–${letters[letters.length - 1]}`;
+
   const goto = (i) => setIdx(Math.max(0, Math.min(i, set.questions.length - 1)));
 
   const lines = (ready && state.dictation[item.id]) || [];
@@ -69,12 +73,21 @@ export function ListenSetScreen({ slug, setId, day }) {
         labelOf={(q) => q.no}
       />
 
-      <div className="grid grid-2" style={{ marginTop: 'var(--space-5)', alignItems: 'start' }}>
-        {item.image ? (
-          <img className="photo" src={item.image} alt={`Tranh câu ${item.no}`} />
-        ) : (
-          <div className="photo-placeholder">🖼 Câu này chưa có ảnh đề bài</div>
-        )}
+      <div
+        className={hasPhoto(set) ? 'grid grid-2' : 'stack'}
+        // Không có tranh thì một cột; giới hạn bề ngang để câu trả lời dài vẫn dễ đọc.
+        style={
+          hasPhoto(set)
+            ? { marginTop: 'var(--space-5)', alignItems: 'start' }
+            : { marginTop: 'var(--space-5)', maxWidth: 760 }
+        }
+      >
+        {hasPhoto(set) &&
+          (item.image ? (
+            <img className="photo" src={item.image} alt={`Tranh câu ${item.no}`} />
+          ) : (
+            <div className="photo-placeholder">🖼 Câu này chưa có ảnh đề bài</div>
+          ))}
 
         <div className="stack stack-lg">
           <AudioPlayer src={item.audio} />
@@ -83,9 +96,10 @@ export function ListenSetScreen({ slug, setId, day }) {
             <p className="caption">Bộ này có cả bản audio liền mạch để nghe một mạch cả bài.</p>
           )}
 
-          {set.hasKey && (
+          {/* Part 3: lời hội thoại đã có bộ chép riêng, không gạt sang chép ở bộ câu hỏi. */}
+          {set.hasKey && set.part !== 3 && (
             <Switch checked={writing} onChange={() => setWriting((w) => !w)}>
-              Chế độ chép lại — nghe rồi chép cả bốn phương án thay vì chọn A–D
+              Chế độ chép lại — nghe rồi chép lại lời audio thay vì chọn {lettersLabel}
             </Switch>
           )}
 
@@ -101,6 +115,7 @@ export function ListenSetScreen({ slug, setId, day }) {
             <ChoicePanel
               key={item.id}
               item={item}
+              letters={letters}
               saved={saved}
               onAnswer={(letter, correct) => answer(item.id, letter, correct)}
               onSkip={() => goto(idx + 1)}

@@ -1,0 +1,227 @@
+{
+  "collection": "exercises",
+  "day": "day-8",
+  "title": "Trắc nghiệm ngữ pháp",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d8-tr",
+      "code": "tr",
+      "title": "Translation — Chọn đáp án và dịch",
+      "subtitle": "Chose a correct answer and translate the complete sentences",
+      "kind": "choice",
+      "questions": [
+        {
+          "id": "d8-tr-01",
+          "no": 1,
+          "text": "The service at the automobile repair centers ________ normally fast.",
+          "options": {
+            "A": "is",
+            "B": "are",
+            "C": "have been",
+            "D": "is being"
+          },
+          "answer": "A",
+          "explain": "Chủ ngữ chính là “The service” (số ít, không đếm được) và câu nói sự thật thường xuyên (normally) → hiện tại đơn “is”.",
+          "vi": "Dịch vụ tại các trung tâm sửa chữa ô tô thường nhanh.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-02",
+          "no": 2,
+          "text": "Depending on your answers to the survey, we may call you to collect _____ information.",
+          "options": {
+            "A": "many",
+            "B": "formal",
+            "C": "additional",
+            "D": "a few"
+          },
+          "answer": "C",
+          "explain": "“information” không đếm được nên loại many/a few; “additional information” (thêm thông tin) hợp nghĩa nhất.",
+          "vi": "Tùy vào câu trả lời khảo sát của bạn, chúng tôi có thể gọi cho bạn để thu thập thêm thông tin.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-03",
+          "no": 3,
+          "text": "Applicants were provided ______ instructions on what to submit.",
+          "options": {
+            "A": "to",
+            "B": "on",
+            "C": "about",
+            "D": "with"
+          },
+          "answer": "D",
+          "explain": "Cấu trúc “be provided with + N” (được cung cấp cái gì).",
+          "vi": "Các ứng viên đã được cung cấp hướng dẫn về những gì cần nộp.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-04",
+          "no": 4,
+          "text": "Susan is not sure if she ________ the position.",
+          "options": {
+            "A": "will accept",
+            "B": "accepts",
+            "C": "would accept",
+            "D": "accept"
+          },
+          "answer": "A",
+          "explain": "“if” ở đây nghĩa là “liệu” (mệnh đề danh từ), không phải câu điều kiện → dùng tương lai “will accept” cho việc chưa xảy ra.",
+          "vi": "Susan không chắc liệu cô ấy có nhận vị trí đó hay không.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-05",
+          "no": 5,
+          "text": "The accountant is ________ the payroll.",
+          "options": {
+            "A": "based on",
+            "B": "in charge of",
+            "C": "qualified for",
+            "D": "depended on"
+          },
+          "answer": "B",
+          "explain": "“be in charge of” = phụ trách; kế toán phụ trách bảng lương là hợp nghĩa.",
+          "vi": "Kế toán viên phụ trách bảng lương.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-06",
+          "no": 6,
+          "text": "The company will be established ______ more favorable conditions.",
+          "options": {
+            "A": "under",
+            "B": "on",
+            "C": "near",
+            "D": "for"
+          },
+          "answer": "A",
+          "explain": "Cụm cố định “under … conditions” (trong điều kiện …).",
+          "vi": "Công ty sẽ được thành lập trong những điều kiện thuận lợi hơn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-07",
+          "no": 7,
+          "text": "Customers should bring all relevant documents __________ the transaction.",
+          "options": {
+            "A": "completed",
+            "B": "to complete",
+            "C": "completing",
+            "D": "completes"
+          },
+          "answer": "B",
+          "explain": "Câu đã đủ S-V-O; chỗ trống chỉ mục đích (để làm gì) → to V: “to complete”.",
+          "vi": "Khách hàng nên mang theo tất cả giấy tờ liên quan để hoàn tất giao dịch.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-08",
+          "no": 8,
+          "text": "All the visitors to the plant must wear ______ clothing provided when entering the laboratory.",
+          "options": {
+            "A": "careful",
+            "B": "safety",
+            "C": "colorful",
+            "D": "challenging"
+          },
+          "answer": "B",
+          "explain": "Danh từ ghép “safety clothing” = quần áo bảo hộ, hợp ngữ cảnh vào phòng thí nghiệm.",
+          "vi": "Tất cả khách tham quan nhà máy phải mặc quần áo bảo hộ được cung cấp khi vào phòng thí nghiệm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-09",
+          "no": 9,
+          "text": "The _________ of Mr. Ewings to the university is valuable.",
+          "options": {
+            "A": "work",
+            "B": "contribution",
+            "C": "reception",
+            "D": "process"
+          },
+          "answer": "B",
+          "explain": "“contribution of A to B” = sự đóng góp của A cho B; đi với “to” và “valuable” hợp nghĩa.",
+          "vi": "Sự đóng góp của ông Ewings cho trường đại học là rất quý giá.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d8-tr-10",
+          "no": 10,
+          "text": "She still has to complete the evaluations as soon as ________ because the due date is just around the corner.",
+          "options": {
+            "A": "possible",
+            "B": "visible",
+            "C": "acceptable",
+            "D": "successful"
+          },
+          "answer": "A",
+          "explain": "Cụm cố định “as soon as possible” = càng sớm càng tốt.",
+          "vi": "Cô ấy vẫn phải hoàn thành các bản đánh giá càng sớm càng tốt vì hạn chót sắp đến rồi.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

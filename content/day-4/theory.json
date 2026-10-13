@@ -1,0 +1,265 @@
+{
+  "collection": "theory",
+  "day": "day-4",
+  "title": "Động từ, các thì & câu bị động",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d4-t-verbs",
+      "type": "notes",
+      "title": "VERBS — Types of verbs (Các loại động từ)",
+      "lines": [
+        "1. Action verbs (Động từ hành động): loại động từ phổ biến và thông dụng nhất trong tiếng Anh (agree, ask, go, report, develop, …). Có thể được chia thành Nội động từ và Ngoại động từ.",
+        "• Transitive verbs — Ngoại động từ (Transitive verbs) diễn tả một hành động tác động đến một người hoặc một vật nào khác. Ngoại động từ luôn có tân ngữ đi sau (have, give, make, …)",
+        "• Intransitive verbs — Nội động từ (Intransitive verbs) là những động từ mà bản thân nó đã nói rõ ý nghĩa trong câu, không cần phải tác động lên một người hay một vật nào. Nội động từ không có tân ngữ và không dùng ở thể bị động (live, sleep, happen,…)",
+        "2. Linking verbs (Động từ nối): làm nhiệm vụ nối giữa chủ ngữ và vị ngữ. Linking verbs không thể hiện hành động, mà chỉ tình trạng hoặc cảm nhận của sự vật, sự việc và con người.",
+        "Các dạng linking verbs phổ biến:",
+        "• Tobe: (thì, là, mà, ở) am, is, are, was, were, be, being và been.",
+        "• Chỉ cảm nhận: feel (cảm thấy), look (trông có vẻ), sound (nghe có vẻ), taste (vị), smell (mùi), seem (dường như), …",
+        "• Chỉ trạng thái: become, get, grow (trở nên, trở thành); appear (hoá ra); keep, stay, remain (giữ, giữ nguyên) …",
+        "⚠ Linking V thường không được dùng ở các thì Tiếp diễn."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-verbs-checkup",
+      "type": "notes",
+      "title": "Check-up: Distinguish between the types of verbs in the following sentences",
+      "lines": [
+        "1. She is looking at the board. — She looks happy when she’s with him.",
+        "2. I am reading today’s newspaper. — I am a student.",
+        "3. I will stay at home this weekend. — Please stay quiet during the meeting."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-simple",
+      "type": "table",
+      "title": "TENSES — I. Simple tenses (nhóm thì đơn)",
+      "columns": [
+        "",
+        "Quá khứ đơn",
+        "Hiện tại đơn",
+        "Tương lai đơn"
+      ],
+      "rows": [
+        [
+          "Verb",
+          "Was/ were\nV-ed/ cột 2",
+          "Is/ are/ am\nVo, Vs/es",
+          "Will be\nWill + Vo"
+        ],
+        [
+          "Signal of time",
+          "Yesterday, Ago, Last,\nIn 2000",
+          "Every, usually, often, sometimes,…",
+          "Tomorrow, Next, Upcoming, Soon\nIn 2030"
+        ],
+        [
+          "Example",
+          "I bought a new car yesterday.",
+          "She often walks to work.",
+          "They will move to New York next month."
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-sv",
+      "type": "table",
+      "title": "S-V agreement (sự hòa hợp giữa chủ ngữ và động từ)",
+      "columns": [
+        "Chủ ngữ",
+        "Chia động từ"
+      ],
+      "rows": [
+        [
+          "Chủ ngữ số ít:\nĐại từ ngôi 3 số ít (he/ she/ it)\nDanh từ số ít (an employee, a table, …)\nDanh từ không đếm được (information, water …)",
+          "Tobe: is, was\nTrợ động từ: does / has\nĐộng từ thường: V-s/es (goes, works,…)"
+        ],
+        [
+          "Chủ ngữ số nhiều:\nĐại từ số nhiều (they, we, you)\nDanh từ số nhiều (employees, tables,…)",
+          "Tobe: are, were\nTrợ động từ: do / have\nĐộng từ thường: Vo (go, work,…)"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-continuous",
+      "type": "table",
+      "title": "II. Continuous tenses (nhóm thì tiếp diễn)",
+      "note": "CÔNG THỨC CHUNG: tobe + V-ing",
+      "columns": [
+        "",
+        "Quá khứ tiếp diễn",
+        "Hiện tại tiếp diễn",
+        "Tương lai tiếp diễn"
+      ],
+      "rows": [
+        [
+          "Verb",
+          "Was/ were + V-ing",
+          "Am/ is/ are + V-ing",
+          "Will be + V-ing"
+        ],
+        [
+          "Signal of time",
+          "At this time yesterday\nAt 6 PM last night",
+          "Now, right now, at the moment, at present, currently",
+          "At this time tomorrow\nAt 6 PM tomorrow\nNext, soon, …"
+        ],
+        [
+          "Example",
+          "I was sleeping at 8:30 last night.",
+          "The manager is meeting with new clients now.",
+          "The meeting will be happening at 8:00 tomorrow."
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-perfect",
+      "type": "table",
+      "title": "III. Perfect tenses (nhóm thì hoàn thành)",
+      "note": "CÔNG THỨC CHUNG: HAVE + P2",
+      "columns": [
+        "",
+        "Quá khứ hoàn thành",
+        "Hiện tại hoàn thành",
+        "Tương lai hoàn thành"
+      ],
+      "rows": [
+        [
+          "Verb",
+          "Had + P2",
+          "Has/ have + P2",
+          "Will have + P2"
+        ],
+        [
+          "Signal of time",
+          "Before (đứng cuối câu)\nBy the time, before, after",
+          "For, since, up to now, so far, already, just, recently, lately, yet, for the past/last, over the past/ last",
+          "By the end of, by next\nBy the time, before"
+        ],
+        [
+          "Example",
+          "I had turned off the lights before I went home.",
+          "I have learned English for 10 years.",
+          "She will have joined the company for 5 years by the end of July."
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-if",
+      "type": "notes",
+      "title": "Câu điều kiện với IF",
+      "lines": [
+        "Loại 1: Có thật ở Hiện tại: If + HTĐ, S + will/can/may + Vo",
+        "Loại 2: Không có thật ở Hiện tại: If + QKĐ, S + would/could/might + Vo",
+        "Loại 3: Không có thật ở Quá khứ: If + QKHT, S + would/could/might + have + P2"
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-voice",
+      "type": "notes",
+      "title": "ACTIVE & PASSIVE VOICE — Câu chủ động, câu bị động",
+      "lines": [
+        "I. Định nghĩa",
+        "Câu chủ động là câu có chủ ngữ (S) trực tiếp thực hiện hành động (V).",
+        "Ex: James (S) breaks (V) the balloon (O). (James làm vỡ quả bóng bay.)",
+        "Câu bị động là câu có chủ ngữ (S) bị tác động bằng hành động (V) bởi 1 chủ thể khác (agent).",
+        "Ex: The balloon (S) is broken (V) (by James) (by agent). (Quả bóng bay bị làm vỡ bởi James.)",
+        "II. Công thức câu chủ động, câu bị động",
+        "1. Câu chủ động thường có công thức dạng: S + V + O (với ngoại động từ) hoặc S + V (với nội động từ)",
+        "Ex: He (S) fixed (V) the computer (O). — He (S) is working (V).",
+        "2. Câu bị động có công thức chung dạng: S + tobe + P2 (by agent)",
+        "Câu chủ động: He (S) fixed (V) the computer (O).",
+        "Câu bị động: The computer (S) was fixed (tobe + P2) (by him) (by agent)."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-passive-tenses",
+      "type": "table",
+      "title": "III. Công thức câu bị động ở các thì khác nhau: tobe + P2",
+      "columns": [
+        "Thì",
+        "Chủ động",
+        "Bị động"
+      ],
+      "rows": [
+        [
+          "Hiện tại đơn",
+          "Vo / V_s/es",
+          "am/ is/ are + P2"
+        ],
+        [
+          "Quá khứ đơn",
+          "V_ed / cột 2",
+          "was/ were + P2"
+        ],
+        [
+          "Tương lai đơn",
+          "will + Vo",
+          "will be + P2"
+        ],
+        [
+          "Tương lai gần",
+          "am/is/are + going to + Vo",
+          "am/is/are + going to be + P2"
+        ],
+        [
+          "Hiện tại tiếp diễn",
+          "am/is/are + V_ing",
+          "am/ is/ are being + P2"
+        ],
+        [
+          "Quá khứ tiếp diễn",
+          "was/were + V_ing",
+          "was/ were being + P2"
+        ],
+        [
+          "Tương lai tiếp diễn",
+          "will be + V_ing",
+          "will be + being + P2"
+        ],
+        [
+          "Hiện tại hoàn thành",
+          "has/have + P2",
+          "has/have been + P2"
+        ],
+        [
+          "Quá khứ hoàn thành",
+          "had + P2",
+          "had been + P2"
+        ],
+        [
+          "Tương lai hoàn thành",
+          "will have + P2",
+          "will have been + P2"
+        ],
+        [
+          "Modal Verbs (should, can, must, have to …)",
+          "Modal Verbs + Vo",
+          "Modal Verbs + be + P2"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d4-t-voice-choose",
+      "type": "notes",
+      "title": "Cách chia động từ theo chủ động/ bị động",
+      "lines": [
+        "1. Nội động từ: luôn chia động từ ở dạng chủ động.",
+        "VD: The accident _________ last night. (happened/ was happened)",
+        "2. Ngoại động từ:",
+        "TH1: Nếu sau V là O → chia V ở dạng chủ động. O (tân ngữ) có thể là: danh từ, cụm danh từ (a meeting, the new policy, …), hoặc đại từ (me, you, us, mine, myself, everyone, something, …)",
+        "TH2: Nếu sau V không phải O → chia động từ ở dạng bị động."
+      ],
+      "source": "pdf"
+    }
+  ]
+}

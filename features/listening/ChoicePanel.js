@@ -4,15 +4,21 @@ import { useState } from 'react';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { RevealAnswer } from './RevealAnswer';
-import { CHOICES, SKIP_AFTER_TRIES } from './rules';
+import { SKIP_AFTER_TRIES } from './rules';
 import { choiceText } from './transcript';
 
-/** Bốn câu audio đọc, bày trong hộp thoại — không chiếm chỗ trong trang. */
-function ChoiceScript({ item }) {
+/** Các câu audio đọc, bày trong hộp thoại — không chiếm chỗ trong trang. */
+function ChoiceScript({ item, letters }) {
   return (
     <>
       <div className="script-list">
-        {CHOICES.map((letter) => (
+        {item.transcript?.Q && (
+          <p>
+            <span className="key">Q</span>
+            {item.transcript.Q}
+          </p>
+        )}
+        {letters.map((letter) => (
           <p key={letter}>
             <span className="key">{letter}</span>
             {choiceText(item.transcript, letter) || '— chưa có lời thoại'}
@@ -20,8 +26,8 @@ function ChoiceScript({ item }) {
         ))}
       </div>
       <p className="caption" style={{ marginTop: 'var(--space-4)' }}>
-        Đây là nguyên văn 4 câu audio đọc. Part 1 không có lời dẫn nào khác — nghe được câu nào thì
-        đối chiếu câu đó, đừng đọc trước rồi mới nghe.
+        Đây là nguyên văn những gì audio đọc — nghe được câu nào thì đối chiếu câu đó, đừng đọc
+        trước rồi mới nghe.
       </p>
     </>
   );
@@ -30,11 +36,14 @@ function ChoiceScript({ item }) {
 /**
  * Bài trắc nghiệm có đáp án chính thức.
  *
- * Lời thoại chỉ hiện thẳng trong bốn ô phương án khi đã trả lời ĐÚNG — lúc đó
+ * `letters` là các phương án của bộ: A–D, hoặc A–C ở Part 2.
+ *
+ * Phương án IN SẴN trong tài liệu (`item.options`) thì hiện ngay từ đầu — đề
+ * vốn cho đọc. Còn lời thoại chỉ hiện thẳng trong các ô phương án khi đã trả lời ĐÚNG — lúc đó
  * nó là phần chữa bài. Còn muốn xem trước thì phải mở hộp thoại và qua một lần
  * hỏi lại, và hộp thoại đóng lại ngay khi sang câu khác.
  */
-export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
+export function ChoicePanel({ item, letters, saved, onAnswer, onSkip }) {
   const [picked, setPicked] = useState(null);
 
   const solved = Boolean(saved?.correct);
@@ -44,8 +53,10 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
     <>
       <Badge tone="brand">Nghe rồi chọn đáp án</Badge>
 
+      {item.question && <p className="section-lead" style={{ margin: 0 }}>{item.question}</p>}
+
       <div className="options options-stacked">
-        {CHOICES.map((letter) => {
+        {letters.map((letter) => {
           const revealed = solved || (picked && picked !== item.answer);
           let cls = '';
           if (revealed && letter === item.answer) cls = 'is-correct';
@@ -65,7 +76,10 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
             >
               <span className="key">{letter}</span>
               <span style={{ color: 'var(--text-muted)' }}>
-                {solved ? choiceText(item.transcript, letter) || '— chưa có lời thoại' : 'Nghe audio rồi chọn'}
+                {item.options?.[letter] ||
+                  (solved
+                    ? choiceText(item.transcript, letter) || '— chưa có lời thoại'
+                    : 'Nghe audio rồi chọn')}
               </span>
             </button>
           );
@@ -74,18 +88,23 @@ export function ChoicePanel({ item, saved, onAnswer, onSkip }) {
 
       {solved && (
         <div className="feedback feedback-success">
-          ✅ Đúng — đáp án <strong>{item.answer}</strong>. Bốn câu trên là đúng nguyên văn audio
-          đọc.
+          ✅ Đúng — đáp án <strong>{item.answer}</strong>.
         </div>
+      )}
+
+      {item.source?.answer === 'ai' && (
+        <p className="caption">
+          Đáp án câu này do AI giải — tài liệu không kèm đáp án chính thức.
+        </p>
       )}
 
       {!solved && item.transcript && (
         <RevealAnswer
           questionId={item.id}
-          label="Xem lời thoại 4 phương án"
+          label="Xem lời thoại"
           title={`Lời thoại câu ${item.no}`}
         >
-          <ChoiceScript item={item} />
+          <ChoiceScript item={item} letters={letters} />
         </RevealAnswer>
       )}
 

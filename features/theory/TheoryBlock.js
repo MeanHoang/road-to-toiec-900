@@ -23,6 +23,8 @@ export function TheoryBlock({ block }) {
       return <WordGroupsBlock block={block} />;
     case 'compare':
       return <CompareBlock block={block} />;
+    case 'table':
+      return <TableBlock block={block} />;
     default:
       // Buổi mới có type chưa hỗ trợ thì nói thẳng, đừng render ra khoảng trắng im lặng.
       return (
@@ -46,6 +48,40 @@ function NotesBlock({ block }) {
           ))}
         </div>
       </Card>
+    </Section>
+  );
+}
+
+/**
+ * Khối bảng: bảng thì, công thức bị động, cách trả lời từng loại câu hỏi…
+ * `columns` là tiêu đề cột, `rows` là mảng các dòng, mỗi dòng cùng số ô với
+ * `columns`. Ô có xuống dòng (\n) thì giữ nguyên xuống dòng.
+ */
+function TableBlock({ block }) {
+  return (
+    <Section title={block.title} lead={block.note}>
+      <div className="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              {block.columns.map((col) => (
+                <th key={col}>{col}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {block.rows.map((row, i) => (
+              <tr key={i}>
+                {row.map((cell, j) => (
+                  <td key={j} style={{ whiteSpace: 'pre-line', lineHeight: 'var(--leading-snug)' }}>
+                    {cell}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </Section>
   );
 }

@@ -1,0 +1,70 @@
+{
+  "collection": "theory",
+  "day": "day-8",
+  "title": "Lý thuyết WHICH – Choice & YES/NO questions",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d8-t-which",
+      "type": "notes",
+      "title": "1. WHICH - Choice questions: Câu hỏi lựa chọn",
+      "lines": [
+        "Dấu hiệu: Bắt đầu bằng:",
+        "• Từ để hỏi WHICH",
+        "• Tobe/ TĐT / Modal Verbs + … A ‘or’ B ?",
+        "VD: Which shirt do you like?",
+        "Do you prefer the black shirt, or the white one?"
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d8-t-which-answers",
+      "type": "table",
+      "title": "Cách trả lời thường gặp",
+      "note": "KHÔNG TRẢ LỜI BẰNG YES / NO",
+      "columns": [
+        "Kiểu trả lời",
+        "Mẫu câu"
+      ],
+      "rows": [
+        [
+          "Chọn một trong hai",
+          "The … one/ones (The white one)\n… prefer/ like/ would like/ want/ choose…"
+        ],
+        [
+          "Chọn cả",
+          "Both / All (I’ll take all)"
+        ],
+        [
+          "Không chọn cái nào",
+          "None/ Neither /ˈnaɪ.ðər/ /ˈniː.ðər/"
+        ],
+        [
+          "Cái nào cũng được",
+          "Either /ˈaɪ.ðər/ /ˈiː.ðər/ (Either is fine)\nWhichever (Whichever costs less)\nIt doesn’t matter to me."
+        ],
+        [
+          "Phân vân",
+          "It depends on … / I’m not sure yet/ …"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d8-t-yesno",
+      "type": "notes",
+      "title": "2. YES / NO questions: câu hỏi xác nhận thông tin",
+      "lines": [
+        "3 dạng câu hỏi thường gặp: Positive question (câu hỏi khẳng định), Negative question (câu hỏi phủ định), Tag question (câu hỏi đuôi)",
+        "VD: Did you do your homework? = Didn’t you do your homework?",
+        "= You did your homework, didn’t you?/ You didn’t do your homework, did you?",
+        "Trả lời: Yes, I did./ No, not yet.",
+        "I finished it yesterday. / I didn’t have time.",
+        "Cách trả lời cho 3 dạng câu hỏi trên là GIỐNG NHAU, có thể là:",
+        ">> Yes/ No + detail",
+        ">> Only detail without Yes/ No"
+      ],
+      "source": "pdf"
+    }
+  ]
+}

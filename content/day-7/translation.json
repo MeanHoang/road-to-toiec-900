@@ -1,0 +1,216 @@
+{
+  "collection": "translation",
+  "day": "day-7",
+  "title": "Translation — phân tích S/V/(O) rồi dịch",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d7-tr01",
+      "no": 1,
+      "tokens": [
+        "All staff members",
+        "will attend",
+        "the seminar",
+        "tomorrow"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Tất cả nhân viên sẽ tham dự buổi hội thảo vào ngày mai.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr02",
+      "no": 2,
+      "tokens": [
+        "Recent studies",
+        "have found",
+        "that there is a special reason why customers prefer placing orders online"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Các nghiên cứu gần đây đã phát hiện ra rằng có một lý do đặc biệt khiến khách hàng thích đặt hàng trực tuyến hơn.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr03",
+      "no": 3,
+      "tokens": [
+        "All companies",
+        "comply with",
+        "rules",
+        "on structure and operations"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Tất cả các công ty đều tuân thủ các quy định về cơ cấu và hoạt động.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr04",
+      "no": 4,
+      "tokens": [
+        "Everybody",
+        "knows",
+        "that it is a competitive market"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Mọi người đều biết rằng đó là một thị trường cạnh tranh.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr05",
+      "no": 5,
+      "tokens": [
+        "all the staff members",
+        "work",
+        "cooperatively",
+        "during the workshop"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Tất cả nhân viên làm việc với tinh thần hợp tác trong suốt buổi hội thảo.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr06",
+      "no": 6,
+      "tokens": [
+        "My team",
+        "had to face",
+        "the bad results"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Nhóm của tôi đã phải đối mặt với những kết quả tồi tệ.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr07",
+      "no": 7,
+      "tokens": [
+        "The department head",
+        "is",
+        "eligible",
+        "for the promotion"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Trưởng phòng đủ điều kiện để được thăng chức.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr08",
+      "no": 8,
+      "tokens": [
+        "The accountant",
+        "is likely to step down"
+      ],
+      "key": [
+        "S",
+        "V"
+      ],
+      "vi": "Người kế toán có khả năng sẽ từ chức.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr09",
+      "no": 9,
+      "tokens": [
+        "Consumers",
+        "offer",
+        "helpful advice",
+        "on our new product lines"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Người tiêu dùng đưa ra những lời khuyên hữu ích về các dòng sản phẩm mới của chúng tôi.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d7-tr10",
+      "no": 10,
+      "tokens": [
+        "Qualified candidates",
+        "require",
+        "excellent communication skills"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Các ứng viên đạt tiêu chuẩn cần có kỹ năng giao tiếp xuất sắc.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    }
+  ]
+}

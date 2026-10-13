@@ -1,0 +1,1246 @@
+{
+  "collection": "listening",
+  "day": "day-5",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d5-ex1",
+      "code": "ex1",
+      "title": "Exercise 1",
+      "subtitle": "Nghe và chọn câu đáp phù hợp nhất (chỗ trống là từ để hỏi)",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex1-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/01.mp3",
+          "image": null,
+          "question": "_______ did you meet at the seminar?",
+          "options": {
+            "A": "Sam will go to the seminar.",
+            "B": "I don’t know who he is.",
+            "C": "Our vice president"
+          },
+          "answer": "C",
+          "transcript": {
+            "Q": "Who did you meet at the seminar?",
+            "A": "Sam will go to the seminar.",
+            "B": "I don't know who he is.",
+            "C": "Our vice president."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/02.mp3",
+          "image": null,
+          "question": "_______ is in charge of the Accounting Department?",
+          "options": {
+            "A": "Our new manager",
+            "B": "He is a very responsible person.",
+            "C": "She will be an assistant director."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Who is in charge of the accounting department?",
+            "A": "Our new manager.",
+            "B": "He is a very responsible person.",
+            "C": "She will be an assistant director."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-03",
+          "no": 3,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/03.mp3",
+          "image": null,
+          "question": "_______ seems to be wrong with this photocopier?",
+          "options": {
+            "A": "I have no idea.",
+            "B": "Yes, I pressed the wrong button.",
+            "C": "We need to get a new coffee machine."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "What seems to be wrong with this photocopier?",
+            "A": "I have no idea.",
+            "B": "Yes, I pressed the wrong button.",
+            "C": "We need to get a new coffee machine."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-04",
+          "no": 4,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/04.mp3",
+          "image": null,
+          "question": "_______ _______ should we meet?",
+          "options": {
+            "A": "The meeting is postponed.",
+            "B": "Let’s meet at 3 o’clock.",
+            "C": "That would be nice."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "What time should we meet?",
+            "A": "The meeting is postponed.",
+            "B": "Let's meet at three o'clock.",
+            "C": "That would be nice."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-05",
+          "no": 5,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/05.mp3",
+          "image": null,
+          "question": "_______ computers is yours?",
+          "options": {
+            "A": "The one next to the copy machine.",
+            "B": "I didn’t buy it yet.",
+            "C": "You can have it fixed here."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Which computer is yours?",
+            "A": "The one next to the coffee machine.",
+            "B": "I didn't buy it yet.",
+            "C": "You can have it fixed here."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-06",
+          "no": 6,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/06.mp3",
+          "image": null,
+          "question": "_______ of the monitors would you like to purchase?",
+          "options": {
+            "A": "The cheapest one",
+            "B": "These monitors are in such demand.",
+            "C": "We can’t afford two."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Which of the monitors would you like to purchase?",
+            "A": "The cheapest one.",
+            "B": "These monitors are in such demand.",
+            "C": "We can't afford to."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-07",
+          "no": 7,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/07.mp3",
+          "image": null,
+          "question": "_______ is the deadline for the project?",
+          "options": {
+            "A": "Next Friday",
+            "B": "We are behind schedule.",
+            "C": "We will figure it out."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "When is the deadline for the project?",
+            "A": "Next Friday.",
+            "B": "We are behind schedule.",
+            "C": "We will figure it out."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-08",
+          "no": 8,
+          "audio": "/assets/day-5/audio/exercise-1/1-8/08.mp3",
+          "image": null,
+          "question": "_______ will the closing ceremony be held?",
+          "options": {
+            "A": "It is tomorrow at 10.",
+            "B": "The case has been closed.",
+            "C": "I will attend it for sure."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "When will the closing ceremony be held?",
+            "A": "It is tomorrow at 10.",
+            "B": "The case has been closed.",
+            "C": "I will attend it for sure."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-09",
+          "no": 9,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/01.mp3",
+          "image": null,
+          "question": "_______ can I find the quarterly report?",
+          "options": {
+            "A": "In the filling cabinet",
+            "B": "I can’t find it.",
+            "C": "To the seminar"
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Where can I find the quarterly report?",
+            "A": "In the filing cabinet.",
+            "B": "I can't find it.",
+            "C": "To the seminar."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-10",
+          "no": 10,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/02.mp3",
+          "image": null,
+          "question": "_______ are we heading?",
+          "options": {
+            "A": "At the bus terminal",
+            "B": "To the convention center",
+            "C": "I had it before."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Where are we heading?",
+            "A": "At the bus terminal.",
+            "B": "To the convention centre.",
+            "C": "I had it before."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-11",
+          "no": 11,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/03.mp3",
+          "image": null,
+          "question": "_______ did you quit your job?",
+          "options": {
+            "A": "I was not satisfied with the salary.",
+            "B": "I decided to quit my job.",
+            "C": "I believe I did."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Why did you quit your job?",
+            "A": "I was not satisfied with the salary.",
+            "B": "I decided to quit my job.",
+            "C": "I believe I did."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-12",
+          "no": 12,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/04.mp3",
+          "image": null,
+          "question": "_______ don’t you postpone the meeting?",
+          "options": {
+            "A": "Because I didn’t attend it",
+            "B": "That’s a good idea.",
+            "C": "I didn’t get the agenda."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't you postpone the meeting?",
+            "A": "Because I didn't attend it.",
+            "B": "That's a good idea.",
+            "C": "I didn't get the agenda."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-13",
+          "no": 13,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/05.mp3",
+          "image": null,
+          "question": "_______ were you able to contact him?",
+          "options": {
+            "A": "I called his coworker.",
+            "B": "He couldn’t locate the position.",
+            "C": "They were able to get it."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "How were you able to contact him?",
+            "A": "I called his co-worker.",
+            "B": "He couldn't locate the position.",
+            "C": "They were able to get it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-14",
+          "no": 14,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/06.mp3",
+          "image": null,
+          "question": "______ ______ do we have those computers checked?",
+          "options": {
+            "A": "Every two months",
+            "B": "We contacted the technician.",
+            "C": "I haven’t seen them for quite a long time."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "How often do we have those computers checked?",
+            "A": "Every two months.",
+            "B": "We contacted the technician.",
+            "C": "I haven't seen them for quite a long time."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-15",
+          "no": 15,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/07.mp3",
+          "image": null,
+          "question": "______ Mr. Ito in charge of customer service?",
+          "options": {
+            "A": "Yes, he is managing it.",
+            "B": "The survey will be done.",
+            "C": "No, everybody is busy."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Is Mr Ito in charge of customer service?",
+            "A": "Yes, he is managing it.",
+            "B": "The survey will be done.",
+            "C": "No, everybody is busy."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-16",
+          "no": 16,
+          "audio": "/assets/day-5/audio/exercise-1/9-16/08.mp3",
+          "image": null,
+          "question": "______ Tim call someone to repair the copy machine?",
+          "options": {
+            "A": "To upgrade the machine",
+            "B": "Yes, a technician is on the way here.",
+            "C": "No, I said three copies."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Did Tim call someone to repair the copy machine?",
+            "A": "To upgrade the machine.",
+            "B": "Yes, a technician is on the way here.",
+            "C": "No, I said three copies."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-17",
+          "no": 17,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/01.mp3",
+          "image": null,
+          "question": "______ you help Lisa organize the client files?",
+          "options": {
+            "A": "Sure, as soon as I finish this report.",
+            "B": "You helped me a lot.",
+            "C": "Yes, they are on their way here."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Could you help Lisa organize the client files?",
+            "A": "Sure, as soon as I finish this report.",
+            "B": "You helped me a lot.",
+            "C": "Yes, they are on their way here."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-18",
+          "no": 18,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/02.mp3",
+          "image": null,
+          "question": "______ we make a new company logo?",
+          "options": {
+            "A": "Next to the main entrance",
+            "B": "No, I majored in art.",
+            "C": "I think the current one is fine."
+          },
+          "answer": "C",
+          "transcript": {
+            "Q": "Should we make a new company logo?",
+            "A": "Next to the main entrance.",
+            "B": "No, I majored in art.",
+            "C": "I think the current one is fine."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-19",
+          "no": 19,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/03.mp3",
+          "image": null,
+          "question": "______ you seen my laptop anywhere?",
+          "options": {
+            "A": "I have seen him a few times.",
+            "B": "Where did you last use it?",
+            "C": "Sorry. It is sold out."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Have you seen my laptop anywhere?",
+            "A": "I have seen him a few times.",
+            "B": "Where did you last use it?",
+            "C": "Sorry, it is sold out."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-20",
+          "no": 20,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/04.mp3",
+          "image": null,
+          "question": "______ the meeting agenda printed out yesterday?",
+          "options": {
+            "A": "Yes, Kelly did it.",
+            "B": "The printer is on the second floor.",
+            "C": "The meeting was productive."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Was the meeting agenda printed out yesterday?",
+            "A": "Yes, Kelly did it.",
+            "B": "The printer is on the second floor.",
+            "C": "The meeting was productive."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-21",
+          "no": 21,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/05.mp3",
+          "image": null,
+          "question": "_______ you already booked a flight ticker?",
+          "options": {
+            "A": "No, I was too busy.",
+            "B": "Yes, all the tickets were sold out.",
+            "C": "My suitcases are full."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Haven't you already booked a flight ticket?",
+            "A": "No, I was too busy.",
+            "B": "Yes, all the tickets were sold out.",
+            "C": "My suitcases are full."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-22",
+          "no": 22,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/06.mp3",
+          "image": null,
+          "question": "The dental clinic is open on Saturdays, ______ ______?",
+          "options": {
+            "A": "The dentist was excellent.",
+            "B": "Yes, until 2 P.M.",
+            "C": "The doctor’s office is closed now."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "The dental clinic is open on Saturdays, isn't it?",
+            "A": "The dentist was excellent.",
+            "B": "Yes, until 2 p.m.",
+            "C": "The doctor's office is closed now."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-23",
+          "no": 23,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/07.mp3",
+          "image": null,
+          "question": "_______ you like to lead the marketing seminar next week?",
+          "options": {
+            "A": "Sure. I’d be happy to.",
+            "B": "The marketing strategies were weak.",
+            "C": "Yes. I attended the seminar."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you like to lead the marketing seminar next week?",
+            "A": "Sure, I'd be happy to.",
+            "B": "The marketing strategies were weak.",
+            "C": "Yes, I attended the seminar."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-24",
+          "no": 24,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/08.mp3",
+          "image": null,
+          "question": "_______ you know who this briefcase belongs to?",
+          "options": {
+            "A": "No, it is mine.",
+            "B": "Why don’t you ask the receptionist?",
+            "C": "Yes, at the department store."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you know who this briefcase belongs to?",
+            "A": "No, it is mine.",
+            "B": "Why don't you ask the receptionist?",
+            "C": "Yes, at the department store."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-25",
+          "no": 25,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/09.mp3",
+          "image": null,
+          "question": "_______ you like the blue jacket or the brown one?",
+          "options": {
+            "A": "I prefer the blue one.",
+            "B": "Sam is going to buy it.",
+            "C": "I haven’t worn it yet."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you like the blue jacket or the brown one?",
+            "A": "I prefer the blue one.",
+            "B": "Sam is going to buy it.",
+            "C": "I haven't worn it yet."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex1-26",
+          "no": 26,
+          "audio": "/assets/day-5/audio/exercise-1/17-26/10.mp3",
+          "image": null,
+          "question": "The quarterly business report will be released this week.",
+          "options": {
+            "A": "I have no time.",
+            "B": "Because of the contract.",
+            "C": "I can’t wait to read it."
+          },
+          "answer": "C",
+          "transcript": {
+            "Q": "The quarterly business report will be released this week.",
+            "A": "I have no time.",
+            "B": "Because of the contract.",
+            "C": "I can't wait to read it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex2a",
+      "code": "ex2a",
+      "title": "Exercise 2A — Track 03-02",
+      "subtitle": "Nghe và điền từ còn thiếu vào cặp hỏi–đáp",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-5/audio/exercise-2/A - 03_02.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex2a-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-2/a-03-02/01.mp3",
+          "image": null,
+          "question": "Q: _____ will be _____ the _____ _____? A: Mr. Cooper, _____ of the Accounting Department.",
+          "answer": null,
+          "transcript": "Who will be responsible for the new project? Mr. Cooper, the manager of the accounting department.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex2a-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-2/a-03-02/02.mp3",
+          "image": null,
+          "question": "Q: _____ should I _____ the problem? A: You should _____.",
+          "answer": null,
+          "transcript": "Who should I talk to about the problem? You should go to see the secretary.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex2a-03",
+          "no": 3,
+          "audio": "/assets/day-5/audio/exercise-2/a-03-02/03.mp3",
+          "image": null,
+          "question": "Q: _____ will _____? A: _____ will do that.",
+          "answer": null,
+          "transcript": "Who will give us training? The supervisor will do that.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex2a-04",
+          "no": 4,
+          "audio": "/assets/day-5/audio/exercise-2/a-03-02/04.mp3",
+          "image": null,
+          "question": "Q: _____ did you _____ from? A: The _____.",
+          "answer": null,
+          "transcript": "Who did you get the information from? The receptionist.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex2b",
+      "code": "ex2b",
+      "title": "Exercise 2B — Track 03-03",
+      "subtitle": "Nghe, điền từ còn thiếu rồi chọn câu đáp phù hợp nhất",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-5/audio/exercise-2/B - 03_03.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex2b-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-2/b-03-03/01.mp3",
+          "image": null,
+          "question": "_____ the news first?",
+          "options": {
+            "A": "We _____.",
+            "B": "_____ Ms. Jimenez _____.",
+            "C": "_____ the news."
+          },
+          "answer": "B",
+          "transcript": {
+            "Q": "Who heard the news first?",
+            "A": "We delivered it.",
+            "B": "I think Ms. Jimenez did.",
+            "C": "Nobody liked the news."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex2b-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-2/b-03-03/02.mp3",
+          "image": null,
+          "question": "_____ did you decide to _____?",
+          "options": {
+            "A": "We _____ yet.",
+            "B": "Jack wasn’t _____ the team.",
+            "C": "The _____."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Who did you decide to transfer?",
+            "A": "We haven't finalized it yet.",
+            "B": "Jack wasn't transferred to the team.",
+            "C": "The personnel department."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex3a",
+      "code": "ex3a",
+      "title": "Exercise 3A — Track 04-02",
+      "subtitle": "Nghe và điền từ còn thiếu vào cặp hỏi–đáp",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-5/audio/exercise-3/A - 04_02.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex3a-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-3/a-04-02/01.mp3",
+          "image": null,
+          "question": "Q: _____ do you _____ leave? A: _____.",
+          "answer": null,
+          "transcript": "When do you plan to leave? Early next week.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex3a-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-3/a-04-02/02.mp3",
+          "image": null,
+          "question": "Q: _____ you _____ the laundry? A: _____.",
+          "answer": null,
+          "transcript": "When are you going to pick up the laundry? After work.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex3a-03",
+          "no": 3,
+          "audio": "/assets/day-5/audio/exercise-3/a-04-02/03.mp3",
+          "image": null,
+          "question": "Q: When do we _____ the supplier? A: After the _____ the purchase.",
+          "answer": null,
+          "transcript": "When do we have to contact the supplier? After the manager approves the purchase.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex3a-04",
+          "no": 4,
+          "audio": "/assets/day-5/audio/exercise-3/a-04-02/04.mp3",
+          "image": null,
+          "question": "Q: _____ do you think Jennifer _____? A: _____ this Saturday.",
+          "answer": null,
+          "transcript": "When do you think Jennifer will come back? Not until this Saturday.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex3b",
+      "code": "ex3b",
+      "title": "Exercise 3B — Track 04-03",
+      "subtitle": "Nghe, điền từ còn thiếu rồi chọn câu đáp phù hợp nhất",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-5/audio/exercise-3/B - 04_03.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex3b-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-3/b-04-03/01.mp3",
+          "image": null,
+          "question": "_____ is the _____?",
+          "options": {
+            "A": "It is _____ Thursday.",
+            "B": "I _____ soon.",
+            "C": "At _____."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "When is the retirement party?",
+            "A": "It is scheduled for Thursday.",
+            "B": "I will be retiring soon.",
+            "C": "At the hotel."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex3b-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-3/b-04-03/02.mp3",
+          "image": null,
+          "question": "_____ do you think you can _____ _____?",
+          "options": {
+            "A": "It _____ Mr. Lee.",
+            "B": "_____ hasn’t been _____ yet.",
+            "C": "You _____."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "When do you think you can finish the report?",
+            "A": "It depends on Mr. Lee.",
+            "B": "The report hasn't been released yet.",
+            "C": "You tried your best."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex4a",
+      "code": "ex4a",
+      "title": "Exercise 4A — Track 04-05",
+      "subtitle": "Nghe và điền từ còn thiếu vào cặp hỏi–đáp",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-5/audio/exercise-4/A - 04_05.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex4a-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-4/a-04-05/01.mp3",
+          "image": null,
+          "question": "Q: _____ I _____ for more information? A: Go to the _____.",
+          "answer": null,
+          "transcript": "Where should I go for more information? Go to the front desk.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex4a-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-4/a-04-05/02.mp3",
+          "image": null,
+          "question": "Q: _____ you _____ to stay? A: I _____ near here.",
+          "answer": null,
+          "transcript": "Where are you planning to stay? I booked a hotel near here.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex4a-03",
+          "no": 3,
+          "audio": "/assets/day-5/audio/exercise-4/a-04-05/03.mp3",
+          "image": null,
+          "question": "Q: _____ Mr. Hampton _____? A: He is _____ Boston _____.",
+          "answer": null,
+          "transcript": "Where is Mr. Hampton working? He is at the Boston branch.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex4a-04",
+          "no": 4,
+          "audio": "/assets/day-5/audio/exercise-4/a-04-05/04.mp3",
+          "image": null,
+          "question": "Q: _____ the brochure? A: Tom _____.",
+          "answer": null,
+          "transcript": "Where did you get the brochure? Tom gave me one.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5-ex4b",
+      "code": "ex4b",
+      "title": "Exercise 4B — Track 04-06",
+      "subtitle": "Nghe, điền từ còn thiếu rồi chọn câu đáp phù hợp nhất",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "fullAudio": "/assets/day-5/audio/exercise-4/B - 04_06.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d5-ex4b-01",
+          "no": 1,
+          "audio": "/assets/day-5/audio/exercise-4/b-04-06/01.mp3",
+          "image": null,
+          "question": "_____ I _____ this printer?",
+          "options": {
+            "A": "It ran _____.",
+            "B": "I _____ I got it.",
+            "C": "Over there _____ the desk."
+          },
+          "answer": "C",
+          "transcript": {
+            "Q": "Where should I put this printer?",
+            "A": "It ran out of paper.",
+            "B": "I forgot where I got it.",
+            "C": "Over there, next to the desk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d5-ex4b-02",
+          "no": 2,
+          "audio": "/assets/day-5/audio/exercise-4/b-04-06/02.mp3",
+          "image": null,
+          "question": "_____ are we _____?",
+          "options": {
+            "A": "I _____ a table at an _____.",
+            "B": "I _____ already _____.",
+            "C": "We should _____."
+          },
+          "answer": "A",
+          "transcript": {
+            "Q": "Where are we going for dinner?",
+            "A": "I reserved a table at an Italian restaurant.",
+            "B": "I have already eaten.",
+            "C": "We should reschedule it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}

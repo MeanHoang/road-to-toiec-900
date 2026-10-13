@@ -14,6 +14,7 @@
 //       vocab:     { "d1-v06": "known" | "unknown" | null },
 //       star:      { "d1-v06": true },
 //       listen:    { "d1-hw1-03": { picked: "B", correct: false, tries: 2 } },
+//                  (cả câu trắc nghiệm ngữ pháp "d4-ex1-03" cũng ghi ở đây — cùng dạng)
 //       trans:     { "d1-tr01": { done: true, correct: true, marks: {}, draft: "" } },
 //       picture:   { "d1-pic-clothes-01": "cap" },
 //       dictation: { "d1-p11-01": ["is typing on a keyboard", "", ""] },

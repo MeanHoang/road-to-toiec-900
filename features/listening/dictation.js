@@ -67,6 +67,7 @@ export const fullLine = (answer) => words(answer).map((w) => ({ text: w, shown: 
  * Transcript có hai dạng, cùng quy về một chuỗi:
  *   chuỗi        bài chép ba câu tả tranh
  *   {A,B,C,D}    bài trắc nghiệm, audio đọc liền cả bốn phương án
+ *   {Q,A,B,C}    Part 2: câu hỏi đọc trước, rồi ba phương án — chép cả câu hỏi
  *
  * Bỏ "Unit 3." ở đầu vì đó là số hiệu bài đọc lên trong audio — không ai đi
  * chép lại số hiệu, mà để đó thì gõ đúng cả câu vẫn bị báo sai. Cũng KHÔNG
@@ -76,7 +77,8 @@ export const fullLine = (answer) => words(answer).map((w) => ({ text: w, shown: 
 export function spokenText(transcript) {
   if (!transcript) return '';
   if (typeof transcript === 'string') return transcript.replace(/^\s*Unit\s*\d+\.?\s*/i, '').trim();
-  return CHOICES.map((letter) => transcript[letter])
+  return ['Q', ...CHOICES]
+    .map((key) => transcript[key])
     .filter(Boolean)
     .join(' ')
     .trim();

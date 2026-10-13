@@ -1,0 +1,454 @@
+{
+  "collection": "translation",
+  "day": "day-6",
+  "title": "Translation — gạch S/V/O rồi dịch",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d6-tr01",
+      "no": 1,
+      "tokens": [
+        "Oil companies",
+        "earned",
+        "profits",
+        "during the recent quarter"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Các công ty dầu mỏ đã thu được lợi nhuận trong quý vừa qua.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr02",
+      "no": 2,
+      "tokens": [
+        "It",
+        "is",
+        "an advantage",
+        "to have experience in a related field"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Có kinh nghiệm trong một lĩnh vực liên quan là một lợi thế.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr03",
+      "no": 3,
+      "tokens": [
+        "The supervisor",
+        "will examine",
+        "her résumé"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Người giám sát sẽ xem xét sơ yếu lý lịch của cô ấy.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr04",
+      "no": 4,
+      "tokens": [
+        "Diana",
+        "obtained",
+        "authority",
+        "to access some certain files"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Diana đã được cấp quyền truy cập vào một số tệp nhất định.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr05",
+      "no": 5,
+      "tokens": [
+        "The supplier",
+        "has",
+        "many different models of luggage"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O"
+      ],
+      "vi": "Nhà cung cấp có nhiều mẫu hành lý khác nhau.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr06",
+      "no": 6,
+      "tokens": [
+        "Mr. Anderson",
+        "has received",
+        "some suggestions",
+        "from his co-workers"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Ông Anderson đã nhận được một vài góp ý từ các đồng nghiệp của mình.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr07",
+      "no": 7,
+      "tokens": [
+        "Jenifer",
+        "will stay",
+        "in Hong Kong",
+        "for several months",
+        "to hire more engineers"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null,
+        null
+      ],
+      "vi": "Jenifer sẽ ở lại Hồng Kông vài tháng để tuyển thêm kỹ sư.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr08",
+      "no": 8,
+      "tokens": [
+        "He",
+        "complained",
+        "to the airline official",
+        "about his lost passport"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Anh ấy đã phàn nàn với nhân viên hãng hàng không về chiếc hộ chiếu bị mất của mình.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr09",
+      "no": 9,
+      "tokens": [
+        "These",
+        "are",
+        "the details of recent comments",
+        "from our product users"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Đây là chi tiết các nhận xét gần đây từ những người dùng sản phẩm của chúng tôi.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr10",
+      "no": 10,
+      "tokens": [
+        "Once the new parking lot is constructed",
+        "visitors",
+        "will have",
+        "no problem",
+        "parking their cars"
+      ],
+      "key": [
+        null,
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Một khi bãi đỗ xe mới được xây xong, khách đến sẽ không gặp khó khăn gì khi đỗ xe.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr11",
+      "no": 11,
+      "tokens": [
+        "Your opinion",
+        "in this matter",
+        "will be appreciated"
+      ],
+      "key": [
+        "S",
+        null,
+        "V"
+      ],
+      "vi": "Ý kiến của bạn về vấn đề này sẽ rất được trân trọng.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr12",
+      "no": 12,
+      "tokens": [
+        "The recent survey",
+        "conducted by Today’s Report",
+        "showed",
+        "some surprising results"
+      ],
+      "key": [
+        "S",
+        null,
+        "V",
+        "O"
+      ],
+      "vi": "Cuộc khảo sát gần đây do Today’s Report thực hiện đã cho thấy một số kết quả đáng ngạc nhiên.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr13",
+      "no": 13,
+      "tokens": [
+        "The director",
+        "will inform",
+        "you",
+        "of any changes",
+        "happening here"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null,
+        null
+      ],
+      "vi": "Giám đốc sẽ thông báo cho bạn về bất kỳ thay đổi nào diễn ra ở đây.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr14",
+      "no": 14,
+      "tokens": [
+        "The director",
+        "has asked",
+        "us",
+        "to send monthly reports"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Giám đốc đã yêu cầu chúng tôi gửi báo cáo hằng tháng.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr15",
+      "no": 15,
+      "tokens": [
+        "If you have any questions regarding your purchase",
+        "please provide",
+        "our staff",
+        "with the relevant documents"
+      ],
+      "key": [
+        null,
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Nếu bạn có bất kỳ câu hỏi nào liên quan đến món hàng đã mua, vui lòng cung cấp cho nhân viên của chúng tôi các giấy tờ liên quan.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr16",
+      "no": 16,
+      "tokens": [
+        "You",
+        "can make",
+        "a call",
+        "or",
+        "send",
+        "an e-mail",
+        "to make an appointment with Dr. Stewart"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null,
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Bạn có thể gọi điện hoặc gửi e-mail để đặt lịch hẹn với bác sĩ Stewart.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr17",
+      "no": 17,
+      "tokens": [
+        "It",
+        "costs",
+        "a lot of money",
+        "to conduct a(n) research",
+        "to find out customer’s needs"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null,
+        null
+      ],
+      "vi": "Tốn rất nhiều tiền để thực hiện một cuộc nghiên cứu nhằm tìm hiểu nhu cầu của khách hàng.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr18",
+      "no": 18,
+      "tokens": [
+        "The club",
+        "was established",
+        "in 1977",
+        "to help poor children in the world"
+      ],
+      "key": [
+        "S",
+        "V",
+        null,
+        null
+      ],
+      "vi": "Câu lạc bộ được thành lập vào năm 1977 để giúp đỡ trẻ em nghèo trên thế giới.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr19",
+      "no": 19,
+      "tokens": [
+        "The committee",
+        "interviewed",
+        "one of the applicants",
+        "this morning"
+      ],
+      "key": [
+        "S",
+        "V",
+        "O",
+        null
+      ],
+      "vi": "Ủy ban đã phỏng vấn một trong các ứng viên vào sáng nay.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    },
+    {
+      "id": "d6-tr20",
+      "no": 20,
+      "tokens": [
+        "A few calculators",
+        "were found",
+        "to be defective"
+      ],
+      "key": [
+        "S",
+        "V",
+        null
+      ],
+      "vi": "Một vài chiếc máy tính bỏ túi đã bị phát hiện là bị lỗi.",
+      "source": {
+        "tokens": "pdf",
+        "key": "ai",
+        "vi": "ai"
+      }
+    }
+  ]
+}

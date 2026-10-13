@@ -1,0 +1,1400 @@
+{
+  "collection": "listening",
+  "day": "day-6",
+  "title": "Luyện nghe",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d6-p61",
+      "code": "p61",
+      "title": "Practice — File 6.1 (Who)",
+      "subtitle": "Câu hỏi Who: nghe và chép câu hỏi cùng các câu trả lời",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-p61-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/1-2-3-4/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Who is the woman in the lobby? Ms. Chang. She's my sister, one of the new employees.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p61-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/1-2-3-4/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Who sent us this package? The manager did. Our production department. Ask the receptionist.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p61-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/1-2-3-4/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Who can help me with the project? I don't know. It's not decided yet. Why don't you ask your manager?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p61-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/1-2-3-4/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Who has a new schedule? There is one on my desk. I have it here. I saw one in the meeting room.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p61-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's meeting with Ms. Clark right now?",
+            "A": "The accountant.",
+            "B": "The meeting was rather short.",
+            "C": "Yes, you're quite right."
+          },
+          "transcriptVi": null,
+          "question": "_____ Ms. Clark _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p61-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/practice-file-6-1-who/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who will replace Mr. Fernandez when he retires?",
+            "A": "I've never been there.",
+            "B": "I heard that Maria Ortega will...",
+            "C": "No, I'm not tired."
+          },
+          "transcriptVi": null,
+          "question": "_____ Mr. Fernadez _____?",
+          "options": {
+            "A": "___________________________",
+            "B": "_____ Mario Ortega _____.",
+            "C": "___________________________"
+          },
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6-p62",
+      "code": "p62",
+      "title": "Practice — File 6.2 (Where)",
+      "subtitle": "Câu hỏi Where: nghe và chép câu hỏi cùng các câu trả lời",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-p62-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/1-2-3-4/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": ">> Where is the sales report? >> On the table in my office, over there on the shelf. It's in my drawer.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p62-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/1-2-3-4/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": ">> Where can I go to buy binders? >> Try the store across the street. Go to the stationary store down the street. Check the supply room first.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p62-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/1-2-3-4/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": ">> Where did you put the stapler? >> Mr. Morgan borrowed it. The secretary must have it. Jerry's probably using it.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p62-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/1-2-3-4/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": ">> Where is Lisa Martino working? >> She didn't tell me. I'll find out. I wish I knew.",
+          "transcriptVi": null,
+          "question": "_____ Lisa Martino _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p62-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where are you staying in town?",
+            "A": "Yes, often.",
+            "B": "At the Lakeside Hotel.",
+            "C": "For a conference."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p62-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/practice-file-6-2-where/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I get a copy of the weekly newsletter?",
+            "A": "Every other week.",
+            "B": "I read that too.",
+            "C": "On our website."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6-p63",
+      "code": "p63",
+      "title": "Practice — File 6.3 (When)",
+      "subtitle": "Câu hỏi When: nghe và chép câu hỏi cùng các câu trả lời",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-p63-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "When is the deadline? In a week. By tomorrow. Next Wednesday. Soon, I think. Two days from today.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "When did you finish the report? Yesterday. Last Friday. A few hours ago. While you were in a meeting.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "When will the train leave? When did the train leave? At noon. In the afternoon.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "When will the store reopen? It's not certain yet. It hasn't been confirmed yet. Let me check on it.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did you join the company?",
+            "A": "Yes, I'm enjoying it here.",
+            "B": "Three years ago.",
+            "C": "The Strauss Company."
+          },
+          "transcriptVi": null,
+          "options": {
+            "A": "___________________________",
+            "B": "___________________________",
+            "C": "The Strauss _____"
+          },
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the Morrison Bridge going to be repaired?",
+            "A": "A pair of them.",
+            "B": "He was stuck in traffic.",
+            "C": "Sometime next spring."
+          },
+          "transcriptVi": null,
+          "question": "_____ Morrison Bridge _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-p63-07",
+          "no": 7,
+          "audio": "/assets/day-6/audio/practice-file-6-3-when/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When do you start work in the morning?",
+            "A": "Yes, I do.",
+            "B": "At eight o'clock.",
+            "C": "She just started."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6-hw1",
+      "code": "hw1",
+      "title": "Homework — Exercise 1 (Hỏi đáp)",
+      "subtitle": "Nghe 1 lần chọn đáp án, nghe lại chép câu hỏi + đáp án đã chọn",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-hw1-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number one. When are you visiting us next?",
+            "A": "Because it's a long way to travel.",
+            "B": "That would be great.",
+            "C": "Not until July."
+          },
+          "transcriptVi": null,
+          "question": "When _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number two. Who should I talk to about ordering office supplies?",
+            "A": "Mr. Smith is in charge of that.",
+            "B": "No, I didn't place the order.",
+            "C": "We have plenty of paper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number three. Who's in charge of payroll?",
+            "A": "It's a payment.",
+            "B": "My manager, Mr. Dean.",
+            "C": "I can buy more for you."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "number four where can I mail this package? a) at the post office next to our building b) yes I can help you c) the address was wrong",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number five. Where should I place these documents?",
+            "A": "By Tuesday.",
+            "B": "On my desk.",
+            "C": "At noon. Number six."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will you be in Tokyo?",
+            "A": "Only a short drive away.",
+            "B": "Over the weekend.",
+            "C": "At a friend's house."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-07",
+          "no": 7,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number seven. Who should I give this application to?",
+            "A": "Yes, please.",
+            "B": "I'll take it.",
+            "C": "Kimico did."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-08",
+          "no": 8,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the nearest post office?",
+            "A": "Use a bigger envelope.",
+            "B": "There's one near the pharmacy.",
+            "C": "It's a large shipment."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-09",
+          "no": 9,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Number nine. When is the seminar going to be held?",
+            "A": "50 people attended the seminar.",
+            "B": "It's on Thursday afternoon.",
+            "C": "It's about marketing strategies."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-10",
+          "no": 10,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who won first prize in the contest?",
+            "A": "I was second in line.",
+            "B": "Yes, there's one in the closet.",
+            "C": "I think Richard did."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-11",
+          "no": 11,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I find an extra box of staples?",
+            "A": "500 to a box.",
+            "B": "In the supply closet.",
+            "C": "For the report."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-12",
+          "no": 12,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When are you going to get a new car?",
+            "A": "I don't need one yet.",
+            "B": "Yes, I bought a sports car.",
+            "C": "It starts at five."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-13",
+          "no": 13,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's that man over there talking with Greg?",
+            "A": "I've never seen him before.",
+            "B": "It's right over there.",
+            "C": "Yes, he'll be there."
+          },
+          "transcriptVi": null,
+          "question": "_____ Greg?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-14",
+          "no": 14,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where do you usually take your dry cleaning?",
+            "A": "To Pierre's cleaners.",
+            "B": "It's not dry yet.",
+            "C": "All the time."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-15",
+          "no": 15,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the next bus scheduled to arrive?",
+            "A": "It stops by the hotel.",
+            "B": "In about 20 minutes.",
+            "C": "Yes, I have it in my diary."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-16",
+          "no": 16,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's going to meet Ms. Nakata at the airport?",
+            "A": "It's a good idea.",
+            "B": "I don't mind going.",
+            "C": "After the meeting."
+          },
+          "transcriptVi": null,
+          "question": "_____ Ms.Nagata _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-17",
+          "no": 17,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where do you recommend I stay in Shanghai?",
+            "A": "I strongly recommend it.",
+            "B": "One hundred pounds a night.",
+            "C": "I know a great place downtown."
+          },
+          "transcriptVi": null,
+          "question": "_____ Shanghai?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-18",
+          "no": 18,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did you run into Mr. Dawson?",
+            "A": "Yes, jogging keeps you healthy.",
+            "B": "It was a good day.",
+            "C": "While I was shopping."
+          },
+          "transcriptVi": null,
+          "question": "_____ Mr. Dawson?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-19",
+          "no": 19,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Who will close up the shop at the end of the shift? Not that close. We'll finish at 8. Paul will be the last one here.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-20",
+          "no": 20,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where was Ms. Mason employed before?",
+            "A": "Not long ago.",
+            "B": "Several hours.",
+            "C": "Let me check."
+          },
+          "transcriptVi": null,
+          "question": "_____ Ms. Mason _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-21",
+          "no": 21,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the presentation slides be finished?",
+            "A": "They're for Mr Harrison.",
+            "B": "On the proposed renovations.",
+            "C": "I'll bring them to you this afternoon."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-22",
+          "no": 22,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who will be the keynote speaker at our next conference?",
+            "A": "Daniel has the key.",
+            "B": "Her name is Marisol Verdes.",
+            "C": "At the next seminar."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-23",
+          "no": 23,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I purchase a wool sweater?",
+            "A": "It fits you well.",
+            "B": "Try the shopping centre.",
+            "C": "Would you please?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-24",
+          "no": 24,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's in charge of stocking the supply closet?",
+            "A": "Oh, we take turns.",
+            "B": "Don't forget to close it.",
+            "C": "Some office supplies."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-25",
+          "no": 25,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who is Mr Park meeting at the airport?",
+            "A": "Inside the terminal.",
+            "B": "They called a taxi.",
+            "C": "A new client."
+          },
+          "transcriptVi": null,
+          "question": "_____ Mr.Park _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-26",
+          "no": 26,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will Mr. Banks come back to the office?",
+            "A": "No, I haven't seen him.",
+            "B": "You'll have to ask his secretary.",
+            "C": "In front of the building."
+          },
+          "transcriptVi": null,
+          "question": "_____ Mr. Banks _____?",
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": "pdf",
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-27",
+          "no": 27,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's been selected to lead the design team?",
+            "A": "Sign here, please.",
+            "B": "Will he read it?",
+            "C": "Ms. Lee was chosen."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-28",
+          "no": 28,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the nearest supermarket?",
+            "A": "He asked about marketing.",
+            "B": "Just on the street.",
+            "C": "No, there isn't."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-29",
+          "no": 29,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where should I put the paper for the computer?",
+            "A": "Four boxes.",
+            "B": "Next to the printer.",
+            "C": "Yesterday's newspaper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw1-30",
+          "no": 30,
+          "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where are you holding the staff meeting?",
+            "A": "Because our deadlines changed.",
+            "B": "Yes, I've seen it.",
+            "C": "In the conference room."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6-hw2t1",
+      "code": "hw2t1",
+      "title": "Homework — Exercise 2 (Tranh) — TEST 1",
+      "subtitle": "Nghe 1 lần chọn đáp án cho tranh, nghe lại chép đầy đủ đáp án đã chọn",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-6/audio/homework-exercise-2-tranh/TEST 1.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-hw2t1-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/01.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p09-1.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "she's searching in her handbag.",
+            "B": "she's looking in a display case.",
+            "C": "she's paying for a purchase.",
+            "D": "she's holding some flowers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t1-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/02.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p09-2.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "the man is switching off a lamp.",
+            "B": "the man is opening some curtains.",
+            "C": "the man is seated by a window.",
+            "D": "the man is hanging some photographs on the wall."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t1-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/03.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p10-1.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "some chairs are arranged in a circle.",
+            "B": "some stairs are being cleaned.",
+            "C": "a roof is being repaired.",
+            "D": "a tree is being trimmed."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t1-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/04.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p10-2.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "one of the women is wearing a scarf.",
+            "B": "the women are talking to each other.",
+            "C": "the man is pouring coffee into a cup.",
+            "D": "the people are closing their menus."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t1-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/05.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p11-1.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "a notice is being hung on a post.",
+            "B": "the women are walking toward a doorway.",
+            "C": "the man is changing a bicycle tire.",
+            "D": "a basket is being removed from a cart."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t1-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/06.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p11-2.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "a shop assistant is giving a man some money.",
+            "B": "some people are entering a supermarket.",
+            "C": "a cashier is putting merchandise into a bag.",
+            "D": "some customers are waiting in line."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6-hw2t2",
+      "code": "hw2t2",
+      "title": "Homework — Exercise 2 (Tranh) — TEST 2",
+      "subtitle": "Nghe 1 lần chọn đáp án cho tranh, nghe lại chép đầy đủ đáp án đã chọn",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-6/audio/homework-exercise-2-tranh/TEST 2.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d6-hw2t2-01",
+          "no": 1,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/01.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p12-1.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's walking along the shore.",
+            "B": "He's swimming in the sea.",
+            "C": "He's holding a fishing pole.",
+            "D": "He's getting into a boat."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t2-02",
+          "no": 2,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/02.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p12-2.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A woman's standing on a busy street.",
+            "B": "A woman's wiping a car window with a cloth.",
+            "C": "A woman's carrying a jacket over her arm.",
+            "D": "A woman's parking a vehicle."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t2-03",
+          "no": 3,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/03.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p13-1a.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A truck has stopped at a traffic light.",
+            "B": "A man is loading boxes onto a cart.",
+            "C": "A man is kneeling on the grass.",
+            "D": "Some boxes are stacked on the ground."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t2-04",
+          "no": 4,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/04.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p13-3.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "One of the women is writing on a notepad.",
+            "B": "One of the women is looking at some files.",
+            "C": "The women are sitting at their desks.",
+            "D": "The women are facing each other."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t2-05",
+          "no": 5,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/05.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p14-1.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Cars are parked in a garage.",
+            "B": "Plants are arranged on tables.",
+            "C": "There are umbrellas blocking a road.",
+            "D": "There are chairs set up in front of a building."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d6-hw2t2-06",
+          "no": 6,
+          "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/06.mp3",
+          "image": "/assets/day-6/images/day-6-who-where-when/p14-2.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some travelers are seated in a waiting area.",
+            "B": "Some workers are setting up partitions.",
+            "C": "One of the women is handing out tickets.",
+            "D": "One of the men is approaching a counter."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "question": null,
+            "options": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}

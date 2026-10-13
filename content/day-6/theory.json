@@ -1,0 +1,139 @@
+{
+  "collection": "theory",
+  "day": "day-6",
+  "title": "Lý thuyết Part 2 — Who, Where, When",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d6-t-part2",
+      "type": "table",
+      "title": "Part 2 – Questions & Responses",
+      "note": "Part 2 gồm 25 câu hỏi (7-31), mỗi câu có 3 đáp án phản hồi A, B, C.",
+      "columns": [
+        "Dạng câu hỏi",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "1. Câu hỏi lấy thông tin:\nWho, Where, When, What, Why, Which, How",
+          "Who is the new manager?\n=> Mr.Thompson"
+        ],
+        [
+          "2. Câu hỏi xác nhận lại thông tin:\nYes/No questions",
+          "Did you do your homework?\n=> No, not yet."
+        ],
+        [
+          "3. Câu trần thuật\nStatement",
+          "There is a mail for you.\n=> Who's it from?"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d6-t-tips",
+      "type": "notes",
+      "title": "Chú ý",
+      "lines": [
+        "Với dạng câu hỏi lấy thông tin (Who, Where, When, What, Why, Which, How) → LOẠI phương án chứa Yes, No.",
+        "Câu trả lời dạng “I don’t know” thường là câu trả lời đúng, bao gồm:",
+        "I don’t know = I have no idea.",
+        "I don't remember/ I'm not sure.",
+        "It's not certain yet.",
+        "It hasn’t been confirmed/decided/finalized yet.",
+        "Ask somebody/ Check something."
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d6-t-who",
+      "type": "table",
+      "title": "I. WHO question",
+      "note": "Đáp án trả lời trực tiếp cho câu hỏi Who thường là:",
+      "columns": [
+        "Dạng đáp án",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Tên riêng",
+          "Mr/ Ms/ Mrs…., Tom, Thomas, …"
+        ],
+        [
+          "Tên chức vụ, nghề nghiệp",
+          "President, director, manager, supervisor, secretary, assistant, accountant, receptionist, representative, employee, staff, client, customer,…"
+        ],
+        [
+          "Tên bộ phận, phòng ban",
+          "Sales department, accounting department, maintenance department, marketing department, shipping/delivery department, production department, personnel department/ human resources, …"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d6-t-where",
+      "type": "table",
+      "title": "II. WHERE question",
+      "note": "Đáp án đúng cho câu hỏi Where thường là:",
+      "columns": [
+        "Dạng đáp án",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Giới từ ví trí + Danh từ địa điểm, đồ vật",
+          "At a hotel/café, in the office/restaurant/room/drawer, on the table/desk/shelf, down/across the street, on the corner, over there, …"
+        ],
+        [
+          "Cách chỉ đường",
+          "Go to/ to/ try / check + place"
+        ]
+      ],
+      "source": "pdf"
+    },
+    {
+      "id": "d6-t-when",
+      "type": "table",
+      "title": "III. WHEN question",
+      "note": "Đáp án cho câu hỏi When thường là mốc hoặc khoảng thời gian, bao gồm:",
+      "columns": [
+        "Dạng đáp án",
+        "Ví dụ"
+      ],
+      "rows": [
+        [
+          "Đơn vị thời gian",
+          "In a few minutes/ hours/ days, within a week/month/year, …"
+        ],
+        [
+          "Trạng từ chỉ thời gian",
+          "Yesterday, last, ago, today, tonight, tomorrow, next, soon"
+        ],
+        [
+          "Giờ giấc",
+          "At 9 o’clock/ AM/ PM …"
+        ],
+        [
+          "Các buổi trong ngày",
+          "In the morning/ afternoon/ evening, at noon/ lunchtime/ night"
+        ],
+        [
+          "Các thứ trong tuần",
+          "On Monday/ Tuesday…"
+        ],
+        [
+          "Các tháng trong năm",
+          "In January/ February…"
+        ],
+        [
+          "Các mùa",
+          "In spring/ winter/ summer/ fall/ autumn"
+        ],
+        [
+          "Từ nối chỉ thời gian",
+          "When, while, before, after, until, as soon as, whenever + MĐ"
+        ]
+      ],
+      "source": "pdf"
+    }
+  ]
+}

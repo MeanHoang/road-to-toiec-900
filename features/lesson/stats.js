@@ -7,3 +7,7 @@ export const countQuestions = (day) =>
 /** Tổng số ảnh trong bài từ vựng qua hình. */
 export const countPictures = (day) =>
   day.pictures.reduce((n, set) => n + set.questions.length, 0);
+
+/** Tổng số câu trắc nghiệm ngữ pháp của một buổi. */
+export const countExercises = (day) =>
+  day.exercises.reduce((n, set) => n + set.questions.length, 0);

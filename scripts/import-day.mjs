@@ -115,6 +115,12 @@ async function extractImages(pdfPath, outDir) {
   return result;
 }
 
+/** mp3 mở đầu bằng thẻ ID3 hoặc một frame header (0xFFEx/0xFFFx). */
+async function looksLikeMp3(filePath) {
+  const head = (await readFile(filePath)).subarray(0, 3);
+  return head.toString('latin1') === 'ID3' || (head[0] === 0xff && (head[1] & 0xe0) === 0xe0);
+}
+
 async function extractText(pdfPath) {
   const { stdout } = await run('pdftotext', ['-layout', pdfPath, '-']);
   // pdftotext ngăn trang bằng form feed.
@@ -190,7 +196,11 @@ async function main() {
       // (1.mp3 có ở cả File 1.1, File 1.2, HOMEWORK 1, HOMEWORK 2) nên đổ phẳng vào
       // một chỗ là ghi đè mất nhau — 43 file rút còn 17.
       const folder = slugifyTrail(file.trail);
-      const safe = file.name.replace(/[^\w.\- ]+/g, '_');
+      // Tên trên Drive đôi khi thiếu đuôi ("Test 05 - 0 - full"). Không có đuôi
+      // thì server trả sai Content-Type cho thẻ <audio>, nên gắn .mp3 — rồi soát
+      // lại byte đầu file cho chắc nó đúng là mp3, sai thì báo chứ không im lặng.
+      const named = file.name.replace(/[^\w.\- ]+/g, '_');
+      const safe = AUDIO_EXT.test(named) ? named : `${named}.mp3`;
       const destDir = path.join(audioDir, folder);
       const dest = path.join(destDir, safe);
       if (!existsSync(dest)) {
@@ -198,6 +208,9 @@ async function main() {
         process.stdout.write(`  ↓ audio ${folder}/${file.name} ... `);
         const { bytes } = await downloadFile(file.id, dest, fsp);
         console.log(`${(bytes / 1024 / 1024).toFixed(1)} MB`);
+        if (safe !== named && !(await looksLikeMp3(dest))) {
+          console.log(`    ⚠ ${safe}: Drive không ghi đuôi và byte đầu không giống mp3 — xem lại`);
+        }
       }
       audio.push({
         group: file.trail.join(' / '),

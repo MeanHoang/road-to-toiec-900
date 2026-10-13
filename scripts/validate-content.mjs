@@ -125,13 +125,25 @@ async function validateDay(slug) {
     if (name === 'listening') {
       for (const set of data.items) {
         if (!set.code) err(file, `${set.id} thiếu code (dùng làm URL)`);
+        if (!(await assetExists(set.fullAudio)))
+          err(file, `${set.id} fullAudio không tồn tại: ${set.fullAudio}`);
         if (!Array.isArray(set.questions)) {
           err(file, `${set.id} thiếu mảng questions`);
           continue;
         }
         checkIds(file, set.questions, seen, 'question id');
 
+        const letters = set.choices || ['A', 'B', 'C', 'D'];
+        if (set.part !== undefined && ![1, 2, 3].includes(set.part))
+          err(file, `${set.id} part=${set.part}, chỉ nhận 1, 2 hoặc 3`);
+        if (set.part === 2 && letters.length !== 3)
+          err(file, `${set.id} là Part 2 nhưng choices có ${letters.length} phương án, đáng lẽ 3`);
+
         for (const q of set.questions) {
+          if (q.answer && !letters.includes(q.answer))
+            err(file, `${q.id} answer="${q.answer}" không nằm trong ${letters.join('/')}`);
+          if (q.options && Object.keys(q.options).join('') !== letters.join(''))
+            err(file, `${q.id} options có ${Object.keys(q.options).join('/')}, bộ khai ${letters.join('/')}`);
           if (!(await assetExists(q.audio))) err(file, `${q.id} audio không tồn tại: ${q.audio}`);
           if (!(await assetExists(q.image))) err(file, `${q.id} ảnh không tồn tại: ${q.image}`);
           if (set.hasKey && !q.answer) err(file, `${q.id} bộ có hasKey nhưng thiếu answer`);
@@ -139,13 +151,39 @@ async function validateDay(slug) {
             err(file, `${q.id} có answer nhưng bộ khai hasKey=false — sửa hasKey thành true`);
         }
 
+        // Chỉ Part 1 có tranh đề bài; Part 2/3 không có tranh là đúng.
         const noImage = set.questions.filter((q) => !q.image).length;
-        if (noImage) warn(file, `${set.title}: ${noImage} câu chưa gán ảnh đề bài`);
+        if (noImage && (set.part || 1) === 1)
+          warn(file, `${set.title}: ${noImage} câu chưa gán ảnh đề bài`);
         // Transcript giờ vừa là lời thoại vừa là ĐÁP ÁN để chấm bài chép —
         // thiếu nó thì bộ nào cũng không chấm được, không riêng bộ trắc nghiệm.
         const noScript = set.questions.filter((q) => !q.transcript).length;
-        if (noScript)
+        const unsplit = set.questions.filter((q) => q.transcript?.raw).length;
+        if (unsplit) warn(file, `${set.title}: ${unsplit} câu transcript còn dạng { raw }, chưa tách phương án`);
+        // Bộ câu hỏi Part 3 có phương án in sẵn, không cần transcript.
+        if (noScript && !(set.part === 3 && set.mode === 'choice'))
           warn(file, `${set.title}: ${noScript} câu chưa có transcript (chưa chạy whisper)`);
+      }
+    }
+
+    if (name === 'exercises') {
+      for (const set of data.items) {
+        if (!set.code) err(file, `${set.id} thiếu code (dùng làm URL)`);
+        if (!['choice', 'rewrite'].includes(set.kind))
+          err(file, `${set.id} kind="${set.kind}", chỉ nhận choice hoặc rewrite`);
+        if (!Array.isArray(set.questions)) {
+          err(file, `${set.id} thiếu mảng questions`);
+          continue;
+        }
+        checkIds(file, set.questions, seen, 'question id');
+        for (const q of set.questions) {
+          if (!q.text) err(file, `${q.id} thiếu text`);
+          if (!q.answer) err(file, `${q.id} thiếu answer`);
+          if (set.kind === 'choice' && !q.options?.[q.answer])
+            err(file, `${q.id} answer="${q.answer}" không có trong options`);
+        }
+        const unreviewedQ = countUnreviewed(set.questions);
+        if (unreviewedQ) warn(file, `${set.title}: ${unreviewedQ} field còn là bản nháp của máy (source ai/whisper)`);
       }
     }
 

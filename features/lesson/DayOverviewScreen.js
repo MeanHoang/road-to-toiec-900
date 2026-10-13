@@ -8,7 +8,7 @@ import { Section } from '@/shared/ui/atoms/Section';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
-import { countPictures, countQuestions } from './stats';
+import { countExercises, countPictures, countQuestions } from './stats';
 
 const percentOf = (done, total) => (total ? (done / total) * 100 : 0);
 
@@ -30,12 +30,17 @@ export function DayOverviewScreen({ slug, day }) {
         lead="Làm theo thứ tự từ trên xuống — lý thuyết trước, luyện nghe sau cùng."
       >
         <div className="stack">
-          {day.has('grammar') && (
+          {(day.has('grammar') || day.has('theory')) && (
             <NavCard
               href={`${base}/theory`}
               lead="📘"
               title="Lý thuyết"
-              meta={`${day.grammar.length} cấu trúc ngữ pháp · ${day.theory.length} khối lý thuyết`}
+              meta={[
+                day.grammar.length > 0 && `${day.grammar.length} cấu trúc ngữ pháp`,
+                day.theory.length > 0 && `${day.theory.length} khối lý thuyết`,
+              ]
+                .filter(Boolean)
+                .join(' · ')}
               trailing={<Badge>đọc</Badge>}
             />
           )}
@@ -79,6 +84,17 @@ export function DayOverviewScreen({ slug, day }) {
               meta={`${day.translation.length} câu · gạch S / V / O rồi dịch`}
               percent={ready ? percentOf(s.transDone, s.transTotal) : 0}
               trailing={<CountBadge done={s.transDone} total={s.transTotal} />}
+            />
+          )}
+
+          {day.has('exercises') && (
+            <NavCard
+              href={`${base}/exercises`}
+              lead="🧩"
+              title="Trắc nghiệm ngữ pháp"
+              meta={`${day.exercises.length} bài · ${countExercises(day)} câu · chọn đáp án điền vào câu`}
+              percent={ready ? percentOf(s.drillDone, s.drillTotal) : 0}
+              trailing={<CountBadge done={s.drillDone} total={s.drillTotal} />}
             />
           )}
 
