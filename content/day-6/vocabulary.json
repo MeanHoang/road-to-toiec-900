@@ -1,0 +1,2154 @@
+{
+  "collection": "vocabulary",
+  "day": "day-6",
+  "title": "Từ vựng",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d6-v01",
+      "no": 1,
+      "word": "lobby",
+      "pos": "n",
+      "ipa": {
+        "uk": "/lˈɒbi/",
+        "us": "/ˈɫɑbi/"
+      },
+      "meaningVi": "sảnh, hành lang (toà nhà, khách sạn)",
+      "image": null,
+      "example": {
+        "en": "Who is the woman in the lobby?"
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v01-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v01-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v02",
+      "no": 2,
+      "word": "rather",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ɹˈɑːðɐ/",
+        "us": "/ˈɹæðɝ/"
+      },
+      "meaningVi": "khá, hơi",
+      "image": null,
+      "example": {
+        "en": "The meeting was rather short."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v02-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v02-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v03",
+      "no": 3,
+      "word": "replace",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɹɪplˈeɪs/",
+        "us": "/ˌɹiˈpɫeɪs/"
+      },
+      "meaningVi": "thay thế",
+      "image": null,
+      "example": {
+        "en": "Who will replace Mr. Fernandez when he retires?"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v03-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v03-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v04",
+      "no": 4,
+      "word": "binder",
+      "pos": "n",
+      "ipa": {
+        "uk": "/bˈaɪndɐ/",
+        "us": "/ˈbaɪndɝ/"
+      },
+      "meaningVi": "bìa còng, kẹp tài liệu",
+      "image": null,
+      "example": {
+        "en": "Where can I go to buy binders?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v04-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v04-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v05",
+      "no": 5,
+      "word": "stapler",
+      "pos": "n",
+      "ipa": {
+        "uk": "/stˈeɪplɐ/",
+        "us": "/ˈsteɪpəɫɝ/"
+      },
+      "meaningVi": "cái dập ghim, bấm ghim",
+      "image": null,
+      "example": {
+        "en": "Where did you put the stapler?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v05-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v05-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v06",
+      "no": 6,
+      "word": "weekly",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/wˈiːkli/",
+        "us": "/ˈwikɫi/"
+      },
+      "meaningVi": "hằng tuần",
+      "image": null,
+      "example": {
+        "en": "Where can I get a copy of the weekly newsletter?"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v06-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v06-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v07",
+      "no": 7,
+      "word": "newsletter",
+      "pos": "n",
+      "ipa": {
+        "uk": "/njˈuːzlɛtɐ/",
+        "us": "/ˈnuzˌɫɛtɝ/"
+      },
+      "meaningVi": "bản tin",
+      "image": null,
+      "example": {
+        "en": "Where can I get a copy of the weekly newsletter?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v07-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v07-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v08",
+      "no": 8,
+      "word": "noon",
+      "pos": "n",
+      "ipa": {
+        "uk": "/nˈuːn/",
+        "us": "/ˈnun/"
+      },
+      "meaningVi": "buổi trưa, 12 giờ trưa",
+      "image": null,
+      "example": {
+        "en": "At noon."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v08-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v08-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v09",
+      "no": 9,
+      "word": "reopen",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɹɪˈəʊpən/",
+        "us": "/ɹiˈoʊpən/"
+      },
+      "meaningVi": "mở cửa lại",
+      "image": null,
+      "example": {
+        "en": "When will the store reopen?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v09-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v09-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v10",
+      "no": 10,
+      "word": "certain",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/sˈɜːtən/",
+        "us": "/ˈsɝtən/"
+      },
+      "meaningVi": "chắc chắn",
+      "image": null,
+      "example": {
+        "en": "It's not certain yet."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v10-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v10-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v11",
+      "no": 11,
+      "word": "stuck",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/stˈʌk/",
+        "us": "/ˈstək/"
+      },
+      "meaningVi": "bị kẹt, mắc kẹt",
+      "image": null,
+      "example": {
+        "en": "He was stuck in traffic."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v11-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v11-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v12",
+      "no": 12,
+      "word": "sometime",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/sˈʌmtaɪm/",
+        "us": "/ˈsəmˌtaɪm/"
+      },
+      "meaningVi": "vào một lúc nào đó",
+      "image": null,
+      "example": {
+        "en": "Sometime next spring."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v12-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v12-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v13",
+      "no": 13,
+      "word": "plenty",
+      "pos": "n",
+      "ipa": {
+        "uk": "/plˈɛnti/",
+        "us": "/ˈpɫɛni/"
+      },
+      "meaningVi": "nhiều, dư dả (plenty of)",
+      "image": null,
+      "example": {
+        "en": "We have plenty of paper."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v13-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v13-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v14",
+      "no": 14,
+      "word": "payroll",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pˈeɪɹəʊl/",
+        "us": "/ˈpeɪˌɹoʊɫ/"
+      },
+      "meaningVi": "bảng lương, việc trả lương",
+      "image": null,
+      "example": {
+        "en": "Who's in charge of payroll?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v14-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v14-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v15",
+      "no": 15,
+      "word": "application",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌæplɪkˈeɪʃən/",
+        "us": "/ˌæpɫəˈkeɪʃən/"
+      },
+      "meaningVi": "đơn xin, hồ sơ ứng tuyển",
+      "image": null,
+      "example": {
+        "en": "Who should I give this application to?"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v15-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v15-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v16",
+      "no": 16,
+      "word": "envelope",
+      "pos": "n",
+      "ipa": {
+        "uk": null,
+        "us": "/ˈɛnvəˌɫoʊp/"
+      },
+      "meaningVi": "phong bì",
+      "image": null,
+      "example": {
+        "en": "Use a bigger envelope."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v16-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v16-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v17",
+      "no": 17,
+      "word": "pharmacy",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fˈɑːməsi/",
+        "us": "/ˈfɑɹməsi/"
+      },
+      "meaningVi": "hiệu thuốc",
+      "image": null,
+      "example": {
+        "en": "There's one near the pharmacy."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v17-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v17-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v18",
+      "no": 18,
+      "word": "shipment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃˈɪpmənt/",
+        "us": "/ˈʃɪpmənt/"
+      },
+      "meaningVi": "lô hàng, chuyến hàng",
+      "image": null,
+      "example": {
+        "en": "It's a large shipment."
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v18-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v18-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v19",
+      "no": 19,
+      "word": "prize",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pɹˈaɪz/",
+        "us": "/ˈpɹaɪz/"
+      },
+      "meaningVi": "giải thưởng",
+      "image": null,
+      "example": {
+        "en": "Who won first prize in the contest?"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v19-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v19-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v20",
+      "no": 20,
+      "word": "closet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/klˈɒzɪt/",
+        "us": "/ˈkɫɑzət/"
+      },
+      "meaningVi": "tủ âm tường, phòng chứa đồ",
+      "image": null,
+      "example": {
+        "en": "Yes, there's one in the closet."
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v20-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v20-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v21",
+      "no": 21,
+      "word": "extra",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈɛkstɹɐ/",
+        "us": "/ˈɛkstɹə/"
+      },
+      "meaningVi": "thêm, dự phòng",
+      "image": null,
+      "example": {
+        "en": "Where can I find an extra box of staples?"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v21-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v21-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v22",
+      "no": 22,
+      "word": "cleaner",
+      "pos": "n",
+      "ipa": {
+        "uk": "/klˈiːnɐ/",
+        "us": "/ˈkɫinɝ/"
+      },
+      "meaningVi": "tiệm giặt khô (the cleaners), người dọn dẹp",
+      "image": null,
+      "example": {
+        "en": "To Pierre's cleaners."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v22-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v22-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v23",
+      "no": 23,
+      "word": "diary",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dˈaɪəɹi/",
+        "us": "/ˈdaɪɝi/"
+      },
+      "meaningVi": "sổ lịch hẹn, nhật ký",
+      "image": null,
+      "example": {
+        "en": "Yes, I have it in my diary."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v23-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v23-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v24",
+      "no": 24,
+      "word": "recommend",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɹˌɛkəmˈɛnd/",
+        "us": "/ˌɹɛkəˈmɛnd/"
+      },
+      "meaningVi": "giới thiệu, khuyên",
+      "image": null,
+      "example": {
+        "en": "Where do you recommend I stay in Shanghai?"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v24-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v24-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v25",
+      "no": 25,
+      "word": "strongly",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/stɹˈɒŋli/",
+        "us": "/ˈstɹɔŋɫi/"
+      },
+      "meaningVi": "mạnh mẽ, rất (khuyên)",
+      "image": null,
+      "example": {
+        "en": "I strongly recommend it."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v25-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v25-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v26",
+      "no": 26,
+      "word": "hundred",
+      "pos": "num",
+      "ipa": {
+        "uk": "/hˈʌndɹəd/",
+        "us": "/ˈhəndɝd/"
+      },
+      "meaningVi": "trăm",
+      "image": null,
+      "example": {
+        "en": "One hundred pounds a night."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v26-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v26-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v27",
+      "no": 27,
+      "word": "pound",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pˈaʊnd/",
+        "us": "/ˈpaʊnd/"
+      },
+      "meaningVi": "bảng Anh",
+      "image": null,
+      "example": {
+        "en": "One hundred pounds a night."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v27-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v27-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v28",
+      "no": 28,
+      "word": "jogging",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dʒˈɒɡɪŋ/",
+        "us": "/ˈdʒɑɡɪŋ/"
+      },
+      "meaningVi": "chạy bộ",
+      "image": null,
+      "example": {
+        "en": "Yes, jogging keeps you healthy."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v28-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v28-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v29",
+      "no": 29,
+      "word": "shift",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃˈɪft/",
+        "us": "/ˈʃɪft/"
+      },
+      "meaningVi": "ca làm việc",
+      "image": null,
+      "example": {
+        "en": "Who will close up the shop at the end of the shift?"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v29-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v29-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v30",
+      "no": 30,
+      "word": "slide",
+      "pos": "n",
+      "ipa": {
+        "uk": "/slˈaɪd/",
+        "us": "/ˈsɫaɪd/"
+      },
+      "meaningVi": "trang chiếu (thuyết trình)",
+      "image": null,
+      "example": {
+        "en": "When will the presentation slides be finished?"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v30-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v30-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v31",
+      "no": 31,
+      "word": "proposed",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/pɹəpˈəʊzd/",
+        "us": "/pɹəˈpoʊzd/"
+      },
+      "meaningVi": "được đề xuất, dự kiến",
+      "image": null,
+      "example": {
+        "en": "On the proposed renovations."
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v31-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v31-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v32",
+      "no": 32,
+      "word": "keynote",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kˈiːnəʊt/",
+        "us": "/ˈkiˌnoʊt/"
+      },
+      "meaningVi": "chủ đạo (keynote speaker = diễn giả chính)",
+      "image": null,
+      "example": {
+        "en": "Who will be the keynote speaker at our next conference?"
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v32-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v32-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v33",
+      "no": 33,
+      "word": "wool",
+      "pos": "n",
+      "ipa": {
+        "uk": "/wˈʊl/",
+        "us": "/ˈwʊɫ/"
+      },
+      "meaningVi": "len, bằng len",
+      "image": null,
+      "example": {
+        "en": "Where can I purchase a wool sweater?"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v33-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v33-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v34",
+      "no": 34,
+      "word": "fit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/fˈɪt/",
+        "us": "/ˈfɪt/"
+      },
+      "meaningVi": "vừa (quần áo), hợp",
+      "image": null,
+      "example": {
+        "en": "It fits you well."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v34-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v34-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v35",
+      "no": 35,
+      "word": "search",
+      "pos": "v",
+      "ipa": {
+        "uk": "/sˈɜːtʃ/",
+        "us": "/ˈsɝtʃ/"
+      },
+      "meaningVi": "tìm kiếm, lục tìm",
+      "image": null,
+      "example": {
+        "en": "she's searching in her handbag."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v35-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v35-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v36",
+      "no": 36,
+      "word": "handbag",
+      "pos": "n",
+      "ipa": {
+        "uk": "/hˈændbæɡ/",
+        "us": "/ˈhændˌbæɡ/"
+      },
+      "meaningVi": "túi xách tay",
+      "image": null,
+      "example": {
+        "en": "she's searching in her handbag."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v36-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v36-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v37",
+      "no": 37,
+      "word": "switch",
+      "pos": "v",
+      "ipa": {
+        "uk": "/swˈɪtʃ/",
+        "us": "/ˈswɪtʃ/"
+      },
+      "meaningVi": "bật, tắt (switch off = tắt)",
+      "image": null,
+      "example": {
+        "en": "the man is switching off a lamp."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v37-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v37-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v38",
+      "no": 38,
+      "word": "photograph",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fˈəʊtəɡɹˌæf/",
+        "us": "/ˈfoʊtəˌɡɹæf/"
+      },
+      "meaningVi": "bức ảnh",
+      "image": null,
+      "example": {
+        "en": "the man is hanging some photographs on the wall."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v38-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v38-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v39",
+      "no": 39,
+      "word": "trim",
+      "pos": "v",
+      "ipa": {
+        "uk": "/tɹˈɪm/",
+        "us": "/ˈtɹɪm/"
+      },
+      "meaningVi": "tỉa, cắt tỉa",
+      "image": null,
+      "example": {
+        "en": "a tree is being trimmed."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v39-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v39-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v40",
+      "no": 40,
+      "word": "pour",
+      "pos": "v",
+      "ipa": {
+        "uk": "/pˈɔː/",
+        "us": "/ˈpɔɹ/"
+      },
+      "meaningVi": "rót, đổ",
+      "image": null,
+      "example": {
+        "en": "the man is pouring coffee into a cup."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v40-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v40-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v41",
+      "no": 41,
+      "word": "notice",
+      "pos": "n",
+      "ipa": {
+        "uk": "/nˈəʊtɪs/",
+        "us": "/ˈnoʊtəs/"
+      },
+      "meaningVi": "thông báo, bảng thông báo",
+      "image": null,
+      "example": {
+        "en": "a notice is being hung on a post."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v41-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v41-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v42",
+      "no": 42,
+      "word": "cashier",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kæʃˈiə/",
+        "us": "/kæˈʃɪɹ/"
+      },
+      "meaningVi": "thu ngân",
+      "image": null,
+      "example": {
+        "en": "a cashier is putting merchandise into a bag."
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v42-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v42-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v43",
+      "no": 43,
+      "word": "wipe",
+      "pos": "v",
+      "ipa": {
+        "uk": "/wˈaɪp/",
+        "us": "/ˈwaɪp/"
+      },
+      "meaningVi": "lau, chùi",
+      "image": null,
+      "example": {
+        "en": "A woman's wiping a car window with a cloth."
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v43-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v43-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v44",
+      "no": 44,
+      "word": "kneel",
+      "pos": "v",
+      "ipa": {
+        "uk": "/nˈiːl/",
+        "us": "/ˈniɫ/"
+      },
+      "meaningVi": "quỳ",
+      "image": null,
+      "example": {
+        "en": "A man is kneeling on the grass."
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v44-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v44-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v45",
+      "no": 45,
+      "word": "notepad",
+      "pos": "n",
+      "ipa": {
+        "uk": "/nˈəʊtpæd/",
+        "us": "/ˈnoʊtˌpæd/"
+      },
+      "meaningVi": "sổ ghi chép",
+      "image": null,
+      "example": {
+        "en": "One of the women is writing on a notepad."
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v45-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v45-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v46",
+      "no": 46,
+      "word": "garage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡˈæɹɪdʒ/",
+        "us": "/ɡɝˈɑʒ/"
+      },
+      "meaningVi": "nhà để xe, gara",
+      "image": null,
+      "example": {
+        "en": "Cars are parked in a garage."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v46-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v46-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v47",
+      "no": 47,
+      "word": "traveler",
+      "pos": "n",
+      "ipa": {
+        "uk": null,
+        "us": "/ˈtɹævəɫɝ/"
+      },
+      "meaningVi": "hành khách, du khách",
+      "image": null,
+      "example": {
+        "en": "Some travelers are seated in a waiting area."
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v47-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v47-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v48",
+      "no": 48,
+      "word": "partition",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pɑːtˈɪʃən/",
+        "us": "/pɑɹˈtɪʃən/"
+      },
+      "meaningVi": "vách ngăn",
+      "image": null,
+      "example": {
+        "en": "Some workers are setting up partitions."
+      },
+      "group": "Ngoài danh sách",
+      "source": {
+        "word": "cefr",
+        "level": "none",
+        "pos": "ai",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v48-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v48-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v49",
+      "no": 49,
+      "word": "approach",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɐpɹˈəʊtʃ/",
+        "us": "/əˈpɹoʊtʃ/"
+      },
+      "meaningVi": "tiến lại gần, tiếp cận",
+      "image": null,
+      "example": {
+        "en": "One of the men is approaching a counter."
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v49-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v49-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v50",
+      "no": 50,
+      "word": "oil",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɔɪl/",
+        "us": "/ˈɔɪɫ/"
+      },
+      "meaningVi": "dầu, dầu mỏ",
+      "image": null,
+      "example": {
+        "en": "Oil companies earned profits during the recent quarter"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v50-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v50-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v51",
+      "no": 51,
+      "word": "earn",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɜːn/",
+        "us": "/ˈɝn/"
+      },
+      "meaningVi": "kiếm được, thu được",
+      "image": null,
+      "example": {
+        "en": "Oil companies earned profits during the recent quarter"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v51-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v51-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v52",
+      "no": 52,
+      "word": "during",
+      "pos": "prep",
+      "ipa": {
+        "uk": "/djˈɔːɹɪŋ/",
+        "us": "/ˈdɝɪŋ/"
+      },
+      "meaningVi": "trong suốt, trong khi",
+      "image": null,
+      "example": {
+        "en": "Oil companies earned profits during the recent quarter"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v52-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v52-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v53",
+      "no": 53,
+      "word": "recent",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɹˈiːsənt/",
+        "us": "/ˈɹisənt/"
+      },
+      "meaningVi": "gần đây",
+      "image": null,
+      "example": {
+        "en": "Oil companies earned profits during the recent quarter"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v53-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v53-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v54",
+      "no": 54,
+      "word": "advantage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɐdvˈɑːntɪdʒ/",
+        "us": "/ædˈvæntɪdʒ/"
+      },
+      "meaningVi": "lợi thế, điểm cộng",
+      "image": null,
+      "example": {
+        "en": "It is an advantage to have experience in a related field"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v54-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v54-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v55",
+      "no": 55,
+      "word": "authority",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɐθˈɒɹɪtˌi/",
+        "us": "/əˈθɔɹəti/"
+      },
+      "meaningVi": "quyền hạn, thẩm quyền",
+      "image": null,
+      "example": {
+        "en": "Diana obtained authority to access some certain files"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v55-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v55-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v56",
+      "no": 56,
+      "word": "model",
+      "pos": "n",
+      "ipa": {
+        "uk": "/mˈɒdəl/",
+        "us": "/ˈmɑdəɫ/"
+      },
+      "meaningVi": "mẫu, kiểu (sản phẩm)",
+      "image": null,
+      "example": {
+        "en": "The supplier has many different models of luggage"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v56-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v56-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v57",
+      "no": 57,
+      "word": "official",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əfˈɪʃəl/",
+        "us": "/əˈfɪʃəɫ/"
+      },
+      "meaningVi": "nhân viên, viên chức",
+      "image": null,
+      "example": {
+        "en": "He complained to the airline official about his lost passport"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v57-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v57-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v58",
+      "no": 58,
+      "word": "lost",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/lˈɒst/",
+        "us": "/ˈɫɔst/"
+      },
+      "meaningVi": "bị mất, thất lạc",
+      "image": null,
+      "example": {
+        "en": "He complained to the airline official about his lost passport"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v58-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v58-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v59",
+      "no": 59,
+      "word": "passport",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pˈɑːspɔːt/",
+        "us": "/ˈpæsˌpɔɹt/"
+      },
+      "meaningVi": "hộ chiếu",
+      "image": null,
+      "example": {
+        "en": "He complained to the airline official about his lost passport"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v59-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v59-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v60",
+      "no": 60,
+      "word": "detail",
+      "pos": "n",
+      "ipa": {
+        "uk": null,
+        "us": "/ˈditeɪɫ/"
+      },
+      "meaningVi": "chi tiết, thông tin",
+      "image": null,
+      "example": {
+        "en": "These are the details of recent comments from our product users"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v60-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v60-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v61",
+      "no": 61,
+      "word": "comment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kˈɒmɛnt/",
+        "us": "/ˈkɑmɛnt/"
+      },
+      "meaningVi": "nhận xét, ý kiến",
+      "image": null,
+      "example": {
+        "en": "These are the details of recent comments from our product users"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v61-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v61-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v62",
+      "no": 62,
+      "word": "user",
+      "pos": "n",
+      "ipa": {
+        "uk": "/jˈuːzɐ/",
+        "us": "/ˈjuzɝ/"
+      },
+      "meaningVi": "người dùng",
+      "image": null,
+      "example": {
+        "en": "These are the details of recent comments from our product users"
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v62-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v62-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v63",
+      "no": 63,
+      "word": "visitor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/vˈɪzɪtɐ/",
+        "us": "/ˈvɪzɪtɝ/"
+      },
+      "meaningVi": "khách, khách tham quan",
+      "image": null,
+      "example": {
+        "en": "Once the new parking lot is constructed visitors will have no problem parking their cars"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v63-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v63-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v64",
+      "no": 64,
+      "word": "opinion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əpˈɪniən/",
+        "us": "/əˈpɪnjən/"
+      },
+      "meaningVi": "ý kiến, quan điểm",
+      "image": null,
+      "example": {
+        "en": "Your opinion in this matter will be appreciated"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v64-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v64-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v65",
+      "no": 65,
+      "word": "appreciate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɐpɹˈiːʃɪˌeɪt/",
+        "us": "/əˈpɹiʃiˌeɪt/"
+      },
+      "meaningVi": "đánh giá cao, cảm kích",
+      "image": null,
+      "example": {
+        "en": "Your opinion in this matter will be appreciated"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v65-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v65-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v66",
+      "no": 66,
+      "word": "surprising",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/səpɹˈaɪzɪŋ/",
+        "us": "/səˈpɹaɪzɪŋ/"
+      },
+      "meaningVi": "đáng ngạc nhiên",
+      "image": null,
+      "example": {
+        "en": "The recent survey conducted by Today's Report showed some surprising results"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v66-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v66-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v67",
+      "no": 67,
+      "word": "monthly",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/mˈʌnθli/",
+        "us": "/ˈmənθɫi/"
+      },
+      "meaningVi": "hằng tháng",
+      "image": null,
+      "example": {
+        "en": "The director has asked us to send monthly reports"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v67-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v67-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v68",
+      "no": 68,
+      "word": "regarding",
+      "pos": "prep",
+      "ipa": {
+        "uk": "/ɹɪɡˈɑːdɪŋ/",
+        "us": "/ɹɪˈɡɑɹdɪŋ/"
+      },
+      "meaningVi": "về, liên quan đến",
+      "image": null,
+      "example": {
+        "en": "If you have any questions regarding your purchase please provide our staff with the relevant documents"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v68-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v68-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v69",
+      "no": 69,
+      "word": "relevant",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɹˈɛlɪvənt/",
+        "us": "/ˈɹɛɫəvənt/"
+      },
+      "meaningVi": "liên quan, thích hợp",
+      "image": null,
+      "example": {
+        "en": "If you have any questions regarding your purchase please provide our staff with the relevant documents"
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v69-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v69-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v70",
+      "no": 70,
+      "word": "appointment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɐpˈɔɪntmənt/",
+        "us": "/əˈpɔɪntmənt/"
+      },
+      "meaningVi": "cuộc hẹn",
+      "image": null,
+      "example": {
+        "en": "You can make a call or send an e-mail to make an appointment with Dr. Stewart"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v70-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v70-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v71",
+      "no": 71,
+      "word": "establish",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪstˈæblɪʃ/",
+        "us": "/ɪˈstæbɫɪʃ/"
+      },
+      "meaningVi": "thành lập",
+      "image": null,
+      "example": {
+        "en": "The club was established in 1977 to help poor children in the world"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v71-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v71-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v72",
+      "no": 72,
+      "word": "committee",
+      "pos": "n",
+      "ipa": {
+        "uk": null,
+        "us": "/kəˈmɪti/"
+      },
+      "meaningVi": "uỷ ban, hội đồng",
+      "image": null,
+      "example": {
+        "en": "The committee interviewed one of the applicants this morning"
+      },
+      "group": "A2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v72-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v72-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v73",
+      "no": 73,
+      "word": "applicant",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈæplɪkənt/",
+        "us": "/ˈæpɫɪkənt/"
+      },
+      "meaningVi": "người nộp đơn, ứng viên",
+      "image": null,
+      "example": {
+        "en": "The committee interviewed one of the applicants this morning"
+      },
+      "group": "B2",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v73-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v73-us.mp3"
+      }
+    },
+    {
+      "id": "d6-v74",
+      "no": 74,
+      "word": "calculator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kˈælkjʊlˌeɪtɐ/",
+        "us": "/ˈkæɫkjəˌɫeɪtɝ/"
+      },
+      "meaningVi": "máy tính (cầm tay)",
+      "image": null,
+      "example": {
+        "en": "A few calculators were found to be defective"
+      },
+      "group": "B1",
+      "source": {
+        "word": "cefr",
+        "level": "cefr",
+        "pos": "cefr",
+        "ipa": "dict",
+        "meaningVi": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "uk": "/assets/day-6/voice/d6-v74-uk.mp3",
+        "us": "/assets/day-6/voice/d6-v74-us.mp3"
+      }
+    }
+  ]
+}

@@ -23,34 +23,41 @@ import d2translation from '@/content/day-2/translation.json';
 import d2listening from '@/content/day-2/listening.json';
 
 import d3day from '@/content/day-3/day.json';
+import d3vocabulary from '@/content/day-3/vocabulary.json';
 import d3translation from '@/content/day-3/translation.json';
 import d3listening from '@/content/day-3/listening.json';
 
 import d4day from '@/content/day-4/day.json';
+import d4vocabulary from '@/content/day-4/vocabulary.json';
 import d4theory from '@/content/day-4/theory.json';
 import d4exercises from '@/content/day-4/exercises.json';
 import d4listening from '@/content/day-4/listening.json';
 
 import d5day from '@/content/day-5/day.json';
+import d5vocabulary from '@/content/day-5/vocabulary.json';
 import d5theory from '@/content/day-5/theory.json';
 import d5listening from '@/content/day-5/listening.json';
 
 import d6day from '@/content/day-6/day.json';
+import d6vocabulary from '@/content/day-6/vocabulary.json';
 import d6theory from '@/content/day-6/theory.json';
 import d6translation from '@/content/day-6/translation.json';
 import d6listening from '@/content/day-6/listening.json';
 
 import d7day from '@/content/day-7/day.json';
+import d7vocabulary from '@/content/day-7/vocabulary.json';
 import d7theory from '@/content/day-7/theory.json';
 import d7translation from '@/content/day-7/translation.json';
 import d7listening from '@/content/day-7/listening.json';
 
 import d8day from '@/content/day-8/day.json';
+import d8vocabulary from '@/content/day-8/vocabulary.json';
 import d8theory from '@/content/day-8/theory.json';
 import d8listening from '@/content/day-8/listening.json';
 import d8exercises from '@/content/day-8/exercises.json';
 
 import d9day from '@/content/day-9/day.json';
+import d9vocabulary from '@/content/day-9/vocabulary.json';
 import d9theory from '@/content/day-9/theory.json';
 import d9exercises from '@/content/day-9/exercises.json';
 import d9listening from '@/content/day-9/listening.json';
@@ -78,40 +85,47 @@ const REGISTRY = {
   },
   'day-3': {
     day: d3day,
+    vocabulary: d3vocabulary,
     translation: d3translation,
     listening: d3listening,
   },
   'day-4': {
     day: d4day,
+    vocabulary: d4vocabulary,
     theory: d4theory,
     exercises: d4exercises,
     listening: d4listening,
   },
   'day-5': {
     day: d5day,
+    vocabulary: d5vocabulary,
     theory: d5theory,
     listening: d5listening,
   },
   'day-6': {
     day: d6day,
+    vocabulary: d6vocabulary,
     theory: d6theory,
     translation: d6translation,
     listening: d6listening,
   },
   'day-7': {
     day: d7day,
+    vocabulary: d7vocabulary,
     theory: d7theory,
     translation: d7translation,
     listening: d7listening,
   },
   'day-8': {
     day: d8day,
+    vocabulary: d8vocabulary,
     theory: d8theory,
     listening: d8listening,
     exercises: d8exercises,
   },
   'day-9': {
     day: d9day,
+    vocabulary: d9vocabulary,
     theory: d9theory,
     exercises: d9exercises,
     listening: d9listening,
