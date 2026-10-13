@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useProgress } from '@/features/progress/useProgress';
 import { summarize } from '@/features/progress/summarize';
 import { Badge } from '@/shared/ui/atoms/Badge';
@@ -13,35 +14,36 @@ import { countExercises, countPictures, countQuestions } from './stats';
 const percentOf = (done, total) => (total ? (done / total) * 100 : 0);
 
 export function DayOverviewScreen({ slug, day }) {
+  const t = useTranslation();
   const { day: state, ready } = useProgress(slug);
   const s = summarize(state, day);
   const base = `/day/${slug}`;
 
   return (
     <>
-      <PageHeader eyebrow={`Lesson ${day.no}`} title={day.title} subtitle={day.subtitle}>
+      <PageHeader eyebrow={t('Lesson {0}', [day.no])} title={day.title} subtitle={day.subtitle}>
         <div style={{ marginTop: 'var(--space-5)' }}>
-          <Progress percent={ready ? s.percent : 0} label="Progress" />
+          <Progress percent={ready ? s.percent : 0} label={t('Progress')} />
         </div>
       </PageHeader>
 
       <Section
-        title="Lesson activities"
-        lead="Work from top to bottom: start with theory and finish with listening practice."
+        title={t('Lesson activities')}
+        lead={t('Work from top to bottom: start with theory and finish with listening practice.')}
       >
         <div className="stack">
           {(day.has('grammar') || day.has('theory')) && (
             <NavCard
               href={`${base}/theory`}
               lead="📘"
-              title="Theory"
+              title={t('Theory')}
               meta={[
                 day.grammar.length > 0 && `${day.grammar.length} grammar structures`,
                 day.theory.length > 0 && `${day.theory.length} theory sections`,
               ]
                 .filter(Boolean)
                 .join(' · ')}
-              trailing={<Badge>read</Badge>}
+              trailing={<Badge>{t('read')}</Badge>}
             />
           )}
 
@@ -50,8 +52,8 @@ export function DayOverviewScreen({ slug, day }) {
               <NavCard
                 href={`${base}/cards`}
                 lead="🗂"
-                title="Flashcards"
-                meta="Word and IPA on the front; flip to see the meaning"
+                title={t('Flashcards')}
+                meta={t('Word and IPA on the front; flip to see the meaning')}
                 percent={ready ? percentOf(s.known, s.total) : 0}
                 trailing={<CountBadge done={s.known} total={s.total} />}
               />
@@ -59,9 +61,9 @@ export function DayOverviewScreen({ slug, day }) {
               <NavCard
                 href={`${base}/game`}
                 lead="🎮"
-                title="Vocabulary game"
-                meta="English ↔ Vietnamese quiz · missed words return to your To learn flashcards"
-                trailing={<Badge>play</Badge>}
+                title={t('Vocabulary game')}
+                meta={t('English ↔ Vietnamese quiz · missed words return to your To learn flashcards')}
+                trailing={<Badge>{t('play')}</Badge>}
               />
             </>
           )}
@@ -70,9 +72,9 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/pictures`}
               lead="🖼"
-              title="Picture vocabulary"
-              meta={`${countPictures(day)} images · clothes, prepositions of place, and locations`}
-              trailing={<Badge>practice</Badge>}
+              title={t('Picture vocabulary')}
+              meta={t('{0} images · clothes, prepositions of place, and locations', [countPictures(day)])}
+              trailing={<Badge>{t('practice')}</Badge>}
             />
           )}
 
@@ -80,8 +82,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/grammar`}
               lead="✍️"
-              title="Grammar exercises"
-              meta={`${day.translation.length} sentences · label S / V / O, then translate`}
+              title={t('Grammar exercises')}
+              meta={t('{0} sentences · label S / V / O, then translate', [day.translation.length])}
               percent={ready ? percentOf(s.transDone, s.transTotal) : 0}
               trailing={<CountBadge done={s.transDone} total={s.transTotal} />}
             />
@@ -91,8 +93,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/exercises`}
               lead="🧩"
-              title="Grammar quiz"
-              meta={`${day.exercises.length} sets · ${countExercises(day)} questions · choose an answer to complete the sentence`}
+              title={t('Grammar quiz')}
+              meta={t('{0} sets · {1} questions · choose an answer to complete the sentence', [day.exercises.length, countExercises(day)])}
               percent={ready ? percentOf(s.drillDone, s.drillTotal) : 0}
               trailing={<CountBadge done={s.drillDone} total={s.drillTotal} />}
             />
@@ -102,8 +104,8 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/listen`}
               lead="🎧"
-              title="Listening practice"
-              meta={`${day.listening.length} sets · ${countQuestions(day)} questions`}
+              title={t('Listening practice')}
+              meta={t('{0} sets · {1} questions', [day.listening.length, countQuestions(day)])}
               percent={ready ? percentOf(s.listenDone, s.listenTotal) : 0}
               trailing={<CountBadge done={s.listenDone} total={s.listenTotal} />}
             />
@@ -113,16 +115,16 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/vocab`}
               lead="📋"
-              title="Vocabulary list"
-              meta={`Browse ${day.vocabulary.length} words · UK/US IPA · filter by learning status`}
-              trailing={<Badge>browse</Badge>}
+              title={t('Vocabulary list')}
+              meta={t('Browse {0} words · UK/US IPA · filter by learning status', [day.vocabulary.length])}
+              trailing={<Badge>{t('browse')}</Badge>}
             />
           )}
         </div>
       </Section>
 
       <p className="caption" style={{ marginTop: 'var(--space-5)' }}>
-        Your progress is saved on this device and syncs to your account when you sign in.
+        {t('Your progress is saved on this device and syncs to your account when you sign in.')}
       </p>
     </>
   );

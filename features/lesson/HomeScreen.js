@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { AccountBar } from '@/features/auth/AccountBar';
 import { ExamRoomButton } from '@/features/exam/ExamRoomButton';
 import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
@@ -27,6 +28,7 @@ function Stat({ value, label, loading }) {
 }
 
 export function HomeScreen() {
+  const t = useTranslation();
   const { days, loading } = useDayList();
   const totalVocab = days.reduce((n, d) => n + d.vocabulary.length, 0);
   const totalAudio = days.reduce((n, d) => n + countQuestions(d), 0);
@@ -35,12 +37,12 @@ export function HomeScreen() {
     <>
       <div className="hero">
         <h1>Road to TOEIC 900</h1>
-        <p>Choose a lesson to get started</p>
+        <p>{t('Choose a lesson to get started')}</p>
 
         <div className="stat-row">
-          <Stat value={days.length} label="lessons" loading={loading} />
-          <Stat value={totalVocab} label="words" loading={loading} />
-          <Stat value={totalAudio} label="listening questions" loading={loading} />
+          <Stat value={days.length} label={t('lessons')} loading={loading} />
+          <Stat value={totalVocab} label={t('words')} loading={loading} />
+          <Stat value={totalAudio} label={t('listening questions')} loading={loading} />
         </div>
       </div>
 
@@ -56,7 +58,7 @@ export function HomeScreen() {
       />
 
       {loading ? (
-        <LoadingBlock label="Loading lessons">
+        <LoadingBlock label={t('Loading lessons')}>
           <NavCardSkeleton />
           <NavCardSkeleton />
         </LoadingBlock>
@@ -71,14 +73,14 @@ export function HomeScreen() {
           <NavCard
             empty
             lead={String(days.length + 1).padStart(2, '0')}
-            title="Next lesson"
-            meta="Material not available yet"
+            title={t('Next lesson')}
+            meta={t('Material not available yet')}
           />
         </div>
       )}
 
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Your progress is saved on this device so you can keep studying offline. Sign in with Google to sync it to your account and continue on another device.
+        {t('Your progress is saved on this device so you can keep studying offline. Sign in with Google to sync it to your account and continue on another device.')}
       </Callout>
     </>
   );

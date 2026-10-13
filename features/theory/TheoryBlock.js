@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { Card } from '@/shared/ui/atoms/Card';
@@ -13,6 +14,7 @@ import { englishLabel } from '@/shared/lib/englishLabels';
  * Buổi sau có kiểu khối mới thì thêm một nhánh, không phải đập lại cấu trúc.
  */
 export function TheoryBlock({ block }) {
+  const t = useTranslation();
   switch (block.type) {
     case 'aspects':
       return <AspectsBlock block={block} />;
@@ -30,7 +32,7 @@ export function TheoryBlock({ block }) {
       // Buổi mới có type chưa hỗ trợ thì nói thẳng, đừng render ra khoảng trắng im lặng.
       return (
         <Notice style={{ marginTop: 'var(--space-5)' }}>
-          ⚠️ Theory block type <code>{block.type}</code> is not supported yet.
+          {t('⚠️ Theory block type')} <code>{block.type}</code> {t('is not supported yet.')}
         </Notice>
       );
   }
@@ -62,6 +64,7 @@ function NotesBlock({ block }) {
  * mảng nằm trong mảng ("Property array contains an invalid nested entity").
  */
 function TableBlock({ block }) {
+  const t = useTranslation();
   return (
     <Section title={block.title} lead={block.note}>
       <div className="table-wrap">
@@ -69,7 +72,7 @@ function TableBlock({ block }) {
           <thead>
             <tr>
               {block.columns.map((col) => (
-                <th key={col}>{englishLabel(col)}</th>
+                <th key={col}>{t(englishLabel(col))}</th>
               ))}
             </tr>
           </thead>
@@ -91,17 +94,18 @@ function TableBlock({ block }) {
 }
 
 function AspectsBlock({ block }) {
+  const t = useTranslation();
   return (
     <Section
       title={block.title}
-      lead="Scan these four details in each picture before listening."
+      lead={t('Scan these four details in each picture before listening.')}
     >
       <div className="grid grid-2">
         {block.items.map((a, i) => (
           <Card key={a.id}>
             <div className="row" style={{ marginBottom: 'var(--space-3)' }}>
               <Badge tone="brand" eyebrow>
-                {i + 1}. {englishLabel(a.title)}
+                {i + 1}. {t(englishLabel(a.title))}
               </Badge>
               <span className="caption" style={{ fontStyle: 'italic' }}>
                 {a.en}
@@ -122,8 +126,9 @@ function AspectsBlock({ block }) {
 }
 
 function PairsBlock({ block }) {
+  const t = useTranslation();
   return (
-    <Section title={`${block.title} — opposite pairs`} lead={block.note}>
+    <Section title={t('{0} — opposite pairs', [t(block.title)])} lead={block.note}>
       <Card>
         <div className="pair-list">
           {block.pairs.map((pair) => (
@@ -135,7 +140,7 @@ function PairsBlock({ block }) {
           ))}
         </div>
         <p className="caption" style={{ marginTop: 'var(--space-4)' }}>
-          Without an opposite: {block.singles.join(' · ')}
+          {t('Without an opposite:')} {block.singles.join(' · ')}
         </p>
       </Card>
     </Section>
@@ -143,13 +148,14 @@ function PairsBlock({ block }) {
 }
 
 function WordGroupsBlock({ block }) {
+  const t = useTranslation();
   return (
     <Section title={block.title}>
       <div className="grid grid-3">
         {Object.entries(block.groups).map(([group, words]) => (
           <Card key={group}>
             <Badge tone="accent" eyebrow>
-              {englishLabel(group)}
+              {t(englishLabel(group))}
             </Badge>
             <p style={{ marginTop: 'var(--space-3)' }}>
               {words.map((word) => (
@@ -166,8 +172,9 @@ function WordGroupsBlock({ block }) {
 }
 
 function CompareBlock({ block }) {
+  const t = useTranslation();
   return (
-    <Section title={`Compare ${block.left.word} vs ${block.right.word}`}>
+    <Section title={t('Compare {0} vs {1}', [block.left.word, block.right.word])}>
       <Card>
         <div className="compare">
           {[block.left, block.right].map((side) => (

@@ -17,6 +17,7 @@
     "test:dictation": "node scripts/test-dictation.mjs",
     "test:exam": "node scripts/test-exam.mjs",
     "test:ui-language": "node scripts/test-ui-language.mjs",
+    "test:i18n": "node scripts/test-i18n.mjs",
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs",
     "push-exam": "node scripts/push-exam.mjs"

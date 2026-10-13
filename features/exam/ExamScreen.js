@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Phòng thi. Ba chặng trong một màn: chọn đề → làm bài → kết quả.
 //
 // Một màn chứ không phải ba route: giữa chừng mà đổi URL thì bấm Back là mất
@@ -32,6 +33,7 @@ import { clock, useExamRun } from './useExamRun';
 const EXAM_SLUG = 'exam-room';
 
 export function ExamScreen() {
+  const t = useTranslation();
   const { day: progress, ready, saveAttempt } = useProgress(EXAM_SLUG);
   const { name: learner } = useAuth();
   const { forms } = useExamContent();
@@ -71,7 +73,7 @@ export function ExamScreen() {
 
   if (!ready) {
     return (
-      <LoadingBlock label="Preparing the exam room">
+      <LoadingBlock label={t('Preparing the exam room')}>
         <div />
       </LoadingBlock>
     );
@@ -85,7 +87,7 @@ export function ExamScreen() {
   if (attempt) {
     return (
       <>
-        <PageHeader eyebrow="Exam room" title="Results" />
+        <PageHeader eyebrow={t('Exam room')} title={t('Results')} />
         <ExamResult
           attempt={attempt}
           questions={reviewQuestions}
@@ -99,17 +101,17 @@ export function ExamScreen() {
   return (
     <>
       <PageHeader
-        eyebrow="Exam room"
-        title="Practice test"
+        eyebrow={t('Exam room')}
+        title={t('Practice test')}
         subtitle={
           learner
-            ? `${learner} — your results are saved to your account across devices.`
-            : 'A full TOEIC test with 200 questions across 7 parts. Listening follows the audio; Reading is self-paced within the time limit.'
+            ? t('{0} — your results are saved to your account across devices.', [learner])
+            : t('A full TOEIC test with 200 questions across 7 parts. Listening follows the audio; Reading is self-paced within the time limit.')
         }
       />
       <ExamPicker papers={papers} history={history} onStart={start} />
       <Callout style={{ marginTop: 'var(--space-5)' }}>
-        Questions, images, and answers come from an official ETS practice test. Listening audio uses computer-generated speech from the test script. Results show correct-answer counts because ETS does not publish a conversion table for the 10–990 score scale.
+        {t('Questions, images, and answers come from an official ETS practice test. Listening audio uses computer-generated speech from the test script. Results show correct-answer counts because ETS does not publish a conversion table for the 10–990 score scale.')}
       </Callout>
     </>
   );
@@ -127,6 +129,7 @@ export function ExamScreen() {
  * giờ, phần câu hỏi chiếm chỗ còn lại.
  */
 function Running({ paper, onDone }) {
+  const t = useTranslation();
   const run = useExamRun(paper, onDone);
   const [confirming, setConfirming] = useState(false);
 
@@ -138,7 +141,7 @@ function Running({ paper, onDone }) {
   }, []);
 
   const blank = run.marks.filter((m) => !m.picked).length;
-  const endLabel = run.isLastSection ? 'Submit test' : `Finish ${run.section.label}`;
+  const endLabel = run.isLastSection ? t('Submit test') : t('Finish {0}', [t(run.section.label)]);
 
   return (
     <div className="exam-run">
@@ -146,11 +149,11 @@ function Running({ paper, onDone }) {
         {/* Thi riêng một phần thì tên đề đã chứa tên phần rồi — ghép nữa ra
             "Đề số 1 — phần Đọc · Phần Đọc". */}
         <span className="exam-bar-label">
-          {paper.only ? paper.label : `${paper.label} · ${run.section.label}`}
+          {t(paper.only ? paper.label : `${paper.label} · ${run.section.label}`)}
         </span>
         <b className={`exam-clock ${run.left <= 30 ? 'is-low' : ''}`}>{clock(run.left)}</b>
         <span className="caption">
-          Question {run.noInSection}/{run.sectionTotal} · answered {run.answered}/{run.total}
+          {t('Question')} {run.noInSection}/{run.sectionTotal} {t('· answered')} {run.answered}/{run.total}
         </span>
       </div>
 
@@ -163,14 +166,14 @@ function Running({ paper, onDone }) {
             mà mất cả phần thi thì quá đắt. */}
         <div className="exam-actions">
           <Button onClick={run.prev} disabled={run.atSectionStart}>
-            Previous question
+            {t('Previous question')}
           </Button>
           <Button variant="primary" onClick={run.next} disabled={run.atSectionEnd}>
-            Next question
+            {t('Next question')}
           </Button>
         </div>
         <Button variant="quiet" onClick={() => setConfirming(true)}>
-          {endLabel}
+          {t(endLabel)}
         </Button>
       </aside>
 
@@ -186,19 +189,19 @@ function Running({ paper, onDone }) {
         />
       </div>
 
-      <Modal open={confirming} onClose={() => setConfirming(false)} title={`${endLabel}?`}>
+      <Modal open={confirming} onClose={() => setConfirming(false)} title={`${t(endLabel)}?`}>
         <p>
           {run.isLastSection
-            ? 'Your test will be graded immediately. You cannot change your answers after submitting.'
-            : `Once you start ${nextLabel(paper, run.sectionIndex)}, you cannot return to ${run.section.label}.`}
+            ? t('Your test will be graded immediately. You cannot change your answers after submitting.')
+            : t('Once you start {0}, you cannot return to {1}.', [t(nextLabel(paper, run.sectionIndex)), t(run.section.label)])}
         </p>
         {blank > 0 && (
           <p className="caption">
-            There are <b>{blank} unanswered questions</b> in this section. Unanswered questions count as incorrect.
+            {t('There are')} <b>{blank} {t('unanswered questions')}</b> {t('in this section. Unanswered questions count as incorrect.')}
           </p>
         )}
         <div className="exam-actions" style={{ marginTop: 'var(--space-4)' }}>
-          <Button onClick={() => setConfirming(false)}>Continue test</Button>
+          <Button onClick={() => setConfirming(false)}>{t('Continue test')}</Button>
           <Button
             variant="primary"
             onClick={() => {
@@ -206,7 +209,7 @@ function Running({ paper, onDone }) {
               run.nextSection();
             }}
           >
-            {endLabel}
+            {t(endLabel)}
           </Button>
         </div>
       </Modal>

@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
@@ -11,6 +12,7 @@ import { countLabelled, isRight, isWrong } from './grade';
 
 /** Một ảnh + ô điền. Chỉ tô xanh/đỏ khi người học đã bấm "Kiểm tra". */
 function PictureCell({ question, value, checked, onChange }) {
+  const t = useTranslation();
   const right = checked && isRight(question, value);
   const wrong = checked && isWrong(question, value);
 
@@ -19,7 +21,7 @@ function PictureCell({ question, value, checked, onChange }) {
       <img src={question.image} alt="" loading="lazy" />
       <Input
         className={right ? 'is-correct' : wrong ? 'is-wrong' : ''}
-        placeholder="enter a word…"
+        placeholder={t('enter a word…')}
         value={value}
         onChange={(e) => onChange(e.target.value)}
       />
@@ -33,6 +35,7 @@ function PictureCell({ question, value, checked, onChange }) {
 }
 
 export function PicturesScreen({ slug, day }) {
+  const t = useTranslation();
   const { day: state, ready, setPicture } = useProgress(slug);
   const [tab, setTab] = useState(day.pictures[0].id);
   const [checked, setChecked] = useState(false);
@@ -44,8 +47,8 @@ export function PicturesScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Picture vocabulary"
-        subtitle="Look at each picture and enter the word. Practice clothes, prepositions of place, and locations."
+        title={t('Picture vocabulary')}
+        subtitle={t('Look at each picture and enter the word. Practice clothes, prepositions of place, and locations.')}
       />
 
       <div className="row" style={{ marginBottom: 'var(--space-5)' }}>
@@ -58,24 +61,24 @@ export function PicturesScreen({ slug, day }) {
               setChecked(false);
             }}
           >
-            {s.icon} {s.title}
+            {s.icon} {t(s.title)}
           </Button>
         ))}
       </div>
 
       {labelled === 0 && (
         <Notice style={{ marginBottom: 'var(--space-5)' }}>
-          ⚠️ This group has no answer key. Add the <code>answer</code> field in{' '}
-          <code>content/{slug}/pictures.json</code>. You can still type and save your answers.
+          {t('⚠️ This group has no answer key. Add the')} <code>answer</code> {t('field in')}{' '}
+          <code>content/{slug}/pictures.json</code>{t('. You can still type and save your answers.')}
         </Notice>
       )}
 
       <div className="quiz-head">
         <span>
-          {set.title} — {set.questions.length} images
+          {t(set.title)} — {set.questions.length} {t('images')}
         </span>
         <Badge tone={labelled ? 'brand' : 'warning'}>
-          {labelled} / {set.questions.length} images with answer keys
+          {labelled} / {set.questions.length} {t('images with answer keys')}
         </Badge>
       </div>
 
@@ -93,7 +96,7 @@ export function PicturesScreen({ slug, day }) {
 
       <div className="row row-end" style={{ marginTop: 'var(--space-5)' }}>
         <Button variant="primary" disabled={labelled === 0} onClick={() => setChecked((c) => !c)}>
-          {checked ? 'Hide answers' : 'Check all'}
+          {checked ? t('Hide answers') : t('Check all')}
         </Button>
       </div>
     </>

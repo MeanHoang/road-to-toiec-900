@@ -1,11 +1,13 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { MidAutumnScene } from '@/shared/ui/organisms/MidAutumnScene';
 import { WomenDayScene } from '@/shared/ui/organisms/WomenDayScene';
 import { ACTIVE_EVENT } from '@/shared/lib/event';
 import { NavDrawer } from './NavDrawer';
+import { LanguageSelector } from '@/features/language/LanguageSelector';
 
 /**
  * Khung của cả app: ngăn kéo bên trái + nội dung bên phải.
@@ -17,6 +19,7 @@ import { NavDrawer } from './NavDrawer';
 const isWide = () => window.matchMedia('(min-width: 1024px)').matches;
 
 export function AppShell({ children }) {
+  const t = useTranslation();
   const pathname = usePathname() || '/';
   const inLesson = pathname.startsWith('/day/');
 
@@ -61,7 +64,7 @@ export function AppShell({ children }) {
           type="button"
           className="drawer-handle"
           onClick={() => setOpen(true)}
-          aria-label="Open navigation menu"
+          aria-label={t('Open navigation menu')}
           aria-expanded={false}
         >
           »
@@ -69,6 +72,7 @@ export function AppShell({ children }) {
       )}
 
       <div className="shell-main">
+        <LanguageSelector />
         <main className="app-shell">{children}</main>
       </div>
     </div>

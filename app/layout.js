@@ -1,4 +1,7 @@
 import './globals.css';
+import { cookies } from 'next/headers';
+import { LanguageProvider } from '@/features/language/LanguageProvider';
+import { LANGUAGE_COOKIE, languageOf } from '@/features/language/translate';
 import { AuthProvider } from '@/features/auth/AuthProvider';
 import { AppShell } from '@/features/navigation/AppShell';
 import { ACTIVE_EVENT, themeColorOf } from '@/shared/lib/event';
@@ -19,13 +22,16 @@ export const viewport = {
   ],
 };
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
+  const locale = languageOf((await cookies()).get(LANGUAGE_COOKIE)?.value);
   return (
-    <html lang="en" data-event={ACTIVE_EVENT || undefined}>
+    <html lang={locale} data-event={ACTIVE_EVENT || undefined}>
       <body>
-        <AuthProvider>
-          <AppShell>{children}</AppShell>
-        </AuthProvider>
+        <LanguageProvider initialLocale={locale}>
+          <AuthProvider>
+            <AppShell>{children}</AppShell>
+          </AuthProvider>
+        </LanguageProvider>
       </body>
     </html>
   );

@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { countExercises } from '@/features/lesson/stats';
 import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
@@ -9,6 +10,7 @@ import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 
 export function ExerciseIndexScreen({ slug, day }) {
+  const t = useTranslation();
   const { day: state, ready } = useProgress(slug);
   const aiKeyed = day.exercises.some((set) =>
     set.questions.some((q) => q.source?.answer === 'ai'),
@@ -18,8 +20,8 @@ export function ExerciseIndexScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Grammar quiz"
-        subtitle={`${day.exercises.length} sets · ${countExercises(day)} questions · choose the correct answer to complete each sentence`}
+        title={t('Grammar quiz')}
+        subtitle={t('{0} sets · {1} questions · choose the correct answer to complete each sentence', [day.exercises.length, countExercises(day)])}
       />
 
       <div className="stack">
@@ -37,7 +39,7 @@ export function ExerciseIndexScreen({ slug, day }) {
               meta={set.subtitle}
               percent={graded && ready ? (done / total) * 100 : undefined}
               trailing={
-                graded ? <CountBadge done={done} total={total} /> : <Badge>self-check</Badge>
+                graded ? <CountBadge done={done} total={total} /> : <Badge>{t('self-check')}</Badge>
               }
             />
           );
@@ -46,7 +48,7 @@ export function ExerciseIndexScreen({ slug, day }) {
 
       {aiKeyed && (
         <Callout style={{ marginTop: 'var(--space-6)' }}>
-          <strong>AI-generated answers</strong> — the material does not include an official answer key. Check any doubtful answers with your class.
+          <strong>{t('AI-generated answers')}</strong> {t('— the material does not include an official answer key. Check any doubtful answers with your class.')}
         </Callout>
       )}
     </>

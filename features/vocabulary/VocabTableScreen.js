@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useMemo, useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
@@ -10,6 +11,7 @@ import { FILTERS, countStarred, filterVocabulary, isKnown, notKnownYet } from '.
 import { VocabRow } from './VocabRow';
 
 export function VocabTableScreen({ slug, day }) {
+  const t = useTranslation();
   const { day: state, ready, setVocab, setStar } = useProgress(slug);
   const [query, setQuery] = useState('');
   const [filter, setFilter] = useState('all');
@@ -34,8 +36,8 @@ export function VocabTableScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Vocabulary list"
-        subtitle={`${day.vocabulary.length} words · search by word, meaning, or IPA`}
+        title={t('Vocabulary list')}
+        subtitle={t('{0} words · search by word, meaning, or IPA', [day.vocabulary.length])}
       >
         <div className="row" style={{ marginTop: 'var(--space-4)' }}>
           <CopyUnknown
@@ -43,7 +45,7 @@ export function VocabTableScreen({ slug, day }) {
             words={ready ? notKnownYet(day.vocabulary, state.vocab) : []}
           />
           <span className="caption">
-            Paste into Claude Code so the <code>toeic-quiz</code> skill can generate questions for these words
+            {t('Paste into Claude Code so the')} <code>toeic-quiz</code> {t('skill can generate questions for these words')}
           </span>
         </div>
       </PageHeader>
@@ -51,7 +53,7 @@ export function VocabTableScreen({ slug, day }) {
       <div className="row" style={{ marginBottom: 'var(--space-4)' }}>
         <Input
           type="search"
-          placeholder="Search words, meanings, or IPA…"
+          placeholder={t('Search words, meanings, or IPA…')}
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           style={{ flex: 1, minWidth: 200 }}
@@ -63,7 +65,7 @@ export function VocabTableScreen({ slug, day }) {
             variant={filter === f.key ? 'primary' : 'quiet'}
             onClick={() => setFilter(f.key)}
           >
-            {f.key === 'star' && starCount ? `${f.label} (${starCount})` : f.label}
+            {f.key === 'star' && starCount ? `${t(f.label)} (${starCount})` : t(f.label)}
           </Button>
         ))}
       </div>
@@ -73,16 +75,16 @@ export function VocabTableScreen({ slug, day }) {
           <thead>
             <tr>
               <th className="col-star">
-                <span aria-label="Star" title="Star">
+                <span aria-label={t('Star')} title={t('Star')}>
                   ★
                 </span>
               </th>
               <th>#</th>
-              <th>Word</th>
+              <th>{t('Word')}</th>
               <th>UK</th>
               <th>US</th>
-              <th>Meaning</th>
-              <th>Status</th>
+              <th>{t('Meaning')}</th>
+              <th>{t('Status')}</th>
               <th />
             </tr>
           </thead>
@@ -108,13 +110,13 @@ export function VocabTableScreen({ slug, day }) {
       {rows.length === 0 && (
         <p className="section-lead" style={{ marginTop: 'var(--space-4)' }}>
           {filter === 'star' && !starCount
-            ? 'No starred words yet. Click ★ here or press S while studying flashcards.'
-            : 'No matching words.'}
+            ? t('No starred words yet. Click ★ here or press S while studying flashcards.')
+            : t('No matching words.')}
         </p>
       )}
 
       <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-        Click a status label to change it. Missed words in the game are marked as To learn. Star words you want to review, even if they are already Known. Vietnamese meanings were added by AI. If a meaning needs correcting, edit{' '}
+        {t('Click a status label to change it. Missed words in the game are marked as To learn. Star words you want to review, even if they are already Known. Vietnamese meanings were added by AI. If a meaning needs correcting, edit')}{' '}
         <code>content/{slug}/vocabulary.json</code>.
       </p>
     </>

@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import Link from 'next/link';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
@@ -12,6 +13,7 @@ import { Flashcard } from './Flashcard';
 import { notKnownYet } from './filters';
 
 export function CardsScreen({ slug, day }) {
+  const t = useTranslation();
   const { day: state, ready, setVocab, setStar, resetVocab } = useProgress(slug);
   const [flipped, setFlipped] = useState(false);
   const [cursor, setCursor] = useState(0);
@@ -65,27 +67,27 @@ export function CardsScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Flashcards"
-        subtitle="Recall the meaning from the word and IPA on the front. Flip to see the meaning and image."
+        title={t('Flashcards')}
+        subtitle={t('Recall the meaning from the word and IPA on the front. Flip to see the meaning and image.')}
       >
         <div style={{ marginTop: 'var(--space-5)' }}>
-          <Progress percent={(known / total) * 100} label={`${known} / ${total} Known`} />
+          <Progress percent={(known / total) * 100} label={t('{0} / {1} Known', [known, total])} />
         </div>
         <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-          <kbd>Space</kbd> flip · <kbd>←</kbd> To learn · <kbd>→</kbd> Known · <kbd>S</kbd> star
+          <kbd>Space</kbd> {t('flip ·')} <kbd>←</kbd> {t('To learn ·')} <kbd>→</kbd> {t('Known ·')} <kbd>S</kbd> {t('star')}
         </p>
       </PageHeader>
 
       {deck.length === 0 ? (
         <Card className="stack" style={{ textAlign: 'center', padding: 'var(--space-8)' }}>
           <div style={{ fontSize: 'var(--text-4xl)' }}>🎉</div>
-          <h3>You have reviewed all {total} words</h3>
+          <h3>{t('You have reviewed all')} {total} {t('words')}</h3>
           <p className="section-lead" style={{ margin: '0 auto' }}>
-            Known cards are hidden, so you can bring them back for review later.
+            {t('Known cards are hidden, so you can bring them back for review later.')}
           </p>
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="primary" onClick={resetVocab}>
-              ↺ Review all words
+              {t('↺ Review all words')}
             </Button>
           </div>
         </Card>
@@ -101,19 +103,19 @@ export function CardsScreen({ slug, day }) {
 
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="danger" onClick={() => mark('unknown')}>
-              ← Still learning
+              {t('← Still learning')}
             </Button>
             <Button variant="success" onClick={() => mark('known')}>
-              Known →
+              {t('Known →')}
             </Button>
           </div>
 
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="quiet" size="sm" onClick={resetVocab}>
-              ↺ Review all words
+              {t('↺ Review all words')}
             </Button>
             <span className="caption">
-              Known cards are hidden. Star words you want to review, then find them in the <Link href={`/day/${slug}/vocab`}>vocabulary list</Link>.
+              {t('Known cards are hidden. Star words you want to review, then find them in the')} <Link href={`/day/${slug}/vocab`}>{t('vocabulary list')}</Link>.
             </span>
           </div>
         </div>

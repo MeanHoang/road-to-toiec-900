@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Kết quả một lượt thi.
 //
 // Chấm RIÊNG từng phần chứ không gộp một con số: đề thật cũng trả hai điểm
@@ -48,6 +49,7 @@ function byPart(attempt) {
 }
 
 export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
+  const t = useTranslation();
   const [selected, setSelected] = useState(null);
   const question = selected && questions.find((q) => q.id === selected.id);
   const sections = bySection(attempt);
@@ -59,17 +61,17 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
     <div className="stack">
       <Card className="exam-score">
         <span className="eyebrow">
-          {attempt.label}
+          {t(attempt.label)}
           {attempt.learner ? ` · ${attempt.learner}` : ''}
         </span>
         <b className="exam-score-big">
           {correct}/{attempt.total}
         </b>
-        <span className="caption">correct answers</span>
-        <Progress percent={(correct / attempt.total) * 100} label="Accuracy" />
+        <span className="caption">{t('correct answers')}</span>
+        <Progress percent={(correct / attempt.total) * 100} label={t('Accuracy')} />
         {blank > 0 && (
           <p className="caption">
-            {blank} unanswered questions. In the actual test, unanswered questions count as incorrect, so make a guess rather than leave them blank.
+            {blank} {t('unanswered questions. In the actual test, unanswered questions count as incorrect, so make a guess rather than leave them blank.')}
           </p>
         )}
       </Card>
@@ -78,11 +80,11 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
           một bảng "theo phần" với đúng một dòng thì chỉ tổ rối. */}
       {sections.length > 1 && (
         <Card>
-          <span className="eyebrow">By section</span>
+          <span className="eyebrow">{t('By section')}</span>
           <div className="exam-sections">
             {sections.map((s) => (
               <div key={s.label} className="exam-section-score">
-                <b>{s.label}</b>
+                <b>{t(s.label)}</b>
                 <span className="exam-section-num">
                   {s.correct}/{s.count}
                 </span>
@@ -96,11 +98,11 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       {/* Theo Part: biết mình yếu Part nào mới biết luyện riêng Part đó. */}
       {parts.length > 1 && (
         <Card>
-          <span className="eyebrow">By part</span>
+          <span className="eyebrow">{t('By part')}</span>
           <div className="exam-sections">
             {parts.map((p) => (
               <div key={p.part} className="exam-section-score">
-                <b>{partTitle(p.part)}</b>
+                <b>{t(partTitle(p.part))}</b>
                 <span className="exam-section-num">
                   {p.correct}/{p.count}
                 </span>
@@ -112,11 +114,11 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       )}
 
       <Card>
-        <span className="eyebrow">Question review</span>
-        <p className="caption">Select an incorrect or unanswered question to review it and see the correct answer.</p>
+        <span className="eyebrow">{t('Question review')}</span>
+        <p className="caption">{t('Select an incorrect or unanswered question to review it and see the correct answer.')}</p>
         {sections.map((s) => (
           <div key={s.label} className="exam-review">
-            {sections.length > 1 && <span className="caption">{s.label}</span>}
+            {sections.length > 1 && <span className="caption">{t(s.label)}</span>}
             {s.answers.map((a, i) => {
               const ok = a.picked === a.answer;
               const Row = ok ? 'div' : 'button';
@@ -127,14 +129,14 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
                   {...(!ok && {
                     type: 'button',
                     onClick: () => setSelected({ ...a, no: a.no ?? s.from + i + 1 }),
-                    'aria-label': `Review question ${a.no ?? s.from + i + 1}`,
+                    'aria-label': t('Review question {0}', [a.no ?? s.from + i + 1]),
                     'aria-haspopup': 'dialog',
                   })}
                 >
                   <span className="exam-review-no">{a.no ?? s.from + i + 1}</span>
-                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? 'correct' : a.picked ? 'incorrect' : 'unanswered'}</Badge>
+                  <Badge tone={ok ? 'success' : 'danger'}>{ok ? t('correct') : a.picked ? t('incorrect') : t('unanswered')}</Badge>
                   <span className="caption">
-                    Your answer {a.picked || '—'} · Correct answer {a.answer}
+                    {t('Your answer')} {a.picked || '—'} {t('· Correct answer')} {a.answer}
                   </span>
                 </Row>
               );
@@ -146,21 +148,21 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
       <Modal
         open={Boolean(selected)}
         onClose={() => setSelected(null)}
-        title={`Answer to question ${selected?.no ?? ''}`}
+        title={t('Answer to question {0}', [selected?.no ?? ''])}
       >
         {selected && (
           <div className="stack exam-answer-review">
             <p>
-              {selected.picked ? `Your answer ${selected.picked}` : 'You left this question unanswered'}
-              {' · '}Correct answer: <b>{selected.answer}</b>
+              {selected.picked ? t('Your answer {0}', [selected.picked]) : t('You left this question unanswered')}
+              {' · '}{t('Correct answer:')} <b>{selected.answer}</b>
             </p>
             {question && (
               <>
                 <ExamQuestion question={{ ...question, answer: selected.answer }} picked={selected.picked} review />
-                {question.audio && <audio key={question.id} controls src={question.audio} preload="none" aria-label="Replay question audio" />}
+                {question.audio && <audio key={question.id} controls src={question.audio} preload="none" aria-label={t('Replay question audio')} />}
                 {question.script?.length > 0 && (
                   <div className="script-list">
-                    <span className="eyebrow">Transcript</span>
+                    <span className="eyebrow">{t('Transcript')}</span>
                     {question.script.map((line, i) => <p key={i}>{line.text}</p>)}
                   </div>
                 )}
@@ -172,9 +174,9 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
 
       <div className="exam-actions">
         <Button variant="primary" onClick={onAgain}>
-          Retake test
+          {t('Retake test')}
         </Button>
-        <Button onClick={onBack}>Choose another test</Button>
+        <Button onClick={onBack}>{t('Choose another test')}</Button>
       </div>
     </div>
   );

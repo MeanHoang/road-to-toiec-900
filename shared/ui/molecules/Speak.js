@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 /**
@@ -44,6 +45,7 @@ function chonGiong(lang) {
 }
 
 export function Speak({ text, lang = 'en-US', src, label }) {
+  const t = useTranslation();
   const [supported, setSupported] = useState(true);
   const [error, setError] = useState(null);
 
@@ -122,14 +124,14 @@ export function Speak({ text, lang = 'en-US', src, label }) {
 
   if (!src && !supported) return null;
 
-  const tenGoi = label || `Pronounce "${text}"`;
+  const tenGoi = label || t('Pronounce "{0}"', [text]);
   return (
     <button
       className={`icon-btn ${error ? 'is-error' : ''}`}
       onClick={phat}
       type="button"
-      aria-label={error ? `${tenGoi} — ${error}` : tenGoi}
-      title={error || tenGoi}
+      aria-label={error ? `${tenGoi} — ${t(error)}` : tenGoi}
+      title={error ? t(error) : tenGoi}
     >
       {error ? '⚠️' : '🔊'}
     </button>

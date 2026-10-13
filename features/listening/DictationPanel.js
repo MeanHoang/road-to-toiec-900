@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Notice } from '@/shared/ui/atoms/Notice';
 import { AnswerNote } from './AnswerNote';
 import { DictationField } from './DictationField';
@@ -19,10 +20,11 @@ import { CHOICES } from './rules';
  * phải tự nghe ra. Chia sẵn ô là làm hộ mất phần đó.
  */
 export function DictationPanel({ item, slug, value, onChange }) {
+  const t = useTranslation();
   if (!canGrade(item)) {
     return (
       <Notice>
-        This question cannot be checked because its transcript is unavailable. Run <code>npm run transcribe {slug}</code> locally to generate it.
+        {t('This question cannot be checked because its transcript is unavailable. Run')} <code>npm run transcribe {slug}</code> {t('locally to generate it.')}
       </Notice>
     );
   }
@@ -36,16 +38,16 @@ export function DictationPanel({ item, slug, value, onChange }) {
       <p className="section-lead" style={{ margin: 0 }}>
         {nhieuPhuongAn ? (
           <>
-            Listen and{' '}
+            {t('Listen and')}{' '}
             <strong>
-              transcribe {coCauHoi ? 'the question and ' : ''}all {soPhuongAn} answer choices in one go
+              {t('transcribe')} {coCauHoi ? t('the question and ') : ''}{t('all')} {soPhuongAn} {t('answer choices in one go')}
             </strong>
-            . Skip the test instructions and answer labels such as A, B, and C.
+            {t('. Skip the test instructions and answer labels such as A, B, and C.')}
           </>
         ) : (
           <>
-            Listen and <strong>transcribe everything you hear</strong>. Click{' '}
-            <strong>Check</strong> to review your answer. Each check reveals one more word.
+            {t('Listen and')} <strong>{t('transcribe everything you hear')}</strong>{t('. Click')}{' '}
+            <strong>{t('Check')}</strong> {t('to review your answer. Each check reveals one more word.')}
           </>
         )}
       </p>

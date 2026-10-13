@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Ô chọn câu: lưới số câu, câu nào đã chọn đáp án thì tô đậm.
 //
 // Đây không phải tiện ích thêm thắt, nó là cách làm bài mà chính ETS hướng
@@ -9,14 +10,15 @@
 //
 
 export function QuestionPalette({ marks, onGo }) {
+  const t = useTranslation();
   const blank = marks.filter((m) => !m.picked).length;
 
   return (
     <div className="palette">
       <div className="palette-head">
-        <span className="eyebrow">Questions</span>
+        <span className="eyebrow">{t('Questions')}</span>
         <span className="caption">
-          {blank === 0 ? 'All answered' : `${blank} unanswered`}
+          {blank === 0 ? t('All answered') : t('{0} unanswered', [blank])}
         </span>
       </div>
       <div className="palette-grid">
@@ -32,7 +34,7 @@ export function QuestionPalette({ marks, onGo }) {
               .filter(Boolean)
               .join(' ')}
             aria-current={m.current ? 'true' : undefined}
-            aria-label={`Question ${m.no}${m.picked ? ', answered' : ', unanswered'}`}
+            aria-label={t('Question {0}{1}', [m.no, m.picked ? t(', answered') : t(', unanswered')])}
             onClick={() => onGo(m.at)}
           >
             {m.no}

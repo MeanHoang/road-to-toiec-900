@@ -1,3 +1,7 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
+
 // Dải chúc của sự kiện đang chạy, đặt ở đầu trang chủ.
 //
 // Tự quyết định có hiện hay không, thay vì bắt bên gọi kiểm tra ACTIVE_EVENT:
@@ -12,13 +16,14 @@
 import { ACTIVE_EVENT, greetingOf } from '@/shared/lib/event';
 
 export function EventGreeting() {
+  const t = useTranslation();
   const greeting = greetingOf(ACTIVE_EVENT);
   if (!greeting) return null;
 
   return (
     <div className="event-greeting">
-      <b>{greeting.title}</b>
-      <span>{greeting.body}</span>
+      <b>{t(greeting.title)}</b>
+      <span>{t(greeting.body)}</span>
     </div>
   );
 }

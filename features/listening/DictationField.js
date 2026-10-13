@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Switch } from '@/shared/ui/atoms/Switch';
@@ -18,6 +19,7 @@ import { checkLine, fullLine } from './dictation';
  * gõ), nhưng đáp án đã lộ thì giữ nguyên — đang cần nó để gõ nốt.
  */
 export function DictationField({ answer, value, onChange, minHeight }) {
+  const t = useTranslation();
   const [checked, setChecked] = useState(null); // { text, result } | null
   const [gaveUp, setGaveUp] = useState(false);
 
@@ -54,7 +56,7 @@ export function DictationField({ answer, value, onChange, minHeight }) {
             rows={1}
             spellCheck={false}
             autoComplete="off"
-            placeholder="Type what you hear…"
+            placeholder={t('Type what you hear…')}
             value={value}
             onChange={(e) => onChange(e.target.value)}
             onKeyDown={(e) => {
@@ -71,17 +73,17 @@ export function DictationField({ answer, value, onChange, minHeight }) {
 
       <div className="dictation-actions">
         <Button size="sm" variant="primary" disabled={!value.trim()} onClick={check}>
-          Check
+          {t('Check')}
         </Button>
 
-        {done && <span className="dictation-verdict is-ok">✓ Correct</span>}
+        {done && <span className="dictation-verdict is-ok">{t('✓ Correct')}</span>}
         {!stale && result.status === 'wrong' && (
-          <span className="dictation-verdict is-bad">⚠ Not quite right</span>
+          <span className="dictation-verdict is-bad">{t('⚠ Not quite right')}</span>
         )}
 
         {canReveal && (
           <Switch checked={gaveUp} onChange={() => setGaveUp((g) => !g)}>
-            Show full sentence
+            {t('Show full sentence')}
           </Switch>
         )}
       </div>

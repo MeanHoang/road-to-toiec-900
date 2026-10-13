@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Chép danh sách từ chưa thuộc ra clipboard.
 //
 // Cần cái này vì tiến độ học nằm ở localStorage TRÊN MÁY user — skill chạy ở
@@ -12,13 +13,14 @@
 import { useState } from 'react';
 
 export function CopyUnknown({ words, daySlug }) {
+  const t = useTranslation();
   const [copied, setCopied] = useState(false);
 
   if (!words.length) return null;
 
   const copy = async () => {
     const text =
-      `Generate more quiz questions for ${daySlug}, using these words I am still learning:\n` +
+      t('Generate more quiz questions for {0}, using these words I am still learning:', [daySlug]) + '\n' +
       words.map((w) => `${w.id}  ${w.word} — ${w.meaningVi}`).join('\n');
     try {
       await navigator.clipboard.writeText(text);
@@ -31,7 +33,7 @@ export function CopyUnknown({ words, daySlug }) {
 
   return (
     <button className="btn btn-quiet btn-sm" onClick={copy} type="button">
-      {copied ? '✓ Copied' : `📋 Copy ${words.length} words to learn`}
+      {copied ? t('✓ Copied') : t('📋 Copy {0} words to learn', [words.length])}
     </button>
   );
 }

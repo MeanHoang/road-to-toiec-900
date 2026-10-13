@@ -1,5 +1,10 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
+
 /** Thanh tiến độ. `label` bỏ trống thì chỉ còn thanh, dùng cho chỗ chật. */
 export function Progress({ percent, label, size }) {
+  const t = useTranslation();
   const value = Math.max(0, Math.min(100, Math.round(percent || 0)));
   if (size === 'sm') {
     return (
@@ -16,7 +21,7 @@ export function Progress({ percent, label, size }) {
       aria-valuemin={0}
       aria-valuemax={100}
     >
-      {label && <span>{label}</span>}
+      {label && <span>{t(label)}</span>}
       <span className="progress-track">
         <i className="progress-fill" style={{ width: `${value}%` }} />
       </span>

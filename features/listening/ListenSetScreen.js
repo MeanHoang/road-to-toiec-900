@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
@@ -21,6 +22,7 @@ import { choicesOf, hasPhoto } from './rules';
  * hai cách luyện — nên là một nút gạt chứ không phải hai bộ bài riêng.
  */
 export function ListenSetScreen({ slug, setId, day }) {
+  const t = useTranslation();
   const set = day.listening.find((s) => s.code === setId);
   const { day: state, ready, answer, setDictation } = useProgress(slug);
   const [idx, setIdx] = useState(0);
@@ -32,7 +34,7 @@ export function ListenSetScreen({ slug, setId, day }) {
   if (!set) {
     return (
       <>
-        <Notice>Listening set not found: &ldquo;{setId}&rdquo;.</Notice>
+        <Notice>{t('Listening set not found: “')}{setId}&rdquo;.</Notice>
       </>
     );
   }
@@ -84,22 +86,22 @@ export function ListenSetScreen({ slug, setId, day }) {
       >
         {hasPhoto(set) &&
           (item.image ? (
-            <img className="photo" src={item.image} alt={`Image for question ${item.no}`} />
+            <img className="photo" src={item.image} alt={t('Image for question {0}', [item.no])} />
           ) : (
-            <div className="photo-placeholder">🖼 No image available for this question</div>
+            <div className="photo-placeholder">{t('🖼 No image available for this question')}</div>
           ))}
 
         <div className="stack stack-lg">
           <AudioPlayer src={item.audio} />
 
           {set.fullAudio && (
-            <p className="caption">A full-length audio track is also available for this set.</p>
+            <p className="caption">{t('A full-length audio track is also available for this set.')}</p>
           )}
 
           {/* Part 3: lời hội thoại đã có bộ chép riêng, không gạt sang chép ở bộ câu hỏi. */}
           {set.hasKey && set.part !== 3 && (
             <Switch checked={writing} onChange={() => setWriting((w) => !w)}>
-              Dictation mode — transcribe the audio instead of choosing {lettersLabel}
+              {t('Dictation mode — transcribe the audio instead of choosing')} {lettersLabel}
             </Switch>
           )}
 
@@ -124,20 +126,20 @@ export function ListenSetScreen({ slug, setId, day }) {
 
           <div className="row row-between">
             <Button variant="quiet" disabled={idx === 0} onClick={() => goto(idx - 1)}>
-              ← Previous question
+              {t('← Previous question')}
             </Button>
 
             {!lastQuestion ? (
               <Button variant="primary" onClick={() => goto(idx + 1)}>
-                Next question →
+                {t('Next question →')}
               </Button>
             ) : nextSet ? (
               <Button variant="primary" href={`/day/${slug}/listen/${nextSet.code}`}>
-                {nextSet.title} →
+                {t(nextSet.title)} →
               </Button>
             ) : (
               <Button variant="primary" href={`/day/${slug}/listen`}>
-                All sets complete — back to list →
+                {t('All sets complete — back to list →')}
               </Button>
             )}
           </div>

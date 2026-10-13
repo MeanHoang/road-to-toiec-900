@@ -1,5 +1,6 @@
 'use client';
 
+import { useLanguage, useTranslation } from '@/features/language/LanguageProvider';
 // Chọn ĐỀ, rồi thi cả đề hoặc thi riêng một Part.
 //
 // Một đề TOEIC là 200 câu làm liền một mạch: Listening (Part 1-4) rồi vào
@@ -16,8 +17,9 @@ import { SECTIONS } from './rules';
 import { clock } from './useExamRun';
 
 export function ExamPicker({ papers, history, onStart }) {
+  const t = useTranslation();
   if (!papers?.length) {
-    return <p className="caption">No tests available yet.</p>;
+    return <p className="caption">{t('No tests available yet.')}</p>;
   }
 
   return (
@@ -31,17 +33,18 @@ export function ExamPicker({ papers, history, onStart }) {
 
 /** Một đề: thi cả đề, hoặc thi riêng từng Part. */
 function PaperCard({ paper, history, onStart }) {
+  const t = useTranslation();
   return (
     <Card className="paper">
       <div className="paper-head">
         <div>
-          <b className="paper-title">{paper.title}</b>
+          <b className="paper-title">{t(paper.title)}</b>
           <p className="caption">
-            {paper.total} questions · {clock(paper.seconds)}
+            {paper.total} {t('questions ·')} {clock(paper.seconds)}
           </p>
         </div>
         <Button variant="primary" size="sm" onClick={() => onStart(paper.id, null)}>
-          Take full test
+          {t('Take full test')}
         </Button>
       </div>
 
@@ -54,7 +57,7 @@ function PaperCard({ paper, history, onStart }) {
         return (
           <div key={s.kind} className="paper-sections">
             <span className="exam-group-title">
-              {s.label} · {count} questions
+              {t(s.label)} · {count} {t('questions')}
             </span>
             {parts.map((p) => (
               <PartRow key={p.part} part={p} history={history} paperId={paper.id} onStart={onStart} />
@@ -68,21 +71,22 @@ function PaperCard({ paper, history, onStart }) {
 
 /** Một Part của đề: thi riêng được. */
 function PartRow({ part, history, paperId, onStart }) {
+  const t = useTranslation();
   return (
     <div className="paper-section">
       <div className="paper-section-main">
         <div className="exam-row-head">
           <b>
-            Part {part.part} · {part.label}
+            {t('Part {0} · {1}', [part.part, t(part.label)])}
           </b>
           <Badge>
-            {part.count} questions · {clock(part.seconds)}
+            {part.count} {t('questions ·')} {clock(part.seconds)}
           </Badge>
         </div>
         <LastScore history={history} paperId={paperId} only={part.part} />
       </div>
       <Button size="sm" onClick={() => onStart(paperId, part.part)}>
-        Take this part
+        {t('Take this part')}
       </Button>
     </div>
   );
@@ -90,6 +94,8 @@ function PartRow({ part, history, paperId, onStart }) {
 
 /** Điểm lần thi gần nhất của đúng bài này. Không có thì không hiện gì. */
 function LastScore({ history, paperId, only }) {
+  const t = useTranslation();
+  const { dateLocale } = useLanguage();
   const last = (history || [])
     .filter((a) => a.paperId === paperId && (a.only ?? null) === only)
     .sort((a, b) => b.id.localeCompare(a.id))[0];
@@ -98,8 +104,8 @@ function LastScore({ history, paperId, only }) {
   const when = new Date(last.id);
   return (
     <p className="caption">
-      Last attempt: <b>{last.correct}/{last.total} correct</b> ·{' '}
-      {when.toLocaleDateString('en-GB')} {when.toLocaleTimeString('en-GB', { timeStyle: 'short' })}
+      {t('Last attempt:')} <b>{last.correct}/{last.total} {t('correct')}</b> ·{' '}
+      {when.toLocaleDateString(dateLocale)} {when.toLocaleTimeString(dateLocale, { timeStyle: 'short' })}
     </p>
   );
 }

@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import Link from 'next/link';
 import { lessonActivities } from '@/features/lesson/activities';
 
@@ -10,6 +11,7 @@ import { lessonActivities } from '@/features/lesson/activities';
  * cuộn mới thấy được cái đang cần.
  */
 export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }) {
+  const t = useTranslation();
   const activities = lessonActivities(day);
   const overview = `/day/${day.slug}`;
 
@@ -22,7 +24,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
         aria-expanded={expanded}
       >
         <span className="nav-day-no">{String(day.no).padStart(2, '0')}</span>
-        <span className="nav-day-title">{day.title}</span>
+        <span className="nav-day-title">{t(day.title)}</span>
         <span className={`nav-caret ${expanded ? 'is-open' : ''}`} aria-hidden="true">
           ›
         </span>
@@ -36,7 +38,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
               className={`nav-link ${currentPath === overview ? 'is-current' : ''}`}
               onClick={onNavigate}
             >
-              Lesson overview
+              {t('Lesson overview')}
             </Link>
           </li>
           {activities.map((a) => (
@@ -46,7 +48,7 @@ export function DayNavGroup({ day, expanded, currentPath, onToggle, onNavigate }
                 className={`nav-link ${currentPath.startsWith(a.href) ? 'is-current' : ''}`}
                 onClick={onNavigate}
               >
-                {a.label}
+                {t(a.label)}
               </Link>
             </li>
           ))}

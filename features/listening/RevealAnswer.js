@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useEffect, useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Modal } from '@/shared/ui/organisms/Modal';
@@ -15,6 +16,7 @@ import { Modal } from '@/shared/ui/organisms/Modal';
  * component có được dựng lại hay không.
  */
 export function RevealAnswer({ questionId, label = 'Show answer', title, onReveal, children }) {
+  const t = useTranslation();
   const [step, setStep] = useState('hidden'); // hidden → asking → shown
 
   useEffect(() => {
@@ -32,16 +34,16 @@ export function RevealAnswer({ questionId, label = 'Show answer', title, onRevea
       <Modal
         open={step !== 'hidden'}
         onClose={() => setStep('hidden')}
-        title={step === 'asking' ? 'Reveal the answer?' : title || label}
+        title={step === 'asking' ? t('Reveal the answer?') : title || label}
       >
         {step === 'asking' ? (
           <>
             <p>
-              Revealing the answer ends this listening challenge. Try listening once more first.
+              {t('Revealing the answer ends this listening challenge. Try listening once more first.')}
             </p>
             <div className="row row-end" style={{ marginTop: 'var(--space-5)' }}>
               <Button variant="quiet" onClick={() => setStep('hidden')}>
-                Listen again first
+                {t('Listen again first')}
               </Button>
               <Button
                 variant="danger"
@@ -50,7 +52,7 @@ export function RevealAnswer({ questionId, label = 'Show answer', title, onRevea
                   onReveal?.();
                 }}
               >
-                Reveal answer
+                {t('Reveal answer')}
               </Button>
             </div>
           </>

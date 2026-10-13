@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useState } from 'react';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Notice } from '@/shared/ui/atoms/Notice';
@@ -20,6 +21,7 @@ const rankMark = (i) => ['🥇', '🥈', '🥉'][i] || i + 1;
  * là thấy ai đang bỏ xa ai, không phải trừ nhẩm trong đầu.
  */
 function Row({ entry, rank, isMe, pct }) {
+  const t = useTranslation();
   const tier = rank < 3 ? ` is-top is-top${rank + 1}` : '';
 
   return (
@@ -38,12 +40,12 @@ function Row({ entry, rank, isMe, pct }) {
 
       <span className="board-name">
         {entry.name}
-        {isMe && <span className="board-you"> · you</span>}
+        {isMe && <span className="board-you"> {t('· you')}</span>}
       </span>
 
       <span className="board-score">
         <b>{entry.score}</b>
-        <small>points</small>
+        <small>{t('points')}</small>
       </span>
     </li>
   );
@@ -61,6 +63,7 @@ function Row({ entry, rank, isMe, pct }) {
  * sinh một uid mới.
  */
 export function LeaderboardButton() {
+  const t = useTranslation();
   const { cloud, anonymous } = useAuth();
   const [open, setOpen] = useState(false);
   const { rows, error, loading, me } = useLeaderboard({ enabled: open });
@@ -71,10 +74,10 @@ export function LeaderboardButton() {
     <>
       {/* size="sm" để đứng ngang hàng với nút đăng nhập ngay cạnh. */}
       <Button size="sm" onClick={() => setOpen(true)}>
-        🏆 Leaderboard
+        {t('🏆 Leaderboard')}
       </Button>
 
-      <Modal open={open} onClose={() => setOpen(false)} title="Leaderboard">
+      <Modal open={open} onClose={() => setOpen(false)} title={t('Leaderboard')}>
         {loading ? (
           <div className="stack">
             <Skeleton height={44} />
@@ -84,9 +87,9 @@ export function LeaderboardButton() {
         ) : error ? (
           // Không gộp lỗi vào "chưa có ai": đọc hỏng mà báo bảng trống thì
           // người ta đi tìm nhầm chỗ, tưởng chưa ai học.
-          <Notice>⚠️ {error}</Notice>
+          <Notice>⚠️ {t(error)}</Notice>
         ) : rows.length === 0 ? (
-          <Notice>No learners on the leaderboard yet.</Notice>
+          <Notice>{t('No learners on the leaderboard yet.')}</Notice>
         ) : (
           <ol className="board">
             {rows.map((entry, i) => (
@@ -105,7 +108,7 @@ export function LeaderboardButton() {
 
         {anonymous && !loading && (
           <Notice style={{ marginTop: 'var(--space-4)' }}>
-            You are studying as a guest. Sign in with Google to join the leaderboard and keep your existing progress.
+            {t('You are studying as a guest. Sign in with Google to join the leaderboard and keep your existing progress.')}
           </Notice>
         )}
       </Modal>

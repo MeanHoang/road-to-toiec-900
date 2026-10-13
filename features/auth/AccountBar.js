@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Cho người học biết tiến độ đang nằm ở đâu, và đổi được chỗ đó.
 //
 // Ẩn danh không phải là "chưa đăng nhập" — nó vẫn học và vẫn lưu bình thường,
@@ -22,6 +23,7 @@ import { useAuth } from './AuthProvider';
  * xếp hạng là cái gì; nó vẫn chỉ lo mỗi chuyện ai đang học.
  */
 export function AccountBar({ trailing }) {
+  const t = useTranslation();
   const { cloud, ready, user, anonymous, busy, error, signIn, signOut } = useAuth();
 
   if (!cloud) {
@@ -31,8 +33,8 @@ export function AccountBar({ trailing }) {
           ⌂
         </span>
         <div className="account-who">
-          <b>Saved on this device</b>
-          <span>Cloud sync is unavailable. Your progress is saved in this browser.</span>
+          <b>{t('Saved on this device')}</b>
+          <span>{t('Cloud sync is unavailable. Your progress is saved in this browser.')}</span>
         </div>
         {/* Không có Firebase vẫn phải có lối vào những thứ trong khe, như phòng
             thi — nó chạy được hoàn toàn từ nội dung trong repo. */}
@@ -52,7 +54,7 @@ export function AccountBar({ trailing }) {
       <div className="account" role="status" aria-busy="true">
         <Skeleton width={34} height={34} radius="var(--radius-full)" style={{ flex: 'none' }} />
         <div className="account-who">
-          <span className="visually-hidden">Checking your account</span>
+          <span className="visually-hidden">{t('Checking your account')}</span>
           <Skeleton width={140} height={16} />
           <Skeleton width="70%" height={13} style={{ marginTop: 'var(--space-2)' }} />
         </div>
@@ -80,15 +82,15 @@ export function AccountBar({ trailing }) {
         <div className="account-who">
           {anonymous ? (
             <>
-              <b>Studying as a guest</b>
+              <b>{t('Studying as a guest')}</b>
               <span>
-                Your progress is saved in this browser. Sign in with Google to continue on another device. Your existing progress will carry over.
+                {t('Your progress is saved in this browser. Sign in with Google to continue on another device. Your existing progress will carry over.')}
               </span>
             </>
           ) : (
             <>
               <b>{user.displayName || user.email}</b>
-              <span>Your progress syncs to your account across devices.</span>
+              <span>{t('Your progress syncs to your account across devices.')}</span>
             </>
           )}
         </div>
@@ -98,18 +100,18 @@ export function AccountBar({ trailing }) {
             {trailing}
             {anonymous ? (
               <Button variant="primary" size="sm" onClick={signIn} disabled={Boolean(busy)}>
-                {label || 'Sign in with Google'}
+                {t(label || 'Sign in with Google')}
               </Button>
             ) : (
               <Button variant="quiet" size="sm" onClick={signOut} disabled={Boolean(busy)}>
-                {busy === 'out' ? 'Signing out…' : 'Sign out'}
+                {busy === 'out' ? t('Signing out…') : t('Sign out')}
               </Button>
             )}
           </ButtonGroup>
         </div>
       </div>
 
-      {error && <Notice style={{ marginTop: 'var(--space-3)' }}>{error}</Notice>}
+      {error && <Notice style={{ marginTop: 'var(--space-3)' }}>{t(error)}</Notice>}
     </>
   );
 }

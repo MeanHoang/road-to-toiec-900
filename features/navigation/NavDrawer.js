@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { useDayIndex } from '@/features/lesson/useDayIndex';
@@ -10,6 +11,7 @@ import { daySlugOf } from './currentRoute';
 
 /** Nội dung của ngăn kéo: trang chủ, rồi từng buổi xổ ra các hoạt động. */
 export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
+  const t = useTranslation();
   const { days, loading } = useDayIndex();
   const activeSlug = daySlugOf(currentPath);
 
@@ -21,7 +23,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
   }, [activeSlug]);
 
   return (
-    <Drawer open={open} onClose={onClose} label="Lesson navigation">
+    <Drawer open={open} onClose={onClose} label={t('Lesson navigation')}>
       <div className="drawer-head">
         <Link href="/" className="drawer-brand" onClick={onNavigate}>
           Road to TOEIC 900
@@ -30,7 +32,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
           type="button"
           className="drawer-handle drawer-handle-in"
           onClick={onClose}
-          aria-label="Collapse navigation menu"
+          aria-label={t('Collapse navigation menu')}
           aria-expanded={true}
         >
           «

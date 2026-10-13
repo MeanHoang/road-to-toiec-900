@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useCallback, useEffect, useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
 import { Card } from '@/shared/ui/atoms/Card';
@@ -59,6 +60,7 @@ function useGameRound(day, onMiss) {
 }
 
 export function GameScreen({ slug, day }) {
+  const t = useTranslation();
   const { ready, setVocab } = useProgress(slug);
 
   // Sai thì đẩy từ về nhóm chưa học — thẻ từ vựng hiện lại ngay.
@@ -78,8 +80,8 @@ export function GameScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title="Vocabulary game"
-        subtitle={`${ROUND} questions per round · English ↔ Vietnamese · answer choices drawn from the ${day.vocabulary.length} words in this lesson`}
+        title={t('Vocabulary game')}
+        subtitle={t('{0} questions per round · English ↔ Vietnamese · answer choices drawn from the {1} words in this lesson', [ROUND, day.vocabulary.length])}
       />
 
       {game.finished ? (
@@ -100,7 +102,7 @@ export function GameScreen({ slug, day }) {
           onNext={game.next}
         />
       ) : (
-        <Card>Preparing questions…</Card>
+        <Card>{t('Preparing questions…')}</Card>
       )}
     </>
   );

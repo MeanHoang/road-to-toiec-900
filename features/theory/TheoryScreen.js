@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Callout } from '@/shared/ui/atoms/Callout';
@@ -10,10 +11,11 @@ import { Speak } from '@/shared/ui/molecules/Speak';
 import { TheoryBlock } from './TheoryBlock';
 
 function GrammarCard({ item, index }) {
+  const t = useTranslation();
   return (
     <Card>
       <Badge tone={item.voice === 'active' ? 'brand' : 'accent'} eyebrow>
-        {item.voice === 'active' ? 'Active voice' : 'Passive voice'} {index + 1}
+        {item.voice === 'active' ? t('Active voice') : t('Passive voice')} {index + 1}
       </Badge>
       <p className="section-lead" style={{ margin: 'var(--space-2) 0 0' }}>
         {item.name} ({item.nameVi})
@@ -32,14 +34,15 @@ function GrammarCard({ item, index }) {
 }
 
 export function TheoryScreen({ slug, day }) {
+  const t = useTranslation();
   return (
     <>
-      <PageHeader eyebrow={day.title} title="Theory" subtitle={day.subtitle} />
+      <PageHeader eyebrow={day.title} title={t('Theory')} subtitle={day.subtitle} />
 
       {day.grammar.length > 0 && (
         <Section
-          title={`Grammar corner — ${day.grammar.length} structures`}
-          lead="Click 🔊 to hear the example."
+          title={t('Grammar corner — {0} structures', [day.grammar.length])}
+          lead={t('Click 🔊 to hear the example.')}
         >
           <div className="grid grid-2">
             {day.grammar.map((g, i) => (
@@ -56,10 +59,10 @@ export function TheoryScreen({ slug, day }) {
       {day.has('translation') && (
         <Callout style={{ marginTop: 'var(--space-7)' }}>
           <p style={{ marginBottom: 'var(--space-3)' }}>
-            Practice in <strong>Grammar exercises</strong> — {day.translation.length} sentences to label S / V / O and translate.
+            {t('Practice in')} <strong>{t('Grammar exercises')}</strong> — {day.translation.length} {t('sentences to label S / V / O and translate.')}
           </p>
           <Button variant="primary" href={`/day/${slug}/grammar`}>
-            Start exercises →
+            {t('Start exercises →')}
           </Button>
         </Callout>
       )}

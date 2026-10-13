@@ -1,3 +1,7 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
+
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 
 /**
@@ -7,9 +11,10 @@ import { Skeleton } from '@/shared/ui/atoms/Skeleton';
  * chờ — skeleton là hình ảnh thuần, với họ nó im lặng hoàn toàn.
  */
 export function LoadingBlock({ label, children }) {
+  const t = useTranslation();
   return (
     <div role="status" aria-busy="true" aria-live="polite" className="stack">
-      <span className="visually-hidden">{label}</span>
+      <span className="visually-hidden">{t(label)}</span>
       {children}
     </div>
   );

@@ -1,0 +1,2427 @@
+{
+  "Language": {
+    "vi": "Ngôn ngữ",
+    "zh": "语言",
+    "ko": "언어"
+  },
+  "Choose a lesson to get started": {
+    "vi": "Chọn buổi học để bắt đầu",
+    "zh": "选择课程开始学习",
+    "ko": "학습할 수업을 선택하세요"
+  },
+  "lessons": {
+    "vi": "buổi học",
+    "zh": "课次",
+    "ko": "수업"
+  },
+  "words": {
+    "vi": "từ",
+    "zh": "单词",
+    "ko": "단어"
+  },
+  "listening questions": {
+    "vi": "câu nghe",
+    "zh": "听力题",
+    "ko": "듣기 문제"
+  },
+  "Loading lessons": {
+    "vi": "Đang tải buổi học",
+    "zh": "正在加载课程",
+    "ko": "수업을 불러오는 중"
+  },
+  "Next lesson": {
+    "vi": "Buổi tiếp theo",
+    "zh": "下一课",
+    "ko": "다음 수업"
+  },
+  "Material not available yet": {
+    "vi": "Chưa có tài liệu",
+    "zh": "资料尚未提供",
+    "ko": "아직 자료가 없습니다"
+  },
+  "Saved on this device": {
+    "vi": "Lưu trên thiết bị này",
+    "zh": "已保存在此设备",
+    "ko": "이 기기에 저장됨"
+  },
+  "Cloud sync is unavailable. Your progress is saved in this browser.": {
+    "vi": "Chưa có đồng bộ đám mây. Tiến độ lưu trong trình duyệt này.",
+    "zh": "云端同步不可用。学习进度保存在此浏览器中。",
+    "ko": "클라우드 동기화를 사용할 수 없습니다. 학습 진도는 이 브라우저에 저장됩니다."
+  },
+  "Exam room": {
+    "vi": "Phòng thi",
+    "zh": "考试室",
+    "ko": "시험실"
+  },
+  "📝 Exam room": {
+    "vi": "📝 Phòng thi",
+    "zh": "📝 考试室",
+    "ko": "📝 시험실"
+  },
+  "Leaderboard": {
+    "vi": "Bảng xếp hạng",
+    "zh": "排行榜",
+    "ko": "순위표"
+  },
+  "🏆 Leaderboard": {
+    "vi": "🏆 Bảng xếp hạng",
+    "zh": "🏆 排行榜",
+    "ko": "🏆 순위표"
+  },
+  "Practice test": {
+    "vi": "Thi thử",
+    "zh": "模拟考试",
+    "ko": "모의고사"
+  },
+  "Results": {
+    "vi": "Kết quả",
+    "zh": "结果",
+    "ko": "결과"
+  },
+  "Take full test": {
+    "vi": "Thi cả đề",
+    "zh": "参加完整考试",
+    "ko": "전체 시험 응시"
+  },
+  "Take this part": {
+    "vi": "Thi riêng phần này",
+    "zh": "参加此部分考试",
+    "ko": "이 파트 응시"
+  },
+  "Theory": {
+    "vi": "Lý thuyết",
+    "zh": "理论",
+    "ko": "이론"
+  },
+  "Flashcards": {
+    "vi": "Thẻ từ vựng",
+    "zh": "单词卡",
+    "ko": "단어 카드"
+  },
+  "Vocabulary game": {
+    "vi": "Game từ vựng",
+    "zh": "词汇游戏",
+    "ko": "단어 게임"
+  },
+  "Picture vocabulary": {
+    "vi": "Từ vựng qua hình",
+    "zh": "图片词汇",
+    "ko": "그림 단어 학습"
+  },
+  "Grammar exercises": {
+    "vi": "Bài tập ngữ pháp",
+    "zh": "语法练习",
+    "ko": "문법 연습"
+  },
+  "Grammar quiz": {
+    "vi": "Trắc nghiệm ngữ pháp",
+    "zh": "语法测验",
+    "ko": "문법 퀴즈"
+  },
+  "Listening practice": {
+    "vi": "Luyện nghe",
+    "zh": "听力练习",
+    "ko": "듣기 연습"
+  },
+  "Vocabulary list": {
+    "vi": "Bảng từ vựng",
+    "zh": "词汇表",
+    "ko": "단어 목록"
+  },
+  "Open navigation menu": {
+    "vi": "Mở menu điều hướng",
+    "zh": "打开导航菜单",
+    "ko": "탐색 메뉴 열기"
+  },
+  "Collapse navigation menu": {
+    "vi": "Thu gọn menu",
+    "zh": "收起导航菜单",
+    "ko": "탐색 메뉴 접기"
+  },
+  "Lesson navigation": {
+    "vi": "Điều hướng bài học",
+    "zh": "课程导航",
+    "ko": "수업 탐색"
+  },
+  "Lesson overview": {
+    "vi": "Tổng quan buổi học",
+    "zh": "课程概览",
+    "ko": "수업 개요"
+  },
+  "Lesson activities": {
+    "vi": "Nội dung buổi học",
+    "zh": "课程活动",
+    "ko": "수업 활동"
+  },
+  "Progress": {
+    "vi": "Tiến độ",
+    "zh": "进度",
+    "ko": "학습 진도"
+  },
+  "Question": {
+    "vi": "Câu hỏi",
+    "zh": "题目",
+    "ko": "문제"
+  },
+  "Questions": {
+    "vi": "Câu hỏi",
+    "zh": "题目",
+    "ko": "문제"
+  },
+  "Previous question": {
+    "vi": "Câu trước",
+    "zh": "上一题",
+    "ko": "이전 문제"
+  },
+  "Next question": {
+    "vi": "Câu sau",
+    "zh": "下一题",
+    "ko": "다음 문제"
+  },
+  "Submit test": {
+    "vi": "Nộp bài",
+    "zh": "提交试卷",
+    "ko": "시험 제출"
+  },
+  "Finish {0}": {
+    "vi": "Kết thúc {0}",
+    "zh": "结束{0}",
+    "ko": "{0} 종료"
+  },
+  "Close": {
+    "vi": "Đóng",
+    "zh": "关闭",
+    "ko": "닫기"
+  },
+  "Continue test": {
+    "vi": "Tiếp tục làm bài",
+    "zh": "继续考试",
+    "ko": "시험 계속하기"
+  },
+  "Retake test": {
+    "vi": "Thi lại",
+    "zh": "重新考试",
+    "ko": "다시 응시"
+  },
+  "Choose another test": {
+    "vi": "Chọn đề khác",
+    "zh": "选择其他试卷",
+    "ko": "다른 시험 선택"
+  },
+  "Test {0}": {
+    "vi": "Đề số {0}",
+    "zh": "试卷{0}",
+    "ko": "시험 {0}"
+  },
+  "Part {0}": {
+    "vi": "Part {0}",
+    "zh": "第{0}部分",
+    "ko": "파트 {0}"
+  },
+  "DAY {0}": {
+    "vi": "BUỔI {0}",
+    "zh": "第{0}课",
+    "ko": "수업 {0}"
+  },
+  "Lesson {0}": {
+    "vi": "Buổi {0}",
+    "zh": "第{0}课",
+    "ko": "수업 {0}"
+  },
+  "Listening": {
+    "vi": "Nghe",
+    "zh": "听力",
+    "ko": "듣기"
+  },
+  "Reading": {
+    "vi": "Đọc",
+    "zh": "阅读",
+    "ko": "읽기"
+  },
+  "Photographs": {
+    "vi": "Mô tả tranh",
+    "zh": "照片描述",
+    "ko": "사진 묘사"
+  },
+  "Question–Response": {
+    "vi": "Hỏi và Đáp",
+    "zh": "问答",
+    "ko": "질의응답"
+  },
+  "Conversations": {
+    "vi": "Hội thoại",
+    "zh": "对话",
+    "ko": "대화"
+  },
+  "Talks": {
+    "vi": "Bài nói",
+    "zh": "独白",
+    "ko": "담화"
+  },
+  "Incomplete Sentences": {
+    "vi": "Điền vào câu",
+    "zh": "句子填空",
+    "ko": "단문 공란 채우기"
+  },
+  "Text Completion": {
+    "vi": "Điền vào đoạn văn",
+    "zh": "短文填空",
+    "ko": "장문 공란 채우기"
+  },
+  "Reading Comprehension": {
+    "vi": "Đọc hiểu",
+    "zh": "阅读理解",
+    "ko": "독해"
+  },
+  "Interface language": {
+    "vi": "Ngôn ngữ giao diện",
+    "zh": "界面语言",
+    "ko": "화면 언어"
+  },
+  "Your choice is saved automatically.": {
+    "vi": "Lựa chọn được lưu tự động.",
+    "zh": "您的选择会自动保存。",
+    "ko": "선택한 언어가 자동으로 저장됩니다."
+  },
+  "A full TOEIC test with 200 questions across 7 parts. Listening follows the audio; Reading is self-paced within the time limit.": {
+    "vi": "Đề TOEIC 200 câu, 7 Part. Phần Nghe chạy theo băng; phần Đọc tự chia thời gian.",
+    "zh": "完整的托业试卷包含7个部分、200道题。听力按录音进行，阅读在限时内自主安排。",
+    "ko": "7개 파트, 200문제로 구성된 TOEIC 시험입니다. 듣기는 음성에 맞춰 진행하고, 읽기는 제한 시간 안에서 자유롭게 풉니다."
+  },
+  "A full-length audio track is also available for this set.": {
+    "vi": "Bộ này cũng có bản audio liền mạch.",
+    "zh": "本练习也提供完整录音。",
+    "ko": "이 세트에는 전체 음성 파일도 있습니다."
+  },
+  "AI-generated answers": {
+    "vi": "Đáp án do AI tạo",
+    "zh": "AI生成的答案",
+    "ko": "AI가 생성한 정답"
+  },
+  "Accuracy": {
+    "vi": "Tỉ lệ đúng",
+    "zh": "正确率",
+    "ko": "정답률"
+  },
+  "Active voice": {
+    "vi": "Chủ động",
+    "zh": "主动语态",
+    "ko": "능동태"
+  },
+  "After": {
+    "vi": "Sau",
+    "zh": "经过",
+    "ko": "다음 횟수 이후:"
+  },
+  "All answered": {
+    "vi": "Đã trả lời hết",
+    "zh": "全部已答",
+    "ko": "모두 응답함"
+  },
+  "All sets complete — back to list →": {
+    "vi": "Xong tất cả — về danh sách →",
+    "zh": "全部完成 — 返回列表 →",
+    "ko": "모든 세트 완료 — 목록으로 →"
+  },
+  "Answer to question {0}": {
+    "vi": "Đáp án câu {0}",
+    "zh": "第{0}题答案",
+    "ko": "{0}번 문제 정답"
+  },
+  "Audio is playing — listen once, no seeking": {
+    "vi": "Băng đang chạy — nghe một lần, không tua",
+    "zh": "录音正在播放 — 仅播放一次，不可拖动",
+    "ko": "음성 재생 중 — 한 번만 듣기, 이동 불가"
+  },
+  "Browse {0} words · UK/US IPA · filter by learning status": {
+    "vi": "Tra cứu {0} từ · IPA UK/US · lọc theo trạng thái",
+    "zh": "浏览{0}个单词 · 英美音标 · 按学习状态筛选",
+    "ko": "단어 {0}개 · 영국/미국 발음기호 · 학습 상태별 필터"
+  },
+  "By part": {
+    "vi": "Theo Part",
+    "zh": "按部分",
+    "ko": "파트별"
+  },
+  "By section": {
+    "vi": "Theo phần",
+    "zh": "按科目",
+    "ko": "영역별"
+  },
+  "Check": {
+    "vi": "Kiểm tra",
+    "zh": "检查",
+    "ko": "확인"
+  },
+  "Check all": {
+    "vi": "Kiểm tra tất cả",
+    "zh": "检查全部",
+    "ko": "모두 확인"
+  },
+  "Checking your account": {
+    "vi": "Đang kiểm tra tài khoản",
+    "zh": "正在检查账户",
+    "ko": "계정 확인 중"
+  },
+  "Clear label": {
+    "vi": "Xoá nhãn",
+    "zh": "清除标记",
+    "ko": "표시 지우기"
+  },
+  "Click a status label to change it. Missed words in the game are marked as To learn. Star words you want to review, even if they are already Known. Vietnamese meanings were added by AI. If a meaning needs correcting, edit": {
+    "vi": "Bấm nhãn trạng thái để đổi. Từ trả lời sai trong game chuyển về Chưa học. Gắn sao cho từ muốn ôn dù đã biết. Nghĩa tiếng Việt do AI bổ sung; sửa nghĩa trong",
+    "zh": "点击状态标签即可更改。游戏中答错的单词会标记为“待学习”。已掌握的单词也可加星复习。越南语释义由AI补充；如需修改，请编辑",
+    "ko": "상태 표시를 눌러 변경하세요. 게임에서 틀린 단어는 학습 필요로 표시됩니다. 이미 아는 단어도 별표로 복습할 수 있습니다. 베트남어 뜻은 AI가 추가했습니다. 수정할 파일:"
+  },
+  "Click 🔊 to hear the example.": {
+    "vi": "Bấm 🔊 để nghe ví dụ.",
+    "zh": "点击🔊听例句。",
+    "ko": "🔊를 눌러 예문을 들으세요."
+  },
+  "Compare {0} vs {1}": {
+    "vi": "Phân biệt {0} và {1}",
+    "zh": "比较{0}与{1}",
+    "ko": "{0}와 {1} 비교"
+  },
+  "Correct answer": {
+    "vi": "Đáp án đúng",
+    "zh": "正确答案",
+    "ko": "정답"
+  },
+  "Correct answer:": {
+    "vi": "Đáp án đúng:",
+    "zh": "正确答案：",
+    "ko": "정답:"
+  },
+  "Dictation mode — transcribe the audio instead of choosing": {
+    "vi": "Chế độ chép lại — chép lời audio thay vì chọn",
+    "zh": "听写模式 — 听写录音而非选择",
+    "ko": "받아쓰기 모드 — 선택 대신 들은 내용을 작성"
+  },
+  "English ↔ Vietnamese quiz · missed words return to your To learn flashcards": {
+    "vi": "Trắc nghiệm Anh ↔ Việt · từ sai quay lại thẻ chưa học",
+    "zh": "英越互译测验 · 错词返回待学习卡片",
+    "ko": "영어 ↔ 베트남어 퀴즈 · 틀린 단어는 학습 필요 카드로 돌아갑니다"
+  },
+  "Enter your Vietnamese translation…": {
+    "vi": "Nhập bản dịch tiếng Việt…",
+    "zh": "输入越南语译文…",
+    "ko": "베트남어 번역을 입력하세요…"
+  },
+  "Exercise set not found: “": {
+    "vi": "Không tìm thấy bài “",
+    "zh": "找不到练习“",
+    "ko": "연습 세트를 찾을 수 없습니다: “"
+  },
+  "Grammar corner — {0} structures": {
+    "vi": "Góc ngữ pháp — {0} cấu trúc",
+    "zh": "语法园地 — {0}个结构",
+    "ko": "문법 코너 — 구조 {0}개"
+  },
+  "Hide answers": {
+    "vi": "Ẩn đáp án",
+    "zh": "隐藏答案",
+    "ko": "정답 숨기기"
+  },
+  "Known": {
+    "vi": "Đã biết",
+    "zh": "已掌握",
+    "ko": "학습 완료"
+  },
+  "Known cards are hidden, so you can bring them back for review later.": {
+    "vi": "Thẻ đã biết được ẩn, bạn vẫn có thể ôn lại sau.",
+    "zh": "已掌握的卡片会隐藏，以后仍可复习。",
+    "ko": "학습 완료 카드는 숨겨지며 나중에 다시 복습할 수 있습니다."
+  },
+  "Known cards are hidden. Star words you want to review, then find them in the": {
+    "vi": "Thẻ đã biết được ẩn. Gắn sao từ muốn ôn rồi xem tại",
+    "zh": "已掌握的卡片会隐藏。给想复习的单词加星，然后在这里查找：",
+    "ko": "학습 완료 카드는 숨겨집니다. 복습할 단어에 별표를 표시한 뒤 다음에서 확인하세요:"
+  },
+  "Known ·": {
+    "vi": "đã biết ·",
+    "zh": "已掌握 ·",
+    "ko": "학습 완료 ·"
+  },
+  "Known →": {
+    "vi": "Đã biết →",
+    "zh": "已掌握 →",
+    "ko": "학습 완료 →"
+  },
+  "Label “": {
+    "vi": "Gán nhãn cho “",
+    "zh": "标记“",
+    "ko": "표시할 구절: “"
+  },
+  "Label each sentence with S / V / O, then translate it into Vietnamese.": {
+    "vi": "Gạch S / V / O rồi dịch sang tiếng Việt.",
+    "zh": "标记句子的S / V / O，再翻译成越南语。",
+    "ko": "문장의 S / V / O를 표시한 뒤 베트남어로 번역하세요."
+  },
+  "Last attempt:": {
+    "vi": "Lần gần nhất:",
+    "zh": "最近一次：",
+    "ko": "최근 응시:"
+  },
+  "Lesson not found: \"{0}\".": {
+    "vi": "Không tìm thấy buổi \"{0}\".",
+    "zh": "找不到课程“{0}”。",
+    "ko": "수업 \"{0}\"을 찾을 수 없습니다."
+  },
+  "Listen again first": {
+    "vi": "Nghe lại trước",
+    "zh": "先再听一次",
+    "ko": "먼저 다시 듣기"
+  },
+  "Listen and": {
+    "vi": "Nghe rồi",
+    "zh": "听录音并",
+    "ko": "듣고"
+  },
+  "Listen and choose an answer": {
+    "vi": "Nghe rồi chọn đáp án",
+    "zh": "听录音并选择答案",
+    "ko": "듣고 정답 선택"
+  },
+  "Listen, then choose": {
+    "vi": "Nghe rồi chọn",
+    "zh": "听后选择",
+    "ko": "듣고 선택하세요"
+  },
+  "Listening set not found: “": {
+    "vi": "Không tìm thấy bộ nghe “",
+    "zh": "找不到听力练习“",
+    "ko": "듣기 세트를 찾을 수 없습니다: “"
+  },
+  "Loading lesson content": {
+    "vi": "Đang tải bài học",
+    "zh": "正在加载课程内容",
+    "ko": "수업 내용 불러오는 중"
+  },
+  "Look at each picture and enter the word. Practice clothes, prepositions of place, and locations.": {
+    "vi": "Nhìn hình và điền từ. Luyện trang phục, giới từ vị trí và địa điểm.",
+    "zh": "看图填写单词，练习服装、方位介词和地点。",
+    "ko": "그림을 보고 단어를 입력하세요. 의류, 위치 전치사, 장소를 연습합니다."
+  },
+  "Mark {0} as {1}": {
+    "vi": "Đánh dấu {0} là {1}",
+    "zh": "将{0}标记为{1}",
+    "ko": "{0}을(를) {1}(으)로 표시"
+  },
+  "Meaning": {
+    "vi": "Nghĩa",
+    "zh": "释义",
+    "ko": "뜻"
+  },
+  "Missed words": {
+    "vi": "Từ trả lời sai",
+    "zh": "答错的单词",
+    "ko": "틀린 단어"
+  },
+  "Next question →": {
+    "vi": "Câu tiếp →",
+    "zh": "下一题 →",
+    "ko": "다음 문제 →"
+  },
+  "No answer key": {
+    "vi": "Không có đáp án",
+    "zh": "无答案表",
+    "ko": "정답표 없음"
+  },
+  "No learners on the leaderboard yet.": {
+    "vi": "Chưa có ai trên bảng.",
+    "zh": "排行榜上还没有学习者。",
+    "ko": "아직 순위표에 학습자가 없습니다."
+  },
+  "No matching words.": {
+    "vi": "Không có từ phù hợp.",
+    "zh": "没有匹配的单词。",
+    "ko": "일치하는 단어가 없습니다."
+  },
+  "No starred words yet. Click ★ here or press S while studying flashcards.": {
+    "vi": "Chưa có từ gắn sao. Bấm ★ hoặc nhấn S khi học thẻ.",
+    "zh": "还没有加星单词。点击★或学习单词卡时按S。",
+    "ko": "별표 단어가 없습니다. ★를 누르거나 단어 카드 학습 중 S를 누르세요."
+  },
+  "No tests available yet.": {
+    "vi": "Chưa có đề thi.",
+    "zh": "暂无试卷。",
+    "ko": "아직 시험이 없습니다."
+  },
+  "Official answer keys": {
+    "vi": "Đáp án chính thức",
+    "zh": "官方答案",
+    "ko": "공식 정답표"
+  },
+  "Once you start {0}, you cannot return to {1}.": {
+    "vi": "Sang {0} rồi không thể quay lại {1}.",
+    "zh": "开始{0}后，无法返回{1}。",
+    "ko": "{0}을(를) 시작하면 {1}(으)로 돌아갈 수 없습니다."
+  },
+  "Passive voice": {
+    "vi": "Bị động",
+    "zh": "被动语态",
+    "ko": "수동태"
+  },
+  "Paste into Claude Code so the": {
+    "vi": "Dán vào Claude Code để skill",
+    "zh": "粘贴到Claude Code，让",
+    "ko": "Claude Code에 붙여 넣으면"
+  },
+  "Pause": {
+    "vi": "Tạm dừng",
+    "zh": "暂停",
+    "ko": "일시 정지"
+  },
+  "Perfect score! All words keep their current learning status.": {
+    "vi": "Đúng hết! Trạng thái học các từ được giữ nguyên.",
+    "zh": "全部答对！所有单词保留当前学习状态。",
+    "ko": "만점입니다! 모든 단어의 학습 상태가 유지됩니다."
+  },
+  "Play": {
+    "vi": "Phát",
+    "zh": "播放",
+    "ko": "재생"
+  },
+  "Play again": {
+    "vi": "Chơi lại",
+    "zh": "再玩一次",
+    "ko": "다시 플레이"
+  },
+  "Playback position": {
+    "vi": "Vị trí phát",
+    "zh": "播放位置",
+    "ko": "재생 위치"
+  },
+  "Playback speed": {
+    "vi": "Tốc độ phát",
+    "zh": "播放速度",
+    "ko": "재생 속도"
+  },
+  "Practice in": {
+    "vi": "Luyện tại",
+    "zh": "练习入口：",
+    "ko": "다음에서 연습:"
+  },
+  "Preparing questions…": {
+    "vi": "Đang tạo câu hỏi…",
+    "zh": "正在准备题目…",
+    "ko": "문제 준비 중…"
+  },
+  "Preparing the exam room": {
+    "vi": "Đang chuẩn bị phòng thi",
+    "zh": "正在准备考试室",
+    "ko": "시험실 준비 중"
+  },
+  "Pronounce {0} ({1} English)": {
+    "vi": "Đọc {0} (giọng {1})",
+    "zh": "朗读{0}（{1}英语）",
+    "ko": "{0} 발음 듣기 ({1} 영어)"
+  },
+  "Question review": {
+    "vi": "Xem lại từng câu",
+    "zh": "逐题回顾",
+    "ko": "문제별 복습"
+  },
+  "Question {0}{1}": {
+    "vi": "Câu {0}{1}",
+    "zh": "第{0}题{1}",
+    "ko": "문제 {0}{1}"
+  },
+  "Questions, images, and answers come from an official ETS practice test. Listening audio uses computer-generated speech from the test script. Results show correct-answer counts because ETS does not publish a conversion table for the 10–990 score scale.": {
+    "vi": "Câu hỏi, hình và đáp án lấy từ đề luyện thi chính thức ETS. Audio được máy đọc từ lời thoại. Kết quả tính số câu đúng vì ETS không công khai bảng quy đổi điểm 10–990.",
+    "zh": "题目、图片及答案来自ETS官方练习试卷。听力录音由电脑根据脚本生成。结果仅显示答对题数，因为ETS未公开10–990分的换算表。",
+    "ko": "문제, 이미지, 정답은 ETS 공식 연습 시험에서 가져왔습니다. 듣기 음성은 대본으로 생성했습니다. ETS가 10–990점 환산표를 공개하지 않아 정답 수로 결과를 표시합니다."
+  },
+  "Recall the meaning from the word and IPA on the front. Flip to see the meaning and image.": {
+    "vi": "Tự nhớ nghĩa từ chữ và IPA ở mặt trước. Lật để xem nghĩa và hình.",
+    "zh": "先根据正面的单词与音标回忆释义，再翻面查看释义和图片。",
+    "ko": "앞면의 단어와 발음기호로 뜻을 떠올리세요. 뒤집으면 뜻과 그림을 볼 수 있습니다."
+  },
+  "Replay question audio": {
+    "vi": "Nghe lại câu hỏi",
+    "zh": "重播题目录音",
+    "ko": "문제 음성 다시 듣기"
+  },
+  "Reveal answer": {
+    "vi": "Mở đáp án",
+    "zh": "显示答案",
+    "ko": "정답 보기"
+  },
+  "Reveal the answer?": {
+    "vi": "Xem đáp án nhé?",
+    "zh": "显示答案吗？",
+    "ko": "정답을 볼까요?"
+  },
+  "Revealing the answer ends this listening challenge. Try listening once more first.": {
+    "vi": "Xem đáp án sẽ kết thúc thử thách nghe. Thử nghe lại trước nhé.",
+    "zh": "查看答案会结束本次听力挑战，请先尝试再听一次。",
+    "ko": "정답을 보면 듣기 도전이 끝납니다. 먼저 한 번 더 들어 보세요."
+  },
+  "Rewrite the sentence here…": {
+    "vi": "Viết lại câu ở đây…",
+    "zh": "在此改写句子…",
+    "ko": "문장을 다시 작성하세요…"
+  },
+  "Sample answer:": {
+    "vi": "Câu mẫu:",
+    "zh": "参考答案：",
+    "ko": "예시 답안:"
+  },
+  "Sample translation:": {
+    "vi": "Bản dịch mẫu:",
+    "zh": "参考译文：",
+    "ko": "번역 예시:"
+  },
+  "Scan these four details in each picture before listening.": {
+    "vi": "Quan sát bốn chi tiết này trước khi nghe.",
+    "zh": "听录音前先查看图片中的这四个细节。",
+    "ko": "듣기 전에 그림에서 이 네 가지를 살펴보세요."
+  },
+  "Search words, meanings, or IPA…": {
+    "vi": "Tìm từ, nghĩa hoặc IPA…",
+    "zh": "搜索单词、释义或音标…",
+    "ko": "단어, 뜻, 발음기호 검색…"
+  },
+  "Select a phrase above to label it": {
+    "vi": "Chọn cụm từ phía trên để gán nhãn",
+    "zh": "选择上方短语进行标记",
+    "ko": "위의 구절을 선택하여 표시하세요"
+  },
+  "Select a phrase, then choose a label below.": {
+    "vi": "Chọn cụm từ rồi chọn nhãn bên dưới.",
+    "zh": "选择短语，再选择下方的标记。",
+    "ko": "구절을 선택한 뒤 아래 표시를 선택하세요."
+  },
+  "Select an incorrect or unanswered question to review it and see the correct answer.": {
+    "vi": "Bấm câu sai hoặc bỏ trống để xem câu hỏi và đáp án.",
+    "zh": "选择答错或未答的题目，查看题目和正确答案。",
+    "ko": "틀리거나 응답하지 않은 문제를 선택해 문제와 정답을 확인하세요."
+  },
+  "Show full sentence": {
+    "vi": "Xem cả câu",
+    "zh": "显示完整句子",
+    "ko": "전체 문장 보기"
+  },
+  "Show sample answer": {
+    "vi": "Xem câu mẫu",
+    "zh": "显示参考答案",
+    "ko": "예시 답안 보기"
+  },
+  "Show transcript": {
+    "vi": "Xem lời thoại",
+    "zh": "显示文本",
+    "ko": "대본 보기"
+  },
+  "Sign in with Google": {
+    "vi": "Đăng nhập Google",
+    "zh": "使用Google登录",
+    "ko": "Google로 로그인"
+  },
+  "Sign out": {
+    "vi": "Đăng xuất",
+    "zh": "退出登录",
+    "ko": "로그아웃"
+  },
+  "Signing out…": {
+    "vi": "Đang đăng xuất…",
+    "zh": "正在退出…",
+    "ko": "로그아웃 중…"
+  },
+  "Skip question": {
+    "vi": "Bỏ qua câu này",
+    "zh": "跳过此题",
+    "ko": "문제 건너뛰기"
+  },
+  "Star": {
+    "vi": "Gắn sao",
+    "zh": "加星",
+    "ko": "별표"
+  },
+  "Star {0}": {
+    "vi": "Gắn sao {0}",
+    "zh": "为{0}加星",
+    "ko": "{0}에 별표 표시"
+  },
+  "Star {0} for spelling review": {
+    "vi": "Gắn sao {0} để ôn mặt chữ",
+    "zh": "为{0}加星以复习拼写",
+    "ko": "철자 복습을 위해 {0}에 별표 표시"
+  },
+  "Start audio": {
+    "vi": "Bắt đầu phát",
+    "zh": "开始播放",
+    "ko": "음성 시작"
+  },
+  "Start exercises →": {
+    "vi": "Vào làm bài tập →",
+    "zh": "开始练习 →",
+    "ko": "연습 시작 →"
+  },
+  "Status": {
+    "vi": "Trạng thái",
+    "zh": "状态",
+    "ko": "상태"
+  },
+  "Step 1 · label S / V / O": {
+    "vi": "Bước 1 · gạch S / V / O",
+    "zh": "第1步 · 标记S / V / O",
+    "ko": "1단계 · S / V / O 표시"
+  },
+  "Step 2 · translate into Vietnamese": {
+    "vi": "Bước 2 · dịch sang tiếng Việt",
+    "zh": "第2步 · 翻译成越南语",
+    "ko": "2단계 · 베트남어로 번역"
+  },
+  "Studying as a guest": {
+    "vi": "Đang học ẩn danh",
+    "zh": "访客学习中",
+    "ko": "게스트로 학습 중"
+  },
+  "There are": {
+    "vi": "Còn",
+    "zh": "还有",
+    "ko": "남은 문제:"
+  },
+  "These transcripts were generated by AI and": {
+    "vi": "Lời thoại do AI chép lại và",
+    "zh": "这些文本由AI生成，",
+    "ko": "이 대본은 AI가 생성하여"
+  },
+  "This answer was generated by AI. The material does not include an official answer key.": {
+    "vi": "Đáp án do AI tạo. Tài liệu không kèm đáp án chính thức.",
+    "zh": "此答案由AI生成，原资料未提供官方答案。",
+    "ko": "이 정답은 AI가 생성했습니다. 자료에 공식 정답표가 없습니다."
+  },
+  "This is the audio transcript. Listen first, then use it to check what you heard.": {
+    "vi": "Đây là lời thoại audio. Nghe trước rồi đối chiếu.",
+    "zh": "这是录音文本。先听录音，再用文本核对。",
+    "ko": "음성 대본입니다. 먼저 들은 뒤 대본으로 확인하세요."
+  },
+  "This question cannot be checked because its transcript is unavailable. Run": {
+    "vi": "Câu này chưa có lời thoại nên chưa chấm được. Chạy",
+    "zh": "此题暂无文本，无法检查。请运行",
+    "ko": "대본이 없어 이 문제를 확인할 수 없습니다. 다음 명령 실행:"
+  },
+  "This sample answer was generated by AI. Other correct answers may be possible.": {
+    "vi": "Câu mẫu do AI viết. Có thể có cách viết đúng khác.",
+    "zh": "此参考答案由AI生成，其他写法也可能正确。",
+    "ko": "이 예시 답안은 AI가 생성했습니다. 다른 정답도 가능합니다."
+  },
+  "This word is now marked as": {
+    "vi": "Từ này đã chuyển về",
+    "zh": "此单词已标记为",
+    "ko": "이 단어의 상태:"
+  },
+  "To learn": {
+    "vi": "Chưa học",
+    "zh": "待学习",
+    "ko": "학습 필요"
+  },
+  "To learn ·": {
+    "vi": "chưa học ·",
+    "zh": "待学习 ·",
+    "ko": "학습 필요 ·"
+  },
+  "Transcript": {
+    "vi": "Lời thoại",
+    "zh": "录音文本",
+    "ko": "대본"
+  },
+  "Transcript for question {0}": {
+    "vi": "Lời thoại câu {0}",
+    "zh": "第{0}题文本",
+    "ko": "{0}번 문제 대본"
+  },
+  "Translation": {
+    "vi": "Bản dịch",
+    "zh": "翻译",
+    "ko": "번역"
+  },
+  "Translations are not automatically graded. Compare yours with the sample; more than one translation may be correct.": {
+    "vi": "Bản dịch không chấm tự động. Tự đối chiếu với mẫu; có nhiều cách dịch đúng.",
+    "zh": "译文不会自动评分。请与参考译文对照，正确译法可能不止一种。",
+    "ko": "번역은 자동 채점하지 않습니다. 예시와 비교하세요. 여러 번역이 정답일 수 있습니다."
+  },
+  "Type what you hear…": {
+    "vi": "Gõ lại lời bạn nghe…",
+    "zh": "输入听到的内容…",
+    "ko": "들은 내용을 입력하세요…"
+  },
+  "Unable to load content: {0}": {
+    "vi": "Không tải được nội dung: {0}",
+    "zh": "无法加载内容：{0}",
+    "ko": "내용을 불러올 수 없습니다: {0}"
+  },
+  "Unstar {0}": {
+    "vi": "Bỏ sao {0}",
+    "zh": "取消{0}的星标",
+    "ko": "{0} 별표 해제"
+  },
+  "Without an opposite:": {
+    "vi": "Không có cặp đối:",
+    "zh": "无反义词配对：",
+    "ko": "반의어 짝 없음:"
+  },
+  "Word": {
+    "vi": "Từ",
+    "zh": "单词",
+    "ko": "단어"
+  },
+  "Word and IPA on the front; flip to see the meaning": {
+    "vi": "Từ và IPA ở mặt trước; lật để xem nghĩa",
+    "zh": "正面显示单词与音标，翻面查看释义",
+    "ko": "앞면에 단어와 발음기호, 뒤집으면 뜻 표시"
+  },
+  "Work from top to bottom: start with theory and finish with listening practice.": {
+    "vi": "Làm từ trên xuống: lý thuyết trước, luyện nghe sau.",
+    "zh": "从上到下学习：先学理论，最后练习听力。",
+    "ko": "위에서 아래로 진행하세요. 이론부터 시작하고 듣기 연습으로 마무리합니다."
+  },
+  "You are studying as a guest. Sign in with Google to join the leaderboard and keep your existing progress.": {
+    "vi": "Bạn đang học ẩn danh. Đăng nhập Google để lên bảng; tiến độ vẫn giữ nguyên.",
+    "zh": "您正在以访客身份学习。使用Google登录即可加入排行榜并保留进度。",
+    "ko": "게스트로 학습 중입니다. Google로 로그인하면 진도를 유지하면서 순위표에 참여할 수 있습니다."
+  },
+  "You have reviewed all": {
+    "vi": "Bạn đã học hết",
+    "zh": "您已复习全部",
+    "ko": "모두 복습했습니다:"
+  },
+  "You left this question unanswered": {
+    "vi": "Bạn bỏ trống câu này",
+    "zh": "此题未作答",
+    "ko": "이 문제에 응답하지 않았습니다"
+  },
+  "Your answer": {
+    "vi": "Bạn chọn",
+    "zh": "您的答案",
+    "ko": "선택한 답"
+  },
+  "Your answer {0}": {
+    "vi": "Bạn chọn {0}",
+    "zh": "您的答案：{0}",
+    "ko": "선택한 답: {0}"
+  },
+  "Your progress is saved in this browser. Sign in with Google to continue on another device. Your existing progress will carry over.": {
+    "vi": "Tiến độ lưu trong trình duyệt. Đăng nhập Google để học tiếp trên máy khác mà không mất tiến độ.",
+    "zh": "进度保存在此浏览器。使用Google登录可在其他设备继续学习并保留进度。",
+    "ko": "진도는 이 브라우저에 저장됩니다. Google로 로그인하면 진도를 유지하면서 다른 기기에서 학습할 수 있습니다."
+  },
+  "Your progress is saved on this device and syncs to your account when you sign in.": {
+    "vi": "Tiến độ lưu trên máy và đồng bộ khi đăng nhập.",
+    "zh": "进度保存在此设备，登录后会同步到账户。",
+    "ko": "진도는 이 기기에 저장되며 로그인하면 계정과 동기화됩니다."
+  },
+  "Your progress is saved on this device so you can keep studying offline. Sign in with Google to sync it to your account and continue on another device.": {
+    "vi": "Tiến độ lưu trên máy để học cả khi mất mạng. Đăng nhập Google để đồng bộ và học tiếp trên máy khác.",
+    "zh": "进度保存在此设备，可离线学习。使用Google登录可同步进度并在其他设备继续学习。",
+    "ko": "진도는 이 기기에 저장되어 오프라인에서도 학습할 수 있습니다. Google로 로그인하여 다른 기기에서도 계속 학습하세요."
+  },
+  "Your progress syncs to your account across devices.": {
+    "vi": "Tiến độ đồng bộ theo tài khoản trên các thiết bị.",
+    "zh": "进度通过账户跨设备同步。",
+    "ko": "진도는 계정을 통해 기기 간 동기화됩니다."
+  },
+  "Your results are saved on this device. Select a question number to review or retry it.": {
+    "vi": "Kết quả lưu trên máy. Bấm số câu để xem lại hoặc làm lại.",
+    "zh": "结果保存在此设备。选择题号即可回顾或重做。",
+    "ko": "결과는 이 기기에 저장됩니다. 문제 번호를 선택해 복습하거나 다시 풀어보세요."
+  },
+  "Your saved answer. Click Retry to try again.": {
+    "vi": "Bài đã lưu. Bấm Làm lại để thử lại.",
+    "zh": "这是已保存的答案。点击重试可重新作答。",
+    "ko": "저장된 답안입니다. 다시 풀기를 눌러 재시도하세요."
+  },
+  "Your test will be graded immediately. You cannot change your answers after submitting.": {
+    "vi": "Nộp bài sẽ chấm ngay, không thể sửa đáp án.",
+    "zh": "提交后立即评分，无法修改答案。",
+    "ko": "제출 즉시 채점되며 정답을 변경할 수 없습니다."
+  },
+  "all": {
+    "vi": "tất cả",
+    "zh": "全部",
+    "ko": "모든"
+  },
+  "answer choices in one go": {
+    "vi": "phương án liền một mạch",
+    "zh": "一次写完所有选项",
+    "ko": "선택지를 한 번에 작성"
+  },
+  "browse": {
+    "vi": "tra cứu",
+    "zh": "查阅",
+    "ko": "찾아보기"
+  },
+  "complete": {
+    "vi": "xong",
+    "zh": "完成",
+    "ko": "완료"
+  },
+  "correct": {
+    "vi": "đúng",
+    "zh": "正确",
+    "ko": "정답"
+  },
+  "correct answers": {
+    "vi": "câu đúng",
+    "zh": "答对题数",
+    "ko": "정답 수"
+  },
+  "enter a word…": {
+    "vi": "điền từ…",
+    "zh": "输入单词…",
+    "ko": "단어 입력…"
+  },
+  "field in": {
+    "vi": "trong",
+    "zh": "字段，位于",
+    "ko": "필드, 다음 파일:"
+  },
+  "flip ·": {
+    "vi": "lật ·",
+    "zh": "翻面 ·",
+    "ko": "뒤집기 ·"
+  },
+  "for sets without an official key:": {
+    "vi": "cho bộ không có key chính thức:",
+    "zh": "适用于无官方答案的练习：",
+    "ko": "공식 정답표가 없는 세트:"
+  },
+  "from the source material:": {
+    "vi": "từ tài liệu:",
+    "zh": "来自原资料：",
+    "ko": "원본 자료:"
+  },
+  "images": {
+    "vi": "ảnh",
+    "zh": "图片",
+    "ko": "이미지"
+  },
+  "images with answer keys": {
+    "vi": "ảnh có đáp án",
+    "zh": "有答案的图片",
+    "ko": "정답이 있는 이미지"
+  },
+  "in this section. Unanswered questions count as incorrect.": {
+    "vi": "trong phần này. Bỏ trống tính như sai.",
+    "zh": "在此部分。未答题视为错误。",
+    "ko": "이 영역에 있습니다. 미응답은 오답으로 처리됩니다."
+  },
+  "in your flashcards and vocabulary list.": {
+    "vi": "trong thẻ và bảng từ vựng.",
+    "zh": "，适用于单词卡和词汇表。",
+    "ko": "단어 카드와 단어 목록에서 적용됩니다."
+  },
+  "incorrect": {
+    "vi": "sai",
+    "zh": "错误",
+    "ko": "오답"
+  },
+  "is not supported yet.": {
+    "vi": "chưa được hỗ trợ.",
+    "zh": "暂不支持。",
+    "ko": "아직 지원되지 않습니다."
+  },
+  "locally to generate it.": {
+    "vi": "trên máy để tạo lời thoại.",
+    "zh": "以在本地生成文本。",
+    "ko": "로컬에서 실행하여 대본을 생성하세요."
+  },
+  "may contain errors": {
+    "vi": "có thể sai",
+    "zh": "可能有错误",
+    "ko": "오류가 있을 수 있습니다"
+  },
+  "no answer key": {
+    "vi": "chưa có đáp án",
+    "zh": "暂无答案",
+    "ko": "정답표 없음"
+  },
+  "play": {
+    "vi": "chơi",
+    "zh": "游戏",
+    "ko": "플레이"
+  },
+  "points": {
+    "vi": "điểm",
+    "zh": "积分",
+    "ko": "점수"
+  },
+  "practice": {
+    "vi": "luyện",
+    "zh": "练习",
+    "ko": "연습"
+  },
+  "questions": {
+    "vi": "câu",
+    "zh": "题",
+    "ko": "문제"
+  },
+  "questions ·": {
+    "vi": "câu ·",
+    "zh": "题 ·",
+    "ko": "문제 ·"
+  },
+  "read": {
+    "vi": "đọc",
+    "zh": "阅读",
+    "ko": "읽기"
+  },
+  "recall the meaning · click to flip": {
+    "vi": "tự nhớ nghĩa · bấm để lật",
+    "zh": "回忆释义 · 点击翻面",
+    "ko": "뜻 떠올리기 · 눌러 뒤집기"
+  },
+  "self-check": {
+    "vi": "tự soát",
+    "zh": "自行核对",
+    "ko": "자가 확인"
+  },
+  "send me a message": {
+    "vi": "nhắn cho mình",
+    "zh": "给我留言",
+    "ko": "메시지를 보내 주세요"
+  },
+  "sentences to label S / V / O and translate.": {
+    "vi": "câu để gạch S / V / O và dịch.",
+    "zh": "个句子，标记S / V / O并翻译。",
+    "ko": "문장의 S / V / O를 표시하고 번역하세요."
+  },
+  "skill can generate questions for these words": {
+    "vi": "sinh câu hỏi cho những từ này",
+    "zh": "技能为这些单词生成题目",
+    "ko": "스킬이 이 단어들의 문제를 생성합니다"
+  },
+  "star": {
+    "vi": "gắn sao",
+    "zh": "加星",
+    "ko": "별표"
+  },
+  "the question and ": {
+    "vi": "câu hỏi và ",
+    "zh": "问题和",
+    "ko": "질문과 "
+  },
+  "to review your answer. Each check reveals one more word.": {
+    "vi": "để soát. Mỗi lần kiểm tra mở thêm một từ.",
+    "zh": "检查答案，每次会多显示一个单词。",
+    "ko": "답안을 확인하세요. 확인할 때마다 단어 하나가 추가로 표시됩니다."
+  },
+  "transcribe": {
+    "vi": "chép lại",
+    "zh": "听写",
+    "ko": "받아쓰기"
+  },
+  "transcribe everything you hear": {
+    "vi": "chép toàn bộ những gì nghe được",
+    "zh": "听写听到的全部内容",
+    "ko": "들은 내용을 모두 작성"
+  },
+  "unanswered": {
+    "vi": "bỏ trống",
+    "zh": "未答",
+    "ko": "미응답"
+  },
+  "unanswered questions": {
+    "vi": "câu chưa làm",
+    "zh": "未答题",
+    "ko": "미응답 문제"
+  },
+  "unanswered questions. In the actual test, unanswered questions count as incorrect, so make a guess rather than leave them blank.": {
+    "vi": "câu bỏ trống. Trong đề thật bỏ trống tính như sai, hãy đoán thay vì để trống.",
+    "zh": "道题未作答。正式考试中未答题视为错误，因此应猜选一个答案。",
+    "ko": "문제에 응답하지 않았습니다. 실제 시험에서는 미응답이 오답으로 처리되므로 빈칸 대신 추측해 선택하세요."
+  },
+  "unsuccessful attempts, you can skip this question.": {
+    "vi": "lần sai, bạn có thể bỏ qua câu này.",
+    "zh": "次错误后，可跳过此题。",
+    "ko": "번 틀리면 이 문제를 건너뛸 수 있습니다."
+  },
+  "vocabulary list": {
+    "vi": "bảng từ vựng",
+    "zh": "词汇表",
+    "ko": "단어 목록"
+  },
+  "{0} / {1} Known": {
+    "vi": "{0} / {1} đã biết",
+    "zh": "已掌握{0} / {1}",
+    "ko": "{0} / {1} 학습 완료"
+  },
+  "{0} images · clothes, prepositions of place, and locations": {
+    "vi": "{0} ảnh · trang phục, giới từ vị trí và địa điểm",
+    "zh": "{0}张图片 · 服装、方位介词和地点",
+    "ko": "이미지 {0}개 · 의류, 위치 전치사, 장소"
+  },
+  "{0} of {1}": {
+    "vi": "{0} trên {1}",
+    "zh": "{0} / {1}",
+    "ko": "{1} 중 {0}"
+  },
+  "{0} questions per round · English ↔ Vietnamese · answer choices drawn from the {1} words in this lesson": {
+    "vi": "{0} câu mỗi lượt · Anh ↔ Việt · phương án từ {1} từ của buổi học",
+    "zh": "每轮{0}题 · 英越互译 · 选项来自本课{1}个单词",
+    "ko": "라운드당 {0}문제 · 영어 ↔ 베트남어 · 이 수업의 단어 {1}개에서 선택지 구성"
+  },
+  "{0} sentences · label S / V / O, then translate": {
+    "vi": "{0} câu · gạch S / V / O rồi dịch",
+    "zh": "{0}个句子 · 标记S / V / O后翻译",
+    "ko": "문장 {0}개 · S / V / O 표시 후 번역"
+  },
+  "{0} sets · {1} questions": {
+    "vi": "{0} bộ · {1} câu",
+    "zh": "{0}组 · {1}题",
+    "ko": "{0}세트 · {1}문제"
+  },
+  "{0} sets · {1} questions · choose an answer to complete the sentence": {
+    "vi": "{0} bộ · {1} câu · chọn đáp án điền vào câu",
+    "zh": "{0}组 · {1}题 · 选择答案完成句子",
+    "ko": "{0}세트 · {1}문제 · 문장을 완성할 답 선택"
+  },
+  "{0} sets · {1} questions · choose the correct answer to complete each sentence": {
+    "vi": "{0} bộ · {1} câu · chọn đáp án đúng hoàn thành câu",
+    "zh": "{0}组 · {1}题 · 选择正确答案完成每个句子",
+    "ko": "{0}세트 · {1}문제 · 각 문장을 완성할 정답 선택"
+  },
+  "{0} sets · {1} questions · individual audio for each question": {
+    "vi": "{0} bộ · {1} câu · mỗi câu có audio riêng",
+    "zh": "{0}组 · {1}题 · 每题有独立录音",
+    "ko": "{0}세트 · {1}문제 · 문제별 음성 제공"
+  },
+  "{0} unanswered": {
+    "vi": "{0} câu chưa làm",
+    "zh": "{0}题未答",
+    "ko": "미응답 {0}개"
+  },
+  "{0} words were marked as To learn in your flashcards.": {
+    "vi": "{0} từ đã quay lại nhóm chưa học trong thẻ.",
+    "zh": "{0}个单词已在单词卡中标记为待学习。",
+    "ko": "단어 카드의 {0}개 단어가 학습 필요로 표시되었습니다."
+  },
+  "{0} words · search by word, meaning, or IPA": {
+    "vi": "{0} từ · tìm theo từ, nghĩa hoặc IPA",
+    "zh": "{0}个单词 · 按单词、释义或音标搜索",
+    "ko": "단어 {0}개 · 단어, 뜻, 발음기호 검색"
+  },
+  "{0} — opposite pairs": {
+    "vi": "{0} — cặp đối lập",
+    "zh": "{0} — 反义词配对",
+    "ko": "{0} — 반의어 짝"
+  },
+  "{0} — your results are saved to your account across devices.": {
+    "vi": "{0} — kết quả lưu theo tài khoản trên các thiết bị.",
+    "zh": "{0} — 结果通过账户跨设备保存。",
+    "ko": "{0} — 결과는 계정에 저장되어 기기 간 유지됩니다."
+  },
+  "· Correct answer": {
+    "vi": "· Đáp án đúng",
+    "zh": "· 正确答案",
+    "ko": "· 정답"
+  },
+  "· answered": {
+    "vi": "· đã chọn",
+    "zh": "· 已答",
+    "ko": "· 응답"
+  },
+  "· you": {
+    "vi": "· bạn",
+    "zh": "· 您",
+    "ko": "· 나"
+  },
+  "— the material does not include an official answer key. Check any doubtful answers with your class.": {
+    "vi": "— tài liệu không có đáp án chính thức. Đối chiếu với lớp nếu nghi sai.",
+    "zh": "— 资料未提供官方答案，如有疑问请与课堂核对。",
+    "ko": "— 자료에 공식 정답표가 없습니다. 의심되는 답은 수업에서 확인하세요."
+  },
+  "— transcript unavailable": {
+    "vi": "— chưa có lời thoại",
+    "zh": "— 暂无文本",
+    "ko": "— 대본 없음"
+  },
+  "← Previous question": {
+    "vi": "← Câu trước",
+    "zh": "← 上一题",
+    "ko": "← 이전 문제"
+  },
+  "← Still learning": {
+    "vi": "← Chưa thuộc",
+    "zh": "← 仍在学习",
+    "ko": "← 아직 학습 중"
+  },
+  "↺ Retry question": {
+    "vi": "↺ Làm lại câu này",
+    "zh": "↺ 重做此题",
+    "ko": "↺ 문제 다시 풀기"
+  },
+  "↺ Review all words": {
+    "vi": "↺ Ôn lại tất cả",
+    "zh": "↺ 复习所有单词",
+    "ko": "↺ 모든 단어 복습"
+  },
+  "⚠ Not quite right": {
+    "vi": "⚠ Chưa đúng",
+    "zh": "⚠ 不完全正确",
+    "ko": "⚠ 아직 틀렸습니다"
+  },
+  "⚠️ Theory block type": {
+    "vi": "⚠️ Khối lý thuyết kiểu",
+    "zh": "⚠️ 理论模块类型",
+    "ko": "⚠️ 이론 블록 유형"
+  },
+  "⚠️ This group has no answer key. Add the": {
+    "vi": "⚠️ Nhóm này chưa có đáp án. Thêm trường",
+    "zh": "⚠️ 此组暂无答案。请添加",
+    "ko": "⚠️ 이 그룹에는 정답이 없습니다. 추가할 항목:"
+  },
+  "✅ All labels are correct.": {
+    "vi": "✅ Gạch đúng hết.",
+    "zh": "✅ 所有标记正确。",
+    "ko": "✅ 모든 표시가 맞습니다."
+  },
+  "✅ Correct": {
+    "vi": "✅ Đúng",
+    "zh": "✅ 正确",
+    "ko": "✅ 정답"
+  },
+  "✅ Correct —": {
+    "vi": "✅ Đúng —",
+    "zh": "✅ 正确 —",
+    "ko": "✅ 정답 —"
+  },
+  "✅ Correct — answer": {
+    "vi": "✅ Đúng — đáp án",
+    "zh": "✅ 正确 — 答案",
+    "ko": "✅ 정답 — 답:"
+  },
+  "✓ Copied": {
+    "vi": "✓ Đã chép",
+    "zh": "✓ 已复制",
+    "ko": "✓ 복사됨"
+  },
+  "✓ Correct": {
+    "vi": "✓ Đúng rồi",
+    "zh": "✓ 正确",
+    "ko": "✓ 정답"
+  },
+  "❌ Incorrect": {
+    "vi": "❌ Sai",
+    "zh": "❌ 错误",
+    "ko": "❌ 오답"
+  },
+  "❌ Incorrect — unsuccessful attempts:": {
+    "vi": "❌ Chưa đúng — số lần sai:",
+    "zh": "❌ 错误 — 尝试次数：",
+    "ko": "❌ 오답 — 틀린 횟수:"
+  },
+  "❌ Incorrect.": {
+    "vi": "❌ Sai rồi.",
+    "zh": "❌ 错误。",
+    "ko": "❌ 오답입니다."
+  },
+  "❌ Some labels are incorrect. Check the phrases outlined in red.": {
+    "vi": "❌ Có nhãn sai. Xem các cụm viền đỏ.",
+    "zh": "❌ 部分标记错误，请检查红框短语。",
+    "ko": "❌ 일부 표시가 틀렸습니다. 빨간 테두리 구절을 확인하세요."
+  },
+  "📋 Copy {0} words to learn": {
+    "vi": "📋 Chép {0} từ chưa học",
+    "zh": "📋 复制{0}个待学习单词",
+    "ko": "📋 학습할 단어 {0}개 복사"
+  },
+  "🔁 Listen again": {
+    "vi": "🔁 Nghe lại",
+    "zh": "🔁 再听一次",
+    "ko": "🔁 다시 듣기"
+  },
+  "🔒 Unlocks after labeling": {
+    "vi": "🔒 Mở khi gạch xong",
+    "zh": "🔒 完成标记后解锁",
+    "ko": "🔒 표시 완료 후 열림"
+  },
+  "🖼 No image available for this question": {
+    "vi": "🖼 Câu này chưa có ảnh",
+    "zh": "🖼 此题暂无图片",
+    "ko": "🖼 이 문제에는 이미지가 없습니다"
+  },
+  ". Click": {
+    "vi": ". Bấm",
+    "zh": "。点击",
+    "ko": ". 클릭:"
+  },
+  ". Listen and transcribe, then compare with the audio transcript:": {
+    "vi": ", nghe và chép lại rồi đối chiếu lời thoại:",
+    "zh": "，听写后与文本对照：",
+    "ko": ". 듣고 작성한 뒤 대본과 비교하세요:"
+  },
+  ". Skip the test instructions and answer labels such as A, B, and C.": {
+    "vi": ". Bỏ qua hướng dẫn và ký hiệu A, B, C.",
+    "zh": "。无需输入考试说明和A、B、C等选项标记。",
+    "ko": ". 시험 안내와 A, B, C 같은 선택지 표시는 생략하세요."
+  },
+  ". There is no official answer key for this section. If you spot a mistake,": {
+    "vi": ". Phần này không có key chính thức. Nếu thấy sai,",
+    "zh": "。本部分无官方答案，如发现错误，请",
+    "ko": ". 이 영역에는 공식 정답표가 없습니다. 오류를 발견하면"
+  },
+  ". Try another answer.": {
+    "vi": ". Chọn phương án khác.",
+    "zh": "。请尝试其他答案。",
+    "ko": ". 다른 답을 선택하세요."
+  },
+  ". You can still type and save your answers.": {
+    "vi": ". Bạn vẫn có thể nhập và lưu bài.",
+    "zh": "。仍可输入并保存答案。",
+    "ko": ". 답을 입력하고 저장할 수 있습니다."
+  },
+  "All": {
+    "vi": "Tất cả",
+    "zh": "全部",
+    "ko": "전체"
+  },
+  "★ Starred": {
+    "vi": "★ Gắn sao",
+    "zh": "★ 已加星",
+    "ko": "★ 별표"
+  },
+  "British": {
+    "vi": "Anh",
+    "zh": "英式",
+    "ko": "영국식"
+  },
+  "American": {
+    "vi": "Mỹ",
+    "zh": "美式",
+    "ko": "미국식"
+  },
+  "English → Vietnamese": {
+    "vi": "Anh → Việt",
+    "zh": "英语 → 越南语",
+    "ko": "영어 → 베트남어"
+  },
+  "Vietnamese → English": {
+    "vi": "Việt → Anh",
+    "zh": "越南语 → 英语",
+    "ko": "베트남어 → 영어"
+  },
+  "Complete the sentence": {
+    "vi": "Điền vào câu",
+    "zh": "完成句子",
+    "ko": "문장 완성"
+  },
+  "subject": {
+    "vi": "chủ ngữ",
+    "zh": "主语",
+    "ko": "주어"
+  },
+  "verb": {
+    "vi": "động từ",
+    "zh": "动词",
+    "ko": "동사"
+  },
+  "object": {
+    "vi": "tân ngữ",
+    "zh": "宾语",
+    "ko": "목적어"
+  },
+  "Merging progress…": {
+    "vi": "Đang gộp tiến độ…",
+    "zh": "正在合并进度…",
+    "ko": "진도 병합 중…"
+  },
+  "Opening Google…": {
+    "vi": "Đang mở Google…",
+    "zh": "正在打开Google…",
+    "ko": "Google 여는 중…"
+  },
+  "Guest learner": {
+    "vi": "Người học ẩn danh",
+    "zh": "访客学习者",
+    "ko": "게스트 학습자"
+  },
+  "Review question {0}": {
+    "vi": "Xem đáp án câu {0}",
+    "zh": "查看第{0}题",
+    "ko": "{0}번 문제 복습"
+  },
+  "Image for question {0}": {
+    "vi": "Tranh câu {0}",
+    "zh": "第{0}题图片",
+    "ko": "{0}번 문제 이미지"
+  },
+  "Illustration for the listening passage": {
+    "vi": "Hình minh hoạ bài nghe",
+    "zh": "听力篇章插图",
+    "ko": "듣기 지문 삽화"
+  },
+  ", answered": {
+    "vi": ", đã chọn",
+    "zh": "，已答",
+    "ko": ", 응답함"
+  },
+  ", unanswered": {
+    "vi": ", chưa chọn",
+    "zh": "，未答",
+    "ko": ", 미응답"
+  },
+  " — answered incorrectly": {
+    "vi": " — đã làm sai",
+    "zh": " — 答错",
+    "ko": " — 오답"
+  },
+  " — answered correctly": {
+    "vi": " — đã làm đúng",
+    "zh": " — 答对",
+    "ko": " — 정답"
+  },
+  "{0} structures": {
+    "vi": "{0} cấu trúc",
+    "zh": "{0}个结构",
+    "ko": "구조 {0}개"
+  },
+  "{0} grammar structures": {
+    "vi": "{0} cấu trúc ngữ pháp",
+    "zh": "{0}个语法结构",
+    "ko": "문법 구조 {0}개"
+  },
+  "{0} theory sections": {
+    "vi": "{0} khối lý thuyết",
+    "zh": "{0}个理论模块",
+    "ko": "이론 영역 {0}개"
+  },
+  "{0} grammar questions": {
+    "vi": "{0} câu ngữ pháp",
+    "zh": "{0}道语法题",
+    "ko": "문법 문제 {0}개"
+  },
+  "{0} listening questions": {
+    "vi": "{0} câu nghe",
+    "zh": "{0}道听力题",
+    "ko": "듣기 문제 {0}개"
+  },
+  "{0} words": {
+    "vi": "{0} từ",
+    "zh": "{0}个单词",
+    "ko": "단어 {0}개"
+  },
+  "{0} correct": {
+    "vi": "{0} đúng",
+    "zh": "答对{0}题",
+    "ko": "정답 {0}개"
+  },
+  "Part {0} · {1}": {
+    "vi": "Part {0} · {1}",
+    "zh": "第{0}部分 · {1}",
+    "ko": "파트 {0} · {1}"
+  },
+  "{0} — {1}": {
+    "vi": "{0} — {1}",
+    "zh": "{0} — {1}",
+    "ko": "{0} — {1}"
+  },
+  "Pronounce \"{0}\"": {
+    "vi": "Đọc \"{0}\"",
+    "zh": "朗读“{0}”",
+    "ko": "\"{0}\" 발음 듣기"
+  },
+  "Generate more quiz questions for {0}, using these words I am still learning:": {
+    "vi": "Sinh thêm câu hỏi cho {0}, với những từ chưa thuộc này:",
+    "zh": "为{0}生成更多题目，使用以下尚未掌握的单词：",
+    "ko": "{0}에서 아직 학습 중인 다음 단어로 더 많은 문제를 생성하세요:"
+  },
+  "Part 1 – Photographs": {
+    "vi": "Part 1 – Mô tả tranh",
+    "zh": "第1部分 – 照片描述",
+    "ko": "파트 1 – 사진 묘사"
+  },
+  "Part 1 – Objects and mixed photographs": {
+    "vi": "Part 1 – Tranh tả vật và tranh hỗn hợp",
+    "zh": "第1部分 – 物品及混合照片",
+    "ko": "파트 1 – 사물 및 혼합 사진"
+  },
+  "Verbs, tenses, and passive voice — Parts 1 and 3": {
+    "vi": "Động từ, các thì và bị động — Part 1, 3",
+    "zh": "动词、时态及被动语态 — 第1和3部分",
+    "ko": "동사, 시제, 수동태 — 파트 1, 3"
+  },
+  "Part 2 – Questions and Responses": {
+    "vi": "Part 2 – Hỏi và Đáp",
+    "zh": "第2部分 – 问答",
+    "ko": "파트 2 – 질의응답"
+  },
+  "Part 2 – Who, Where, and When questions": {
+    "vi": "Part 2 – Câu hỏi Who, Where, When",
+    "zh": "第2部分 – Who、Where、When问句",
+    "ko": "파트 2 – Who, Where, When 질문"
+  },
+  "Part 2 – What, How, and Why questions": {
+    "vi": "Part 2 – Câu hỏi What, How, Why",
+    "zh": "第2部分 – What、How、Why问句",
+    "ko": "파트 2 – What, How, Why 질문"
+  },
+  "Part 2 – Choice questions (WHICH / or) and YES/NO questions": {
+    "vi": "Part 2 – Câu hỏi lựa chọn và YES/NO",
+    "zh": "第2部分 – 选择问句及YES/NO问句",
+    "ko": "파트 2 – 선택 의문문 및 YES/NO 질문"
+  },
+  "Part 2 – Embedded questions, statements, and indirect responses": {
+    "vi": "Part 2 – Câu hỏi kết hợp, trần thuật và đáp gián tiếp",
+    "zh": "第2部分 – 嵌入式问句、陈述及间接回应",
+    "ko": "파트 2 – 간접 의문문, 평서문, 간접 응답"
+  },
+  "Listen and transcribe the English sentence describing the picture": {
+    "vi": "Nghe và chép câu tiếng Anh mô tả tranh",
+    "zh": "听写描述图片的英语句子",
+    "ko": "그림을 묘사하는 영어 문장을 듣고 작성"
+  },
+  "Listen once to choose an answer, then listen again to fill in the blanks": {
+    "vi": "Nghe một lần chọn đáp án, nghe lại điền chỗ trống",
+    "zh": "听一次选择答案，再听一遍填空",
+    "ko": "한 번 듣고 답을 선택한 뒤 다시 듣고 빈칸 채우기"
+  },
+  "10 questions · official answer key": {
+    "vi": "10 câu · đáp án chính thức",
+    "zh": "10题 · 官方答案",
+    "ko": "10문제 · 공식 정답표"
+  },
+  "Object photographs: listen and complete the picture description": {
+    "vi": "Tranh tả vật: nghe và hoàn thành mô tả",
+    "zh": "物品照片：听录音并完成描述",
+    "ko": "사물 사진: 듣고 묘사 완성"
+  },
+  "Object photographs: listen and fill in the missing answer choices": {
+    "vi": "Tranh tả vật: nghe và điền các phương án thiếu",
+    "zh": "物品照片：听录音并补全选项",
+    "ko": "사물 사진: 듣고 빠진 선택지 채우기"
+  },
+  "Mixed photographs: listen and complete the picture description": {
+    "vi": "Tranh hỗn hợp: nghe và hoàn thành mô tả",
+    "zh": "混合照片：听录音并完成描述",
+    "ko": "혼합 사진: 듣고 묘사 완성"
+  },
+  "Mixed photographs: listen and fill in the missing answer choices": {
+    "vi": "Tranh hỗn hợp: nghe và điền các phương án thiếu",
+    "zh": "混合照片：听录音并补全选项",
+    "ko": "혼합 사진: 듣고 빠진 선택지 채우기"
+  },
+  "Practice: listen and transcribe all four picture descriptions": {
+    "vi": "Luyện: nghe và chép cả bốn phương án tả tranh",
+    "zh": "练习：听写四个图片描述",
+    "ko": "연습: 네 가지 그림 묘사를 모두 듣고 작성"
+  },
+  "Homework: listen to the full track once and choose answers, then transcribe each picture description": {
+    "vi": "Bài về nhà: nghe bản đầy đủ chọn đáp án, rồi chép mô tả từng tranh",
+    "zh": "作业：听一次完整录音并选答，再听写每张图片的描述",
+    "ko": "과제: 전체 음성을 한 번 듣고 답을 선택한 뒤 각 그림 묘사 작성"
+  },
+  "Part 1: listen once and choose the best description, then listen again and transcribe your answer": {
+    "vi": "Part 1: nghe chọn mô tả đúng nhất, rồi nghe lại chép đáp án",
+    "zh": "第1部分：听一次选择最佳描述，再听一遍写下答案",
+    "ko": "파트 1: 한 번 듣고 가장 적절한 묘사를 선택한 뒤 다시 듣고 답 작성"
+  },
+  "Part 3: listen to the conversation, fill in the blanks, then translate the passage": {
+    "vi": "Part 3: nghe hội thoại, điền chỗ trống rồi dịch",
+    "zh": "第3部分：听对话、填空，再翻译全文",
+    "ko": "파트 3: 대화를 듣고 빈칸을 채운 뒤 지문 번역"
+  },
+  "Part 3: read the questions and choose answers based on the conversation": {
+    "vi": "Part 3: đọc câu hỏi và chọn theo hội thoại",
+    "zh": "第3部分：阅读题目并根据对话选答",
+    "ko": "파트 3: 질문을 읽고 대화에 맞는 답 선택"
+  },
+  "Exercise 1 — Simple tenses": {
+    "vi": "Bài 1 — Nhóm thì đơn",
+    "zh": "练习1 — 简单时态",
+    "ko": "연습 1 — 단순 시제"
+  },
+  "Choose the correct verb form (subject–verb agreement and simple tenses)": {
+    "vi": "Chọn dạng động từ đúng (hoà hợp chủ vị, thì đơn)",
+    "zh": "选择正确动词形式（主谓一致和简单时态）",
+    "ko": "올바른 동사 형태 선택 (주어·동사 일치, 단순 시제)"
+  },
+  "Exercise 2 — Continuous tenses": {
+    "vi": "Bài 2 — Thì tiếp diễn",
+    "zh": "练习2 — 进行时态",
+    "ko": "연습 2 — 진행 시제"
+  },
+  "Choose the correct answer to complete the sentence": {
+    "vi": "Chọn đáp án đúng hoàn thành câu",
+    "zh": "选择正确答案完成句子",
+    "ko": "문장을 완성할 정답 선택"
+  },
+  "Exercise 3 — Perfect tenses": {
+    "vi": "Bài 3 — Thì hoàn thành",
+    "zh": "练习3 — 完成时态",
+    "ko": "연습 3 — 완료 시제"
+  },
+  "Exercise 4 — Tenses and conditionals": {
+    "vi": "Bài 4 — Các thì và điều kiện",
+    "zh": "练习4 — 时态与条件句",
+    "ko": "연습 4 — 시제와 조건문"
+  },
+  "Exercise 5 — Active to passive voice": {
+    "vi": "Bài 5 — Chủ động sang bị động",
+    "zh": "练习5 — 主动变被动",
+    "ko": "연습 5 — 능동태에서 수동태로"
+  },
+  "Rewrite the sentence in the passive voice": {
+    "vi": "Viết lại câu ở thể bị động",
+    "zh": "将句子改写为被动语态",
+    "ko": "문장을 수동태로 다시 작성"
+  },
+  "Exercise 6 — Passive to active voice": {
+    "vi": "Bài 6 — Bị động sang chủ động",
+    "zh": "练习6 — 被动变主动",
+    "ko": "연습 6 — 수동태에서 능동태로"
+  },
+  "Rewrite the sentence in the active voice": {
+    "vi": "Viết lại câu ở thể chủ động",
+    "zh": "将句子改写为主动语态",
+    "ko": "문장을 능동태로 다시 작성"
+  },
+  "Exercise 7 — Active or passive voice": {
+    "vi": "Bài 7 — Chủ động hay bị động",
+    "zh": "练习7 — 主动还是被动",
+    "ko": "연습 7 — 능동태 또는 수동태"
+  },
+  "Choose one of the two verb forms": {
+    "vi": "Chọn một trong hai dạng động từ",
+    "zh": "从两种动词形式中选择",
+    "ko": "두 동사 형태 중 하나 선택"
+  },
+  "Exercise 8 — Active and passive voice quiz": {
+    "vi": "Bài 8 — Trắc nghiệm chủ động và bị động",
+    "zh": "练习8 — 主动与被动测验",
+    "ko": "연습 8 — 능동태와 수동태 퀴즈"
+  },
+  "Listen and choose the best response (the blank is a question word)": {
+    "vi": "Nghe chọn đáp phù hợp (chỗ trống là từ hỏi)",
+    "zh": "听录音并选择最佳回应（空白为疑问词）",
+    "ko": "듣고 가장 적절한 응답 선택 (빈칸은 의문사)"
+  },
+  "Listen and fill in the missing words in each question–response pair": {
+    "vi": "Nghe điền từ thiếu trong cặp hỏi đáp",
+    "zh": "听录音补全问答中的单词",
+    "ko": "듣고 질문·응답 쌍의 빠진 단어 채우기"
+  },
+  "Listen, fill in the missing words, then choose the best response": {
+    "vi": "Nghe, điền từ thiếu rồi chọn đáp phù hợp",
+    "zh": "听录音、填词，再选最佳回应",
+    "ko": "듣고 빠진 단어를 채운 뒤 가장 적절한 응답 선택"
+  },
+  "Who questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi Who: nghe chép câu hỏi và đáp",
+    "zh": "Who问句：听写问题与回应",
+    "ko": "Who 질문: 질문과 응답 듣고 작성"
+  },
+  "Where questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi Where: nghe chép câu hỏi và đáp",
+    "zh": "Where问句：听写问题与回应",
+    "ko": "Where 질문: 질문과 응답 듣고 작성"
+  },
+  "When questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi When: nghe chép câu hỏi và đáp",
+    "zh": "When问句：听写问题与回应",
+    "ko": "When 질문: 질문과 응답 듣고 작성"
+  },
+  "Homework — Exercise 1 (Questions and responses)": {
+    "vi": "Bài về nhà — Bài 1 (Hỏi đáp)",
+    "zh": "作业 — 练习1（问答）",
+    "ko": "과제 — 연습 1 (질의응답)"
+  },
+  "Listen once to choose an answer, then listen again and transcribe the question and your answer": {
+    "vi": "Nghe chọn đáp án, nghe lại chép câu hỏi và đáp án",
+    "zh": "听一次选答，再听写问题与答案",
+    "ko": "한 번 듣고 답을 선택한 뒤 다시 듣고 질문과 답 작성"
+  },
+  "Homework — Exercise 2 (Photographs) — TEST 1": {
+    "vi": "Bài về nhà — Bài 2 (Tranh) — TEST 1",
+    "zh": "作业 — 练习2（照片）— 测试1",
+    "ko": "과제 — 연습 2 (사진) — 시험 1"
+  },
+  "Listen once to choose a picture description, then transcribe your full answer": {
+    "vi": "Nghe chọn mô tả tranh rồi chép đáp án đầy đủ",
+    "zh": "听一次选择图片描述，再写下完整答案",
+    "ko": "한 번 듣고 그림 묘사를 선택한 뒤 전체 답 작성"
+  },
+  "Homework — Exercise 2 (Photographs) — TEST 2": {
+    "vi": "Bài về nhà — Bài 2 (Tranh) — TEST 2",
+    "zh": "作业 — 练习2（照片）— 测试2",
+    "ko": "과제 — 연습 2 (사진) — 시험 2"
+  },
+  "What questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi What: nghe chép câu hỏi và đáp",
+    "zh": "What问句：听写问题与回应",
+    "ko": "What 질문: 질문과 응답 듣고 작성"
+  },
+  "How questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi How: nghe chép câu hỏi và đáp",
+    "zh": "How问句：听写问题与回应",
+    "ko": "How 질문: 질문과 응답 듣고 작성"
+  },
+  "Why questions: listen and transcribe the question and responses": {
+    "vi": "Câu hỏi Why: nghe chép câu hỏi và đáp",
+    "zh": "Why问句：听写问题与回应",
+    "ko": "Why 질문: 질문과 응답 듣고 작성"
+  },
+  "30 What / Why / How questions: listen to each track and transcribe the question and your answer": {
+    "vi": "30 câu What / Why / How: nghe từng file, chép hỏi và đáp",
+    "zh": "30道What / Why / How题：听各段录音并听写问题与答案",
+    "ko": "What / Why / How 30문제: 각 음성을 듣고 질문과 답 작성"
+  },
+  "Photographs: listen and choose an answer, then transcribe your full answer": {
+    "vi": "Tranh: nghe chọn đáp rồi chép đầy đủ",
+    "zh": "照片：听录音选答，再写下完整答案",
+    "ko": "사진: 듣고 답을 선택한 뒤 전체 답 작성"
+  },
+  "Choice questions: listen and transcribe the question and responses (questions 5–9: choose A–C)": {
+    "vi": "Câu lựa chọn: chép hỏi đáp (câu 5–9 chọn A–C)",
+    "zh": "选择问句：听写问答（第5–9题选择A–C）",
+    "ko": "선택 의문문: 질문과 응답 받아쓰기 (5–9번은 A–C 선택)"
+  },
+  "Yes/No questions: listen and transcribe the question and all three A–C responses": {
+    "vi": "Câu Yes/No: chép câu hỏi và cả ba đáp A–C",
+    "zh": "Yes/No问句：听写问题和A–C三个回应",
+    "ko": "Yes/No 질문: 질문과 A–C 세 응답 모두 작성"
+  },
+  "Homework — Exercise 1 (questions 1–15)": {
+    "vi": "Bài về nhà — Bài 1 (câu 1–15)",
+    "zh": "作业 — 练习1（第1–15题）",
+    "ko": "과제 — 연습 1 (1–15번)"
+  },
+  "Choice and Yes/No: transcribe the full question and your chosen response": {
+    "vi": "Lựa chọn và Yes/No: chép đầy đủ câu hỏi và đáp đã chọn",
+    "zh": "选择及Yes/No：听写完整问题与所选回应",
+    "ko": "선택 및 Yes/No: 전체 질문과 선택한 응답 작성"
+  },
+  "Homework — Exercise 1 (questions 16–30)": {
+    "vi": "Bài về nhà — Bài 1 (câu 16–30)",
+    "zh": "作业 — 练习1（第16–30题）",
+    "ko": "과제 — 연습 1 (16–30번)"
+  },
+  "Part 1 photographs: listen once to choose an answer, then listen again and transcribe it": {
+    "vi": "Tranh Part 1: nghe chọn đáp, nghe lại chép đáp",
+    "zh": "第1部分照片：听一次选答，再听写答案",
+    "ko": "파트 1 사진: 한 번 듣고 답 선택, 다시 듣고 작성"
+  },
+  "Translation — Choose an answer and translate": {
+    "vi": "Dịch — Chọn đáp án và dịch",
+    "zh": "翻译 — 选答并翻译",
+    "ko": "번역 — 답 선택 후 번역"
+  },
+  "Embedded questions: listen and transcribe the question and responses": {
+    "vi": "Câu kết hợp: nghe chép hỏi và đáp",
+    "zh": "嵌入式问句：听写问题与回应",
+    "ko": "간접 의문문: 질문과 응답 듣고 작성"
+  },
+  "Statements: listen and transcribe the statement and three responses": {
+    "vi": "Trần thuật: chép câu nói và ba đáp",
+    "zh": "陈述句：听写陈述和三个回应",
+    "ko": "평서문: 문장과 세 응답 듣고 작성"
+  },
+  "Indirect responses: listen and transcribe the question and three responses": {
+    "vi": "Đáp gián tiếp: chép hỏi và ba đáp",
+    "zh": "间接回应：听写问题和三个回应",
+    "ko": "간접 응답: 질문과 세 응답 듣고 작성"
+  },
+  "Homework — Exercise 1 (30 Part 2 questions)": {
+    "vi": "Bài về nhà — Bài 1 (30 câu Part 2)",
+    "zh": "作业 — 练习1（30道第2部分题目）",
+    "ko": "과제 — 연습 1 (파트 2 30문제)"
+  },
+  "Listen and choose an answer, then listen again and transcribe the question and response": {
+    "vi": "Nghe chọn đáp rồi nghe lại chép hỏi và đáp",
+    "zh": "听录音选答，再听写问题与回应",
+    "ko": "듣고 답 선택 후 다시 듣고 질문과 응답 작성"
+  },
+  "Part 1 photographs: listen and transcribe all four descriptions": {
+    "vi": "Tranh Part 1: chép cả bốn phương án",
+    "zh": "第1部分照片：听写四个描述",
+    "ko": "파트 1 사진: 네 가지 묘사 모두 작성"
+  },
+  "Translation — Choose an answer and translate the sentence": {
+    "vi": "Dịch — Chọn đáp án và dịch câu",
+    "zh": "翻译 — 选答并翻译句子",
+    "ko": "번역 — 답 선택 후 문장 번역"
+  },
+  "Four details to check in photographs of people": {
+    "vi": "Bốn yếu tố khi tả tranh người",
+    "zh": "人物照片的四个观察要点",
+    "ko": "인물 사진에서 확인할 네 가지 요소"
+  },
+  "Prepositions of place": {
+    "vi": "Giới từ chỉ vị trí",
+    "zh": "方位介词",
+    "ko": "위치 전치사"
+  },
+  "Location nouns": {
+    "vi": "Danh từ chỉ địa điểm",
+    "zh": "地点名词",
+    "ko": "장소 명사"
+  },
+  "Clothes": {
+    "vi": "Trang phục",
+    "zh": "服装",
+    "ko": "의류"
+  },
+  "Translation practice": {
+    "vi": "Bài dịch",
+    "zh": "翻译练习",
+    "ko": "번역 연습"
+  },
+  "DAY 2.1 — Photographs of things": {
+    "vi": "BUỔI 2.1 — Tranh tả vật",
+    "zh": "第2.1课 — 物品照片",
+    "ko": "수업 2.1 — 사물 사진"
+  },
+  "DAY 2.2 — Assorted photographs": {
+    "vi": "BUỔI 2.2 — Tranh hỗn hợp",
+    "zh": "第2.2课 — 混合照片",
+    "ko": "수업 2.2 — 혼합 사진"
+  },
+  "Extra vocabulary": {
+    "vi": "Từ ngoài danh sách",
+    "zh": "补充词汇",
+    "ko": "추가 단어"
+  },
+  "VERBS — Types of verbs": {
+    "vi": "ĐỘNG TỪ — Các loại động từ",
+    "zh": "动词 — 动词类型",
+    "ko": "동사 — 동사의 종류"
+  },
+  "TENSES — I. Simple tenses": {
+    "vi": "CÁC THÌ — I. Nhóm thì đơn",
+    "zh": "时态 — I. 简单时态",
+    "ko": "시제 — I. 단순 시제"
+  },
+  "Subject–verb agreement": {
+    "vi": "Sự hoà hợp chủ ngữ và động từ",
+    "zh": "主谓一致",
+    "ko": "주어·동사 일치"
+  },
+  "II. Continuous tenses": {
+    "vi": "II. Nhóm thì tiếp diễn",
+    "zh": "II. 进行时态",
+    "ko": "II. 진행 시제"
+  },
+  "III. Perfect tenses": {
+    "vi": "III. Nhóm thì hoàn thành",
+    "zh": "III. 完成时态",
+    "ko": "III. 완료 시제"
+  },
+  "IF conditionals": {
+    "vi": "Câu điều kiện IF",
+    "zh": "IF条件句",
+    "ko": "IF 조건문"
+  },
+  "ACTIVE & PASSIVE VOICE": {
+    "vi": "CÂU CHỦ ĐỘNG VÀ BỊ ĐỘNG",
+    "zh": "主动与被动语态",
+    "ko": "능동태와 수동태"
+  },
+  "III. Passive voice across tenses: be + past participle": {
+    "vi": "III. Bị động ở các thì: be + quá khứ phân từ",
+    "zh": "III. 各时态被动语态：be + 过去分词",
+    "ko": "III. 시제별 수동태: be + 과거분사"
+  },
+  "Choosing active or passive verb forms": {
+    "vi": "Chọn dạng động từ chủ động hoặc bị động",
+    "zh": "选择主动或被动动词形式",
+    "ko": "능동 또는 수동 동사 형태 선택"
+  },
+  "I. Introduction": {
+    "vi": "I. Giới thiệu chung",
+    "zh": "I. 简介",
+    "ko": "I. 소개"
+  },
+  "II. How to respond": {
+    "vi": "II. Cách trả lời",
+    "zh": "II. 如何回应",
+    "ko": "II. 응답 방법"
+  },
+  "Pay attention to responses expressing uncertainty": {
+    "vi": "Chú ý các cách đáp \"Không biết\"",
+    "zh": "注意表达不确定的回应",
+    "ko": "불확실성을 나타내는 응답에 주의"
+  },
+  "Note": {
+    "vi": "Chú ý",
+    "zh": "注意",
+    "ko": "참고"
+  },
+  "WHAT — questions without special keywords": {
+    "vi": "WHAT — khi không có từ đặc biệt",
+    "zh": "WHAT — 无特殊关键词的问句",
+    "ko": "WHAT — 특별한 키워드가 없는 질문"
+  },
+  "1. WHICH — Choice questions": {
+    "vi": "1. WHICH — Câu hỏi lựa chọn",
+    "zh": "1. WHICH — 选择问句",
+    "ko": "1. WHICH — 선택 의문문"
+  },
+  "Common response patterns": {
+    "vi": "Cách trả lời thường gặp",
+    "zh": "常见回应模式",
+    "ko": "일반적인 응답 유형"
+  },
+  "2. YES / NO questions": {
+    "vi": "2. Câu hỏi YES / NO",
+    "zh": "2. YES / NO问句",
+    "ko": "2. YES / NO 질문"
+  },
+  "I. EMBEDDED QUESTIONS": {
+    "vi": "I. CÂU HỎI KẾT HỢP",
+    "zh": "I. 嵌入式问句",
+    "ko": "I. 간접 의문문"
+  },
+  "III. INDIRECT RESPONSES — Uncertainty can answer many question types": {
+    "vi": "III. ĐÁP GIÁN TIẾP — \"Không biết\" có thể đáp nhiều dạng hỏi",
+    "zh": "III. 间接回应 — 不确定的表达可用于多种问句",
+    "ko": "III. 간접 응답 — 불확실성 표현은 여러 질문에 답할 수 있습니다"
+  },
+  "Indirect responses expressing lack of knowledge": {
+    "vi": "Cách đáp gián tiếp thể hiện \"Không biết\"",
+    "zh": "表示不知道的间接回应",
+    "ko": "모름을 나타내는 간접 응답"
+  },
+  "Responses expressing uncertainty or a need for more information": {
+    "vi": "Cách đáp \"Không chắc\" hoặc \"Cần hỏi thêm\"",
+    "zh": "表示不确定或需要更多信息的回应",
+    "ko": "불확실함 또는 추가 정보 필요를 나타내는 응답"
+  },
+  "Context-dependent responses": {
+    "vi": "Đáp tuỳ ngữ cảnh",
+    "zh": "根据语境的回应",
+    "ko": "문맥에 따른 응답"
+  },
+  "Choose the correct answer and translate the complete sentences": {
+    "vi": "Chọn đáp án đúng rồi dịch câu hoàn chỉnh",
+    "zh": "选择正确答案并翻译完整句子",
+    "ko": "정답을 선택하고 완성된 문장 번역"
+  },
+  "Subject": {
+    "vi": "Chủ ngữ",
+    "zh": "主语",
+    "ko": "주어"
+  },
+  "Action": {
+    "vi": "Hành động",
+    "zh": "动作",
+    "ko": "동작"
+  },
+  "Position": {
+    "vi": "Vị trí",
+    "zh": "位置",
+    "ko": "위치"
+  },
+  "General locations": {
+    "vi": "Địa điểm chung",
+    "zh": "一般地点",
+    "ko": "일반 장소"
+  },
+  "Inside a building": {
+    "vi": "Trong toà nhà",
+    "zh": "建筑物内",
+    "ko": "건물 내부"
+  },
+  "Inside a room": {
+    "vi": "Trong phòng",
+    "zh": "房间内",
+    "ko": "방 안"
+  },
+  "Simple past": {
+    "vi": "Quá khứ đơn",
+    "zh": "一般过去时",
+    "ko": "단순 과거"
+  },
+  "Simple present": {
+    "vi": "Hiện tại đơn",
+    "zh": "一般现在时",
+    "ko": "단순 현재"
+  },
+  "Simple future": {
+    "vi": "Tương lai đơn",
+    "zh": "一般将来时",
+    "ko": "단순 미래"
+  },
+  "Verb form": {
+    "vi": "Chia động từ",
+    "zh": "动词形式",
+    "ko": "동사 형태"
+  },
+  "Past continuous": {
+    "vi": "Quá khứ tiếp diễn",
+    "zh": "过去进行时",
+    "ko": "과거 진행"
+  },
+  "Present continuous": {
+    "vi": "Hiện tại tiếp diễn",
+    "zh": "现在进行时",
+    "ko": "현재 진행"
+  },
+  "Future continuous": {
+    "vi": "Tương lai tiếp diễn",
+    "zh": "将来进行时",
+    "ko": "미래 진행"
+  },
+  "Past perfect": {
+    "vi": "Quá khứ hoàn thành",
+    "zh": "过去完成时",
+    "ko": "과거 완료"
+  },
+  "Present perfect": {
+    "vi": "Hiện tại hoàn thành",
+    "zh": "现在完成时",
+    "ko": "현재 완료"
+  },
+  "Future perfect": {
+    "vi": "Tương lai hoàn thành",
+    "zh": "将来完成时",
+    "ko": "미래 완료"
+  },
+  "Tense": {
+    "vi": "Thì",
+    "zh": "时态",
+    "ko": "시제"
+  },
+  "Sentence type": {
+    "vi": "Loại câu",
+    "zh": "句子类型",
+    "ko": "문장 유형"
+  },
+  "Example": {
+    "vi": "Ví dụ",
+    "zh": "例子",
+    "ko": "예문"
+  },
+  "Response": {
+    "vi": "Đáp",
+    "zh": "回应",
+    "ko": "응답"
+  },
+  "1. Direct responses": {
+    "vi": "1. Trả lời trực tiếp",
+    "zh": "1. 直接回应",
+    "ko": "1. 직접 응답"
+  },
+  "2. Indirect responses": {
+    "vi": "2. Trả lời gián tiếp",
+    "zh": "2. 间接回应",
+    "ko": "2. 간접 응답"
+  },
+  "Question type": {
+    "vi": "Dạng câu hỏi",
+    "zh": "问句类型",
+    "ko": "질문 유형"
+  },
+  "Response type": {
+    "vi": "Dạng đáp án",
+    "zh": "回应类型",
+    "ko": "응답 유형"
+  },
+  "Common responses": {
+    "vi": "Cách trả lời thông dụng",
+    "zh": "常见回应",
+    "ko": "일반적인 응답"
+  },
+  "Direct responses": {
+    "vi": "Cách trả lời trực tiếp",
+    "zh": "直接回应",
+    "ko": "직접 응답"
+  },
+  "How to respond": {
+    "vi": "Cách trả lời",
+    "zh": "如何回应",
+    "ko": "응답 방법"
+  },
+  "Sentence pattern": {
+    "vi": "Mẫu câu",
+    "zh": "句型",
+    "ko": "문장 패턴"
+  },
+  "Google sign-in is not enabled. Enable it in Firebase Console → Authentication → Sign-in method.": {
+    "vi": "Chưa bật đăng nhập Google. Bật trong Firebase Console → Authentication → Sign-in method.",
+    "zh": "尚未启用Google登录。请在Firebase Console → Authentication → Sign-in method中启用。",
+    "ko": "Google 로그인이 활성화되지 않았습니다. Firebase Console → Authentication → Sign-in method에서 활성화하세요."
+  },
+  "This domain is not authorized. Add it in Firebase Console → Authentication → Settings → Authorized domains.": {
+    "vi": "Tên miền chưa được cho phép. Thêm tại Firebase Console → Authentication → Settings → Authorized domains.",
+    "zh": "此域名尚未获得授权。请在Firebase Console → Authentication → Settings → Authorized domains中添加。",
+    "ko": "이 도메인은 승인되지 않았습니다. Firebase Console → Authentication → Settings → Authorized domains에 추가하세요."
+  },
+  "Your browser blocked the popup. Allow popups for this site and try again.": {
+    "vi": "Trình duyệt chặn cửa sổ bật lên. Cho phép cửa sổ bật lên cho trang này rồi thử lại.",
+    "zh": "浏览器阻止了弹出窗口。请允许此网站弹出窗口后重试。",
+    "ko": "브라우저가 팝업을 차단했습니다. 이 사이트의 팝업을 허용한 후 다시 시도하세요."
+  },
+  "You are offline. Your progress is still saved on this device. Try signing in again later.": {
+    "vi": "Bạn đang ngoại tuyến. Tiến độ vẫn được lưu trên thiết bị này. Hãy thử đăng nhập lại sau.",
+    "zh": "您已离线。学习进度仍保存在此设备上。请稍后重新登录。",
+    "ko": "오프라인 상태입니다. 학습 진도는 이 기기에 저장됩니다. 나중에 다시 로그인하세요."
+  },
+  "Sign-in failed.": {
+    "vi": "Đăng nhập thất bại.",
+    "zh": "登录失败。",
+    "ko": "로그인에 실패했습니다."
+  },
+  "Your browser blocked pronunciation. Check whether this tab is muted.": {
+    "vi": "Trình duyệt chặn phát âm. Kiểm tra xem tab này có bị tắt tiếng không.",
+    "zh": "浏览器阻止了发音播放。请检查此标签页是否被静音。",
+    "ko": "브라우저가 발음을 차단했습니다. 이 탭이 음소거되어 있는지 확인하세요."
+  },
+  "No voice is available for this language on your device.": {
+    "vi": "Thiết bị không có giọng đọc cho ngôn ngữ này.",
+    "zh": "您的设备没有此语言的语音。",
+    "ko": "이 기기에 해당 언어의 음성이 없습니다."
+  },
+  "Your audio device is busy.": {
+    "vi": "Thiết bị âm thanh đang bận.",
+    "zh": "音频设备正忙。",
+    "ko": "오디오 장치가 사용 중입니다."
+  },
+  "Speech playback failed.": {
+    "vi": "Phát giọng đọc thất bại.",
+    "zh": "语音播放失败。",
+    "ko": "음성 재생에 실패했습니다."
+  },
+  "Speech playback is unavailable.": {
+    "vi": "Không thể phát giọng đọc.",
+    "zh": "语音播放不可用。",
+    "ko": "음성 재생을 사용할 수 없습니다."
+  },
+  "Speech playback is stuck. Reload the page and try again.": {
+    "vi": "Giọng đọc bị treo. Tải lại trang rồi thử lại.",
+    "zh": "语音播放卡住了。请刷新页面后重试。",
+    "ko": "음성 재생이 멈췄습니다. 페이지를 새로고침한 후 다시 시도하세요."
+  },
+  "Speech playback is unavailable and this word has no pronunciation file.": {
+    "vi": "Không thể phát giọng đọc và từ này chưa có tệp phát âm.",
+    "zh": "语音播放不可用，且此单词没有发音文件。",
+    "ko": "음성 재생을 사용할 수 없으며 이 단어의 발음 파일이 없습니다."
+  },
+  "Unable to pronounce ({0}).": {
+    "vi": "Không thể phát âm ({0}).",
+    "zh": "无法播放发音（{0}）。",
+    "ko": "발음을 재생할 수 없습니다 ({0})."
+  },
+  "Happy Vietnamese Women’s Day · October 20": {
+    "vi": "Chúc mừng Ngày Phụ nữ Việt Nam · 20 tháng 10",
+    "zh": "越南妇女节快乐 · 10月20日",
+    "ko": "베트남 여성의 날을 축하합니다 · 10월 20일"
+  },
+  "Wishing all women a wonderful day. A little studying is enough for today.": {
+    "vi": "Chúc các chị em một ngày thật đẹp. Hôm nay học một chút là đủ rồi.",
+    "zh": "祝所有女性度过美好的一天。今天学习一点就够了。",
+    "ko": "모든 여성분의 멋진 하루를 기원합니다. 오늘은 조금만 공부해도 충분해요."
+  },
+  "Practice {0}": {
+    "vi": "Luyện tập {0}",
+    "zh": "练习{0}",
+    "ko": "연습 {0}"
+  },
+  "Homework {0}": {
+    "vi": "Bài về nhà {0}",
+    "zh": "作业{0}",
+    "ko": "과제 {0}"
+  },
+  "Exercise {0}": {
+    "vi": "Bài tập {0}",
+    "zh": "练习{0}",
+    "ko": "연습 {0}"
+  },
+  "File {0}": {
+    "vi": "Tệp {0}",
+    "zh": "文件{0}",
+    "ko": "파일 {0}"
+  },
+  "Mini test Part {0}": {
+    "vi": "Bài kiểm tra ngắn Phần {0}",
+    "zh": "第{0}部分小测验",
+    "ko": "파트 {0} 미니 시험"
+  },
+  "Types of clothes": {
+    "vi": "Các loại trang phục",
+    "zh": "服装类型",
+    "ko": "의류 종류"
+  },
+  "Positions": {
+    "vi": "Vị trí",
+    "zh": "位置",
+    "ko": "위치"
+  },
+  "Locations": {
+    "vi": "Địa điểm",
+    "zh": "地点",
+    "ko": "장소"
+  },
+  "Check-up: Distinguish between the types of verbs in the following sentences": {
+    "vi": "Kiểm tra: phân biệt các loại động từ trong các câu sau",
+    "zh": "检查：区分以下句子中的动词类型",
+    "ko": "확인: 다음 문장에서 동사 유형을 구분하세요"
+  },
+  "Homework — Exercise 1": {
+    "vi": "Bài về nhà — Bài tập 1",
+    "zh": "作业 — 练习1",
+    "ko": "과제 — 연습 1"
+  },
+  "Homework — Exercise 2": {
+    "vi": "Bài về nhà — Bài tập 2",
+    "zh": "作业 — 练习2",
+    "ko": "과제 — 연습 2"
+  },
+  "Homework — Exercise 3": {
+    "vi": "Bài về nhà — Bài tập 3",
+    "zh": "作业 — 练习3",
+    "ko": "과제 — 연습 3"
+  },
+  "Exercise 2A — Track 03-02": {
+    "vi": "Bài tập 2A — Bản ghi 03-02",
+    "zh": "练习2A — 音轨03-02",
+    "ko": "연습 2A — 음원 03-02"
+  },
+  "Exercise 2B — Track 03-03": {
+    "vi": "Bài tập 2B — Bản ghi 03-03",
+    "zh": "练习2B — 音轨03-03",
+    "ko": "연습 2B — 음원 03-03"
+  },
+  "Exercise 3A — Track 04-02": {
+    "vi": "Bài tập 3A — Bản ghi 04-02",
+    "zh": "练习3A — 音轨04-02",
+    "ko": "연습 3A — 음원 04-02"
+  },
+  "Exercise 3B — Track 04-03": {
+    "vi": "Bài tập 3B — Bản ghi 04-03",
+    "zh": "练习3B — 音轨04-03",
+    "ko": "연습 3B — 음원 04-03"
+  },
+  "Exercise 4A — Track 04-05": {
+    "vi": "Bài tập 4A — Bản ghi 04-05",
+    "zh": "练习4A — 音轨04-05",
+    "ko": "연습 4A — 음원 04-05"
+  },
+  "Exercise 4B — Track 04-06": {
+    "vi": "Bài tập 4B — Bản ghi 04-06",
+    "zh": "练习4B — 音轨04-06",
+    "ko": "연습 4B — 음원 04-06"
+  },
+  "Part 2 – Questions & Responses": {
+    "vi": "Phần 2 – Hỏi và đáp",
+    "zh": "第2部分 – 问答",
+    "ko": "파트 2 – 질의응답"
+  },
+  "I. WHO question": {
+    "vi": "I. Câu hỏi WHO",
+    "zh": "I. WHO问句",
+    "ko": "I. WHO 질문"
+  },
+  "II. WHERE question": {
+    "vi": "II. Câu hỏi WHERE",
+    "zh": "II. WHERE问句",
+    "ko": "II. WHERE 질문"
+  },
+  "III. WHEN question": {
+    "vi": "III. Câu hỏi WHEN",
+    "zh": "III. WHEN问句",
+    "ko": "III. WHEN 질문"
+  },
+  "I. WHAT question": {
+    "vi": "I. Câu hỏi WHAT",
+    "zh": "I. WHAT问句",
+    "ko": "I. WHAT 질문"
+  },
+  "II. HOW question": {
+    "vi": "II. Câu hỏi HOW",
+    "zh": "II. HOW问句",
+    "ko": "II. HOW 질문"
+  },
+  "III. WHY question": {
+    "vi": "III. Câu hỏi WHY",
+    "zh": "III. WHY问句",
+    "ko": "III. WHY 질문"
+  },
+  "Practice — File 6.1 (Who)": {
+    "vi": "Luyện tập — Tệp 6.1 (Who)",
+    "zh": "练习 — 文件6.1（Who）",
+    "ko": "연습 — 파일 6.1 (Who)"
+  },
+  "Practice — File 6.2 (Where)": {
+    "vi": "Luyện tập — Tệp 6.2 (Where)",
+    "zh": "练习 — 文件6.2（Where）",
+    "ko": "연습 — 파일 6.2 (Where)"
+  },
+  "Practice — File 6.3 (When)": {
+    "vi": "Luyện tập — Tệp 6.3 (When)",
+    "zh": "练习 — 文件6.3（When）",
+    "ko": "연습 — 파일 6.3 (When)"
+  },
+  "Practice — File 7.1 (What)": {
+    "vi": "Luyện tập — Tệp 7.1 (What)",
+    "zh": "练习 — 文件7.1（What）",
+    "ko": "연습 — 파일 7.1 (What)"
+  },
+  "Practice — File 7.2 (How)": {
+    "vi": "Luyện tập — Tệp 7.2 (How)",
+    "zh": "练习 — 文件7.2（How）",
+    "ko": "연습 — 파일 7.2 (How)"
+  },
+  "Practice — File 7.3 (Why)": {
+    "vi": "Luyện tập — Tệp 7.3 (Why)",
+    "zh": "练习 — 文件7.3（Why）",
+    "ko": "연습 — 파일 7.3 (Why)"
+  },
+  "TEST {0}": {
+    "vi": "ĐỀ {0}",
+    "zh": "测试{0}",
+    "ko": "시험 {0}"
+  },
+  "Homework — Exercise 2: TEST 7": {
+    "vi": "Bài về nhà — Bài tập 2: ĐỀ 7",
+    "zh": "作业 — 练习2：测试7",
+    "ko": "과제 — 연습 2: 시험 7"
+  },
+  "Homework — Exercise 2: TEST 8": {
+    "vi": "Bài về nhà — Bài tập 2: ĐỀ 8",
+    "zh": "作业 — 练习2：测试8",
+    "ko": "과제 — 연습 2: 시험 8"
+  },
+  "Practice — WHICH / Choice questions": {
+    "vi": "Luyện tập — WHICH / Câu hỏi lựa chọn",
+    "zh": "练习 — WHICH / 选择问句",
+    "ko": "연습 — WHICH / 선택 의문문"
+  },
+  "Practice — YES / NO questions": {
+    "vi": "Luyện tập — Câu hỏi YES / NO",
+    "zh": "练习 — YES / NO问句",
+    "ko": "연습 — YES / NO 질문"
+  },
+  "Practice 1 — Embedded questions": {
+    "vi": "Luyện tập 1 — Câu hỏi kết hợp",
+    "zh": "练习1 — 嵌入式问句",
+    "ko": "연습 1 — 간접 의문문"
+  },
+  "Practice 2 — Statement": {
+    "vi": "Luyện tập 2 — Câu trần thuật",
+    "zh": "练习2 — 陈述句",
+    "ko": "연습 2 — 평서문"
+  },
+  "Practice 3 — Indirect responses": {
+    "vi": "Luyện tập 3 — Phản hồi gián tiếp",
+    "zh": "练习3 — 间接回应",
+    "ko": "연습 3 — 간접 응답"
+  },
+  "Choose one best answer for each question and translate the whole sentence": {
+    "vi": "Chọn đáp án đúng nhất cho mỗi câu và dịch cả câu",
+    "zh": "为每道题选择最佳答案并翻译完整句子",
+    "ko": "각 문항의 가장 적절한 답을 선택하고 전체 문장을 번역하세요"
+  },
+  "Leaderboard access is not enabled. Publish firestore.rules in Firebase Console.": {
+    "vi": "Chưa bật truy cập bảng xếp hạng. Xuất bản firestore.rules trong Firebase Console.",
+    "zh": "尚未启用排行榜访问。请在Firebase Console中发布firestore.rules。",
+    "ko": "순위표 접근이 활성화되지 않았습니다. Firebase Console에서 firestore.rules를 게시하세요."
+  },
+  "Unable to load the leaderboard. Check your connection.": {
+    "vi": "Không thể tải bảng xếp hạng. Hãy kiểm tra kết nối.",
+    "zh": "无法加载排行榜。请检查网络连接。",
+    "ko": "순위표를 불러올 수 없습니다. 연결을 확인하세요."
+  }
+}

@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useEffect } from 'react';
 
 /**
@@ -9,6 +10,7 @@ import { useEffect } from 'react';
  * ở dưới, nút đóng phải nằm trong tầm với.
  */
 export function Modal({ open, onClose, title, children }) {
+  const t = useTranslation();
   useEffect(() => {
     if (!open) return undefined;
 
@@ -34,12 +36,12 @@ export function Modal({ open, onClose, title, children }) {
         className="modal"
         role="dialog"
         aria-modal="true"
-        aria-label={title}
+        aria-label={t(title)}
         onClick={(e) => e.stopPropagation()}
       >
         <header className="modal-head">
-          <strong>{title}</strong>
-          <button type="button" className="icon-btn" onClick={onClose} aria-label="Close">
+          <strong>{t(title)}</strong>
+          <button type="button" className="icon-btn" onClick={onClose} aria-label={t('Close')}>
             ✕
           </button>
         </header>

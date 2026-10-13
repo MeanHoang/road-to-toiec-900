@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useState } from 'react';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
@@ -12,6 +13,7 @@ import { isMarkWrong, LABELS } from './marks';
  * người học đang trỏ vào cụm nào, nó chỉ cần biết nhãn cuối cùng.
  */
 export function TokenRow({ question, marks, checked, onAssign }) {
+  const t = useTranslation();
   const [sel, setSel] = useState(null);
 
   const assign = (label) => {
@@ -49,18 +51,18 @@ export function TokenRow({ question, marks, checked, onAssign }) {
       {!checked && (
         <div className="row" style={{ marginTop: 'var(--space-4)' }}>
           {sel == null ? (
-            <span className="caption">Select a phrase above to label it</span>
+            <span className="caption">{t('Select a phrase above to label it')}</span>
           ) : (
             <>
-              <span className="caption">Label &ldquo;{question.tokens[sel]}&rdquo;:</span>
+              <span className="caption">{t('Label “')}{question.tokens[sel]}&rdquo;:</span>
               {LABELS.map((l) => (
                 <Button key={l.key} size="sm" onClick={() => assign(l.key)}>
                   <Badge tone={l.tone}>{l.key}</Badge>
-                  {l.text}
+                  {t(l.text)}
                 </Button>
               ))}
               <Button variant="quiet" size="sm" onClick={() => assign(null)}>
-                Clear label
+                {t('Clear label')}
               </Button>
             </>
           )}

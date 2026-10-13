@@ -1,3 +1,6 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { LoadingBlock } from '@/shared/ui/molecules/LoadingBlock';
 import { NavCardSkeleton } from '@/shared/ui/molecules/NavCardSkeleton';
@@ -8,8 +11,9 @@ import { NavCardSkeleton } from '@/shared/ui/molecules/NavCardSkeleton';
  * đúng khoảng, nên lúc nội dung về mắt không phải tìm lại chỗ cũ.
  */
 export function LessonSkeleton({ blocks = 4 }) {
+  const t = useTranslation();
   return (
-    <LoadingBlock label="Loading lesson content">
+    <LoadingBlock label={t('Loading lesson content')}>
       <div className="page-head">
         <Skeleton width={90} height={13} />
         <Skeleton width="60%" height={34} style={{ margin: 'var(--space-3) 0' }} />

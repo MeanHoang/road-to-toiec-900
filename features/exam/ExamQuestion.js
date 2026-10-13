@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 // Một câu trong phòng thi. Mọi Part dùng chung component này vì khung của
 // chúng giống hệt nhau — chỉ phần trên là khác: tranh, hình minh hoạ, đoạn văn.
 //
@@ -15,17 +16,18 @@ import { Badge } from '@/shared/ui/atoms/Badge';
 import { partTitle } from './rules';
 
 export function ExamQuestion({ question, picked, onPick, review = false }) {
+  const t = useTranslation();
   return (
     <div className="exam-q">
       <span className="eyebrow">
-        Question {question.no} · {partTitle(question.part)}
+        {t('Question')} {question.no} · {t(partTitle(question.part))}
       </span>
 
       {question.passage && <Passage passage={question.passage} />}
 
       {question.graphic && (
         // eslint-disable-next-line @next/next/no-img-element
-        <img className="exam-graphic" src={question.graphic} alt="Illustration for the listening passage" />
+        <img className="exam-graphic" src={question.graphic} alt={t('Illustration for the listening passage')} />
       )}
 
       {question.image && (
@@ -45,8 +47,8 @@ export function ExamQuestion({ question, picked, onPick, review = false }) {
             <span>
               {question.options?.[letter] || question.script?.find((line) => line.text.startsWith(`${letter}. `))?.text.slice(3)}
             </span>
-            {letter === question.answer && <Badge tone="success">Correct answer</Badge>}
-            {picked === letter && <Badge tone="danger">Your answer</Badge>}
+            {letter === question.answer && <Badge tone="success">{t('Correct answer')}</Badge>}
+            {picked === letter && <Badge tone="danger">{t('Your answer')}</Badge>}
           </div>
         ) : (
           <button
@@ -79,6 +81,7 @@ export function ExamQuestion({ question, picked, onPick, review = false }) {
  * thì nút không bao giờ hiện lại.
  */
 export function Tape({ src, onEnded }) {
+  const t = useTranslation();
   const ref = useRef(null);
   const [blocked, setBlocked] = useState(false);
 
@@ -96,10 +99,10 @@ export function Tape({ src, onEnded }) {
       <audio ref={ref} src={src} preload="auto" onEnded={onEnded} />
       {blocked ? (
         <Button size="sm" variant="primary" onClick={start}>
-          Start audio
+          {t('Start audio')}
         </Button>
       ) : (
-        <span className="caption">Audio is playing — listen once, no seeking</span>
+        <span className="caption">{t('Audio is playing — listen once, no seeking')}</span>
       )}
     </div>
   );

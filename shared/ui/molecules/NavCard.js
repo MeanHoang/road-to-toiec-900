@@ -1,3 +1,7 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
+
 import Link from 'next/link';
 import { Progress } from '@/shared/ui/atoms/Progress';
 
@@ -6,14 +10,15 @@ import { Progress } from '@/shared/ui/atoms/Progress';
  * danh sách hoạt động trong một buổi. `lead` là số buổi hoặc icon.
  */
 export function NavCard({ href, lead, leadBrand, title, meta, trailing, percent, empty }) {
+  const t = useTranslation();
   const body = (
     <>
       <span className={`lead-slot ${leadBrand ? 'brand' : ''}`} aria-hidden="true">
         {lead}
       </span>
       <span className="body">
-        <span className="title">{title}</span>
-        <span className="meta">{meta}</span>
+        <span className="title">{t(title)}</span>
+        <span className="meta">{t(meta)}</span>
         {percent != null && <Progress percent={percent} size="sm" />}
       </span>
       {trailing ??

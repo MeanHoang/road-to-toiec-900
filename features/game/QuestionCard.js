@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
@@ -16,6 +17,7 @@ const DIR_TONE = { 'en-vi': 'brand', 'vi-en': 'accent', cloze: 'warning' };
 
 /** Một câu hỏi: đề, bốn phương án, và phần chữa sau khi đã chọn. */
 export function QuestionCard({ question, index, total, score, picked, onPick, onNext }) {
+  const t = useTranslation();
   const answered = Boolean(picked);
   const wrong = answered && picked.id !== question.word.id;
 
@@ -23,10 +25,10 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
     <Card>
       <div className="quiz-head">
         <span>
-          Question {index + 1} / {total}
+          {t('Question')} {index + 1} / {total}
         </span>
         <span className="row" style={{ gap: 'var(--space-3)' }}>
-          <Badge tone={DIR_TONE[question.dir]}>{DIR_LABEL[question.dir]}</Badge>
+          <Badge tone={DIR_TONE[question.dir]}>{t(DIR_LABEL[question.dir])}</Badge>
           <span>
             ✅ {score.right} &nbsp; ❌ {score.wrong}
           </span>
@@ -67,9 +69,9 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
 
       {wrong && (
         <div className="feedback feedback-error">
-          ❌ Incorrect. <strong>{question.word.word}</strong> = {question.word.meaningVi}
+          {t('❌ Incorrect.')} <strong>{question.word.word}</strong> = {question.word.meaningVi}
           <br />
-          This word is now marked as <strong>To learn</strong> in your flashcards and vocabulary list.
+          {t('This word is now marked as')} <strong>{t('To learn')}</strong> {t('in your flashcards and vocabulary list.')}
         </div>
       )}
 
@@ -77,7 +79,7 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
         <div className="row row-end" style={{ marginTop: 'var(--space-4)' }}>
           <Speak text={question.word.word} />
           <Button variant="primary" onClick={onNext}>
-            Next question →
+            {t('Next question →')}
           </Button>
         </div>
       )}

@@ -1,28 +1,31 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { StarToggle } from '@/shared/ui/atoms/StarToggle';
 import { Speak } from '@/shared/ui/molecules/Speak';
 
 /** Một dòng phiên âm: nhãn giọng, IPA, nút đọc. */
 function IpaLine({ label, ipa, word, lang, voice, src }) {
+  const t = useTranslation();
   if (!ipa) return null;
   return (
     <div className="ipa-line">
       <span className="ipa-label">{label}</span>
       <span className="ipa">{ipa}</span>
-      <Speak text={word} lang={lang} src={src} label={`Pronounce ${word} (${voice} English)`} />
+      <Speak text={word} lang={lang} src={src} label={t('Pronounce {0} ({1} English)', [word, t(voice)])} />
     </div>
   );
 }
 
 function StarCorner({ word, starred, onToggle }) {
+  const t = useTranslation();
   return (
     <StarToggle
       className="card-star"
       on={starred}
       onClick={onToggle}
-      label={starred ? `Unstar ${word}` : `Star ${word} for spelling review`}
+      label={starred ? t('Unstar {0}', [word]) : t('Star {0} for spelling review', [word])}
     />
   );
 }
@@ -35,6 +38,7 @@ function StarCorner({ word, starred, onToggle }) {
  * và nút loa nằm ngay trên mặt thẻ, bấm chúng mà thẻ lật theo thì rất khó chịu.
  */
 export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
+  const t = useTranslation();
   return (
     <div
       className={`flashcard ${flipped ? 'is-flipped' : ''}`}
@@ -68,7 +72,7 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
               src={card.voice?.us}
             />
           </div>
-          <div className="hint">recall the meaning · click to flip</div>
+          <div className="hint">{t('recall the meaning · click to flip')}</div>
         </div>
 
         <div className="flashcard-face back">

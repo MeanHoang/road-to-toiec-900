@@ -1,5 +1,6 @@
 'use client';
 
+import { useTranslation } from '@/features/language/LanguageProvider';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 // Nghe TOEIC ở 0.75× rất có ích, và câu nào nghe mãi không ra thì bò xuống 0.5×
@@ -29,6 +30,7 @@ const phut = (s) => {
  * người học không có cách nào nói với chính mình là cần quay lại chỗ nào.
  */
 export function AudioPlayer({ src, onEnded }) {
+  const t = useTranslation();
   const ref = useRef(null);
   const seekRef = useRef(null);
 
@@ -144,7 +146,7 @@ export function AudioPlayer({ src, onEnded }) {
         className="play"
         onClick={toggle}
         type="button"
-        aria-label={playing ? 'Pause' : 'Play'}
+        aria-label={playing ? t('Pause') : t('Play')}
       >
         {playing ? '❚❚' : '▶'}
       </button>
@@ -156,11 +158,11 @@ export function AudioPlayer({ src, onEnded }) {
           className={`seek ${keo ? 'is-dragging' : ''}`}
           role="slider"
           tabIndex={0}
-          aria-label="Playback position"
+          aria-label={t('Playback position')}
           aria-valuemin={0}
           aria-valuemax={Number.isFinite(dur) ? Math.round(dur) : 0}
           aria-valuenow={Math.round(cur)}
-          aria-valuetext={`${phut(cur)} of ${phut(dur)}`}
+          aria-valuetext={t('{0} of {1}', [phut(cur), phut(dur)])}
           onPointerDown={onPointerDown}
           onPointerMove={onPointerMove}
           onPointerUp={ketThucKeo}
@@ -187,8 +189,8 @@ export function AudioPlayer({ src, onEnded }) {
         className="rate-select"
         value={rate}
         onChange={(e) => changeRate(Number(e.target.value))}
-        aria-label="Playback speed"
-        title="Playback speed"
+        aria-label={t('Playback speed')}
+        title={t('Playback speed')}
       >
         {RATES.map((r) => (
           <option key={r} value={r}>
