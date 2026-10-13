@@ -3,6 +3,7 @@
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { MidAutumnScene } from '@/shared/ui/organisms/MidAutumnScene';
+import { WomenDayScene } from '@/shared/ui/organisms/WomenDayScene';
 import { ACTIVE_EVENT } from '@/shared/lib/event';
 import { NavDrawer } from './NavDrawer';
 
@@ -46,6 +47,7 @@ export function AppShell({ children }) {
       {/* Bật/tắt hiệu ứng lễ hội là quyết định của người viết code, ở
           shared/lib/event.js — không phải một công tắc cho người học. */}
       {ACTIVE_EVENT === 'mid-autumn' && <MidAutumnScene />}
+      {ACTIVE_EVENT === 'women-day' && <WomenDayScene />}
 
       <NavDrawer
         open={open}

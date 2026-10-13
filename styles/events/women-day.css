@@ -1,0 +1,413 @@
+/* =============================================================================
+   SỰ KIỆN — 20/10, NGÀY PHỤ NỮ VIỆT NAM
+   Bật/tắt bằng ACTIVE_EVENT trong shared/lib/event.js, không phải ở đây.
+
+   Khối 1-3  override token tier-2 (+ vài biến --ev-* cho lớp phủ)
+   Khối 4    nền: đưa lên <html> để lớp phủ z-index:-1 nằm đúng chỗ
+   Khối 5    lớp phủ Lottie (chỉ một tầng, nằm sau nội dung)
+
+   Vì sao phải viết ĐỦ BA khối token, giống hệt cách tokens.css làm: selector
+   `:root[data-event]` có specificity (0,2,0), HOÀ với `:root[data-theme='dark']`.
+   Nếu chỉ viết một khối [data-event] thì thứ tự import quyết định — và sự kiện
+   sẽ kéo cả dark mode về light. Giá trị dark bị lặp hai lần là cố ý.
+
+   Tên lớp khung (.event-overlay, .ev-veil) trùng với file Trung Thu,
+   nên ở đây MỌI selector đều phải đứng sau :root[data-event='women-day'].
+   globals.css nạp cả hai file; không gắn tiền tố thì file nạp sau đè file nạp
+   trước và Trung Thu hỏng ngay lúc ai đó bật lại. Mảnh riêng của sự kiện này
+   mang tiền tố .ev-wd- nên không cần lo chuyện đó, nhưng gắn hết cho đều tay.
+   ========================================================================== */
+
+/* -------------------------------------------------------------- 1. BAN NGÀY */
+/* "Thiệp giấy kem & hoa hồng nhung" — nền ấm, không phải trắng bệnh viện. */
+:root[data-event='women-day'],
+:root[data-event='women-day'][data-theme='light'] {
+  --bg: #fdf8f3;
+  --bg-subtle: #f8efe6;
+  --surface: #fffcf9;
+  --surface-raised: #ffffff;
+  --surface-sunken: #f3e8dd;
+
+  --border: #ecdccd;
+  --border-strong: #d8bfa9;
+
+  --text: #2a1a18;
+  --text-muted: #6a4b45;
+  /* Đậm hơn thang gốc một bậc (5,6:1 thay vì 4,5:1), cùng lý do như Trung Thu:
+     nhãn phụ là thứ duy nhất nằm trực tiếp trên --bg ở nửa trên màn hình, tức
+     là chỗ cánh hoa rơi qua. */
+  --text-subtle: #7d5c55;
+  --text-on-brand: #ffffff;
+
+  --brand: #b91c3c;
+  --brand-hover: #d32a4d;
+  --brand-surface: rgba(185, 28, 60, 0.1);
+  --brand-border: rgba(185, 28, 60, 0.32);
+
+  /* Tối thêm một bậc so với #7a6a3f. Chỗ khắt khe nhất là chữ 12px trên huy
+     hiệu `badge-accent` ở màn Lý thuyết — nền của nó là chính màu này pha 14%,
+     nên tương phản thấp hơn hẳn so với đặt trên thẻ trắng: đo được 4,33:1,
+     dưới ngưỡng AA 4,5. Bậc này cho 5,04:1 mà vẫn là vàng ô-liu. */
+  --accent: #6e5f36;
+  --accent-surface: rgba(110, 95, 54, 0.14);
+
+  /* --danger PHẢI dịch đi. Mặc định nó là #d94141, mà --brand của sự kiện này
+     là #b91c3c — hai thứ đỏ cách nhau có ΔE 23, tức là nút chính và nút xoá
+     trông như nhau. Đẩy cảnh báo sang đỏ-cam thì ΔE lên 61 và phân biệt được
+     ngay. Đây là lần duy nhất một sự kiện phải đụng vào màu trạng thái, và lý
+     do là màu thương hiệu của nó trùng chỗ với màu nguy hiểm. */
+  --danger: #c2410c;
+  --danger-surface: rgba(194, 65, 12, 0.1);
+
+  /* Hổ phách và lục của bảng gốc là màu LẠNH, pha cho nền xám xanh. Trên nền
+     kem chúng vừa lạc tông vừa không đọc nổi: đo trên nền huy hiệu "chưa học"
+     được 2,84:1 và 2,87:1, trong khi AA cần 4,5. Kéo cả hai tối thêm về phía
+     nâu đất, ra 4,79:1 và 5,56:1 — vừa hợp bảng màu vừa đạt chuẩn.
+     Ban đêm giữ nguyên hai màu gốc vì chúng đã đạt 7,3:1 trên nền mận — nhưng
+     vẫn PHẢI chép lại xuống hai khối dưới. Selector của khối này là
+     `:root[data-event='women-day']`, khớp cả khi đang bật nền tối, nên thiếu
+     dòng nào ở dưới là dòng đó của ban ngày rò xuống ban đêm. Đo được đúng một
+     lần như vậy: nút "Đã biết" ban đêm tụt còn 2,45:1. */
+  --warning: #8f5a04;
+  --warning-surface: rgba(143, 90, 4, 0.12);
+  --success: #0c6845;
+  --success-surface: rgba(12, 104, 69, 0.12);
+
+  --shadow-sm: 0 1px 2px rgba(74, 32, 28, 0.07);
+  --shadow-md: 0 2px 6px rgba(74, 32, 28, 0.08), 0 8px 20px rgba(74, 32, 28, 0.06);
+  --shadow-lg: 0 4px 12px rgba(74, 32, 28, 0.1), 0 18px 44px rgba(74, 32, 28, 0.09);
+
+  --ring: 0 0 0 3px rgba(185, 28, 60, 0.38);
+  --photo-bg: #ffffff;
+  color-scheme: light;
+
+  /* --- biến riêng của lớp phủ --- */
+  /* Độ mờ của hai mảnh nằm ở đáy. Ban ngày để nguyên; ban đêm phải hạ xuống vì
+     giấy gói màu kem trên nền mận gần như phát sáng, kéo mắt về góc dưới trái
+     mạnh hơn cả tiêu đề trang. */
+  --ev-piece-op: 1;
+  --ev-veil-0: rgba(253, 248, 243, 0);
+  --ev-scrim: rgba(42, 26, 24, 0.5);
+}
+
+/* ------------------------------------------------- 2. BAN ĐÊM theo hệ điều hành */
+@media (prefers-color-scheme: dark) {
+  :root[data-event='women-day']:not([data-theme='light']) {
+    --bg: #1a1214;
+    --bg-subtle: #22181b;
+    --surface: #261b1f;
+    --surface-raised: #302329;
+    --surface-sunken: #130d0f;
+
+    --border: #3e2d33;
+    --border-strong: #594149;
+
+    --text: #f7ebe8;
+    --text-muted: #c4a8a4;
+    --text-subtle: #9c8481;
+    --text-on-brand: #2d0710;
+
+    --brand: #ff8a9e;
+    --brand-hover: #ffa8b7;
+    --brand-surface: rgba(255, 138, 158, 0.14);
+    --brand-border: rgba(255, 138, 158, 0.34);
+
+    /* Ô-liu sáng hẳn lên: #7a6a3f trên nền #1a1214 chỉ đạt 2,3:1, không đọc nổi. */
+    --accent: #cdbb7a;
+    --accent-surface: rgba(205, 187, 122, 0.16);
+
+    /* Ban đêm còn sát hơn ban ngày: --danger mặc định #ff7a7a và --brand
+       #ff8a9e gần như một màu. Cam thì tách hẳn. */
+    --danger: #fb923c;
+    --danger-surface: rgba(251, 146, 60, 0.13);
+    --warning: var(--amber-400);
+    --warning-surface: rgba(255, 184, 67, 0.13);
+    --success: var(--green-400);
+    --success-surface: rgba(61, 220, 151, 0.13);
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.45);
+    --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.5);
+    --shadow-lg: 0 8px 34px rgba(0, 0, 0, 0.6);
+
+    --ring: 0 0 0 3px rgba(255, 138, 158, 0.4);
+    --photo-bg: #f8f1ec;
+    color-scheme: dark;
+
+    --ev-piece-op: 0.42;
+    --ev-veil-0: rgba(26, 18, 20, 0);
+    --ev-scrim: rgba(14, 8, 10, 0.62);
+  }
+}
+
+/* ------------------------------------------------------ 3. BAN ĐÊM ép cứng */
+/* Lặp nguyên khối 2. Cố ý — tokens.css cũng lặp y hệt như vậy, và nhất quán với
+   file đang có quan trọng hơn DRY ở chỗ này. */
+:root[data-event='women-day'][data-theme='dark'] {
+  --bg: #1a1214;
+  --bg-subtle: #22181b;
+  --surface: #261b1f;
+  --surface-raised: #302329;
+  --surface-sunken: #130d0f;
+  --border: #3e2d33;
+  --border-strong: #594149;
+  --text: #f7ebe8;
+  --text-muted: #c4a8a4;
+  --text-subtle: #9c8481;
+  --text-on-brand: #2d0710;
+  --brand: #ff8a9e;
+  --brand-hover: #ffa8b7;
+  --brand-surface: rgba(255, 138, 158, 0.14);
+  --brand-border: rgba(255, 138, 158, 0.34);
+  --accent: #cdbb7a;
+  --accent-surface: rgba(205, 187, 122, 0.16);
+  --danger: #fb923c;
+  --danger-surface: rgba(251, 146, 60, 0.13);
+  --warning: var(--amber-400);
+  --warning-surface: rgba(255, 184, 67, 0.13);
+  --success: var(--green-400);
+  --success-surface: rgba(61, 220, 151, 0.13);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.45);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 34px rgba(0, 0, 0, 0.6);
+  --ring: 0 0 0 3px rgba(255, 138, 158, 0.4);
+  --photo-bg: #f8f1ec;
+  color-scheme: dark;
+  --ev-piece-op: 0.42;
+  --ev-veil-0: rgba(26, 18, 20, 0);
+  --ev-scrim: rgba(14, 8, 10, 0.62);
+}
+
+/* ----------------------------------------------------------------- 4. NỀN */
+/* Đưa nền lên <html> để phần tử z-index:-1 nằm giữa nền và nội dung.
+   base.css đặt nền trên <body>; theo spec CSS thì nền của body được truyền lên
+   canvas nên z-index:-1 vẫn hiện — nhưng đó là một luật tinh vi, không đáng
+   đem cả hiệu ứng ra cược. Khai báo tường minh thì chắc chắn. */
+:root[data-event='women-day'] {
+  background: var(--bg);
+}
+:root[data-event='women-day'] body {
+  background: transparent;
+}
+
+/* Ngăn kéo NHÌN XUYÊN sang cảnh nền. Cánh hoa rơi ngay sau chữ điều hướng thì
+   hết đường đọc; làm mờ hậu cảnh biến cảnh vật thành một mảng màu êm. Trình
+   duyệt không hỗ trợ `backdrop-filter` thì vẫn còn nền đục 82%, đọc tốt. */
+:root[data-event='women-day'] .drawer {
+  background: color-mix(in srgb, var(--surface) 82%, transparent);
+  backdrop-filter: blur(16px) saturate(1.1);
+}
+
+/* Hai lớp mờ của repo dùng hex xanh-lạnh thô, lạc quẻ trên bảng màu ấm. */
+:root[data-event='women-day'] .drawer-scrim,
+:root[data-event='women-day'] .modal-scrim {
+  background: var(--ev-scrim);
+}
+
+/* ================================================= 5. LỚP PHỦ / CẢNH VẬT === */
+/* z-index ÂM, không phải dương: đặt z-index dương lên .shell-main sẽ biến nó
+   thành stacking context, mà Modal không dùng portal nên .modal-scrim (60) bị
+   nhốt bên trong và .drawer (40) — vốn là anh em ở ngoài — đè lên trên.
+   z-index:-1 không tạo stacking context ở đâu cả: hộp thoại, thanh dính và thẻ
+   lật 3D đều nguyên vẹn. */
+:root[data-event='women-day'] .event-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+  animation: ev-wd-fade-in 520ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+/* Mọi mảnh đều định vị tuyệt đối và chỉ động bằng transform/opacity. */
+:root[data-event='women-day'] .event-overlay > div {
+  position: absolute;
+}
+
+/* --- cánh hoa rơi -------------------------------------------------------- */
+/* Vị trí / cỡ / nhịp truyền vào bằng CSS custom property inline từ
+   WomenDayScene, nên 22 cánh hoa dùng chung ĐÚNG MỘT rule và một @keyframes
+   chứ không phải 22 khối CSS gần giống nhau.
+   RƠI XUỐNG chứ không bay lên — đó là khác biệt duy nhất về chuyển động so với
+   đèn lồng Trung Thu, nên `top` âm thay vì `bottom` âm. */
+:root[data-event='women-day'] .ev-wd-petal {
+  left: var(--x);
+  top: -18lvh;
+  width: var(--w);
+  height: var(--w);
+  opacity: var(--op);
+  animation: ev-wd-fall var(--dur) linear var(--delay) infinite;
+}
+
+/* --- bó hoa và bông hồng: hai mép dưới, dưới tầm chữ --------------------- */
+:root[data-event='women-day'] .ev-wd-bouquet {
+  left: 1vw;
+  bottom: 4vh;
+  width: 260px;
+  height: 260px;
+  opacity: var(--ev-piece-op);
+  animation: ev-wd-sway 7.5s ease-in-out infinite alternate;
+}
+:root[data-event='women-day'] .ev-wd-rose {
+  right: 2vw;
+  bottom: 2vh;
+  width: 200px;
+  height: 200px;
+  opacity: calc(var(--ev-piece-op) * 0.95);
+  animation: ev-wd-sway 9s ease-in-out -3s infinite alternate;
+}
+
+/* --- hộp quà, hai mép, trên tầm bó hoa ----------------------------------- */
+:root[data-event='women-day'] .ev-wd-gift-1 {
+  left: 5vw;
+  top: 17vh;
+  width: 96px;
+  height: 96px;
+  opacity: 0.85;
+  animation: ev-wd-flit 6.4s ease-in-out infinite alternate;
+}
+:root[data-event='women-day'] .ev-wd-gift-2 {
+  right: 6vw;
+  top: 31vh;
+  width: 74px;
+  height: 74px;
+  opacity: 0.7;
+  animation: ev-wd-flit 8.2s ease-in-out -2.5s infinite alternate;
+}
+
+/* Dải chữ ở giữa tan vào đúng --bg phẳng, nơi có danh sách buổi, bảng từ vựng
+   và ô nhập chính tả. Dùng rgba trong suốt CÙNG MÀU --bg chứ không dùng
+   `transparent` — `transparent` nội suy qua đen và để lại một vệt xám.
+   NGƯỢC chiều so với Trung Thu: ở đó cảnh sống ở nửa trên (trăng, đèn bay lên)
+   nên màn tan dần xuống dưới. Ở đây cánh hoa rơi kín cả màn, nên màn đậm nhất
+   ở GIỮA — chỗ có chữ — và nhạt ở hai đầu, nơi chỉ có hoa lá. */
+:root[data-event='women-day'] .ev-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    var(--ev-veil-0) 0%,
+    var(--bg) 38%,
+    var(--bg) 74%,
+    var(--ev-veil-0) 100%
+  );
+}
+
+@keyframes ev-wd-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+/* Rơi đều, vừa rơi vừa xoay và dạt ngang — một cánh hoa rơi thẳng đứng trông
+   như hòn đá. Một phần tử chỉ có MỘT thuộc tính `transform`, nên dạt ngang,
+   rơi xuống và xoay phải gộp chung vào đây. */
+@keyframes ev-wd-fall {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  25% {
+    transform: translate3d(4vw, 33lvh, 0) rotate(70deg);
+  }
+  50% {
+    transform: translate3d(-2vw, 66lvh, 0) rotate(160deg);
+  }
+  75% {
+    transform: translate3d(3vw, 99lvh, 0) rotate(245deg);
+  }
+  100% {
+    transform: translate3d(0, 132lvh, 0) rotate(340deg);
+  }
+}
+@keyframes ev-wd-sway {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(-1.5deg);
+  }
+  100% {
+    transform: translate3d(0, -9px, 0) rotate(1.5deg);
+  }
+}
+@keyframes ev-wd-flit {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(14px, -22px, 0);
+  }
+}
+/* base.css chạy animation trong 0,01ms chứ KHÔNG tắt, tức mọi thứ đỗ lại ở
+   khung hình cuối — cánh hoa đỗ ở 132lvh là rơi khỏi màn hình, mất sạch.
+   Giảm chuyển động là bớt động, không phải xoá nội dung. Khối này thắng nhờ
+   specificity (.event-overlay > div = (0,1,0) > * = (0,0,0)) nên PHẢI đứng sau
+   khối đặt vị trí ở trên. */
+@media (prefers-reduced-motion: reduce) {
+  :root[data-event='women-day'] .event-overlay > div {
+    animation: none !important;
+  }
+  /* Rải hoa ra năm độ cao khác nhau thay vì để chúng đỗ thành một hàng ngang. */
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(5n + 1) {
+    transform: translate3d(2vw, 34lvh, 0) rotate(28deg);
+  }
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(5n + 2) {
+    transform: translate3d(-1vw, 58lvh, 0) rotate(-40deg);
+  }
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(5n + 3) {
+    transform: translate3d(3vw, 80lvh, 0) rotate(15deg);
+  }
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(5n + 4) {
+    transform: translate3d(-2vw, 45lvh, 0) rotate(-12deg);
+  }
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(5n) {
+    transform: translate3d(1vw, 68lvh, 0) rotate(52deg);
+  }
+}
+
+/* --------------------------------------------------- 6. MÀN NHỎ / DỌC ===== */
+@media (max-width: 900px) {
+  :root[data-event='women-day'] .ev-wd-bouquet {
+    width: 180px;
+    height: 180px;
+  }
+  :root[data-event='women-day'] .ev-wd-rose {
+    width: 140px;
+    height: 140px;
+  }
+  :root[data-event='women-day'] .ev-wd-gift-1 {
+    width: 74px;
+    height: 74px;
+  }
+  :root[data-event='women-day'] .ev-wd-gift-2 {
+    width: 58px;
+    height: 58px;
+  }
+}
+
+@media (max-width: 640px) {
+  /* Bó hoa ở đáy trái đè đúng chỗ nút và danh sách trên màn hẹp — bỏ nó, giữ
+     bông hồng bên phải để góc dưới vẫn có một mảnh. */
+  :root[data-event='women-day'] .ev-wd-bouquet {
+    display: none;
+  }
+  :root[data-event='women-day'] .ev-wd-rose {
+    width: 118px;
+    height: 118px;
+    right: 0;
+  }
+  /* Bỏ CẢ HAI hộp quà. Màn rộng thì chúng nấp ở hai mép ngoài cột chữ; màn
+     hẹp thì cột chữ chiếm hết bề ngang nên không còn mép nào để nấp, và hộp
+     quà rơi thẳng vào tiêu đề trang. Nấp sau chữ vẫn đọc được, nhưng đó là
+     một mảng màu ngay chỗ mắt nhìn đầu tiên. */
+  :root[data-event='women-day'] .ev-wd-gift-1,
+  :root[data-event='women-day'] .ev-wd-gift-2 {
+    display: none;
+  }
+  /* Màn hẹp: bỏ bớt hoa cho đỡ rối, và thu nhỏ số còn lại. */
+  :root[data-event='women-day'] .ev-wd-petal:nth-child(odd) {
+    display: none;
+  }
+  :root[data-event='women-day'] .ev-wd-petal {
+    width: calc(var(--w) * 0.66);
+    height: calc(var(--w) * 0.66);
+  }
+}

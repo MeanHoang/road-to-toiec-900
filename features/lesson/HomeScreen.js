@@ -3,6 +3,7 @@
 import { AccountBar } from '@/features/auth/AccountBar';
 import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
 import { Callout } from '@/shared/ui/atoms/Callout';
+import { EventGreeting } from '@/shared/ui/atoms/EventGreeting';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { LoadingBlock } from '@/shared/ui/molecules/LoadingBlock';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
@@ -41,6 +42,8 @@ export function HomeScreen() {
           <Stat value={totalAudio} label="câu nghe" loading={loading} />
         </div>
       </div>
+
+      <EventGreeting />
 
       <AccountBar trailing={<LeaderboardButton />} />
 

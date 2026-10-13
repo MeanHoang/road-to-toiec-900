@@ -97,6 +97,30 @@
   border-left-color: var(--warning);
   background: var(--warning-surface);
 }
+/* Dải chúc của sự kiện. Chỉ đọc token nên bảng màu của sự kiện đang chạy tự
+   lo phần màu — không có hex nào ở đây, và một sự kiện mới không phải thêm CSS.
+   Viền quanh chứ không phải viền trái như .callout: nó là một lời chúc đứng
+   riêng, không phải chú thích đi kèm đoạn nào. */
+.event-greeting {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  border: 1px solid var(--brand-border);
+  background: var(--brand-surface);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  margin-bottom: var(--space-5);
+  text-align: center;
+}
+.event-greeting b {
+  color: var(--brand);
+  font-size: var(--text-lg);
+}
+.event-greeting span {
+  color: var(--text-muted);
+  font-size: var(--text-sm);
+  line-height: var(--leading-snug);
+}
 .notice {
   display: flex;
   gap: var(--space-2);

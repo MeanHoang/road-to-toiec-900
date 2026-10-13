@@ -1,7 +1,12 @@
 /* Điểm vào duy nhất của style. Thứ tự import là có chủ đích:
    token → sự kiện → base → component. Component chỉ đọc token, không định nghĩa
-   token; file sự kiện chỉ ghi đè bảng alias tier-2, đặt ngay sau tokens.css. */
+   token; file sự kiện chỉ ghi đè bảng alias tier-2, đặt ngay sau tokens.css.
+
+   Mọi file sự kiện đều được nạp, kể cả sự kiện đang tắt: chúng chỉ khớp khi
+   <html data-event> mang đúng tên, nên file nằm đó cũng không làm gì cả. Nhờ
+   vậy bật lại một sự kiện cũ chỉ là sửa ACTIVE_EVENT, không phải sửa cả đây. */
 @import '../styles/tokens.css';
 @import '../styles/events/mid-autumn.css';
+@import '../styles/events/women-day.css';
 @import '../styles/base.css';
 @import '../styles/components.css';
