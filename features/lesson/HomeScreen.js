@@ -79,15 +79,11 @@ export function HomeScreen() {
                 aria-pressed={active?.phase === group.phase}
                 onClick={() => setSelectedPhase(group.phase)}
               >
-                <span className="home-phase-top">
-                  <b>{t('Phase {0}', [group.phase])}</b>
-                  {group.phase === latest.phase && <span className="badge badge-brand">{t('Latest phase')}</span>}
-                </span>
+                <b>{t('Phase {0}', [group.phase])}</b>
                 <span className="caption">
                   {group.days.length === 1
                     ? t('Lesson {0}', [group.days[0].no])
                     : t('Lessons {0}–{1}', [group.days[0].no, group.days.at(-1).no])}
-                  {group.days.length > 1 && <> · {group.days.length} {t('lessons')}</>}
                 </span>
               </button>
             ))}

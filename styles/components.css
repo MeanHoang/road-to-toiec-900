@@ -2416,21 +2416,25 @@ th {
 }
 
 .home-phases {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: var(--space-3);
-  margin-top: var(--space-5);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-3);
 }
 .home-phase {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
   gap: var(--space-2);
-  padding: var(--space-5);
+  min-height: 44px;
+  max-width: 100%;
+  padding: var(--space-2) var(--space-3);
   border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-md);
   background: var(--surface);
   color: var(--text);
   font: inherit;
+  font-size: var(--text-sm);
   text-align: left;
   cursor: pointer;
 }
@@ -2440,12 +2444,6 @@ th {
 .home-phase.is-active {
   border-color: var(--brand);
   background: var(--brand-surface);
-}
-.home-phase-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: var(--space-2);
 }
 .home-phase:focus-visible {
   outline: 2px solid var(--brand);
