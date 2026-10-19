@@ -12,6 +12,7 @@ import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 export function ExerciseIndexScreen({ slug, day }) {
   const t = useTranslation();
   const { day: state, ready } = useProgress(slug);
+  const reading = day.exercises.some((set) => set.part === 7);
   const aiKeyed = day.exercises.some((set) =>
     set.questions.some((q) => q.source?.answer === 'ai'),
   );
@@ -20,8 +21,10 @@ export function ExerciseIndexScreen({ slug, day }) {
     <>
       <PageHeader
         eyebrow={day.title}
-        title={t('Grammar quiz')}
-        subtitle={t('{0} sets · {1} questions · choose the correct answer to complete each sentence', [day.exercises.length, countExercises(day)])}
+        title={reading ? t('Reading practice') : t('Grammar quiz')}
+        subtitle={reading
+          ? t('{0} sets · {1} reading questions', [day.exercises.length, countExercises(day)])
+          : t('{0} sets · {1} questions · choose the correct answer to complete each sentence', [day.exercises.length, countExercises(day)])}
       />
 
       <div className="stack">

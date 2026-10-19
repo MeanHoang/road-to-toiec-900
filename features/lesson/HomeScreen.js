@@ -1,6 +1,7 @@
 'use client';
 
 import { useTranslation } from '@/features/language/LanguageProvider';
+import { useState } from 'react';
 import { AccountBar } from '@/features/auth/AccountBar';
 import { ExamRoomButton } from '@/features/exam/ExamRoomButton';
 import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
@@ -13,6 +14,7 @@ import { NavCardSkeleton } from '@/shared/ui/molecules/NavCardSkeleton';
 import { DayRow } from './DayRow';
 import { countQuestions } from './stats';
 import { useDayList } from './useDayList';
+import { lessonPhases } from './phases';
 
 /**
  * Một con số ở đầu trang. Lúc chưa tải xong thì để ô trống chứ KHÔNG hiện 0 —
@@ -30,6 +32,10 @@ function Stat({ value, label, loading }) {
 export function HomeScreen() {
   const t = useTranslation();
   const { days, loading } = useDayList();
+  const [selectedPhase, setSelectedPhase] = useState(null);
+  const phases = lessonPhases(days);
+  const latest = phases.at(-1);
+  const active = phases.find((group) => group.phase === selectedPhase) || latest;
   const totalVocab = days.reduce((n, d) => n + d.vocabulary.length, 0);
   const totalAudio = days.reduce((n, d) => n + countQuestions(d), 0);
 
@@ -64,18 +70,42 @@ export function HomeScreen() {
         </LoadingBlock>
       ) : (
         <div className="stack">
-          {days.map((d) => (
-            <DayRow key={d.slug} day={d} />
-          ))}
+          <div className="home-phases" role="group" aria-label={t('Study phases')}>
+            {phases.map((group) => (
+              <button
+                key={group.phase}
+                type="button"
+                className={`home-phase ${active?.phase === group.phase ? 'is-active' : ''}`}
+                aria-pressed={active?.phase === group.phase}
+                onClick={() => setSelectedPhase(group.phase)}
+              >
+                <span className="home-phase-top">
+                  <b>{t('Phase {0}', [group.phase])}</b>
+                  {group.phase === latest.phase && <span className="badge badge-brand">{t('Latest phase')}</span>}
+                </span>
+                <span className="caption">
+                  {group.days.length === 1
+                    ? t('Lesson {0}', [group.days[0].no])
+                    : t('Lessons {0}–{1}', [group.days[0].no, group.days.at(-1).no])}
+                  {group.days.length > 1 && <> · {group.days.length} {t('lessons')}</>}
+                </span>
+              </button>
+            ))}
+          </div>
+
+          {active && <h2 className="home-phase-title">{t('Phase {0}', [active.phase])}</h2>}
+          {active?.days.map((d) => <DayRow key={d.slug} day={d} />)}
 
           {/* Thẻ "buổi tiếp theo" chỉ hiện khi đã biết có bao nhiêu buổi — lúc
               đang tải nó sẽ đánh số 01 rồi nhảy sang 02, trông như lỗi. */}
-          <NavCard
-            empty
-            lead={String(days.length + 1).padStart(2, '0')}
-            title={t('Next lesson')}
-            meta={t('Material not available yet')}
-          />
+          {active && active.phase === latest.phase && (
+            <NavCard
+              empty
+              lead={String(Math.max(...days.map((day) => day.no)) + 1).padStart(2, '0')}
+              title={t('Next lesson')}
+              meta={t('Material not available yet')}
+            />
+          )}
         </div>
       )}
 

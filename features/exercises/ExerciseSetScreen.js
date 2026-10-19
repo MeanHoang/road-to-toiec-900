@@ -96,6 +96,11 @@ function ChoiceCard({ item, saved, onAnswer }) {
   return (
     <Card>
       <div className="stack" style={{ gap: 'var(--space-4)' }}>
+        {item.passage?.text && (
+          <div className="exercise-passage" aria-label={t('Reading passage')}>
+            {item.passage.text}
+          </div>
+        )}
         <p style={{ fontSize: 'var(--text-lg)', lineHeight: 'var(--leading-snug)' }}>
           <strong>{item.no}.</strong> {item.text}
         </p>

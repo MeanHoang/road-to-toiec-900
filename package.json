@@ -18,6 +18,7 @@
     "test:exam": "node scripts/test-exam.mjs",
     "test:ui-language": "node scripts/test-ui-language.mjs",
     "test:i18n": "node scripts/test-i18n.mjs",
+    "test:lesson-phases": "node scripts/test-lesson-phases.mjs",
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs",
     "push-exam": "node scripts/push-exam.mjs"

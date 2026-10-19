@@ -153,7 +153,7 @@ async function validateDay(slug) {
 
         // Chỉ Part 1 có tranh đề bài; Part 2/3 không có tranh là đúng.
         const noImage = set.questions.filter((q) => !q.image).length;
-        if (noImage && (set.part || 1) === 1)
+        if (noImage && set.showPhoto !== false && (set.part || 1) === 1)
           warn(file, `${set.title}: ${noImage} câu chưa gán ảnh đề bài`);
         // Transcript giờ vừa là lời thoại vừa là ĐÁP ÁN để chấm bài chép —
         // thiếu nó thì bộ nào cũng không chấm được, không riêng bộ trắc nghiệm.

@@ -1,0 +1,280 @@
+{
+  "collection": "exercises",
+  "day": "day-10",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d10-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a job-offer letter",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d10-read-01",
+          "no": 1,
+          "text": "Why was the letter written?",
+          "options": {
+            "A": "To describe job qualifications",
+            "B": "To submit a job application",
+            "C": "To schedule a job interview",
+            "D": "To decline a job offer"
+          },
+          "answer": "D",
+          "explain": "Người viết đã nhận lời mời từ Chang & Associates nên viết thư từ chối công việc mà Briggs đề nghị.",
+          "passage": {
+            "text": "Herman Briggs\nBriggs, Salvatore & Jurasinski\n5000 South Fork Drive, Suite 325\nMelbourne, VIC 3205\n\nDear Mr. Briggs:\n\nIt was a pleasure meeting you and your associates at my interview last week. I was delighted to have the opportunity to discuss my legal experience and qualifications with you, and I was very pleased when I learned from you yesterday that the firm had voted to offer me a position as an associate. However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.\n\nAs I mentioned last week, I am extremely impressed with the case work that has been done by you and your partners in the field, and I regret I will not be able to join your team. My decision to accept another offer was largely due to my desire to work in Newcastle, where I have lived for the last ten years. Had distance not been a factor, I would have been happy to accept your offer.\n\nAgain, thank you for considering me for the position. I will be at both of the major patent policy conferences in Sydney and Auckland later this year, so I look forward to seeing you or your colleagues again in the near future.\n\nSincerely,\nAyesha Chandran"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-02",
+          "no": 2,
+          "text": "Where is Herman Briggs employed?",
+          "options": {
+            "A": "At a law firm",
+            "B": "At a medical clinic",
+            "C": "At an accounting firm",
+            "D": "At a government office"
+          },
+          "answer": "A",
+          "explain": "Thư nói đến kinh nghiệm pháp lý, vị trí associate và patent law, cho thấy đây là hãng luật.",
+          "passage": {
+            "text": "Herman Briggs\nBriggs, Salvatore & Jurasinski\n5000 South Fork Drive, Suite 325\nMelbourne, VIC 3205\n\nDear Mr. Briggs:\n\nIt was a pleasure meeting you and your associates at my interview last week. I was delighted to have the opportunity to discuss my legal experience and qualifications with you, and I was very pleased when I learned from you yesterday that the firm had voted to offer me a position as an associate. However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.\n\nAs I mentioned last week, I am extremely impressed with the case work that has been done by you and your partners in the field, and I regret I will not be able to join your team. My decision to accept another offer was largely due to my desire to work in Newcastle, where I have lived for the last ten years. Had distance not been a factor, I would have been happy to accept your offer.\n\nAgain, thank you for considering me for the position. I will be at both of the major patent policy conferences in Sydney and Auckland later this year, so I look forward to seeing you or your colleagues again in the near future.\n\nSincerely,\nAyesha Chandran"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-03",
+          "no": 3,
+          "text": "Where is Chang & Associates located?",
+          "options": {
+            "A": "In Auckland",
+            "B": "In Melbourne",
+            "C": "In Newcastle",
+            "D": "In Sydney"
+          },
+          "answer": "C",
+          "explain": "Người viết chọn Chang & Associates vì muốn làm việc tại Newcastle.",
+          "passage": {
+            "text": "Herman Briggs\nBriggs, Salvatore & Jurasinski\n5000 South Fork Drive, Suite 325\nMelbourne, VIC 3205\n\nDear Mr. Briggs:\n\nIt was a pleasure meeting you and your associates at my interview last week. I was delighted to have the opportunity to discuss my legal experience and qualifications with you, and I was very pleased when I learned from you yesterday that the firm had voted to offer me a position as an associate. However, I have decided to accept a previous offer from Chang & Associates, another firm that also specializes in patent law.\n\nAs I mentioned last week, I am extremely impressed with the case work that has been done by you and your partners in the field, and I regret I will not be able to join your team. My decision to accept another offer was largely due to my desire to work in Newcastle, where I have lived for the last ten years. Had distance not been a factor, I would have been happy to accept your offer.\n\nAgain, thank you for considering me for the position. I will be at both of the major patent policy conferences in Sydney and Auckland later this year, so I look forward to seeing you or your colleagues again in the near future.\n\nSincerely,\nAyesha Chandran"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a safety notice",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d10-read-04",
+          "no": 4,
+          "text": "What is the notice about?",
+          "options": {
+            "A": "Policies regarding protective items",
+            "B": "Ways of preparing work sites for inspection",
+            "C": "Designing new types of apparel",
+            "D": "Training work supervisors"
+          },
+          "answer": "A",
+          "explain": "Thông báo quy định cách sử dụng, thay thế và loại bỏ trang bị bảo hộ cá nhân.",
+          "passage": {
+            "text": "SAFETY REGULATIONS\nPersonal Protective Equipment (PPE)\n\nItems of personal protective equipment (PPE) such as face shields, safety glasses, safety shoes, and high-visibility vests should only be used if they are in good, undamaged condition. While the durability of PPE items varies from three months to two years, most items used by TBNC personnel remain in good condition for up to six months. TBNC routinely conducts inspections of every PPE item twice a year, but an item must be replaced as soon as it is torn or damaged, even if that occurs before one of the official inspections.\n\nWhenever you need to replace a PPE item, you should file a request for a new one with your supervisor. The supervisor will inquire about the nature of your work (nighttime work, repaving, maintenance work, etc.) to make sure you are being provided with the proper PPE item or items. Once you have received a replacement PPE item, you should dispose of the item that is being replaced in one of the specially designated bins. These are located in room 2B of the main office. Please do your part to maintain the company’s excellent safety record!"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-05",
+          "no": 5,
+          "text": "How often are inspections performed?",
+          "options": {
+            "A": "Every three months",
+            "B": "Every six months",
+            "C": "Every year",
+            "D": "Every two years"
+          },
+          "answer": "B",
+          "explain": "Twice a year nghĩa là hai lần mỗi năm, tương đương sáu tháng một lần.",
+          "passage": {
+            "text": "SAFETY REGULATIONS\nPersonal Protective Equipment (PPE)\n\nItems of personal protective equipment (PPE) such as face shields, safety glasses, safety shoes, and high-visibility vests should only be used if they are in good, undamaged condition. While the durability of PPE items varies from three months to two years, most items used by TBNC personnel remain in good condition for up to six months. TBNC routinely conducts inspections of every PPE item twice a year, but an item must be replaced as soon as it is torn or damaged, even if that occurs before one of the official inspections.\n\nWhenever you need to replace a PPE item, you should file a request for a new one with your supervisor. The supervisor will inquire about the nature of your work (nighttime work, repaving, maintenance work, etc.) to make sure you are being provided with the proper PPE item or items. Once you have received a replacement PPE item, you should dispose of the item that is being replaced in one of the specially designated bins. These are located in room 2B of the main office. Please do your part to maintain the company’s excellent safety record!"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-06",
+          "no": 6,
+          "text": "According to the notice, what information will the supervisor request?",
+          "options": {
+            "A": "The size needed for clothing items",
+            "B": "The type of work an employee performs",
+            "C": "The date of the last PPE inspection",
+            "D": "The number of hours an employee usually works"
+          },
+          "answer": "B",
+          "explain": "The nature of your work là loại công việc nhân viên làm, để chọn đúng đồ bảo hộ.",
+          "passage": {
+            "text": "SAFETY REGULATIONS\nPersonal Protective Equipment (PPE)\n\nItems of personal protective equipment (PPE) such as face shields, safety glasses, safety shoes, and high-visibility vests should only be used if they are in good, undamaged condition. While the durability of PPE items varies from three months to two years, most items used by TBNC personnel remain in good condition for up to six months. TBNC routinely conducts inspections of every PPE item twice a year, but an item must be replaced as soon as it is torn or damaged, even if that occurs before one of the official inspections.\n\nWhenever you need to replace a PPE item, you should file a request for a new one with your supervisor. The supervisor will inquire about the nature of your work (nighttime work, repaving, maintenance work, etc.) to make sure you are being provided with the proper PPE item or items. Once you have received a replacement PPE item, you should dispose of the item that is being replaced in one of the specially designated bins. These are located in room 2B of the main office. Please do your part to maintain the company’s excellent safety record!"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-07",
+          "no": 7,
+          "text": "According to the notice, what should employees do with a PPE item that can no longer be used?",
+          "options": {
+            "A": "Keep it until the next scheduled inspection",
+            "B": "Clean it and send it for recycling",
+            "C": "Give it to their manager",
+            "D": "Take it to the main office"
+          },
+          "answer": "D",
+          "explain": "Đồ cũ phải bỏ vào thùng quy định tại phòng 2B ở văn phòng chính.",
+          "passage": {
+            "text": "SAFETY REGULATIONS\nPersonal Protective Equipment (PPE)\n\nItems of personal protective equipment (PPE) such as face shields, safety glasses, safety shoes, and high-visibility vests should only be used if they are in good, undamaged condition. While the durability of PPE items varies from three months to two years, most items used by TBNC personnel remain in good condition for up to six months. TBNC routinely conducts inspections of every PPE item twice a year, but an item must be replaced as soon as it is torn or damaged, even if that occurs before one of the official inspections.\n\nWhenever you need to replace a PPE item, you should file a request for a new one with your supervisor. The supervisor will inquire about the nature of your work (nighttime work, repaving, maintenance work, etc.) to make sure you are being provided with the proper PPE item or items. Once you have received a replacement PPE item, you should dispose of the item that is being replaced in one of the specially designated bins. These are located in room 2B of the main office. Please do your part to maintain the company’s excellent safety record!"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a shopping-mall article",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d10-read-08",
+          "no": 8,
+          "text": "What is the purpose of the article?",
+          "options": {
+            "A": "To note that a firm will no longer be managing a shopping mall",
+            "B": "To report that the redevelopment of a shopping mall is complete",
+            "C": "To review the quality of customer service at stores in a shopping mall",
+            "D": "To announce that a company has obtained funding to build a shopping mall"
+          },
+          "answer": "B",
+          "explain": "Câu mở đầu thông báo dự án cải tạo Hollydell Shopping Mall đã hoàn thành.",
+          "passage": {
+            "text": "New Zealand Tribune — Thursday, February 12\n\nAuckland — Stillwater, Inc., has announced that its Hollydell Shopping Mall redevelopment project has been completed. Stillwater, a Sydney-based retail management firm, manages two other shopping malls in Auckland in addition to Hollydell. Stillwater spent approximately NZ$15 million on its year-long redevelopment efforts. One section of the shopping mall was torn down and replaced with a cinema that will be operated by Oceana Cinemas Corporation. The other three sections have been renovated, and a new two-level parking building with space for 200 vehicles has been constructed.\n\nIn addition to featuring a new cinema and additional parking, the mall also houses a variety of new retail stores. New tenants include Peak Sporting Goods and Shoes for Less. Says Stillwater’s vice president for New Zealand operations, Marissa James, “Hollydell now has everything from designer boutiques and specialty food shops to shops offering great bargains on clothing for price-conscious shoppers.” Gerry Zimmerman, browsing the racks of best sellers in the new Readwell Bookshop yesterday, agrees: “Before, I wasn’t really interested in coming here to shop; there were just too few shops, and it was difficult to find a place to park.”\n\nByung Dae Yoon, manager of Strawberry Children’s Clothing, has seen a steady increase in the number of customers since the redevelopment project has ended. Notes Yoon, “Many of them have remarked on how much more enjoyable it is to shop at Hollydell now.”"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-09",
+          "no": 9,
+          "text": "What is indicated about Stillwater, Inc.?",
+          "options": {
+            "A": "It increased the number of retail tenants at Hollydell Shopping Mall.",
+            "B": "It owns two shopping malls in Auckland.",
+            "C": "It will operate the new cinema at Hollydell Shopping Mall.",
+            "D": "Its headquarters are in Auckland."
+          },
+          "answer": "A",
+          "explain": "Trung tâm có thêm nhiều cửa hàng và đơn vị thuê mới. Stillwater có trụ sở tại Sydney; rạp do Oceana vận hành.",
+          "passage": {
+            "text": "New Zealand Tribune — Thursday, February 12\n\nAuckland — Stillwater, Inc., has announced that its Hollydell Shopping Mall redevelopment project has been completed. Stillwater, a Sydney-based retail management firm, manages two other shopping malls in Auckland in addition to Hollydell. Stillwater spent approximately NZ$15 million on its year-long redevelopment efforts. One section of the shopping mall was torn down and replaced with a cinema that will be operated by Oceana Cinemas Corporation. The other three sections have been renovated, and a new two-level parking building with space for 200 vehicles has been constructed.\n\nIn addition to featuring a new cinema and additional parking, the mall also houses a variety of new retail stores. New tenants include Peak Sporting Goods and Shoes for Less. Says Stillwater’s vice president for New Zealand operations, Marissa James, “Hollydell now has everything from designer boutiques and specialty food shops to shops offering great bargains on clothing for price-conscious shoppers.” Gerry Zimmerman, browsing the racks of best sellers in the new Readwell Bookshop yesterday, agrees: “Before, I wasn’t really interested in coming here to shop; there were just too few shops, and it was difficult to find a place to park.”\n\nByung Dae Yoon, manager of Strawberry Children’s Clothing, has seen a steady increase in the number of customers since the redevelopment project has ended. Notes Yoon, “Many of them have remarked on how much more enjoyable it is to shop at Hollydell now.”"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-10",
+          "no": 10,
+          "text": "Who is Marissa James?",
+          "options": {
+            "A": "The manager of a children’s clothing shop",
+            "B": "A customer at a bookstore",
+            "C": "The owner of a sporting goods store",
+            "D": "An executive at a management firm"
+          },
+          "answer": "D",
+          "explain": "Marissa James là phó chủ tịch phụ trách New Zealand của Stillwater, công ty quản lý bán lẻ.",
+          "passage": {
+            "text": "New Zealand Tribune — Thursday, February 12\n\nAuckland — Stillwater, Inc., has announced that its Hollydell Shopping Mall redevelopment project has been completed. Stillwater, a Sydney-based retail management firm, manages two other shopping malls in Auckland in addition to Hollydell. Stillwater spent approximately NZ$15 million on its year-long redevelopment efforts. One section of the shopping mall was torn down and replaced with a cinema that will be operated by Oceana Cinemas Corporation. The other three sections have been renovated, and a new two-level parking building with space for 200 vehicles has been constructed.\n\nIn addition to featuring a new cinema and additional parking, the mall also houses a variety of new retail stores. New tenants include Peak Sporting Goods and Shoes for Less. Says Stillwater’s vice president for New Zealand operations, Marissa James, “Hollydell now has everything from designer boutiques and specialty food shops to shops offering great bargains on clothing for price-conscious shoppers.” Gerry Zimmerman, browsing the racks of best sellers in the new Readwell Bookshop yesterday, agrees: “Before, I wasn’t really interested in coming here to shop; there were just too few shops, and it was difficult to find a place to park.”\n\nByung Dae Yoon, manager of Strawberry Children’s Clothing, has seen a steady increase in the number of customers since the redevelopment project has ended. Notes Yoon, “Many of them have remarked on how much more enjoyable it is to shop at Hollydell now.”"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d10-read-11",
+          "no": 11,
+          "text": "What is NOT indicated about Hollydell Shopping Mall?",
+          "options": {
+            "A": "It includes stores that sell food.",
+            "B": "The number of parking spaces there has increased.",
+            "C": "It was closed for one year during renovations.",
+            "D": "There have been more customers there recently."
+          },
+          "answer": "C",
+          "explain": "Bài chỉ nói việc cải tạo kéo dài một năm, không nói trung tâm đóng cửa cả năm. Ba thông tin còn lại đều được nêu.",
+          "passage": {
+            "text": "New Zealand Tribune — Thursday, February 12\n\nAuckland — Stillwater, Inc., has announced that its Hollydell Shopping Mall redevelopment project has been completed. Stillwater, a Sydney-based retail management firm, manages two other shopping malls in Auckland in addition to Hollydell. Stillwater spent approximately NZ$15 million on its year-long redevelopment efforts. One section of the shopping mall was torn down and replaced with a cinema that will be operated by Oceana Cinemas Corporation. The other three sections have been renovated, and a new two-level parking building with space for 200 vehicles has been constructed.\n\nIn addition to featuring a new cinema and additional parking, the mall also houses a variety of new retail stores. New tenants include Peak Sporting Goods and Shoes for Less. Says Stillwater’s vice president for New Zealand operations, Marissa James, “Hollydell now has everything from designer boutiques and specialty food shops to shops offering great bargains on clothing for price-conscious shoppers.” Gerry Zimmerman, browsing the racks of best sellers in the new Readwell Bookshop yesterday, agrees: “Before, I wasn’t really interested in coming here to shop; there were just too few shops, and it was difficult to find a place to park.”\n\nByung Dae Yoon, manager of Strawberry Children’s Clothing, has seen a steady increase in the number of customers since the redevelopment project has ended. Notes Yoon, “Many of them have remarked on how much more enjoyable it is to shop at Hollydell now.”"
+          },
+          "source": {
+            "text": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

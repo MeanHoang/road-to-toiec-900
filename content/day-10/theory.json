@@ -1,0 +1,196 @@
+{
+  "collection": "theory",
+  "day": "day-10",
+  "title": "theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d10-t-workplace",
+      "type": "wordGroups",
+      "title": "Workplace expressions for Part 1",
+      "groups": {
+        "Copiers and computers": [
+          "Making copies",
+          "Using a copy machine",
+          "Operating a copier",
+          "Holding the lid of the copier",
+          "Loading paper into the copier",
+          "Putting paper in the printer",
+          "Typing on the keyboard",
+          "Using the keyboard",
+          "Looking at the monitor",
+          "Staring at the screen",
+          "Is being used"
+        ],
+        "Phones and notices": [
+          "Talking on the phone",
+          "Making a phone call",
+          "Taking notes",
+          "Gesturing with a pen",
+          "Have been posted on the bulletin board / notice board"
+        ],
+        "Documents and meetings": [
+          "Handling some documents",
+          "Sorting out some papers",
+          "Organizing the files",
+          "Stacking folders",
+          "Having a meeting",
+          "Holding a meeting",
+          "Attending a meeting",
+          "Sitting around the table",
+          "Handing out the paper",
+          "Speaking into a microphone",
+          "Making a presentation",
+          "Addressing a small group of people"
+        ],
+        "Clothing and equipment": [
+          "Wearing identical uniforms",
+          "Wearing a life vest",
+          "Wearing glasses"
+        ],
+        "Cleaning": [
+          "Sweeping the pavement",
+          "Sweeping with a broom",
+          "Washing the floor",
+          "Polishing the floor",
+          "Mopping the floor",
+          "Wiping the window"
+        ],
+        "Handling objects": [
+          "Reaching for a glass",
+          "Trying to reach a can",
+          "Handing the woman a camera",
+          "Passing a briefcase to a man",
+          "Throwing away some bottles"
+        ]
+      },
+      "source": "teacher-notes"
+    },
+    {
+      "id": "d10-t-job-words",
+      "type": "table",
+      "title": "Jobs — word families and related words",
+      "columns": [
+        "Word",
+        "Related words"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "résumé",
+            "curriculum vitae"
+          ]
+        },
+        {
+          "cells": [
+            "professional",
+            "expert; specialist"
+          ]
+        },
+        {
+          "cells": [
+            "interview",
+            "interviewee; interviewer"
+          ]
+        },
+        {
+          "cells": [
+            "achievement",
+            "accomplishment"
+          ]
+        },
+        {
+          "cells": [
+            "eligible",
+            "eligibility"
+          ]
+        },
+        {
+          "cells": [
+            "associated with",
+            "association"
+          ]
+        },
+        {
+          "cells": [
+            "proficient",
+            "proficiency"
+          ]
+        },
+        {
+          "cells": [
+            "specialize",
+            "specialization"
+          ]
+        },
+        {
+          "cells": [
+            "occupation",
+            "profession; job"
+          ]
+        },
+        {
+          "cells": [
+            "wage",
+            "salary"
+          ]
+        },
+        {
+          "cells": [
+            "recruit",
+            "employ; hire"
+          ]
+        },
+        {
+          "cells": [
+            "prospective",
+            "promising"
+          ]
+        },
+        {
+          "cells": [
+            "diligently",
+            "diligent"
+          ]
+        },
+        {
+          "cells": [
+            "training",
+            "trainee; trainer"
+          ]
+        },
+        {
+          "cells": [
+            "reference",
+            "refer (to)"
+          ]
+        },
+        {
+          "cells": [
+            "appointment",
+            "appoint"
+          ]
+        },
+        {
+          "cells": [
+            "resign",
+            "resignation"
+          ]
+        },
+        {
+          "cells": [
+            "dismiss",
+            "fire; sack"
+          ]
+        },
+        {
+          "cells": [
+            "flexible",
+            "flexibility"
+          ]
+        }
+      ],
+      "source": "pdf"
+    }
+  ]
+}

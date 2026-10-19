@@ -1,0 +1,983 @@
+{
+  "collection": "listening",
+  "day": "day-10",
+  "title": "Listening practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d10-vocab",
+      "code": "vocab",
+      "title": "Part 1 — workplace vocabulary",
+      "subtitle": "Listen and transcribe the workplace expressions.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-10/audio/vocab-part-1/ETS X-FILE.mp3",
+      "source": "drive",
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d10-vocab-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/vocab-part-1/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Making Copies Using a copy machine. Operating a copier. Holding the lid of the copier. Loading paper into the copier. Putting paper in the printer. Typing on a keyboard. Using the keyboard. Looking at the monitor. Staring at the screen. Is being used. Using a copy machine. Operating a copier. Holding the lid of the copier. Loading paper into the copier. Putting paper in the printer. Typing on a keyboard. Using the keyboard. Looking at the monitor. Staring at the screen. Is being used.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/vocab-part-1/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Talking on the phone. Making a phone call. Taking notes. Gesturing with a pen. Have been posted on the bulletin board. Have been posted on the notice board. Talking on the phone. Making a phone call. Taking notes. Gesturing with a pen. Have been posted on the bulletin board. on the notice board.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/vocab-part-1/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Handling some documents. Sorting out some papers. Organizing the files. Stacking folders. Handling some documents. Sorting out some papers. Organizing the files. Stacking folders.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-04",
+          "no": 4,
+          "audio": "/assets/day-10/audio/vocab-part-1/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Having a meeting. Holding a meeting. Attending a meeting. Sitting around the table. Handing out a paper. Speaking into a microphone. Making a presentation. Addressing a small group of people. Having a meeting. Holding a meeting. Attending a meeting. Sitting around the table. Handing out a paper. Speaking into a microphone. Making a presentation. Addressing a small group of people.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-05",
+          "no": 5,
+          "audio": "/assets/day-10/audio/vocab-part-1/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Wearing identical uniforms Wearing a life vest Wearing glasses Wearing identical uniforms Wearing a life vest Wearing glasses",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-06",
+          "no": 6,
+          "audio": "/assets/day-10/audio/vocab-part-1/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "sweeping the pavement, sweeping with a broom, washing the floor, polishing the floor, mopping the floor, wiping the window, sweeping the pavement, sweeping with a broom, washing the floor, polishing the floor, mopping the floor, wiping the window,",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-vocab-07",
+          "no": 7,
+          "audio": "/assets/day-10/audio/vocab-part-1/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Reaching for a glass. Trying to reach a can. Handing the woman a camera. Passing a briefcase to a man. Throwing away some bottles. Reaching for a glass. Trying to reach a can. Handing the woman a camera. Passing a briefcase to a man. Throwing away some bottles.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-practice",
+      "code": "practice",
+      "title": "Practice — photographs",
+      "subtitle": "Listen and transcribe the descriptions and possible answers.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d10-practice-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/practice/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "E.T.S. example A. He's putting away some tools. B. He's trying on a pair of shoes. C. He's adjusting his eyeglasses. D. He's repairing a shoe. possible answers He's wearing glasses. He's holding a tool. He's holding a shoe. He's looking at a shoe. He's inspecting a shoe. There is a sewing machine behind the man.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/practice/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ETS Checkup #1. A. A woman is waving her hand. B. A woman is walking onto the stage. C. A woman is applauding. D. A woman is standing behind the podium.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/practice/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "number two A. There is a pair of gloves. B. The man is wearing headphones. C. The monitor is being turned on. D. Some memos are being posted on the bulletin board.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-04",
+          "no": 4,
+          "audio": "/assets/day-10/audio/practice/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ETS example A They're entering separate offices. B They're examining papers on a table. C The woman's hung her jacket on a chair. D The man's watching a presentation on a screen. Possible answers C They are seated at a desk. D They are looking at some papers on the desk.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-05",
+          "no": 5,
+          "audio": "/assets/day-10/audio/practice/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "A woman is reaching for a pen. A woman is wiping off a counter. Some people are standing in line. Some documents are being printed out.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-06",
+          "no": 6,
+          "audio": "/assets/day-10/audio/practice/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Number 2. A. They're paving the road. B. They're sweeping the road. C. They're wearing identical uniforms. D. They're moving some equipment.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-practice-2",
+      "code": "practice-2",
+      "title": "Practice — additional photographs",
+      "subtitle": "Listen and transcribe the descriptions and possible answers.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": "/assets/day-10/audio/practice/7-9.mp3",
+      "source": "drive",
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d10-practice-2-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/practice/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "number one a They are talking on the phone B One of them is wearing shorts C They are sitting side by side D The woman is leaning against the tree A They are talking on the phone B One of them is wearing shorts C They are sitting side by side D The woman is leaning against the tree Possible answers They are holding books They are facing each other",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-2-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/practice/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "number two a dishes are being cleared from the table be they are making a toast see glasses are being filled with water d they are chopping vegetables a dishes are being cleared from the table be they are making a toast see glasses are being filled with water d they are chopping vegetables possible answers they are having their meal they are sitting around the table",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-practice-2-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/practice/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Number three. A. A man is putting gas in a car. B. A man is holding a briefcase. C. A man is repairing a vehicle. D. A man is putting on a tie. A. A man is putting gas in a car. B. A man is holding a briefcase. C. A man is repairing a vehicle. D. A man is putting on a tie. Possible answers. A man is wearing a tie. A man is holding the door of the car.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-examples",
+      "code": "examples",
+      "title": "Practice — extra examples",
+      "subtitle": "Listen and transcribe all four descriptions.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d10-examples-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/practice/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "A": "He's fishing from a boat.",
+            "B": "He's looking at a pile of fish.",
+            "C": "He's eating from a dish.",
+            "D": "He's standing on a scale."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-examples-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/practice/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "A": "The signs are being painted.",
+            "B": "The building is under construction.",
+            "C": "The bicyclists are riding through the streets.",
+            "D": "Some cars are parked on the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": null,
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-hw1",
+      "code": "hw1",
+      "title": "Homework — Part 1 test 1",
+      "subtitle": "Listen and transcribe all four descriptions.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d10-hw1-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_1.mp3",
+          "image": "/assets/day-10/images/tranh-1/q01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "they're sitting on a bench.",
+            "B": "they're lying on the grass.",
+            "C": "they're riding their bicycles.",
+            "D": "they're swimming in the water."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_2.mp3",
+          "image": "/assets/day-10/images/tranh-1/q02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "One of the men is putting on a tie.",
+            "B": "One of the men is standing at a counter.",
+            "C": "One of the men is setting a briefcase on the floor.",
+            "D": "One of the men is typing on a computer."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_3.mp3",
+          "image": "/assets/day-10/images/tranh-1/q03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Customers are waiting to be seated.",
+            "B": "Cars are parked along the street.",
+            "C": "A restaurant worker is sweeping the sidewalk.",
+            "D": "Diners are sitting in an outdoor cafe."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-04",
+          "no": 4,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_4.mp3",
+          "image": "/assets/day-10/images/tranh-1/q04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The man is taking some paper out of a printer.",
+            "B": "The man is putting a file in a drawer.",
+            "C": "The woman is signing her name.",
+            "D": "The people are reviewing a document."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-05",
+          "no": 5,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_5.mp3",
+          "image": "/assets/day-10/images/tranh-1/q05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A man is unloading some packages.",
+            "B": "A man is resting in a shopping mall.",
+            "C": "Boxes have been piled onto some carts.",
+            "D": "Items are being arranged in a store."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-06",
+          "no": 6,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_6.mp3",
+          "image": "/assets/day-10/images/tranh-1/q06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A sign is hanging above some artwork.",
+            "B": "Plants are arranged on a stairway.",
+            "C": "A round table is surrounded by chairs.",
+            "D": "An area rug has been rolled up."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-07",
+          "no": 7,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_7.mp3",
+          "image": "/assets/day-10/images/tranh-1/q07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A man is placing a basket on a shelf.",
+            "B": "Labels have been attached to shelving units.",
+            "C": "A man is opening the door of a cabinet.",
+            "D": "Some newspapers have been piled on the floor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-08",
+          "no": 8,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_8.mp3",
+          "image": "/assets/day-10/images/tranh-1/q08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Lamp posts are standing in a row.",
+            "B": "A crowd of people has gathered on a beach.",
+            "C": "A garden has been planted on a rooftop.",
+            "D": "The roadway is full of vehicles."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-09",
+          "no": 9,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_9.mp3",
+          "image": "/assets/day-10/images/tranh-1/q09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "An employee is organizing a shoe display.",
+            "B": "Merchandise is being put into a bag.",
+            "C": "Some footwear is being scanned by a cashier.",
+            "D": "A customer is trying on a pair of shoes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw1-10",
+          "no": 10,
+          "audio": "/assets/day-10/audio/test1-part1/Test01_part01_10.mp3",
+          "image": "/assets/day-10/images/tranh-1/q10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Trees are growing under an archway.",
+            "B": "Passengers are waiting to board a train.",
+            "C": "A high wall runs alongside the train tracks.",
+            "D": "A train is about to go over a bridge."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-hw2",
+      "code": "hw2",
+      "title": "Homework — Part 1 test 2",
+      "subtitle": "Listen and transcribe all four descriptions.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d10-hw2-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_1.mp3",
+          "image": "/assets/day-10/images/tranh-2/q01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's writing a letter.",
+            "B": "He's reading a book.",
+            "C": "He's serving some food.",
+            "D": "He's holding a piece of paper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_2.mp3",
+          "image": "/assets/day-10/images/tranh-2/q02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A woman is arranging the shelves.",
+            "B": "A woman is standing at the board.",
+            "C": "A woman is watering a plant.",
+            "D": "A woman is washing a window."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_3.mp3",
+          "image": "/assets/day-10/images/tranh-2/q03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He’s looking at his watch.",
+            "B": "He’s talking on the phone.",
+            "C": "He’s walking outside.",
+            "D": "He’s opening a box."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-04",
+          "no": 4,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_4.mp3",
+          "image": "/assets/day-10/images/tranh-2/q04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "She's tidying her room.",
+            "B": "She's brushing her teeth.",
+            "C": "She's sweeping the deck.",
+            "D": "She's scrubbing the pots."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-05",
+          "no": 5,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_5.mp3",
+          "image": "/assets/day-10/images/tranh-2/q05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The women are in a parking lot.",
+            "B": "The women are shopping for clothes.",
+            "C": "The women are in a supermarket.",
+            "D": "The women are paying for food."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-06",
+          "no": 6,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_6.mp3",
+          "image": "/assets/day-10/images/tranh-2/q06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They're resting in a waiting area.",
+            "B": "They're boarding an airplane.",
+            "C": "They're waiting in line.",
+            "D": "They're packing a suitcase."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-07",
+          "no": 7,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_7.mp3",
+          "image": "/assets/day-10/images/tranh-2/q07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A painting is hanging on the wall.",
+            "B": "Some people are eating a meal.",
+            "C": "The table is being cleared.",
+            "D": "A lamp is being turned off."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-08",
+          "no": 8,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_8.mp3",
+          "image": "/assets/day-10/images/tranh-2/q08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The woman is taking a picture.",
+            "B": "The woman is reading as she walks.",
+            "C": "The boy is holding the woman's hand.",
+            "D": "The boy is playing in the bushes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-09",
+          "no": 9,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_9.mp3",
+          "image": "/assets/day-10/images/tranh-2/q09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The motorcycle has been parked.",
+            "B": "The motorcycle is being ridden.",
+            "C": "A tire has been removed from the motorcycle.",
+            "D": "The seat of the motorcycle is being repaired."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw2-10",
+          "no": 10,
+          "audio": "/assets/day-10/audio/test2-part1/Test02_part01_10.mp3",
+          "image": "/assets/day-10/images/tranh-2/q10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They're delivering a presentation.",
+            "B": "They're moving a piece of furniture.",
+            "C": "They're adjusting a pull-down screen.",
+            "D": "They're connecting a computer cable."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d10-hw3",
+      "code": "hw3",
+      "title": "Homework — Part 1 test 3",
+      "subtitle": "Listen and transcribe all four descriptions.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d10-hw3-01",
+          "no": 1,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_1.mp3",
+          "image": "/assets/day-10/images/tranh-3/q01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "She's taking a photograph.",
+            "B": "She's picking up a pencil.",
+            "C": "She's painting a picture.",
+            "D": "She's turning a page."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-02",
+          "no": 2,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_2.mp3",
+          "image": "/assets/day-10/images/tranh-3/q02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's looking at the engine.",
+            "B": "He's reading a manual.",
+            "C": "He's turning on the water.",
+            "D": "He's driving a car."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-03",
+          "no": 3,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_3.mp3",
+          "image": "/assets/day-10/images/tranh-3/q03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some bags are on display.",
+            "B": "The closet has been emptied.",
+            "C": "The shelves are filled with boxes.",
+            "D": "Some clothes are lying on the floor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-04",
+          "no": 4,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_4.mp3",
+          "image": "/assets/day-10/images/tranh-3/q04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "She's turning on a light.",
+            "B": "She's sitting in front of a machine.",
+            "C": "She's buying some equipment.",
+            "D": "She's trying on a jacket."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-05",
+          "no": 5,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_5.mp3",
+          "image": "/assets/day-10/images/tranh-3/q05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The chairs are stacked against the wall.",
+            "B": "People are stepping into the water.",
+            "C": "Waiters are standing at the gate.",
+            "D": "The tables are arranged in a row."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-06",
+          "no": 6,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_6.mp3",
+          "image": "/assets/day-10/images/tranh-3/q06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They’re having a conversation.",
+            "B": "They’re reading side by side.",
+            "C": "They’re writing in notebooks.",
+            "D": "They’re climbing the steps."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-07",
+          "no": 7,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_7.mp3",
+          "image": "/assets/day-10/images/tranh-3/q07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's throwing some fish into the water.",
+            "B": "He's swimming in the ocean.",
+            "C": "He's looking over the side of a boat.",
+            "D": "He's standing in the water."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-08",
+          "no": 8,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_8.mp3",
+          "image": "/assets/day-10/images/tranh-3/q08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "some cars are parked along a street.",
+            "B": "some trees are being planted.",
+            "C": "traffic is being directed by an officer.",
+            "D": "the buildings are being washed."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-09",
+          "no": 9,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_9.mp3",
+          "image": "/assets/day-10/images/tranh-3/q09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's placing an item on the scale.",
+            "B": "He's wearing protective clothing.",
+            "C": "He's removing something from a jar.",
+            "D": "He's walking to a laboratory."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d10-hw3-10",
+          "no": 10,
+          "audio": "/assets/day-10/audio/test3-part1/Test03_part01_10.mp3",
+          "image": "/assets/day-10/images/tranh-3/q10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A work area has been roped off.",
+            "B": "Traffic cones are piled on top of one another.",
+            "C": "There is a ladder leaning against the building.",
+            "D": "The worker is closing the doors of the van."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}

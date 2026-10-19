@@ -93,8 +93,10 @@ export function DayOverviewScreen({ slug, day }) {
             <NavCard
               href={`${base}/exercises`}
               lead="🧩"
-              title={t('Grammar quiz')}
-              meta={t('{0} sets · {1} questions · choose an answer to complete the sentence', [day.exercises.length, countExercises(day)])}
+              title={day.exercises.some((set) => set.part === 7) ? t('Reading practice') : t('Grammar quiz')}
+              meta={day.exercises.some((set) => set.part === 7)
+                ? t('{0} sets · {1} reading questions', [day.exercises.length, countExercises(day)])
+                : t('{0} sets · {1} questions · choose an answer to complete the sentence', [day.exercises.length, countExercises(day)])}
               percent={ready ? percentOf(s.drillDone, s.drillTotal) : 0}
               trailing={<CountBadge done={s.drillDone} total={s.drillTotal} />}
             />

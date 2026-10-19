@@ -2423,5 +2423,170 @@
     "vi": "Không thể tải bảng xếp hạng. Hãy kiểm tra kết nối.",
     "zh": "无法加载排行榜。请检查网络连接。",
     "ko": "순위표를 불러올 수 없습니다. 연결을 확인하세요."
+  },
+  "Phase {0}": {
+    "vi": "Giai đoạn {0}",
+    "zh": "阶段{0}",
+    "ko": "{0}단계"
+  },
+  "Study phases": {
+    "vi": "Các giai đoạn học",
+    "zh": "学习阶段",
+    "ko": "학습 단계"
+  },
+  "Latest phase": {
+    "vi": "Giai đoạn mới",
+    "zh": "最新阶段",
+    "ko": "최신 단계"
+  },
+  "Lessons {0}–{1}": {
+    "vi": "Buổi {0}–{1}",
+    "zh": "第{0}–{1}课",
+    "ko": "수업 {0}–{1}"
+  },
+  "Reading practice": {
+    "vi": "Luyện đọc",
+    "zh": "阅读练习",
+    "ko": "독해 연습"
+  },
+  "Reading passage": {
+    "vi": "Bài đọc",
+    "zh": "阅读文章",
+    "ko": "읽기 지문"
+  },
+  "{0} sets · {1} reading questions": {
+    "vi": "{0} bộ · {1} câu đọc hiểu",
+    "zh": "{0}组 · {1}道阅读题",
+    "ko": "{0}세트 · 독해 {1}문제"
+  },
+  "{0} reading questions": {
+    "vi": "{0} câu đọc hiểu",
+    "zh": "{0}道阅读题",
+    "ko": "독해 {0}문제"
+  },
+  "Jobs, workplace photographs, and reading practice": {
+    "vi": "Nghề nghiệp, tranh nơi làm việc và đọc hiểu",
+    "zh": "职业、工作场所照片与阅读练习",
+    "ko": "직업, 직장 사진 및 독해 연습"
+  },
+  "Jobs and employment": {
+    "vi": "Nghề nghiệp và tuyển dụng",
+    "zh": "职业与招聘",
+    "ko": "직업과 채용"
+  },
+  "Workplace expressions for Part 1": {
+    "vi": "Cụm từ nơi làm việc trong Part 1",
+    "zh": "第1部分工作场所表达",
+    "ko": "파트 1 직장 표현"
+  },
+  "Copiers and computers": {
+    "vi": "Máy photocopy và máy tính",
+    "zh": "复印机和电脑",
+    "ko": "복사기와 컴퓨터"
+  },
+  "Phones and notices": {
+    "vi": "Điện thoại và thông báo",
+    "zh": "电话与通知",
+    "ko": "전화와 공지"
+  },
+  "Documents and meetings": {
+    "vi": "Tài liệu và cuộc họp",
+    "zh": "文件与会议",
+    "ko": "문서와 회의"
+  },
+  "Clothing and equipment": {
+    "vi": "Trang phục và thiết bị",
+    "zh": "服装与设备",
+    "ko": "의류와 장비"
+  },
+  "Cleaning": {
+    "vi": "Dọn dẹp",
+    "zh": "清洁",
+    "ko": "청소"
+  },
+  "Handling objects": {
+    "vi": "Thao tác với đồ vật",
+    "zh": "物品操作",
+    "ko": "물건 다루기"
+  },
+  "Jobs — word families and related words": {
+    "vi": "Nghề nghiệp — họ từ và từ liên quan",
+    "zh": "职业 — 词族和相关词",
+    "ko": "직업 — 어족 및 관련 단어"
+  },
+  "Related words": {
+    "vi": "Từ liên quan",
+    "zh": "相关词",
+    "ko": "관련 단어"
+  },
+  "Part 1 — workplace vocabulary": {
+    "vi": "Part 1 — từ vựng nơi làm việc",
+    "zh": "第1部分 — 工作场所词汇",
+    "ko": "파트 1 — 직장 단어"
+  },
+  "Listen and transcribe the workplace expressions.": {
+    "vi": "Nghe và chép các cụm từ nơi làm việc.",
+    "zh": "听写工作场所表达。",
+    "ko": "직장 표현을 듣고 작성하세요."
+  },
+  "Practice — photographs": {
+    "vi": "Luyện tập — mô tả tranh",
+    "zh": "练习 — 照片描述",
+    "ko": "연습 — 사진 묘사"
+  },
+  "Practice — additional photographs": {
+    "vi": "Luyện tập — tranh bổ sung",
+    "zh": "练习 — 更多照片",
+    "ko": "연습 — 추가 사진"
+  },
+  "Practice — extra examples": {
+    "vi": "Luyện tập — ví dụ bổ sung",
+    "zh": "练习 — 补充例题",
+    "ko": "연습 — 추가 예제"
+  },
+  "Listen and transcribe the descriptions and possible answers.": {
+    "vi": "Nghe chép các mô tả và phương án có thể dùng.",
+    "zh": "听写描述和可能的答案。",
+    "ko": "묘사와 가능한 답변을 듣고 작성하세요."
+  },
+  "Listen and transcribe all four descriptions.": {
+    "vi": "Nghe và chép cả bốn mô tả.",
+    "zh": "听写全部四个描述。",
+    "ko": "네 가지 묘사를 모두 듣고 작성하세요."
+  },
+  "Homework — Part 1 test {0}": {
+    "vi": "Bài về nhà — đề Part 1 số {0}",
+    "zh": "作业 — 第1部分测试{0}",
+    "ko": "과제 — 파트 1 시험 {0}"
+  },
+  "Part 7 — a job-offer letter": {
+    "vi": "Part 7 — thư về lời mời làm việc",
+    "zh": "第7部分 — 工作邀约信",
+    "ko": "파트 7 — 채용 제안 편지"
+  },
+  "Part 7 — a safety notice": {
+    "vi": "Part 7 — thông báo an toàn",
+    "zh": "第7部分 — 安全通知",
+    "ko": "파트 7 — 안전 공지"
+  },
+  "Part 7 — a shopping-mall article": {
+    "vi": "Part 7 — bài báo về trung tâm mua sắm",
+    "zh": "第7部分 — 购物中心新闻",
+    "ko": "파트 7 — 쇼핑몰 기사"
+  },
+  "Read the passage and choose the best answer.": {
+    "vi": "Đọc đoạn văn và chọn đáp án phù hợp nhất.",
+    "zh": "阅读文章并选择最佳答案。",
+    "ko": "지문을 읽고 가장 적절한 답을 선택하세요."
+  },
+  "Homework": {
+    "vi": "Bài về nhà",
+    "zh": "作业",
+    "ko": "과제"
+  },
+  "Part 1 test {0}": {
+    "vi": "Đề Part 1 số {0}",
+    "zh": "第1部分测试{0}",
+    "ko": "파트 1 시험 {0}"
   }
 }

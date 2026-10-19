@@ -26,6 +26,7 @@ export function lessonActivities(day) {
   const have = day?.collections || [];
   return ACTIVITIES.filter((a) => [a.needs].flat().some((n) => have.includes(n))).map((a) => ({
     ...a,
+    label: a.key === 'exercises' ? day.exerciseLabel || a.label : a.label,
     href: `/day/${day.slug}/${a.path}`,
   }));
 }

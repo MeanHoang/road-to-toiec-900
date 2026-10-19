@@ -25,7 +25,7 @@ export function DayRow({ day }) {
       meta={[
         day.grammar.length > 0 && `${day.grammar.length} structures`,
         day.vocabulary.length > 0 && `${day.vocabulary.length} words`,
-        countExercises(day) > 0 && `${countExercises(day)} grammar questions`,
+        countExercises(day) > 0 && `${countExercises(day)} ${day.exercises.some((set) => set.part === 7) ? 'reading questions' : 'grammar questions'}`,
         countQuestions(day) > 0 && `${countQuestions(day)} listening questions`,
       ]
         .filter(Boolean)

@@ -31,7 +31,7 @@ export async function fetchDayList() {
   if (store) {
     try {
       const snap = await getDoc(doc(store, 'meta', 'days'));
-      if (snap.exists()) return snap.data().days || [];
+      if (snap.exists()) return [...new Set([...(snap.data().days || []), ...bundledDays.map((day) => day.slug)])];
     } catch (e) {
       console.warn('[lesson] không đọc được danh sách buổi từ Firestore:', e.message);
     }
@@ -85,20 +85,26 @@ export async function fetchDayIndex() {
     try {
       const snap = await getDocs(collection(store, 'days'));
       if (!snap.empty) {
-        return snap.docs
-          .map((d) => englishMetadata(d.data()))
-          .sort((a, b) => (a.no || 0) - (b.no || 0));
+        const merged = new Map(bundledDays.map(({ slug, no, title, subtitle, phase, exerciseLabel, collections }) =>
+          [slug, { slug, no, title, subtitle, phase, exerciseLabel, collections }]));
+        snap.docs.forEach((doc) => {
+          const day = englishMetadata(doc.data());
+          merged.set(day.slug, { ...merged.get(day.slug), ...day });
+        });
+        return [...merged.values()].sort((a, b) => (a.no || 0) - (b.no || 0));
       }
     } catch (e) {
       console.warn('[lesson] không đọc được danh sách buổi rút gọn:', e.message);
     }
   }
 
-  return bundledDays.map(({ slug, no, title, subtitle, collections }) => ({
+  return bundledDays.map(({ slug, no, title, subtitle, phase, exerciseLabel, collections }) => ({
     slug,
     no,
     title,
     subtitle,
+    phase,
+    exerciseLabel,
     collections,
   }));
 }

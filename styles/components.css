@@ -2414,3 +2414,51 @@ th {
   font-size: 22px;
   line-height: 1;
 }
+
+.home-phases {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-3);
+  margin-top: var(--space-5);
+}
+.home-phase {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: var(--space-5);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.home-phase:hover {
+  border-color: var(--brand);
+}
+.home-phase.is-active {
+  border-color: var(--brand);
+  background: var(--brand-surface);
+}
+.home-phase-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-2);
+}
+.home-phase:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 3px;
+}
+.home-phase-title {
+  margin-top: var(--space-4);
+}
+.exercise-passage {
+  padding: var(--space-5);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface-sunken);
+  white-space: pre-line;
+  line-height: var(--leading-relaxed);
+}

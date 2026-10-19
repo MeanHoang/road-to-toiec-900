@@ -15,9 +15,11 @@ export function useDayList() {
     fetchDayList()
       .then(async (list) => {
         if (!alive) return;
-        setSlugs(list);
         const loaded = await Promise.all(list.map((s) => fetchDay(s)));
-        if (alive) setDays(loaded.filter(Boolean));
+        if (alive) {
+          setDays(loaded.filter(Boolean));
+          setSlugs(list);
+        }
       })
       .catch(() => alive && setSlugs([]));
     return () => {

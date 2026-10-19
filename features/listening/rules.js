@@ -14,7 +14,7 @@ export const choicesOf = (set) => set?.choices || CHOICES;
  * Part 3 hội thoại không có tranh, nên không được hiện ô "chưa có ảnh".
  * Bộ cũ không khai `part` đều là Part 1.
  */
-export const hasPhoto = (set) => (set?.part || 1) === 1;
+export const hasPhoto = (set) => set?.showPhoto !== false && (set?.part || 1) === 1;
 
 /** Số câu đã trả lời đúng trong một bộ. */
 export const countCorrect = (set, listen) =>

@@ -1,0 +1,560 @@
+{
+  "collection": "vocabulary",
+  "day": "day-10",
+  "title": "vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d10-v01",
+      "no": 1,
+      "word": "résumé",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈrezəmeɪ/",
+        "us": "/ˈrezəmeɪ/"
+      },
+      "meaningVi": "sơ yếu lý lịch",
+      "image": "/assets/day-10/images/vocabulary/v01.jpg",
+      "example": {
+        "en": "You can post your résumé on the website free of charge."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v02",
+      "no": 2,
+      "word": "professional",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈfeʃənl/",
+        "us": "/prəˈfeʃənl/"
+      },
+      "meaningVi": "chuyên gia; người chuyên nghiệp",
+      "image": "/assets/day-10/images/vocabulary/v02.jpg",
+      "example": {
+        "en": "Our officers are all highly trained professionals."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v03",
+      "no": 3,
+      "word": "interview",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈɪntəvjuː/",
+        "us": "/ˈɪntəvjuː/"
+      },
+      "meaningVi": "cuộc phỏng vấn; phỏng vấn",
+      "image": "/assets/day-10/images/vocabulary/v03.jpg",
+      "example": {
+        "en": "The questions are the central point of the whole interview procedure and should be planned in advance."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v04",
+      "no": 4,
+      "word": "achievement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈtʃiːvmənt/",
+        "us": "/əˈtʃiːvmənt/"
+      },
+      "meaningVi": "thành tựu; thành tích",
+      "image": "/assets/day-10/images/vocabulary/v04.jpg",
+      "example": {
+        "en": "She was given a prize for her achievements in textile design."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v05",
+      "no": 5,
+      "word": "eligible",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈelɪdʒəbl/",
+        "us": "/ˈelɪdʒəbl/"
+      },
+      "meaningVi": "đủ điều kiện; đủ tư cách",
+      "image": "/assets/day-10/images/vocabulary/v05.jpg",
+      "example": {
+        "en": "Only those over 70 are eligible for the special payment."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v06",
+      "no": 6,
+      "word": "associated with",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈsəʊsieɪtɪd wɪð/",
+        "us": "/əˈsəʊsieɪtɪd wɪð/"
+      },
+      "meaningVi": "liên quan đến; kết hợp với",
+      "image": "/assets/day-10/images/vocabulary/v06.jpg",
+      "example": {
+        "en": "The conference will address the issues associated with E-commerce."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v07",
+      "no": 7,
+      "word": "proficient",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/prəˈfɪʃnt/",
+        "us": "/prəˈfɪʃnt/"
+      },
+      "meaningVi": "thành thạo",
+      "image": "/assets/day-10/images/vocabulary/v07.jpg",
+      "example": {
+        "en": "With practice, you should become proficient within six months."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v08",
+      "no": 8,
+      "word": "specialize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈspeʃəlaɪz/",
+        "us": "/ˈspeʃəlaɪz/"
+      },
+      "meaningVi": "chuyên về",
+      "image": "/assets/day-10/images/vocabulary/v08.jpg",
+      "example": {
+        "en": "Most designers in the company specialize in women’s apparel."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v09",
+      "no": 9,
+      "word": "occupation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɒkjuˈpeɪʃn/",
+        "us": "/ˌɒkjuˈpeɪʃn/"
+      },
+      "meaningVi": "nghề nghiệp",
+      "image": "/assets/day-10/images/vocabulary/v09.jpg",
+      "example": {
+        "en": "He gave up his occupation as a farmer and became a teacher."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v10",
+      "no": 10,
+      "word": "wage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/weɪdʒ/",
+        "us": "/weɪdʒ/"
+      },
+      "meaningVi": "tiền lương; tiền thù lao",
+      "image": "/assets/day-10/images/vocabulary/v10.jpg",
+      "example": {
+        "en": "He earned a good wage at the convenience store."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v11",
+      "no": 11,
+      "word": "recruit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈkruːt/",
+        "us": "/rɪˈkruːt/"
+      },
+      "meaningVi": "tuyển dụng",
+      "image": "/assets/day-10/images/vocabulary/v11.jpg",
+      "example": {
+        "en": "Peter Watson has been recruited as Sales Manager."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v12",
+      "no": 12,
+      "word": "prospective",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/prəˈspektɪv/",
+        "us": "/prəˈspektɪv/"
+      },
+      "meaningVi": "tiềm năng; có triển vọng",
+      "image": "/assets/day-10/images/vocabulary/v12.jpg",
+      "example": {
+        "en": "I had a phone call from a prospective client today."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v13",
+      "no": 13,
+      "word": "diligently",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ˈdɪlɪdʒəntli/",
+        "us": "/ˈdɪlɪdʒəntli/"
+      },
+      "meaningVi": "siêng năng; cần mẫn",
+      "image": "/assets/day-10/images/vocabulary/v13.jpg",
+      "example": {
+        "en": "They worked diligently on the task they had been given."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v14",
+      "no": 14,
+      "word": "training",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtreɪnɪŋ/",
+        "us": "/ˈtreɪnɪŋ/"
+      },
+      "meaningVi": "đào tạo; huấn luyện",
+      "image": "/assets/day-10/images/vocabulary/v14.jpg",
+      "example": {
+        "en": "Various training activities will take place throughout the weekend."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v15",
+      "no": 15,
+      "word": "reference",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈrefrəns/",
+        "us": "/ˈrefrəns/"
+      },
+      "meaningVi": "sự tham khảo; tài liệu tham khảo",
+      "image": "/assets/day-10/images/vocabulary/v15.jpg",
+      "example": {
+        "en": "Retain a copy of the form for future reference."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v16",
+      "no": 16,
+      "word": "appointment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈpɔɪntmənt/",
+        "us": "/əˈpɔɪntmənt/"
+      },
+      "meaningVi": "cuộc hẹn; sự bổ nhiệm",
+      "image": "/assets/day-10/images/vocabulary/v16.jpg",
+      "example": {
+        "en": "The board has confirmed the appointment of Howard Kendall as Sales Manager."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v17",
+      "no": 17,
+      "word": "working condition",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɜːkɪŋ kənˈdɪʃn/",
+        "us": "/ˈwɜːkɪŋ kənˈdɪʃn/"
+      },
+      "meaningVi": "điều kiện làm việc",
+      "image": "/assets/day-10/images/vocabulary/v17.jpg",
+      "example": {
+        "en": "Working conditions are the demands, environment and terms of a job that influence the satisfaction of employees."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v18",
+      "no": 18,
+      "word": "maternity leave",
+      "pos": "n",
+      "ipa": {
+        "uk": "/məˈtɜːnəti liːv/",
+        "us": "/məˈtɜːnəti liːv/"
+      },
+      "meaningVi": "nghỉ thai sản",
+      "image": "/assets/day-10/images/vocabulary/v18.jpg",
+      "example": {
+        "en": "Elizabeth is now on maternity leave."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v19",
+      "no": 19,
+      "word": "payroll",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpeɪrəʊl/",
+        "us": "/ˈpeɪrəʊl/"
+      },
+      "meaningVi": "bảng lương; tổng quỹ lương",
+      "image": "/assets/day-10/images/vocabulary/v19.jpg",
+      "example": {
+        "en": "The firm is growing fast with a monthly payroll of $1 million."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v20",
+      "no": 20,
+      "word": "degree",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈɡriː/",
+        "us": "/dɪˈɡriː/"
+      },
+      "meaningVi": "bằng cấp",
+      "image": "/assets/day-10/images/vocabulary/v20.jpg",
+      "example": {
+        "en": "Candidates must hold a professional degree in architecture."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v21",
+      "no": 21,
+      "word": "resign",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈzaɪn/",
+        "us": "/rɪˈzaɪn/"
+      },
+      "meaningVi": "từ chức; xin thôi việc",
+      "image": "/assets/day-10/images/vocabulary/v21.jpg",
+      "example": {
+        "en": "He resigned as manager after eight years."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v22",
+      "no": 22,
+      "word": "dismiss",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪsˈmɪs/",
+        "us": "/dɪsˈmɪs/"
+      },
+      "meaningVi": "sa thải; gạt bỏ",
+      "image": "/assets/day-10/images/vocabulary/v22.jpg",
+      "example": {
+        "en": "He was summarily dismissed from his job."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v23",
+      "no": 23,
+      "word": "shift",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃɪft/",
+        "us": "/ʃɪft/"
+      },
+      "meaningVi": "ca làm việc",
+      "image": "/assets/day-10/images/vocabulary/v23.jpg",
+      "example": {
+        "en": "He works the night shift."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    },
+    {
+      "id": "d10-v24",
+      "no": 24,
+      "word": "flexible",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈfleksəbl/",
+        "us": "/ˈfleksəbl/"
+      },
+      "meaningVi": "linh hoạt",
+      "image": "/assets/day-10/images/vocabulary/v24.jpg",
+      "example": {
+        "en": "We can offer you flexible working hours."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": "pdf"
+      }
+    }
+  ]
+}
