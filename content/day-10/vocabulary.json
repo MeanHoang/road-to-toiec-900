@@ -555,6 +555,248 @@
         "example": "pdf",
         "image": "pdf"
       }
+    },
+    {
+      "id": "d10-v25",
+      "no": 25,
+      "word": "qualification",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkwɒlɪfɪˈkeɪʃn/",
+        "us": "/ˌkwɑːlɪfɪˈkeɪʃn/"
+      },
+      "meaningVi": "bằng cấp; trình độ chuyên môn; điều kiện đáp ứng công việc",
+      "image": null,
+      "example": {
+        "en": "Applicants must have the qualifications required for the position."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v26",
+      "no": 26,
+      "word": "permanent",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈpɜːmənənt/",
+        "us": "/ˈpɜːrmənənt/"
+      },
+      "meaningVi": "lâu dài; chính thức (công việc, hợp đồng)",
+      "image": null,
+      "example": {
+        "en": "The company offered her a permanent position after the trial period."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v27",
+      "no": 27,
+      "word": "temporary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈtemprəri/",
+        "us": "/ˈtempəreri/"
+      },
+      "meaningVi": "tạm thời; có thời hạn",
+      "image": null,
+      "example": {
+        "en": "We are hiring temporary staff for the busy holiday season."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v28",
+      "no": 28,
+      "word": "health insurance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhelθ ɪnˌʃʊərəns/",
+        "us": "/ˈhelθ ɪnˌʃʊrəns/"
+      },
+      "meaningVi": "bảo hiểm y tế; bảo hiểm sức khỏe",
+      "image": null,
+      "example": {
+        "en": "The benefits package includes health insurance for all full-time employees."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v29",
+      "no": 29,
+      "word": "sick leave",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsɪk liːv/",
+        "us": "/ˈsɪk liːv/"
+      },
+      "meaningVi": "nghỉ ốm; chế độ nghỉ ốm",
+      "image": null,
+      "example": {
+        "en": "Employees are entitled to ten days of paid sick leave each year."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v30",
+      "no": 30,
+      "word": "expertise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌekspɜːˈtiːz/",
+        "us": "/ˌekspɜːrˈtiːz/"
+      },
+      "meaningVi": "kiến thức chuyên môn; kỹ năng chuyên sâu",
+      "image": null,
+      "example": {
+        "en": "We need someone with expertise in project management."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v31",
+      "no": 31,
+      "word": "commensurate",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kəˈmenʃərət/",
+        "us": "/kəˈmenʃərət/"
+      },
+      "meaningVi": "tương xứng; phù hợp với (commensurate with)",
+      "image": null,
+      "example": {
+        "en": "The salary will be commensurate with your qualifications and experience."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v32",
+      "no": 32,
+      "word": "redundant",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/rɪˈdʌndənt/",
+        "us": "/rɪˈdʌndənt/"
+      },
+      "meaningVi": "dư thừa; bị cho thôi việc do cắt giảm nhân sự (be made redundant)",
+      "image": null,
+      "example": {
+        "en": "Several employees were made redundant when the factory closed."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v33",
+      "no": 33,
+      "word": "pension",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpenʃn/",
+        "us": "/ˈpenʃn/"
+      },
+      "meaningVi": "lương hưu; khoản trợ cấp hưu trí",
+      "image": null,
+      "example": {
+        "en": "The company offers a pension plan to help employees save for retirement."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v34",
+      "no": 34,
+      "word": "associations",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/əˌsəʊsiˈeɪʃnz/",
+        "us": "/əˌsoʊsiˈeɪʃnz/"
+      },
+      "meaningVi": "các hiệp hội; các hội (số nhiều của association)",
+      "image": null,
+      "example": {
+        "en": "Professional associations provide training and networking opportunities for their members."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v35",
+      "no": 35,
+      "word": "satisfaction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌsætɪsˈfækʃn/",
+        "us": "/ˌsætɪsˈfækʃn/"
+      },
+      "meaningVi": "sự hài lòng; sự thỏa mãn (job satisfaction: sự hài lòng trong công việc)",
+      "image": null,
+      "example": {
+        "en": "Flexible working hours can improve employee satisfaction."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
     }
   ]
 }
