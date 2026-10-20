@@ -819,6 +819,424 @@
         "meaningVi": "ai",
         "example": "ai"
       }
+    },
+    {
+      "id": "d10-v37",
+      "no": 37,
+      "word": "firm",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fɜːm/",
+        "us": "/fɜːrm/"
+      },
+      "meaningVi": "công ty (luật, kinh doanh)",
+      "image": null,
+      "example": {
+        "en": "Briggs, Salvatore & Jurasinski is a law firm."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v38",
+      "no": 38,
+      "word": "regret",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈɡret/",
+        "us": "/rɪˈɡret/"
+      },
+      "meaningVi": "tiếc; lấy làm tiếc (phải)",
+      "image": null,
+      "example": {
+        "en": "I regret I will not be able to join your team."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v39",
+      "no": 39,
+      "word": "decline",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈklaɪn/",
+        "us": "/dɪˈklaɪn/"
+      },
+      "meaningVi": "từ chối (lời mời, đề nghị); giảm sút",
+      "image": null,
+      "example": {
+        "en": "She wrote the letter to decline a job offer."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v40",
+      "no": 40,
+      "word": "associate",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈsəʊʃiət/",
+        "us": "/əˈsoʊʃiət/"
+      },
+      "meaningVi": "luật sư cộng sự; đồng nghiệp",
+      "image": null,
+      "example": {
+        "en": "The firm voted to offer me a position as an associate."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v41",
+      "no": 41,
+      "word": "colleague",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒliːɡ/",
+        "us": "/ˈkɑːliːɡ/"
+      },
+      "meaningVi": "đồng nghiệp",
+      "image": null,
+      "example": {
+        "en": "I look forward to seeing you or your colleagues again."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v42",
+      "no": 42,
+      "word": "durability",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌdjʊərəˈbɪləti/",
+        "us": "/ˌdʊrəˈbɪləti/"
+      },
+      "meaningVi": "độ bền",
+      "image": null,
+      "example": {
+        "en": "The durability of PPE items varies from three months to two years."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v43",
+      "no": 43,
+      "word": "inspection",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈspekʃn/",
+        "us": "/ɪnˈspekʃn/"
+      },
+      "meaningVi": "sự kiểm tra",
+      "image": null,
+      "example": {
+        "en": "TBNC routinely conducts inspections of every PPE item twice a year."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v44",
+      "no": 44,
+      "word": "replace",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈpleɪs/",
+        "us": "/rɪˈpleɪs/"
+      },
+      "meaningVi": "thay thế",
+      "image": null,
+      "example": {
+        "en": "An item must be replaced as soon as it is torn or damaged."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v45",
+      "no": 45,
+      "word": "inquire about",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈkwaɪə əˈbaʊt/",
+        "us": "/ɪnˈkwaɪər əˈbaʊt/"
+      },
+      "meaningVi": "hỏi về; tìm hiểu về",
+      "image": null,
+      "example": {
+        "en": "The supervisor will inquire about the nature of your work."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v46",
+      "no": 46,
+      "word": "designated",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈdezɪɡneɪtɪd/",
+        "us": "/ˈdezɪɡneɪtɪd/"
+      },
+      "meaningVi": "được chỉ định",
+      "image": null,
+      "example": {
+        "en": "Dispose of the item in one of the specially designated bins."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v47",
+      "no": 47,
+      "word": "dispose of",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈspəʊz əv/",
+        "us": "/dɪˈspoʊz əv/"
+      },
+      "meaningVi": "vứt bỏ; loại bỏ",
+      "image": null,
+      "example": {
+        "en": "You should dispose of the item that is being replaced."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v48",
+      "no": 48,
+      "word": "personnel",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌpɜːsəˈnel/",
+        "us": "/ˌpɜːrsəˈnel/"
+      },
+      "meaningVi": "nhân sự; nhân viên",
+      "image": null,
+      "example": {
+        "en": "Most items used by TBNC personnel remain in good condition."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v49",
+      "no": 49,
+      "word": "redevelopment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌriːdɪˈveləpmənt/",
+        "us": "/ˌriːdɪˈveləpmənt/"
+      },
+      "meaningVi": "việc tái phát triển; cải tạo",
+      "image": null,
+      "example": {
+        "en": "The Hollydell Shopping Mall redevelopment project has been completed."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v50",
+      "no": 50,
+      "word": "tenant",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtenənt/",
+        "us": "/ˈtenənt/"
+      },
+      "meaningVi": "bên thuê (cửa hàng, mặt bằng)",
+      "image": null,
+      "example": {
+        "en": "New tenants include Peak Sporting Goods and Shoes for Less."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v51",
+      "no": 51,
+      "word": "manage",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈmænɪdʒ/",
+        "us": "/ˈmænɪdʒ/"
+      },
+      "meaningVi": "quản lý",
+      "image": null,
+      "example": {
+        "en": "Stillwater manages two other shopping malls in Auckland."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v52",
+      "no": 52,
+      "word": "renovate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈrenəveɪt/",
+        "us": "/ˈrenəveɪt/"
+      },
+      "meaningVi": "cải tạo; tu sửa",
+      "image": null,
+      "example": {
+        "en": "The other three sections have been renovated."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v53",
+      "no": 53,
+      "word": "steady",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈstedi/",
+        "us": "/ˈstedi/"
+      },
+      "meaningVi": "đều đặn; ổn định",
+      "image": null,
+      "example": {
+        "en": "The manager has seen a steady increase in the number of customers."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v54",
+      "no": 54,
+      "word": "remark on",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈmɑːk ɒn/",
+        "us": "/rɪˈmɑːrk ɑːn/"
+      },
+      "meaningVi": "nhận xét về",
+      "image": null,
+      "example": {
+        "en": "Many of them have remarked on how much more enjoyable it is to shop."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v55",
+      "no": 55,
+      "word": "regulation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌreɡjəˈleɪʃn/",
+        "us": "/ˌreɡjəˈleɪʃn/"
+      },
+      "meaningVi": "quy định; quy tắc",
+      "image": null,
+      "example": {
+        "en": "All employees must comply with the new safety regulations."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
     }
   ]
 }
