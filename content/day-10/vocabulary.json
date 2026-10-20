@@ -797,6 +797,28 @@
         "meaningVi": "ai",
         "example": "ai"
       }
+    },
+    {
+      "id": "d10-v36",
+      "no": 36,
+      "word": "retirement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈtaɪəmənt/",
+        "us": "/rɪˈtaɪərmənt/"
+      },
+      "meaningVi": "sự nghỉ hưu; thời gian nghỉ hưu",
+      "image": null,
+      "example": {
+        "en": "The company offers a pension plan to help employees prepare for retirement."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
     }
   ]
 }
