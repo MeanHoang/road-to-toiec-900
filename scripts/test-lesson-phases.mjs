@@ -20,11 +20,13 @@ assert.equal(hasPhoto({ part: 2 }), false);
 const vocab = read('content/day-10/vocabulary.json').items;
 const listening = read('content/day-10/listening.json').items;
 const exercises = read('content/day-10/exercises.json').items;
-assert.equal(vocab.length, 24);
+assert.ok(vocab.length >= 24, 'Keep the 24 original words while allowing vocabulary additions');
+assert.equal(new Set(vocab.map((word) => word.id)).size, vocab.length);
+for (let i = 1; i <= 24; i++) assert.ok(vocab.some((word) => word.id === `d10-v${String(i).padStart(2, '0')}`), `Missing original word ${i}`);
 assert.equal(listening.flatMap((set) => set.questions).length, 48);
 assert.equal(exercises.flatMap((set) => set.questions).length, 11);
 const assets = new Set();
-for (const word of vocab) assets.add(word.image);
+for (const word of vocab) if (word.image) assets.add(word.image);
 for (const set of listening) {
   if (set.fullAudio) assets.add(set.fullAudio);
   for (const question of set.questions) {

@@ -77,7 +77,7 @@ export function QuestionCard({ question, index, total, score, picked, onPick, on
 
       {answered && (
         <div className="row row-end" style={{ marginTop: 'var(--space-4)' }}>
-          <Speak text={question.word.word} />
+          <Speak text={question.word.word} src={question.word.voice?.us || question.word.voice?.uk} />
           <Button variant="primary" onClick={onNext}>
             {t('Next question →')}
           </Button>

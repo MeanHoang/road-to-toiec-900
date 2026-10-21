@@ -36,7 +36,11 @@ export function AppShell({ children }) {
    * trang là bị che mất nội dung.
    */
   useEffect(() => {
-    setOpen(inLesson && isWide());
+    const viewport = window.matchMedia('(min-width: 1024px)');
+    const syncDrawer = () => setOpen(inLesson && viewport.matches);
+    syncDrawer();
+    viewport.addEventListener('change', syncDrawer);
+    return () => viewport.removeEventListener('change', syncDrawer);
   }, [inLesson]);
 
   // Bấm một mục trong ngăn kéo: màn hẹp thì đóng lại cho thấy nội dung, màn

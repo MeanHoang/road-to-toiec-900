@@ -2588,5 +2588,555 @@
     "vi": "Đề Part 1 số {0}",
     "zh": "第1部分测试{0}",
     "ko": "파트 1 시험 {0}"
+  },
+  "Listen & type": {
+    "vi": "Nghe và gõ",
+    "zh": "听音拼写",
+    "ko": "듣고 입력하기"
+  },
+  "Let your ears lead. Write what you hear.": {
+    "vi": "Lắng nghe rồi tự viết lại từ bạn nghe.",
+    "zh": "用耳朵引路，写下听到的单词。",
+    "ko": "귀를 기울여 들은 단어를 적어 보세요."
+  },
+  "Start here": {
+    "vi": "Bắt đầu từ đây",
+    "zh": "从这里开始",
+    "ko": "여기서 시작"
+  },
+  "Hear the meaning": {
+    "vi": "Nghe chọn nghĩa",
+    "zh": "听音选义",
+    "ko": "듣고 뜻 고르기"
+  },
+  "Listen to a word. Find its meaning.": {
+    "vi": "Nghe một từ và chọn nghĩa phù hợp.",
+    "zh": "听一个单词，选出它的意思。",
+    "ko": "단어를 듣고 뜻을 골라 보세요."
+  },
+  "Missing letters": {
+    "vi": "Điền chữ thiếu",
+    "zh": "补全字母",
+    "ko": "빈 글자 채우기"
+  },
+  "A little help with the tricky letters.": {
+    "vi": "Một chút gợi ý cho những chữ khó nhớ.",
+    "zh": "给难记的字母一点提示。",
+    "ko": "헷갈리는 글자에 작은 힌트를 드려요."
+  },
+  "Spelling": {
+    "vi": "Chính tả",
+    "zh": "拼写",
+    "ko": "철자"
+  },
+  "Phrase practice": {
+    "vi": "Chép cụm từ",
+    "zh": "短语练习",
+    "ko": "구문 연습"
+  },
+  "Remember the words that belong together.": {
+    "vi": "Ghi nhớ những từ thường đi cùng nhau.",
+    "zh": "记住经常搭配使用的词。",
+    "ko": "함께 쓰이는 단어를 기억해 보세요."
+  },
+  "Word pairs": {
+    "vi": "Cụm từ",
+    "zh": "词语搭配",
+    "ko": "단어 조합"
+  },
+  "60-second sprint": {
+    "vi": "60 giây bứt phá",
+    "zh": "60秒冲刺",
+    "ko": "60초 도전"
+  },
+  "Find your rhythm. Beat your own score.": {
+    "vi": "Tìm nhịp chơi và vượt điểm của chính bạn.",
+    "zh": "找到节奏，超越自己的分数。",
+    "ko": "리듬을 찾고 나만의 기록을 깨 보세요."
+  },
+  "Challenge": {
+    "vi": "Thử thách",
+    "zh": "挑战",
+    "ko": "도전"
+  },
+  "Play word audio": {
+    "vi": "Phát âm thanh từ vựng",
+    "zh": "播放单词音频",
+    "ko": "단어 음성 재생"
+  },
+  "Listen again": {
+    "vi": "Nghe lại",
+    "zh": "再听一次",
+    "ko": "다시 듣기"
+  },
+  "Slow audio": {
+    "vi": "Nghe chậm",
+    "zh": "慢速播放",
+    "ko": "느리게 듣기"
+  },
+  "Audio could not play. Check your connection and tap play again.": {
+    "vi": "Chưa phát được âm thanh. Kiểm tra kết nối rồi bấm nghe lại nhé.",
+    "zh": "无法播放音频。请检查网络并再次播放。",
+    "ko": "음성을 재생할 수 없어요. 연결을 확인하고 다시 눌러 주세요."
+  },
+  "SESSION COMPLETE": {
+    "vi": "HOÀN THÀNH LƯỢT CHƠI",
+    "zh": "本轮完成",
+    "ko": "연습 완료"
+  },
+  "Every session is a fresh start.": {
+    "vi": "Mỗi lượt chơi là một khởi đầu mới.",
+    "zh": "每一轮都是新的开始。",
+    "ko": "매 연습이 새로운 시작이에요."
+  },
+  "A little better, every time.": {
+    "vi": "Mỗi lần chơi, tiến bộ một chút.",
+    "zh": "每次都进步一点。",
+    "ko": "할 때마다 조금씩 더 나아져요."
+  },
+  "You found your rhythm!": {
+    "vi": "Bạn đã bắt được nhịp rồi!",
+    "zh": "你找到节奏了！",
+    "ko": "리듬을 찾았어요!"
+  },
+  "Your ears did the work. Give yourself a little credit.": {
+    "vi": "Đôi tai đã làm việc chăm chỉ. Tự thưởng cho mình một chút nhé.",
+    "zh": "耳朵辛苦了，给自己一点鼓励吧。",
+    "ko": "열심히 들었으니 스스로를 칭찬해 주세요."
+  },
+  "Correct answers": {
+    "vi": "Trả lời đúng",
+    "zh": "答对题数",
+    "ko": "정답 수"
+  },
+  "Words to revisit": {
+    "vi": "Từ cần luyện thêm",
+    "zh": "待复习单词",
+    "ko": "복습할 단어"
+  },
+  "A little more practice": {
+    "vi": "Luyện thêm một chút",
+    "zh": "再练习一下",
+    "ko": "조금 더 연습하기"
+  },
+  "These words are saved to your review list.": {
+    "vi": "Các từ này đã được lưu vào danh sách cần ôn.",
+    "zh": "这些单词已保存到复习列表。",
+    "ko": "이 단어들은 복습 목록에 저장됐어요."
+  },
+  "Practice missed words": {
+    "vi": "Luyện lại từ sai",
+    "zh": "练习错词",
+    "ko": "틀린 단어 연습"
+  },
+  "Play another round": {
+    "vi": "Chơi lượt tiếp theo",
+    "zh": "再来一轮",
+    "ko": "한 번 더 연습"
+  },
+  "Back to games": {
+    "vi": "Về danh sách trò chơi",
+    "zh": "返回游戏列表",
+    "ko": "게임 목록으로"
+  },
+  "No words available yet": {
+    "vi": "Chưa có từ phù hợp",
+    "zh": "暂无可用单词",
+    "ko": "아직 연습할 단어가 없어요"
+  },
+  "Session progress": {
+    "vi": "Tiến độ lượt chơi",
+    "zh": "本轮进度",
+    "ko": "연습 진행 상황"
+  },
+  "TUNE IN. YOU HAVE GOT THIS.": {
+    "vi": "LẮNG NGHE NHÉ. BẠN LÀM ĐƯỢC MÀ.",
+    "zh": "仔细听，你可以的。",
+    "ko": "귀 기울여 보세요. 할 수 있어요."
+  },
+  "What does it mean?": {
+    "vi": "Từ vừa nghe có nghĩa là gì?",
+    "zh": "这个词是什么意思？",
+    "ko": "무슨 뜻일까요?"
+  },
+  "Fill in the missing letters.": {
+    "vi": "Điền những chữ còn thiếu.",
+    "zh": "补全缺少的字母。",
+    "ko": "빈 글자를 채워 보세요."
+  },
+  "Which phrase did you hear?": {
+    "vi": "Bạn nghe được cụm từ nào?",
+    "zh": "你听到了哪个短语？",
+    "ko": "어떤 구문이 들렸나요?"
+  },
+  "What word did you hear?": {
+    "vi": "Bạn nghe được từ gì?",
+    "zh": "你听到了哪个单词？",
+    "ko": "어떤 단어가 들렸나요?"
+  },
+  "The clock starts when your first audio plays.": {
+    "vi": "Đồng hồ bắt đầu khi âm thanh đầu tiên phát.",
+    "zh": "首次音频播放时开始计时。",
+    "ko": "첫 음성이 재생되면 시간이 시작돼요."
+  },
+  "Listen as many times as you need.": {
+    "vi": "Cứ nghe lại thoải mái. Không cần vội.",
+    "zh": "需要的话可以多听几次，不用着急。",
+    "ko": "필요한 만큼 다시 들어 보세요."
+  },
+  "Word with missing letters": {
+    "vi": "Từ có chữ còn thiếu",
+    "zh": "含缺失字母的单词",
+    "ko": "빈 글자가 있는 단어"
+  },
+  "Type only the missing letters, in order": {
+    "vi": "Chỉ gõ các chữ thiếu theo thứ tự",
+    "zh": "按顺序输入缺少的字母",
+    "ko": "빠진 글자만 순서대로 입력하세요"
+  },
+  "{0} missing letters": {
+    "vi": "{0} chữ còn thiếu",
+    "zh": "缺少{0}个字母",
+    "ko": "빠진 글자 {0}개"
+  },
+  "Hide meaning hint": {
+    "vi": "Ẩn gợi ý nghĩa",
+    "zh": "隐藏释义提示",
+    "ko": "뜻 힌트 숨기기"
+  },
+  "Need a meaning hint?": {
+    "vi": "Cần gợi ý nghĩa không?",
+    "zh": "需要释义提示吗？",
+    "ko": "뜻 힌트가 필요하세요?"
+  },
+  "Check answer": {
+    "vi": "Kiểm tra đáp án",
+    "zh": "检查答案",
+    "ko": "정답 확인"
+  },
+  "Tap play to listen first.": {
+    "vi": "Bấm nút phát để nghe trước nhé.",
+    "zh": "请先点击播放听音频。",
+    "ko": "먼저 재생 버튼을 눌러 들어 보세요."
+  },
+  "Correct with a hint. Keep going!": {
+    "vi": "Đúng rồi, có gợi ý hỗ trợ. Tiếp tục nhé!",
+    "zh": "借助提示答对了，继续加油！",
+    "ko": "힌트를 보고 맞혔어요. 계속해 봐요!"
+  },
+  "That is it. Nicely done!": {
+    "vi": "Đúng rồi. Bạn làm tốt lắm!",
+    "zh": "答对了，做得好！",
+    "ko": "정답이에요. 잘했어요!"
+  },
+  "Almost. Let us look a little closer.": {
+    "vi": "Gần đúng rồi. Cùng xem lại nhé.",
+    "zh": "差一点点，我们仔细看看。",
+    "ko": "거의 다 왔어요. 함께 살펴봐요."
+  },
+  "Spelling correction": {
+    "vi": "Đối chiếu chính tả",
+    "zh": "拼写纠正",
+    "ko": "철자 교정"
+  },
+  "Saved for another practice. You will get there.": {
+    "vi": "Đã lưu để luyện lại. Bạn sẽ nhớ được thôi.",
+    "zh": "已保存供下次练习，你会掌握的。",
+    "ko": "다시 연습하도록 저장했어요. 곧 익숙해질 거예요."
+  },
+  "See results": {
+    "vi": "Xem kết quả",
+    "zh": "查看结果",
+    "ko": "결과 보기"
+  },
+  "Next word": {
+    "vi": "Từ tiếp theo",
+    "zh": "下一个单词",
+    "ko": "다음 단어"
+  },
+  "British audio": {
+    "vi": "Giọng Anh",
+    "zh": "英式发音",
+    "ko": "영국식 발음"
+  },
+  "American audio": {
+    "vi": "Giọng Mỹ",
+    "zh": "美式发音",
+    "ko": "미국식 발음"
+  },
+  "VOCABULARY ARCADE": {
+    "vi": "TRẠM CHƠI TỪ VỰNG",
+    "zh": "词汇游戏站",
+    "ko": "단어 놀이터"
+  },
+  "A little play.": {
+    "vi": "Một chút chơi.",
+    "zh": "玩一会儿。",
+    "ko": "조금 놀고."
+  },
+  "A little progress.": {
+    "vi": "Một bước tiến.",
+    "zh": "进步一点。",
+    "ko": "조금 성장하고."
+  },
+  "Headphones on. Make these words your own.": {
+    "vi": "Đeo tai nghe. Biến từ mới thành từ quen.",
+    "zh": "戴上耳机，让这些单词成为你的。",
+    "ko": "이어폰을 끼고 이 단어들을 내 것으로 만들어 보세요."
+  },
+  "Choose your words": {
+    "vi": "Chọn bộ từ để luyện",
+    "zh": "选择练习词汇",
+    "ko": "연습할 단어 선택"
+  },
+  "All words": {
+    "vi": "Tất cả từ",
+    "zh": "全部单词",
+    "ko": "모든 단어"
+  },
+  "Starred": {
+    "vi": "Đã gắn sao",
+    "zh": "已加星标",
+    "ko": "별표 단어"
+  },
+  "To review": {
+    "vi": "Cần ôn",
+    "zh": "待复习",
+    "ko": "복습 필요"
+  },
+  "Audio": {
+    "vi": "Âm thanh",
+    "zh": "音频",
+    "ko": "음성"
+  },
+  "Audio accent": {
+    "vi": "Giọng đọc",
+    "zh": "发音口音",
+    "ko": "발음 선택"
+  },
+  "YOUR DAILY LISTENING MOMENT": {
+    "vi": "MỘT CHÚT LUYỆN NGHE MỖI NGÀY",
+    "zh": "每天的听力时光",
+    "ko": "매일 조금씩 듣는 시간"
+  },
+  "10 words": {
+    "vi": "10 từ",
+    "zh": "10个单词",
+    "ko": "단어 10개"
+  },
+  "Your pace": {
+    "vi": "Theo nhịp của bạn",
+    "zh": "按自己的节奏",
+    "ko": "나만의 속도로"
+  },
+  "Let us play": {
+    "vi": "Bắt đầu luyện",
+    "zh": "开始练习",
+    "ko": "연습 시작"
+  },
+  "Find your flow": {
+    "vi": "Chọn cách luyện của bạn",
+    "zh": "找到你的节奏",
+    "ko": "나만의 연습 찾기"
+  },
+  "{0} words ready": {
+    "vi": "{0} từ sẵn sàng",
+    "zh": "{0}个单词已就绪",
+    "ko": "단어 {0}개 준비 완료"
+  },
+  "These words need audio before listening practice is ready. The classic quiz is still available below.": {
+    "vi": "Các từ này cần có audio trước khi luyện nghe. Bạn vẫn có thể chơi trắc nghiệm ở dưới.",
+    "zh": "这些单词需要音频才能练习听力。下方仍可进行经典测验。",
+    "ko": "듣기 연습을 위해 음성이 필요해요. 아래에서 기본 퀴즈를 할 수 있어요."
+  },
+  "Try all words, or add words to this list from your flashcards.": {
+    "vi": "Thử chọn tất cả từ, hoặc thêm từ vào nhóm này từ thẻ từ vựng.",
+    "zh": "试试全部单词，或从闪卡中添加单词。",
+    "ko": "모든 단어를 선택하거나 단어 카드에서 목록에 단어를 추가해 보세요."
+  },
+  "No matching words": {
+    "vi": "Chưa có từ phù hợp",
+    "zh": "没有符合条件的单词",
+    "ko": "해당하는 단어가 없어요"
+  },
+  "60 seconds": {
+    "vi": "60 giây",
+    "zh": "60秒",
+    "ko": "60초"
+  },
+  "AN OLD FAVORITE": {
+    "vi": "QUEN MÀ VẪN VUI",
+    "zh": "熟悉的经典",
+    "ko": "익숙한 즐거움"
+  },
+  "Classic word quiz": {
+    "vi": "Trắc nghiệm từ vựng",
+    "zh": "经典词汇测验",
+    "ko": "기본 단어 퀴즈"
+  },
+  "English, Vietnamese, and a little recall.": {
+    "vi": "Anh, Việt và một chút thử trí nhớ.",
+    "zh": "英语、越南语，考考记忆力。",
+    "ko": "영어와 베트남어로 기억력을 시험해 보세요."
+  },
+  "Small sessions. Familiar words. A stronger memory.": {
+    "vi": "Mỗi lượt một chút. Từ quen hơn. Nhớ lâu hơn.",
+    "zh": "短时练习，熟悉单词，记得更牢。",
+    "ko": "짧은 연습으로 단어는 익숙하게, 기억은 오래도록."
+  },
+  "Write your answer": {
+    "vi": "Câu trả lời của bạn",
+    "zh": "填写你的答案",
+    "ko": "답변을 입력하세요"
+  },
+  "Your practice collection": {
+    "vi": "Bộ từ đang luyện",
+    "zh": "当前练习词库",
+    "ko": "연습 단어 모음"
+  },
+  "Listening words": {
+    "vi": "Từ luyện nghe",
+    "zh": "听力单词",
+    "ko": "듣기 단어"
+  },
+  "Phrases": {
+    "vi": "Cụm từ",
+    "zh": "短语",
+    "ko": "구문"
+  },
+  "Audio plays automatically. Replay whenever you need.": {
+    "vi": "Âm thanh tự phát. Cần nghe lại thì cứ nghe nhé.",
+    "zh": "音频自动播放，需要时可重听。",
+    "ko": "음성이 자동 재생돼요. 필요하면 다시 들어 보세요."
+  },
+  "Moving to the next word…": {
+    "vi": "Đang chuyển sang từ tiếp theo…",
+    "zh": "正在进入下一个单词…",
+    "ko": "다음 단어로 이동 중…"
+  },
+  "Stay on this word": {
+    "vi": "Dừng ở từ này",
+    "zh": "停留在这个单词",
+    "ko": "이 단어에 머무르기"
+  },
+  "Replay audio": {
+    "vi": "Nghe lại",
+    "zh": "重播音频",
+    "ko": "다시 듣기"
+  },
+  "Check or continue": {
+    "vi": "Kiểm tra / tiếp tục",
+    "zh": "检查或继续",
+    "ko": "확인 / 계속"
+  },
+  "Choose an answer": {
+    "vi": "Chọn đáp án",
+    "zh": "选择答案",
+    "ko": "정답 선택"
+  },
+  "Match the cards": {
+    "vi": "Ghép thẻ",
+    "zh": "卡片配对",
+    "ko": "카드 짝 맞추기"
+  },
+  "Find the word. Match its meaning. Clear the board.": {
+    "vi": "Ghép từ với nghĩa. Tìm đủ cặp để xóa hết thẻ.",
+    "zh": "找到单词与释义，配对清空卡片。",
+    "ko": "단어와 뜻을 연결해 모든 카드를 없애 보세요."
+  },
+  "Memory": {
+    "vi": "Trí nhớ",
+    "zh": "记忆",
+    "ko": "기억력"
+  },
+  "BOARD CLEARED": {
+    "vi": "ĐÃ GHÉP HẾT THẺ",
+    "zh": "全部配对完成",
+    "ko": "모든 카드 완료"
+  },
+  "A perfect pair. Again and again.": {
+    "vi": "Từng cặp một. Bạn làm được rồi!",
+    "zh": "一对又一对，你做到了！",
+    "ko": "하나씩 차근차근. 해냈어요!"
+  },
+  "Every match makes these words a little more familiar.": {
+    "vi": "Mỗi cặp đúng giúp từ mới trở nên quen hơn.",
+    "zh": "每一次配对都让单词更熟悉。",
+    "ko": "짝을 맞출 때마다 단어가 더 익숙해져요."
+  },
+  "Your time": {
+    "vi": "Thời gian của bạn",
+    "zh": "用时",
+    "ko": "내 기록"
+  },
+  "Pairs matched": {
+    "vi": "Cặp đã ghép",
+    "zh": "已配对",
+    "ko": "맞춘 쌍"
+  },
+  "Mismatches": {
+    "vi": "Lần ghép sai",
+    "zh": "配错次数",
+    "ko": "틀린 횟수"
+  },
+  "Shuffle and play again": {
+    "vi": "Trộn thẻ và chơi lại",
+    "zh": "重新洗牌再玩",
+    "ko": "카드 섞고 다시 하기"
+  },
+  "A LITTLE MEMORY WORKOUT": {
+    "vi": "MỘT CHÚT THỬ TRÍ NHỚ",
+    "zh": "小小记忆挑战",
+    "ko": "가벼운 기억력 운동"
+  },
+  "Elapsed time": {
+    "vi": "Thời gian đã chơi",
+    "zh": "已用时间",
+    "ko": "경과 시간"
+  },
+  "Pick a word and its meaning. Make every pair disappear.": {
+    "vi": "Chọn một từ và nghĩa của nó. Ghép hết các cặp để hoàn thành.",
+    "zh": "选择单词和释义，让所有卡片消失。",
+    "ko": "단어와 뜻을 골라 모든 짝을 맞춰 보세요."
+  },
+  "pairs": {
+    "vi": "cặp",
+    "zh": "对",
+    "ko": "쌍"
+  },
+  "Word and meaning cards": {
+    "vi": "Thẻ từ và nghĩa",
+    "zh": "单词与释义卡片",
+    "ko": "단어와 뜻 카드"
+  },
+  "A match! Keep going.": {
+    "vi": "Đúng cặp rồi! Tiếp tục nhé.",
+    "zh": "配对成功！继续加油。",
+    "ko": "맞는 짝이에요! 계속해요."
+  },
+  "Not this pair. Try another.": {
+    "vi": "Chưa đúng cặp. Thử lại nhé.",
+    "zh": "这对不对，再试一次。",
+    "ko": "이 짝은 아니에요. 다시 해 보세요."
+  },
+  "Find your next pair.": {
+    "vi": "Tìm cặp tiếp theo nhé.",
+    "zh": "寻找下一对吧。",
+    "ko": "다음 짝을 찾아보세요."
+  },
+  "The timer starts with your first card.": {
+    "vi": "Đồng hồ bắt đầu khi bạn chọn thẻ đầu tiên.",
+    "zh": "选择第一张卡片时开始计时。",
+    "ko": "첫 카드를 고르면 시간이 시작돼요."
+  },
+  "Audio could not play. Tap the English card to try again.": {
+    "vi": "Chưa phát được âm thanh. Bấm thẻ tiếng Anh để nghe lại nhé.",
+    "zh": "音频无法播放，点击英文卡片重试。",
+    "ko": "음성을 재생하지 못했어요. 영어 카드를 다시 눌러 주세요."
+  },
+  "English cards speak when you tap them.": {
+    "vi": "Chọn thẻ tiếng Anh để tự nghe phát âm.",
+    "zh": "点击英文卡片自动播放发音。",
+    "ko": "영어 카드를 누르면 발음이 재생돼요."
   }
 }

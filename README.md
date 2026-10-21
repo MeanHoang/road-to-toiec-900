@@ -107,6 +107,7 @@ Project settings → Service accounts → Generate new private key, saved as
 | `npm run build` | Production build |
 | `npm run import <drive-url>` | Crawl a Drive folder, download audio, extract images and text |
 | `npm run transcribe <day>` | Transcribe every audio clip with whisper.cpp |
+| `npm run voice-vocab -- day-10` | Generate neural US/UK vocabulary MP3s (one lesson, or omit for all) |
 | `npm run validate [day]` | Check content files for structural errors and unreviewed fields |
 | `npm run test:merge` | Check the progress merge rules in `features/progress/merge.js` |
 | `npm run push-content [day]` | Upload `content/<day>/*.json` to Firestore (`--dry` to preview) |
@@ -115,6 +116,27 @@ Project settings → Service accounts → Generate new private key, saved as
 files that do not exist, `tokens`/`key` arrays of different lengths, and answer keys that
 contradict the `hasKey` flag. It also counts how many fields are still machine-generated
 and therefore unverified.
+
+### Vocabulary audio
+
+Vocabulary uses static Microsoft Edge neural TTS recordings: Aria (US) and Sonia
+(UK), generated at a slightly slower speaking rate. Set up the generator once:
+
+```bash
+python3 -m venv .cache/voice-env
+.cache/voice-env/bin/pip install -r scripts/voice/requirements.txt
+npm run voice-vocab -- day-10
+```
+
+Files live in `public/assets/<day>/voice-neural/`; content records the provider,
+voice names and rate. Generation is cached, resumable, and updates lesson metadata
+only after all recordings for that lesson succeed. Use `--force` to regenerate.
+The website plays these files directly; it does not call a TTS service at runtime.
+When cloud vocabulary still points to older recordings, the lesson loader prefers
+bundled neural audio only if the word ID and text both match.
+
+The older macOS generator remains available with `npm run voice-vocab -- --macos day-10`.
+For offline fallback, it uses Samantha (US) and Daniel (UK).
 
 ## Project structure
 

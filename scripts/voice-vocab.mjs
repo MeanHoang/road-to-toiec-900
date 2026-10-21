@@ -1,26 +1,10 @@
 #!/usr/bin/env node
-// Sinh sẵn file phát âm cho từ vựng, bằng giọng có sẵn của macOS.
-//
-//   npm run voice-vocab            mọi buổi trong days.json
-//   npm run voice-vocab day-2      một buổi
-//   npm run voice-vocab -- --force sinh lại cả file đã có
-//
-// VÌ SAO KHÔNG ĐỂ TRÌNH DUYỆT ĐỌC LÚC CHẠY
-//
-// Trước đây nút loa gọi speechSynthesis của trình duyệt. Nó hỏng theo kiểu tệ
-// nhất: engine đọc của Chrome kẹt ở trạng thái "đang đọc" rồi nuốt mọi lệnh sau
-// đó — không tiếng, không sự kiện `start`, không cả `error`. Đã đo tận nơi: gọi
-// speak() trần ba dòng cũng treo y hệt, trong khi `say` của macOS chạy bình
-// thường và loa vẫn kêu. Engine nằm trong tiến trình trình duyệt nên tải lại
-// trang không cứu được, và app thì không với tới.
-//
-// File mp3 sinh sẵn thì không có tầng nào để hỏng. Đổi lại ~1,2 MB trong repo
-// cho 118 từ — nhỏ hơn một clip luyện nghe.
-//
-// Vẫn dùng đúng hai giọng mà trình duyệt vốn sẽ chọn, nên nghe không khác gì.
-//
-// Cần `ffmpeg` (README đã yêu cầu sẵn cho pipeline import) và macOS cho `say`.
-// Sinh một lần rồi commit; máy khác chỉ việc phát.
+// Generate static vocabulary audio. Default: Microsoft Edge neural voices
+// Aria (US) / Sonia (UK), via scripts/voice-neural.py.
+//   npm run voice-vocab -- day-10
+//   npm run voice-vocab -- --force day-10
+// Offline macOS fallback (legacy voices, explicitly selected):
+//   npm run voice-vocab -- --macos day-10
 
 import { readFile, writeFile, mkdir, unlink } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
@@ -32,6 +16,25 @@ const run = promisify(execFile);
 const ROOT = path.resolve(import.meta.dirname, '..');
 const force = process.argv.includes('--force');
 const args = process.argv.slice(2).filter((a) => !a.startsWith('--'));
+
+if (!process.argv.includes('--macos')) {
+  const python = process.env.VOICE_PYTHON || path.join(ROOT, '.cache', 'voice-env', 'bin', 'python');
+  if (!existsSync(python)) {
+    console.error('Set up neural voices first:\n' +
+      '  python3 -m venv .cache/voice-env\n' +
+      '  .cache/voice-env/bin/pip install -r scripts/voice/requirements.txt\n' +
+      'Or select the legacy offline engine explicitly with --macos.');
+    process.exit(1);
+  }
+  try {
+    const { stdout } = await run(python, [path.join(ROOT, 'scripts', 'voice-neural.py'), ...args, ...(force ? ['--force'] : [])]);
+    process.stdout.write(stdout);
+  } catch (error) {
+    console.error(error.stderr || error.message);
+    process.exit(1);
+  }
+  process.exit(0);
+}
 
 // Daniel và Samantha là hai giọng macOS cài sẵn, cũng chính là hai giọng Chrome
 // hay chọn cho en-GB và en-US — nên đổi sang file sinh sẵn không đổi âm nghe.
@@ -113,6 +116,7 @@ async function lamMotBuoi(slug) {
     if (Object.keys(v.voice).length) v.source = { ...v.source, voice: 'tts' };
   }
 
+  data.voiceGeneration = { provider: 'macOS say', voices: { us: 'Samantha', uk: 'Daniel' }, rate: 'default' };
   await writeFile(path.join(ROOT, file), `${JSON.stringify(data, null, 2)}\n`);
 
   for (const h of hong) console.log(`✖  ${h}`);

@@ -1,0 +1,107 @@
+'use client';
+
+import { useTranslation } from '@/features/language/LanguageProvider';
+import { useCallback, useEffect, useState } from 'react';
+import { Card } from '@/shared/ui/atoms/Card';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
+import { LessonSkeleton } from '@/features/lesson/LessonSkeleton';
+import { ROUND, buildRound } from './buildRound';
+import { GameResult } from './GameResult';
+import { QuestionCard } from './QuestionCard';
+
+/** Trạng thái một lượt chơi. Gom vào một hook để màn hình chỉ còn phần bày biện. */
+function useGameRound(day, onMiss) {
+  const [round, setRound] = useState([]);
+  const [idx, setIdx] = useState(0);
+  const [picked, setPicked] = useState(null);
+  const [score, setScore] = useState({ right: 0, wrong: 0 });
+  const [missed, setMissed] = useState([]);
+
+  const start = useCallback(() => {
+    setRound(buildRound(day.vocabulary, day.quiz));
+    setIdx(0);
+    setPicked(null);
+    setScore({ right: 0, wrong: 0 });
+    setMissed([]);
+  }, [day.vocabulary, day.quiz]);
+
+  const question = round[idx];
+
+  const pick = (option) => {
+    if (picked || !question) return;
+    setPicked(option);
+
+    const right = option.id === question.word.id;
+    setScore((s) => ({ right: s.right + (right ? 1 : 0), wrong: s.wrong + (right ? 0 : 1) }));
+    if (right) return;
+
+    onMiss(question.word);
+    setMissed((m) => (m.some((w) => w.id === question.word.id) ? m : [...m, question.word]));
+  };
+
+  const next = () => {
+    setPicked(null);
+    setIdx((i) => i + 1);
+  };
+
+  return {
+    round,
+    idx,
+    question,
+    picked,
+    score,
+    missed,
+    finished: round.length > 0 && idx >= round.length,
+    start,
+    pick,
+    next,
+  };
+}
+
+export function ClassicGameScreen({ day, ready, onMiss }) {
+  const t = useTranslation();
+
+  // Sai thì đẩy từ về nhóm chưa học — thẻ từ vựng hiện lại ngay.
+  const game = useGameRound(day, onMiss);
+
+  // Câu hỏi sinh ngẫu nhiên nên chỉ dựng được ở client, không render trên server.
+  useEffect(() => {
+    if (ready && game.round.length === 0) game.start();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready]);
+
+  if (!ready) {
+    return <LessonSkeleton blocks={1} />;
+  }
+
+  return (
+    <>
+      <PageHeader
+        eyebrow={day.title}
+        title={t('Vocabulary game')}
+        subtitle={t('{0} questions per round · English ↔ Vietnamese · answer choices drawn from the {1} words in this lesson', [ROUND, day.vocabulary.length])}
+      />
+
+      {game.finished ? (
+        <GameResult
+          score={game.score}
+          total={game.round.length}
+          missed={game.missed}
+          onReplay={game.start}
+        />
+      ) : game.question ? (
+        <QuestionCard
+          question={game.question}
+          index={game.idx}
+          total={game.round.length}
+          score={game.score}
+          picked={game.picked}
+          onPick={game.pick}
+          onNext={game.next}
+        />
+      ) : (
+        <Card>{t('Preparing questions…')}</Card>
+      )}
+    </>
+  );
+}

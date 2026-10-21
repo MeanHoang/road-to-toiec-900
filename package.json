@@ -21,7 +21,8 @@
     "test:lesson-phases": "node scripts/test-lesson-phases.mjs",
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs",
-    "push-exam": "node scripts/push-exam.mjs"
+    "push-exam": "node scripts/push-exam.mjs",
+    "test:practice": "node scripts/test-practice.mjs"
   },
   "dependencies": {
     "firebase": "^12.18.0",

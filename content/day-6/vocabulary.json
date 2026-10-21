@@ -29,8 +29,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v01-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v01-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v01-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v01-uk.mp3"
       }
     },
     {
@@ -58,8 +58,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v02-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v02-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v02-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v02-uk.mp3"
       }
     },
     {
@@ -87,8 +87,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v03-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v03-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v03-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v03-uk.mp3"
       }
     },
     {
@@ -116,8 +116,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v04-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v04-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v04-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v04-uk.mp3"
       }
     },
     {
@@ -145,8 +145,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v05-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v05-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v05-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v05-uk.mp3"
       }
     },
     {
@@ -174,8 +174,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v06-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v06-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v06-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v06-uk.mp3"
       }
     },
     {
@@ -203,8 +203,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v07-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v07-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v07-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v07-uk.mp3"
       }
     },
     {
@@ -232,8 +232,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v08-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v08-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v08-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v08-uk.mp3"
       }
     },
     {
@@ -261,8 +261,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v09-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v09-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v09-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v09-uk.mp3"
       }
     },
     {
@@ -290,8 +290,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v10-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v10-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v10-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v10-uk.mp3"
       }
     },
     {
@@ -319,8 +319,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v11-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v11-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v11-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v11-uk.mp3"
       }
     },
     {
@@ -348,8 +348,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v12-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v12-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v12-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v12-uk.mp3"
       }
     },
     {
@@ -377,8 +377,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v13-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v13-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v13-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v13-uk.mp3"
       }
     },
     {
@@ -406,8 +406,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v14-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v14-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v14-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v14-uk.mp3"
       }
     },
     {
@@ -435,8 +435,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v15-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v15-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v15-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v15-uk.mp3"
       }
     },
     {
@@ -464,8 +464,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v16-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v16-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v16-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v16-uk.mp3"
       }
     },
     {
@@ -493,8 +493,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v17-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v17-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v17-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v17-uk.mp3"
       }
     },
     {
@@ -522,8 +522,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v18-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v18-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v18-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v18-uk.mp3"
       }
     },
     {
@@ -551,8 +551,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v19-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v19-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v19-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v19-uk.mp3"
       }
     },
     {
@@ -580,8 +580,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v20-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v20-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v20-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v20-uk.mp3"
       }
     },
     {
@@ -609,8 +609,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v21-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v21-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v21-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v21-uk.mp3"
       }
     },
     {
@@ -638,8 +638,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v22-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v22-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v22-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v22-uk.mp3"
       }
     },
     {
@@ -667,8 +667,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v23-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v23-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v23-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v23-uk.mp3"
       }
     },
     {
@@ -696,8 +696,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v24-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v24-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v24-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v24-uk.mp3"
       }
     },
     {
@@ -725,8 +725,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v25-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v25-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v25-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v25-uk.mp3"
       }
     },
     {
@@ -754,8 +754,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v26-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v26-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v26-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v26-uk.mp3"
       }
     },
     {
@@ -783,8 +783,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v27-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v27-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v27-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v27-uk.mp3"
       }
     },
     {
@@ -812,8 +812,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v28-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v28-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v28-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v28-uk.mp3"
       }
     },
     {
@@ -841,8 +841,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v29-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v29-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v29-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v29-uk.mp3"
       }
     },
     {
@@ -870,8 +870,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v30-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v30-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v30-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v30-uk.mp3"
       }
     },
     {
@@ -899,8 +899,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v31-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v31-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v31-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v31-uk.mp3"
       }
     },
     {
@@ -928,8 +928,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v32-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v32-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v32-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v32-uk.mp3"
       }
     },
     {
@@ -957,8 +957,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v33-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v33-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v33-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v33-uk.mp3"
       }
     },
     {
@@ -986,8 +986,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v34-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v34-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v34-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v34-uk.mp3"
       }
     },
     {
@@ -1015,8 +1015,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v35-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v35-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v35-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v35-uk.mp3"
       }
     },
     {
@@ -1044,8 +1044,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v36-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v36-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v36-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v36-uk.mp3"
       }
     },
     {
@@ -1073,8 +1073,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v37-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v37-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v37-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v37-uk.mp3"
       }
     },
     {
@@ -1102,8 +1102,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v38-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v38-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v38-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v38-uk.mp3"
       }
     },
     {
@@ -1131,8 +1131,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v39-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v39-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v39-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v39-uk.mp3"
       }
     },
     {
@@ -1160,8 +1160,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v40-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v40-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v40-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v40-uk.mp3"
       }
     },
     {
@@ -1189,8 +1189,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v41-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v41-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v41-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v41-uk.mp3"
       }
     },
     {
@@ -1218,8 +1218,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v42-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v42-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v42-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v42-uk.mp3"
       }
     },
     {
@@ -1247,8 +1247,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v43-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v43-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v43-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v43-uk.mp3"
       }
     },
     {
@@ -1276,8 +1276,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v44-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v44-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v44-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v44-uk.mp3"
       }
     },
     {
@@ -1305,8 +1305,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v45-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v45-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v45-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v45-uk.mp3"
       }
     },
     {
@@ -1334,8 +1334,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v46-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v46-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v46-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v46-uk.mp3"
       }
     },
     {
@@ -1363,8 +1363,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v47-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v47-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v47-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v47-uk.mp3"
       }
     },
     {
@@ -1392,8 +1392,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v48-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v48-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v48-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v48-uk.mp3"
       }
     },
     {
@@ -1421,8 +1421,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v49-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v49-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v49-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v49-uk.mp3"
       }
     },
     {
@@ -1450,8 +1450,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v50-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v50-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v50-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v50-uk.mp3"
       }
     },
     {
@@ -1479,8 +1479,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v51-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v51-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v51-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v51-uk.mp3"
       }
     },
     {
@@ -1508,8 +1508,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v52-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v52-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v52-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v52-uk.mp3"
       }
     },
     {
@@ -1537,8 +1537,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v53-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v53-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v53-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v53-uk.mp3"
       }
     },
     {
@@ -1566,8 +1566,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v54-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v54-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v54-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v54-uk.mp3"
       }
     },
     {
@@ -1595,8 +1595,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v55-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v55-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v55-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v55-uk.mp3"
       }
     },
     {
@@ -1624,8 +1624,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v56-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v56-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v56-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v56-uk.mp3"
       }
     },
     {
@@ -1653,8 +1653,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v57-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v57-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v57-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v57-uk.mp3"
       }
     },
     {
@@ -1682,8 +1682,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v58-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v58-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v58-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v58-uk.mp3"
       }
     },
     {
@@ -1711,8 +1711,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v59-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v59-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v59-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v59-uk.mp3"
       }
     },
     {
@@ -1740,8 +1740,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v60-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v60-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v60-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v60-uk.mp3"
       }
     },
     {
@@ -1769,8 +1769,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v61-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v61-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v61-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v61-uk.mp3"
       }
     },
     {
@@ -1798,8 +1798,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v62-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v62-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v62-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v62-uk.mp3"
       }
     },
     {
@@ -1827,8 +1827,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v63-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v63-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v63-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v63-uk.mp3"
       }
     },
     {
@@ -1856,8 +1856,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v64-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v64-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v64-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v64-uk.mp3"
       }
     },
     {
@@ -1885,8 +1885,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v65-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v65-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v65-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v65-uk.mp3"
       }
     },
     {
@@ -1914,8 +1914,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v66-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v66-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v66-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v66-uk.mp3"
       }
     },
     {
@@ -1943,8 +1943,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v67-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v67-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v67-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v67-uk.mp3"
       }
     },
     {
@@ -1972,8 +1972,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v68-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v68-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v68-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v68-uk.mp3"
       }
     },
     {
@@ -2001,8 +2001,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v69-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v69-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v69-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v69-uk.mp3"
       }
     },
     {
@@ -2030,8 +2030,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v70-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v70-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v70-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v70-uk.mp3"
       }
     },
     {
@@ -2059,8 +2059,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v71-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v71-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v71-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v71-uk.mp3"
       }
     },
     {
@@ -2088,8 +2088,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v72-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v72-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v72-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v72-uk.mp3"
       }
     },
     {
@@ -2117,8 +2117,8 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v73-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v73-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v73-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v73-uk.mp3"
       }
     },
     {
@@ -2146,9 +2146,18 @@
         "voice": "tts"
       },
       "voice": {
-        "uk": "/assets/day-6/voice/d6-v74-uk.mp3",
-        "us": "/assets/day-6/voice/d6-v74-us.mp3"
+        "us": "/assets/day-6/voice-neural/d6-v74-us.mp3",
+        "uk": "/assets/day-6/voice-neural/d6-v74-uk.mp3"
       }
     }
-  ]
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1"
+  }
 }

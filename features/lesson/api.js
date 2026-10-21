@@ -11,6 +11,7 @@
 import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
 import { db, isConfigured } from '@/lib/firebase';
 import { assemble } from './schema';
+import { mergeVocabularyAudio } from './recordings';
 import { bundledDays, getBundledDay } from './bundled';
 import { englishMetadata } from '@/shared/lib/englishLabels';
 
@@ -58,7 +59,8 @@ export async function fetchDay(slug) {
           if (COLLECTIONS.includes(d.id)) files[d.id] = d.data();
         });
 
-        return assemble(slug, files);
+        const lesson = assemble(slug, files);
+        return { ...lesson, vocabulary: mergeVocabularyAudio(lesson.vocabulary, getBundledDay(slug)?.vocabulary || []) };
       }
     } catch (e) {
       console.warn(`[lesson] không đọc được ${slug} từ Firestore:`, e.message);

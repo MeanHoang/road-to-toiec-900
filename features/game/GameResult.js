@@ -40,7 +40,7 @@ export function GameResult({ score, total, missed, onReplay }) {
                   </td>
                   <td>{m.meaningVi}</td>
                   <td>
-                    <Speak text={m.word} />
+                    <Speak text={m.word} src={m.voice?.us || m.voice?.uk} />
                   </td>
                 </tr>
               ))}
