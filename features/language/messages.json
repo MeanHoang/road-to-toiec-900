@@ -3183,5 +3183,45 @@
     "vi": "Chép {0} từ chưa học",
     "zh": "复制 {0} 个待学单词",
     "ko": "학습할 단어 {0}개 복사"
+  },
+  "Appearance settings": {
+    "vi": "Cài đặt giao diện",
+    "zh": "外观设置",
+    "ko": "화면 설정"
+  },
+  "Choose your colors. Changes are saved on this device.": {
+    "vi": "Chọn màu bạn thích. Lựa chọn được lưu trên thiết bị này.",
+    "zh": "选择喜欢的颜色，设置会保存在此设备上。",
+    "ko": "원하는 색상을 고르세요. 이 기기에 자동 저장됩니다."
+  },
+  "Color palette": {
+    "vi": "Bảng màu",
+    "zh": "配色",
+    "ko": "색상 팔레트"
+  },
+  "Leaf green": {
+    "vi": "Xanh lá",
+    "zh": "叶绿",
+    "ko": "잎사귀 초록"
+  },
+  "Ocean blue": {
+    "vi": "Xanh biển",
+    "zh": "海蓝",
+    "ko": "바다 파랑"
+  },
+  "Soft violet": {
+    "vi": "Tím dịu",
+    "zh": "柔紫",
+    "ko": "부드러운 보라"
+  },
+  "Warm rose": {
+    "vi": "Hồng ấm",
+    "zh": "暖粉",
+    "ko": "따뜻한 분홍"
+  },
+  "Golden amber": {
+    "vi": "Vàng hổ phách",
+    "zh": "琥珀金",
+    "ko": "호박빛 골드"
   }
 }

@@ -1,0 +1,8 @@
+Tool: built-in image_gen, original generation followed by style edit.
+
+Original: An original friendly golden-yellow chicken app icon, coral three-lobed comb, large white eyes with forest-green pupils, happy orange beak, centered close-up on forest-green square background. Rounded geometric forms, clear silhouette at favicon sizes. No text or existing brand mascot.
+
+Final edit prompt:
+Edit this original chicken app icon into a crisp FLAT geometric mascot illustration for a playful language-learning app. Keep this same friendly yellow chicken identity, coral three-lobed comb, forest-green background, big white eyes, orange happy open beak and centered close-up square composition. Simplify radically: solid flat colors, bold rounded geometric shapes, no gradients, no airbrush, no texture, no 3D lighting, no shiny highlights except one simple white eye dot. Use at most one flat darker color shape per feature to suggest chunky depth. Slightly smaller cheeks, clean readable silhouette at 32px. Cheerful expressive modern gamified illustration. Preserve original chicken identity, no owl, no letters, no watermark. Fully square background extends to all four edges.
+
+Source: chicken-mascot-flat.png. App exports: app/icon.png (64), app/apple-icon.png (180), chicken-mark.webp (96), chicken-icon-512.png (512).

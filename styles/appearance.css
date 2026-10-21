@@ -1,0 +1,57 @@
+/* User-selected accents share the same contrast, spacing and component shapes. */
+:root[data-palette] {
+  --brand-surface:color-mix(in srgb,var(--brand) 9%,transparent);
+  --brand-border:color-mix(in srgb,var(--brand) 35%,transparent);
+  --ring:0 0 0 3px color-mix(in srgb,var(--brand) 28%,transparent);
+  --control-edge:color-mix(in srgb,var(--brand) 72%,#17212b);
+}
+:root[data-palette='blue'] {
+  --brand-600:#2866ad; --brand-500:#20558f; --brand-400:#91c2ff;
+  --slate-50:#f8fafd; --slate-100:#edf2f9; --slate-200:#dce4ef; --slate-300:#b8c8dc;
+  --slate-900:#192b42; --slate-950:#111c2c; --slate-850:#22354c;
+}
+:root[data-palette='violet'] {
+  --brand-600:#7250ac; --brand-500:#614292; --brand-400:#c6adf3;
+  --slate-50:#fbf9fd; --slate-100:#f1edf7; --slate-200:#e5dfef; --slate-300:#cbbfdd;
+  --slate-900:#2e243d; --slate-950:#1c1626; --slate-850:#3a2e4b;
+}
+:root[data-palette='rose'] {
+  --brand-600:#ad4568; --brand-500:#943957; --brand-400:#f4abc3;
+  --slate-50:#fdf9fa; --slate-100:#f8eef1; --slate-200:#efdde3; --slate-300:#dcbcc8;
+  --slate-900:#3b2530; --slate-950:#261820; --slate-850:#4a303d;
+}
+:root[data-palette='amber'] {
+  --brand-600:#8a5712; --brand-500:#74470c; --brand-400:#edc479;
+  --slate-50:#fdfbf6; --slate-100:#f7f0e4; --slate-200:#ebe1ce; --slate-300:#d3c3a4;
+  --slate-900:#352c1c; --slate-950:#221d14; --slate-850:#423825;
+}
+:root[data-palette][data-theme='dark'] { --brand-hover:color-mix(in srgb,var(--brand) 80%,white); --border:color-mix(in srgb,var(--brand) 22%,var(--surface)); --border-strong:color-mix(in srgb,var(--brand) 36%,var(--surface)); }
+@media(prefers-color-scheme:dark) {
+ :root[data-palette]:not([data-theme='light']) { --brand-hover:color-mix(in srgb,var(--brand) 80%,white); --border:color-mix(in srgb,var(--brand) 22%,var(--surface)); --border-strong:color-mix(in srgb,var(--brand) 36%,var(--surface)); }
+}
+.nav-primary .nav-link.is-current { background:var(--brand-surface); border-color:var(--brand-border); color:var(--brand); }
+.arcade-tone-rose { --game-ink:#a44266; --game-tint:#f8e8ee; }
+.appearance-trigger { flex:0 0 44px; width:44px; height:44px; }
+.appearance-dialog { width:min(460px,calc(100% - 32px)); max-height:calc(100dvh - 32px); overflow-y:auto; margin:auto; padding:22px; background:var(--surface); color:var(--text); border:2px solid var(--border); border-radius:22px; box-shadow:0 5px 0 var(--border),var(--shadow-lg); }
+.appearance-dialog::backdrop { background:rgb(12 22 30 / .42); }
+.appearance-heading { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+.appearance-heading h2 { font-size:21px; }
+.appearance-heading .icon-btn { flex:0 0 44px; width:44px; height:44px; }
+.appearance-dialog p { margin:12px 0 20px; color:var(--text-muted); font-size:14px; line-height:1.6; }
+.palette-options { border:0; margin:0; padding:0 0 4px; display:grid; gap:10px; }
+.palette-options legend { margin-bottom:12px; font-size:14px; font-weight:600; }
+.palette-choice { position:relative; display:flex; align-items:center; gap:14px; min-height:62px; padding:10px 14px; border:2px solid var(--border); border-radius:14px; box-shadow:0 3px 0 var(--border); cursor:pointer; }
+.palette-choice.is-selected { border-color:var(--brand); background:var(--brand-surface); box-shadow:0 3px 0 var(--control-edge); }
+.palette-choice:has(input:focus-visible) { outline:2px solid var(--brand); outline-offset:4px; }
+.palette-choice input { position:absolute; width:1px; height:1px; opacity:0; }
+.palette-preview { display:flex; gap:4px; flex:0 0 auto; }
+.palette-preview span { display:block; width:22px; height:28px; border-radius:6px; background:var(--palette-color); }
+.palette-preview span:nth-child(2) { background:color-mix(in srgb,var(--palette-color) 45%,white); }
+.palette-preview span:nth-child(3) { background:var(--palette-tint); border:1px solid color-mix(in srgb,var(--palette-color) 20%,white); }
+.palette-name { flex:1; font-size:14px; font-weight:600; }
+.palette-check { width:20px; color:var(--brand); font-weight:700; }
+@media(max-width:380px) {
+ .workspace-bar .language-trigger [lang] { display:none; }
+ .appearance-dialog { padding:16px; }
+ .palette-choice { gap:10px; padding-inline:10px; }
+}

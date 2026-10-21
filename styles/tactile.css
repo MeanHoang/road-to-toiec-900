@@ -1,0 +1,88 @@
+/* Playful solid forms: the existing workspace layout stays intact. */
+:root {
+  --control-edge:color-mix(in srgb,var(--brand) 72%,#102e24);
+  --quiet-edge:var(--border-strong);
+  --press-depth:4px;
+}
+h1,h2,h3 { font-weight:700; letter-spacing:-.025em; }
+.btn,.arcade-primary,.arcade-secondary,.arcade-exit,.select-trigger,.icon-btn,.option,.exam-option,.arcade-meaning-option,.step,.palette-cell {
+  border-width:2px;
+  border-style:solid;
+  border-radius:14px;
+  box-shadow:0 var(--press-depth) 0 var(--quiet-edge);
+  font-weight:600;
+  transition:background-color 120ms var(--ease),border-color 120ms var(--ease),box-shadow 120ms var(--ease),transform 120ms var(--ease);
+}
+.btn { min-width:44px; padding:9px 15px; }
+.btn-sm { padding:7px 11px; }
+.btn-primary,.arcade-primary { background:var(--brand); border-color:var(--brand); color:var(--text-on-brand); box-shadow:0 var(--press-depth) 0 var(--control-edge); }
+.btn-success { box-shadow:0 var(--press-depth) 0 color-mix(in srgb,var(--success) 55%,var(--border)); }
+.btn-danger { box-shadow:0 var(--press-depth) 0 color-mix(in srgb,var(--danger) 50%,var(--border)); }
+.arcade-primary { padding:11px 17px; }
+.arcade-secondary { border-color:var(--border); padding:9px 15px; }
+.select-trigger { padding:9px 11px; }
+.icon-btn { border-color:var(--border); background:var(--surface); }
+.option { padding:11px; }
+.exam-option { padding:11px 15px; }
+.exam-controls .btn { padding:9px 7px; }
+.step,.palette-cell { --press-depth:3px; }
+.step.is-current,.palette-cell.is-current { border-color:var(--brand); background:var(--brand); color:var(--text-on-brand); box-shadow:0 3px 0 var(--control-edge); outline:none; }
+:is(.btn,.arcade-primary,.arcade-secondary,.arcade-exit,.select-trigger,.icon-btn,.option,.exam-option,.arcade-meaning-option,.step,.palette-cell):hover:not(:disabled) { transform:translateY(-1px); }
+:is(.btn,.arcade-primary,.arcade-secondary,.arcade-exit,.select-trigger,.icon-btn,.option,.exam-option,.arcade-meaning-option,.step,.palette-cell):active:not(:disabled) { transform:translateY(3px); box-shadow:0 1px 0 var(--quiet-edge); }
+:is(.btn,.arcade-primary,.arcade-secondary,.arcade-exit,.select-trigger,.icon-btn,.option,.exam-option,.arcade-meaning-option,.step,.palette-cell):focus-visible { outline:2px solid var(--brand); outline-offset:5px; }
+:is(.btn,.arcade-primary,.arcade-secondary,.arcade-exit,.select-trigger,.icon-btn,.option,.exam-option,.arcade-meaning-option,.step,.palette-cell):disabled { box-shadow:0 2px 0 var(--border); transform:none; }
+.card,.hero.home-intro,.table-wrap,.theory-workspace,.modal { border:2px solid var(--border); border-radius:20px; box-shadow:0 3px 0 var(--border); }
+.card { padding:19px; }
+.home-summary .hero.home-intro { padding:21px; }
+.nav-card.nav-illustrated { border:2px solid var(--border); border-radius:20px; padding:6px; box-shadow:0 4px 0 var(--border); transition:border-color 120ms,box-shadow 120ms,transform 120ms; }
+.nav-card.nav-art-side,.home-catalog .lesson-grid .nav-card.nav-art-side { padding:7px; }
+.nav-card.nav-illustrated:hover { border-color:var(--brand-border); transform:translateY(-2px); box-shadow:0 6px 0 var(--border); }
+.nav-card.nav-illustrated:active { transform:translateY(3px); box-shadow:0 1px 0 var(--border); }
+.nav-card.nav-illustrated .title { font-weight:700; }
+.nav-card-art,.arcade-card-art { border-radius:14px; }
+.arcade-game-card,.arcade-game-card[data-mode='match'],.arcade-classic { border:2px solid var(--border); border-radius:20px; box-shadow:0 4px 0 var(--border); }
+.arcade-game-card:hover:not(:disabled),.arcade-classic:hover { transform:translateY(-2px); box-shadow:0 6px 0 var(--border); }
+.arcade-game-card:active:not(:disabled),.arcade-classic:active { transform:translateY(3px); box-shadow:0 1px 0 var(--border); }
+.arcade-card-copy h3,.arcade-classic h3 { font-weight:700; }
+.arcade-match-tile { border-width:2px; border-radius:18px; box-shadow:0 4px 0 var(--border-strong); }
+.arcade-match-tile.is-selected { box-shadow:0 4px 0 var(--brand); }
+.arcade-match-tile.is-correct { box-shadow:0 4px 0 var(--success); }
+.arcade-match-tile.is-wrong { box-shadow:0 4px 0 var(--danger); }
+.flashcard-face { border-width:2px; border-radius:24px; padding:23px 37px; box-shadow:0 6px 0 var(--border); }
+.flashcard-flip { border-radius:24px; }
+.input,.textarea,.arcade-answer { border-width:2px; border-radius:14px; }
+.input,.textarea { padding:9px 12px; }
+.badge { border-radius:8px; font-weight:600; }
+.callout,.notice,.feedback { border-width:2px; border-radius:16px; }
+.progress-track,.arcade-progress { background:var(--surface-sunken); box-shadow:inset 0 2px 0 var(--border); }
+.progress-fill,.arcade-progress>span { background:var(--brand); border-radius:inherit; }
+.home-phase { border-width:2px; border-radius:14px; padding:7px 13px; box-shadow:0 3px 0 var(--border); }
+.home-phase.is-active { box-shadow:0 3px 0 var(--brand-border); background:var(--brand-surface); }
+.language-trigger { border-width:2px; border-radius:14px; padding:7px 11px; box-shadow:0 3px 0 var(--border); font-weight:600; }
+.nav-primary .nav-link { border:2px solid transparent; padding:6px 10px; font-weight:600; border-radius:14px; }
+.nav-primary .nav-link.is-current { background:#e5f4fd; border-color:#8ed4f3; color:#126c98; }
+.nav-day-no { border-radius:10px; box-shadow:0 2px 0 var(--border); }
+.nav-day.is-current .nav-day-no { box-shadow:0 2px 0 var(--control-edge); }
+.arcade-play,.track-play { box-shadow:0 5px 0 var(--control-edge); }
+.arcade-play:active,.track-play:active { transform:translateY(3px); box-shadow:0 2px 0 var(--control-edge); }
+.select-popover,.language-popover { border:2px solid var(--border); border-radius:16px; box-shadow:0 4px 0 var(--border),var(--shadow-md); }
+.select-option { border-radius:10px; }
+.select-option[aria-selected='true'] { font-weight:600; background:var(--brand-surface); }
+.option.is-correct,.exam-option.is-picked { box-shadow:0 4px 0 color-mix(in srgb,var(--success) 50%,var(--border)); }
+.option.is-wrong { box-shadow:0 4px 0 color-mix(in srgb,var(--danger) 50%,var(--border)); }
+@media(min-width:901px) {
+ .exam-picker .paper { padding-block:15px; }
+ .arcade-card-copy { padding-block:11px; }
+ .arcade-match-instructions { margin-block:10px; }
+}
+@media(max-width:700px) {
+ .card { padding:15px; }
+ .flashcard-face { padding:23px; }
+ .home-summary .hero.home-intro { padding:19px; }
+ .nav-card.nav-illustrated { padding:5px; }
+ .nav-card.nav-art-side { padding:7px; }
+ .exam-controls .btn { padding:9px 7px; }
+}
+@media(prefers-reduced-motion:reduce) {
+ :is(.btn,.arcade-primary,.arcade-secondary,.icon-btn,.select-trigger,.option,.exam-option,.nav-card,.arcade-game-card):hover { transform:none; }
+}

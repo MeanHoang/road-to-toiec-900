@@ -47,10 +47,10 @@
   --radius-full: 999px;
 
   /* --- dải màu trung tính: hơi ngả xanh cho bớt "chết" --- */
-  --slate-50:  #f6f5f1;
-  --slate-100: #efeee8;
-  --slate-200: #dedfd7;
-  --slate-300: #bfc8bf;
+  --slate-50:  #fbfcf8;
+  --slate-100: #eef2e8;
+  --slate-200: #dfe6d9;
+  --slate-300: #bdcbb6;
   --slate-400: #a0b2a8;
   --slate-500: #626e68;
   --slate-600: #4d5c55;
@@ -62,8 +62,8 @@
 
   /* --- màu thương hiệu: một sắc độ duy nhất, đủ 3 bậc --- */
   --brand-400: #8ad7bd;
-  --brand-500: #196952;
-  --brand-600: #205c4c;
+  --brand-500: #1c6642;
+  --brand-600: #24754d;
   --accent-500: #8b6cf6;
 
   /* --- màu trạng thái --- */

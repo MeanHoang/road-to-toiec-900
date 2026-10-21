@@ -9,12 +9,13 @@ import { ACTIVE_EVENT } from '@/shared/lib/event';
 import Link from 'next/link';
 import { Icon } from '@/shared/ui/atoms/Icon';
 import { NavDrawer } from './NavDrawer';
+import { AppearanceSettings } from '@/features/appearance/AppearanceSettings';
 import { LanguageSelector } from '@/features/language/LanguageSelector';
 
 /** Shared workspace: persistent navigation on desktop, an overlay on mobile. */
 const isWide = () => window.matchMedia('(min-width: 1024px)').matches;
 
-export function AppShell({ children }) {
+export function AppShell({ children, initialPalette }) {
   const t = useTranslation();
   const pathname = usePathname() || '/';
   const inLesson = pathname.startsWith('/day/');
@@ -55,6 +56,7 @@ export function AppShell({ children }) {
           <Link href="/" className="workspace-brand">TOEIC <b>900</b></Link>
           <span className="workspace-context">{t(inLesson ? 'Lesson navigation' : pathname.startsWith('/exam') ? 'Exam room' : 'Choose a lesson to get started')}</span>
           <LanguageSelector />
+          <AppearanceSettings initialPalette={initialPalette} />
         </div>
         <main className="app-shell">{children}</main>
       </div>

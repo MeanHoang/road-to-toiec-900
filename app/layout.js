@@ -1,4 +1,5 @@
 import './globals.css';
+import { PALETTE_COOKIE, paletteOf } from '@/features/appearance/palettes';
 import { cookies } from 'next/headers';
 import { LanguageProvider } from '@/features/language/LanguageProvider';
 import { LANGUAGE_COOKIE, languageOf } from '@/features/language/translate';
@@ -23,13 +24,15 @@ export const viewport = {
 };
 
 export default async function RootLayout({ children }) {
-  const locale = languageOf((await cookies()).get(LANGUAGE_COOKIE)?.value);
+  const preferences = await cookies();
+  const locale = languageOf(preferences.get(LANGUAGE_COOKIE)?.value);
+  const palette = paletteOf(preferences.get(PALETTE_COOKIE)?.value);
   return (
-    <html lang={locale} data-event={ACTIVE_EVENT || undefined}>
+    <html lang={locale} data-palette={palette} data-event={ACTIVE_EVENT || undefined}>
       <body>
         <LanguageProvider initialLocale={locale}>
           <AuthProvider>
-            <AppShell>{children}</AppShell>
+            <AppShell initialPalette={palette}>{children}</AppShell>
           </AuthProvider>
         </LanguageProvider>
       </body>

@@ -27,7 +27,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
     <Drawer open={open} onClose={onClose} label={t('Lesson navigation')}>
       <div className="drawer-head">
         <Link href="/" className="drawer-brand" onClick={onNavigate}>
-          <span className="brand-symbol"><Icon name="book" /></span><span>TOEIC <b>900</b><small>Road to TOEIC 900</small></span>
+          <span className="brand-symbol brand-mascot"><img src="/brand/chicken-mark.webp" width="38" height="38" alt="" /></span><span>TOEIC <b>900</b><small>Road to TOEIC 900</small></span>
         </Link>
         <button
           type="button"
