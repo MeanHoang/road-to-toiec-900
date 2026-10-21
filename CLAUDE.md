@@ -60,6 +60,14 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## 5. Browser Access Fallback
+
+- When web fetching or Playwright is blocked (403, CAPTCHA, or a verification page), try Orca's built-in browser before reporting that the source is inaccessible or finishing with partial results.
+- Load the version-matched `orca-cli` skill and its `references/browser.md` guide before using Orca browser commands. Use the CLI selected by that skill.
+- Open the source in an Orca tab, take a snapshot, and extract the full content if accessible. Keep subsequent commands scoped to that tab's `browserPageId`.
+- If Orca also requires human verification, report that specific limitation and ask the user to complete it; do not bypass the challenge.
+- This fallback worked for Quizlet on 2026-10-21: web/Playwright were blocked, while Orca could read all 27 cards.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.

@@ -1237,6 +1237,437 @@
         "meaningVi": "ai",
         "example": "ai"
       }
+    },
+    {
+      "id": "d10-v56",
+      "no": 56,
+      "word": "approximately",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/əˈprɒksɪmətli/",
+        "us": "/əˈprɑːksɪmətli/"
+      },
+      "meaningVi": "xấp xỉ; khoảng; gần đúng",
+      "image": null,
+      "example": {
+        "en": "The renovation will take approximately three months."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v57",
+      "no": 57,
+      "word": "torn down",
+      "pos": "v (past participle)",
+      "ipa": {
+        "uk": "/ˌtɔːn ˈdaʊn/",
+        "us": "/ˌtɔːrn ˈdaʊn/"
+      },
+      "meaningVi": "bị phá dỡ; bị đánh sập (quá khứ phân từ của tear down; tear – tore – torn)",
+      "image": null,
+      "example": {
+        "en": "The old shopping mall was torn down to make way for a new office building."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v58",
+      "no": 58,
+      "word": "variety",
+      "pos": "n",
+      "ipa": {
+        "uk": "/vəˈraɪəti/",
+        "us": "/vəˈraɪəti/"
+      },
+      "meaningVi": "sự đa dạng; nhiều loại (a variety of: nhiều loại khác nhau)",
+      "image": null,
+      "example": {
+        "en": "The shopping mall offers a wide variety of products."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v59",
+      "no": 59,
+      "word": "tenants",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/ˈtenənts/",
+        "us": "/ˈtenənts/"
+      },
+      "meaningVi": "những người hoặc đơn vị thuê nhà, cửa hàng, mặt bằng (số nhiều của tenant)",
+      "image": null,
+      "example": {
+        "en": "The shopping mall has attracted several new tenants."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v60",
+      "no": 60,
+      "word": "boutiques",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/buːˈtiːks/",
+        "us": "/buːˈtiːks/"
+      },
+      "meaningVi": "các cửa hàng nhỏ chuyên bán quần áo hoặc phụ kiện thời trang (số nhiều của boutique)",
+      "image": null,
+      "example": {
+        "en": "The renovated shopping mall has several fashion boutiques."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v61",
+      "no": 61,
+      "word": "briefcase",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbriːfkeɪs/",
+        "us": "/ˈbriːfkeɪs/"
+      },
+      "meaningVi": "cặp đựng tài liệu; cặp công sở",
+      "image": null,
+      "example": {
+        "en": "He put the documents in his briefcase before leaving for work."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      }
+    },
+    {
+      "id": "d10-v62",
+      "no": 62,
+      "word": "legal experience",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/ˈliːɡəl ɪkˈspɪəriəns/",
+        "us": "/ˈliːɡəl ɪkˈspɪriəns/"
+      },
+      "meaningVi": "kinh nghiệm làm việc trong lĩnh vực pháp luật",
+      "image": null,
+      "example": {
+        "en": "Applicants must have at least three years of legal experience."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v63",
+      "no": 63,
+      "word": "desire",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/dɪˈzaɪə/",
+        "us": "/dɪˈzaɪr/"
+      },
+      "meaningVi": "mong muốn; khao khát; sự mong muốn",
+      "image": null,
+      "example": {
+        "en": "She expressed a desire to work in the marketing department."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v64",
+      "no": 64,
+      "word": "conference",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒnfərəns/",
+        "us": "/ˈkɑːnfərəns/"
+      },
+      "meaningVi": "hội nghị; hội thảo",
+      "image": null,
+      "example": {
+        "en": "The annual conference will take place at the convention center."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v65",
+      "no": 65,
+      "word": "look forward to",
+      "pos": "v phrase",
+      "ipa": {
+        "uk": "/lʊk ˈfɔːwəd tə/",
+        "us": "/lʊk ˈfɔːrwərd tə/"
+      },
+      "meaningVi": "mong chờ; háo hức đón đợi (theo sau bởi danh từ hoặc động từ thêm -ing)",
+      "image": null,
+      "example": {
+        "en": "We look forward to meeting you at the interview."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v66",
+      "no": 66,
+      "word": "medical clinic",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/ˈmedɪkəl ˈklɪnɪk/",
+        "us": "/ˈmedɪkəl ˈklɪnɪk/"
+      },
+      "meaningVi": "phòng khám; cơ sở khám chữa bệnh",
+      "image": null,
+      "example": {
+        "en": "The medical clinic is accepting new patients this month."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v67",
+      "no": 67,
+      "word": "condition",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kənˈdɪʃən/",
+        "us": "/kənˈdɪʃən/"
+      },
+      "meaningVi": "điều kiện; tình trạng; trạng thái",
+      "image": null,
+      "example": {
+        "en": "The used office equipment is still in excellent condition."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v68",
+      "no": 68,
+      "word": "conduct inspections",
+      "pos": "v phrase",
+      "ipa": {
+        "uk": "/kənˈdʌkt ɪnˈspekʃənz/",
+        "us": "/kənˈdʌkt ɪnˈspekʃənz/"
+      },
+      "meaningVi": "tiến hành kiểm tra; thực hiện các đợt kiểm tra",
+      "image": null,
+      "example": {
+        "en": "Supervisors conduct inspections to ensure that all equipment is safe."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v69",
+      "no": 69,
+      "word": "inquire",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈkwaɪə/",
+        "us": "/ɪnˈkwaɪr/"
+      },
+      "meaningVi": "hỏi; tìm hiểu thông tin; điều tra",
+      "image": null,
+      "example": {
+        "en": "Please inquire at the reception desk for further details."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v70",
+      "no": 70,
+      "word": "management firm",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/ˈmænɪdʒmənt fɜːm/",
+        "us": "/ˈmænɪdʒmənt fɜːrm/"
+      },
+      "meaningVi": "công ty quản lý",
+      "image": null,
+      "example": {
+        "en": "The management firm is responsible for maintaining the office building."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v71",
+      "no": 71,
+      "word": "effort",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈefət/",
+        "us": "/ˈefərt/"
+      },
+      "meaningVi": "nỗ lực; sự cố gắng",
+      "image": null,
+      "example": {
+        "en": "The renovation was completed on time thanks to the efforts of the entire team."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v72",
+      "no": 72,
+      "word": "vice president",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/ˌvaɪs ˈprezɪdənt/",
+        "us": "/ˌvaɪs ˈprezɪdənt/"
+      },
+      "meaningVi": "phó chủ tịch; phó tổng giám đốc (tùy cơ cấu công ty)",
+      "image": null,
+      "example": {
+        "en": "The vice president will announce the new company policy tomorrow."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v73",
+      "no": 73,
+      "word": "partner",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɑːtnə/",
+        "us": "/ˈpɑːrtnər/"
+      },
+      "meaningVi": "đối tác; cộng sự; thành viên hợp danh",
+      "image": null,
+      "example": {
+        "en": "Our business partner has agreed to support the expansion project."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
+    },
+    {
+      "id": "d10-v74",
+      "no": 74,
+      "word": "bargain",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈbɑːɡɪn/",
+        "us": "/ˈbɑːrɡɪn/"
+      },
+      "meaningVi": "món hời; hàng giá hời; mặc cả; thương lượng",
+      "image": null,
+      "example": {
+        "en": "The office furniture was a bargain at half the original price."
+      },
+      "group": "Reading practice — Quizlet DAY 1 P7",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "example": "ai"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/"
     }
   ]
 }
