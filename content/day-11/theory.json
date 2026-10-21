@@ -1,0 +1,169 @@
+{
+  "collection": "theory",
+  "day": "day-11",
+  "title": "theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d11-t-homework",
+      "type": "wordGroups",
+      "title": "Day 2 — homework and review",
+      "groups": {
+        "Review the previous lesson": [
+          "Chữa lại bài tập về nhà của buổi trước (Day 10).",
+          "Nghe lại kỹ nhiều lần và ghi chép cẩn thận những từ, cụm từ mới."
+        ],
+        "Learn and practise": [
+          "Học thuộc phần còn lại của flashcard 1: các từ 25–44 về việc làm.",
+          "Học thuộc các từ và cụm đã học trên lớp.",
+          "Làm bài đọc Part 7 và học bộ từ vựng Day 2.",
+          "Làm bài tập tranh 4, 5, 6 bằng cách nghe và chép chính tả."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d11-t-phrases",
+      "type": "wordGroups",
+      "title": "Cooking and construction expressions for Part 1",
+      "groups": {
+        "Kitchen and dining": [
+          "chef",
+          "fork",
+          "pot",
+          "kettle",
+          "ingredient",
+          "cooking utensils",
+          "kitchen utensils",
+          "grill",
+          "dish",
+          "plate",
+          "bowl",
+          "tray",
+          "cupboard",
+          "cupboard drawer",
+          "sink",
+          "tablecloth",
+          "refreshments",
+          "server",
+          "eating outside",
+          "dining at a restaurant",
+          "having a meal together",
+          "tasting the soup",
+          "sitting on the patio"
+        ],
+        "Cooking and drinks": [
+          "cooking some food",
+          "cooking dinner",
+          "cooking at the stove",
+          "preparing some food",
+          "fixing a meal",
+          "preparing a meal",
+          "slicing some food into pieces",
+          "chopping up some vegetables",
+          "grilling meat",
+          "baking some cookies",
+          "opening the oven",
+          "removing loaves of bread from the oven",
+          "slicing some loaves of bread",
+          "filling the bowl",
+          "being cooked on the grill",
+          "drinking some water",
+          "drinking from a glass",
+          "drinking from a cup",
+          "pouring water",
+          "pouring coffee into a mug",
+          "stirring some contents of a container",
+          "is being filled"
+        ],
+        "Construction and repairs": [
+          "wearing gloves",
+          "wearing a hard hat",
+          "wearing a safety helmet",
+          "wearing a tool belt",
+          "driving a forklift",
+          "operating a tractor",
+          "transporting a load of bricks",
+          "operating heavy machinery",
+          "welding",
+          "holding tools",
+          "shoveling",
+          "using a shovel",
+          "working with a hammer",
+          "being transported on a forklift",
+          "pouring cement",
+          "being measured",
+          "being torn down",
+          "demolishing a building",
+          "laying bricks",
+          "paving the road",
+          "digging up the ground",
+          "examining a blueprint",
+          "working on the ladder",
+          "constructing a roof",
+          "unloading supplies from a truck",
+          "being loaded into crates",
+          "fixing a tire",
+          "fixing a car",
+          "repairing a vehicle",
+          "working on a motorbike"
+        ]
+      },
+      "source": "drive"
+    },
+    {
+      "id": "d11-t-job-families",
+      "type": "table",
+      "title": "Jobs — word families and related words",
+      "columns": [
+        "Word",
+        "Related words"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "redundant",
+            "redundancy"
+          ]
+        },
+        {
+          "cells": [
+            "promotion",
+            "promote"
+          ]
+        },
+        {
+          "cells": [
+            "internship",
+            "intern"
+          ]
+        },
+        {
+          "cells": [
+            "submit",
+            "submission"
+          ]
+        },
+        {
+          "cells": [
+            "expertise",
+            "expert"
+          ]
+        },
+        {
+          "cells": [
+            "job opening",
+            "job vacancy"
+          ]
+        },
+        {
+          "cells": [
+            "possess",
+            "possession"
+          ]
+        }
+      ],
+      "source": "pdf"
+    }
+  ]
+}

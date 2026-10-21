@@ -1,0 +1,268 @@
+{
+  "collection": "exercises",
+  "day": "day-11",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d11-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a community calendar",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d11-read-01",
+          "no": 1,
+          "text": "What is scheduled to take place on Thursday?",
+          "options": {
+            "A": "A musical performance",
+            "B": "A photography show",
+            "C": "A museum tour",
+            "D": "A one-act play"
+          },
+          "answer": "C",
+          "explain": "Mục Monday and Thursday là Garment Museum Walking Tour: chuyến tham quan bảo tàng.",
+          "passage": {
+            "text": "HILLSIDE COMMUNITY CALENDAR\n\nMONDAY — ART & MEDIA\nAstrid Geensen\n10:00 A.M., Wakovitson Gallery. Astrid Geensen, a Dutch photographer residing in Hillside County, discusses her latest black-and-white nature photos. Admission: $10.\nFor more information, visit www.wakovitson.org/exhibition.\n\nMONDAY and THURSDAY — SPECIAL EVENT\nGarment Museum Walking Tour\n11:00 A.M. This two-hour interactive introduction to fashion history includes a showroom visit, a tour of three functional design studios, and a stroll down the Fashion Walk of Fame. The tour meets in the museum lobby at 3920 Nassau Plaza at 89th Street. Admission: $12 for adults, $8 for students with valid school ID. For more information, visit www.garment_museum.org.\n\nWEDNESDAY — MUSIC\nThe Flying Fires\n6:30 P.M., Waterfront Stage at Memorial Park. Don't pass up an evening with this world-famous, highly energetic rock band in a benefit performance. All profits from ticket sales will be donated to the World Health Foundation. Enter Memorial Park at 49th Street and 2nd Avenue. Admission: $35 in advance, $40 at the door.\nTo purchase tickets or for more information, call 530-555-4032.\n\nFRIDAY — SPECIAL EVENT\nTransformation\n8:00 P.M., Wavery Stage. Three one-act plays written by Hank Wilson, a recent graduate of Hillside College. Admission: No charge, but advance reservations are required. Call 530-555-3019."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-02",
+          "no": 2,
+          "text": "What is stated about the Flying Fires’ concert?",
+          "options": {
+            "A": "It is a benefit concert.",
+            "B": "It will last two hours.",
+            "C": "It is the group’s final performance.",
+            "D": "It will be broadcast live."
+          },
+          "answer": "A",
+          "explain": "Buổi diễn gây quỹ và toàn bộ lợi nhuận bán vé được quyên góp cho World Health Foundation.",
+          "passage": {
+            "text": "HILLSIDE COMMUNITY CALENDAR\n\nMONDAY — ART & MEDIA\nAstrid Geensen\n10:00 A.M., Wakovitson Gallery. Astrid Geensen, a Dutch photographer residing in Hillside County, discusses her latest black-and-white nature photos. Admission: $10.\nFor more information, visit www.wakovitson.org/exhibition.\n\nMONDAY and THURSDAY — SPECIAL EVENT\nGarment Museum Walking Tour\n11:00 A.M. This two-hour interactive introduction to fashion history includes a showroom visit, a tour of three functional design studios, and a stroll down the Fashion Walk of Fame. The tour meets in the museum lobby at 3920 Nassau Plaza at 89th Street. Admission: $12 for adults, $8 for students with valid school ID. For more information, visit www.garment_museum.org.\n\nWEDNESDAY — MUSIC\nThe Flying Fires\n6:30 P.M., Waterfront Stage at Memorial Park. Don't pass up an evening with this world-famous, highly energetic rock band in a benefit performance. All profits from ticket sales will be donated to the World Health Foundation. Enter Memorial Park at 49th Street and 2nd Avenue. Admission: $35 in advance, $40 at the door.\nTo purchase tickets or for more information, call 530-555-4032.\n\nFRIDAY — SPECIAL EVENT\nTransformation\n8:00 P.M., Wavery Stage. Three one-act plays written by Hank Wilson, a recent graduate of Hillside College. Admission: No charge, but advance reservations are required. Call 530-555-3019."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-03",
+          "no": 3,
+          "text": "Where will the free event be held?",
+          "options": {
+            "A": "At the Wakovitson Gallery",
+            "B": "At the Garment Museum",
+            "C": "At Hillside College",
+            "D": "At Wavery Stage"
+          },
+          "answer": "D",
+          "explain": "Transformation có Admission: No charge và diễn ra tại Wavery Stage.",
+          "passage": {
+            "text": "HILLSIDE COMMUNITY CALENDAR\n\nMONDAY — ART & MEDIA\nAstrid Geensen\n10:00 A.M., Wakovitson Gallery. Astrid Geensen, a Dutch photographer residing in Hillside County, discusses her latest black-and-white nature photos. Admission: $10.\nFor more information, visit www.wakovitson.org/exhibition.\n\nMONDAY and THURSDAY — SPECIAL EVENT\nGarment Museum Walking Tour\n11:00 A.M. This two-hour interactive introduction to fashion history includes a showroom visit, a tour of three functional design studios, and a stroll down the Fashion Walk of Fame. The tour meets in the museum lobby at 3920 Nassau Plaza at 89th Street. Admission: $12 for adults, $8 for students with valid school ID. For more information, visit www.garment_museum.org.\n\nWEDNESDAY — MUSIC\nThe Flying Fires\n6:30 P.M., Waterfront Stage at Memorial Park. Don't pass up an evening with this world-famous, highly energetic rock band in a benefit performance. All profits from ticket sales will be donated to the World Health Foundation. Enter Memorial Park at 49th Street and 2nd Avenue. Admission: $35 in advance, $40 at the door.\nTo purchase tickets or for more information, call 530-555-4032.\n\nFRIDAY — SPECIAL EVENT\nTransformation\n8:00 P.M., Wavery Stage. Three one-act plays written by Hank Wilson, a recent graduate of Hillside College. Admission: No charge, but advance reservations are required. Call 530-555-3019."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d11-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a theater renovation",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d11-read-04",
+          "no": 4,
+          "text": "Who is Mr. Tanaka?",
+          "options": {
+            "A": "A painter",
+            "B": "A carpenter",
+            "C": "A filmmaker",
+            "D": "A musician"
+          },
+          "answer": "D",
+          "explain": "Câu đầu giới thiệu Tanaka là nghệ sĩ violin của Clermont Symphony Orchestra.",
+          "passage": {
+            "text": "THE CLERMONT TRIBUNE\nLocal News\nNovember 15\n\nKeito Tanaka, who for the past 12 years has been a violinist with the Clermont Symphony Orchestra, has many fond memories of the Woodlawn Theater. He attended many performances there, first with his parents, then with his friends as a young adult, and finally with his own children. But ten years have passed since a performance was last staged at the Woodlawn; in fact, until recently, the city council was considering tearing down the 75-year-old structure to make way for a department store.\n\nThat is when Mr. Tanaka decided to buy the property. He began gathering the necessary funds to realize his goal by requesting donations from several area businesses. Additionally, he organized a variety of fundraising activities, the highlight of which was an open-air concert at South Clermont Park featuring local musicians, including himself.\n\nIn the end, Mr. Tanaka managed to achieve his goal and for the past year he has lovingly overseen every aspect of the detailed renovation. He sought out volunteers to do carpentry work and painting; soon a number of craftspeople from the area were offering their services at no charge for this worthy cause.\n\nOn Saturday, November 25, The Woodlawn Theater will once again open its doors to the public with the screening of the documentary “The Rise, Fall, and Rebirth of the Woodlawn Theater.” As the title suggests, the documentary captures the history of the Woodlawn Theater, prominently featuring the efforts of Mr. Tanaka to preserve the building. The event will take place at 6:00 P.M., with Mr. Tanaka having the honor of being the projectionist for the evening. After the screening, a reception will be held from 7:00 P.M. to 8:30 P.M."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-05",
+          "no": 5,
+          "text": "What is indicated about the Woodlawn Theater?",
+          "options": {
+            "A": "It was the main performance stage of the Clermont Symphony Orchestra.",
+            "B": "It was purchased with financial support from the local community.",
+            "C": "It is located in the area of South Clermont Park.",
+            "D": "It has been featured in a documentary before."
+          },
+          "answer": "B",
+          "explain": "Tanaka mua nhà hát nhờ quyên góp từ doanh nghiệp địa phương và các hoạt động gây quỹ.",
+          "passage": {
+            "text": "THE CLERMONT TRIBUNE\nLocal News\nNovember 15\n\nKeito Tanaka, who for the past 12 years has been a violinist with the Clermont Symphony Orchestra, has many fond memories of the Woodlawn Theater. He attended many performances there, first with his parents, then with his friends as a young adult, and finally with his own children. But ten years have passed since a performance was last staged at the Woodlawn; in fact, until recently, the city council was considering tearing down the 75-year-old structure to make way for a department store.\n\nThat is when Mr. Tanaka decided to buy the property. He began gathering the necessary funds to realize his goal by requesting donations from several area businesses. Additionally, he organized a variety of fundraising activities, the highlight of which was an open-air concert at South Clermont Park featuring local musicians, including himself.\n\nIn the end, Mr. Tanaka managed to achieve his goal and for the past year he has lovingly overseen every aspect of the detailed renovation. He sought out volunteers to do carpentry work and painting; soon a number of craftspeople from the area were offering their services at no charge for this worthy cause.\n\nOn Saturday, November 25, The Woodlawn Theater will once again open its doors to the public with the screening of the documentary “The Rise, Fall, and Rebirth of the Woodlawn Theater.” As the title suggests, the documentary captures the history of the Woodlawn Theater, prominently featuring the efforts of Mr. Tanaka to preserve the building. The event will take place at 6:00 P.M., with Mr. Tanaka having the honor of being the projectionist for the evening. After the screening, a reception will be held from 7:00 P.M. to 8:30 P.M."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-06",
+          "no": 6,
+          "text": "According to the article, what will Mr. Tanaka do on November 25?",
+          "options": {
+            "A": "Show a movie",
+            "B": "Go to a city council meeting",
+            "C": "Attend a concert",
+            "D": "Begin work on a project"
+          },
+          "answer": "A",
+          "explain": "Ngày mở cửa lại có chiếu phim tài liệu; Tanaka đảm nhiệm vai trò projectionist, người chiếu phim.",
+          "passage": {
+            "text": "THE CLERMONT TRIBUNE\nLocal News\nNovember 15\n\nKeito Tanaka, who for the past 12 years has been a violinist with the Clermont Symphony Orchestra, has many fond memories of the Woodlawn Theater. He attended many performances there, first with his parents, then with his friends as a young adult, and finally with his own children. But ten years have passed since a performance was last staged at the Woodlawn; in fact, until recently, the city council was considering tearing down the 75-year-old structure to make way for a department store.\n\nThat is when Mr. Tanaka decided to buy the property. He began gathering the necessary funds to realize his goal by requesting donations from several area businesses. Additionally, he organized a variety of fundraising activities, the highlight of which was an open-air concert at South Clermont Park featuring local musicians, including himself.\n\nIn the end, Mr. Tanaka managed to achieve his goal and for the past year he has lovingly overseen every aspect of the detailed renovation. He sought out volunteers to do carpentry work and painting; soon a number of craftspeople from the area were offering their services at no charge for this worthy cause.\n\nOn Saturday, November 25, The Woodlawn Theater will once again open its doors to the public with the screening of the documentary “The Rise, Fall, and Rebirth of the Woodlawn Theater.” As the title suggests, the documentary captures the history of the Woodlawn Theater, prominently featuring the efforts of Mr. Tanaka to preserve the building. The event will take place at 6:00 P.M., with Mr. Tanaka having the honor of being the projectionist for the evening. After the screening, a reception will be held from 7:00 P.M. to 8:30 P.M."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d11-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a travel itinerary",
+      "subtitle": "Read the passage and choose the best answer.",
+      "questions": [
+        {
+          "id": "d11-read-07",
+          "no": 7,
+          "text": "Who will distribute vouchers to the group members?",
+          "options": {
+            "A": "The bus driver",
+            "B": "The hotel manager",
+            "C": "The travel agent",
+            "D": "The tour guide"
+          },
+          "answer": "D",
+          "explain": "Ngày 1, đoàn nhận phiếu ăn từ Ms. Alves, người được giới thiệu là tour guide.",
+          "passage": {
+            "text": "Lago Grande Adventures Travel Company\n\nWe are so glad your group has chosen to vacation with Lago Grande Adventures. Below you will find the itinerary for your trip. If you have any questions about the itinerary, please call your travel agent, Myra Lewis, at (800) 555-0105.\n\nDAY 1\nArrive at Lago Grande Airport at 2:40 P.M. local time. Group will be met by your tour guide, Alexa Alves. Travel by bus to Resplendor Hotel. Check in and receive meal vouchers, to be used at either of the hotel's restaurants for breakfast, from Ms. Alves. Meet in hotel lobby at 5:00 P.M. for sightseeing on foot in Lago Grande and dinner at Café Estrelas.\n\nDAY 2\nBus departs from hotel at 8:00 A.M. for Macapá. Sightseeing in Macapá. Meet at Macapá train station at 11:00 A.M. Travel on historic Rio Dourado Railway to Porto Grande. Lunch and sightseeing in Porto Grande. Meet at Porto Grande train station at 5:30 P.M. Dinner in Macapá. Bus departs from Macapá train station at 9:00 P.M. for hotel.\n\nDAY 3\nBus departs from hotel at 7:30 A.M. for Cutias. Hiking on Cutias Park trails.* Picnic lunch in Cutias Park. Bus departs from Cutias Park entrance at 6:00 P.M. for hotel. Walk to dinner at Lago Grande Palace at 8:00 P.M.\n\nDAY 4\nBus departs from hotel at 8:00 A.M. for Afuá. Sightseeing in Afuá. Meet at Center for Native Arts at 11:45 A.M. for lunch at museum café, with tour of museum collections to follow. Bus departs from Afuá town square at 4:30 P.M. for hotel. Walk to dinner at Amapá Restaurant at 7:30 P.M.\n\nDAY 5\nBus departs from hotel at 8:45 A.M. for airport.\n\n*NOTE: It is strongly recommended that you bring hiking shoes or boots for your comfort and protection, as the trails in Cutias Park are rocky and often muddy."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-08",
+          "no": 8,
+          "text": "How will the group travel from Macapá to Porto Grande?",
+          "options": {
+            "A": "By train",
+            "B": "By airplane",
+            "C": "By bus",
+            "D": "By foot"
+          },
+          "answer": "A",
+          "explain": "Ngày 2 đoàn đi tuyến đường sắt Rio Dourado Railway từ Macapá đến Porto Grande.",
+          "passage": {
+            "text": "Lago Grande Adventures Travel Company\n\nWe are so glad your group has chosen to vacation with Lago Grande Adventures. Below you will find the itinerary for your trip. If you have any questions about the itinerary, please call your travel agent, Myra Lewis, at (800) 555-0105.\n\nDAY 1\nArrive at Lago Grande Airport at 2:40 P.M. local time. Group will be met by your tour guide, Alexa Alves. Travel by bus to Resplendor Hotel. Check in and receive meal vouchers, to be used at either of the hotel's restaurants for breakfast, from Ms. Alves. Meet in hotel lobby at 5:00 P.M. for sightseeing on foot in Lago Grande and dinner at Café Estrelas.\n\nDAY 2\nBus departs from hotel at 8:00 A.M. for Macapá. Sightseeing in Macapá. Meet at Macapá train station at 11:00 A.M. Travel on historic Rio Dourado Railway to Porto Grande. Lunch and sightseeing in Porto Grande. Meet at Porto Grande train station at 5:30 P.M. Dinner in Macapá. Bus departs from Macapá train station at 9:00 P.M. for hotel.\n\nDAY 3\nBus departs from hotel at 7:30 A.M. for Cutias. Hiking on Cutias Park trails.* Picnic lunch in Cutias Park. Bus departs from Cutias Park entrance at 6:00 P.M. for hotel. Walk to dinner at Lago Grande Palace at 8:00 P.M.\n\nDAY 4\nBus departs from hotel at 8:00 A.M. for Afuá. Sightseeing in Afuá. Meet at Center for Native Arts at 11:45 A.M. for lunch at museum café, with tour of museum collections to follow. Bus departs from Afuá town square at 4:30 P.M. for hotel. Walk to dinner at Amapá Restaurant at 7:30 P.M.\n\nDAY 5\nBus departs from hotel at 8:45 A.M. for airport.\n\n*NOTE: It is strongly recommended that you bring hiking shoes or boots for your comfort and protection, as the trails in Cutias Park are rocky and often muddy."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-09",
+          "no": 9,
+          "text": "For what day is special footwear recommended?",
+          "options": {
+            "A": "Day 1",
+            "B": "Day 2",
+            "C": "Day 3",
+            "D": "Day 4"
+          },
+          "answer": "C",
+          "explain": "Ngày 3 đi bộ đường mòn Cutias Park. Chú thích khuyên mang giày đi bộ vì đường nhiều đá và bùn.",
+          "passage": {
+            "text": "Lago Grande Adventures Travel Company\n\nWe are so glad your group has chosen to vacation with Lago Grande Adventures. Below you will find the itinerary for your trip. If you have any questions about the itinerary, please call your travel agent, Myra Lewis, at (800) 555-0105.\n\nDAY 1\nArrive at Lago Grande Airport at 2:40 P.M. local time. Group will be met by your tour guide, Alexa Alves. Travel by bus to Resplendor Hotel. Check in and receive meal vouchers, to be used at either of the hotel's restaurants for breakfast, from Ms. Alves. Meet in hotel lobby at 5:00 P.M. for sightseeing on foot in Lago Grande and dinner at Café Estrelas.\n\nDAY 2\nBus departs from hotel at 8:00 A.M. for Macapá. Sightseeing in Macapá. Meet at Macapá train station at 11:00 A.M. Travel on historic Rio Dourado Railway to Porto Grande. Lunch and sightseeing in Porto Grande. Meet at Porto Grande train station at 5:30 P.M. Dinner in Macapá. Bus departs from Macapá train station at 9:00 P.M. for hotel.\n\nDAY 3\nBus departs from hotel at 7:30 A.M. for Cutias. Hiking on Cutias Park trails.* Picnic lunch in Cutias Park. Bus departs from Cutias Park entrance at 6:00 P.M. for hotel. Walk to dinner at Lago Grande Palace at 8:00 P.M.\n\nDAY 4\nBus departs from hotel at 8:00 A.M. for Afuá. Sightseeing in Afuá. Meet at Center for Native Arts at 11:45 A.M. for lunch at museum café, with tour of museum collections to follow. Bus departs from Afuá town square at 4:30 P.M. for hotel. Walk to dinner at Amapá Restaurant at 7:30 P.M.\n\nDAY 5\nBus departs from hotel at 8:45 A.M. for airport.\n\n*NOTE: It is strongly recommended that you bring hiking shoes or boots for your comfort and protection, as the trails in Cutias Park are rocky and often muddy."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        },
+        {
+          "id": "d11-read-10",
+          "no": 10,
+          "text": "Where will the group visit a museum?",
+          "options": {
+            "A": "In Lago Grande",
+            "B": "In Macapá",
+            "C": "In Cutias",
+            "D": "In Afuá"
+          },
+          "answer": "D",
+          "explain": "Ngày 4, tại Afuá, đoàn ăn trưa ở museum café rồi tham quan các bộ sưu tập của bảo tàng.",
+          "passage": {
+            "text": "Lago Grande Adventures Travel Company\n\nWe are so glad your group has chosen to vacation with Lago Grande Adventures. Below you will find the itinerary for your trip. If you have any questions about the itinerary, please call your travel agent, Myra Lewis, at (800) 555-0105.\n\nDAY 1\nArrive at Lago Grande Airport at 2:40 P.M. local time. Group will be met by your tour guide, Alexa Alves. Travel by bus to Resplendor Hotel. Check in and receive meal vouchers, to be used at either of the hotel's restaurants for breakfast, from Ms. Alves. Meet in hotel lobby at 5:00 P.M. for sightseeing on foot in Lago Grande and dinner at Café Estrelas.\n\nDAY 2\nBus departs from hotel at 8:00 A.M. for Macapá. Sightseeing in Macapá. Meet at Macapá train station at 11:00 A.M. Travel on historic Rio Dourado Railway to Porto Grande. Lunch and sightseeing in Porto Grande. Meet at Porto Grande train station at 5:30 P.M. Dinner in Macapá. Bus departs from Macapá train station at 9:00 P.M. for hotel.\n\nDAY 3\nBus departs from hotel at 7:30 A.M. for Cutias. Hiking on Cutias Park trails.* Picnic lunch in Cutias Park. Bus departs from Cutias Park entrance at 6:00 P.M. for hotel. Walk to dinner at Lago Grande Palace at 8:00 P.M.\n\nDAY 4\nBus departs from hotel at 8:00 A.M. for Afuá. Sightseeing in Afuá. Meet at Center for Native Arts at 11:45 A.M. for lunch at museum café, with tour of museum collections to follow. Bus departs from Afuá town square at 4:30 P.M. for hotel. Walk to dinner at Amapá Restaurant at 7:30 P.M.\n\nDAY 5\nBus departs from hotel at 8:45 A.M. for airport.\n\n*NOTE: It is strongly recommended that you bring hiking shoes or boots for your comfort and protection, as the trails in Cutias Park are rocky and often muddy."
+          },
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

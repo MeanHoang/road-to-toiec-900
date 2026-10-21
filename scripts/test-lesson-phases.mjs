@@ -9,7 +9,7 @@ const before = JSON.stringify(days);
 const phases = lessonPhases([...days].reverse());
 assert.deepEqual(phases.map((group) => group.phase), [1, 2]);
 assert.deepEqual(phases[0].days.map((day) => day.no), [1, 2, 3, 4, 5, 6, 7, 8, 9]);
-assert.deepEqual(phases[1].days.map((day) => day.no), [10]);
+assert.deepEqual(phases[1].days.map((day) => day.no), [10, 11]);
 assert.equal(JSON.stringify(days), before, 'Grouping must preserve lesson records and IDs');
 assert.equal(phaseOf({ no: 1 }), 1, 'Older Firestore lessons default to Phase 1');
 assert.deepEqual(lessonPhases([]), []);
@@ -47,3 +47,38 @@ for (const question of exercises.flatMap((set) => set.questions)) {
   assert.equal(question.source.answer, 'ai', 'Derived answers must not be labeled official');
 }
 console.log('✓ Phase 1/2, older cloud metadata, Day 10 content, all 104 assets and answer sources');
+
+const nextVocab = read('content/day-11/vocabulary.json').items;
+const nextListening = read('content/day-11/listening.json').items;
+const nextReading = read('content/day-11/exercises.json').items;
+assert.equal(nextVocab.length, 113);
+assert.equal(nextVocab.filter((word) => word.source.word === 'quizlet').length, 18);
+assert.equal(new Set(nextVocab.map((word) => word.word.toLowerCase())).size, nextVocab.length);
+for (const word of nextVocab) {
+  for (const accent of ['uk', 'us']) {
+    assert.ok(word.ipa[accent], `${word.id}: missing ${accent} pronunciation`);
+    assert.ok(existsSync(`public${word.voice[accent]}`), `${word.id}: missing ${accent} recording`);
+  }
+}
+assert.equal(nextListening.flatMap((set) => set.questions).length, 47);
+assert.equal(nextListening.filter(hasPhoto).flatMap((set) => set.questions).length, 30);
+for (const set of nextListening) {
+  assert.equal(set.hasKey, false, 'Previous homework keys must not become new official answers');
+  if (set.fullAudio) assert.ok(existsSync(`public${set.fullAudio}`));
+  for (const question of set.questions) {
+    assert.equal(question.answer, null);
+    assert.ok(question.transcript && !question.transcript.raw);
+    assert.equal(question.source.transcript, 'whisper');
+    assert.ok(existsSync(`public${question.audio}`));
+    if (hasPhoto(set)) {
+      assert.ok(existsSync(`public${question.image}`));
+      assert.deepEqual(Object.keys(question.transcript), ['A', 'B', 'C', 'D']);
+    }
+  }
+}
+assert.equal(nextReading.flatMap((set) => set.questions).length, 10);
+for (const question of nextReading.flatMap((set) => set.questions)) {
+  assert.ok(question.passage.text && question.options[question.answer]);
+  assert.equal(question.source.answer, 'ai');
+}
+console.log('✓ Day 11: 113 words, 226 voices, 47 dictations, 30 photos, 10 reading questions and honest draft sources');

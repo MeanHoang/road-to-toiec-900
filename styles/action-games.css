@@ -44,9 +44,15 @@
 .block-quiz-options .arcade-meaning-option.is-correct { border-color:var(--success); background:var(--success-surface); }
 .block-quiz-feedback { margin:18px 0 12px; min-height:44px; font-size:14px; color:var(--text-muted); }
 .block-quiz .arcade-primary { width:100%; }
-.word-blast .arcade-session-top { margin-bottom:16px; }
-.word-blast .arcade-counter { margin-left:auto; }
-.blast-scene { position:relative; isolation:isolate; min-height:500px; height:min(570px,calc(100dvh - 200px)); overflow:hidden; border:2px solid #3d396c; border-radius:24px; background:#15162f; color:#f6f1ff; box-shadow:0 5px 0 #333057; display:flex; flex-direction:column; padding:16px 24px 10px; }
+/* Immersive playfield. Moving wrappers leave hit animations on the button itself. */
+.word-blast { position:fixed; inset:0; width:100%; max-width:none; height:100dvh; max-height:none; margin:0; padding:0; border:0; border-radius:0; overflow:hidden; background:#15162f; color:#f6f1ff; }
+.word-blast[open] { display:flex; flex-direction:column; }
+.word-blast::backdrop { background:#15162f; }
+.blast-topbar { display:flex; align-items:center; flex-shrink:0; gap:14px; min-height:66px; padding:8px 24px; background:var(--bg); color:var(--text); border-bottom:1px solid var(--border); }
+.blast-topbar>div { display:flex; align-items:center; gap:16px; }
+.blast-topbar .arcade-counter { margin-left:auto; }
+.word-blast .blast-topbar h1 { font-size:20px; }
+.blast-scene { position:relative; isolation:isolate; flex:1; min-height:0; overflow:hidden; background:#15162f; color:#f6f1ff; display:flex; flex-direction:column; padding:10px 20px max(8px,env(safe-area-inset-bottom)); }
 .blast-stars,.blast-planet { position:absolute; inset:0; z-index:-1; pointer-events:none; }
 .blast-stars i { position:absolute; width:3px; height:3px; border-radius:50%; background:#ad9eea; opacity:.65; animation:star-glow 4s ease-in-out infinite alternate; }
 .blast-stars i:nth-child(4n) { width:5px; height:5px; }
@@ -55,30 +61,30 @@
 .blast-prompt { text-align:center; flex-shrink:0; }
 .blast-prompt>span { font-size:12px; color:#c7bee5; }
 .blast-prompt>div { display:flex; justify-content:center; align-items:center; gap:12px; }
-.blast-prompt strong { font-size:26px; }
+.blast-prompt strong { font-size:28px; }
 .blast-prompt p { color:#d7d0ee; font-size:13px; }
 .blast-audio { width:44px; height:44px; border:2px solid #706190; border-radius:14px; color:#fff; background:#37305a; font-size:23px; }
-.blast-targets { position:relative; flex:1; min-height:0; display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); grid-template-rows:repeat(2,minmax(0,1fr)); justify-items:center; align-items:center; gap:2px 14%; max-width:720px; width:100%; margin:0 auto; z-index:2; }
-.blast-target { position:relative; width:clamp(130px,17vw,174px); height:100%; max-height:170px; min-height:120px; padding:0; border:0; border-radius:50%; color:#6752ad; background:none; animation:bubble-drift 3.5s ease-in-out infinite alternate; animation-delay:var(--float-delay); }
+.blast-targets { position:relative; flex:1; min-height:0; width:100%; z-index:2; }
+.blast-orbit { position:absolute; top:0; left:0; width:140px; height:140px; will-change:transform; }
+.blast-target { position:relative; display:block; width:100%; height:100%; padding:0; border:0; border-radius:50%; color:#6752ad; background:none; user-select:none; -webkit-user-select:none; }
 .blast-target svg { position:absolute; inset:0; width:100%; height:100%; }
-.blast-target>span { position:relative; display:flex; align-items:center; justify-content:center; height:100%; padding:20px 16px; color:#fff; font-size:16px; font-weight:500; line-height:1.4; text-align:center; }
-.blast-target small { position:absolute; top:10%; left:20%; font-size:10px; color:#e5ddff; }
+.blast-target>span { position:relative; display:flex; align-items:center; justify-content:center; height:100%; padding:12%; color:#fff; font-size:var(--bubble-font,16px); font-weight:500; line-height:1.35; text-align:center; }
+.blast-target.has-long-meaning>span { font-size:max(12px,calc(var(--bubble-font,16px) - 1px)); padding:10%; }
+.blast-target small { position:absolute; top:6%; left:18%; font-size:10px; color:#e5ddff; }
 .arcade .blast-target:disabled { opacity:.35; }
 .arcade .blast-target.is-hit { animation:bubble-burst 650ms ease-out both; opacity:1; }
 .arcade .blast-target.is-wrong { color:#a34964; opacity:.8; }
 .blast-target:focus-visible { outline:3px solid #f4ce7f; outline-offset:3px; }
-@keyframes bubble-drift { from { transform:translateY(-4px) rotate(-2deg); } to { transform:translateY(4px) rotate(2deg); } }
 @keyframes bubble-burst { 20% { transform:scale(1.08); filter:brightness(1.6); } 100% { transform:scale(1.35); opacity:0; } }
 .blast-flight { position:relative; display:flex; align-items:center; justify-content:space-between; height:94px; flex-shrink:0; padding:0 12px; }
-.blast-ship { position:absolute; width:140px; height:94px; left:50%; transform:translateX(-50%); bottom:0; }
+.blast-ship-anchor { position:absolute; width:140px; height:94px; left:50%; transform:translateX(-50%); bottom:0; }
+.blast-ship { display:block; width:100%; height:100%; }
 .blast-combo,.blast-level { display:flex; flex-direction:column; font-size:12px; color:#e3cff9; }
 .blast-combo b,.blast-level b { color:#f8dc94; font-size:22px; }
-.blast-status { height:24px; flex-shrink:0; text-align:center; color:#ddd4f1; font-size:12px; }
-.blast-laser { position:absolute; bottom:86px; left:50%; width:5px; height:45%; transform-origin:bottom; background:#a9ffe3; border-radius:10px; box-shadow:0 0 12px #a9ffe3; animation:laser-flash 650ms both; z-index:1; }
-.blast-laser-0 { transform:rotate(-37deg); height:58%; }.blast-laser-1 { transform:rotate(37deg);height:58%; }.blast-laser-2 { transform:rotate(-60deg);height:40%; }.blast-laser-3 { transform:rotate(60deg);height:40%; }
+.blast-status { min-height:24px; flex-shrink:0; text-align:center; color:#ddd4f1; font-size:12px; }
+.blast-shot-layer { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; z-index:3; animation:laser-flash 650ms both; }
+.blast-shot-layer line { filter:drop-shadow(0 0 7px #a9ffe3); }
 @keyframes laser-flash { 0%,70%,100% { opacity:0; } 20%,50% { opacity:1; } }
-.blast-scene.is-shaken { animation:blast-shake 200ms; }
-@keyframes blast-shake { 30% { transform:translateX(-3px); } 70% { transform:translateX(3px); } }
 .blast-result { margin:auto; text-align:center; display:flex; flex-direction:column; gap:16px; align-items:center; }
 .blast-result h2 { font-size:30px; }.blast-result p { color:#ddd4f1; }.blast-medal { color:#f8dc94;font-size:64px; }
 @media(min-width:901px) { .block-board { max-width:min(400px,calc(100dvh - 330px)); margin:auto; } }
@@ -90,7 +96,6 @@
  .block-mini-stats span { flex-direction:row;align-items:center;gap:8px; }
  .block-mini-stats b { font-size:20px; }
  .block-guide .block-notice { min-height:0; }
- .blast-scene { padding-inline:12px; }
 }
 @media(max-width:700px) {
  .block-game h1,.word-blast h1 { font-size:21px; }
@@ -104,17 +109,20 @@
  .arcade .block-piece { --mini-cell:20px; min-width:60px; min-height:92px; padding:5px; }
  .block-mini { gap:2px; }
  .block-quiz { padding:18px; }.block-quiz h2 { font-size:20px; }
- .blast-scene { min-height:500px; height:calc(100dvh - 185px); padding:12px 8px 8px; }
- .blast-targets { gap:0 4px; }
- .blast-target { width:100%; max-width:170px; min-height:116px; }
- .blast-target>span { font-size:14px; padding:22px 12px; }
+ .blast-topbar { min-height:56px; padding:6px 12px; gap:10px; }
+ .blast-topbar>div { display:block; }
+ .blast-topbar .arcade-eyebrow { display:none; }
+ .word-blast .blast-topbar h1 { font-size:17px; }
+ .blast-scene { padding:8px 8px max(6px,env(safe-area-inset-bottom)); }
  .blast-prompt strong { font-size:23px; }
  .blast-prompt p { font-size:12px; }
- .blast-flight { height:80px;padding-inline:4px; }.blast-ship { width:120px;height:80px; }
- .blast-status { height:auto; min-height:34px; line-height:1.4; }
+ .blast-flight { height:74px; padding-inline:4px; }
+ .blast-ship-anchor { width:110px; height:74px; }
+ .blast-status { min-height:30px; line-height:1.4; }
+
 }
 @media(prefers-reduced-motion:reduce) {
- .block-cell.will-clear,.blast-stars i,.blast-target,.arcade .blast-target.is-hit,.blast-laser,.blast-scene.is-shaken { animation:none; }
+ .block-cell.will-clear,.blast-stars i,.arcade .blast-target.is-hit,.blast-shot-layer { animation:none; }
  .arcade .blast-target.is-hit { opacity:.3; }
 }
 
@@ -127,3 +135,13 @@
 @media(max-width:350px) { .arcade .block-piece { --mini-cell:17px; } }
 
 .block-quiz-leave { display:block; width:100%; min-height:44px; padding:8px; border:0; background:transparent; color:var(--text-muted); font-size:13px; text-decoration:underline; text-underline-offset:3px; }
+
+@media(max-height:500px) and (orientation:landscape) {
+ .blast-topbar { min-height:48px; padding-block:2px; }
+ .blast-topbar .arcade-eyebrow,.blast-prompt>span,.blast-prompt p { display:none; }
+ .blast-prompt strong { font-size:20px; }
+ .blast-flight { position:absolute; bottom:20px; left:16px; right:16px; height:48px; pointer-events:none; z-index:0; }
+ .blast-ship-anchor { width:72px; height:48px; }
+ .blast-targets { margin-bottom:42px; }
+ .blast-status { min-height:18px; font-size:11px; }
+}

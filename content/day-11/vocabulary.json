@@ -1,0 +1,2996 @@
+{
+  "collection": "vocabulary",
+  "day": "day-11",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d11-v01",
+      "no": 1,
+      "word": "employment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪmˈplɔɪmənt/",
+        "us": "/ɪmˈplɔɪmənt/"
+      },
+      "meaningVi": "việc làm",
+      "image": null,
+      "example": {
+        "en": "Your conditions of employment should tell you how many days of sick leave you are entitled to."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v01-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v02",
+      "no": 2,
+      "word": "health insurance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/helθ ɪnˈʃʊrəns/",
+        "us": "/helθ ɪnˈʃʊrəns/"
+      },
+      "meaningVi": "bảo hiểm y tế",
+      "image": null,
+      "example": {
+        "en": "Do you have fully comprehensive health insurance?"
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v02-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v03",
+      "no": 3,
+      "word": "qualification",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+        "us": "/ˌkwɑːlɪfɪˈkeɪʃn/"
+      },
+      "meaningVi": "phẩm chất, năng lực, trình độ chuyên môn",
+      "image": null,
+      "example": {
+        "en": "Only two of the applicants had the necessary qualifications."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v03-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v04",
+      "no": 4,
+      "word": "redundant",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/rɪˈdʌndənt/",
+        "us": "/rɪˈdʌndənt/"
+      },
+      "meaningVi": "dư thừa, không cần thiết",
+      "image": null,
+      "example": {
+        "en": "There's a lot of redundant information that you could cut out here."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v04-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v05",
+      "no": 5,
+      "word": "pension",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpenʃn/",
+        "us": "/ˈpenʃn/"
+      },
+      "meaningVi": "lương hưu",
+      "image": null,
+      "example": {
+        "en": "You will have to find out whether or not you qualify for a pension."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v05-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v06",
+      "no": 6,
+      "word": "promotion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈməʊʃn/",
+        "us": "/prəˈməʊʃn/"
+      },
+      "meaningVi": "sự thăng chức (thăng tiến), khuyến mại",
+      "image": null,
+      "example": {
+        "en": "The new job is a promotion for him."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v06-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v07",
+      "no": 7,
+      "word": "sick leave",
+      "pos": "n",
+      "ipa": {
+        "uk": "/sɪk liːv/",
+        "us": "/sɪk liːv/"
+      },
+      "meaningVi": "nghỉ ốm",
+      "image": null,
+      "example": {
+        "en": "He was on sick leave following a heart attack."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v07-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v08",
+      "no": 8,
+      "word": "job satisfaction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dʒɑːb ˌsætɪsˈfækʃn/",
+        "us": "/dʒɑːb ˌsætɪsˈfækʃn/"
+      },
+      "meaningVi": "sự hài lòng công việc",
+      "image": null,
+      "example": {
+        "en": "My current level of job satisfaction is pretty low."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v08-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v09",
+      "no": 9,
+      "word": "workload",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɜːrkləʊd/",
+        "us": "/ˈwɜːrkləʊd/"
+      },
+      "meaningVi": "khối lượng công việc",
+      "image": null,
+      "example": {
+        "en": "We have taken on extra staff to cope with the increased workload."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v09-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v10",
+      "no": 10,
+      "word": "internship",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɪntɜːrnʃɪp/",
+        "us": "/ˈɪntɜːrnʃɪp/"
+      },
+      "meaningVi": "cương vị thực tập, thực tập",
+      "image": null,
+      "example": {
+        "en": "An internship at a television station."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v10-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v11",
+      "no": 11,
+      "word": "permanent",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈpɜːrmənənt/",
+        "us": "/ˈpɜːrmənənt/"
+      },
+      "meaningVi": "lâu dài, thường trực, cố định",
+      "image": null,
+      "example": {
+        "en": "There is no guarantee of permanent employment after training."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v11-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v12",
+      "no": 12,
+      "word": "submit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/səbˈmɪt/",
+        "us": "/səbˈmɪt/"
+      },
+      "meaningVi": "nộp, đệ trình",
+      "image": null,
+      "example": {
+        "en": "He formally submitted his resignation."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v12-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v13",
+      "no": 13,
+      "word": "match",
+      "pos": "v",
+      "ipa": {
+        "uk": "/mætʃ/",
+        "us": "/mætʃ/"
+      },
+      "meaningVi": "phù hợp, hợp",
+      "image": null,
+      "example": {
+        "en": "Do you think these two colors match?"
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v13-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v14",
+      "no": 14,
+      "word": "commensurate",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kəˈmenʃərət/",
+        "us": "/kəˈmenʃərət/"
+      },
+      "meaningVi": "xứng, tương xứng",
+      "image": null,
+      "example": {
+        "en": "Salary will be commensurate with experience."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v14-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v15",
+      "no": 15,
+      "word": "expertise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌekspɜːrˈtiːz/",
+        "us": "/ˌekspɜːrˈtiːz/"
+      },
+      "meaningVi": "chuyên môn",
+      "image": null,
+      "example": {
+        "en": "It is difficult to find staff with the level of expertise required for this job."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v15-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v16",
+      "no": 16,
+      "word": "position",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pəˈzɪʃn/",
+        "us": "/pəˈzɪʃn/"
+      },
+      "meaningVi": "vị trí",
+      "image": null,
+      "example": {
+        "en": "He currently holds the position of technical manager."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v16-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v17",
+      "no": 17,
+      "word": "job opening",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dʒɑːb ˈəʊpənɪŋ/",
+        "us": "/dʒɑːb ˈəʊpənɪŋ/"
+      },
+      "meaningVi": "vị trí còn trống",
+      "image": null,
+      "example": {
+        "en": "Several job vacancies have gone unfilled in an effort to save money."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v17-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v18",
+      "no": 18,
+      "word": "ability",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈbɪləti/",
+        "us": "/əˈbɪləti/"
+      },
+      "meaningVi": "khả năng",
+      "image": null,
+      "example": {
+        "en": "I seem to have lost my ability to attract clients."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v18-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v19",
+      "no": 19,
+      "word": "background",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbækɡraʊnd/",
+        "us": "/ˈbækɡraʊnd/"
+      },
+      "meaningVi": "nền tảng",
+      "image": null,
+      "example": {
+        "en": "In the future, we will require background checks on airport employees."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v19-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v20",
+      "no": 20,
+      "word": "possess",
+      "pos": "v",
+      "ipa": {
+        "uk": "/pəˈzes/",
+        "us": "/pəˈzes/"
+      },
+      "meaningVi": "sở hữu",
+      "image": null,
+      "example": {
+        "en": "International medical graduates usually possess good qualifications."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "pdf",
+        "ipa": "pdf",
+        "meaningVi": "pdf",
+        "example": "pdf",
+        "image": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v20-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v21",
+      "no": 21,
+      "word": "admission",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ədˈmɪʃn/",
+        "us": "/ədˈmɪʃn/"
+      },
+      "meaningVi": "sự nhận vào, vé vào cửa",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v21-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v22",
+      "no": 22,
+      "word": "interactive",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌɪntərˈæktɪv/",
+        "us": "/ˌɪntərˈæktɪv/"
+      },
+      "meaningVi": "có tính tương tác",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v22-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v23",
+      "no": 23,
+      "word": "energetic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌenəˈdʒetɪk/",
+        "us": "/ˌenərˈdʒetɪk/"
+      },
+      "meaningVi": "tràn đầy năng lượng",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v23-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v24",
+      "no": 24,
+      "word": "benefits",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈbenɪfɪts/",
+        "us": "/ˈbenɪfɪts/"
+      },
+      "meaningVi": "lợi ích; hưởng lợi",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v24-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v25",
+      "no": 25,
+      "word": "performance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pəˈfɔːməns/",
+        "us": "/pərˈfɔːrməns/"
+      },
+      "meaningVi": "hiệu suất, màn trình diễn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v25-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v26",
+      "no": 26,
+      "word": "donate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dəʊˈneɪt/",
+        "us": "/ˈdəʊneɪt/"
+      },
+      "meaningVi": "quyên góp, tặng",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v26-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v27",
+      "no": 27,
+      "word": "in advance",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ɪn ədˈvɑːns/",
+        "us": "/ɪn ədˈvæns/"
+      },
+      "meaningVi": "trước, sớm hơn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v27-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v28",
+      "no": 28,
+      "word": "advance reservation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ədˈvɑːns ˌrezəˈveɪʃn/",
+        "us": "/ədˈvæns ˌrezərˈveɪʃn/"
+      },
+      "meaningVi": "đặt chỗ trước",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v28-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v29",
+      "no": 29,
+      "word": "broadcast live",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈbrɔːdkɑːst laɪv/",
+        "us": "/ˈbrɔːdkæst laɪv/"
+      },
+      "meaningVi": "phát sóng trực tiếp",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v29-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v30",
+      "no": 30,
+      "word": "tear down",
+      "pos": "v",
+      "ipa": {
+        "uk": "/teə daʊn/",
+        "us": "/ter daʊn/"
+      },
+      "meaningVi": "phá bỏ, dỡ bỏ",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v30-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v31",
+      "no": 31,
+      "word": "department store",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈpɑːtmənt stɔː/",
+        "us": "/dɪˈpɑːrtmənt stɔːr/"
+      },
+      "meaningVi": "cửa hàng bách hóa",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v31-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v32",
+      "no": 32,
+      "word": "fond memories",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fɒnd ˈmeməriz/",
+        "us": "/fɑːnd ˈmeməriz/"
+      },
+      "meaningVi": "những kỷ niệm vui",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v32-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v33",
+      "no": 33,
+      "word": "variety",
+      "pos": "n",
+      "ipa": {
+        "uk": "/vəˈraɪəti/",
+        "us": "/vəˈraɪəti/"
+      },
+      "meaningVi": "sự đa dạng",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v33-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v34",
+      "no": 34,
+      "word": "fundraising activities",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfʌndreɪzɪŋ ækˈtɪvətiz/",
+        "us": "/ˈfʌndreɪzɪŋ ækˈtɪvətiz/"
+      },
+      "meaningVi": "các hoạt động gây quỹ",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v34-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v35",
+      "no": 35,
+      "word": "oversee",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌəʊvəˈsiː/",
+        "us": "/ˌəʊvərˈsiː/"
+      },
+      "meaningVi": "giám sát, quan sát",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v35-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v36",
+      "no": 36,
+      "word": "prominent",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈprɒmɪnənt/",
+        "us": "/ˈprɑːmɪnənt/"
+      },
+      "meaningVi": "nổi bật, quan trọng",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v36-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v37",
+      "no": 37,
+      "word": "tour guide",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tʊə ɡaɪd/",
+        "us": "/tʊr ɡaɪd/"
+      },
+      "meaningVi": "hướng dẫn viên du lịch",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v37-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v38",
+      "no": 38,
+      "word": "depart",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈpɑːt/",
+        "us": "/dɪˈpɑːrt/"
+      },
+      "meaningVi": "khởi hành",
+      "image": null,
+      "example": null,
+      "group": "Part 7 — community events",
+      "source": {
+        "word": "quizlet",
+        "ipa": "ai",
+        "meaningVi": "quizlet",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v38-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v39",
+      "no": 39,
+      "word": "chef",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃˈɛf/",
+        "us": "/ˈʃɛf/"
+      },
+      "meaningVi": "đầu bếp",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v39-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v40",
+      "no": 40,
+      "word": "fork",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fɔːk/",
+        "us": "/fɔːrk/"
+      },
+      "meaningVi": "nĩa",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v40-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v41",
+      "no": 41,
+      "word": "pot",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pˈɒt/",
+        "us": "/ˈpɑt/"
+      },
+      "meaningVi": "nồi",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v41-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v42",
+      "no": 42,
+      "word": "kettle",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈketl/",
+        "us": "/ˈketl/"
+      },
+      "meaningVi": "ấm đun nước",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v42-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v43",
+      "no": 43,
+      "word": "ingredient",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnɡɹˈiːdiənt/",
+        "us": "/ˌɪnˈɡɹidiənt/"
+      },
+      "meaningVi": "nguyên liệu",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v43-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v44",
+      "no": 44,
+      "word": "cooking utensils",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkʊkɪŋ juːˈtenslz/",
+        "us": "/ˈkʊkɪŋ juːˈtenslz/"
+      },
+      "meaningVi": "dụng cụ nấu nướng",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v44-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v45",
+      "no": 45,
+      "word": "kitchen utensils",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɪtʃɪn juːˈtenslz/",
+        "us": "/ˈkɪtʃɪn juːˈtenslz/"
+      },
+      "meaningVi": "dụng cụ nhà bếp",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v45-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v46",
+      "no": 46,
+      "word": "grill",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ɡrɪl/",
+        "us": "/ɡrɪl/"
+      },
+      "meaningVi": "vỉ nướng; nướng",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v46-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v47",
+      "no": 47,
+      "word": "dish",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪʃ/",
+        "us": "/dɪʃ/"
+      },
+      "meaningVi": "đĩa; món ăn",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v47-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v48",
+      "no": 48,
+      "word": "plate",
+      "pos": "n",
+      "ipa": {
+        "uk": "/plˈeɪt/",
+        "us": "/ˈpɫeɪt/"
+      },
+      "meaningVi": "đĩa",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v48-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v49",
+      "no": 49,
+      "word": "bowl",
+      "pos": "n",
+      "ipa": {
+        "uk": "/bəʊl/",
+        "us": "/bəʊl/"
+      },
+      "meaningVi": "bát, tô",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v49-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v50",
+      "no": 50,
+      "word": "tray",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tɹˈeɪ/",
+        "us": "/ˈtɹeɪ/"
+      },
+      "meaningVi": "khay",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v50-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v51",
+      "no": 51,
+      "word": "cupboard",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kˈʌbəd/",
+        "us": "/ˈkəbɝd/"
+      },
+      "meaningVi": "tủ đựng đồ",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v51-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v51-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v52",
+      "no": 52,
+      "word": "cupboard drawer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkʌbəd drɔː/",
+        "us": "/ˈkʌbərd drɔːr/"
+      },
+      "meaningVi": "ngăn kéo tủ",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v52-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v52-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v53",
+      "no": 53,
+      "word": "sink",
+      "pos": "n",
+      "ipa": {
+        "uk": "/sˈɪŋk/",
+        "us": "/ˈsɪŋk/"
+      },
+      "meaningVi": "bồn rửa",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v53-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v54",
+      "no": 54,
+      "word": "tablecloth",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tˈeɪbəlklˌɒθ/",
+        "us": "/ˈteɪbəɫˌkɫɔθ/"
+      },
+      "meaningVi": "khăn trải bàn",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v54-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v55",
+      "no": 55,
+      "word": "refreshments",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈfreʃmənts/",
+        "us": "/rɪˈfreʃmənts/"
+      },
+      "meaningVi": "đồ ăn nhẹ và thức uống",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v55-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v56",
+      "no": 56,
+      "word": "server",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsɜːvə/",
+        "us": "/ˈsɜːrvər/"
+      },
+      "meaningVi": "nhân viên phục vụ",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v56-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v57",
+      "no": 57,
+      "word": "eating outside",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈiːtɪŋ ˌaʊtˈsaɪd/",
+        "us": "/ˈiːtɪŋ ˌaʊtˈsaɪd/"
+      },
+      "meaningVi": "ăn ở ngoài trời",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v57-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v57-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v58",
+      "no": 58,
+      "word": "dining at a restaurant",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdaɪnɪŋ ət ə ˈrestrɒnt/",
+        "us": "/ˈdaɪnɪŋ ət ə ˈrestərɑːnt/"
+      },
+      "meaningVi": "dùng bữa tại nhà hàng",
+      "image": "/assets/day-11/images/hw4/03.jpg",
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": "pdf",
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v58-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v59",
+      "no": 59,
+      "word": "having a meal together",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈhævɪŋ ə miːl təˈɡeðə/",
+        "us": "/ˈhævɪŋ ə miːl təˈɡeðər/"
+      },
+      "meaningVi": "cùng nhau dùng bữa",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v59-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v60",
+      "no": 60,
+      "word": "tasting the soup",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈteɪstɪŋ ðə suːp/",
+        "us": "/ˈteɪstɪŋ ðə suːp/"
+      },
+      "meaningVi": "nếm súp",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v60-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v60-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v61",
+      "no": 61,
+      "word": "sitting on the patio",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈsɪtɪŋ ɒn ðə ˈpætiəʊ/",
+        "us": "/ˈsɪtɪŋ ɑːn ðə ˈpætiəʊ/"
+      },
+      "meaningVi": "ngồi ở sân hiên",
+      "image": null,
+      "example": null,
+      "group": "Kitchen and dining",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v61-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v61-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v62",
+      "no": 62,
+      "word": "cooking some food",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈkʊkɪŋ səm fuːd/",
+        "us": "/ˈkʊkɪŋ səm fuːd/"
+      },
+      "meaningVi": "nấu thức ăn",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v62-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v62-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v63",
+      "no": 63,
+      "word": "cooking dinner",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈkʊkɪŋ ˈdɪnə/",
+        "us": "/ˈkʊkɪŋ ˈdɪnər/"
+      },
+      "meaningVi": "nấu bữa tối",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v63-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v63-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v64",
+      "no": 64,
+      "word": "cooking at the stove",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈkʊkɪŋ ət ðə stəʊv/",
+        "us": "/ˈkʊkɪŋ ət ðə stəʊv/"
+      },
+      "meaningVi": "nấu ăn bên bếp",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v64-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v64-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v65",
+      "no": 65,
+      "word": "preparing some food",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/prɪˈpeərɪŋ səm fuːd/",
+        "us": "/prɪˈperɪŋ səm fuːd/"
+      },
+      "meaningVi": "chuẩn bị thức ăn",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v65-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v65-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v66",
+      "no": 66,
+      "word": "fixing a meal",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈfɪksɪŋ ə miːl/",
+        "us": "/ˈfɪksɪŋ ə miːl/"
+      },
+      "meaningVi": "chuẩn bị một bữa ăn",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v66-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v66-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v67",
+      "no": 67,
+      "word": "preparing a meal",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/prɪˈpeərɪŋ ə miːl/",
+        "us": "/prɪˈperɪŋ ə miːl/"
+      },
+      "meaningVi": "chuẩn bị một bữa ăn",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v67-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v67-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v68",
+      "no": 68,
+      "word": "slicing some food into pieces",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈslaɪsɪŋ səm fuːd ˈɪntə ˈpiːsɪz/",
+        "us": "/ˈslaɪsɪŋ səm fuːd ˈɪntə ˈpiːsɪz/"
+      },
+      "meaningVi": "thái thức ăn thành từng miếng",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v68-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v68-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v69",
+      "no": 69,
+      "word": "chopping up some vegetables",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈtʃɒpɪŋ ʌp səm ˈvedʒtəblz/",
+        "us": "/ˈtʃɑːpɪŋ ʌp səm ˈvedʒtəblz/"
+      },
+      "meaningVi": "băm, thái rau củ",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v69-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v69-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v70",
+      "no": 70,
+      "word": "grilling meat",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈɡrɪlɪŋ miːt/",
+        "us": "/ˈɡrɪlɪŋ miːt/"
+      },
+      "meaningVi": "nướng thịt trên vỉ",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v70-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v70-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v71",
+      "no": 71,
+      "word": "baking some cookies",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbeɪkɪŋ səm ˈkʊkiz/",
+        "us": "/ˈbeɪkɪŋ səm ˈkʊkiz/"
+      },
+      "meaningVi": "nướng bánh quy",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v71-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v71-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v72",
+      "no": 72,
+      "word": "opening the oven",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈəʊpənɪŋ ði ˈʌvn/",
+        "us": "/ˈəʊpənɪŋ ði ˈʌvn/"
+      },
+      "meaningVi": "mở lò nướng",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v72-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v72-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v73",
+      "no": 73,
+      "word": "removing loaves of bread from the oven",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/rɪˈmuːvɪŋ ləʊvz əv bred frəm ði ˈʌvn/",
+        "us": "/rɪˈmuːvɪŋ ləʊvz əv bred frəm ði ˈʌvn/"
+      },
+      "meaningVi": "lấy các ổ bánh mì ra khỏi lò",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v73-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v73-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v74",
+      "no": 74,
+      "word": "slicing some loaves of bread",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈslaɪsɪŋ səm ləʊvz əv bred/",
+        "us": "/ˈslaɪsɪŋ səm ləʊvz əv bred/"
+      },
+      "meaningVi": "thái các ổ bánh mì thành lát",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v74-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v74-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v75",
+      "no": 75,
+      "word": "filling the bowl",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈfɪlɪŋ ðə bəʊl/",
+        "us": "/ˈfɪlɪŋ ðə bəʊl/"
+      },
+      "meaningVi": "làm đầy bát",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v75-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v75-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v76",
+      "no": 76,
+      "word": "being cooked on the grill",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbiːɪŋ kʊkt ɒn ðə ɡrɪl/",
+        "us": "/ˈbiːɪŋ kʊkt ɑːn ðə ɡrɪl/"
+      },
+      "meaningVi": "đang được nướng trên vỉ",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v76-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v76-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v77",
+      "no": 77,
+      "word": "drinking some water",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdrɪŋkɪŋ səm ˈwɔːtə/",
+        "us": "/ˈdrɪŋkɪŋ səm ˈwɔːtər/"
+      },
+      "meaningVi": "uống nước",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v77-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v77-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v78",
+      "no": 78,
+      "word": "drinking from a glass",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdrɪŋkɪŋ frəm ə ɡlɑːs/",
+        "us": "/ˈdrɪŋkɪŋ frəm ə ɡlæs/"
+      },
+      "meaningVi": "uống bằng ly thủy tinh",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v78-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v78-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v79",
+      "no": 79,
+      "word": "drinking from a cup",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdrɪŋkɪŋ frəm ə kʌp/",
+        "us": "/ˈdrɪŋkɪŋ frəm ə kʌp/"
+      },
+      "meaningVi": "uống bằng cốc",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v79-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v79-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v80",
+      "no": 80,
+      "word": "pouring water",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈpɔːrɪŋ ˈwɔːtə/",
+        "us": "/ˈpɔːrɪŋ ˈwɔːtər/"
+      },
+      "meaningVi": "rót nước",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v80-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v80-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v81",
+      "no": 81,
+      "word": "pouring coffee into a mug",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈpɔːrɪŋ ˈkɒfi ˈɪntə ə mʌɡ/",
+        "us": "/ˈpɔːrɪŋ ˈkɔːfi ˈɪntə ə mʌɡ/"
+      },
+      "meaningVi": "rót cà phê vào cốc có quai",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v81-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v81-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v82",
+      "no": 82,
+      "word": "stirring some contents of a container",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈstɜːrɪŋ səm ˈkɒntents əv ə kənˈteɪnə/",
+        "us": "/ˈstɜːrɪŋ səm ˈkɑːntents əv ə kənˈteɪnər/"
+      },
+      "meaningVi": "khuấy những thứ bên trong một vật chứa",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v82-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v82-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v83",
+      "no": 83,
+      "word": "is being filled",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ɪz ˈbiːɪŋ fɪld/",
+        "us": "/ɪz ˈbiːɪŋ fɪld/"
+      },
+      "meaningVi": "đang được làm đầy",
+      "image": null,
+      "example": null,
+      "group": "Cooking and drinks",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v83-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v83-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v84",
+      "no": 84,
+      "word": "wearing gloves",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈweərɪŋ ɡlʌvz/",
+        "us": "/ˈwerɪŋ ɡlʌvz/"
+      },
+      "meaningVi": "đeo găng tay",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v84-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v84-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v85",
+      "no": 85,
+      "word": "wearing a hard hat",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈweərɪŋ ə hɑːd hæt/",
+        "us": "/ˈwerɪŋ ə hɑːrd hæt/"
+      },
+      "meaningVi": "đội mũ bảo hộ",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v85-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v85-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v86",
+      "no": 86,
+      "word": "wearing a safety helmet",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈweərɪŋ ə ˈseɪfti ˈhelmɪt/",
+        "us": "/ˈwerɪŋ ə ˈseɪfti ˈhelmɪt/"
+      },
+      "meaningVi": "đội mũ bảo hộ an toàn",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v86-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v86-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v87",
+      "no": 87,
+      "word": "wearing a tool belt",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈweərɪŋ ə tuːl belt/",
+        "us": "/ˈwerɪŋ ə tuːl belt/"
+      },
+      "meaningVi": "đeo đai đựng dụng cụ",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v87-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v87-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v88",
+      "no": 88,
+      "word": "driving a forklift",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdraɪvɪŋ ə ˈfɔːklɪft/",
+        "us": "/ˈdraɪvɪŋ ə ˈfɔːrklɪft/"
+      },
+      "meaningVi": "lái xe nâng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v88-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v88-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v89",
+      "no": 89,
+      "word": "operating a tractor",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈɒpəreɪtɪŋ ə ˈtræktə/",
+        "us": "/ˈɑːpəreɪtɪŋ ə ˈtræktər/"
+      },
+      "meaningVi": "vận hành máy kéo",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v89-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v89-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v90",
+      "no": 90,
+      "word": "transporting a load of bricks",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/trænsˈpɔːtɪŋ ə ləʊd əv brɪks/",
+        "us": "/trænsˈpɔːrtɪŋ ə ləʊd əv brɪks/"
+      },
+      "meaningVi": "vận chuyển một lô gạch",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v90-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v90-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v91",
+      "no": 91,
+      "word": "operating heavy machinery",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈɒpəreɪtɪŋ ˈhevi məˈʃiːnəri/",
+        "us": "/ˈɑːpəreɪtɪŋ ˈhevi məˈʃiːnəri/"
+      },
+      "meaningVi": "vận hành máy móc hạng nặng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "ai",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v91-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v91-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v92",
+      "no": 92,
+      "word": "welding",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈweldɪŋ/",
+        "us": "/ˈweldɪŋ/"
+      },
+      "meaningVi": "hàn kim loại",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v92-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v92-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v93",
+      "no": 93,
+      "word": "holding tools",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈhəʊldɪŋ tuːlz/",
+        "us": "/ˈhəʊldɪŋ tuːlz/"
+      },
+      "meaningVi": "cầm dụng cụ",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v93-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v93-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v94",
+      "no": 94,
+      "word": "shoveling",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈʃʌvəlɪŋ/",
+        "us": "/ˈʃʌvəlɪŋ/"
+      },
+      "meaningVi": "xúc bằng xẻng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v94-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v94-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v95",
+      "no": 95,
+      "word": "using a shovel",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈjuːzɪŋ ə ˈʃʌvl/",
+        "us": "/ˈjuːzɪŋ ə ˈʃʌvl/"
+      },
+      "meaningVi": "sử dụng xẻng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v95-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v95-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v96",
+      "no": 96,
+      "word": "working with a hammer",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈwɜːkɪŋ wɪð ə ˈhæmə/",
+        "us": "/ˈwɜːrkɪŋ wɪð ə ˈhæmər/"
+      },
+      "meaningVi": "làm việc với búa",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v96-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v96-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v97",
+      "no": 97,
+      "word": "being transported on a forklift",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbiːɪŋ trænsˈpɔːtɪd ɒn ə ˈfɔːklɪft/",
+        "us": "/ˈbiːɪŋ trænsˈpɔːrtɪd ɑːn ə ˈfɔːrklɪft/"
+      },
+      "meaningVi": "đang được vận chuyển trên xe nâng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v97-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v97-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v98",
+      "no": 98,
+      "word": "pouring cement",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈpɔːrɪŋ sɪˈment/",
+        "us": "/ˈpɔːrɪŋ sɪˈment/"
+      },
+      "meaningVi": "đổ xi măng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v98-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v98-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v99",
+      "no": 99,
+      "word": "being measured",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbiːɪŋ ˈmeʒəd/",
+        "us": "/ˈbiːɪŋ ˈmeʒərd/"
+      },
+      "meaningVi": "đang được đo",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v99-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v99-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v100",
+      "no": 100,
+      "word": "being torn down",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbiːɪŋ tɔːn daʊn/",
+        "us": "/ˈbiːɪŋ tɔːrn daʊn/"
+      },
+      "meaningVi": "đang bị phá dỡ",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v100-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v100-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v101",
+      "no": 101,
+      "word": "demolishing a building",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/dɪˈmɒlɪʃɪŋ ə ˈbɪldɪŋ/",
+        "us": "/dɪˈmɑːlɪʃɪŋ ə ˈbɪldɪŋ/"
+      },
+      "meaningVi": "phá dỡ một tòa nhà",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v101-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v101-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v102",
+      "no": 102,
+      "word": "laying bricks",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈleɪɪŋ brɪks/",
+        "us": "/ˈleɪɪŋ brɪks/"
+      },
+      "meaningVi": "xây, xếp gạch",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v102-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v102-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v103",
+      "no": 103,
+      "word": "paving the road",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈpeɪvɪŋ ðə rəʊd/",
+        "us": "/ˈpeɪvɪŋ ðə rəʊd/"
+      },
+      "meaningVi": "lát, trải mặt đường",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v103-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v103-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v104",
+      "no": 104,
+      "word": "digging up the ground",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈdɪɡɪŋ ʌp ðə ɡraʊnd/",
+        "us": "/ˈdɪɡɪŋ ʌp ðə ɡraʊnd/"
+      },
+      "meaningVi": "đào đất",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v104-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v104-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v105",
+      "no": 105,
+      "word": "examining a blueprint",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ɪɡˈzæmɪnɪŋ ə ˈbluːprɪnt/",
+        "us": "/ɪɡˈzæmɪnɪŋ ə ˈbluːprɪnt/"
+      },
+      "meaningVi": "xem xét bản thiết kế",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v105-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v105-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v106",
+      "no": 106,
+      "word": "working on the ladder",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈwɜːkɪŋ ɒn ðə ˈlædə/",
+        "us": "/ˈwɜːrkɪŋ ɑːn ðə ˈlædər/"
+      },
+      "meaningVi": "làm việc trên thang",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v106-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v106-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v107",
+      "no": 107,
+      "word": "constructing a roof",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/kənˈstrʌktɪŋ ə ruːf/",
+        "us": "/kənˈstrʌktɪŋ ə ruːf/"
+      },
+      "meaningVi": "thi công mái nhà",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v107-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v107-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v108",
+      "no": 108,
+      "word": "unloading supplies from a truck",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˌʌnˈləʊdɪŋ səˈplaɪz frəm ə trʌk/",
+        "us": "/ˌʌnˈləʊdɪŋ səˈplaɪz frəm ə trʌk/"
+      },
+      "meaningVi": "dỡ vật tư từ xe tải",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v108-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v108-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v109",
+      "no": 109,
+      "word": "being loaded into crates",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈbiːɪŋ ˈləʊdɪd ˈɪntə kreɪts/",
+        "us": "/ˈbiːɪŋ ˈləʊdɪd ˈɪntə kreɪts/"
+      },
+      "meaningVi": "đang được chất vào các thùng hàng",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v109-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v109-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v110",
+      "no": 110,
+      "word": "fixing a tire",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈfɪksɪŋ ə ˈtaɪə/",
+        "us": "/ˈfɪksɪŋ ə ˈtaɪər/"
+      },
+      "meaningVi": "sửa lốp xe",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v110-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v110-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v111",
+      "no": 111,
+      "word": "fixing a car",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈfɪksɪŋ ə kɑː/",
+        "us": "/ˈfɪksɪŋ ə kɑːr/"
+      },
+      "meaningVi": "sửa ô tô",
+      "image": null,
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": null,
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v111-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v111-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v112",
+      "no": 112,
+      "word": "repairing a vehicle",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/rɪˈpeərɪŋ ə ˈviːəkl/",
+        "us": "/rɪˈperɪŋ ə ˈviːəkl/"
+      },
+      "meaningVi": "sửa một phương tiện",
+      "image": "/assets/day-11/images/hw6/02.jpg",
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": "pdf",
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v112-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v112-uk.mp3"
+      }
+    },
+    {
+      "id": "d11-v113",
+      "no": 113,
+      "word": "working on a motorbike",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈwɜːkɪŋ ɒn ə ˈməʊtəbaɪk/",
+        "us": "/ˈwɜːrkɪŋ ɑːn ə ˈməʊtərbaɪk/"
+      },
+      "meaningVi": "sửa chữa xe máy",
+      "image": "/assets/day-11/images/hw6/02.jpg",
+      "example": null,
+      "group": "Construction and repairs",
+      "source": {
+        "word": "drive",
+        "ipa": "ai",
+        "meaningVi": "ai",
+        "image": "pdf",
+        "example": null,
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-11/voice-neural/d11-v113-us.mp3",
+        "uk": "/assets/day-11/voice-neural/d11-v113-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "35e21ecd4c03a00d8de596fbe7881cfcd6ea07628ba1279d3c59131b8da47c42"
+  }
+}

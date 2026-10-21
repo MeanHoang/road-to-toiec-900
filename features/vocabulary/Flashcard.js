@@ -41,7 +41,7 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
   const t = useTranslation();
   return (
     <div
-      className={`flashcard ${flipped ? 'is-flipped' : ''}`}
+      className={`flashcard ${flipped ? 'is-flipped' : ''} ${card.word.length > 26 ? 'has-long-word' : ''}`}
       onClick={(e) => {
         if (!e.target.closest('.icon-btn')) onFlip();
       }}

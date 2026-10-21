@@ -10,6 +10,7 @@ import { Progress } from '@/shared/ui/atoms/Progress';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { LessonSkeleton } from '@/features/lesson/LessonSkeleton';
 import { Flashcard } from './Flashcard';
+import { SwipeFlashcard } from './SwipeFlashcard';
 import { notKnownYet } from './filters';
 
 export function CardsScreen({ slug, day }) {
@@ -74,7 +75,7 @@ export function CardsScreen({ slug, day }) {
         <div style={{ marginTop: 'var(--space-5)' }}>
           <Progress percent={(known / total) * 100} label={t('{0} / {1} Known', [known, total])} />
         </div>
-        <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
+        <p className="caption flashcard-keyboard-hint" style={{ marginTop: 'var(--space-3)' }}>
           <kbd>Space</kbd> {t('flip ·')} <kbd>←</kbd> {t('To learn ·')} <kbd>→</kbd> {t('Known ·')} <kbd>S</kbd> {t('star')}
         </p>
       </PageHeader>
@@ -94,13 +95,16 @@ export function CardsScreen({ slug, day }) {
         </Card>
       ) : (
         <div className="flashcard-stage">
-          <Flashcard
-            card={card}
-            flipped={flipped}
-            starred={starred}
-            onFlip={() => setFlipped((f) => !f)}
-            onToggleStar={toggleStar}
-          />
+          <p className="caption flashcard-touch-hint">{t('Swipe left to keep learning · right for known')}</p>
+          <SwipeFlashcard cardId={card.id} onMark={mark}>
+            <Flashcard
+              card={card}
+              flipped={flipped}
+              starred={starred}
+              onFlip={() => setFlipped((f) => !f)}
+              onToggleStar={toggleStar}
+            />
+          </SwipeFlashcard>
 
           <div className="row" style={{ justifyContent: 'center' }}>
             <Button variant="danger" onClick={() => mark('unknown')}>
