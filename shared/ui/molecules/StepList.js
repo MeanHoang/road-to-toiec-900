@@ -1,5 +1,6 @@
 'use client';
 
+import { useEffect, useRef } from 'react';
 import { useTranslation } from '@/features/language/LanguageProvider';
 /**
  * Dãy số thứ tự câu — dùng chung cho bài nghe và bài dịch.
@@ -9,8 +10,13 @@ import { useTranslation } from '@/features/language/LanguageProvider';
  */
 export function StepList({ items, currentIndex, isDone, isWrong, onPick, labelOf }) {
   const t = useTranslation();
+  const root = useRef(null);
+  useEffect(() => {
+    const current = root.current?.querySelector('.is-current');
+    if (current) root.current.scrollLeft = current.offsetLeft - root.current.offsetLeft - root.current.clientWidth / 2 + current.clientWidth / 2;
+  }, [currentIndex]);
   return (
-    <div className="steps">
+    <div className="steps" ref={root}>
       {items.map((it, i) => {
         const wrong = isWrong?.(it);
         const state =
@@ -21,6 +27,7 @@ export function StepList({ items, currentIndex, isDone, isWrong, onPick, labelOf
             type="button"
             className={`step ${state}`}
             onClick={() => onPick(i)}
+            aria-current={i === currentIndex ? 'step' : undefined}
             aria-label={t('Question {0}{1}', [labelOf ? labelOf(it) : i + 1, wrong ? t(' — answered incorrectly') : isDone(it) ? t(' — answered correctly') : ''])}
           >
             {labelOf ? labelOf(it) : i + 1}

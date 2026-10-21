@@ -1,0 +1,29 @@
+/* Exam navigation stays inside its column and remains reachable on phones. */
+.exam-controls { display:grid; gap:10px; min-width:0; }
+.exam-controls .exam-actions { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; justify-content:stretch; }
+.exam-controls .btn { min-width:0; white-space:normal; text-align:center; padding:10px 8px; line-height:1.4; }
+.exam-options-letters { display:grid; grid-template-columns:repeat(auto-fit,minmax(44px,1fr)); gap:10px; }
+.exam-options-letters .exam-option { justify-content:center; min-height:52px; }
+.exam-options-letters .exam-option-letter { width:auto; font-size:17px; text-align:center; }
+@media(max-width:900px) {
+ .exam-run { gap:12px; }
+ .exam-controls { grid-row:4; grid-column:1/-1; grid-template-columns:minmax(0,1fr) auto; gap:8px; align-items:stretch; }
+ .exam-controls .exam-actions { grid-row:auto; }
+ .exam-controls > .btn { max-width:120px; font-size:13px; }
+ .exam-controls .exam-actions .btn { font-size:13px; }
+ .exam-run .palette { max-height:none; overflow:hidden; gap:5px; padding:10px; }
+ .exam-run .palette-grid { display:flex; flex-wrap:nowrap; overflow-x:auto; gap:6px; padding:3px 2px; scrollbar-width:thin; }
+ .exam-run .palette-cell { flex:0 0 44px; }
+ .exam-run .exam-photo { max-height:min(30dvh,220px); }
+ .exam-run .exam-q { gap:12px; padding:12px; }
+ .exam-run .exam-audio { padding:8px 10px; margin-bottom:6px; }
+ .exam-bar-label { font-size:13px; }
+ .exam-bar .caption { font-size:12px; }
+}
+@media(max-width:900px) {
+ .exam-run { min-height:0; }
+}
+@media(max-width:700px) {
+ .exam-run { height:calc(100dvh - 102px); }
+}
+.exam-run .exam-photo { height:clamp(160px,34dvh,280px); object-fit:contain; }

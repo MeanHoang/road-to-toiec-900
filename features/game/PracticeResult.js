@@ -12,15 +12,15 @@ export function PracticeResult({ results, sprint, onRetry, onHome }) {
     <section className="arcade-result">
       <div className="arcade-result-art arcade-tone-mint"><GameArt kind={sprint ? 'sprint' : 'spell'} /></div>
       <span className="arcade-eyebrow">{t('SESSION COMPLETE')}</span>
-      <h1>{results.length === 0 ? t('Every session is a fresh start.') : missed.length ? t('A little better, every time.') : t('You found your rhythm!')}</h1>
-      <p>{t('Your ears did the work. Give yourself a little credit.')}</p>
+      <h1>{t('Results')}</h1>
+      {missed.length > 0 && <p>{t('These words are saved to your review list.')}</p>}
       <div className="arcade-result-stats">
         <div><strong>{right}<small> / {results.length}</small></strong><span>{t('Correct answers')}</span></div>
         <div><strong>{results.length ? Math.round(right / results.length * 100) : 0}<small>%</small></strong><span>{t('Accuracy')}</span></div>
         <div><strong>{missed.length}</strong><span>{t('Words to revisit')}</span></div>
       </div>
       {missed.length > 0 && <div className="arcade-review-list">
-        <h2>{t('A little more practice')}</h2>
+        <h2>{t('Words to revisit')}</h2>
         <p>{t('These words are saved to your review list.')}</p>
         {missed.map((word) => <div className="arcade-review-word" key={word.id}>
           <div><strong>{word.word}</strong><span>{word.meaningVi}</span></div>

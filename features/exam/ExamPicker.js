@@ -10,23 +10,27 @@ import { useLanguage, useTranslation } from '@/features/language/LanguageProvide
 // thì không ai luyện nổi, và người học thường yếu ở một Part cụ thể. Thi riêng
 // vẫn giữ nguyên luật của Part đó.
 
+import { useState } from 'react';
+import { Select } from '@/shared/ui/atoms/Select';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Button } from '@/shared/ui/atoms/Button';
+import { LearningArt } from '@/shared/ui/atoms/LearningArt';
 import { Card } from '@/shared/ui/atoms/Card';
 import { SECTIONS } from './rules';
 import { clock } from './useExamRun';
 
 export function ExamPicker({ papers, history, onStart }) {
   const t = useTranslation();
+  const [selected, setSelected] = useState('');
+  const paper = papers?.find((item) => item.id === selected) || papers?.[0];
   if (!papers?.length) {
     return <p className="caption">{t('No tests available yet.')}</p>;
   }
 
   return (
-    <div className="paper-grid">
-      {papers.map((p) => (
-        <PaperCard key={p.id} paper={p} history={history} onStart={onStart} />
-      ))}
+    <div className="exam-picker">
+      {papers.length > 1 && <Select value={paper.id} onChange={(event) => setSelected(event.target.value)} aria-label={t('Practice test')}>{papers.map((item) => <option key={item.id} value={item.id}>{t(item.title)}</option>)}</Select>}
+      <PaperCard paper={paper} history={history} onStart={onStart} />
     </div>
   );
 }
@@ -56,9 +60,7 @@ function PaperCard({ paper, history, onStart }) {
         const count = parts.reduce((n, p) => n + p.count, 0);
         return (
           <div key={s.kind} className="paper-sections">
-            <span className="exam-group-title">
-              {t(s.label)} · {count} {t('questions')}
-            </span>
+            <div className={`exam-group-art learning-tone-${s.kind === 'listening' ? 'lilac' : 'peach'}`}><LearningArt kind={s.kind === 'listening' ? 'headphones' : 'book'} /><span className="exam-group-title">{t(s.label)} · {count} {t('questions')}</span></div>
             {parts.map((p) => (
               <PartRow key={p.part} part={p} history={history} paperId={paper.id} onStart={onStart} />
             ))}

@@ -5,12 +5,13 @@ import { useState } from 'react';
 import { AccountBar } from '@/features/auth/AccountBar';
 import { ExamRoomButton } from '@/features/exam/ExamRoomButton';
 import { LeaderboardButton } from '@/features/leaderboard/LeaderboardButton';
-import { Callout } from '@/shared/ui/atoms/Callout';
 import { EventGreeting } from '@/shared/ui/atoms/EventGreeting';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
 import { LoadingBlock } from '@/shared/ui/molecules/LoadingBlock';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { NavCardSkeleton } from '@/shared/ui/molecules/NavCardSkeleton';
+import { LessonNumberArt } from './LessonNumberArt';
+import { StudyArt } from '@/shared/ui/molecules/StudyArt';
 import { DayRow } from './DayRow';
 import { countQuestions } from './stats';
 import { useDayList } from './useDayList';
@@ -40,17 +41,17 @@ export function HomeScreen() {
   const totalAudio = days.reduce((n, d) => n + countQuestions(d), 0);
 
   return (
-    <>
-      <div className="hero">
-        <h1>Road to TOEIC 900</h1>
-        <p>{t('Choose a lesson to get started')}</p>
+    <div className="home-dashboard">
+      <aside className="home-summary"><div className="hero home-intro"><div className="home-intro-copy">
+        <span className="eyebrow">Road to TOEIC 900</span><h1>{t('Choose a lesson to get started')}</h1>
+
 
         <div className="stat-row">
           <Stat value={days.length} label={t('lessons')} loading={loading} />
           <Stat value={totalVocab} label={t('words')} loading={loading} />
           <Stat value={totalAudio} label={t('listening questions')} loading={loading} />
         </div>
-      </div>
+      </div><StudyArt /></div>
 
       <EventGreeting />
 
@@ -63,6 +64,8 @@ export function HomeScreen() {
         }
       />
 
+      </aside>
+      <div className="home-catalog">
       {loading ? (
         <LoadingBlock label={t('Loading lessons')}>
           <NavCardSkeleton />
@@ -89,7 +92,7 @@ export function HomeScreen() {
             ))}
           </div>
 
-          {active && <h2 className="home-phase-title">{t('Phase {0}', [active.phase])}</h2>}
+          <div className="lesson-grid">
           {active?.days.map((d) => <DayRow key={d.slug} day={d} />)}
 
           {/* Thẻ "buổi tiếp theo" chỉ hiện khi đã biết có bao nhiêu buổi — lúc
@@ -97,17 +100,18 @@ export function HomeScreen() {
           {active && active.phase === latest.phase && (
             <NavCard
               empty
-              lead={String(Math.max(...days.map((day) => day.no)) + 1).padStart(2, '0')}
+              art={<LessonNumberArt no={Math.max(...days.map((day) => day.no)) + 1} />}
+              artLayout="side"
+              tone="mint"
               title={t('Next lesson')}
               meta={t('Material not available yet')}
             />
           )}
+          </div>
         </div>
       )}
 
-      <Callout style={{ marginTop: 'var(--space-5)' }}>
-        {t('Your progress is saved on this device so you can keep studying offline. Sign in with Google to sync it to your account and continue on another device.')}
-      </Callout>
-    </>
+      </div>
+    </div>
   );
 }

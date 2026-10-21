@@ -6,16 +6,12 @@ import { useEffect, useState } from 'react';
 import { MidAutumnScene } from '@/shared/ui/organisms/MidAutumnScene';
 import { WomenDayScene } from '@/shared/ui/organisms/WomenDayScene';
 import { ACTIVE_EVENT } from '@/shared/lib/event';
+import Link from 'next/link';
+import { Icon } from '@/shared/ui/atoms/Icon';
 import { NavDrawer } from './NavDrawer';
 import { LanguageSelector } from '@/features/language/LanguageSelector';
 
-/**
- * Khung của cả app: ngăn kéo bên trái + nội dung bên phải.
- *
- * Không có thanh tiêu đề riêng: mỗi màn đã tự có tiêu đề của nó, thêm một
- * thanh nữa chỉ để lặp lại đúng chữ đó là thừa. Nút đóng/mở nằm ngay trong
- * ngăn kéo lúc mở, và co về mép trái lúc đóng.
- */
+/** Shared workspace: persistent navigation on desktop, an overlay on mobile. */
 const isWide = () => window.matchMedia('(min-width: 1024px)').matches;
 
 export function AppShell({ children }) {
@@ -25,23 +21,13 @@ export function AppShell({ children }) {
 
   const [open, setOpen] = useState(false);
 
-  /**
-   * Ngăn kéo mở khi đang HỌC, đóng khi ở trang chủ: trang chủ vốn đã là danh
-   * sách buổi rồi, thêm một danh sách nữa bên cạnh là thừa. Vào một buổi thì
-   * mới cần đường nhảy qua lại giữa các phần.
-   *
-   * Phụ thuộc `inLesson` chứ không phải `pathname`, nên nó chỉ đổi lúc ra/vào
-   * khu vực bài học — nhảy giữa các màn trong cùng một buổi thì tôn trọng việc
-   * người học đã tự thu ngăn kéo lại. Màn hẹp thì luôn đóng sẵn, không thì vào
-   * trang là bị che mất nội dung.
-   */
   useEffect(() => {
     const viewport = window.matchMedia('(min-width: 1024px)');
-    const syncDrawer = () => setOpen(inLesson && viewport.matches);
+    const syncDrawer = () => setOpen(viewport.matches);
     syncDrawer();
     viewport.addEventListener('change', syncDrawer);
     return () => viewport.removeEventListener('change', syncDrawer);
-  }, [inLesson]);
+  }, []);
 
   // Bấm một mục trong ngăn kéo: màn hẹp thì đóng lại cho thấy nội dung, màn
   // rộng thì GIỮ NGUYÊN — ngăn kéo ở đó là để nhảy qua nhảy lại.
@@ -63,20 +49,13 @@ export function AppShell({ children }) {
         currentPath={pathname}
       />
 
-      {!open && (
-        <button
-          type="button"
-          className="drawer-handle"
-          onClick={() => setOpen(true)}
-          aria-label={t('Open navigation menu')}
-          aria-expanded={false}
-        >
-          »
-        </button>
-      )}
-
       <div className="shell-main">
-        <LanguageSelector />
+        <div className="workspace-bar">
+          <button type="button" className="workspace-menu" onClick={() => setOpen(!open)} aria-label={t(open ? 'Collapse navigation menu' : 'Open navigation menu')} aria-expanded={open}><Icon name="menu" /></button>
+          <Link href="/" className="workspace-brand">TOEIC <b>900</b></Link>
+          <span className="workspace-context">{t(inLesson ? 'Lesson navigation' : pathname.startsWith('/exam') ? 'Exam room' : 'Choose a lesson to get started')}</span>
+          <LanguageSelector />
+        </div>
         <main className="app-shell">{children}</main>
       </div>
     </div>

@@ -8,6 +8,9 @@ import { MODES, practiceWords, selectWords } from './practice';
 import { GameArt } from './GameArt';
 import { PracticeSession } from './PracticeSession';
 import { ClassicGameScreen } from './ClassicGameScreen';
+import { Select } from '@/shared/ui/atoms/Select';
+import { Icon } from '@/shared/ui/atoms/Icon';
+import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { MatchGame } from './MatchGame';
 
 export function GameScreen({ slug, day }) {
@@ -19,7 +22,6 @@ export function GameScreen({ slug, day }) {
   const [sessionWords, setSessionWords] = useState([]);
   const vocabulary = day.vocabulary;
   const selected = selectWords(vocabulary, progress, filter);
-  const featured = MODES[0];
   const available = (id) => practiceWords(selected, id).length;
 
   function start(nextMode) {
@@ -39,41 +41,17 @@ export function GameScreen({ slug, day }) {
 
   return (
     <div className="arcade arcade-home">
-      <div className="arcade-welcome">
-      <header className="arcade-heading">
-        <span className="arcade-eyebrow">{day.title} <span aria-hidden="true">/</span> {t('VOCABULARY ARCADE')}</span>
-        <div className="arcade-heading-row"><h1>{t('A little play.')}<br /><span>{t('A little progress.')}</span></h1><span className="arcade-headphone-badge" aria-hidden="true">♫</span></div>
-        <p>{t('Headphones on. Make these words your own.')}</p>
-      </header>
-      <div className="arcade-overview" aria-label={t('Your practice collection')}>
-        <div><strong>{available('spell')}</strong><span>{t('Listening words')}</span></div>
-        <div><strong>{available('phrases')}</strong><span>{t('Phrases')}</span></div>
-        <div><strong>{selectWords(vocabulary, progress, 'review').length}</strong><span>{t('Words to revisit')}</span></div>
-      </div>
-      </div>
-
+      <PageHeader eyebrow={day.title} title={t('Vocabulary game')} subtitle={t('Listen, spell, and match the words in this lesson.')} />
       <div className="arcade-settings">
         <div className="arcade-filters" role="group" aria-label={t('Choose your words')}>
           {[['all', 'All words'], ['starred', 'Starred'], ['review', 'To review']].map(([id, label]) => <button key={id} type="button" aria-pressed={filter === id} onClick={() => setFilter(id)}>{t(label)}</button>)}
         </div>
-        <label className="arcade-accent"><span>{t('Audio')}</span><select value={accent} onChange={(event) => setAccent(event.target.value)} aria-label={t('Audio accent')}><option value="us">US</option><option value="uk">UK</option></select></label>
+        <label className="arcade-accent"><Icon name="headphones" size={18} /><span>{t('Audio')}</span><Select value={accent} onChange={(event) => setAccent(event.target.value)} aria-label={t('Audio accent')}><option value="us">{t('American audio')}</option><option value="uk">{t('British audio')}</option></Select></label>
       </div>
 
-      <div className="arcade-collection">
-      <section className="arcade-featured arcade-tone-forest">
-        <div className="arcade-featured-copy"><span className="arcade-eyebrow"><span className="arcade-live-dot" />{t('YOUR DAILY LISTENING MOMENT')}</span>
-          <h2>{t(featured.title)}</h2><p>{t(featured.description)}</p>
-          <div className="arcade-featured-meta">{t('{0} words', [Math.min(10, available('spell'))])} <span>·</span> {t('Your pace')}</div>
-          <button className="arcade-primary" type="button" disabled={!available('spell')} onClick={() => start(featured)}>{t('Let us play')} <span aria-hidden="true">↗</span></button>
-        </div>
-        <GameArt kind="spell" className="arcade-featured-art" />
-      </section>
-
-      <div className="arcade-catalog">
-      <div className="arcade-section-title"><h2>{t('Find your flow')}</h2><span>{t('{0} words ready', [available('spell')])}</span></div>
       {available('spell') === 0 && <div className="arcade-empty" role="status"><h3>{t('No words available yet')}</h3><p>{t(filter === 'all' ? 'These words need audio before listening practice is ready. The classic quiz is still available below.' : 'Try all words, or add words to this list from your flashcards.')}</p></div>}
       <div className="arcade-grid">
-        {MODES.slice(1).map((game) => {
+        {MODES.map((game) => {
           const count = available(game.id);
           const disabled = count < (game.id === 'meaning' || game.id === 'match' ? 2 : 1);
           return <button type="button" className={`arcade-game-card arcade-tone-${game.tone}`} data-mode={game.id} key={game.id} onClick={() => start(game)} disabled={disabled}>
@@ -82,12 +60,10 @@ export function GameScreen({ slug, day }) {
           </button>;
         })}
       </div>
-      </div>
-      </div>
       <button type="button" className="arcade-classic" onClick={() => start('classic')}>
-        <GameArt kind="classic" /><div><span className="arcade-eyebrow">{t('AN OLD FAVORITE')}</span><h3>{t('Classic word quiz')}</h3><p>{t('English, Vietnamese, and a little recall.')}</p></div><span aria-hidden="true">→</span>
+        <GameArt kind="classic" /><div><h3>{t('Classic word quiz')}</h3><p>{t('English, Vietnamese, and a little recall.')}</p></div><span aria-hidden="true">→</span>
       </button>
-      <p className="arcade-footnote">{t('Small sessions. Familiar words. A stronger memory.')}</p>
+
     </div>
   );
 }

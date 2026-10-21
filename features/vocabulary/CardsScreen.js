@@ -47,6 +47,7 @@ export function CardsScreen({ slug, day }) {
   // Phím tắt — kéo chuột trên máy tính rất khó chịu.
   useEffect(() => {
     const onKey = (e) => {
+      if (e.target.closest?.('input, textarea, select, button, a, [contenteditable="true"]')) return;
       if (e.key === 'ArrowLeft') mark('unknown');
       else if (e.key === 'ArrowRight') mark('known');
       else if (e.key === 's' || e.key === 'S') toggleStar();

@@ -15,6 +15,7 @@ import { Button } from '@/shared/ui/atoms/Button';
 import { Card } from '@/shared/ui/atoms/Card';
 import { Progress } from '@/shared/ui/atoms/Progress';
 import { Modal } from '@/shared/ui/organisms/Modal';
+import { Pagination } from '@/shared/ui/molecules/Pagination';
 import { ExamQuestion } from './ExamQuestion';
 import { partTitle } from './rules';
 
@@ -51,6 +52,8 @@ function byPart(attempt) {
 export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
   const t = useTranslation();
   const [selected, setSelected] = useState(null);
+  const [page, setPage] = useState(0);
+  const pageSize = 9;
   const question = selected && questions.find((q) => q.id === selected.id);
   const sections = bySection(attempt);
   const parts = byPart(attempt);
@@ -58,7 +61,8 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
   const blank = attempt.answers.filter((a) => !a.picked).length;
 
   return (
-    <div className="stack">
+    <div className="exam-result">
+      <div className="exam-result-summary">
       <Card className="exam-score">
         <span className="eyebrow">
           {t(attempt.label)}
@@ -113,13 +117,16 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
         </Card>
       )}
 
-      <Card>
+      </div>
+      <Card className="review-card">
         <span className="eyebrow">{t('Question review')}</span>
         <p className="caption">{t('Select an incorrect or unanswered question to review it and see the correct answer.')}</p>
-        {sections.map((s) => (
+        {sections.filter((s) => s.from < (page + 1) * pageSize && s.from + s.count > page * pageSize).map((s) => (
           <div key={s.label} className="exam-review">
             {sections.length > 1 && <span className="caption">{t(s.label)}</span>}
             {s.answers.map((a, i) => {
+              const position = s.from + i;
+              if (position < page * pageSize || position >= (page + 1) * pageSize) return null;
               const ok = a.picked === a.answer;
               const Row = ok ? 'div' : 'button';
               return (
@@ -143,6 +150,7 @@ export function ExamResult({ attempt, questions = [], onAgain, onBack }) {
             })}
           </div>
         ))}
+        <Pagination page={page} total={attempt.answers.length} pageSize={pageSize} onChange={setPage} />
       </Card>
 
       <Modal

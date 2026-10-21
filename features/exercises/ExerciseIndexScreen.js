@@ -6,6 +6,7 @@ import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
+import { LearningArt } from '@/shared/ui/atoms/LearningArt';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 
@@ -27,7 +28,7 @@ export function ExerciseIndexScreen({ slug, day }) {
           : t('{0} sets · {1} questions · choose the correct answer to complete each sentence', [day.exercises.length, countExercises(day)])}
       />
 
-      <div className="stack">
+      <div className="activity-grid set-collection" data-count={day.exercises.length}>
         {day.exercises.map((set) => {
           const total = set.questions.length;
           const done = ready ? set.questions.filter((q) => state.listen[q.id]?.correct).length : 0;
@@ -37,7 +38,8 @@ export function ExerciseIndexScreen({ slug, day }) {
             <NavCard
               key={set.id}
               href={`/day/${slug}/exercises/${set.code}`}
-              lead={graded ? '🧩' : '🔁'}
+              art={<LearningArt kind={set.part === 7 ? 'book' : 'quiz'} />}
+              tone={set.part === 7 ? 'peach' : 'sky'}
               title={set.title}
               meta={set.subtitle}
               percent={graded && ready ? (done / total) * 100 : undefined}

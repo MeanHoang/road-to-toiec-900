@@ -24,7 +24,7 @@ export function Drawer({ open, onClose, label, children }) {
         onClick={onClose}
         aria-hidden="true"
       />
-      <aside className={`drawer ${open ? 'is-open' : ''}`} aria-label={label}>
+      <aside className={`drawer ${open ? 'is-open' : ''}`} aria-label={label} inert={!open} aria-hidden={!open}>
         {children}
       </aside>
     </>

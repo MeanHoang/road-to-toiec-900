@@ -6,6 +6,7 @@ import { useProgress } from '@/features/progress/useProgress';
 import { Badge } from '@/shared/ui/atoms/Badge';
 import { Callout } from '@/shared/ui/atoms/Callout';
 import { CountBadge } from '@/shared/ui/molecules/CountBadge';
+import { LearningArt } from '@/shared/ui/atoms/LearningArt';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { countCorrect } from './rules';
@@ -58,7 +59,7 @@ export function ListenIndexScreen({ slug, day }) {
         subtitle={t('{0} sets · {1} questions · individual audio for each question', [day.listening.length, countQuestions(day)])}
       />
 
-      <div className="stack">
+      <div className="activity-grid set-collection" data-count={day.listening.length}>
         {day.listening.map((set) => {
           const done = ready ? countCorrect(set, state.listen) : 0;
           const total = set.questions.length;
@@ -67,7 +68,8 @@ export function ListenIndexScreen({ slug, day }) {
             <NavCard
               key={set.id}
               href={`/day/${slug}/listen/${set.code}`}
-              lead={set.mode === 'dictation' ? '✏️' : '🎧'}
+              art={<LearningArt kind={set.code === 'vocab' ? 'vocab' : set.code.startsWith('hw') ? 'headphones' : set.mode === 'dictation' ? 'dictation' : 'headphones'} />}
+              tone={set.code === 'vocab' ? 'mint' : set.code.startsWith('hw') ? 'lilac' : 'sky'}
               title={set.title}
               meta={set.subtitle}
               percent={set.hasKey && ready ? (done / total) * 100 : undefined}

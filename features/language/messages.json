@@ -3138,5 +3138,50 @@
     "vi": "Chọn thẻ tiếng Anh để tự nghe phát âm.",
     "zh": "点击英文卡片自动播放发音。",
     "ko": "영어 카드를 누르면 발음이 재생돼요."
+  },
+  "Lessons": {
+    "vi": "Buổi học",
+    "zh": "课程",
+    "ko": "수업"
+  },
+  "Pages": {
+    "vi": "Phân trang",
+    "zh": "分页",
+    "ko": "페이지"
+  },
+  "Previous page": {
+    "vi": "Trang trước",
+    "zh": "上一页",
+    "ko": "이전 페이지"
+  },
+  "Next page": {
+    "vi": "Trang sau",
+    "zh": "下一页",
+    "ko": "다음 페이지"
+  },
+  "Listen, spell, and match the words in this lesson.": {
+    "vi": "Luyện nghe, chính tả và ghép từ trong buổi học này.",
+    "zh": "练习本课的听力、拼写与词义配对。",
+    "ko": "이 수업의 단어로 듣기, 철자, 짝맞추기를 연습하세요."
+  },
+  "No answer key is available. You can still type and save your answers.": {
+    "vi": "Nhóm này chưa có đáp án. Bạn vẫn có thể điền từ và lưu bài làm.",
+    "zh": "此组暂无答案。你仍可填写并保存作答。",
+    "ko": "이 그룹에는 정답이 없습니다. 답을 입력하고 저장할 수 있습니다."
+  },
+  "Flip card": {
+    "vi": "Lật thẻ",
+    "zh": "翻转卡片",
+    "ko": "카드 뒤집기"
+  },
+  "start": {
+    "vi": "bắt đầu",
+    "zh": "开始",
+    "ko": "시작"
+  },
+  "Copy {0} words to learn": {
+    "vi": "Chép {0} từ chưa học",
+    "zh": "复制 {0} 个待学单词",
+    "ko": "학습할 단어 {0}개 복사"
   }
 }

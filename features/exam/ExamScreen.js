@@ -164,6 +164,7 @@ function Running({ paper, onDone }) {
             phần thi. Kết thúc là một nút riêng, vì nó không thể hoàn tác: sang
             phần sau rồi thì không quay lại được. Bấm nhầm "Câu sau" ở câu cuối
             mà mất cả phần thi thì quá đắt. */}
+        <div className="exam-controls">
         <div className="exam-actions">
           <Button onClick={run.prev} disabled={run.atSectionStart}>
             {t('Previous question')}
@@ -175,6 +176,7 @@ function Running({ paper, onDone }) {
         <Button variant="quiet" onClick={() => setConfirming(true)}>
           {t(endLabel)}
         </Button>
+        </div>
       </aside>
 
       <div className="exam-main">

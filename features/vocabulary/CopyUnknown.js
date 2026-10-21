@@ -10,6 +10,7 @@ import { useTranslation } from '@/features/language/LanguageProvider';
 // Nằm ở features/vocabulary vì nó hiểu hình dạng của một từ vựng (id, word,
 // meaningVi) — shared/ui không được biết mấy thứ đó.
 
+import { Icon } from '@/shared/ui/atoms/Icon';
 import { useState } from 'react';
 
 export function CopyUnknown({ words, daySlug }) {
@@ -33,7 +34,7 @@ export function CopyUnknown({ words, daySlug }) {
 
   return (
     <button className="btn btn-quiet btn-sm" onClick={copy} type="button">
-      {copied ? t('✓ Copied') : t('📋 Copy {0} words to learn', [words.length])}
+      <Icon name="list" size={16} />{copied ? t('✓ Copied') : t('Copy {0} words to learn', [words.length])}
     </button>
   );
 }

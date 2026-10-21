@@ -37,7 +37,7 @@ export function ExamQuestion({ question, picked, onPick, review = false }) {
 
       {question.stem && <p className="exam-stem">{question.stem}</p>}
 
-      <div className="exam-options">
+      <div className={`exam-options ${!question.options && !review ? 'exam-options-letters' : ''}`}>
         {question.choices.map((letter) => review ? (
           <div
             key={letter}

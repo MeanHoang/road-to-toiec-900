@@ -1,5 +1,6 @@
 'use client';
 
+import { Icon } from '@/shared/ui/atoms/Icon';
 import { useTranslation } from '@/features/language/LanguageProvider';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
@@ -133,7 +134,7 @@ export function Speak({ text, lang = 'en-US', src, label }) {
       aria-label={error ? `${tenGoi} — ${t(error)}` : tenGoi}
       title={error ? t(error) : tenGoi}
     >
-      {error ? '⚠️' : '🔊'}
+      {error ? <span aria-hidden="true">!</span> : <Icon name="speaker" size={18} />}
     </button>
   );
 }

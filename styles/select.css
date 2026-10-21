@@ -1,0 +1,20 @@
+.select-trigger { width:100%; min-height:44px; display:flex; align-items:center; justify-content:space-between; gap:12px; padding:10px 12px; background:var(--surface); border:1px solid var(--border-strong); border-radius:10px; color:var(--text); font-size:14px; font-weight:500; line-height:1.5; cursor:pointer; text-align:left; }
+.select-trigger > span { min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.select-trigger > svg { flex-shrink:0; color:var(--text-muted); transition:transform 120ms var(--ease); }
+.select-trigger:hover { border-color:var(--text-muted); }
+.select-trigger.is-open { border-color:var(--brand); }
+.select-trigger.is-open > svg { transform:rotate(180deg); }
+.select-trigger:focus-visible { box-shadow:var(--ring); }
+.select-trigger:disabled { opacity:.5; cursor:not-allowed; }
+.select-popover { position:fixed; z-index:100; padding:5px; overflow-y:auto; overscroll-behavior:contain; border:1px solid var(--border); border-radius:12px; background:var(--surface-raised); color:var(--text); box-shadow:var(--shadow-md); font-family:'Be Vietnam Pro',sans-serif; scrollbar-width:thin; }
+.select-option { display:flex; align-items:center; justify-content:space-between; gap:12px; min-height:44px; padding:10px; border-radius:7px; font-size:14px; line-height:1.5; cursor:pointer; }
+.select-option > span { min-width:0; overflow-wrap:anywhere; }
+.select-option > svg { flex-shrink:0; color:var(--brand); }
+.select-option.is-active { background:var(--surface-sunken); }
+.select-option[aria-selected='true'] { color:var(--brand); }
+.select-option[aria-disabled='true'] { opacity:.5; cursor:not-allowed; }
+.rate-select .select-trigger { min-width:78px; }
+.theory-mobile-select .select-trigger { width:100%; }
+@media(max-width:700px) {
+ .select-trigger, .select-option { font-size:14px; }
+}

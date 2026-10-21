@@ -80,7 +80,8 @@ export function GrammarExerciseScreen({ slug, day }) {
         labelOf={(t) => t.no}
       />
 
-      <Card style={{ marginTop: 'var(--space-4)' }}>
+      <Card className="grammar-workspace" style={{ marginTop: 'var(--space-4)' }}>
+        <div className="grammar-task-grid"><div className="grammar-label-step">
         <div className="quiz-head">
           <span>
             {t('Question')} {idx + 1} / {day.translation.length}
@@ -108,7 +109,7 @@ export function GrammarExerciseScreen({ slug, day }) {
           onAssign={(i, label) => setMarks((m) => ({ ...m, [i]: label }))}
         />
 
-        <hr />
+        </div><div className="grammar-translation-step">
 
         <div className="quiz-head">
           <Badge tone={tagged ? 'brand' : 'neutral'}>{t('Step 2 · translate into Vietnamese')}</Badge>
@@ -117,12 +118,14 @@ export function GrammarExerciseScreen({ slug, day }) {
 
         <Textarea
           rows={2}
+          aria-label={t('Enter your Vietnamese translation…')}
           disabled={!tagged || checked}
           placeholder={t('Enter your Vietnamese translation…')}
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
         />
 
+        </div></div>
         {checked && (
           <div className={`feedback ${correct ? 'feedback-success' : 'feedback-error'}`}>
             {correct ? t('✅ All labels are correct.') : t('❌ Some labels are incorrect. Check the phrases outlined in red.')}

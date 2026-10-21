@@ -1,5 +1,6 @@
 'use client';
 
+import { Select } from '@/shared/ui/atoms/Select';
 import { useTranslation } from '@/features/language/LanguageProvider';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
@@ -185,7 +186,7 @@ export function AudioPlayer({ src, onEnded }) {
         </div>
       </div>
 
-      <select
+      <Select
         className="rate-select"
         value={rate}
         onChange={(e) => changeRate(Number(e.target.value))}
@@ -197,7 +198,7 @@ export function AudioPlayer({ src, onEnded }) {
             {r}×
           </option>
         ))}
-      </select>
+      </Select>
 
       {/* preload="metadata" chứ không phải "none": cần biết bài dài bao nhiêu
           để hiện thời gian và để kéo được TRƯỚC khi bấm phát. Chỉ tải phần đầu

@@ -46,8 +46,9 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
         if (!e.target.closest('.icon-btn')) onFlip();
       }}
     >
+      <button className="flashcard-flip" type="button" onClick={(event) => { event.stopPropagation(); onFlip(); }} aria-label={t('Flip card')} />
       <div className="flashcard-inner">
-        <div className="flashcard-face">
+        <div className="flashcard-face" inert={flipped} aria-hidden={flipped}>
           <StarCorner word={card.word} starred={starred} onToggle={onToggleStar} />
           <Badge eyebrow>{card.group}</Badge>
           <div className="word">{card.word}</div>
@@ -75,7 +76,7 @@ export function Flashcard({ card, flipped, starred, onFlip, onToggleStar }) {
           <div className="hint">{t('recall the meaning · click to flip')}</div>
         </div>
 
-        <div className="flashcard-face back">
+        <div className="flashcard-face back" inert={!flipped} aria-hidden={!flipped}>
           <StarCorner word={card.word} starred={starred} onToggle={onToggleStar} />
           {card.image && <img src={card.image} alt="" />}
           <Badge>{card.pos}</Badge>

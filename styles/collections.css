@@ -1,0 +1,77 @@
+/* Illustrated collections share the arcade's paper, ink and soft color panels. */
+.learning-tone-mint { --learning-ink:#33715e; --learning-tint:#e5f1e9; }
+.learning-tone-sky { --learning-ink:#3d6aab; --learning-tint:#e8effb; }
+.learning-tone-lilac { --learning-ink:#7756bc; --learning-tint:#eee9f8; }
+.learning-tone-peach { --learning-ink:#934d2a; --learning-tint:#faecdf; }
+.learning-tone-lemon { --learning-ink:#7b6a24; --learning-tint:#f5f0d6; }
+.learning-art { --art-paper:#fff; display:block; width:120px; height:92px; color:var(--learning-ink,var(--brand)); flex-shrink:0; }
+.nav-card.nav-illustrated { display:flex; flex-direction:column; align-items:stretch; padding:7px; gap:0; overflow:hidden; }
+.nav-card-art { position:relative; display:flex; align-items:center; justify-content:center; min-width:0; height:82px; background:var(--learning-tint); border-radius:10px; flex-shrink:0; }
+.nav-card-art .learning-art { width:108px; height:82px; transition:transform 180ms var(--ease); }
+.nav-card.nav-illustrated:hover .learning-art { transform:rotate(-4deg) translateY(-2px); }
+.nav-art-label { position:absolute; top:8px; left:8px; display:flex; }
+.nav-art-label .badge { background:#ffffffd9; color:var(--learning-ink); font-size:10px; padding:3px 6px; border:0; }
+.nav-art-arrow { position:absolute; bottom:7px; right:10px; font-size:18px; color:var(--learning-ink); }
+.nav-card.nav-illustrated > .body { display:flex; flex-direction:column; gap:5px; padding:12px 8px 10px; min-height:94px; }
+.nav-card.nav-illustrated .title { font-size:15px; line-height:1.45; }
+.nav-card.nav-illustrated .meta { margin:0; font-size:12px; line-height:1.6; }
+.nav-card.nav-illustrated .progress { margin-top:auto; padding-top:6px; }
+.lesson-activity-grid, .set-collection { grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
+.lesson-activity-grid[data-count='6'], .lesson-activity-grid[data-count='5'], .set-collection[data-count='6'], .set-collection[data-count='5'], .set-collection[data-count='3'] { grid-template-columns:repeat(3,minmax(0,1fr)); }
+/* Home keeps compact illustrated cards so all nine earlier lessons stay visible. */
+.nav-card.nav-art-side, .home-catalog .lesson-grid .nav-card.nav-art-side { flex-direction:row; align-items:center; gap:12px; padding:8px; min-height:102px; }
+.nav-card.nav-art-side .nav-card-art { width:78px; height:82px; }
+.nav-card.nav-art-side .nav-card-art .learning-art { width:84px; height:72px; }
+.nav-card.nav-art-side > .body { flex:1; padding:4px 3px 4px 0; min-height:0; }
+.nav-card.nav-art-side .nav-art-label { top:4px; left:4px; }
+.nav-card.nav-art-side .nav-art-label .badge { font-size:10px; padding:1px 4px; }
+.nav-card.nav-art-side .nav-art-arrow { display:none; }
+.exam-picker .exam-group-art { height:64px; display:flex; align-items:center; gap:16px; padding:0 16px; border-radius:10px; background:var(--learning-tint); }
+.exam-group-art .learning-art { width:84px; height:64px; }
+.exam-picker .exam-group-art .exam-group-title { padding:0; margin:0; color:var(--learning-ink); font-size:12px; }
+@media(min-width:701px) and (max-width:1199px) {
+ .lesson-activity-grid, .set-collection { grid-template-columns:repeat(2,minmax(0,1fr)); }
+ .lesson-activity-grid .nav-card.nav-illustrated, .set-collection .nav-card.nav-illustrated { flex-direction:row; align-items:center; gap:10px; }
+ .lesson-activity-grid .nav-card-art, .set-collection .nav-card-art { width:90px; height:100%; min-height:90px; }
+ .lesson-activity-grid .nav-art-label, .set-collection .nav-art-label { position:static; margin-bottom:4px; }
+ .lesson-activity-grid .nav-card-art, .set-collection .nav-card-art { flex-direction:column-reverse; }
+ .lesson-activity-grid .nav-card-art .learning-art, .set-collection .nav-card-art .learning-art { width:80px; height:66px; }
+ .lesson-activity-grid .nav-art-arrow, .set-collection .nav-art-arrow { display:none; }
+ .lesson-activity-grid .nav-card > .body, .set-collection .nav-card > .body { flex:1; }
+}
+@media(max-width:700px) {
+ .lesson-activity-grid, .set-collection, .lesson-activity-grid[data-count], .set-collection[data-count] { grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }
+ .nav-card.nav-illustrated { padding:6px; }
+ .nav-card-art { height:78px; }
+ .nav-card-art .learning-art { width:100px; height:76px; }
+ .nav-card.nav-illustrated > .body { padding:10px 6px; min-height:110px; }
+ .nav-card.nav-illustrated .title { font-size:14px; }
+ .nav-card.nav-illustrated .meta { font-size:12px; }
+ .nav-art-label { top:5px; left:5px; }
+ .nav-art-label .badge { font-size:9px; }
+ .nav-card.nav-art-side > .body { min-height:0; }
+ .exam-picker .exam-group-art { height:70px; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .nav-card.nav-illustrated .learning-art { transition:none; }
+ .nav-card.nav-illustrated:hover .learning-art { transform:none; }
+}
+.nav-card.nav-illustrated .progress-track-sm { flex:none; height:4px; min-height:4px; margin-top:auto; }
+.exam-picker .exam-group-art { height:56px; }
+.exam-group-art .learning-art { width:74px; height:56px; }
+.exam-picker .paper-section { padding:8px 0; }
+@media(min-width:1200px) {
+ .lesson-activity-grid .nav-card-art { height:74px; }
+ .lesson-activity-grid .nav-card-art .learning-art { height:74px; }
+}
+.exam-picker .paper-head { padding-bottom:8px; }
+.home-summary .stat-row { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:0; align-items:start; }
+.home-summary .stat { min-width:0; padding:0 8px; }
+.home-summary .stat span { overflow-wrap:normal; }
+.nav-card-art .lesson-number-art { width:84px; height:76px; }
+/* The icon, account copy and actions share one text column. */
+.home-summary .account { display:grid; grid-template-columns:34px minmax(0,1fr); align-items:start; gap:10px 12px; padding:16px; }
+.home-summary .account-who { min-width:0; }
+.home-summary .account-action { grid-column:2; width:100%; margin:0; }
+.home-summary .account-action .btn-group { display:flex; flex-direction:column; align-items:flex-start; gap:8px; }
+.home-summary .account-action .btn { max-width:100%; white-space:normal; text-align:left; }

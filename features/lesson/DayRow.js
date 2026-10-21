@@ -2,6 +2,7 @@
 
 import { useProgress } from '@/features/progress/useProgress';
 import { summarize } from '@/features/progress/summarize';
+import { LessonNumberArt } from './LessonNumberArt';
 import { NavCard } from '@/shared/ui/molecules/NavCard';
 import { countExercises, countQuestions } from './stats';
 
@@ -18,8 +19,10 @@ export function DayRow({ day }) {
   return (
     <NavCard
       href={`/day/${day.slug}`}
-      lead={String(day.no).padStart(2, '0')}
       leadBrand
+      art={<LessonNumberArt no={day.no} />}
+      artLayout="side"
+      tone={['mint', 'sky', 'lilac', 'peach', 'lemon'][(day.no - 1) % 5]}
       title={`${day.title} — ${day.subtitle}`}
       // Chỉ kể thứ buổi đó có — buổi Part 2 không có từ vựng, ghi "0 từ vựng" là nhiễu.
       meta={[

@@ -76,12 +76,12 @@ export function ListenSetScreen({ slug, setId, day }) {
       />
 
       <div
-        className={hasPhoto(set) ? 'grid grid-2' : 'stack'}
+        className={hasPhoto(set) ? 'listening-workspace grid grid-2' : 'listening-workspace stack'}
         // Không có tranh thì một cột; giới hạn bề ngang để câu trả lời dài vẫn dễ đọc.
         style={
           hasPhoto(set)
             ? { marginTop: 'var(--space-5)', alignItems: 'start' }
-            : { marginTop: 'var(--space-5)', maxWidth: 760 }
+            : { marginTop: 'var(--space-5)' }
         }
       >
         {hasPhoto(set) &&
@@ -91,7 +91,8 @@ export function ListenSetScreen({ slug, setId, day }) {
             <div className="photo-placeholder">{t('🖼 No image available for this question')}</div>
           ))}
 
-        <div className="stack stack-lg">
+        <div className={`stack stack-lg listening-panel ${!hasPhoto(set) ? 'listening-panel-wide' : ''}`}>
+          <div className="listening-controls stack">
           <AudioPlayer src={item.audio} />
 
           {set.fullAudio && (
@@ -105,6 +106,8 @@ export function ListenSetScreen({ slug, setId, day }) {
             </Switch>
           )}
 
+          </div>
+          <div className="listening-response stack">
           {chepLai ? (
             <DictationPanel
               key={item.id}
@@ -124,7 +127,8 @@ export function ListenSetScreen({ slug, setId, day }) {
             />
           )}
 
-          <div className="row row-between">
+          </div>
+          <div className="row row-between listening-actions">
             <Button variant="quiet" disabled={idx === 0} onClick={() => goto(idx - 1)}>
               {t('← Previous question')}
             </Button>

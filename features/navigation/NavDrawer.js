@@ -2,6 +2,7 @@
 
 import { useTranslation } from '@/features/language/LanguageProvider';
 import Link from 'next/link';
+import { Icon } from '@/shared/ui/atoms/Icon';
 import { useEffect, useState } from 'react';
 import { useDayIndex } from '@/features/lesson/useDayIndex';
 import { Skeleton } from '@/shared/ui/atoms/Skeleton';
@@ -26,7 +27,7 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
     <Drawer open={open} onClose={onClose} label={t('Lesson navigation')}>
       <div className="drawer-head">
         <Link href="/" className="drawer-brand" onClick={onNavigate}>
-          Road to TOEIC 900
+          <span className="brand-symbol"><Icon name="book" /></span><span>TOEIC <b>900</b><small>Road to TOEIC 900</small></span>
         </Link>
         <button
           type="button"
@@ -35,11 +36,16 @@ export function NavDrawer({ open, onClose, onNavigate, currentPath }) {
           aria-label={t('Collapse navigation menu')}
           aria-expanded={true}
         >
-          «
+          <Icon name="close" size={18} />
         </button>
       </div>
 
       <nav className="drawer-body">
+        <div className="nav-primary">
+          <Link href="/" onClick={onNavigate} className={`nav-link ${currentPath === '/' ? 'is-current' : ''}`} aria-current={currentPath === '/' ? 'page' : undefined}><Icon name="home" />{t('Lessons')}</Link>
+          <Link href="/exam" onClick={onNavigate} className={`nav-link ${currentPath.startsWith('/exam') ? 'is-current' : ''}`} aria-current={currentPath.startsWith('/exam') ? 'page' : undefined}><Icon name="exam" />{t('Exam room')}</Link>
+        </div>
+        <p className="nav-section-label">{t('Lesson navigation')}</p>
         {loading ? (
           <div className="stack" style={{ padding: 'var(--space-3)' }}>
             <Skeleton height={34} />

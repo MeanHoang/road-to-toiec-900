@@ -1,13 +1,15 @@
 'use client';
 
 import { useTranslation } from '@/features/language/LanguageProvider';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useProgress } from '@/features/progress/useProgress';
 import { Button } from '@/shared/ui/atoms/Button';
 import { Input } from '@/shared/ui/atoms/Input';
 import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { CopyUnknown } from './CopyUnknown';
 import { FILTERS, countStarred, filterVocabulary, isKnown, notKnownYet } from './filters';
+import { usePageSize } from '@/shared/ui/hooks/usePageSize';
+import { Pagination } from '@/shared/ui/molecules/Pagination';
 import { VocabRow } from './VocabRow';
 
 export function VocabTableScreen({ slug, day }) {
@@ -15,6 +17,9 @@ export function VocabTableScreen({ slug, day }) {
   const { day: state, ready, setVocab, setStar } = useProgress(slug);
   const [query, setQuery] = useState('');
   const [filter, setFilter] = useState('all');
+  const [page, setPage] = useState(0);
+  const pageSize = usePageSize(6, 3);
+  useEffect(() => setPage(0), [query, filter]);
 
   const rows = useMemo(
     () =>
@@ -26,6 +31,8 @@ export function VocabTableScreen({ slug, day }) {
       }),
     [day.vocabulary, state.vocab, state.star, query, filter],
   );
+
+  const currentPage = Math.min(page, Math.max(0, Math.ceil(rows.length / pageSize) - 1));
 
   const starCount = useMemo(
     () => (ready ? countStarred(day.vocabulary, state.star) : 0),
@@ -44,17 +51,16 @@ export function VocabTableScreen({ slug, day }) {
             daySlug={slug}
             words={ready ? notKnownYet(day.vocabulary, state.vocab) : []}
           />
-          <span className="caption">
-            {t('Paste into Claude Code so the')} <code>toeic-quiz</code> {t('skill can generate questions for these words')}
-          </span>
+
         </div>
       </PageHeader>
 
-      <div className="row" style={{ marginBottom: 'var(--space-4)' }}>
+      <div className="row vocab-toolbar" style={{ marginBottom: 'var(--space-4)' }}>
         <Input
           type="search"
           placeholder={t('Search words, meanings, or IPA…')}
           value={query}
+          aria-label={t('Search words, meanings, or IPA…')}
           onChange={(e) => setQuery(e.target.value)}
           style={{ flex: 1, minWidth: 200 }}
         />
@@ -63,6 +69,7 @@ export function VocabTableScreen({ slug, day }) {
             key={f.key}
             size="sm"
             variant={filter === f.key ? 'primary' : 'quiet'}
+            aria-pressed={filter === f.key}
             onClick={() => setFilter(f.key)}
           >
             {f.key === 'star' && starCount ? `${t(f.label)} (${starCount})` : t(f.label)}
@@ -70,7 +77,7 @@ export function VocabTableScreen({ slug, day }) {
         ))}
       </div>
 
-      <div className="table-wrap">
+      <div className="table-wrap vocab-table">
         <table>
           <thead>
             <tr>
@@ -89,7 +96,7 @@ export function VocabTableScreen({ slug, day }) {
             </tr>
           </thead>
           <tbody>
-            {rows.map((v) => {
+            {rows.slice(currentPage * pageSize, (currentPage + 1) * pageSize).map((v) => {
               const known = ready && isKnown(state.vocab, v.id);
               const starred = ready && Boolean(state.star[v.id]);
               return (
@@ -115,10 +122,7 @@ export function VocabTableScreen({ slug, day }) {
         </p>
       )}
 
-      <p className="caption" style={{ marginTop: 'var(--space-3)' }}>
-        {t('Click a status label to change it. Missed words in the game are marked as To learn. Star words you want to review, even if they are already Known. Vietnamese meanings were added by AI. If a meaning needs correcting, edit')}{' '}
-        <code>content/{slug}/vocabulary.json</code>.
-      </p>
+      <Pagination page={currentPage} total={rows.length} pageSize={pageSize} onChange={setPage} />
     </>
   );
 }
