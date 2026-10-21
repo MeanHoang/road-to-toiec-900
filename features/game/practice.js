@@ -5,8 +5,8 @@ export const MODES = [
   { id: 'spell', title: 'Listen & type', description: 'Let your ears lead. Write what you hear.', tag: 'Start here', tone: 'forest' },
   { id: 'match', title: 'Match the cards', description: 'Find the word. Match its meaning. Clear the board.', tag: 'Memory', tone: 'sky' },
   { id: 'meaning', title: 'Hear the meaning', description: 'Listen to a word. Find its meaning.', tag: 'Listening', tone: 'lilac' },
-  { id: 'gaps', title: 'Missing letters', description: 'A little help with the tricky letters.', tag: 'Spelling', tone: 'rose' },
-  { id: 'phrases', title: 'Phrase practice', description: 'Remember the words that belong together.', tag: 'Word pairs', tone: 'peach' },
+  { id: 'blocks', title: 'Word blocks', description: 'Fit the blocks. Clear a line. Unlock a word.', tag: 'Puzzle', tone: 'rose' },
+  { id: 'blast', title: 'Word blast', description: 'Listen, aim, and pop the matching meaning.', tag: 'Arcade', tone: 'peach' },
   { id: 'sprint', title: '60-second sprint', description: 'Find your rhythm. Beat your own score.', tag: 'Challenge', tone: 'lemon' },
 ];
 

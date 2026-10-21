@@ -22,7 +22,8 @@
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs",
     "push-exam": "node scripts/push-exam.mjs",
-    "test:practice": "node scripts/test-practice.mjs"
+    "test:practice": "node scripts/test-practice.mjs",
+    "test:blocks": "node scripts/test-block-puzzle.mjs"
   },
   "dependencies": {
     "firebase": "^12.18.0",

@@ -1,0 +1,28 @@
+import assert from 'node:assert/strict';
+import { BOARD_SIZE as N, emptyBoard, canPlace, hasMove, makeTray, placeBlock } from '../features/game/blockRules.js';
+const single={cells:[[0,0]],color:2}, square={cells:[[0,0],[0,1],[1,0],[1,1]],color:3};
+assert.equal(emptyBoard().length,64);
+assert.equal(canPlace(emptyBoard(),square,7,7),false,'must not wrap across the board edge');
+assert.equal(canPlace(emptyBoard(),single,-1,0),false);
+assert.equal(canPlace(emptyBoard(),single,.5,0),false);
+const occupied=emptyBoard();occupied[0]=1;
+assert.equal(canPlace(occupied,single,0,0),false);
+assert.equal(placeBlock(occupied,single,0,0),null);
+assert.equal(hasMove(Array(64).fill(1),[single]),false);
+assert.equal(hasMove(emptyBoard(),[null,square]),true);
+assert.equal(hasMove(emptyBoard(),[null,null,null]),false);
+const row=emptyBoard();row.fill(1,0,7);const snapshot=[...row];
+const clearRow=placeBlock(row,single,0,7);
+assert.equal(clearRow.lines,1);assert.equal(clearRow.cleared.length,N);assert.ok(clearRow.board.every(v=>v===0));
+assert.deepEqual(row,snapshot,'placing must not mutate the live board');
+const cross=emptyBoard();for(let n=1;n<N;n++){cross[n]=1;cross[n*N]=1;}
+const clearCross=placeBlock(cross,single,0,0);
+assert.equal(clearCross.lines,2);assert.equal(clearCross.cleared.length,15,'row/column intersection clears only once');
+assert.equal(clearCross.score,260);assert.ok(clearCross.board.every(v=>v===0));
+const twoRows=emptyBoard();twoRows.fill(1,0,6);twoRows.fill(1,8,14);
+assert.equal(placeBlock(twoRows,square,0,6).lines,2);
+const narrow=Array(64).fill(1);narrow[0]=0;narrow[1]=0;
+const tray=makeTray(narrow,()=>0);
+assert.equal(tray.length,3);assert.ok(tray.every(piece=>hasMove(narrow,[piece])),'new tray must offer fitting pieces when possible');
+assert.equal(hasMove(narrow,[square]),false,'remaining tray pieces can end a round');
+console.log('✓ Placement, collision, edges, simultaneous clears, scoring, immutability and tray availability');

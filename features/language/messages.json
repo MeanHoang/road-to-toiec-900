@@ -3223,5 +3223,235 @@
     "vi": "Vàng hổ phách",
     "zh": "琥珀金",
     "ko": "호박빛 골드"
+  },
+  "Loading games": {
+    "vi": "Đang tải trò chơi",
+    "zh": "正在加载游戏",
+    "ko": "게임을 불러오는 중"
+  },
+  "Opening activity": {
+    "vi": "Đang mở hoạt động",
+    "zh": "正在打开活动",
+    "ko": "활동을 여는 중"
+  },
+  "A little word break": {
+    "vi": "Nghỉ một nhịp, nhớ một từ",
+    "zh": "词汇小休息",
+    "ko": "잠깐 단어 시간"
+  },
+  "One answer, then back to the blocks.": {
+    "vi": "Một câu thôi, rồi xếp tiếp nhé.",
+    "zh": "答一题，继续拼方块。",
+    "ko": "한 문제 풀고 블록을 이어가요."
+  },
+  "Listen and choose the meaning. A wrong answer costs no points.": {
+    "vi": "Nghe và chọn nghĩa. Trả lời sai không mất điểm.",
+    "zh": "听词选义，答错不扣分。",
+    "ko": "듣고 뜻을 고르세요. 틀려도 감점은 없어요."
+  },
+  "Correct! Your board is ready.": {
+    "vi": "Đúng rồi! Xếp tiếp nào.",
+    "zh": "答对了，继续吧！",
+    "ko": "정답! 블록을 이어가요."
+  },
+  "Try again. Here is a hint:": {
+    "vi": "Thử lại nhé. Gợi ý đây:",
+    "zh": "再试一次，提示：",
+    "ko": "다시 해보세요. 힌트:"
+  },
+  "Answer correctly to keep building.": {
+    "vi": "Trả lời đúng để tiếp tục xếp.",
+    "zh": "答对即可继续拼方块。",
+    "ko": "정답을 고르면 이어갈 수 있어요."
+  },
+  "Keep building": {
+    "vi": "Xếp tiếp",
+    "zh": "继续拼",
+    "ko": "계속 쌓기"
+  },
+  "That block does not fit there. Try another spot.": {
+    "vi": "Khối chưa vừa chỗ này. Thử vị trí khác nhé.",
+    "zh": "这里放不下，试试别处。",
+    "ko": "여기에는 맞지 않아요. 다른 자리를 골라보세요."
+  },
+  "Line cleared! A quick word question is coming.": {
+    "vi": "Nổ hàng rồi! Một câu từ vựng ngắn nhé.",
+    "zh": "消除成功！来一道词汇题。",
+    "ko": "줄 완성! 짧은 단어 문제예요."
+  },
+  "Pick your next block.": {
+    "vi": "Chọn khối tiếp theo nhé.",
+    "zh": "选择下一个方块。",
+    "ko": "다음 블록을 고르세요."
+  },
+  "Tap a square on the board, or drag the block.": {
+    "vi": "Chạm một ô trên bảng hoặc kéo khối vào.",
+    "zh": "点击棋盘格子或拖动方块。",
+    "ko": "칸을 누르거나 블록을 끌어놓으세요."
+  },
+  "Build. Clear. Discover.": {
+    "vi": "Xếp khối. Nổ hàng. Nhớ từ.",
+    "zh": "拼方块，消行，学新词。",
+    "ko": "쌓고, 지우고, 배워요."
+  },
+  "Word blocks": {
+    "vi": "Xếp khối từ vựng",
+    "zh": "词汇方块",
+    "ko": "단어 블록"
+  },
+  "Restart": {
+    "vi": "Chơi lại",
+    "zh": "重新开始",
+    "ko": "다시 시작"
+  },
+  "Score": {
+    "vi": "Điểm",
+    "zh": "得分",
+    "ko": "점수"
+  },
+  "Personal best": {
+    "vi": "Kỷ lục cá nhân",
+    "zh": "个人最佳",
+    "ko": "개인 최고"
+  },
+  "Block puzzle board": {
+    "vi": "Bảng xếp khối",
+    "zh": "方块棋盘",
+    "ko": "블록 퍼즐 보드"
+  },
+  "Row {0}, column {1}, occupied": {
+    "vi": "Hàng {0}, cột {1}, đã có khối",
+    "zh": "第{0}行，第{1}列，已占用",
+    "ko": "{0}행 {1}열, 블록 있음"
+  },
+  "Row {0}, column {1}, empty": {
+    "vi": "Hàng {0}, cột {1}, ô trống",
+    "zh": "第{0}行，第{1}列，空格",
+    "ko": "{0}행 {1}열, 빈칸"
+  },
+  "Choose a block": {
+    "vi": "Chọn một khối",
+    "zh": "选择方块",
+    "ko": "블록 선택"
+  },
+  "Block {0}, {1} squares": {
+    "vi": "Khối {0}, {1} ô",
+    "zh": "方块{0}，{1}格",
+    "ko": "블록 {0}, {1}칸"
+  },
+  "No rush. Find your fit.": {
+    "vi": "Cứ thong thả tìm chỗ vừa.",
+    "zh": "慢慢来，找到合适位置。",
+    "ko": "서두르지 말고 맞는 자리를 찾아요."
+  },
+  "A little space for every word.": {
+    "vi": "Mỗi từ một khoảng nhỏ.",
+    "zh": "为每个单词留一点空间。",
+    "ko": "단어마다 작은 자리를."
+  },
+  "Drag a block, or tap a block and then the board. Fill a row or column to clear it.": {
+    "vi": "Kéo khối hoặc chạm chọn khối rồi chạm lên bảng. Lấp đầy hàng hoặc cột để nổ.",
+    "zh": "拖动方块，或先选方块再点棋盘。填满一行或一列即可消除。",
+    "ko": "블록을 끌거나 선택 후 칸을 누르세요. 가로나 세로 한 줄을 채우면 사라져요."
+  },
+  "Lines cleared": {
+    "vi": "Hàng đã nổ",
+    "zh": "已消除行列",
+    "ko": "완성한 줄"
+  },
+  "Words unlocked": {
+    "vi": "Từ đã mở khóa",
+    "zh": "已解锁单词",
+    "ko": "배운 단어"
+  },
+  "Each clear brings one short vocabulary question. Get it right and keep building. No timer, no penalty for a wrong answer.": {
+    "vi": "Mỗi lần nổ có một câu từ vựng ngắn. Trả lời đúng rồi xếp tiếp. Không đếm giờ, sai không mất điểm.",
+    "zh": "每次消除带来一道词汇小题，答对继续。不限时，答错不扣分。",
+    "ko": "줄을 지울 때마다 짧은 단어 문제 하나. 맞히면 계속 쌓아요. 시간 제한과 오답 감점은 없어요."
+  },
+  "Pick a block to begin.": {
+    "vi": "Chọn một khối để bắt đầu.",
+    "zh": "选择方块开始。",
+    "ko": "블록을 골라 시작하세요."
+  },
+  "No more space. Nice building!": {
+    "vi": "Hết chỗ rồi. Bạn xếp khá lắm!",
+    "zh": "没有空间了，拼得不错！",
+    "ko": "자리가 다 찼어요. 잘 쌓았어요!"
+  },
+  "Your score": {
+    "vi": "Điểm của bạn",
+    "zh": "你的得分",
+    "ko": "내 점수"
+  },
+  "Ready, aim, remember.": {
+    "vi": "Nghe rõ. Ngắm chuẩn. Bắn thôi.",
+    "zh": "听清、瞄准、记住。",
+    "ko": "듣고, 조준하고, 기억해요."
+  },
+  "Word blast": {
+    "vi": "Bắn bóng từ vựng",
+    "zh": "词汇爆破",
+    "ko": "단어 블라스트"
+  },
+  "Mission complete!": {
+    "vi": "Hoàn thành nhiệm vụ!",
+    "zh": "任务完成！",
+    "ko": "임무 완료!"
+  },
+  "Shoot the matching meaning.": {
+    "vi": "Bắn bóng có nghĩa đúng nhé.",
+    "zh": "射击含有正确词义的气泡。",
+    "ko": "맞는 뜻의 버블을 쏘세요."
+  },
+  "Streak": {
+    "vi": "Chuỗi đúng",
+    "zh": "连击",
+    "ko": "연속 정답"
+  },
+  "Level {0}": {
+    "vi": "Cấp {0}",
+    "zh": "第{0}关",
+    "ko": "레벨 {0}"
+  },
+  "Direct hit!": {
+    "vi": "Trúng rồi!",
+    "zh": "命中！",
+    "ko": "명중!"
+  },
+  "Not this one. Try another bubble.": {
+    "vi": "Chưa trúng. Thử bóng khác nhé.",
+    "zh": "不是这个，试试别的气泡。",
+    "ko": "다른 버블을 골라보세요."
+  },
+  "Audio could not play. Tap the note to try again.": {
+    "vi": "Chưa phát được âm thanh. Chạm nốt nhạc để thử lại.",
+    "zh": "音频播放失败，点击音符重试。",
+    "ko": "소리를 재생할 수 없어요. 음표를 눌러 다시 시도하세요."
+  },
+  "No timer. Take your shot when you are ready.": {
+    "vi": "Không đếm giờ. Sẵn sàng thì bắn nhé.",
+    "zh": "不限时，准备好再射击。",
+    "ko": "시간 제한 없이 준비되면 쏘세요."
+  },
+  "Fit the blocks. Clear a line. Unlock a word.": {
+    "vi": "Xếp vừa khối. Nổ một hàng. Mở một từ.",
+    "zh": "拼方块、消行、解锁单词。",
+    "ko": "블록을 맞추고 줄을 지워 단어를 열어요."
+  },
+  "Puzzle": {
+    "vi": "Xếp hình",
+    "zh": "益智",
+    "ko": "퍼즐"
+  },
+  "Listen, aim, and pop the matching meaning.": {
+    "vi": "Nghe từ, ngắm rồi bắn bóng có nghĩa đúng.",
+    "zh": "听词瞄准，击破正确词义的气泡。",
+    "ko": "듣고 조준해 맞는 뜻의 버블을 터뜨려요."
+  },
+  "Arcade": {
+    "vi": "Bắn bóng",
+    "zh": "街机",
+    "ko": "아케이드"
   }
 }

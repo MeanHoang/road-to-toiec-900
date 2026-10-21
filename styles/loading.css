@@ -1,0 +1,8 @@
+.nav-card { position:relative; }
+.nav-card:has(> .nav-card-pending) > :not(.nav-card-pending) { visibility:hidden; }
+.nav-card-pending { position:absolute; inset:16px; display:flex; flex-direction:column; justify-content:center; gap:14px; pointer-events:none; }
+.game-loading-toolbar { display:flex; justify-content:space-between; gap:12px; margin-bottom:16px; }
+.game-card-skeleton { display:flex; flex-direction:column; gap:14px; padding:8px 8px 16px; border:2px solid var(--border); border-radius:20px; background:var(--surface); box-shadow:0 4px 0 var(--border); }
+.game-card-skeleton > .skeleton:not(:first-child) { margin-inline:8px; }
+.game-session-skeleton { display:flex; flex-direction:column; align-items:center; gap:28px; max-width:760px; width:100%; margin:0 auto; padding:36px 24px; border:2px solid var(--border); border-radius:20px; background:var(--surface); }
+@media(max-width:700px) { .game-loading-toolbar > .skeleton { max-width:48%; } }

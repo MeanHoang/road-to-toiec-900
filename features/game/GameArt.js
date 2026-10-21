@@ -26,6 +26,13 @@ export function GameArt({ kind = 'spell', className = '' }) {
         <path d="M48 51h59M74 93h59" stroke="currentColor" strokeWidth="5" strokeLinecap="round" />
         <path d="M74 93h59" stroke="var(--art-paper, var(--surface))" strokeWidth="5" strokeLinecap="round" />
         <path d="m81 68 5 9m14-12 5 9" stroke="currentColor" strokeWidth="4" />
+      </> : kind === 'blocks' ? <>
+        <rect x="37" y="28" width="105" height="90" rx="16" fill="var(--art-paper,#fff)" stroke="currentColor" strokeWidth="4" />
+        <path d="M49 82h22v22H49zm26 0h22v22H75zm26 0h22v22h-22zm0-26h22v22h-22zM49 56h22v22H49z" fill="currentColor" />
+        <rect x="76" y="34" width="21" height="44" rx="5" fill="currentColor" opacity=".4" />
+      </> : kind === 'blast' ? <>
+        <circle cx="58" cy="51" r="26" fill="currentColor" opacity=".3" /><circle cx="119" cy="42" r="20" fill="currentColor" opacity=".55" />
+        <path d="m74 111 17-53 18 53-18-9-17 9Z" fill="currentColor" /><path d="M91 38V23m-8 8h16M38 87l-8-8m106 15 10-10" stroke="currentColor" strokeWidth="4" strokeLinecap="round" />
       </> : kind === 'sprint' ? <>
         <circle cx="90" cy="77" r="38" fill="var(--art-paper, var(--surface))" stroke="currentColor" strokeWidth="4" />
         <path d="M80 26h20m-10 0v12m29 10 7-8" stroke="currentColor" strokeWidth="5" strokeLinecap="round" />
