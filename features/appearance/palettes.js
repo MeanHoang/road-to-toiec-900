@@ -6,4 +6,4 @@ export const PALETTES = [
   { id: 'rose', label: 'Warm rose', color: '#ad4568', tint: '#faedf1' },
   { id: 'amber', label: 'Golden amber', color: '#8a5712', tint: '#faf1df' },
 ];
-export const paletteOf = (value) => PALETTES.some((palette) => palette.id === value) ? value : 'green';
+export const paletteOf = (value) => PALETTES.some((palette) => palette.id === value) ? value : 'violet';
