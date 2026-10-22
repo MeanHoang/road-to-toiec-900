@@ -2981,6 +2981,1124 @@
         "us": "/assets/day-11/voice-neural/d11-v113-us.mp3",
         "uk": "/assets/day-11/voice-neural/d11-v113-uk.mp3"
       }
+    },
+    {
+      "id": "d11-v114",
+      "no": 114,
+      "word": "hillside",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhɪl.saɪd/",
+        "us": "/ˈhɪl.saɪd/"
+      },
+      "meaningVi": "sườn đồi",
+      "image": null,
+      "example": {
+        "en": "Several houses stand on the hillside.",
+        "vi": "Một vài ngôi nhà nằm trên sườn đồi."
+      },
+      "group": "Landscape and scenery",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v115",
+      "no": 115,
+      "word": "garment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡɑː.mənt/",
+        "us": "/ˈɡɑːr.mənt/"
+      },
+      "meaningVi": "một món quần áo; trang phục",
+      "image": null,
+      "example": {
+        "en": "Each garment is inspected before it is shipped.",
+        "vi": "Mỗi món quần áo đều được kiểm tra trước khi giao đi."
+      },
+      "group": "Clothing and textiles",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v116",
+      "no": 116,
+      "word": "stroll down",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/strəʊl daʊn/",
+        "us": "/stroʊl daʊn/"
+      },
+      "meaningVi": "đi dạo thong thả dọc theo một con đường hoặc lối đi",
+      "image": null,
+      "example": {
+        "en": "A couple is strolling down the street.",
+        "vi": "Một cặp đôi đang thong thả đi dạo dọc con phố."
+      },
+      "group": "Walking and movement",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v117",
+      "no": 117,
+      "word": "pass up",
+      "pos": "phr v",
+      "ipa": {
+        "uk": "/pɑːs ʌp/",
+        "us": "/pæs ʌp/"
+      },
+      "meaningVi": "bỏ qua hoặc từ chối một cơ hội, lời đề nghị",
+      "image": null,
+      "example": {
+        "en": "Don't pass up the opportunity to attend the workshop.",
+        "vi": "Đừng bỏ qua cơ hội tham dự buổi hội thảo."
+      },
+      "group": "Opportunities and decisions",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v118",
+      "no": 118,
+      "word": "profit",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈprɒf.ɪt/",
+        "us": "/ˈprɑː.fɪt/"
+      },
+      "meaningVi": "lợi nhuận; thu lợi, hưởng lợi",
+      "image": null,
+      "example": {
+        "en": "The company reported a significant increase in profits last year.",
+        "vi": "Công ty báo cáo lợi nhuận tăng đáng kể trong năm ngoái."
+      },
+      "group": "Business and finance",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v119",
+      "no": 119,
+      "word": "council",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkaʊn.səl/",
+        "us": "/ˈkaʊn.səl/"
+      },
+      "meaningVi": "hội đồng; cơ quan quản lý địa phương",
+      "example": {
+        "en": "The city council approved the construction of a new library.",
+        "vi": "Hội đồng thành phố đã phê duyệt việc xây dựng một thư viện mới."
+      },
+      "group": "Government and community",
+      "image": null,
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v120",
+      "no": 120,
+      "word": "considering",
+      "pos": "prep, conj",
+      "ipa": {
+        "uk": "/kənˈsɪd.ər.ɪŋ/",
+        "us": "/kənˈsɪd.ɚ.ɪŋ/"
+      },
+      "meaningVi": "xét đến, xét rằng; cũng là dạng V-ing của consider: đang cân nhắc, xem xét",
+      "example": {
+        "en": "Considering the limited budget, the event was a success.",
+        "vi": "Xét đến ngân sách hạn chế, sự kiện đã thành công."
+      },
+      "group": "Thinking and decisions",
+      "image": null,
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v121",
+      "no": 121,
+      "word": "carpenter",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɑː.pən.tər/",
+        "us": "/ˈkɑːr.pən.tɚ/"
+      },
+      "meaningVi": "thợ mộc; người làm hoặc sửa đồ, kết cấu bằng gỗ",
+      "image": null,
+      "example": {
+        "en": "A carpenter is installing wooden shelves.",
+        "vi": "Một người thợ mộc đang lắp các kệ gỗ."
+      },
+      "group": "Construction and repairs",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v122",
+      "no": 122,
+      "word": "fundraising",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfʌndˌreɪ.zɪŋ/",
+        "us": "/ˈfʌndˌreɪ.zɪŋ/"
+      },
+      "meaningVi": "việc gây quỹ; hoạt động quyên góp tiền cho một mục đích hoặc tổ chức",
+      "image": null,
+      "example": {
+        "en": "The charity is organizing a fundraising event.",
+        "vi": "Tổ chức từ thiện đang tổ chức một sự kiện gây quỹ."
+      },
+      "group": "Government and community",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v123",
+      "no": 123,
+      "word": "lovingly",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ˈlʌv.ɪŋ.li/",
+        "us": "/ˈlʌv.ɪŋ.li/"
+      },
+      "meaningVi": "một cách trìu mến, đầy yêu thương; một cách chăm chút, tận tâm",
+      "image": null,
+      "example": {
+        "en": "The old house has been lovingly restored.",
+        "vi": "Ngôi nhà cũ đã được phục dựng một cách đầy chăm chút."
+      },
+      "group": "Feelings and care",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v124",
+      "no": 124,
+      "word": "aspect",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈæs.pekt/",
+        "us": "/ˈæs.pekt/"
+      },
+      "meaningVi": "khía cạnh, phương diện của một vấn đề hoặc sự việc",
+      "image": null,
+      "example": {
+        "en": "We need to consider every aspect of the project.",
+        "vi": "Chúng ta cần xem xét mọi khía cạnh của dự án."
+      },
+      "group": "Thinking and decisions",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v125",
+      "no": 125,
+      "word": "renovation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌren.əˈveɪ.ʃən/",
+        "us": "/ˌren.əˈveɪ.ʃən/"
+      },
+      "meaningVi": "việc cải tạo, tu sửa hoặc nâng cấp một tòa nhà, căn phòng",
+      "image": null,
+      "example": {
+        "en": "The hotel is closed for renovation.",
+        "vi": "Khách sạn đang đóng cửa để tu sửa."
+      },
+      "group": "Construction and repairs",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v126",
+      "no": 126,
+      "word": "craftspeople",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/ˈkrɑːftsˌpiː.pəl/",
+        "us": "/ˈkræftsˌpiː.pəl/"
+      },
+      "meaningVi": "những người thợ thủ công; những người lành nghề làm đồ bằng tay; số nhiều của craftsperson",
+      "image": null,
+      "example": {
+        "en": "Local craftspeople helped restore the historic building.",
+        "vi": "Những người thợ thủ công địa phương đã giúp phục dựng tòa nhà lịch sử."
+      },
+      "group": "Construction and repairs",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v127",
+      "no": 127,
+      "word": "worthy",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈwɜː.ði/",
+        "us": "/ˈwɝː.ði/"
+      },
+      "meaningVi": "xứng đáng; đáng được coi trọng, hỗ trợ hoặc chú ý",
+      "image": null,
+      "example": {
+        "en": "The charity supports a worthy cause.",
+        "vi": "Tổ chức từ thiện hỗ trợ một mục đích cao đẹp, đáng được giúp đỡ."
+      },
+      "group": "Values and support",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v128",
+      "no": 128,
+      "word": "sought out",
+      "pos": "phr v (past, past participle)",
+      "ipa": {
+        "uk": "/sɔːt aʊt/",
+        "us": "/sɔːt aʊt/"
+      },
+      "meaningVi": "đã chủ động tìm kiếm, tìm cho ra; dạng quá khứ và quá khứ phân từ của seek out",
+      "image": null,
+      "example": {
+        "en": "They sought out skilled craftspeople to renovate the theater.",
+        "vi": "Họ đã chủ động tìm những người thợ thủ công lành nghề để cải tạo nhà hát."
+      },
+      "group": "Searching and finding",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v129",
+      "no": 129,
+      "word": "documentary",
+      "pos": "n, adj",
+      "ipa": {
+        "uk": "/ˌdɒk.jəˈmen.tər.i/",
+        "us": "/ˌdɑː.kjəˈmen.t̬ɚ.i/"
+      },
+      "meaningVi": "phim hoặc chương trình tài liệu; thuộc về tài liệu, có tính chứng cứ",
+      "image": null,
+      "example": {
+        "en": "We watched a documentary about the restoration of the theater.",
+        "vi": "Chúng tôi đã xem một bộ phim tài liệu về việc phục dựng nhà hát."
+      },
+      "group": "Media and entertainment",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v130",
+      "no": 130,
+      "word": "itinerary",
+      "pos": "n",
+      "ipa": {
+        "uk": "/aɪˈtɪn.ər.ər.i/",
+        "us": "/aɪˈtɪn.ə.rer.i/"
+      },
+      "meaningVi": "lịch trình chuyến đi; kế hoạch chi tiết về tuyến đường, địa điểm và thời gian của hành trình",
+      "image": null,
+      "example": {
+        "en": "Please check the itinerary before your trip.",
+        "vi": "Vui lòng kiểm tra lịch trình trước chuyến đi."
+      },
+      "group": "Travel and tourism",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v131",
+      "no": 131,
+      "word": "sightseeing",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsaɪtˌsiː.ɪŋ/",
+        "us": "/ˈsaɪtˌsiː.ɪŋ/"
+      },
+      "meaningVi": "việc tham quan, ngắm cảnh; đi xem những địa điểm thú vị, nổi tiếng khi du lịch",
+      "image": null,
+      "example": {
+        "en": "We spent the afternoon sightseeing in the city.",
+        "vi": "Chúng tôi dành buổi chiều để tham quan thành phố."
+      },
+      "group": "Travel and tourism",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v132",
+      "no": 132,
+      "word": "footwear",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfʊt.weər/",
+        "us": "/ˈfʊt.wer/"
+      },
+      "meaningVi": "giày dép nói chung, bao gồm giày, dép và ủng; danh từ không đếm được",
+      "image": null,
+      "example": {
+        "en": "Please wear comfortable footwear for the walking tour.",
+        "vi": "Vui lòng mang giày dép thoải mái cho chuyến tham quan đi bộ."
+      },
+      "group": "Clothing and textiles",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v133",
+      "no": 133,
+      "word": "hiking",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhaɪ.kɪŋ/",
+        "us": "/ˈhaɪ.kɪŋ/"
+      },
+      "meaningVi": "hoạt động đi bộ đường dài ngoài thiên nhiên, thường trên đường mòn ở vùng đồi núi",
+      "image": null,
+      "example": {
+        "en": "We went hiking in the mountains last weekend.",
+        "vi": "Cuối tuần trước, chúng tôi đã đi bộ đường dài ở vùng núi."
+      },
+      "group": "Travel and tourism",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v134",
+      "no": 134,
+      "word": "carpeted",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkɑː.pɪ.tɪd/",
+        "us": "/ˈkɑːr.pɪ.tɪd/"
+      },
+      "meaningVi": "được trải thảm, có trải thảm; dạng quá khứ và quá khứ phân từ của động từ carpet",
+      "image": null,
+      "example": {
+        "en": "The hotel has carpeted hallways.",
+        "vi": "Khách sạn có các hành lang được trải thảm."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v135",
+      "no": 135,
+      "word": "pedestrians",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/pəˈdes.tri.ənz/",
+        "us": "/pəˈdes.tri.ənz/"
+      },
+      "meaningVi": "những người đi bộ; số nhiều của pedestrian",
+      "image": null,
+      "example": {
+        "en": "Drivers must give way to pedestrians at the crossing.",
+        "vi": "Người lái xe phải nhường đường cho người đi bộ tại chỗ sang đường."
+      },
+      "group": "Walking and movement",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v136",
+      "no": 136,
+      "word": "shore",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ʃɔːr/",
+        "us": "/ʃɔːr/"
+      },
+      "meaningVi": "bờ biển, bờ hồ; phần đất dọc mép một vùng nước lớn",
+      "image": null,
+      "example": {
+        "en": "Several boats are anchored near the shore.",
+        "vi": "Một vài chiếc thuyền đang neo gần bờ."
+      },
+      "group": "Landscape and scenery",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v137",
+      "no": 137,
+      "word": "concentrating",
+      "pos": "v-ing",
+      "ipa": {
+        "uk": "/ˈkɒn.sən.treɪ.tɪŋ/",
+        "us": "/ˈkɑːn.sən.treɪ.tɪŋ/"
+      },
+      "meaningVi": "đang tập trung, chú tâm; dạng V-ing của concentrate, thường dùng concentrate on + danh từ hoặc V-ing",
+      "image": null,
+      "example": {
+        "en": "She is concentrating on her work.",
+        "vi": "Cô ấy đang tập trung vào công việc."
+      },
+      "group": "Thinking and decisions",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v138",
+      "no": 138,
+      "word": "piles",
+      "pos": "plural n; v",
+      "ipa": {
+        "uk": "/paɪlz/",
+        "us": "/paɪlz/"
+      },
+      "meaningVi": "những đống, chồng đồ vật (số nhiều của pile); cũng là dạng động từ ngôi thứ ba số ít: chất, xếp thành đống",
+      "image": null,
+      "example": {
+        "en": "There are piles of documents on the desk.",
+        "vi": "Có những chồng tài liệu trên bàn làm việc."
+      },
+      "group": "Objects and arrangements",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v139",
+      "no": 139,
+      "word": "shopkeeper",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈʃɒpˌkiː.pər/",
+        "us": "/ˈʃɑːpˌkiː.pɚ/"
+      },
+      "meaningVi": "chủ hoặc người quản lý một cửa hàng nhỏ, thường trực tiếp bán hàng",
+      "image": null,
+      "example": {
+        "en": "The shopkeeper is arranging goods on a shelf.",
+        "vi": "Chủ cửa hàng đang sắp xếp hàng hóa lên kệ."
+      },
+      "group": "Jobs and employment",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v140",
+      "no": 140,
+      "word": "rack",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ræk/",
+        "us": "/ræk/"
+      },
+      "meaningVi": "giá, kệ hoặc khung dùng để đặt, treo hay cất đồ",
+      "example": {
+        "en": "The shopkeeper is hanging clothes on a rack.",
+        "vi": "Chủ cửa hàng đang treo quần áo lên giá."
+      },
+      "group": "Objects and arrangements",
+      "image": null,
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v141",
+      "no": 141,
+      "word": "merchandise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmɜː.tʃən.daɪs/",
+        "us": "/ˈmɝː.tʃən.daɪs/"
+      },
+      "meaningVi": "hàng hóa được mua bán, đặc biệt là hàng bày bán trong cửa hàng; danh từ không đếm được",
+      "example": {
+        "en": "The merchandise is displayed on racks near the entrance.",
+        "vi": "Hàng hóa được trưng bày trên các giá gần lối vào."
+      },
+      "group": "Shopping and retail",
+      "image": null,
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v142",
+      "no": 142,
+      "word": "weeds",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/wiːdz/",
+        "us": "/wiːdz/"
+      },
+      "meaningVi": "cỏ dại; những cây mọc ở nơi không mong muốn; số nhiều của weed",
+      "image": null,
+      "example": {
+        "en": "A gardener is pulling weeds out of a flower bed.",
+        "vi": "Một người làm vườn đang nhổ cỏ dại trong luống hoa."
+      },
+      "group": "Gardening and plants",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v143",
+      "no": 143,
+      "word": "closet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈklɒz.ɪt/",
+        "us": "/ˈklɑː.zɪt/"
+      },
+      "meaningVi": "tủ âm tường hoặc buồng nhỏ để quần áo, đồ đạc; thường dùng trong tiếng Anh Mỹ",
+      "image": null,
+      "example": {
+        "en": "She is hanging her coat in the closet.",
+        "vi": "Cô ấy đang treo áo khoác vào tủ."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v144",
+      "no": 144,
+      "word": "leaning",
+      "pos": "v-ing",
+      "ipa": {
+        "uk": "/ˈliː.nɪŋ/",
+        "us": "/ˈliː.nɪŋ/"
+      },
+      "meaningVi": "đang nghiêng, dựa hoặc tựa; dạng V-ing của lean",
+      "image": null,
+      "example": {
+        "en": "A man is leaning against a wall.",
+        "vi": "Một người đàn ông đang tựa vào tường."
+      },
+      "group": "Body positions and movement",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v145",
+      "no": 145,
+      "word": "lean across",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/liːn əˈkrɒs/",
+        "us": "/liːn əˈkrɔːs/"
+      },
+      "meaningVi": "nhoài hoặc ngả người qua một vật hay khoảng không, thường để với tới thứ gì ở phía bên kia",
+      "image": null,
+      "example": {
+        "en": "She leaned across the table to pick up a pen.",
+        "vi": "Cô ấy nhoài người qua bàn để lấy một cây bút."
+      },
+      "group": "Body positions and movement",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v146",
+      "no": 146,
+      "word": "pillows",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/ˈpɪl.əʊz/",
+        "us": "/ˈpɪl.oʊz/"
+      },
+      "meaningVi": "những chiếc gối, thường là gối kê đầu khi ngủ; số nhiều của pillow",
+      "image": null,
+      "example": {
+        "en": "Several pillows are arranged on the bed.",
+        "vi": "Một vài chiếc gối được xếp trên giường."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v147",
+      "no": 147,
+      "word": "handrails",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/ˈhænd.reɪlz/",
+        "us": "/ˈhænd.reɪlz/"
+      },
+      "meaningVi": "các tay vịn, thanh để bám khi lên xuống cầu thang hoặc đi trên lối dốc; số nhiều của handrail",
+      "image": null,
+      "example": {
+        "en": "Handrails have been installed on both sides of the stairs.",
+        "vi": "Các tay vịn đã được lắp ở hai bên cầu thang."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v148",
+      "no": 148,
+      "word": "polished",
+      "pos": "adj; past participle",
+      "ipa": {
+        "uk": "/ˈpɒl.ɪʃt/",
+        "us": "/ˈpɑː.lɪʃt/"
+      },
+      "meaningVi": "được đánh bóng, bóng loáng; cũng có nghĩa trau chuốt, thành thạo hoặc tinh tế",
+      "image": null,
+      "example": {
+        "en": "The wooden floor has been polished.",
+        "vi": "Sàn gỗ đã được đánh bóng."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v149",
+      "no": 149,
+      "word": "tape",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/teɪp/",
+        "us": "/teɪp/"
+      },
+      "meaningVi": "băng keo, băng dính; băng ghi âm hoặc ghi hình; dùng làm động từ: dán bằng băng keo hoặc ghi âm, ghi hình",
+      "image": null,
+      "example": {
+        "en": "She is sealing a cardboard box with tape.",
+        "vi": "Cô ấy đang dùng băng keo dán kín một thùng carton."
+      },
+      "group": "Objects and arrangements",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v150",
+      "no": 150,
+      "word": "railing",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈreɪ.lɪŋ/",
+        "us": "/ˈreɪ.lɪŋ/"
+      },
+      "meaningVi": "lan can hoặc hàng rào chắn, thường ở ban công, cầu thang hay lối đi để ngăn người bị ngã hoặc đi qua",
+      "image": null,
+      "example": {
+        "en": "A man is leaning against the railing.",
+        "vi": "Một người đàn ông đang tựa vào lan can."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v151",
+      "no": 151,
+      "word": "propped",
+      "pos": "past, past participle",
+      "ipa": {
+        "uk": "/prɒpt/",
+        "us": "/prɑːpt/"
+      },
+      "meaningVi": "đã hoặc được chống, kê, dựng tựa để giữ ở một vị trí; dạng quá khứ và quá khứ phân từ của prop",
+      "image": null,
+      "example": {
+        "en": "A ladder is propped against the wall.",
+        "vi": "Một chiếc thang được dựng tựa vào tường."
+      },
+      "group": "Objects and arrangements",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v152",
+      "no": 152,
+      "word": "wave",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/weɪv/",
+        "us": "/weɪv/"
+      },
+      "meaningVi": "sóng; cái vẫy tay; dùng làm động từ: vẫy tay, vẫy một vật hoặc lay động",
+      "image": null,
+      "example": {
+        "en": "A woman is waving to someone across the street.",
+        "vi": "Một người phụ nữ đang vẫy tay với ai đó ở bên kia đường."
+      },
+      "group": "Body positions and movement",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v153",
+      "no": 153,
+      "word": "straightening",
+      "pos": "v-ing",
+      "ipa": {
+        "uk": "/ˈstreɪ.tən.ɪŋ/",
+        "us": "/ˈstreɪ.tən.ɪŋ/"
+      },
+      "meaningVi": "đang làm thẳng hoặc chỉnh lại cho ngay ngắn; dạng V-ing của straighten; straighten up còn có nghĩa dọn dẹp hoặc đứng thẳng người",
+      "image": null,
+      "example": {
+        "en": "A man is straightening his tie.",
+        "vi": "Một người đàn ông đang chỉnh lại cà vạt cho ngay ngắn."
+      },
+      "group": "Objects and arrangements",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v154",
+      "no": 154,
+      "word": "fence",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fens/",
+        "us": "/fens/"
+      },
+      "meaningVi": "hàng rào dùng để bao quanh, phân chia hoặc bảo vệ một khu đất",
+      "image": null,
+      "example": {
+        "en": "A worker is painting a wooden fence.",
+        "vi": "Một công nhân đang sơn hàng rào gỗ."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v155",
+      "no": 155,
+      "word": "tents",
+      "pos": "plural n",
+      "ipa": {
+        "uk": "/tents/",
+        "us": "/tents/"
+      },
+      "meaningVi": "những chiếc lều; số nhiều của tent",
+      "image": null,
+      "example": {
+        "en": "Several tents have been set up near the lake.",
+        "vi": "Một vài chiếc lều đã được dựng gần hồ."
+      },
+      "group": "Travel and tourism",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
+    },
+    {
+      "id": "d11-v156",
+      "no": 156,
+      "word": "curtain",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɜː.tən/",
+        "us": "/ˈkɝː.tən/"
+      },
+      "meaningVi": "rèm cửa, màn che; tấm vải dùng che cửa sổ, ngăn không gian hoặc che sân khấu",
+      "image": null,
+      "example": {
+        "en": "She is opening the curtains to let in some sunlight.",
+        "vi": "Cô ấy đang mở rèm để đón ánh nắng vào."
+      },
+      "group": "Buildings and interiors",
+      "source": {
+        "word": "user",
+        "ipa": "manual",
+        "meaningVi": "manual",
+        "example": "manual",
+        "image": null,
+        "voice": "browser-tts"
+      },
+      "voice": null
     }
   ],
   "voiceGeneration": {
