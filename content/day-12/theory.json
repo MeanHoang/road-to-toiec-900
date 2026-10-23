@@ -1,0 +1,65 @@
+{
+  "collection": "theory",
+  "day": "day-12",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d12-t-homework",
+      "type": "wordGroups",
+      "title": "Day 3 — homework and review",
+      "groups": {
+        "Review and vocabulary": [
+          "Ôn lại toàn bộ flashcard Day 1 (JOB) của giai đoạn 2: xem lại Day 10 và Day 11.",
+          "Ôn 25 từ topic 2 theo yêu cầu trên lớp; file flashcard được gửi kèm có 24 mục từ.",
+          "Học thuộc các từ vựng trên lớp hôm nay."
+        ],
+        "Reading and listening": [
+          "Check lại homework của Day 11, chữa lỗi sai và nghe lại.",
+          "Làm Part 7: tự dịch bài đọc, trả lời câu hỏi và tìm dẫn chứng cho từng đáp án.",
+          "Nghe viết chính tả tranh 7–10, đối chiếu lời thoại rồi nghe lại."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d12-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Các đường dẫn gốc do giáo viên gửi. Day 12 trong ứng dụng tương ứng Day 3 của giai đoạn 2.",
+        "Practice makes perfect ❤"
+      ],
+      "links": [
+        {
+          "label": "Homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1fpzowM90IwHbQKUovYZmLMmzJwtkQgQP?usp=sharing"
+        },
+        {
+          "label": "Day 3 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1tfkNxHU9EM5LlXWCD2leYpASpQucuVkn/view?usp=sharing"
+        },
+        {
+          "label": "Day 3 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005408631/day-3-p7-flash-cards/?funnelUUID=162cfc88-6613-46bb-9d57-b7badae5de28"
+        },
+        {
+          "label": "Common TOEIC phrases — Thầy Long",
+          "href": "https://www.youtube.com/watch?v=IpPd85uv5HU"
+        }
+      ],
+      "source": "user"
+    },
+    {
+      "id": "d12-t-video",
+      "type": "notes",
+      "title": "Video study task",
+      "lines": [
+        "Xem video các cụm từ thường gặp trong bài thi TOEIC qua đường dẫn ở Lesson resources.",
+        "Nghe từng đoạn ngắn, dừng video và ghi lại cụm từ, nghĩa cùng câu ví dụ.",
+        "Nghe lại không nhìn ghi chú, đọc theo và tự đặt câu với 5 cụm từ đã học."
+      ],
+      "source": "ai"
+    }
+  ]
+}

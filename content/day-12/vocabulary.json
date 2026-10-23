@@ -1,0 +1,666 @@
+{
+  "collection": "vocabulary",
+  "day": "day-12",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d12-v01",
+      "no": 1,
+      "word": "consumer",
+      "pos": "n",
+      "ipa": {
+        "us": "/kənˈsuːmər/",
+        "uk": "/kənˈsjuːmə/"
+      },
+      "meaningVi": "người tiêu dùng",
+      "image": null,
+      "example": {
+        "en": "Consumers want more information about the food they buy."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v01-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v02",
+      "no": 2,
+      "word": "persuade",
+      "pos": "v",
+      "ipa": {
+        "us": "/pərˈsweɪd/",
+        "uk": "/pəˈsweɪd/"
+      },
+      "meaningVi": "thuyết phục",
+      "image": null,
+      "example": {
+        "en": "The advertisement persuaded customers to try the new product."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v02-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v03",
+      "no": 3,
+      "word": "comparison",
+      "pos": "n",
+      "ipa": {
+        "us": "/kəmˈpærɪsən/",
+        "uk": "/kəmˈpærɪsən/"
+      },
+      "meaningVi": "sự so sánh",
+      "image": null,
+      "example": {
+        "en": "A price comparison helps consumers choose a product."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v03-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v04",
+      "no": 4,
+      "word": "feature",
+      "pos": "n, v",
+      "ipa": {
+        "us": "/ˈfiːtʃər/",
+        "uk": "/ˈfiːtʃə/"
+      },
+      "meaningVi": "đặc điểm nổi bật; làm nổi bật",
+      "image": null,
+      "example": {
+        "en": "The brochure describes the main features of the product."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v04-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v05",
+      "no": 5,
+      "word": "take into account",
+      "pos": "phrase",
+      "ipa": {
+        "us": "/teɪk ˈɪntu əˈkaʊnt/",
+        "uk": "/teɪk ˈɪntu əˈkaʊnt/"
+      },
+      "meaningVi": "tính đến, cân nhắc",
+      "image": null,
+      "example": {
+        "en": "We must take the advertising costs into account."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v05-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v06",
+      "no": 6,
+      "word": "analysis",
+      "pos": "n",
+      "ipa": {
+        "us": "/əˈnæləsɪs/",
+        "uk": "/əˈnæləsɪs/"
+      },
+      "meaningVi": "sự phân tích",
+      "image": null,
+      "example": {
+        "en": "The team completed a market analysis."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v06-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v07",
+      "no": 7,
+      "word": "respondent",
+      "pos": "n",
+      "ipa": {
+        "us": "/rɪˈspɑːndənt/",
+        "uk": "/rɪˈspɒndənt/"
+      },
+      "meaningVi": "người trả lời khảo sát",
+      "image": null,
+      "example": {
+        "en": "Most respondents rated the product highly."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v07-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v08",
+      "no": 8,
+      "word": "demonstration",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˌdemənˈstreɪʃən/",
+        "uk": "/ˌdemənˈstreɪʃən/"
+      },
+      "meaningVi": "buổi trình diễn, sự minh họa sản phẩm",
+      "image": null,
+      "example": {
+        "en": "The salesperson gave a demonstration of the machine."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v08-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v09",
+      "no": 9,
+      "word": "publicity",
+      "pos": "n",
+      "ipa": {
+        "us": "/pʌbˈlɪsəti/",
+        "uk": "/pʌbˈlɪsəti/"
+      },
+      "meaningVi": "sự quảng bá, sự chú ý của công chúng",
+      "image": null,
+      "example": {
+        "en": "The event received positive publicity."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v09-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v10",
+      "no": 10,
+      "word": "on display",
+      "pos": "phrase",
+      "ipa": {
+        "us": "/ɑːn dɪˈspleɪ/",
+        "uk": "/ɒn dɪˈspleɪ/"
+      },
+      "meaningVi": "đang được trưng bày",
+      "image": null,
+      "example": {
+        "en": "The new products are on display in the showroom."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v10-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v11",
+      "no": 11,
+      "word": "broadcast",
+      "pos": "n, v",
+      "ipa": {
+        "us": "/ˈbrɔːdkæst/",
+        "uk": "/ˈbrɔːdkɑːst/"
+      },
+      "meaningVi": "buổi phát sóng; phát sóng",
+      "image": null,
+      "example": {
+        "en": "The concert will be broadcast live."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v11-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v12",
+      "no": 12,
+      "word": "commercial",
+      "pos": "n",
+      "ipa": {
+        "us": "/kəˈmɜːrʃəl/",
+        "uk": "/kəˈmɜːʃəl/"
+      },
+      "meaningVi": "quảng cáo trên truyền hình hoặc đài",
+      "image": null,
+      "example": {
+        "en": "The company produced a new television commercial."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v12-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v13",
+      "no": 13,
+      "word": "brand awareness",
+      "pos": "n",
+      "ipa": {
+        "us": "/brænd əˈwernəs/",
+        "uk": "/brænd əˈweənəs/"
+      },
+      "meaningVi": "nhận thức về thương hiệu",
+      "image": null,
+      "example": {
+        "en": "The campaign aims to increase brand awareness."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v13-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v14",
+      "no": 14,
+      "word": "celebrity endorsement",
+      "pos": "n",
+      "ipa": {
+        "us": "/səˈlebrəti ɪnˈdɔːrsmənt/",
+        "uk": "/səˈlebrəti ɪnˈdɔːsmənt/"
+      },
+      "meaningVi": "sự quảng bá sản phẩm của người nổi tiếng",
+      "image": null,
+      "example": {
+        "en": "The company used a celebrity endorsement to promote its brand."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v14-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v15",
+      "no": 15,
+      "word": "packaging",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈpækɪdʒɪŋ/",
+        "uk": "/ˈpækɪdʒɪŋ/"
+      },
+      "meaningVi": "bao bì",
+      "image": null,
+      "example": {
+        "en": "Please keep the original packaging."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v15-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v16",
+      "no": 16,
+      "word": "label",
+      "pos": "n, v",
+      "ipa": {
+        "us": "/ˈleɪbəl/",
+        "uk": "/ˈleɪbəl/"
+      },
+      "meaningVi": "nhãn mác; dán nhãn",
+      "image": null,
+      "example": {
+        "en": "Read the label before using the product."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v16-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v17",
+      "no": 17,
+      "word": "promotional material",
+      "pos": "n",
+      "ipa": {
+        "us": "/prəˈmoʊʃənəl məˈtɪriəl/",
+        "uk": "/prəˈməʊʃənəl məˈtɪəriəl/"
+      },
+      "meaningVi": "tài liệu quảng cáo",
+      "image": null,
+      "example": {
+        "en": "We picked up promotional material at the trade fair."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v17-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v18",
+      "no": 18,
+      "word": "implement",
+      "pos": "v",
+      "ipa": {
+        "us": "/ˈɪmplɪment/",
+        "uk": "/ˈɪmplɪment/"
+      },
+      "meaningVi": "thực hiện, triển khai",
+      "image": null,
+      "example": {
+        "en": "The company will implement a new marketing strategy."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v18-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v19",
+      "no": 19,
+      "word": "initiative",
+      "pos": "n",
+      "ipa": {
+        "us": "/ɪˈnɪʃətɪv/",
+        "uk": "/ɪˈnɪʃətɪv/"
+      },
+      "meaningVi": "sáng kiến, kế hoạch mới",
+      "image": null,
+      "example": {
+        "en": "The marketing initiative attracted new customers."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v19-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v20",
+      "no": 20,
+      "word": "advertising agency",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈædvərtaɪzɪŋ ˈeɪdʒənsi/",
+        "uk": "/ˈædvətaɪzɪŋ ˈeɪdʒənsi/"
+      },
+      "meaningVi": "công ty quảng cáo",
+      "image": null,
+      "example": {
+        "en": "An advertising agency designed the campaign."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v20-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v21",
+      "no": 21,
+      "word": "innovative",
+      "pos": "adj",
+      "ipa": {
+        "us": "/ˈɪnəveɪtɪv/",
+        "uk": "/ˈɪnəvətɪv/"
+      },
+      "meaningVi": "đổi mới, sáng tạo",
+      "image": null,
+      "example": {
+        "en": "The company won a prize for its innovative design."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v21-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v22",
+      "no": 22,
+      "word": "widespread",
+      "pos": "adj",
+      "ipa": {
+        "us": "/ˈwaɪdspred/",
+        "uk": "/ˈwaɪdspred/"
+      },
+      "meaningVi": "phổ biến, rộng khắp",
+      "image": null,
+      "example": {
+        "en": "The campaign received widespread attention."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v22-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v23",
+      "no": 23,
+      "word": "brochure",
+      "pos": "n",
+      "ipa": {
+        "us": "/broʊˈʃʊr/",
+        "uk": "/ˈbrəʊʃə/"
+      },
+      "meaningVi": "tập quảng cáo, sách giới thiệu",
+      "image": null,
+      "example": {
+        "en": "The brochure contains information about the hotel."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v23-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v24",
+      "no": 24,
+      "word": "boast",
+      "pos": "v",
+      "ipa": {
+        "us": "/boʊst/",
+        "uk": "/bəʊst/"
+      },
+      "meaningVi": "tự hào có; khoe khoang",
+      "image": null,
+      "example": {
+        "en": "The hotel boasts two swimming pools."
+      },
+      "group": "Advertising and marketing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v24-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v24-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "234ff71b8628c0619c3013fde53ac8a0f380e9eae7388adb7097c2215a4190a6"
+  }
+}

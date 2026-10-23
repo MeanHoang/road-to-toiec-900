@@ -1,0 +1,866 @@
+{
+  "collection": "listening",
+  "day": "day-12",
+  "title": "Listening practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d12-hw7",
+      "code": "hw7",
+      "title": "Part 1 — photo dictation 7",
+      "subtitle": "Listen carefully and transcribe all four statements.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d12-hw7-01",
+          "no": 1,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_1.mp3",
+          "image": "/assets/day-12/images/hw7/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "She's cooking a meal.",
+            "B": "She's walking around a farm.",
+            "C": "She's shopping for food.",
+            "D": "She's eating a salad."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-02",
+          "no": 2,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_2.mp3",
+          "image": "/assets/day-12/images/hw7/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They're talking on the phone.",
+            "B": "They're moving some furniture.",
+            "C": "They're reading some books.",
+            "D": "They're standing by a table."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-03",
+          "no": 3,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_3.mp3",
+          "image": "/assets/day-12/images/hw7/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "he's climbing into a truck.",
+            "B": "he's entering a store.",
+            "C": "he's getting on a train.",
+            "D": "he's locking up a drawer."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-04",
+          "no": 4,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_4.mp3",
+          "image": "/assets/day-12/images/hw7/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "she's opening a box.",
+            "B": "she's putting on boots.",
+            "C": "she's folding some paper.",
+            "D": "she's holding a book."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-05",
+          "no": 5,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_5.mp3",
+          "image": "/assets/day-12/images/hw7/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "they're meeting in a restaurant",
+            "B": "they're looking at the computer",
+            "C": "they're examining a document",
+            "D": "they're filing some forms"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-06",
+          "no": 6,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_6.mp3",
+          "image": "/assets/day-12/images/hw7/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The man is pushing a cart.",
+            "B": "The man is taking a break.",
+            "C": "The man is leaving the store.",
+            "D": "The man is closing the door."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-07",
+          "no": 7,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_7.mp3",
+          "image": "/assets/day-12/images/hw7/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "some people are sitting outside.",
+            "B": "some people are watching a movie.",
+            "C": "some people are cutting the grass.",
+            "D": "some people are planting trees."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-08",
+          "no": 8,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_8.mp3",
+          "image": "/assets/day-12/images/hw7/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "the men are adjusting microphones.",
+            "B": "the men are playing music together.",
+            "C": "the men are listening to a lecture.",
+            "D": "the men are working in the garden."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-09",
+          "no": 9,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_9.mp3",
+          "image": "/assets/day-12/images/hw7/09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "there are pictures on the wall.",
+            "B": "the tables are covered with tablecloths.",
+            "C": "the chairs are being put away.",
+            "D": "the piano is being played."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw7-10",
+          "no": 10,
+          "audio": "/assets/day-12/audio/test7-part1/Test07_part01_10.mp3",
+          "image": "/assets/day-12/images/hw7/10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The baskets are empty.",
+            "B": "There are baked goods on shelves.",
+            "C": "The cabinets are being repaired.",
+            "D": "They're buying some bread."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-hw8",
+      "code": "hw8",
+      "title": "Part 1 — photo dictation 8",
+      "subtitle": "Listen carefully and transcribe all four statements.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d12-hw8-01",
+          "no": 1,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_1.mp3",
+          "image": "/assets/day-12/images/hw8/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "they're looking into a store.",
+            "B": "they're walking out of a shop.",
+            "C": "they're trying on some shoes.",
+            "D": "they're washing a window."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-02",
+          "no": 2,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_2.mp3",
+          "image": "/assets/day-12/images/hw8/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's holding a hat.",
+            "B": "He's greeting someone.",
+            "C": "He's taking a bite of food.",
+            "D": "He's selling sandwiches."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-03",
+          "no": 3,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_3.mp3",
+          "image": "/assets/day-12/images/hw8/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The man is writing in a notebook.",
+            "B": "The women are handing out papers.",
+            "C": "The people are facing a board.",
+            "D": "A group is entering an office."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-04",
+          "no": 4,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_4.mp3",
+          "image": "/assets/day-12/images/hw8/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They're displaying watches on a table.",
+            "B": "They're spreading a cloth on a table.",
+            "C": "A game's being played on a table.",
+            "D": "A table's being pushed against a door."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-05",
+          "no": 5,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_5.mp3",
+          "image": "/assets/day-12/images/hw8/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Cheese is being wrapped for a customer.",
+            "B": "Cheese has been packed into cartons.",
+            "C": "Labels are being attached to pieces of cheese.",
+            "D": "Cheese has been cut into different sizes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-06",
+          "no": 6,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_6.mp3",
+          "image": "/assets/day-12/images/hw8/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "pedestrians are crossing the street.",
+            "B": "some vehicles are stopped in traffic.",
+            "C": "goods are being unloaded from a truck.",
+            "D": "some people are getting off their motorbikes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-07",
+          "no": 7,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_7.mp3",
+          "image": "/assets/day-12/images/hw8/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The woman is unplugging an appliance.",
+            "B": "Some dishes are being placed in a cabinet.",
+            "C": "The woman is emptying out the contents of a cup.",
+            "D": "The kitchen plumbing is being repaired."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-08",
+          "no": 8,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_8.mp3",
+          "image": "/assets/day-12/images/hw8/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The furniture is being rearranged.",
+            "B": "The carpet has been rolled up in the corner.",
+            "C": "Some pillows are stacked beside a bed.",
+            "D": "Bedding has been folded and placed on a mattress."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-09",
+          "no": 9,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_9.mp3",
+          "image": "/assets/day-12/images/hw8/09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some chairs are lined up by the side of a swimming pool.",
+            "B": "A tugboat is pulling a ship out to sea.",
+            "C": "Umbrellas are sheltering people from the rain.",
+            "D": "Leaves are being removed from the pool."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw8-10",
+          "no": 10,
+          "audio": "/assets/day-12/audio/test8-part1/Test08_part01_10.mp3",
+          "image": "/assets/day-12/images/hw8/10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Workers are taking a tank out of a building.",
+            "B": "Plastic sheets cover a building frame.",
+            "C": "Step ladders are being set up in a tent.",
+            "D": "Some workers are trimming pieces of wood."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-hw9",
+      "code": "hw9",
+      "title": "Part 1 — photo dictation 9",
+      "subtitle": "Listen carefully and transcribe all four statements.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d12-hw9-01",
+          "no": 1,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_1.mp3",
+          "image": "/assets/day-12/images/hw9/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's carrying a box.",
+            "B": "He's closing a cabinet.",
+            "C": "He's cleaning a window.",
+            "D": "He's filing a document."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-02",
+          "no": 2,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_2.mp3",
+          "image": "/assets/day-12/images/hw9/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "People are standing behind a railing.",
+            "B": "People are putting bricks in a pile.",
+            "C": "People are crossing the street at an intersection.",
+            "D": "People are waiting under a bridge."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-03",
+          "no": 3,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_3.mp3",
+          "image": "/assets/day-12/images/hw9/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The women are holding a scarf.",
+            "B": "The women are hanging a mirror.",
+            "C": "One woman is trying on hats.",
+            "D": "One woman is looking at her reflection."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-04",
+          "no": 4,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_4.mp3",
+          "image": "/assets/day-12/images/hw9/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A man's building a fence.",
+            "B": "A man's washing a road with a hose.",
+            "C": "A man's watering plants in a garden.",
+            "D": "A man sweeping the walkway."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-05",
+          "no": 5,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_5.mp3",
+          "image": "/assets/day-12/images/hw9/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A woman's showing a man something on the screen.",
+            "B": "A woman's pointing at a cup on the desk.",
+            "C": "A man's inserting some paper into the printer.",
+            "D": "Some people are moving a computer to the desk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-06",
+          "no": 6,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_6.mp3",
+          "image": "/assets/day-12/images/hw9/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Plates have been set in the sink.",
+            "B": "Eating utensils have been arranged in a tray.",
+            "C": "Dishes have been placed in a cupboard.",
+            "D": "Tools have been left under a counter."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-07",
+          "no": 7,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_7.mp3",
+          "image": "/assets/day-12/images/hw9/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "All of the seats are stacked up against the wall.",
+            "B": "The tables are covered with tablecloths.",
+            "C": "Waiters are serving beverages to the customers.",
+            "D": "Some people are seated across from each other at the table."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-08",
+          "no": 8,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_8.mp3",
+          "image": "/assets/day-12/images/hw9/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some wires are coiled on the ground.",
+            "B": "Goods are being transported through a forest.",
+            "C": "Trucks have been parked inside a warehouse.",
+            "D": "The vehicles are facing in the same direction."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-hw10",
+      "code": "hw10",
+      "title": "Part 1 — photo dictation 10",
+      "subtitle": "Listen carefully and transcribe all four statements.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d12-hw10-01",
+          "no": 1,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_1.mp3",
+          "image": "/assets/day-12/images/hw10/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He's talking on the telephone.",
+            "B": "He's drinking from a cup.",
+            "C": "He's typing on a laptop.",
+            "D": "He's reading a newspaper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-02",
+          "no": 2,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_2.mp3",
+          "image": "/assets/day-12/images/hw10/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A vehicle is stopped on the street.",
+            "B": "People are crossing a road.",
+            "C": "A woman is riding a bicycle through a park.",
+            "D": "A vendor is selling flowers near a bus stop."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-03",
+          "no": 3,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_3.mp3",
+          "image": "/assets/day-12/images/hw10/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "a man's folding a napkin.",
+            "B": "a man's putting silverware on a plate.",
+            "C": "a man's holding a menu.",
+            "D": "a man's sitting in a restaurant."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-04",
+          "no": 4,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_4.mp3",
+          "image": "/assets/day-12/images/hw10/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "One of the women has a water bottle in her hand.",
+            "B": "One of the women has a briefcase on her lap.",
+            "C": "The women are sitting next to each other on a sofa.",
+            "D": "The women are watching a presentation."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-05",
+          "no": 5,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_5.mp3",
+          "image": "/assets/day-12/images/hw10/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Food is being served to some customers.",
+            "B": "A woman is handing money to a cashier.",
+            "C": "Trays are being carried to a sink.",
+            "D": "A man is putting on an apron."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-06",
+          "no": 6,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_6.mp3",
+          "image": "/assets/day-12/images/hw10/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A cart is being wheeled across the room.",
+            "B": "Some stools have been placed upside down.",
+            "C": "A television is attached to the wall.",
+            "D": "Some chairs are arranged in a circle."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-07",
+          "no": 7,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_7.mp3",
+          "image": "/assets/day-12/images/hw10/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A wooden fence is being repaired.",
+            "B": "Bushes line a walkway.",
+            "C": "A man is planting some seeds in a garden.",
+            "D": "A man is cutting a tree into pieces."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-08",
+          "no": 8,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_8.mp3",
+          "image": "/assets/day-12/images/hw10/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A model of a house has been set up on a table.",
+            "B": "A woman is removing books from a shelf.",
+            "C": "Some people are looking at a painting.",
+            "D": "Shoppers are lining up at a cash register."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-09",
+          "no": 9,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_9.mp3",
+          "image": "/assets/day-12/images/hw10/09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A man is installing a video camera.",
+            "B": "A cabinet door has been left open.",
+            "C": "The people are watching some monitors.",
+            "D": "Electronics are being sold in a store."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw10-10",
+          "no": 10,
+          "audio": "/assets/day-12/audio/test10-part1/Test10_part01_10.mp3",
+          "image": "/assets/day-12/images/hw10/10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A salesperson is reaching into a display case.",
+            "B": "Merchandise is being packed into boxes.",
+            "C": "A customer is taking a hat off a counter.",
+            "D": "Tags have been attached to some hats."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-hw9-audio",
+      "code": "hw9-audio",
+      "title": "Part 1 — test 9, audio practice 9–10",
+      "subtitle": "The supplied PDF ends at question 8. Practise the remaining audio without photographs.",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d12-hw9-9",
+          "no": 9,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "A": "Waves are crashing against the deck.",
+            "B": "Tourists are swimming in a pool.",
+            "C": "People are gathering on some rocks.",
+            "D": "Stones are being lined up on a bench."
+          },
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d12-hw9-10",
+          "no": 10,
+          "audio": "/assets/day-12/audio/test9-part1/Test09_part01_10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "A": "they're installing some light fixtures.",
+            "B": "they're writing reports in a classroom.",
+            "C": "they're adjusting a microphone on a stage.",
+            "D": "they're examining some laboratory equipment."
+          },
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}

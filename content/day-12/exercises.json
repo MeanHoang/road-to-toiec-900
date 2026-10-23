@@ -1,0 +1,238 @@
+{
+  "collection": "exercises",
+  "day": "day-12",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d12-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — tax and accounting services",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d12-read-01",
+          "no": 1,
+          "text": "What is stated about Crover and Wayfield Associates?",
+          "options": {
+            "A": "They have been in operation for more than forty years.",
+            "B": "They charge all clients the same hourly rate.",
+            "C": "They serve both individuals and companies.",
+            "D": "They charge a small fee for an initial consultation."
+          },
+          "answer": "C",
+          "explain": "Danh sách dịch vụ gồm Individuals and Families, Small businesses và Corporations: phục vụ cả cá nhân và doanh nghiệp.",
+          "passage": {
+            "text": "CROVER AND WAYFIELD ASSOCIATES\n88 Rockland Way, Seattle, Washington 98133\n(206) 555-0126\n\nProviding reliable tax advice and accounting services for thirty-eight years.\n\nMembers of our firm specialize in services for individuals and families, small businesses, and corporations. Reduced rates proudly offered to nonprofit organizations.\n\nVisit our Web site today for a full description of our services and the hourly fee scale associated with each. While there, enter your name and contact information. We will respond within two business days to schedule a complimentary introductory consultation with one of our veteran tax consultants.\n\nwww.croverandwayfield.com"
+          },
+          "vi": "CROVER VÀ WAYFIELD ASSOCIATES\n88 Rockland Way, Seattle, Washington 98133\n(206) 555-0126\n\nCung cấp dịch vụ tư vấn thuế và kế toán đáng tin cậy suốt 38 năm.\n\nCác thành viên của công ty chúng tôi chuyên cung cấp dịch vụ cho cá nhân và gia đình, doanh nghiệp nhỏ và các tập đoàn. Chúng tôi tự hào áp dụng mức phí ưu đãi cho các tổ chức phi lợi nhuận.\n\nHãy truy cập trang web của chúng tôi ngay hôm nay để xem mô tả đầy đủ về các dịch vụ và biểu phí theo giờ tương ứng. Khi truy cập, hãy nhập tên và thông tin liên hệ của bạn. Chúng tôi sẽ phản hồi trong vòng hai ngày làm việc để sắp xếp một buổi tư vấn giới thiệu miễn phí với một trong những chuyên viên thuế giàu kinh nghiệm của chúng tôi.\n\nwww.croverandwayfield.com",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d12-read-02",
+          "no": 2,
+          "text": "What is NOT mentioned as being available on the firm’s Web site?",
+          "options": {
+            "A": "A list of the firm’s established clients",
+            "B": "Details about the kind of work performed",
+            "C": "The cost of each type of service",
+            "D": "A way to arrange a meeting with an expert"
+          },
+          "answer": "A",
+          "explain": "Trang web có mô tả dịch vụ, biểu phí và cách đăng ký tư vấn; không đề cập danh sách khách hàng.",
+          "passage": {
+            "text": "CROVER AND WAYFIELD ASSOCIATES\n88 Rockland Way, Seattle, Washington 98133\n(206) 555-0126\n\nProviding reliable tax advice and accounting services for thirty-eight years.\n\nMembers of our firm specialize in services for individuals and families, small businesses, and corporations. Reduced rates proudly offered to nonprofit organizations.\n\nVisit our Web site today for a full description of our services and the hourly fee scale associated with each. While there, enter your name and contact information. We will respond within two business days to schedule a complimentary introductory consultation with one of our veteran tax consultants.\n\nwww.croverandwayfield.com"
+          },
+          "vi": "CROVER VÀ WAYFIELD ASSOCIATES\n88 Rockland Way, Seattle, Washington 98133\n(206) 555-0126\n\nCung cấp dịch vụ tư vấn thuế và kế toán đáng tin cậy suốt 38 năm.\n\nCác thành viên của công ty chúng tôi chuyên cung cấp dịch vụ cho cá nhân và gia đình, doanh nghiệp nhỏ và các tập đoàn. Chúng tôi tự hào áp dụng mức phí ưu đãi cho các tổ chức phi lợi nhuận.\n\nHãy truy cập trang web của chúng tôi ngay hôm nay để xem mô tả đầy đủ về các dịch vụ và biểu phí theo giờ tương ứng. Khi truy cập, hãy nhập tên và thông tin liên hệ của bạn. Chúng tôi sẽ phản hồi trong vòng hai ngày làm việc để sắp xếp một buổi tư vấn giới thiệu miễn phí với một trong những chuyên viên thuế giàu kinh nghiệm của chúng tôi.\n\nwww.croverandwayfield.com",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a photography venture",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d12-read-03",
+          "no": 3,
+          "text": "Why is Mr. Cavanaugh writing to Ms. Tomczyk?",
+          "options": {
+            "A": "To extend an invitation to her to work with him",
+            "B": "To congratulate her on winning an award",
+            "C": "To request her advice for developing photography skills",
+            "D": "To ask about her experience with starting a business"
+          },
+          "answer": "A",
+          "explain": "Colin muốn mở dịch vụ nhiếp ảnh bán thời gian và hỏi Agata có muốn tham gia cùng anh không.",
+          "passage": {
+            "text": "From: Colin Cavanaugh <cavanaughc@turnmail.ie>\nTo: Agata Tomczyk <agata.tomczyk@ne-mail.ie>\nSubject: Potential new venture\nDate: 1 April\n\nDear Agata:\n\nI hope you have been doing well since graduating from Kennitt Institute of Technology. I’m glad to hear that you’re now working at Bradshaw-Jett Financial. Since we graduated from KIT, I too found a job and moved to Carlow, and I very much enjoy living in the city.\n\nI’ve seen some of your recent photographs on your Web site, and I must say I am quite impressed. I’ve been working on my skills in this area as well and have recently done several portrait sessions for private clients. I’m hoping to start a part-time professional photography venture, and I was wondering if you would like to join me. I believe the skills we learned working as news photographers at the KIT Courier could be useful to a wide range of clients as well as providing a secondary source of income for us. Since our offices are close to each other, meetings should be relatively convenient.\n\nI will be consulting a lawyer about business planning on 20 April. Please send me a response as soon as possible. If you are interested, I would like to set up a time to meet or speak over the phone sometime between 10 and 17 April.\n\nI hope to hear from you soon.\nThanks,\nColin Cavanaugh"
+          },
+          "vi": "Từ: Colin Cavanaugh\nĐến: Agata Tomczyk\nChủ đề: Dự án kinh doanh mới tiềm năng\nNgày: 1 tháng 4\n\nAgata thân mến,\n\nTôi hy vọng bạn vẫn khỏe và mọi việc thuận lợi kể từ khi tốt nghiệp Học viện Công nghệ Kennitt. Tôi rất vui khi biết bạn hiện làm việc tại Bradshaw-Jett Financial. Sau khi chúng ta tốt nghiệp KIT, tôi cũng đã tìm được việc và chuyển đến Carlow; tôi rất thích sống ở thành phố này.\n\nTôi đã xem một số bức ảnh gần đây trên trang web của bạn và phải nói rằng tôi khá ấn tượng. Tôi cũng đang trau dồi kỹ năng trong lĩnh vực này và gần đây đã thực hiện vài buổi chụp chân dung cho khách hàng cá nhân. Tôi hy vọng mở một dịch vụ nhiếp ảnh chuyên nghiệp bán thời gian và muốn biết bạn có muốn tham gia cùng tôi không. Tôi tin những kỹ năng chúng ta học được khi làm phóng viên ảnh cho KIT Courier có thể hữu ích cho nhiều đối tượng khách hàng và mang lại nguồn thu nhập phụ cho chúng ta. Vì văn phòng của chúng ta ở gần nhau nên việc gặp mặt sẽ tương đối thuận tiện.\n\nTôi sẽ tham khảo ý kiến luật sư về kế hoạch kinh doanh vào ngày 20 tháng 4. Hãy phản hồi cho tôi sớm nhất có thể. Nếu bạn quan tâm, tôi muốn sắp xếp một buổi gặp hoặc nói chuyện qua điện thoại vào khoảng ngày 10 đến 17 tháng 4.\n\nTôi hy vọng sớm nhận được tin từ bạn.\nCảm ơn,\nColin Cavanaugh",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d12-read-04",
+          "no": 4,
+          "text": "What is true about Ms. Tomczyk?",
+          "options": {
+            "A": "She displays her work on the Internet.",
+            "B": "She works at the same company as Mr. Cavanaugh.",
+            "C": "She has a degree in accounting.",
+            "D": "She takes videos as well as photographs."
+          },
+          "answer": "A",
+          "explain": "Colin đã xem những bức ảnh gần đây của cô trên trang web của cô.",
+          "passage": {
+            "text": "From: Colin Cavanaugh <cavanaughc@turnmail.ie>\nTo: Agata Tomczyk <agata.tomczyk@ne-mail.ie>\nSubject: Potential new venture\nDate: 1 April\n\nDear Agata:\n\nI hope you have been doing well since graduating from Kennitt Institute of Technology. I’m glad to hear that you’re now working at Bradshaw-Jett Financial. Since we graduated from KIT, I too found a job and moved to Carlow, and I very much enjoy living in the city.\n\nI’ve seen some of your recent photographs on your Web site, and I must say I am quite impressed. I’ve been working on my skills in this area as well and have recently done several portrait sessions for private clients. I’m hoping to start a part-time professional photography venture, and I was wondering if you would like to join me. I believe the skills we learned working as news photographers at the KIT Courier could be useful to a wide range of clients as well as providing a secondary source of income for us. Since our offices are close to each other, meetings should be relatively convenient.\n\nI will be consulting a lawyer about business planning on 20 April. Please send me a response as soon as possible. If you are interested, I would like to set up a time to meet or speak over the phone sometime between 10 and 17 April.\n\nI hope to hear from you soon.\nThanks,\nColin Cavanaugh"
+          },
+          "vi": "Từ: Colin Cavanaugh\nĐến: Agata Tomczyk\nChủ đề: Dự án kinh doanh mới tiềm năng\nNgày: 1 tháng 4\n\nAgata thân mến,\n\nTôi hy vọng bạn vẫn khỏe và mọi việc thuận lợi kể từ khi tốt nghiệp Học viện Công nghệ Kennitt. Tôi rất vui khi biết bạn hiện làm việc tại Bradshaw-Jett Financial. Sau khi chúng ta tốt nghiệp KIT, tôi cũng đã tìm được việc và chuyển đến Carlow; tôi rất thích sống ở thành phố này.\n\nTôi đã xem một số bức ảnh gần đây trên trang web của bạn và phải nói rằng tôi khá ấn tượng. Tôi cũng đang trau dồi kỹ năng trong lĩnh vực này và gần đây đã thực hiện vài buổi chụp chân dung cho khách hàng cá nhân. Tôi hy vọng mở một dịch vụ nhiếp ảnh chuyên nghiệp bán thời gian và muốn biết bạn có muốn tham gia cùng tôi không. Tôi tin những kỹ năng chúng ta học được khi làm phóng viên ảnh cho KIT Courier có thể hữu ích cho nhiều đối tượng khách hàng và mang lại nguồn thu nhập phụ cho chúng ta. Vì văn phòng của chúng ta ở gần nhau nên việc gặp mặt sẽ tương đối thuận tiện.\n\nTôi sẽ tham khảo ý kiến luật sư về kế hoạch kinh doanh vào ngày 20 tháng 4. Hãy phản hồi cho tôi sớm nhất có thể. Nếu bạn quan tâm, tôi muốn sắp xếp một buổi gặp hoặc nói chuyện qua điện thoại vào khoảng ngày 10 đến 17 tháng 4.\n\nTôi hy vọng sớm nhận được tin từ bạn.\nCảm ơn,\nColin Cavanaugh",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d12-read-05",
+          "no": 5,
+          "text": "What is suggested about Kennitt Institute of Technology?",
+          "options": {
+            "A": "It is located in Carlow.",
+            "B": "It offers degrees in business finance.",
+            "C": "It is known for its journalism program.",
+            "D": "It publishes a newspaper."
+          },
+          "answer": "D",
+          "explain": "Hai người từng là news photographers tại KIT Courier: có thể suy ra trường có một tờ báo.",
+          "passage": {
+            "text": "From: Colin Cavanaugh <cavanaughc@turnmail.ie>\nTo: Agata Tomczyk <agata.tomczyk@ne-mail.ie>\nSubject: Potential new venture\nDate: 1 April\n\nDear Agata:\n\nI hope you have been doing well since graduating from Kennitt Institute of Technology. I’m glad to hear that you’re now working at Bradshaw-Jett Financial. Since we graduated from KIT, I too found a job and moved to Carlow, and I very much enjoy living in the city.\n\nI’ve seen some of your recent photographs on your Web site, and I must say I am quite impressed. I’ve been working on my skills in this area as well and have recently done several portrait sessions for private clients. I’m hoping to start a part-time professional photography venture, and I was wondering if you would like to join me. I believe the skills we learned working as news photographers at the KIT Courier could be useful to a wide range of clients as well as providing a secondary source of income for us. Since our offices are close to each other, meetings should be relatively convenient.\n\nI will be consulting a lawyer about business planning on 20 April. Please send me a response as soon as possible. If you are interested, I would like to set up a time to meet or speak over the phone sometime between 10 and 17 April.\n\nI hope to hear from you soon.\nThanks,\nColin Cavanaugh"
+          },
+          "vi": "Từ: Colin Cavanaugh\nĐến: Agata Tomczyk\nChủ đề: Dự án kinh doanh mới tiềm năng\nNgày: 1 tháng 4\n\nAgata thân mến,\n\nTôi hy vọng bạn vẫn khỏe và mọi việc thuận lợi kể từ khi tốt nghiệp Học viện Công nghệ Kennitt. Tôi rất vui khi biết bạn hiện làm việc tại Bradshaw-Jett Financial. Sau khi chúng ta tốt nghiệp KIT, tôi cũng đã tìm được việc và chuyển đến Carlow; tôi rất thích sống ở thành phố này.\n\nTôi đã xem một số bức ảnh gần đây trên trang web của bạn và phải nói rằng tôi khá ấn tượng. Tôi cũng đang trau dồi kỹ năng trong lĩnh vực này và gần đây đã thực hiện vài buổi chụp chân dung cho khách hàng cá nhân. Tôi hy vọng mở một dịch vụ nhiếp ảnh chuyên nghiệp bán thời gian và muốn biết bạn có muốn tham gia cùng tôi không. Tôi tin những kỹ năng chúng ta học được khi làm phóng viên ảnh cho KIT Courier có thể hữu ích cho nhiều đối tượng khách hàng và mang lại nguồn thu nhập phụ cho chúng ta. Vì văn phòng của chúng ta ở gần nhau nên việc gặp mặt sẽ tương đối thuận tiện.\n\nTôi sẽ tham khảo ý kiến luật sư về kế hoạch kinh doanh vào ngày 20 tháng 4. Hãy phản hồi cho tôi sớm nhất có thể. Nếu bạn quan tâm, tôi muốn sắp xếp một buổi gặp hoặc nói chuyện qua điện thoại vào khoảng ngày 10 đến 17 tháng 4.\n\nTôi hy vọng sớm nhận được tin từ bạn.\nCảm ơn,\nColin Cavanaugh",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d12-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a hotel acquisition",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d12-read-06",
+          "no": 6,
+          "text": "According to the article, why has the sale of the Josée Group been considered controversial?",
+          "options": {
+            "A": "It was sold for less than its estimated value.",
+            "B": "Historic French properties were being sold to a foreign firm.",
+            "C": "Employees of the Josée Group are expected to lose their jobs.",
+            "D": "The sale was not made public until it had been finalized."
+          },
+          "answer": "B",
+          "explain": "Các khách sạn lịch sử thuộc sở hữu của Pháp được bán cho một công ty Canada.",
+          "passage": {
+            "text": "LEAFMAN CAPITAL PURCHASES JOSÉE GROUP\n\nLeafman Capital, a leading Canadian investment firm, announced today that it has completed its long-anticipated acquisition of Josée Group, a Paris-based hotel company. The deal has an estimated value of 350 million euros, according to Leafman Capital executives.\n\nThe sale of the French-owned Josée Group to a Canadian firm has caused a great deal of controversy in France; the Josée Group owns 26 historic hotels in and around Paris, including the famous Hôtel Jean-Claude, which had hosted numerous prominent nineteenth-century French authors and political figures. Joseph Leafman, owner of Leafman Capital, announced that his firm would strive to retain the important historic heritage of the Hôtel Jean-Claude but would make necessary renovations to modernize the heating and plumbing systems. In addition to the Hôtel Jean-Claude, the Josée Group owns smaller hotels across France, including the Parisian Gateway and the Hotel Fanon, both considered among the finest examples of French architecture in the neoclassic style.\n\nMr. Leafman said that his firm purchased the Josée Group as a means of diversifying its portfolio. He also plans to make additional purchases in Europe, which may include luxury hotels in Belgium, Germany, and Switzerland. Other assets recently purchased by Leafman Capital include high-rise apartment and office buildings in Thailand and the Philippines."
+          },
+          "vi": "LEAFMAN CAPITAL MUA LẠI TẬP ĐOÀN JOSÉE\n\nLeafman Capital, một công ty đầu tư hàng đầu Canada, hôm nay thông báo đã hoàn tất thương vụ mua lại được mong đợi từ lâu đối với Josée Group, một công ty khách sạn có trụ sở tại Paris. Theo các lãnh đạo Leafman Capital, thương vụ có giá trị ước tính 350 triệu euro.\n\nViệc bán Josée Group thuộc sở hữu của Pháp cho một công ty Canada đã gây nhiều tranh cãi tại Pháp; Josée Group sở hữu 26 khách sạn lịch sử trong và quanh Paris, bao gồm Hôtel Jean-Claude nổi tiếng, nơi từng đón tiếp nhiều nhà văn và nhân vật chính trị Pháp nổi bật của thế kỷ 19. Joseph Leafman, chủ sở hữu Leafman Capital, thông báo công ty sẽ nỗ lực bảo tồn di sản lịch sử quan trọng của Hôtel Jean-Claude nhưng sẽ thực hiện những cải tạo cần thiết để hiện đại hóa hệ thống sưởi và đường ống. Ngoài Hôtel Jean-Claude, Josée Group còn sở hữu các khách sạn nhỏ hơn trên khắp nước Pháp, bao gồm Parisian Gateway và Hotel Fanon; cả hai được coi là những ví dụ tiêu biểu nhất của kiến trúc Pháp theo phong cách tân cổ điển.\n\nÔng Leafman cho biết công ty mua Josée Group nhằm đa dạng hóa danh mục đầu tư. Ông cũng có kế hoạch mua thêm tài sản tại châu Âu, có thể bao gồm các khách sạn sang trọng tại Bỉ, Đức và Thụy Sĩ. Những tài sản khác mà Leafman Capital mới mua bao gồm các tòa nhà chung cư cao tầng và văn phòng tại Thái Lan và Philippines.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d12-read-07",
+          "no": 7,
+          "text": "What is Leafman Capital’s announced plan for the Hôtel Jean-Claude?",
+          "options": {
+            "A": "To operate it as an economy hotel",
+            "B": "To build apartments on the property",
+            "C": "To update some of its facilities",
+            "D": "To turn it into a historical museum"
+          },
+          "answer": "C",
+          "explain": "Công ty sẽ hiện đại hóa hệ thống sưởi và đường ống: update some of its facilities.",
+          "passage": {
+            "text": "LEAFMAN CAPITAL PURCHASES JOSÉE GROUP\n\nLeafman Capital, a leading Canadian investment firm, announced today that it has completed its long-anticipated acquisition of Josée Group, a Paris-based hotel company. The deal has an estimated value of 350 million euros, according to Leafman Capital executives.\n\nThe sale of the French-owned Josée Group to a Canadian firm has caused a great deal of controversy in France; the Josée Group owns 26 historic hotels in and around Paris, including the famous Hôtel Jean-Claude, which had hosted numerous prominent nineteenth-century French authors and political figures. Joseph Leafman, owner of Leafman Capital, announced that his firm would strive to retain the important historic heritage of the Hôtel Jean-Claude but would make necessary renovations to modernize the heating and plumbing systems. In addition to the Hôtel Jean-Claude, the Josée Group owns smaller hotels across France, including the Parisian Gateway and the Hotel Fanon, both considered among the finest examples of French architecture in the neoclassic style.\n\nMr. Leafman said that his firm purchased the Josée Group as a means of diversifying its portfolio. He also plans to make additional purchases in Europe, which may include luxury hotels in Belgium, Germany, and Switzerland. Other assets recently purchased by Leafman Capital include high-rise apartment and office buildings in Thailand and the Philippines."
+          },
+          "vi": "LEAFMAN CAPITAL MUA LẠI TẬP ĐOÀN JOSÉE\n\nLeafman Capital, một công ty đầu tư hàng đầu Canada, hôm nay thông báo đã hoàn tất thương vụ mua lại được mong đợi từ lâu đối với Josée Group, một công ty khách sạn có trụ sở tại Paris. Theo các lãnh đạo Leafman Capital, thương vụ có giá trị ước tính 350 triệu euro.\n\nViệc bán Josée Group thuộc sở hữu của Pháp cho một công ty Canada đã gây nhiều tranh cãi tại Pháp; Josée Group sở hữu 26 khách sạn lịch sử trong và quanh Paris, bao gồm Hôtel Jean-Claude nổi tiếng, nơi từng đón tiếp nhiều nhà văn và nhân vật chính trị Pháp nổi bật của thế kỷ 19. Joseph Leafman, chủ sở hữu Leafman Capital, thông báo công ty sẽ nỗ lực bảo tồn di sản lịch sử quan trọng của Hôtel Jean-Claude nhưng sẽ thực hiện những cải tạo cần thiết để hiện đại hóa hệ thống sưởi và đường ống. Ngoài Hôtel Jean-Claude, Josée Group còn sở hữu các khách sạn nhỏ hơn trên khắp nước Pháp, bao gồm Parisian Gateway và Hotel Fanon; cả hai được coi là những ví dụ tiêu biểu nhất của kiến trúc Pháp theo phong cách tân cổ điển.\n\nÔng Leafman cho biết công ty mua Josée Group nhằm đa dạng hóa danh mục đầu tư. Ông cũng có kế hoạch mua thêm tài sản tại châu Âu, có thể bao gồm các khách sạn sang trọng tại Bỉ, Đức và Thụy Sĩ. Những tài sản khác mà Leafman Capital mới mua bao gồm các tòa nhà chung cư cao tầng và văn phòng tại Thái Lan và Philippines.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d12-read-08",
+          "no": 8,
+          "text": "What kind of property is NOT mentioned as a recent acquisition of Leafman Capital?",
+          "options": {
+            "A": "Apartments",
+            "B": "Office buildings",
+            "C": "Historic hotels",
+            "D": "Retail stores"
+          },
+          "answer": "D",
+          "explain": "Bài đề cập khách sạn lịch sử, chung cư cao tầng và tòa nhà văn phòng; không có cửa hàng bán lẻ.",
+          "passage": {
+            "text": "LEAFMAN CAPITAL PURCHASES JOSÉE GROUP\n\nLeafman Capital, a leading Canadian investment firm, announced today that it has completed its long-anticipated acquisition of Josée Group, a Paris-based hotel company. The deal has an estimated value of 350 million euros, according to Leafman Capital executives.\n\nThe sale of the French-owned Josée Group to a Canadian firm has caused a great deal of controversy in France; the Josée Group owns 26 historic hotels in and around Paris, including the famous Hôtel Jean-Claude, which had hosted numerous prominent nineteenth-century French authors and political figures. Joseph Leafman, owner of Leafman Capital, announced that his firm would strive to retain the important historic heritage of the Hôtel Jean-Claude but would make necessary renovations to modernize the heating and plumbing systems. In addition to the Hôtel Jean-Claude, the Josée Group owns smaller hotels across France, including the Parisian Gateway and the Hotel Fanon, both considered among the finest examples of French architecture in the neoclassic style.\n\nMr. Leafman said that his firm purchased the Josée Group as a means of diversifying its portfolio. He also plans to make additional purchases in Europe, which may include luxury hotels in Belgium, Germany, and Switzerland. Other assets recently purchased by Leafman Capital include high-rise apartment and office buildings in Thailand and the Philippines."
+          },
+          "vi": "LEAFMAN CAPITAL MUA LẠI TẬP ĐOÀN JOSÉE\n\nLeafman Capital, một công ty đầu tư hàng đầu Canada, hôm nay thông báo đã hoàn tất thương vụ mua lại được mong đợi từ lâu đối với Josée Group, một công ty khách sạn có trụ sở tại Paris. Theo các lãnh đạo Leafman Capital, thương vụ có giá trị ước tính 350 triệu euro.\n\nViệc bán Josée Group thuộc sở hữu của Pháp cho một công ty Canada đã gây nhiều tranh cãi tại Pháp; Josée Group sở hữu 26 khách sạn lịch sử trong và quanh Paris, bao gồm Hôtel Jean-Claude nổi tiếng, nơi từng đón tiếp nhiều nhà văn và nhân vật chính trị Pháp nổi bật của thế kỷ 19. Joseph Leafman, chủ sở hữu Leafman Capital, thông báo công ty sẽ nỗ lực bảo tồn di sản lịch sử quan trọng của Hôtel Jean-Claude nhưng sẽ thực hiện những cải tạo cần thiết để hiện đại hóa hệ thống sưởi và đường ống. Ngoài Hôtel Jean-Claude, Josée Group còn sở hữu các khách sạn nhỏ hơn trên khắp nước Pháp, bao gồm Parisian Gateway và Hotel Fanon; cả hai được coi là những ví dụ tiêu biểu nhất của kiến trúc Pháp theo phong cách tân cổ điển.\n\nÔng Leafman cho biết công ty mua Josée Group nhằm đa dạng hóa danh mục đầu tư. Ông cũng có kế hoạch mua thêm tài sản tại châu Âu, có thể bao gồm các khách sạn sang trọng tại Bỉ, Đức và Thụy Sĩ. Những tài sản khác mà Leafman Capital mới mua bao gồm các tòa nhà chung cư cao tầng và văn phòng tại Thái Lan và Philippines.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

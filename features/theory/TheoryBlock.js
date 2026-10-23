@@ -49,6 +49,11 @@ function NotesBlock({ block }) {
               {line}
             </p>
           ))}
+          {block.links?.map((link) => (
+            <a key={link.href} href={link.href} target="_blank" rel="noopener noreferrer">
+              {link.label} ↗
+            </a>
+          ))}
         </div>
       </Card>
     </Section>
