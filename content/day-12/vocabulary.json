@@ -651,6 +651,114 @@
         "us": "/assets/day-12/voice-neural/d12-v24-us.mp3",
         "uk": "/assets/day-12/voice-neural/d12-v24-uk.mp3"
       }
+    },
+    {
+      "id": "d12-v25",
+      "no": 25,
+      "word": "complimentary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌkɒmplɪˈmentəri/",
+        "us": "/ˌkɑːmpləˈmentəri/"
+      },
+      "meaningVi": "miễn phí, được tặng kèm; mang tính khen ngợi",
+      "example": {
+        "en": "The firm offers a complimentary introductory consultation."
+      },
+      "image": null,
+      "group": "Part 7 — tax and accounting services",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v25-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v26",
+      "no": 26,
+      "word": "consultation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkɒnsəlˈteɪʃən/",
+        "us": "/ˌkɑːnsəlˈteɪʃən/"
+      },
+      "meaningVi": "buổi tư vấn; sự tham khảo ý kiến",
+      "example": {
+        "en": "Please contact us to schedule a consultation with a tax expert."
+      },
+      "image": null,
+      "group": "Part 7 — tax and accounting services",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v26-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v27",
+      "no": 27,
+      "word": "veteran",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/ˈvetərən/",
+        "us": "/ˈvetərən/"
+      },
+      "meaningVi": "kỳ cựu, giàu kinh nghiệm; người kỳ cựu, cựu chiến binh",
+      "example": {
+        "en": "Our veteran consultants have many years of experience in tax planning."
+      },
+      "image": null,
+      "group": "Part 7 — tax and accounting services",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v27-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v28",
+      "no": 28,
+      "word": "consultants",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/kənˈsʌltənts/",
+        "us": "/kənˈsʌltənts/"
+      },
+      "meaningVi": "các chuyên viên tư vấn (số nhiều của consultant)",
+      "example": {
+        "en": "Our tax consultants provide advice to individuals and small businesses."
+      },
+      "image": null,
+      "group": "Part 7 — tax and accounting services",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v28-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v28-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -661,6 +769,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "234ff71b8628c0619c3013fde53ac8a0f380e9eae7388adb7097c2215a4190a6"
+    "textHash": "97491e576efc64b1858cb26f0e26439fab5bc770d8a4a6e35cf157304cd3f1ed"
   }
 }
