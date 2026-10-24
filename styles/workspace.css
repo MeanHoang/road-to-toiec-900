@@ -391,6 +391,11 @@ button { touch-action: manipulation; }
 }
 .flashcard-inner { z-index: 2; pointer-events: none; }
 .flashcard .icon-btn { pointer-events: auto; }
+/* Transformed buttons can escape backface clipping in Safari. */
+.flashcard-face[aria-hidden='true'] .icon-btn {
+  visibility: hidden;
+  pointer-events: none;
+}
 .picture-actions { display: flex; gap: 16px; }
 .picture-actions .pagination { flex: 1; }
 .arcade-card-meta { font-size: 12px; }

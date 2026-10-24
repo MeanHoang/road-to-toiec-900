@@ -615,6 +615,7 @@
 .flashcard-face {
   position: absolute;
   inset: 0;
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   display: flex;
   flex-direction: column;
