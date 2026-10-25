@@ -1,0 +1,2426 @@
+{
+  "collection": "listening",
+  "day": "day-13",
+  "title": "Listening practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d13-photos",
+      "code": "photos",
+      "title": "Part 1 — photo dictation",
+      "subtitle": "Listen and transcribe all four statements for each photograph.",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "fullAudio": "/assets/day-13/audio/part 1.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d13-photo-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/photos/01.mp3",
+          "image": "/assets/day-13/images/photos/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They are setting up microphones on a stage.",
+            "B": "They are putting away their instruments.",
+            "C": "They are playing stringed instruments.",
+            "D": "They are performing outdoors."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/photos/02.mp3",
+          "image": "/assets/day-13/images/photos/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "She is turning a knob.",
+            "B": "She is painting the wall of the park.",
+            "C": "She is using a brush.",
+            "D": "She is painting a roof."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/photos/03.mp3",
+          "image": "/assets/day-13/images/photos/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A tree is between the cars.",
+            "B": "A man is leaning against the railing.",
+            "C": "A man is holding the car door open.",
+            "D": "There is heavy traffic on the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/photos/04.mp3",
+          "image": "/assets/day-13/images/photos/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He is pushing a cart in front of him.",
+            "B": "He is pulling his car up to the gate.",
+            "C": "He is wheeling a bag behind him.",
+            "D": "He is picking up his suitcase."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/photos/05.mp3",
+          "image": "/assets/day-13/images/photos/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "There is a lone walker on the beach.",
+            "B": "The couple has just walked past the cafe.",
+            "C": "They are walking side by side.",
+            "D": "They are holding onto a basket."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/photos/06.mp3",
+          "image": "/assets/day-13/images/photos/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He is reaching for a book.",
+            "B": "He is taking a book from the shelf.",
+            "C": "He is making a purchase.",
+            "D": "He is holding a book."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/photos/07.mp3",
+          "image": "/assets/day-13/images/photos/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The table is being measured.",
+            "B": "A man is carving a piece of wood.",
+            "C": "The table is being set up.",
+            "D": "The men are wearing gloves."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/photos/08.mp3",
+          "image": "/assets/day-13/images/photos/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They are having a discussion in a classroom.",
+            "B": "A man is resting his chin on his hand.",
+            "C": "Some of the seats are unoccupied.",
+            "D": "Some people are bending over the table."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/photos/09.mp3",
+          "image": "/assets/day-13/images/photos/09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "There are lamp posts on both sides of the road.",
+            "B": "The street is deserted.",
+            "C": "The road is being paved.",
+            "D": "Some people are going across the street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d13-photo-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/photos/10.mp3",
+          "image": "/assets/day-13/images/photos/10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some cups are being removed from the table.",
+            "B": "There are four chairs around the round table.",
+            "C": "Some lights have been turned on.",
+            "D": "A display is being dismantled."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-when-intro",
+      "code": "when-intro",
+      "title": "Part 2 — When questions: introduction",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-when-intro-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/track-1/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When are you leaving for the meeting?",
+            "A": "shortly after 1950",
+            "B": "in about ten minutes",
+            "C": "itll be over at ten"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/track-1/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the English exam?",
+            "A": "at the end of august",
+            "B": "before you enter the room",
+            "C": "in the classroom"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/track-1/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did we send the check?",
+            "A": "last Friday",
+            "B": "yes, Ill check on it",
+            "C": "to the bank"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/track-1/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the plane expected?",
+            "A": "we expect the plane to be full",
+            "B": "it should arrive at 4:50",
+            "C": "I planned it carefully."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/track-1/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will they finish the project?",
+            "A": "next week if they stay on schedule",
+            "B": "we need a new projector",
+            "C": "It was an expensive project"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/track-1/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will they get here?",
+            "A": "I expect them before lunch",
+            "B": "we got it yesterday",
+            "C": "put them over here"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/track-1/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will he begin work on the report?",
+            "A": "hell report it to the manager.",
+            "B": "Its very important work",
+            "C": "hell start on it next week"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/track-1/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did the copy machine break down?",
+            "A": "it was repaired last week",
+            "B": "it stopped working this morning",
+            "C": "Ill take those copies downstairs"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/track-1/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did Jim receive the package?",
+            "A": "It wasnt a big package.",
+            "B": "It arrived yesterday",
+            "C": "hell mail it tomorrow"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-intro-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/track-1/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When can I see Dr.park?",
+            "A": "shell sit over here",
+            "B": "shell be in her office",
+            "C": "shell be free this afternoon"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d13-when-practice",
+      "code": "when-practice",
+      "title": "Part 2 — When questions: classroom practice",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-when-practice-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/track-2/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "when did it snow?",
+            "A": "I love the snow",
+            "B": "it'll snow all winter",
+            "C": "it snowed the last two days of December"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/track-2/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did the lawyer first call you?",
+            "A": "she called me early last week",
+            "B": "I will call the lawyer first",
+            "C": "our lawyer is my best friend"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/track-2/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the product be ready?",
+            "A": "this was our only product",
+            "B": "sometime next week",
+            "C": "I'm not ready to talk"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/track-2/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the tenth anniversary of the firm?",
+            "A": "No , not until next month",
+            "B": "we've been married for 10 years",
+            "C": "It will be ten years old next May"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/repaired/when-practice-5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When was this letter mailed?",
+            "A": "last Friday, on the fifteenth",
+            "B": "In five more days",
+            "C": "the mail is very slow"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/track-2/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will this office be cleaned?",
+            "A": "the cleaners will be here on Friday",
+            "B": "They'll paint it green",
+            "C": "You can see it tomorrow"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/repaired/when-practice-7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will your boss be back from the conference?",
+            "A": "He'll return on Monday",
+            "B": "He has a bad back",
+            "C": "It's in the back of the closet"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/track-2/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When was the party over?",
+            "A": "It was over there",
+            "B": "everyone left around midnight",
+            "C": "I really enjoyed the party"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/track-2/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When do these tickets expire?",
+            "A": "you can pick it up tomorrow",
+            "B": "they were expensive tickets",
+            "C": "they're good for one month"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-practice-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/track-2/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did they buy these computers?",
+            "A": "they got them last year",
+            "B": "they bought them at that new store",
+            "C": "they got 5 new computers"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d13-where-intro",
+      "code": "where-intro",
+      "title": "Part 2 — Where questions: introduction",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-where-intro-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/track-3/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I buy a newspaper?",
+            "A": "theres a news stand on the corner.",
+            "B": "the newspapers on the step",
+            "C": "thats old paper"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/track-3/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where was the conference held?",
+            "A": "It held 10 people comfortably",
+            "B": "It was held in a hotel this year",
+            "C": "it was well attended )"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/track-3/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where do you live?",
+            "A": "just across the street from the park",
+            "B": "Ill leave tomorrow",
+            "C": "No , Ive lived here only one month"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/track-3/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did you wait for me?",
+            "A": "I ate in a restaurant",
+            "B": "we waited in your office",
+            "C": "I weigh 150 pounds."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/track-3/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where is a taxi stand?",
+            "A": "you have to pay taxes",
+            "B": "theres one in front of the hotel",
+            "C": "I cant stand taxis"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/track-3/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did you find your keys?",
+            "A": "they were on my desk",
+            "B": "yes , please",
+            "C": "he didnt kiss her"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/track-3/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I get a cup of coffee?",
+            "A": "That cup is broken",
+            "B": "Shes still coughing",
+            "C": "Theres a cafeteria downstairs"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/track-3/8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did they go last night?",
+            "A": "It was there last night in town",
+            "B": "They went to the movies",
+            "C": "Its the last room on the right"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/track-3/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did he park the car?",
+            "A": "the park isnt far",
+            "B": "Its a dark colored-car",
+            "C": "In the lot across the street"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-intro-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/track-3/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where will you go on vacation?",
+            "A": "probably to the beach",
+            "B": "the rooms are all-vacant",
+            "C": "I have a 2 week -vacation"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d13-where-practice",
+      "code": "where-practice",
+      "title": "Part 2 — Where questions: classroom practice",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-where-practice-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/track-4/1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "where are these envelopes kept?",
+            "A": "she put the letters in large envelopes",
+            "B": "they can be kept here until Tuesday",
+            "C": "we keep them in the supply cabinet"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/track-4/2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where will the new secretary work?",
+            "A": "he'll work in the morning.",
+            "B": "his office will be across from mine",
+            "C": "the secretary is new"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/track-4/3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where are the company's insurance records?",
+            "A": "my insurance company is in England.",
+            "B": "our firm broke a record",
+            "C": "the records are in the file cabinet"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/track-4/4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where is she going to play tennis?",
+            "A": "the tennis court is closed",
+            "B": "ten of us are going with them.",
+            "C": "she's going to play at her health club"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/track-4/5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can we buy used furniture?",
+            "A": "there's a store on twelve street",
+            "B": "my office has new furniture",
+            "C": "I never use my desk"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/track-4/6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I hang up my coat?",
+            "A": "that's a very nice coat",
+            "B": "put it in the closet",
+            "C": "I need a new coat"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/track-4/7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where will the meeting be?",
+            "A": "we'll meet in Joe's office",
+            "B": "we need more seats",
+            "C": "it starts at three"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/repaired/where-practice-8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I make copies?",
+            "A": "take just one copy a piece",
+            "B": "It's in the lobby",
+            "C": "there's a copy machine in that room"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/track-4/9.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the manager's office?",
+            "A": "he managed to finish the project",
+            "B": "he has a nice office.",
+            "C": "It's right across the hall"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-practice-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/track-4/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where should I wait for the bus?",
+            "A": "I waited for hours",
+            "B": "there's a bus stop on the corner",
+            "C": "there's nothing to discuss"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d13-mini",
+      "code": "mini",
+      "title": "Part 2 — mixed When and Where mini-test",
+      "subtitle": "Choose a response or turn on dictation mode to transcribe the question and three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": "/assets/day-13/audio/Whenwhere 25 ca_u.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d13-mini-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/mini/01.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where should we hang the doctor’s professional certification?",
+            "A": "Next Thursday",
+            "B": "Maybe above the desk",
+            "C": "For Dr.Rossi"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/mini/02.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When are they announcing the winner of the competition?",
+            "A": "At the radio station",
+            "B": "By the end of the week",
+            "C": "A gift certificate"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/mini/03.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where should we hold the press conference?",
+            "A": "Newspapers and magazines",
+            "B": "We’ll need a large space",
+            "C": "Ten- thirty"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/mini/04.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When does the warranty on your computer expire?",
+            "A": "I lost all that paperwork when I moved",
+            "B": "The recent software update",
+            "C": "I met with them on Tuesday"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/mini/05.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where was the conference held last year?",
+            "A": "It was great, thanks",
+            "B": "In Nairobi",
+            "C": "No, I haven’t yet"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/mini/06.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When will my paperwork be ready?",
+            "A": "On November second",
+            "B": "A variety of paper products",
+            "C": "Yes, a 10% increase"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/mini/07.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where should I submit my registration form?",
+            "A": "On June 3rd",
+            "B": "That’s written on the first page",
+            "C": "A monthly subscription"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/mini/08.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When will you start that project?",
+            "A": "No, it’s not in my desk",
+            "B": "As soon as I can",
+            "C": "The projector has a black finish"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/mini/09.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where is the entrance to the exhibit?",
+            "A": "To the right of the escalator",
+            "B": "Tickets cost 8 euros",
+            "C": "Yes, just a little bit"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/mini/10.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When is the diversity training?",
+            "A": "Tuesday at two thirty",
+            "B": "The same trainer as last year",
+            "C": "Room 405"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-11",
+          "no": 11,
+          "audio": "/assets/day-13/audio/mini/11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When will the labeling machine be repaired?",
+            "A": "Yes, you should work in pairs",
+            "B": "The list of ingredients is on the label",
+            "C": "They still don’t know what’s wrong with it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-12",
+          "no": 12,
+          "audio": "/assets/day-13/audio/mini/12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where’s the closest railway station?",
+            "A": "It doesn’t close until midnight",
+            "B": "On the train to Brussels",
+            "C": "Near the post office"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-13",
+          "no": 13,
+          "audio": "/assets/day-13/audio/mini/13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When do you expect to finish the quarterly sales report?",
+            "A": "I just got the final figures",
+            "B": "Please print out a few more",
+            "C": "That’s what we expected"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-14",
+          "no": 14,
+          "audio": "/assets/day-13/audio/mini/14.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where will you be staying while you’re in London?",
+            "A": "With an old friend",
+            "B": "Not at this time of year",
+            "C": "It was a dinner invitation"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-15",
+          "no": 15,
+          "audio": "/assets/day-13/audio/mini/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When will my travel expenses be reimbursed?",
+            "A": "The trip was great",
+            "B": "It took me four hours to get there",
+            "C": "In about 2 weeks"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-16",
+          "no": 16,
+          "audio": "/assets/day-13/audio/mini/16.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where should the new file cabinets be placed?",
+            "A": "Ms. Kim has a floor plan",
+            "B": "Just the client files, please",
+            "C": "I ordered more a month ago"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-17",
+          "no": 17,
+          "audio": "/assets/day-13/audio/mini/17.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where can I get a copy of the weekly newsletter?",
+            "A": "Every other week",
+            "B": "I read that, too",
+            "C": "On our website"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-18",
+          "no": 18,
+          "audio": "/assets/day-13/audio/mini/18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When can I make my presentation to the board?",
+            "A": "She should be present to receive the award",
+            "B": "There will be time at the next meeting",
+            "C": "Yes, he was very bored"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-19",
+          "no": 19,
+          "audio": "/assets/day-13/audio/mini/19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When did the owner decide to look for a new assistant manager?",
+            "A": "Yes, they plan to",
+            "B": "At the State Street store",
+            "C": "After the business increased"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-20",
+          "no": 20,
+          "audio": "/assets/day-13/audio/mini/20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When did you start working at the embassy?",
+            "A": "Almost 2 years ago",
+            "B": "Near city hall",
+            "C": "Do you have any extra?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-21",
+          "no": 21,
+          "audio": "/assets/day-13/audio/mini/21.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where can I get a new battery for my watch?",
+            "A": "Sure, that’s fine with me",
+            "B": "It’s at 4:30",
+            "C": "On Yardley Boulevard"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-22",
+          "no": 22,
+          "audio": "/assets/day-13/audio/mini/22.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where should I set up the equipment for the photo shoot?",
+            "A": "That’s scheduled for next week",
+            "B": "It was taken in Amsterdam",
+            "C": "I got it from the electronics store"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-23",
+          "no": 23,
+          "audio": "/assets/day-13/audio/mini/23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where’s a good place to buy a new coffeemaker?",
+            "A": "Yes, I’ll make some copies",
+            "B": "There’s a store across the street that sells them",
+            "C": "Yes, I’ll have another cup"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-24",
+          "no": 24,
+          "audio": "/assets/day-13/audio/mini/24.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When can I call Mr.Freeman back?",
+            "A": "Anytime tomorrow morning",
+            "B": "There’s a printer in my office",
+            "C": "I don’t know her address"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d13-mini-25",
+          "no": 25,
+          "audio": "/assets/day-13/audio/mini/25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where can I donate some old office equipment?",
+            "A": "Because it starts at 9 oclock",
+            "B": "No, I don’t eat in here",
+            "C": "What kind of equipment is it?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-when-homework",
+      "code": "when-homework",
+      "title": "Part 2 — When homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-when-homework-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/when/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When did you join the company?",
+            "A": "Yes, I'm enjoying it here.",
+            "B": "Three years ago.",
+            "C": "The Strauss Company."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/when/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When do you expect the merger to be approved?",
+            "A": "By the end of the month.",
+            "B": "I expect so.",
+            "C": "Yes, sales ought to improve."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/when/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will we begin marketing the new alarm system?",
+            "A": "After more tests are completed.",
+            "B": "It's an efficient system.",
+            "C": "In Europe and North America."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/when/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When should I have this paperwork ready?",
+            "A": "As soon as possible.",
+            "B": "At the print shop.",
+            "C": "A billing form."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/when/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the Morrison Bridge going to be repaired?",
+            "A": "A pair of them.",
+            "B": "He was stuck in traffic.",
+            "C": "Sometime next spring."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/when/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When do you start work in the morning?",
+            "A": "Yes, I do.",
+            "B": "At eight o’clock.",
+            "C": "She just started."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/when/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the furniture for the lobby be delivered?",
+            "A": "At the service desk.",
+            "B": "Some blue chairs.",
+            "C": "Probably tomorrow."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/when/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the tour begin?",
+            "A": "A history museum.",
+            "B": "He's a tour guide.",
+            "C": "In about 15 minutes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/when/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When's your appointment?",
+            "A": "Room 310.",
+            "B": "On Friday.",
+            "C": "That's a good point."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/when/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When does the promotional offer begin?",
+            "A": "For large orders.",
+            "B": "It starts next week.",
+            "C": "She's the assistant editor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-11",
+          "no": 11,
+          "audio": "/assets/day-13/audio/when/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will construction be finished?",
+            "A": "Because of delays.",
+            "B": "Yes, the room's furnished.",
+            "C": "Some time in July."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-12",
+          "no": 12,
+          "audio": "/assets/day-13/audio/when/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the financial consultants arrive in Tokyo?",
+            "A": "Five of them, I think.",
+            "B": "At the end of the month.",
+            "C": "By express train."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-13",
+          "no": 13,
+          "audio": "/assets/day-13/audio/when/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the client arrive?",
+            "A": "A cleaning service.",
+            "B": "Not until this afternoon.",
+            "C": "Miss Kim will."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-14",
+          "no": 14,
+          "audio": "/assets/day-13/audio/when/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will I find out if I got the assignment?",
+            "A": "No later than Friday.",
+            "B": "The accounting department.",
+            "C": "Didn't you find it?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-15",
+          "no": 15,
+          "audio": "/assets/day-13/audio/when/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When are the building designs due?",
+            "A": "In the lobby.",
+            "B": "On the fifteenth.",
+            "C": "No, he hasn’t done it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-16",
+          "no": 16,
+          "audio": "/assets/day-13/audio/when/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When is the kitchen tile supposed to arrive?",
+            "A": "That order is shipping on Tuesday.",
+            "B": "The product trial was successful.",
+            "C": "The floor and the counter."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-17",
+          "no": 17,
+          "audio": "/assets/day-13/audio/when/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When do we have to register for the seminar?",
+            "A": "To attend a special event.",
+            "B": "In the reception area.",
+            "C": "Registration starts in March."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-18",
+          "no": 18,
+          "audio": "/assets/day-13/audio/when/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When should I request vacation time?",
+            "A": "Yes, you should.",
+            "B": "At least a month in advance.",
+            "C": "Have a great trip!"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-19",
+          "no": 19,
+          "audio": "/assets/day-13/audio/when/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will the press conference begin?",
+            "A": "She was very impressed.",
+            "B": "In the banquet room.",
+            "C": "As soon as the microphone arrives."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-20",
+          "no": 20,
+          "audio": "/assets/day-13/audio/when/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When does the next bus leave the station?",
+            "A": "The Westmont Station.",
+            "B": "He's here till Tuesday.",
+            "C": "It leaves at 7."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-21",
+          "no": 21,
+          "audio": "/assets/day-13/audio/when/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will you start interviewing job candidates?",
+            "A": "In the newspaper.",
+            "B": "Sometime next month.",
+            "C": "It was a thorough review."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-22",
+          "no": 22,
+          "audio": "/assets/day-13/audio/when/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When are the invoices sent out?",
+            "A": "The corporate account.",
+            "B": "Centre City Bank.",
+            "C": "Every other Monday."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-23",
+          "no": 23,
+          "audio": "/assets/day-13/audio/when/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When will you be giving the presentation at the conference?",
+            "A": "I'm not sure yet.",
+            "B": "What a pleasant surprise.",
+            "C": "It's in London."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-when-homework-24",
+          "no": 24,
+          "audio": "/assets/day-13/audio/when/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "When's the security equipment going to be installed?",
+            "A": "The security guard said so.",
+            "B": "By the end of the week at the latest.",
+            "C": "A set of revolving doors."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d13-where-homework",
+      "code": "where-homework",
+      "title": "Part 2 — Where homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d13-where-homework-01",
+          "no": 1,
+          "audio": "/assets/day-13/audio/where/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where are you staying in town?",
+            "A": "Yes, often.",
+            "B": "At the Lakeside Hotel.",
+            "C": "For a conference."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-02",
+          "no": 2,
+          "audio": "/assets/day-13/audio/where/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I get a copy of the weekly newsletter?",
+            "A": "Every other week.",
+            "B": "I read that too.",
+            "C": "On our website."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-03",
+          "no": 3,
+          "audio": "/assets/day-13/audio/where/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where was Mr. Wagner yesterday?",
+            "A": "The whole department.",
+            "B": "No, that's tomorrow.",
+            "C": "With a client."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-04",
+          "no": 4,
+          "audio": "/assets/day-13/audio/where/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where will the training session be held?",
+            "A": "I'll check the email Erica sent us.",
+            "B": "Safety procedures.",
+            "C": "Because of a schedule change."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-05",
+          "no": 5,
+          "audio": "/assets/day-13/audio/where/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the nearest supermarket?",
+            "A": "He asked about marketing.",
+            "B": "Just on the street.",
+            "C": "No, there isn't."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-06",
+          "no": 6,
+          "audio": "/assets/day-13/audio/where/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where should I put the paper for the computer?",
+            "A": "Four boxes.",
+            "B": "Next to the printer.",
+            "C": "Yesterday's newspaper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-07",
+          "no": 7,
+          "audio": "/assets/day-13/audio/where/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where are you holding the staff meeting?",
+            "A": "Because our deadlines changed.",
+            "B": "Yes, I’ve seen it.",
+            "C": "In the conference room."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-08",
+          "no": 8,
+          "audio": "/assets/day-13/audio/where/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I buy a train ticket?",
+            "A": "Over at that window.",
+            "B": "It's going to Prague.",
+            "C": "About 23 euros."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-09",
+          "no": 9,
+          "audio": "/assets/day-13/audio/where/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I get some shipping labels?",
+            "A": "I saw some in the mail room.",
+            "B": "Yes, an overnight delivery.",
+            "C": "He doesn't live there."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-10",
+          "no": 10,
+          "audio": "/assets/day-13/audio/where/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the registration sheet?",
+            "A": "The printer was fixed.",
+            "B": "It's on the front desk.",
+            "C": "She's new here."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-11",
+          "no": 11,
+          "audio": "/assets/day-13/audio/where/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did Gabriella buy that clock?",
+            "A": "Here's the key.",
+            "B": "At a gift shop.",
+            "C": "It's time to leave."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-12",
+          "no": 12,
+          "audio": "/assets/day-13/audio/where/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where did Tran leave the contract?",
+            "A": "It's on your desk.",
+            "B": "By the end of the day.",
+            "C": "I'll have one, thanks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-13",
+          "no": 13,
+          "audio": "/assets/day-13/audio/where/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I get a bus to Kingston?",
+            "A": "A reduced fare.",
+            "B": "I'll find a transit map.",
+            "C": "Every 10 minutes."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-14",
+          "no": 14,
+          "audio": "/assets/day-13/audio/where/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's our next interview?",
+            "A": "In room 102.",
+            "B": "It's nice to meet you.",
+            "C": "We all went."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-15",
+          "no": 15,
+          "audio": "/assets/day-13/audio/where/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where should I put my wet umbrella?",
+            "A": "It might rain soon.",
+            "B": "They left already.",
+            "C": "In the hallway."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-16",
+          "no": 16,
+          "audio": "/assets/day-13/audio/where/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where should I file the marketing budget?",
+            "A": "In the Cabinet by Marta's office.",
+            "B": "No, I couldn't find it.",
+            "C": "Only for the fourth quarter."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-17",
+          "no": 17,
+          "audio": "/assets/day-13/audio/where/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where can I pick up my order?",
+            "A": "No, it was too heavy to lift.",
+            "B": "I put the files in order.",
+            "C": "At the customer service desk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-18",
+          "no": 18,
+          "audio": "/assets/day-13/audio/where/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where will the company manufacture the new cookware?",
+            "A": "We're considering a couple of locations.",
+            "B": "It's selling well so far.",
+            "C": "Check aisle number five."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-19",
+          "no": 19,
+          "audio": "/assets/day-13/audio/where/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where do you get your haircut?",
+            "A": "At a place on High Street.",
+            "B": "Around $40.",
+            "C": "Here, it's for you."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d13-where-homework-20",
+          "no": 20,
+          "audio": "/assets/day-13/audio/where/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Where's the library branch going to be built?",
+            "A": "It hasn't been decided yet.",
+            "B": "The bill's been sent.",
+            "C": "Much larger than the old one."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    }
+  ]
+}

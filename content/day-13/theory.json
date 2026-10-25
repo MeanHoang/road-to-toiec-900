@@ -1,0 +1,129 @@
+{
+  "collection": "theory",
+  "day": "day-13",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d13-t-homework",
+      "type": "wordGroups",
+      "title": "Day 4 — homework and review",
+      "groups": {
+        "Review and vocabulary": [
+          "Học và ôn tập flashcard 1 (JOB) cùng flashcard 2 (Advertising, Marketing, Promotion): xem lại Day 10–12.",
+          "Học 26 từ tiếp theo trong flashcard 2, từ số 25 đến 50, và bộ 18 từ Quizlet Part 7.",
+          "Chữa bài tập về nhà Day 3 (Day 12 trong ứng dụng), ghi lại lỗi sai và nghe lại."
+        ],
+        "Listening and reading": [
+          "Nghe chép chính tả Part 1: viết lại đầy đủ bốn phương án A–D cho từng tranh.",
+          "Nghe chép chính tả Part 2: viết lại câu hỏi When/Where và ba câu trả lời A–C.",
+          "Làm bài đọc Part 7, tự dịch trước rồi chọn đáp án và đối chiếu dẫn chứng.",
+          "Với mini-test 25 câu có đáp án nguồn, bật Dictation mode để luyện chép thay vì chọn đáp án."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d13-t-when",
+      "type": "wordGroups",
+      "title": "Part 2 — When questions",
+      "groups": {
+        "What the question asks": [
+          "When hỏi về thời điểm hoặc thời gian: When is the show supposed to begin? → In ten minutes.",
+          "Câu trả lời có thể không có giới từ: When is this report due? → Early next week."
+        ],
+        "Time expressions": [
+          "In + tháng, năm, mùa: in July, in summer. In + khoảng thời gian tính từ hiện tại: in three days.",
+          "On + ngày/thứ: on February 1st, on Sunday.",
+          "At + thời điểm xác định: at 9 a.m., at noon.",
+          "Các giới từ khác: before, after, during, by, between, for, since, until, within."
+        ],
+        "Indirect responses": [
+          "Đáp án có thể gián tiếp, không nêu thời gian cụ thể. Ví dụ: When will the machine be repaired? → They still don’t know what’s wrong with it.",
+          "Nghe trọn câu hỏi và cả ba lựa chọn; đừng chọn chỉ vì thấy một cụm thời gian."
+        ]
+      },
+      "source": {
+        "rules": "pdf",
+        "examples": "ai"
+      }
+    },
+    {
+      "id": "d13-t-where",
+      "type": "wordGroups",
+      "title": "Part 2 — Where questions",
+      "groups": {
+        "What the question asks": [
+          "Where hỏi về nơi chốn. Câu trả lời thường nêu địa điểm, vị trí hoặc chỉ dẫn đến nơi có thông tin.",
+          "Where can I get the bus for Seoul? → At gate three.",
+          "Where should I put this cup? → You can leave it there."
+        ],
+        "Place expressions": [
+          "In + khu vực khép kín hoặc vùng: in the box, in Hanoi, in a library.",
+          "On + bề mặt: on the floor, on the desk, on the wall.",
+          "At + địa điểm cụ thể: at the bus stop, at home, at work.",
+          "Các từ chỉ vị trí khác: above, between, under, near, next to, in front of, behind."
+        ],
+        "Indirect responses": [
+          "Where should the new file cabinets be placed? → Ms. Kim has a floor plan.",
+          "Phân biệt từ có âm gần nhau: where/wear, here/hear, place/plays; nghe nghĩa của cả câu."
+        ]
+      },
+      "source": {
+        "rules": "pdf",
+        "examples": "ai"
+      }
+    },
+    {
+      "id": "d13-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 13 trong ứng dụng tương ứng Day 4 của giai đoạn 2.",
+        "Practice makes perfect ❤"
+      ],
+      "links": [
+        {
+          "label": "Day 4 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1OrFFLu5-rBHLS8LMOs0-A74Kg_xjYa89?usp=sharing"
+        },
+        {
+          "label": "Flashcard 2 — words 25–50",
+          "href": "https://drive.google.com/file/d/1OhGbBCHtuPrHFFd8BvJbtG13eN0gculR/view?usp=sharing"
+        },
+        {
+          "label": "Day 4 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005431278/day-4-p7-flash-cards/?funnelUUID=bca67d54-5068-48ed-a573-079dfa6202f2"
+        },
+        {
+          "label": "Day 3 homework answer sheets",
+          "href": "https://drive.google.com/drive/folders/1b-AIq-WU3qrt5UcX_V_piWi8fnnKHAwn"
+        },
+        {
+          "label": "Review Day 3 reading",
+          "href": "/day/day-12/exercises"
+        },
+        {
+          "label": "Review Day 3 listening",
+          "href": "/day/day-12/listen"
+        },
+        {
+          "label": "#2 Common TOEIC phrases — Thầy Long",
+          "href": "https://youtu.be/7WvsC4IxXEU?si=zayLceQDRvQzIJ7g"
+        }
+      ],
+      "source": "user"
+    },
+    {
+      "id": "d13-t-video",
+      "type": "notes",
+      "title": "Video study task",
+      "lines": [
+        "Xem video #2 Những cụm từ thường gặp trong bài thi TOEIC của thầy Long trong Lesson resources.",
+        "Nghe từng đoạn ngắn, ghi lại cụm từ mới và nghĩa, sau đó đọc theo.",
+        "Đặt câu với năm cụm từ đã học rồi nghe lại không nhìn ghi chú."
+      ],
+      "source": "ai"
+    }
+  ]
+}

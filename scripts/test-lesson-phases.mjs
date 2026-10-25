@@ -9,7 +9,7 @@ const before = JSON.stringify(days);
 const phases = lessonPhases([...days].reverse());
 assert.deepEqual(phases.map((group) => group.phase), [1, 2]);
 assert.deepEqual(phases[0].days.map((day) => day.no), [1, 2, 3, 4, 5, 6, 7, 8, 9]);
-assert.deepEqual(phases[1].days.map((day) => day.no), [10, 11, 12]);
+assert.deepEqual(phases[1].days.map((day) => day.no), [10, 11, 12, 13]);
 assert.equal(JSON.stringify(days), before, 'Grouping must preserve lesson records and IDs');
 assert.equal(phaseOf({ no: 1 }), 1, 'Older Firestore lessons default to Phase 1');
 assert.deepEqual(lessonPhases([]), []);

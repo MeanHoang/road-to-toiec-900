@@ -59,7 +59,7 @@ export function DictationPanel({ item, slug, value, onChange }) {
         minHeight={nhieuPhuongAn ? 132 : 96}
       />
 
-      <AnswerNote />
+      {item.source?.transcript !== 'drive' && <AnswerNote />}
     </>
   );
 }

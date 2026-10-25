@@ -1,0 +1,618 @@
+{
+  "collection": "exercises",
+  "day": "day-13",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d13-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a museum reception",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-01",
+          "no": 1,
+          "text": "Who would most likely receive this invitation?",
+          "options": {
+            "A": "Members of the Canterville Museum",
+            "B": "Art students at local universities",
+            "C": "Owners of prominent art galleries",
+            "D": "Artists who were trained in Europe"
+          },
+          "answer": "A",
+          "explain": "Cụm “as a museum member” cho biết thư mời dành cho thành viên bảo tàng.",
+          "passage": {
+            "text": "In recognition of your generosity as a museum member, you are invited to attend a special reception celebrating the opening of the A. C. Hamilton Wing for European Art at the Canterville Museum.\n\nTo commemorate the occasion, a speech will be given by Dr. Florian Pirotta of Denmont University: “The Landscape Paintings of Carlo Giulini.”\n\nFriday, February 25, 6:30 P.M.\nLight refreshments will be served.\n\nThis event is made possible in part by a contribution from the Elisabeth Kristeller Memorial Foundation."
+          },
+          "vi": "Để ghi nhận sự hào phóng của quý vị với tư cách thành viên bảo tàng, chúng tôi trân trọng mời quý vị tham dự buổi tiếp đón đặc biệt mừng khai trương khu trưng bày nghệ thuật châu Âu A. C. Hamilton tại Bảo tàng Canterville.\n\nĐể kỷ niệm sự kiện này, Tiến sĩ Florian Pirotta thuộc Đại học Denmont sẽ trình bày bài nói chuyện: “Những bức tranh phong cảnh của Carlo Giulini”.\n\nThứ Sáu, ngày 25 tháng 2, lúc 6 giờ 30 chiều. Sẽ phục vụ đồ ăn nhẹ.\n\nSự kiện được thực hiện một phần nhờ khoản đóng góp của Quỹ Tưởng niệm Elisabeth Kristeller.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-02",
+          "no": 2,
+          "text": "What is the main subject of the talk?",
+          "options": {
+            "A": "Contemporary photography",
+            "B": "The life of Elisabeth Kristeller",
+            "C": "Artwork by Carlo Giulini",
+            "D": "An ongoing construction project"
+          },
+          "answer": "C",
+          "explain": "Tên bài nói chuyện là “The Landscape Paintings of Carlo Giulini”, nói về tác phẩm của Carlo Giulini.",
+          "passage": {
+            "text": "In recognition of your generosity as a museum member, you are invited to attend a special reception celebrating the opening of the A. C. Hamilton Wing for European Art at the Canterville Museum.\n\nTo commemorate the occasion, a speech will be given by Dr. Florian Pirotta of Denmont University: “The Landscape Paintings of Carlo Giulini.”\n\nFriday, February 25, 6:30 P.M.\nLight refreshments will be served.\n\nThis event is made possible in part by a contribution from the Elisabeth Kristeller Memorial Foundation."
+          },
+          "vi": "Để ghi nhận sự hào phóng của quý vị với tư cách thành viên bảo tàng, chúng tôi trân trọng mời quý vị tham dự buổi tiếp đón đặc biệt mừng khai trương khu trưng bày nghệ thuật châu Âu A. C. Hamilton tại Bảo tàng Canterville.\n\nĐể kỷ niệm sự kiện này, Tiến sĩ Florian Pirotta thuộc Đại học Denmont sẽ trình bày bài nói chuyện: “Những bức tranh phong cảnh của Carlo Giulini”.\n\nThứ Sáu, ngày 25 tháng 2, lúc 6 giờ 30 chiều. Sẽ phục vụ đồ ăn nhẹ.\n\nSự kiện được thực hiện một phần nhờ khoản đóng góp của Quỹ Tưởng niệm Elisabeth Kristeller.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — an architecture appointment",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-03",
+          "no": 3,
+          "text": "Where would this announcement most likely appear?",
+          "options": {
+            "A": "In a newspaper advertisement",
+            "B": "In a business textbook",
+            "C": "In a telephone directory",
+            "D": "In a company newsletter"
+          },
+          "answer": "D",
+          "explain": "Thông báo bổ nhiệm lãnh đạo, dẫn lời cuộc họp toàn công ty, phù hợp với bản tin nội bộ.",
+          "passage": {
+            "text": "Roger Wilkinson to Join Pace and Brown Architects, Inc.\n\nAt Friday’s company-wide meeting, president and CEO Cynthia Hu announced that, following a lengthy search, Pace and Brown has selected Roger H. Wilkinson as the new director of restoration projects. Beginning May 1 Mr. Wilkinson will succeed Keira Powells, who retired on January 3. Mr. Wilkinson is coming to Pace and Brown from his position as senior project designer at Bershire Blakeburns in London, where he has lived for the last ten years.\n\nMr. Wilkinson will be responsible for representing the firm externally and ensuring that the firm has a clear strategic direction as it expands its work in restoration and historic preservation. He brings with him many diverse talents and more than 25 years of design and project management experience. He is probably best known for his restoration work on the historic 32-story Starsham Hotel in Melbourne, for which he was awarded the Schills Medal, Australia’s most prestigious design award."
+          },
+          "vi": "Roger Wilkinson sẽ gia nhập Công ty Kiến trúc Pace and Brown\n\nTại cuộc họp toàn công ty hôm thứ Sáu, Chủ tịch kiêm Tổng giám đốc Cynthia Hu thông báo rằng sau một thời gian tìm kiếm dài, Pace and Brown đã chọn Roger H. Wilkinson làm giám đốc mới phụ trách các dự án trùng tu. Từ ngày 1 tháng 5, ông Wilkinson sẽ kế nhiệm Keira Powells, người đã nghỉ hưu ngày 3 tháng 1. Ông chuyển đến từ vị trí chuyên viên thiết kế dự án cấp cao tại Bershire Blakeburns ở London, nơi ông đã sinh sống suốt mười năm qua.\n\nÔng Wilkinson sẽ đại diện công ty trong quan hệ đối ngoại và bảo đảm công ty có định hướng chiến lược rõ ràng khi mở rộng hoạt động trùng tu và bảo tồn di sản lịch sử. Ông mang đến nhiều tài năng đa dạng cùng hơn 25 năm kinh nghiệm thiết kế và quản lý dự án. Có lẽ ông được biết đến nhiều nhất nhờ công trình trùng tu khách sạn lịch sử Starsham cao 32 tầng ở Melbourne, qua đó ông được trao Huy chương Schills, giải thưởng thiết kế danh giá nhất Australia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-04",
+          "no": 4,
+          "text": "Who is Keira Powells?",
+          "options": {
+            "A": "A past president of a business",
+            "B": "A former director of a business",
+            "C": "A successful clothing designer",
+            "D": "A well-known historian"
+          },
+          "answer": "B",
+          "explain": "Wilkinson sẽ kế nhiệm Keira Powells ở vị trí giám đốc các dự án trùng tu; Powells là giám đốc tiền nhiệm đã nghỉ hưu.",
+          "passage": {
+            "text": "Roger Wilkinson to Join Pace and Brown Architects, Inc.\n\nAt Friday’s company-wide meeting, president and CEO Cynthia Hu announced that, following a lengthy search, Pace and Brown has selected Roger H. Wilkinson as the new director of restoration projects. Beginning May 1 Mr. Wilkinson will succeed Keira Powells, who retired on January 3. Mr. Wilkinson is coming to Pace and Brown from his position as senior project designer at Bershire Blakeburns in London, where he has lived for the last ten years.\n\nMr. Wilkinson will be responsible for representing the firm externally and ensuring that the firm has a clear strategic direction as it expands its work in restoration and historic preservation. He brings with him many diverse talents and more than 25 years of design and project management experience. He is probably best known for his restoration work on the historic 32-story Starsham Hotel in Melbourne, for which he was awarded the Schills Medal, Australia’s most prestigious design award."
+          },
+          "vi": "Roger Wilkinson sẽ gia nhập Công ty Kiến trúc Pace and Brown\n\nTại cuộc họp toàn công ty hôm thứ Sáu, Chủ tịch kiêm Tổng giám đốc Cynthia Hu thông báo rằng sau một thời gian tìm kiếm dài, Pace and Brown đã chọn Roger H. Wilkinson làm giám đốc mới phụ trách các dự án trùng tu. Từ ngày 1 tháng 5, ông Wilkinson sẽ kế nhiệm Keira Powells, người đã nghỉ hưu ngày 3 tháng 1. Ông chuyển đến từ vị trí chuyên viên thiết kế dự án cấp cao tại Bershire Blakeburns ở London, nơi ông đã sinh sống suốt mười năm qua.\n\nÔng Wilkinson sẽ đại diện công ty trong quan hệ đối ngoại và bảo đảm công ty có định hướng chiến lược rõ ràng khi mở rộng hoạt động trùng tu và bảo tồn di sản lịch sử. Ông mang đến nhiều tài năng đa dạng cùng hơn 25 năm kinh nghiệm thiết kế và quản lý dự án. Có lẽ ông được biết đến nhiều nhất nhờ công trình trùng tu khách sạn lịch sử Starsham cao 32 tầng ở Melbourne, qua đó ông được trao Huy chương Schills, giải thưởng thiết kế danh giá nhất Australia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-05",
+          "no": 5,
+          "text": "How long has Roger Wilkinson lived in London?",
+          "options": {
+            "A": "For 10 years",
+            "B": "For 15 years",
+            "C": "For 25 years",
+            "D": "For 32 years"
+          },
+          "answer": "A",
+          "explain": "Đoạn đầu nói ông đã sống ở London “for the last ten years”.",
+          "passage": {
+            "text": "Roger Wilkinson to Join Pace and Brown Architects, Inc.\n\nAt Friday’s company-wide meeting, president and CEO Cynthia Hu announced that, following a lengthy search, Pace and Brown has selected Roger H. Wilkinson as the new director of restoration projects. Beginning May 1 Mr. Wilkinson will succeed Keira Powells, who retired on January 3. Mr. Wilkinson is coming to Pace and Brown from his position as senior project designer at Bershire Blakeburns in London, where he has lived for the last ten years.\n\nMr. Wilkinson will be responsible for representing the firm externally and ensuring that the firm has a clear strategic direction as it expands its work in restoration and historic preservation. He brings with him many diverse talents and more than 25 years of design and project management experience. He is probably best known for his restoration work on the historic 32-story Starsham Hotel in Melbourne, for which he was awarded the Schills Medal, Australia’s most prestigious design award."
+          },
+          "vi": "Roger Wilkinson sẽ gia nhập Công ty Kiến trúc Pace and Brown\n\nTại cuộc họp toàn công ty hôm thứ Sáu, Chủ tịch kiêm Tổng giám đốc Cynthia Hu thông báo rằng sau một thời gian tìm kiếm dài, Pace and Brown đã chọn Roger H. Wilkinson làm giám đốc mới phụ trách các dự án trùng tu. Từ ngày 1 tháng 5, ông Wilkinson sẽ kế nhiệm Keira Powells, người đã nghỉ hưu ngày 3 tháng 1. Ông chuyển đến từ vị trí chuyên viên thiết kế dự án cấp cao tại Bershire Blakeburns ở London, nơi ông đã sinh sống suốt mười năm qua.\n\nÔng Wilkinson sẽ đại diện công ty trong quan hệ đối ngoại và bảo đảm công ty có định hướng chiến lược rõ ràng khi mở rộng hoạt động trùng tu và bảo tồn di sản lịch sử. Ông mang đến nhiều tài năng đa dạng cùng hơn 25 năm kinh nghiệm thiết kế và quản lý dự án. Có lẽ ông được biết đến nhiều nhất nhờ công trình trùng tu khách sạn lịch sử Starsham cao 32 tầng ở Melbourne, qua đó ông được trao Huy chương Schills, giải thưởng thiết kế danh giá nhất Australia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-06",
+          "no": 6,
+          "text": "According to the announcement, what is Roger Wilkinson known for?",
+          "options": {
+            "A": "Directing restoration projects at Pace and Brown",
+            "B": "Being Bershire Blakeburns’ longest-serving director",
+            "C": "Renovating a historic building in Melbourne",
+            "D": "Winning a major design award in London"
+          },
+          "answer": "C",
+          "explain": "Ông nổi tiếng với công trình trùng tu khách sạn lịch sử Starsham tại Melbourne; không phải giải thưởng ở London.",
+          "passage": {
+            "text": "Roger Wilkinson to Join Pace and Brown Architects, Inc.\n\nAt Friday’s company-wide meeting, president and CEO Cynthia Hu announced that, following a lengthy search, Pace and Brown has selected Roger H. Wilkinson as the new director of restoration projects. Beginning May 1 Mr. Wilkinson will succeed Keira Powells, who retired on January 3. Mr. Wilkinson is coming to Pace and Brown from his position as senior project designer at Bershire Blakeburns in London, where he has lived for the last ten years.\n\nMr. Wilkinson will be responsible for representing the firm externally and ensuring that the firm has a clear strategic direction as it expands its work in restoration and historic preservation. He brings with him many diverse talents and more than 25 years of design and project management experience. He is probably best known for his restoration work on the historic 32-story Starsham Hotel in Melbourne, for which he was awarded the Schills Medal, Australia’s most prestigious design award."
+          },
+          "vi": "Roger Wilkinson sẽ gia nhập Công ty Kiến trúc Pace and Brown\n\nTại cuộc họp toàn công ty hôm thứ Sáu, Chủ tịch kiêm Tổng giám đốc Cynthia Hu thông báo rằng sau một thời gian tìm kiếm dài, Pace and Brown đã chọn Roger H. Wilkinson làm giám đốc mới phụ trách các dự án trùng tu. Từ ngày 1 tháng 5, ông Wilkinson sẽ kế nhiệm Keira Powells, người đã nghỉ hưu ngày 3 tháng 1. Ông chuyển đến từ vị trí chuyên viên thiết kế dự án cấp cao tại Bershire Blakeburns ở London, nơi ông đã sinh sống suốt mười năm qua.\n\nÔng Wilkinson sẽ đại diện công ty trong quan hệ đối ngoại và bảo đảm công ty có định hướng chiến lược rõ ràng khi mở rộng hoạt động trùng tu và bảo tồn di sản lịch sử. Ông mang đến nhiều tài năng đa dạng cùng hơn 25 năm kinh nghiệm thiết kế và quản lý dự án. Có lẽ ông được biết đến nhiều nhất nhờ công trình trùng tu khách sạn lịch sử Starsham cao 32 tầng ở Melbourne, qua đó ông được trao Huy chương Schills, giải thưởng thiết kế danh giá nhất Australia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — museum meeting minutes",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-07",
+          "no": 7,
+          "text": "What most likely will happen in September?",
+          "options": {
+            "A": "A collection of Egyptian art will be sold.",
+            "B": "A new exhibition will be on display.",
+            "C": "An event will be held in the banquet hall.",
+            "D": "Japanese paintings will be moved."
+          },
+          "answer": "B",
+          "explain": "Tháng Chín có triển lãm đặc biệt tranh Ấn tượng.",
+          "passage": {
+            "text": "Sasaki Museum of Art\nMeeting Minutes — 7 April\n\nAttendees\nJin-Woo Min, executive director\nClara Wagner, facilities director\nEri Hirota, curator (ancient Egyptian art)\nJohn Brandon, curator (ancient Greek art)\nAreya Yuvaves, curator (African art)\nIchiro Yoshida, curator (French art)\nSamuel Grant, development director\n\nMr. Yoshida suggested that the Ancient Egyptian Art exhibition be moved from the first floor to the second floor of the museum in order to make room for the special exhibition of Impressionist paintings in September. Ms. Hirota agreed to his proposal and will lead the effort.\n\nMr. Min proposed holding a fundraising event in July. Proceeds would go toward next year’s construction of the new wing, which will house an exhibition of Japanese woodblock prints and calligraphy scrolls. The event would be held in the third-floor banquet hall. Mr. Grant agreed to obtain estimates from three caterers.\n\nMs. Wagner requested that an additional security guard be hired for the fourth floor. She explained that the number of visitors to this area has increased because of the recent expansion of the Greek sculpture collection. She will discuss this with the budget officer.\n\nThe next meeting will focus on the loan of the Ndaba Collection of African Art to the Silvermill Art Museum."
+          },
+          "vi": "Bảo tàng Nghệ thuật Sasaki\nBiên bản cuộc họp ngày 7 tháng 4\n\nNgười tham dự: Jin-Woo Min, giám đốc điều hành; Clara Wagner, giám đốc cơ sở vật chất; Eri Hirota, giám tuyển nghệ thuật Ai Cập cổ đại; John Brandon, giám tuyển nghệ thuật Hy Lạp cổ đại; Areya Yuvaves, giám tuyển nghệ thuật châu Phi; Ichiro Yoshida, giám tuyển nghệ thuật Pháp; Samuel Grant, giám đốc phát triển.\n\nÔng Yoshida đề nghị chuyển khu triển lãm nghệ thuật Ai Cập cổ đại từ tầng một lên tầng hai để dành chỗ cho triển lãm đặc biệt tranh Ấn tượng vào tháng Chín. Bà Hirota đồng ý với đề xuất và sẽ phụ trách việc di chuyển.\n\nÔng Min đề xuất tổ chức sự kiện gây quỹ vào tháng Bảy. Số tiền thu được sẽ phục vụ việc xây dựng khu nhà mới vào năm tới, nơi trưng bày tranh in khắc gỗ và các cuộn thư pháp Nhật Bản. Sự kiện sẽ được tổ chức tại phòng tiệc tầng ba. Ông Grant đồng ý lấy báo giá từ ba đơn vị cung cấp dịch vụ ăn uống.\n\nBà Wagner đề nghị thuê thêm một nhân viên bảo vệ cho tầng bốn. Bà giải thích rằng lượng khách tới khu vực này đã tăng vì bộ sưu tập điêu khắc Hy Lạp vừa được mở rộng. Bà sẽ trao đổi việc này với người phụ trách ngân sách.\n\nCuộc họp tiếp theo sẽ tập trung vào việc cho Bảo tàng Nghệ thuật Silvermill mượn Bộ sưu tập Nghệ thuật châu Phi Ndaba.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-08",
+          "no": 8,
+          "text": "What is suggested about the construction project?",
+          "options": {
+            "A": "It will be supervised by Mr. Yoshida.",
+            "B": "It is scheduled to begin in three months.",
+            "C": "It is not yet fully funded.",
+            "D": "Its deadline has been extended."
+          },
+          "answer": "C",
+          "explain": "Sự kiện tháng Bảy nhằm gây quỹ cho việc xây dựng năm tới, nên có thể suy ra dự án chưa được tài trợ đầy đủ.",
+          "passage": {
+            "text": "Sasaki Museum of Art\nMeeting Minutes — 7 April\n\nAttendees\nJin-Woo Min, executive director\nClara Wagner, facilities director\nEri Hirota, curator (ancient Egyptian art)\nJohn Brandon, curator (ancient Greek art)\nAreya Yuvaves, curator (African art)\nIchiro Yoshida, curator (French art)\nSamuel Grant, development director\n\nMr. Yoshida suggested that the Ancient Egyptian Art exhibition be moved from the first floor to the second floor of the museum in order to make room for the special exhibition of Impressionist paintings in September. Ms. Hirota agreed to his proposal and will lead the effort.\n\nMr. Min proposed holding a fundraising event in July. Proceeds would go toward next year’s construction of the new wing, which will house an exhibition of Japanese woodblock prints and calligraphy scrolls. The event would be held in the third-floor banquet hall. Mr. Grant agreed to obtain estimates from three caterers.\n\nMs. Wagner requested that an additional security guard be hired for the fourth floor. She explained that the number of visitors to this area has increased because of the recent expansion of the Greek sculpture collection. She will discuss this with the budget officer.\n\nThe next meeting will focus on the loan of the Ndaba Collection of African Art to the Silvermill Art Museum."
+          },
+          "vi": "Bảo tàng Nghệ thuật Sasaki\nBiên bản cuộc họp ngày 7 tháng 4\n\nNgười tham dự: Jin-Woo Min, giám đốc điều hành; Clara Wagner, giám đốc cơ sở vật chất; Eri Hirota, giám tuyển nghệ thuật Ai Cập cổ đại; John Brandon, giám tuyển nghệ thuật Hy Lạp cổ đại; Areya Yuvaves, giám tuyển nghệ thuật châu Phi; Ichiro Yoshida, giám tuyển nghệ thuật Pháp; Samuel Grant, giám đốc phát triển.\n\nÔng Yoshida đề nghị chuyển khu triển lãm nghệ thuật Ai Cập cổ đại từ tầng một lên tầng hai để dành chỗ cho triển lãm đặc biệt tranh Ấn tượng vào tháng Chín. Bà Hirota đồng ý với đề xuất và sẽ phụ trách việc di chuyển.\n\nÔng Min đề xuất tổ chức sự kiện gây quỹ vào tháng Bảy. Số tiền thu được sẽ phục vụ việc xây dựng khu nhà mới vào năm tới, nơi trưng bày tranh in khắc gỗ và các cuộn thư pháp Nhật Bản. Sự kiện sẽ được tổ chức tại phòng tiệc tầng ba. Ông Grant đồng ý lấy báo giá từ ba đơn vị cung cấp dịch vụ ăn uống.\n\nBà Wagner đề nghị thuê thêm một nhân viên bảo vệ cho tầng bốn. Bà giải thích rằng lượng khách tới khu vực này đã tăng vì bộ sưu tập điêu khắc Hy Lạp vừa được mở rộng. Bà sẽ trao đổi việc này với người phụ trách ngân sách.\n\nCuộc họp tiếp theo sẽ tập trung vào việc cho Bảo tàng Nghệ thuật Silvermill mượn Bộ sưu tập Nghệ thuật châu Phi Ndaba.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-09",
+          "no": 9,
+          "text": "Why does Ms. Wagner request additional security?",
+          "options": {
+            "A": "To protect a valuable painting",
+            "B": "To check visitors at the front entrance",
+            "C": "To implement new safety regulations",
+            "D": "To monitor increased visitor traffic"
+          },
+          "answer": "D",
+          "explain": "Bà đề nghị thêm bảo vệ vì lượng khách trên tầng bốn đã tăng.",
+          "passage": {
+            "text": "Sasaki Museum of Art\nMeeting Minutes — 7 April\n\nAttendees\nJin-Woo Min, executive director\nClara Wagner, facilities director\nEri Hirota, curator (ancient Egyptian art)\nJohn Brandon, curator (ancient Greek art)\nAreya Yuvaves, curator (African art)\nIchiro Yoshida, curator (French art)\nSamuel Grant, development director\n\nMr. Yoshida suggested that the Ancient Egyptian Art exhibition be moved from the first floor to the second floor of the museum in order to make room for the special exhibition of Impressionist paintings in September. Ms. Hirota agreed to his proposal and will lead the effort.\n\nMr. Min proposed holding a fundraising event in July. Proceeds would go toward next year’s construction of the new wing, which will house an exhibition of Japanese woodblock prints and calligraphy scrolls. The event would be held in the third-floor banquet hall. Mr. Grant agreed to obtain estimates from three caterers.\n\nMs. Wagner requested that an additional security guard be hired for the fourth floor. She explained that the number of visitors to this area has increased because of the recent expansion of the Greek sculpture collection. She will discuss this with the budget officer.\n\nThe next meeting will focus on the loan of the Ndaba Collection of African Art to the Silvermill Art Museum."
+          },
+          "vi": "Bảo tàng Nghệ thuật Sasaki\nBiên bản cuộc họp ngày 7 tháng 4\n\nNgười tham dự: Jin-Woo Min, giám đốc điều hành; Clara Wagner, giám đốc cơ sở vật chất; Eri Hirota, giám tuyển nghệ thuật Ai Cập cổ đại; John Brandon, giám tuyển nghệ thuật Hy Lạp cổ đại; Areya Yuvaves, giám tuyển nghệ thuật châu Phi; Ichiro Yoshida, giám tuyển nghệ thuật Pháp; Samuel Grant, giám đốc phát triển.\n\nÔng Yoshida đề nghị chuyển khu triển lãm nghệ thuật Ai Cập cổ đại từ tầng một lên tầng hai để dành chỗ cho triển lãm đặc biệt tranh Ấn tượng vào tháng Chín. Bà Hirota đồng ý với đề xuất và sẽ phụ trách việc di chuyển.\n\nÔng Min đề xuất tổ chức sự kiện gây quỹ vào tháng Bảy. Số tiền thu được sẽ phục vụ việc xây dựng khu nhà mới vào năm tới, nơi trưng bày tranh in khắc gỗ và các cuộn thư pháp Nhật Bản. Sự kiện sẽ được tổ chức tại phòng tiệc tầng ba. Ông Grant đồng ý lấy báo giá từ ba đơn vị cung cấp dịch vụ ăn uống.\n\nBà Wagner đề nghị thuê thêm một nhân viên bảo vệ cho tầng bốn. Bà giải thích rằng lượng khách tới khu vực này đã tăng vì bộ sưu tập điêu khắc Hy Lạp vừa được mở rộng. Bà sẽ trao đổi việc này với người phụ trách ngân sách.\n\nCuộc họp tiếp theo sẽ tập trung vào việc cho Bảo tàng Nghệ thuật Silvermill mượn Bộ sưu tập Nghệ thuật châu Phi Ndaba.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-10",
+          "no": 10,
+          "text": "Who most likely will present at the next meeting?",
+          "options": {
+            "A": "Ms. Hirota",
+            "B": "Mr. Grant",
+            "C": "Mr. Brandon",
+            "D": "Ms. Yuvaves"
+          },
+          "answer": "D",
+          "explain": "Cuộc họp tới bàn về bộ sưu tập nghệ thuật châu Phi; Ms. Yuvaves là giám tuyển phụ trách mảng này.",
+          "passage": {
+            "text": "Sasaki Museum of Art\nMeeting Minutes — 7 April\n\nAttendees\nJin-Woo Min, executive director\nClara Wagner, facilities director\nEri Hirota, curator (ancient Egyptian art)\nJohn Brandon, curator (ancient Greek art)\nAreya Yuvaves, curator (African art)\nIchiro Yoshida, curator (French art)\nSamuel Grant, development director\n\nMr. Yoshida suggested that the Ancient Egyptian Art exhibition be moved from the first floor to the second floor of the museum in order to make room for the special exhibition of Impressionist paintings in September. Ms. Hirota agreed to his proposal and will lead the effort.\n\nMr. Min proposed holding a fundraising event in July. Proceeds would go toward next year’s construction of the new wing, which will house an exhibition of Japanese woodblock prints and calligraphy scrolls. The event would be held in the third-floor banquet hall. Mr. Grant agreed to obtain estimates from three caterers.\n\nMs. Wagner requested that an additional security guard be hired for the fourth floor. She explained that the number of visitors to this area has increased because of the recent expansion of the Greek sculpture collection. She will discuss this with the budget officer.\n\nThe next meeting will focus on the loan of the Ndaba Collection of African Art to the Silvermill Art Museum."
+          },
+          "vi": "Bảo tàng Nghệ thuật Sasaki\nBiên bản cuộc họp ngày 7 tháng 4\n\nNgười tham dự: Jin-Woo Min, giám đốc điều hành; Clara Wagner, giám đốc cơ sở vật chất; Eri Hirota, giám tuyển nghệ thuật Ai Cập cổ đại; John Brandon, giám tuyển nghệ thuật Hy Lạp cổ đại; Areya Yuvaves, giám tuyển nghệ thuật châu Phi; Ichiro Yoshida, giám tuyển nghệ thuật Pháp; Samuel Grant, giám đốc phát triển.\n\nÔng Yoshida đề nghị chuyển khu triển lãm nghệ thuật Ai Cập cổ đại từ tầng một lên tầng hai để dành chỗ cho triển lãm đặc biệt tranh Ấn tượng vào tháng Chín. Bà Hirota đồng ý với đề xuất và sẽ phụ trách việc di chuyển.\n\nÔng Min đề xuất tổ chức sự kiện gây quỹ vào tháng Bảy. Số tiền thu được sẽ phục vụ việc xây dựng khu nhà mới vào năm tới, nơi trưng bày tranh in khắc gỗ và các cuộn thư pháp Nhật Bản. Sự kiện sẽ được tổ chức tại phòng tiệc tầng ba. Ông Grant đồng ý lấy báo giá từ ba đơn vị cung cấp dịch vụ ăn uống.\n\nBà Wagner đề nghị thuê thêm một nhân viên bảo vệ cho tầng bốn. Bà giải thích rằng lượng khách tới khu vực này đã tăng vì bộ sưu tập điêu khắc Hy Lạp vừa được mở rộng. Bà sẽ trao đổi việc này với người phụ trách ngân sách.\n\nCuộc họp tiếp theo sẽ tập trung vào việc cho Bảo tàng Nghệ thuật Silvermill mượn Bộ sưu tập Nghệ thuật châu Phi Ndaba.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a banking history review",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-11",
+          "no": 1,
+          "text": "What most likely is Mr. Gallagher’s job?",
+          "options": {
+            "A": "Banker",
+            "B": "Librarian",
+            "C": "Journalist",
+            "D": "Publisher"
+          },
+          "answer": "C",
+          "explain": "Ông có sự nghiệp đưa tin tài chính cho nhiều tờ báo, nên là nhà báo.",
+          "passage": {
+            "text": "From Coins to Credit: Banking Throughout the Ages is a concise history of banks and the banking industry from ancient times to the present. James Gallagher, who has made a career of covering financial news for several newspapers, has done a careful job of investigating his subject. Although he presents the facts carefully, Mr. Gallagher has made what could have been a dry book into one that is interesting and enjoyable. By telling amusing anecdotes about historical figures, he makes them come alive. Even people who are not particularly attracted to the subject matter will find this book engrossing."
+          },
+          "vi": "Từ tiền xu đến tín dụng: Ngân hàng qua các thời đại là cuốn lịch sử súc tích về ngân hàng và ngành ngân hàng từ thời cổ đại đến hiện tại. James Gallagher, người có sự nghiệp đưa tin tài chính cho nhiều tờ báo, đã nghiên cứu chủ đề của mình rất kỹ lưỡng. Mặc dù trình bày sự kiện một cách cẩn trọng, ông đã biến một cuốn sách lẽ ra có thể khô khan thành một tác phẩm thú vị, dễ thưởng thức. Bằng những giai thoại vui về các nhân vật lịch sử, ông khiến họ trở nên sống động. Ngay cả những người không đặc biệt quan tâm đến chủ đề này cũng sẽ thấy cuốn sách cuốn hút.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-12",
+          "no": 2,
+          "text": "What does the reviewer NOT mention about the book?",
+          "options": {
+            "A": "It is very long.",
+            "B": "It is entertaining.",
+            "C": "It describes people from the past.",
+            "D": "It is well researched."
+          },
+          "answer": "A",
+          "explain": "Bài đánh giá nhắc nghiên cứu kỹ, giai thoại lịch sử và sự thú vị; không nói sách rất dài, mà gọi là concise.",
+          "passage": {
+            "text": "From Coins to Credit: Banking Throughout the Ages is a concise history of banks and the banking industry from ancient times to the present. James Gallagher, who has made a career of covering financial news for several newspapers, has done a careful job of investigating his subject. Although he presents the facts carefully, Mr. Gallagher has made what could have been a dry book into one that is interesting and enjoyable. By telling amusing anecdotes about historical figures, he makes them come alive. Even people who are not particularly attracted to the subject matter will find this book engrossing."
+          },
+          "vi": "Từ tiền xu đến tín dụng: Ngân hàng qua các thời đại là cuốn lịch sử súc tích về ngân hàng và ngành ngân hàng từ thời cổ đại đến hiện tại. James Gallagher, người có sự nghiệp đưa tin tài chính cho nhiều tờ báo, đã nghiên cứu chủ đề của mình rất kỹ lưỡng. Mặc dù trình bày sự kiện một cách cẩn trọng, ông đã biến một cuốn sách lẽ ra có thể khô khan thành một tác phẩm thú vị, dễ thưởng thức. Bằng những giai thoại vui về các nhân vật lịch sử, ông khiến họ trở nên sống động. Ngay cả những người không đặc biệt quan tâm đến chủ đề này cũng sẽ thấy cuốn sách cuốn hút.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-13",
+          "no": 3,
+          "text": "The word “dry” is closest in meaning to",
+          "options": {
+            "A": "dull",
+            "B": "vacant",
+            "C": "arid",
+            "D": "humorous"
+          },
+          "answer": "A",
+          "explain": "Trong ngữ cảnh nói về sách, dry là khô khan, tẻ nhạt, tương đương dull.",
+          "passage": {
+            "text": "From Coins to Credit: Banking Throughout the Ages is a concise history of banks and the banking industry from ancient times to the present. James Gallagher, who has made a career of covering financial news for several newspapers, has done a careful job of investigating his subject. Although he presents the facts carefully, Mr. Gallagher has made what could have been a dry book into one that is interesting and enjoyable. By telling amusing anecdotes about historical figures, he makes them come alive. Even people who are not particularly attracted to the subject matter will find this book engrossing."
+          },
+          "vi": "Từ tiền xu đến tín dụng: Ngân hàng qua các thời đại là cuốn lịch sử súc tích về ngân hàng và ngành ngân hàng từ thời cổ đại đến hiện tại. James Gallagher, người có sự nghiệp đưa tin tài chính cho nhiều tờ báo, đã nghiên cứu chủ đề của mình rất kỹ lưỡng. Mặc dù trình bày sự kiện một cách cẩn trọng, ông đã biến một cuốn sách lẽ ra có thể khô khan thành một tác phẩm thú vị, dễ thưởng thức. Bằng những giai thoại vui về các nhân vật lịch sử, ông khiến họ trở nên sống động. Ngay cả những người không đặc biệt quan tâm đến chủ đề này cũng sẽ thấy cuốn sách cuốn hút.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-14",
+          "no": 4,
+          "text": "What does the reviewer suggest?",
+          "options": {
+            "A": "Most people are not interested in history.",
+            "B": "The banking industry is in a state of chaos.",
+            "C": "Mr. Gallagher is an experienced lecturer.",
+            "D": "The book will appeal to different groups of people."
+          },
+          "answer": "D",
+          "explain": "Ngay cả người vốn không quan tâm đến chủ đề cũng sẽ thấy cuốn sách cuốn hút, nên sách hấp dẫn nhiều nhóm độc giả.",
+          "passage": {
+            "text": "From Coins to Credit: Banking Throughout the Ages is a concise history of banks and the banking industry from ancient times to the present. James Gallagher, who has made a career of covering financial news for several newspapers, has done a careful job of investigating his subject. Although he presents the facts carefully, Mr. Gallagher has made what could have been a dry book into one that is interesting and enjoyable. By telling amusing anecdotes about historical figures, he makes them come alive. Even people who are not particularly attracted to the subject matter will find this book engrossing."
+          },
+          "vi": "Từ tiền xu đến tín dụng: Ngân hàng qua các thời đại là cuốn lịch sử súc tích về ngân hàng và ngành ngân hàng từ thời cổ đại đến hiện tại. James Gallagher, người có sự nghiệp đưa tin tài chính cho nhiều tờ báo, đã nghiên cứu chủ đề của mình rất kỹ lưỡng. Mặc dù trình bày sự kiện một cách cẩn trọng, ông đã biến một cuốn sách lẽ ra có thể khô khan thành một tác phẩm thú vị, dễ thưởng thức. Bằng những giai thoại vui về các nhân vật lịch sử, ông khiến họ trở nên sống động. Ngay cả những người không đặc biệt quan tâm đến chủ đề này cũng sẽ thấy cuốn sách cuốn hút.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a technology conference letter",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-15",
+          "no": 5,
+          "text": "What does the letter suggest about Ms. Visweswaran?",
+          "options": {
+            "A": "She works in Fukuoka.",
+            "B": "She contacted Ms. Inose earlier.",
+            "C": "She is interested in hiring Ms. Inose’s technicians.",
+            "D": "She has just completed a project on memory recording devices."
+          },
+          "answer": "B",
+          "explain": "Câu mở đầu cảm ơn thông tin mà Visweswaran đã gửi gần đây, cho thấy bà đã liên hệ trước.",
+          "passage": {
+            "text": "Kyushu Technologies\nOctober 5\n\nMs. Chatura Visweswaran\nSenior Researcher\nSupertech Microelectronics\nMumbai, India\n\nDear Ms. Visweswaran,\n\nI appreciate the information you recently sent me about the laser technology conference in Mumbai from November 10 to 13. Due to a prior engagement, I will not be able to attend the conference myself. However, I will be sending three technicians from my division. I am sure that they will benefit greatly from this experience.\n\nThey will likely attend the second half of the conference, as the topics being covered in the first half are not applicable to our work here. This means that my technicians will be attending the conference on November 12 and 13.\n\nAfter scheduling the technicians for various workshops, I will contact you to set up a meeting between your project managers and my technicians on one of the two evenings. I hope they will be able to explore a potential collaboration on our upcoming project on memory recording devices (Project MRD-4).\n\nI hope your opening day presentation goes well and I look forward to reading the transcript as soon as it is available. Thank you again.\n\nKaori Inose\nLaser Mechanics Division\nKyushu Technologies\nFukuoka, Japan"
+          },
+          "vi": "Kyushu Technologies — ngày 5 tháng 10\n\nKính gửi bà Chatura Visweswaran, nghiên cứu viên cấp cao, Supertech Microelectronics, Mumbai, Ấn Độ,\n\nTôi cảm ơn bà về những thông tin gần đây bà gửi về hội nghị công nghệ laser tại Mumbai diễn ra từ ngày 10 đến 13 tháng 11. Vì đã có lịch hẹn từ trước, tôi không thể đích thân tham dự. Tuy nhiên, tôi sẽ cử ba kỹ thuật viên của bộ phận mình đến. Tôi tin họ sẽ thu được nhiều lợi ích từ trải nghiệm này.\n\nHọ có thể sẽ dự nửa sau hội nghị, vì những chủ đề trong nửa đầu không áp dụng được vào công việc của chúng tôi. Như vậy, các kỹ thuật viên sẽ tham dự vào ngày 12 và 13 tháng 11.\n\nSau khi xếp lịch các hội thảo chuyên đề cho họ, tôi sẽ liên hệ với bà để tổ chức một buổi gặp giữa các quản lý dự án của bà và kỹ thuật viên của tôi vào một trong hai buổi tối. Tôi hy vọng họ có thể tìm hiểu khả năng hợp tác trong dự án sắp tới của chúng tôi về thiết bị ghi bộ nhớ, Dự án MRD-4.\n\nTôi hy vọng bài thuyết trình của bà trong ngày khai mạc diễn ra tốt đẹp và mong được đọc bản chép nội dung ngay khi có. Xin cảm ơn bà lần nữa.\n\nKaori Inose\nBộ phận Cơ khí Laser, Kyushu Technologies, Fukuoka, Nhật Bản.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-16",
+          "no": 6,
+          "text": "The word “engagement” is closest in meaning to",
+          "options": {
+            "A": "obligation",
+            "B": "encounter",
+            "C": "proposal",
+            "D": "purpose"
+          },
+          "answer": "A",
+          "explain": "A prior engagement là việc hoặc lịch hẹn đã cam kết trước, gần nghĩa obligation trong ngữ cảnh này.",
+          "passage": {
+            "text": "Kyushu Technologies\nOctober 5\n\nMs. Chatura Visweswaran\nSenior Researcher\nSupertech Microelectronics\nMumbai, India\n\nDear Ms. Visweswaran,\n\nI appreciate the information you recently sent me about the laser technology conference in Mumbai from November 10 to 13. Due to a prior engagement, I will not be able to attend the conference myself. However, I will be sending three technicians from my division. I am sure that they will benefit greatly from this experience.\n\nThey will likely attend the second half of the conference, as the topics being covered in the first half are not applicable to our work here. This means that my technicians will be attending the conference on November 12 and 13.\n\nAfter scheduling the technicians for various workshops, I will contact you to set up a meeting between your project managers and my technicians on one of the two evenings. I hope they will be able to explore a potential collaboration on our upcoming project on memory recording devices (Project MRD-4).\n\nI hope your opening day presentation goes well and I look forward to reading the transcript as soon as it is available. Thank you again.\n\nKaori Inose\nLaser Mechanics Division\nKyushu Technologies\nFukuoka, Japan"
+          },
+          "vi": "Kyushu Technologies — ngày 5 tháng 10\n\nKính gửi bà Chatura Visweswaran, nghiên cứu viên cấp cao, Supertech Microelectronics, Mumbai, Ấn Độ,\n\nTôi cảm ơn bà về những thông tin gần đây bà gửi về hội nghị công nghệ laser tại Mumbai diễn ra từ ngày 10 đến 13 tháng 11. Vì đã có lịch hẹn từ trước, tôi không thể đích thân tham dự. Tuy nhiên, tôi sẽ cử ba kỹ thuật viên của bộ phận mình đến. Tôi tin họ sẽ thu được nhiều lợi ích từ trải nghiệm này.\n\nHọ có thể sẽ dự nửa sau hội nghị, vì những chủ đề trong nửa đầu không áp dụng được vào công việc của chúng tôi. Như vậy, các kỹ thuật viên sẽ tham dự vào ngày 12 và 13 tháng 11.\n\nSau khi xếp lịch các hội thảo chuyên đề cho họ, tôi sẽ liên hệ với bà để tổ chức một buổi gặp giữa các quản lý dự án của bà và kỹ thuật viên của tôi vào một trong hai buổi tối. Tôi hy vọng họ có thể tìm hiểu khả năng hợp tác trong dự án sắp tới của chúng tôi về thiết bị ghi bộ nhớ, Dự án MRD-4.\n\nTôi hy vọng bài thuyết trình của bà trong ngày khai mạc diễn ra tốt đẹp và mong được đọc bản chép nội dung ngay khi có. Xin cảm ơn bà lần nữa.\n\nKaori Inose\nBộ phận Cơ khí Laser, Kyushu Technologies, Fukuoka, Nhật Bản.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-17",
+          "no": 7,
+          "text": "What proposal does Ms. Inose make?",
+          "options": {
+            "A": "That she conduct a workshop",
+            "B": "That her technicians attend the entire conference",
+            "C": "That the registration deadline be extended",
+            "D": "That the two companies work together"
+          },
+          "answer": "D",
+          "explain": "Bà muốn thảo luận khả năng hợp tác (potential collaboration) về dự án MRD-4.",
+          "passage": {
+            "text": "Kyushu Technologies\nOctober 5\n\nMs. Chatura Visweswaran\nSenior Researcher\nSupertech Microelectronics\nMumbai, India\n\nDear Ms. Visweswaran,\n\nI appreciate the information you recently sent me about the laser technology conference in Mumbai from November 10 to 13. Due to a prior engagement, I will not be able to attend the conference myself. However, I will be sending three technicians from my division. I am sure that they will benefit greatly from this experience.\n\nThey will likely attend the second half of the conference, as the topics being covered in the first half are not applicable to our work here. This means that my technicians will be attending the conference on November 12 and 13.\n\nAfter scheduling the technicians for various workshops, I will contact you to set up a meeting between your project managers and my technicians on one of the two evenings. I hope they will be able to explore a potential collaboration on our upcoming project on memory recording devices (Project MRD-4).\n\nI hope your opening day presentation goes well and I look forward to reading the transcript as soon as it is available. Thank you again.\n\nKaori Inose\nLaser Mechanics Division\nKyushu Technologies\nFukuoka, Japan"
+          },
+          "vi": "Kyushu Technologies — ngày 5 tháng 10\n\nKính gửi bà Chatura Visweswaran, nghiên cứu viên cấp cao, Supertech Microelectronics, Mumbai, Ấn Độ,\n\nTôi cảm ơn bà về những thông tin gần đây bà gửi về hội nghị công nghệ laser tại Mumbai diễn ra từ ngày 10 đến 13 tháng 11. Vì đã có lịch hẹn từ trước, tôi không thể đích thân tham dự. Tuy nhiên, tôi sẽ cử ba kỹ thuật viên của bộ phận mình đến. Tôi tin họ sẽ thu được nhiều lợi ích từ trải nghiệm này.\n\nHọ có thể sẽ dự nửa sau hội nghị, vì những chủ đề trong nửa đầu không áp dụng được vào công việc của chúng tôi. Như vậy, các kỹ thuật viên sẽ tham dự vào ngày 12 và 13 tháng 11.\n\nSau khi xếp lịch các hội thảo chuyên đề cho họ, tôi sẽ liên hệ với bà để tổ chức một buổi gặp giữa các quản lý dự án của bà và kỹ thuật viên của tôi vào một trong hai buổi tối. Tôi hy vọng họ có thể tìm hiểu khả năng hợp tác trong dự án sắp tới của chúng tôi về thiết bị ghi bộ nhớ, Dự án MRD-4.\n\nTôi hy vọng bài thuyết trình của bà trong ngày khai mạc diễn ra tốt đẹp và mong được đọc bản chép nội dung ngay khi có. Xin cảm ơn bà lần nữa.\n\nKaori Inose\nBộ phận Cơ khí Laser, Kyushu Technologies, Fukuoka, Nhật Bản.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-18",
+          "no": 8,
+          "text": "When will Ms. Visweswaran give her presentation?",
+          "options": {
+            "A": "On November 10",
+            "B": "On November 11",
+            "C": "On November 12",
+            "D": "On November 13"
+          },
+          "answer": "A",
+          "explain": "Thư nói bài trình bày diễn ra trong opening day; hội nghị khai mạc ngày 10 tháng 11.",
+          "passage": {
+            "text": "Kyushu Technologies\nOctober 5\n\nMs. Chatura Visweswaran\nSenior Researcher\nSupertech Microelectronics\nMumbai, India\n\nDear Ms. Visweswaran,\n\nI appreciate the information you recently sent me about the laser technology conference in Mumbai from November 10 to 13. Due to a prior engagement, I will not be able to attend the conference myself. However, I will be sending three technicians from my division. I am sure that they will benefit greatly from this experience.\n\nThey will likely attend the second half of the conference, as the topics being covered in the first half are not applicable to our work here. This means that my technicians will be attending the conference on November 12 and 13.\n\nAfter scheduling the technicians for various workshops, I will contact you to set up a meeting between your project managers and my technicians on one of the two evenings. I hope they will be able to explore a potential collaboration on our upcoming project on memory recording devices (Project MRD-4).\n\nI hope your opening day presentation goes well and I look forward to reading the transcript as soon as it is available. Thank you again.\n\nKaori Inose\nLaser Mechanics Division\nKyushu Technologies\nFukuoka, Japan"
+          },
+          "vi": "Kyushu Technologies — ngày 5 tháng 10\n\nKính gửi bà Chatura Visweswaran, nghiên cứu viên cấp cao, Supertech Microelectronics, Mumbai, Ấn Độ,\n\nTôi cảm ơn bà về những thông tin gần đây bà gửi về hội nghị công nghệ laser tại Mumbai diễn ra từ ngày 10 đến 13 tháng 11. Vì đã có lịch hẹn từ trước, tôi không thể đích thân tham dự. Tuy nhiên, tôi sẽ cử ba kỹ thuật viên của bộ phận mình đến. Tôi tin họ sẽ thu được nhiều lợi ích từ trải nghiệm này.\n\nHọ có thể sẽ dự nửa sau hội nghị, vì những chủ đề trong nửa đầu không áp dụng được vào công việc của chúng tôi. Như vậy, các kỹ thuật viên sẽ tham dự vào ngày 12 và 13 tháng 11.\n\nSau khi xếp lịch các hội thảo chuyên đề cho họ, tôi sẽ liên hệ với bà để tổ chức một buổi gặp giữa các quản lý dự án của bà và kỹ thuật viên của tôi vào một trong hai buổi tối. Tôi hy vọng họ có thể tìm hiểu khả năng hợp tác trong dự án sắp tới của chúng tôi về thiết bị ghi bộ nhớ, Dự án MRD-4.\n\nTôi hy vọng bài thuyết trình của bà trong ngày khai mạc diễn ra tốt đẹp và mong được đọc bản chép nội dung ngay khi có. Xin cảm ơn bà lần nữa.\n\nKaori Inose\nBộ phận Cơ khí Laser, Kyushu Technologies, Fukuoka, Nhật Bản.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d13-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — a newspaper goes online",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d13-read-19",
+          "no": 9,
+          "text": "When did the Web site launch?",
+          "options": {
+            "A": "On June 3",
+            "B": "On June 4",
+            "C": "On July 26",
+            "D": "On July 27"
+          },
+          "answer": "A",
+          "explain": "Bài viết đề ngày 4 JUNE và nói trang ra mắt yesterday, nên ngày ra mắt là 3 tháng 6.",
+          "passage": {
+            "text": "4 JUNE — Readers of one of the largest business newspapers in Singapore can now access the paper on the Web. Shenton Way Gazette launched www.shentonwaygazette.com yesterday, and the Web site already has thousands of registered users.\n\n“We are extremely pleased to offer enterprise professionals an even more convenient way to keep themselves informed,” said the Gazette’s editor in chief, Nathan Wong, at a news conference immediately after the launch. The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small-business owners but is now distributed throughout the city.\n\nAlthough the Gazette will continue to be published and distributed Monday to Friday, some stories will be updated on the Web site several times a day. “Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for,” Mr. Wong said.\n\nEvery story on the site will have a form at the end through which readers can post comments or e-mail the writer directly. “We hope to make the site a hub for interaction,” said Mr. Wong. “As the city’s main business newspaper, we need to hear from Singaporean business professionals.”\n\nThe Gazette will be celebrating twenty years of publication on 27 July. A special print edition of the paper will contain a commemorative insert featuring a detailed time line of its history and accompanying photos of the central business district through the years. The paper’s online archives are also scheduled to open that day, granting readers access to every article since the inception of the Gazette."
+          },
+          "vi": "Ngày 4 tháng 6 — Độc giả của một trong những tờ báo kinh doanh lớn nhất Singapore nay có thể đọc báo trên mạng. Shenton Way Gazette đã ra mắt www.shentonwaygazette.com hôm qua và trang web đã có hàng nghìn người dùng đăng ký.\n\n“Chúng tôi rất vui khi cung cấp cho giới chuyên môn trong doanh nghiệp một cách thuận tiện hơn nữa để cập nhật thông tin”, Tổng biên tập Nathan Wong phát biểu tại buổi họp báo ngay sau lễ ra mắt. Gazette đưa tin kinh doanh trong nước và quốc tế, khởi đầu là một tờ báo miễn phí hướng đến chủ doanh nghiệp nhỏ địa phương nhưng nay được phân phối trên khắp thành phố.\n\nDù Gazette vẫn được xuất bản và phân phối từ thứ Hai đến thứ Sáu, một số tin sẽ được cập nhật trên trang web vài lần mỗi ngày. Ông Wong cho biết độc giả có thể theo dõi trực tuyến những diễn biến mới nhất mà vẫn được thưởng thức những bài đưa tin chuyên sâu, toàn diện vốn làm nên danh tiếng của tờ báo.\n\nCuối mỗi bài viết trên trang sẽ có một biểu mẫu để người đọc bình luận hoặc gửi email trực tiếp cho tác giả. Ông Wong hy vọng trang web sẽ trở thành trung tâm tương tác và cho biết với vai trò tờ báo kinh doanh chủ lực của thành phố, báo cần lắng nghe giới chuyên môn kinh doanh Singapore.\n\nGazette sẽ kỷ niệm 20 năm xuất bản vào ngày 27 tháng 7. Một số báo in đặc biệt sẽ có phụ trương kỷ niệm, trình bày dòng thời gian chi tiết về lịch sử tờ báo cùng ảnh khu thương mại trung tâm qua các năm. Kho lưu trữ trực tuyến cũng dự kiến khai trương ngày đó, cho phép độc giả truy cập mọi bài viết từ khi Gazette ra đời.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-20",
+          "no": 10,
+          "text": "What is indicated about the regular print edition of the Gazette?",
+          "options": {
+            "A": "It is printed every day of the week.",
+            "B": "It contains color photographs.",
+            "C": "It covers national events.",
+            "D": "It is distributed internationally."
+          },
+          "answer": "C",
+          "explain": "Báo đưa tin kinh doanh trong nước và quốc tế; bản in chỉ phát hành thứ Hai đến thứ Sáu và phân phối trong thành phố.",
+          "passage": {
+            "text": "4 JUNE — Readers of one of the largest business newspapers in Singapore can now access the paper on the Web. Shenton Way Gazette launched www.shentonwaygazette.com yesterday, and the Web site already has thousands of registered users.\n\n“We are extremely pleased to offer enterprise professionals an even more convenient way to keep themselves informed,” said the Gazette’s editor in chief, Nathan Wong, at a news conference immediately after the launch. The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small-business owners but is now distributed throughout the city.\n\nAlthough the Gazette will continue to be published and distributed Monday to Friday, some stories will be updated on the Web site several times a day. “Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for,” Mr. Wong said.\n\nEvery story on the site will have a form at the end through which readers can post comments or e-mail the writer directly. “We hope to make the site a hub for interaction,” said Mr. Wong. “As the city’s main business newspaper, we need to hear from Singaporean business professionals.”\n\nThe Gazette will be celebrating twenty years of publication on 27 July. A special print edition of the paper will contain a commemorative insert featuring a detailed time line of its history and accompanying photos of the central business district through the years. The paper’s online archives are also scheduled to open that day, granting readers access to every article since the inception of the Gazette."
+          },
+          "vi": "Ngày 4 tháng 6 — Độc giả của một trong những tờ báo kinh doanh lớn nhất Singapore nay có thể đọc báo trên mạng. Shenton Way Gazette đã ra mắt www.shentonwaygazette.com hôm qua và trang web đã có hàng nghìn người dùng đăng ký.\n\n“Chúng tôi rất vui khi cung cấp cho giới chuyên môn trong doanh nghiệp một cách thuận tiện hơn nữa để cập nhật thông tin”, Tổng biên tập Nathan Wong phát biểu tại buổi họp báo ngay sau lễ ra mắt. Gazette đưa tin kinh doanh trong nước và quốc tế, khởi đầu là một tờ báo miễn phí hướng đến chủ doanh nghiệp nhỏ địa phương nhưng nay được phân phối trên khắp thành phố.\n\nDù Gazette vẫn được xuất bản và phân phối từ thứ Hai đến thứ Sáu, một số tin sẽ được cập nhật trên trang web vài lần mỗi ngày. Ông Wong cho biết độc giả có thể theo dõi trực tuyến những diễn biến mới nhất mà vẫn được thưởng thức những bài đưa tin chuyên sâu, toàn diện vốn làm nên danh tiếng của tờ báo.\n\nCuối mỗi bài viết trên trang sẽ có một biểu mẫu để người đọc bình luận hoặc gửi email trực tiếp cho tác giả. Ông Wong hy vọng trang web sẽ trở thành trung tâm tương tác và cho biết với vai trò tờ báo kinh doanh chủ lực của thành phố, báo cần lắng nghe giới chuyên môn kinh doanh Singapore.\n\nGazette sẽ kỷ niệm 20 năm xuất bản vào ngày 27 tháng 7. Một số báo in đặc biệt sẽ có phụ trương kỷ niệm, trình bày dòng thời gian chi tiết về lịch sử tờ báo cùng ảnh khu thương mại trung tâm qua các năm. Kho lưu trữ trực tuyến cũng dự kiến khai trương ngày đó, cho phép độc giả truy cập mọi bài viết từ khi Gazette ra đời.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-21",
+          "no": 11,
+          "text": "According to the article, how can readers use the Web site?",
+          "options": {
+            "A": "To place an advertisement",
+            "B": "To join a mailing list",
+            "C": "To contact reporters",
+            "D": "To e-mail articles"
+          },
+          "answer": "C",
+          "explain": "Biểu mẫu cuối bài cho phép người đọc gửi email trực tiếp cho tác giả.",
+          "passage": {
+            "text": "4 JUNE — Readers of one of the largest business newspapers in Singapore can now access the paper on the Web. Shenton Way Gazette launched www.shentonwaygazette.com yesterday, and the Web site already has thousands of registered users.\n\n“We are extremely pleased to offer enterprise professionals an even more convenient way to keep themselves informed,” said the Gazette’s editor in chief, Nathan Wong, at a news conference immediately after the launch. The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small-business owners but is now distributed throughout the city.\n\nAlthough the Gazette will continue to be published and distributed Monday to Friday, some stories will be updated on the Web site several times a day. “Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for,” Mr. Wong said.\n\nEvery story on the site will have a form at the end through which readers can post comments or e-mail the writer directly. “We hope to make the site a hub for interaction,” said Mr. Wong. “As the city’s main business newspaper, we need to hear from Singaporean business professionals.”\n\nThe Gazette will be celebrating twenty years of publication on 27 July. A special print edition of the paper will contain a commemorative insert featuring a detailed time line of its history and accompanying photos of the central business district through the years. The paper’s online archives are also scheduled to open that day, granting readers access to every article since the inception of the Gazette."
+          },
+          "vi": "Ngày 4 tháng 6 — Độc giả của một trong những tờ báo kinh doanh lớn nhất Singapore nay có thể đọc báo trên mạng. Shenton Way Gazette đã ra mắt www.shentonwaygazette.com hôm qua và trang web đã có hàng nghìn người dùng đăng ký.\n\n“Chúng tôi rất vui khi cung cấp cho giới chuyên môn trong doanh nghiệp một cách thuận tiện hơn nữa để cập nhật thông tin”, Tổng biên tập Nathan Wong phát biểu tại buổi họp báo ngay sau lễ ra mắt. Gazette đưa tin kinh doanh trong nước và quốc tế, khởi đầu là một tờ báo miễn phí hướng đến chủ doanh nghiệp nhỏ địa phương nhưng nay được phân phối trên khắp thành phố.\n\nDù Gazette vẫn được xuất bản và phân phối từ thứ Hai đến thứ Sáu, một số tin sẽ được cập nhật trên trang web vài lần mỗi ngày. Ông Wong cho biết độc giả có thể theo dõi trực tuyến những diễn biến mới nhất mà vẫn được thưởng thức những bài đưa tin chuyên sâu, toàn diện vốn làm nên danh tiếng của tờ báo.\n\nCuối mỗi bài viết trên trang sẽ có một biểu mẫu để người đọc bình luận hoặc gửi email trực tiếp cho tác giả. Ông Wong hy vọng trang web sẽ trở thành trung tâm tương tác và cho biết với vai trò tờ báo kinh doanh chủ lực của thành phố, báo cần lắng nghe giới chuyên môn kinh doanh Singapore.\n\nGazette sẽ kỷ niệm 20 năm xuất bản vào ngày 27 tháng 7. Một số báo in đặc biệt sẽ có phụ trương kỷ niệm, trình bày dòng thời gian chi tiết về lịch sử tờ báo cùng ảnh khu thương mại trung tâm qua các năm. Kho lưu trữ trực tuyến cũng dự kiến khai trương ngày đó, cho phép độc giả truy cập mọi bài viết từ khi Gazette ra đời.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d13-read-22",
+          "no": 12,
+          "text": "The word “granting” is closest in meaning to",
+          "options": {
+            "A": "transferring",
+            "B": "permitting",
+            "C": "acknowledging",
+            "D": "naming"
+          },
+          "answer": "B",
+          "explain": "Granting readers access nghĩa là cho phép người đọc truy cập; granting gần nghĩa permitting.",
+          "passage": {
+            "text": "4 JUNE — Readers of one of the largest business newspapers in Singapore can now access the paper on the Web. Shenton Way Gazette launched www.shentonwaygazette.com yesterday, and the Web site already has thousands of registered users.\n\n“We are extremely pleased to offer enterprise professionals an even more convenient way to keep themselves informed,” said the Gazette’s editor in chief, Nathan Wong, at a news conference immediately after the launch. The Gazette, which reports on national and international business news, began as a free newspaper geared toward local small-business owners but is now distributed throughout the city.\n\nAlthough the Gazette will continue to be published and distributed Monday to Friday, some stories will be updated on the Web site several times a day. “Readers will be able to stay up-to-date on the latest happenings online while still enjoying the in-depth comprehensive reporting the paper is famous for,” Mr. Wong said.\n\nEvery story on the site will have a form at the end through which readers can post comments or e-mail the writer directly. “We hope to make the site a hub for interaction,” said Mr. Wong. “As the city’s main business newspaper, we need to hear from Singaporean business professionals.”\n\nThe Gazette will be celebrating twenty years of publication on 27 July. A special print edition of the paper will contain a commemorative insert featuring a detailed time line of its history and accompanying photos of the central business district through the years. The paper’s online archives are also scheduled to open that day, granting readers access to every article since the inception of the Gazette."
+          },
+          "vi": "Ngày 4 tháng 6 — Độc giả của một trong những tờ báo kinh doanh lớn nhất Singapore nay có thể đọc báo trên mạng. Shenton Way Gazette đã ra mắt www.shentonwaygazette.com hôm qua và trang web đã có hàng nghìn người dùng đăng ký.\n\n“Chúng tôi rất vui khi cung cấp cho giới chuyên môn trong doanh nghiệp một cách thuận tiện hơn nữa để cập nhật thông tin”, Tổng biên tập Nathan Wong phát biểu tại buổi họp báo ngay sau lễ ra mắt. Gazette đưa tin kinh doanh trong nước và quốc tế, khởi đầu là một tờ báo miễn phí hướng đến chủ doanh nghiệp nhỏ địa phương nhưng nay được phân phối trên khắp thành phố.\n\nDù Gazette vẫn được xuất bản và phân phối từ thứ Hai đến thứ Sáu, một số tin sẽ được cập nhật trên trang web vài lần mỗi ngày. Ông Wong cho biết độc giả có thể theo dõi trực tuyến những diễn biến mới nhất mà vẫn được thưởng thức những bài đưa tin chuyên sâu, toàn diện vốn làm nên danh tiếng của tờ báo.\n\nCuối mỗi bài viết trên trang sẽ có một biểu mẫu để người đọc bình luận hoặc gửi email trực tiếp cho tác giả. Ông Wong hy vọng trang web sẽ trở thành trung tâm tương tác và cho biết với vai trò tờ báo kinh doanh chủ lực của thành phố, báo cần lắng nghe giới chuyên môn kinh doanh Singapore.\n\nGazette sẽ kỷ niệm 20 năm xuất bản vào ngày 27 tháng 7. Một số báo in đặc biệt sẽ có phụ trương kỷ niệm, trình bày dòng thời gian chi tiết về lịch sử tờ báo cùng ảnh khu thương mại trung tâm qua các năm. Kho lưu trữ trực tuyến cũng dự kiến khai trương ngày đó, cho phép độc giả truy cập mọi bài viết từ khi Gazette ra đời.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

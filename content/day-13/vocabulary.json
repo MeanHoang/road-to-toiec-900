@@ -1,0 +1,1206 @@
+{
+  "collection": "vocabulary",
+  "day": "day-13",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d13-v01",
+      "no": 1,
+      "word": "manufacturer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌmænjuˈfæktʃərə/",
+        "us": "/ˌmænjuˈfæktʃərər/"
+      },
+      "meaningVi": "nhà sản xuất",
+      "image": null,
+      "example": {
+        "en": "The manufacturer is launching a new range of footwear."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v01-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v02",
+      "no": 2,
+      "word": "adhere",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ədˈhɪə/",
+        "us": "/ədˈhɪr/"
+      },
+      "meaningVi": "tuân thủ, tuân theo",
+      "image": null,
+      "example": {
+        "en": "All advertisers must adhere to the rules."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v02-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v03",
+      "no": 3,
+      "word": "publication",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌpʌblɪˈkeɪʃən/",
+        "us": "/ˌpʌblɪˈkeɪʃən/"
+      },
+      "meaningVi": "ấn phẩm; sự xuất bản, công bố",
+      "image": null,
+      "example": {
+        "en": "The book is scheduled for publication in the autumn."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v03-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v04",
+      "no": 4,
+      "word": "platform",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈplætfɔːm/",
+        "us": "/ˈplætfɔːrm/"
+      },
+      "meaningVi": "nền tảng; sân ga",
+      "image": null,
+      "example": {
+        "en": "The company advertises on social media platforms."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v04-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v05",
+      "no": 5,
+      "word": "market share",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌmɑːkɪt ˈʃeə/",
+        "us": "/ˌmɑːrkɪt ˈʃer/"
+      },
+      "meaningVi": "thị phần",
+      "image": null,
+      "example": {
+        "en": "The company has a fifteen percent market share."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v05-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v06",
+      "no": 6,
+      "word": "breakthrough",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbreɪkθruː/",
+        "us": "/ˈbreɪkθruː/"
+      },
+      "meaningVi": "bước đột phá",
+      "image": null,
+      "example": {
+        "en": "The new technology represents a major breakthrough."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v06-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v07",
+      "no": 7,
+      "word": "dominate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈdɒmɪneɪt/",
+        "us": "/ˈdɑːmɪneɪt/"
+      },
+      "meaningVi": "thống lĩnh, thống trị, chiếm ưu thế",
+      "image": null,
+      "example": {
+        "en": "Two companies dominate the advertising market."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v07-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v08",
+      "no": 8,
+      "word": "demographic",
+      "pos": "n, adj",
+      "ipa": {
+        "uk": "/ˌdeməˈɡræfɪk/",
+        "us": "/ˌdeməˈɡræfɪk/"
+      },
+      "meaningVi": "nhóm dân số; thuộc nhân khẩu học",
+      "image": null,
+      "example": {
+        "en": "The campaign targets a younger demographic."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v08-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v09",
+      "no": 9,
+      "word": "expand",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪkˈspænd/",
+        "us": "/ɪkˈspænd/"
+      },
+      "meaningVi": "mở rộng",
+      "image": null,
+      "example": {
+        "en": "The company plans to expand its market share."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v09-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v10",
+      "no": 10,
+      "word": "browse",
+      "pos": "v",
+      "ipa": {
+        "uk": "/braʊz/",
+        "us": "/braʊz/"
+      },
+      "meaningVi": "xem qua, lướt qua",
+      "image": null,
+      "example": {
+        "en": "Customers can browse the product catalogue online."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v10-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v11",
+      "no": 11,
+      "word": "billboard",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbɪlbɔːd/",
+        "us": "/ˈbɪlbɔːrd/"
+      },
+      "meaningVi": "biển quảng cáo lớn",
+      "image": null,
+      "example": {
+        "en": "The advertisement appeared on a billboard near the station."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v11-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v12",
+      "no": 12,
+      "word": "sponsorship",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈspɒnsəʃɪp/",
+        "us": "/ˈspɑːnsərʃɪp/"
+      },
+      "meaningVi": "sự tài trợ",
+      "image": null,
+      "example": {
+        "en": "The event received sponsorship from several local businesses."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v12-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v13",
+      "no": 13,
+      "word": "product placement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌprɒdʌkt ˈpleɪsmənt/",
+        "us": "/ˌprɑːdʌkt ˈpleɪsmənt/"
+      },
+      "meaningVi": "việc lồng ghép sản phẩm thương hiệu vào phim hoặc chương trình",
+      "image": null,
+      "example": {
+        "en": "Product placement in the television series increased sales."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v13-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v14",
+      "no": 14,
+      "word": "booklet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbʊklət/",
+        "us": "/ˈbʊklət/"
+      },
+      "meaningVi": "cuốn sách nhỏ, tập sách thông tin",
+      "image": null,
+      "example": {
+        "en": "Please read the instruction booklet before using the device."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v14-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v15",
+      "no": 15,
+      "word": "forbid",
+      "pos": "v",
+      "ipa": {
+        "uk": "/fəˈbɪd/",
+        "us": "/fərˈbɪd/"
+      },
+      "meaningVi": "cấm",
+      "image": null,
+      "example": {
+        "en": "Company rules forbid personal use of the equipment."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v15-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v16",
+      "no": 16,
+      "word": "forfeit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈfɔːfɪt/",
+        "us": "/ˈfɔːrfɪt/"
+      },
+      "meaningVi": "bị mất, bị tước; mất quyền nhận",
+      "image": null,
+      "example": {
+        "en": "If you cancel now, you will forfeit your deposit."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v16-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v17",
+      "no": 17,
+      "word": "launch",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/lɔːntʃ/",
+        "us": "/lɔːntʃ/"
+      },
+      "meaningVi": "ra mắt, tung ra; sự ra mắt",
+      "image": null,
+      "example": {
+        "en": "The firm will launch a new advertising campaign next month."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v17-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v18",
+      "no": 18,
+      "word": "indicate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɪndɪkeɪt/",
+        "us": "/ˈɪndɪkeɪt/"
+      },
+      "meaningVi": "chỉ ra, cho thấy",
+      "image": null,
+      "example": {
+        "en": "The survey results indicate a rise in customer satisfaction."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v18-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v19",
+      "no": 19,
+      "word": "assure",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈʃʊə/",
+        "us": "/əˈʃʊr/"
+      },
+      "meaningVi": "cam đoan, đảm bảo với ai",
+      "image": null,
+      "example": {
+        "en": "The manager assured us that the campaign would be successful."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v19-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v20",
+      "no": 20,
+      "word": "react",
+      "pos": "v",
+      "ipa": {
+        "uk": "/riˈækt/",
+        "us": "/riˈækt/"
+      },
+      "meaningVi": "phản ứng, đáp lại",
+      "image": null,
+      "example": {
+        "en": "Customers reacted positively to the new packaging."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v20-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v21",
+      "no": 21,
+      "word": "undertake",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌʌndəˈteɪk/",
+        "us": "/ˌʌndərˈteɪk/"
+      },
+      "meaningVi": "thực hiện, đảm nhận",
+      "image": null,
+      "example": {
+        "en": "The company will undertake a review of its marketing strategy."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v21-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v22",
+      "no": 22,
+      "word": "foster",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈfɒstə/",
+        "us": "/ˈfɑːstər/"
+      },
+      "meaningVi": "nuôi dưỡng, thúc đẩy",
+      "image": null,
+      "example": {
+        "en": "The programme aims to foster innovation."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v22-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v23",
+      "no": 23,
+      "word": "affect",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈfekt/",
+        "us": "/əˈfekt/"
+      },
+      "meaningVi": "ảnh hưởng, tác động đến",
+      "image": null,
+      "example": {
+        "en": "The new rates will affect all consumers."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v23-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v24",
+      "no": 24,
+      "word": "impact",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈɪmpækt/",
+        "us": "/ˈɪmpækt/"
+      },
+      "meaningVi": "tác động, ảnh hưởng; tác động đến",
+      "image": null,
+      "example": {
+        "en": "The campaign had a positive impact on sales."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v24-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v25",
+      "no": 25,
+      "word": "raise",
+      "pos": "v",
+      "ipa": {
+        "uk": "/reɪz/",
+        "us": "/reɪz/"
+      },
+      "meaningVi": "nâng cao; nuôi dưỡng",
+      "image": null,
+      "example": {
+        "en": "The campaign will raise brand awareness."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v25-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v26",
+      "no": 26,
+      "word": "competitive",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kəmˈpetətɪv/",
+        "us": "/kəmˈpetətɪv/"
+      },
+      "meaningVi": "có tính cạnh tranh",
+      "image": null,
+      "example": {
+        "en": "Our company stays competitive in the global market."
+      },
+      "group": "Advertising and marketing — continuation",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v26-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v27",
+      "no": 27,
+      "word": "recognition",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌrekəɡˈnɪʃən/",
+        "us": "/ˌrekəɡˈnɪʃən/"
+      },
+      "meaningVi": "sự công nhận",
+      "image": null,
+      "example": {
+        "en": "The invitation was sent in recognition of the members’ generosity."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v27-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v28",
+      "no": 28,
+      "word": "commemorate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəˈmeməreɪt/",
+        "us": "/kəˈmeməreɪt/"
+      },
+      "meaningVi": "kỷ niệm, tưởng nhớ",
+      "image": null,
+      "example": {
+        "en": "A special edition will commemorate the newspaper’s anniversary."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v28-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v29",
+      "no": 29,
+      "word": "light refreshments",
+      "pos": "n",
+      "ipa": {
+        "uk": "/laɪt rɪˈfreʃmənts/",
+        "us": "/laɪt rɪˈfreʃmənts/"
+      },
+      "meaningVi": "đồ ăn nhẹ",
+      "image": null,
+      "example": {
+        "en": "Light refreshments will be served at the reception."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v29-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v30",
+      "no": 30,
+      "word": "contemporary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kənˈtemprəri/",
+        "us": "/kənˈtempəreri/"
+      },
+      "meaningVi": "đương đại, hiện đại",
+      "image": null,
+      "example": {
+        "en": "The museum is hosting an exhibition of contemporary art."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v30-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v31",
+      "no": 31,
+      "word": "restoration",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌrestəˈreɪʃən/",
+        "us": "/ˌrestəˈreɪʃən/"
+      },
+      "meaningVi": "sự khôi phục, trùng tu",
+      "image": null,
+      "example": {
+        "en": "He received an award for his restoration of the historic hotel."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v31-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v32",
+      "no": 32,
+      "word": "retire",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈtaɪə/",
+        "us": "/rɪˈtaɪr/"
+      },
+      "meaningVi": "nghỉ hưu",
+      "image": null,
+      "example": {
+        "en": "The former director retired in January."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v32-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v33",
+      "no": 33,
+      "word": "preservation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌprezəˈveɪʃən/",
+        "us": "/ˌprezərˈveɪʃən/"
+      },
+      "meaningVi": "sự bảo tồn",
+      "image": null,
+      "example": {
+        "en": "The firm specialises in historic preservation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v33-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v34",
+      "no": 34,
+      "word": "caterers",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/ˈkeɪtərəz/",
+        "us": "/ˈkeɪtərərz/"
+      },
+      "meaningVi": "nhà cung cấp dịch vụ ăn uống",
+      "image": null,
+      "example": {
+        "en": "Mr. Grant will obtain estimates from three caterers."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v34-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v35",
+      "no": 35,
+      "word": "expansion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪkˈspænʃən/",
+        "us": "/ɪkˈspænʃən/"
+      },
+      "meaningVi": "sự mở rộng",
+      "image": null,
+      "example": {
+        "en": "The museum recently completed an expansion of its collection."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v35-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v36",
+      "no": 36,
+      "word": "safety regulations",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈseɪfti ˌreɡjuˈleɪʃənz/",
+        "us": "/ˈseɪfti ˌreɡjuˈleɪʃənz/"
+      },
+      "meaningVi": "quy định an toàn",
+      "image": null,
+      "example": {
+        "en": "All visitors must follow the safety regulations."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v36-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v37",
+      "no": 37,
+      "word": "anecdotes",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/ˈænɪkdəʊts/",
+        "us": "/ˈænɪkdoʊts/"
+      },
+      "meaningVi": "chuyện vặt, giai thoại",
+      "image": null,
+      "example": {
+        "en": "The author tells amusing anecdotes about historical figures."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v37-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v38",
+      "no": 38,
+      "word": "engrossing",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɪnˈɡrəʊsɪŋ/",
+        "us": "/ɪnˈɡroʊsɪŋ/"
+      },
+      "meaningVi": "hấp dẫn, cuốn hút",
+      "image": null,
+      "example": {
+        "en": "Even new readers will find the book engrossing."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v38-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v39",
+      "no": 39,
+      "word": "prior",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈpraɪə/",
+        "us": "/ˈpraɪər/"
+      },
+      "meaningVi": "trước, ưu tiên",
+      "image": null,
+      "example": {
+        "en": "She cannot attend because of a prior engagement."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v39-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v40",
+      "no": 40,
+      "word": "applicable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈplɪkəbəl/",
+        "us": "/ˈæplɪkəbəl/"
+      },
+      "meaningVi": "có thể áp dụng được",
+      "image": null,
+      "example": {
+        "en": "The workshop topics are applicable to our work."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v40-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v41",
+      "no": 41,
+      "word": "collaboration",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kəˌlæbəˈreɪʃən/",
+        "us": "/kəˌlæbəˈreɪʃən/"
+      },
+      "meaningVi": "sự hợp tác",
+      "image": null,
+      "example": {
+        "en": "The two companies are exploring a potential collaboration."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v41-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v42",
+      "no": 42,
+      "word": "enterprise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈentəpraɪz/",
+        "us": "/ˈentərpraɪz/"
+      },
+      "meaningVi": "doanh nghiệp",
+      "image": null,
+      "example": {
+        "en": "The newspaper provides information for enterprise professionals."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v42-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v43",
+      "no": 43,
+      "word": "distribute",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈstrɪbjuːt/",
+        "us": "/dɪˈstrɪbjuːt/"
+      },
+      "meaningVi": "phân phối, phân phát",
+      "image": null,
+      "example": {
+        "en": "The newspaper is distributed throughout the city."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v43-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v44",
+      "no": 44,
+      "word": "inception",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈsepʃən/",
+        "us": "/ɪnˈsepʃən/"
+      },
+      "meaningVi": "sự khởi đầu",
+      "image": null,
+      "example": {
+        "en": "The archive contains every article since the newspaper’s inception."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v44-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v44-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "874a4d1d126b53f7b33134e747fae944cee629002af1ec7b7501c6658982f275"
+  }
+}
