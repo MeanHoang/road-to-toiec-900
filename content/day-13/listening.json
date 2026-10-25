@@ -249,7 +249,7 @@
             "Q": "When are you leaving for the meeting?",
             "A": "shortly after 1950",
             "B": "in about ten minutes",
-            "C": "itll be over at ten"
+            "C": "it'll be over at ten"
           },
           "transcriptVi": null,
           "source": {
@@ -286,7 +286,7 @@
           "transcript": {
             "Q": "When did we send the check?",
             "A": "last Friday",
-            "B": "yes, Ill check on it",
+            "B": "yes, I'll check on it",
             "C": "to the bank"
           },
           "transcriptVi": null,
@@ -361,9 +361,9 @@
           "answer": null,
           "transcript": {
             "Q": "When will he begin work on the report?",
-            "A": "hell report it to the manager.",
-            "B": "Its very important work",
-            "C": "hell start on it next week"
+            "A": "he'll report it to the manager.",
+            "B": "It's very important work",
+            "C": "he'll start on it next week"
           },
           "transcriptVi": null,
           "source": {
@@ -382,7 +382,7 @@
             "Q": "When did the copy machine break down?",
             "A": "it was repaired last week",
             "B": "it stopped working this morning",
-            "C": "Ill take those copies downstairs"
+            "C": "I'll take those copies downstairs"
           },
           "transcriptVi": null,
           "source": {
@@ -399,9 +399,9 @@
           "answer": null,
           "transcript": {
             "Q": "When did Jim receive the package?",
-            "A": "It wasnt a big package.",
+            "A": "It wasn't a big package.",
             "B": "It arrived yesterday",
-            "C": "hell mail it tomorrow"
+            "C": "he'll mail it tomorrow"
           },
           "transcriptVi": null,
           "source": {
@@ -418,9 +418,9 @@
           "answer": null,
           "transcript": {
             "Q": "When can I see Dr.park?",
-            "A": "shell sit over here",
-            "B": "shell be in her office",
-            "C": "shell be free this afternoon"
+            "A": "she'll sit over here",
+            "B": "she'll be in her office",
+            "C": "she'll be free this afternoon"
           },
           "transcriptVi": null,
           "source": {
@@ -663,9 +663,9 @@
           "answer": null,
           "transcript": {
             "Q": "Where can I buy a newspaper?",
-            "A": "theres a news stand on the corner.",
-            "B": "the newspapers on the step",
-            "C": "thats old paper"
+            "A": "there's a news stand on the corner.",
+            "B": "the newspaper's on the step",
+            "C": "that's old paper"
           },
           "transcriptVi": null,
           "source": {
@@ -702,8 +702,8 @@
           "transcript": {
             "Q": "Where do you live?",
             "A": "just across the street from the park",
-            "B": "Ill leave tomorrow",
-            "C": "No , Ive lived here only one month"
+            "B": "I'll leave tomorrow",
+            "C": "No , I've lived here only one month"
           },
           "transcriptVi": null,
           "source": {
@@ -740,8 +740,8 @@
           "transcript": {
             "Q": "Where is a taxi stand?",
             "A": "you have to pay taxes",
-            "B": "theres one in front of the hotel",
-            "C": "I cant stand taxis"
+            "B": "there's one in front of the hotel",
+            "C": "I can't stand taxis"
           },
           "transcriptVi": null,
           "source": {
@@ -760,7 +760,7 @@
             "Q": "Where did you find your keys?",
             "A": "they were on my desk",
             "B": "yes , please",
-            "C": "he didnt kiss her"
+            "C": "he didn't kiss her"
           },
           "transcriptVi": null,
           "source": {
@@ -778,8 +778,8 @@
           "transcript": {
             "Q": "Where can I get a cup of coffee?",
             "A": "That cup is broken",
-            "B": "Shes still coughing",
-            "C": "Theres a cafeteria downstairs"
+            "B": "She's still coughing",
+            "C": "There's a cafeteria downstairs"
           },
           "transcriptVi": null,
           "source": {
@@ -798,7 +798,7 @@
             "Q": "Where did they go last night?",
             "A": "It was there last night in town",
             "B": "They went to the movies",
-            "C": "Its the last room on the right"
+            "C": "It's the last room on the right"
           },
           "transcriptVi": null,
           "source": {
@@ -815,8 +815,8 @@
           "answer": null,
           "transcript": {
             "Q": "Where did he park the car?",
-            "A": "the park isnt far",
-            "B": "Its a dark colored-car",
+            "A": "the park isn't far",
+            "B": "It's a dark colored-car",
             "C": "In the lot across the street"
           },
           "transcriptVi": null,
