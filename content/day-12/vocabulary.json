@@ -759,6 +759,492 @@
         "us": "/assets/day-12/voice-neural/d12-v28-us.mp3",
         "uk": "/assets/day-12/voice-neural/d12-v28-uk.mp3"
       }
+    },
+    {
+      "id": "d12-v29",
+      "no": 29,
+      "word": "established",
+      "pos": "adj",
+      "ipa": {
+        "us": "/ɪˈstæblɪʃt/",
+        "uk": "/ɪˈstæblɪʃt/"
+      },
+      "meaningVi": "đã được thành lập; có uy tín, vững chắc",
+      "example": {
+        "en": "The established company has served local customers for over fifty years."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v29-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v30",
+      "no": 30,
+      "word": "potential",
+      "pos": "adj, n",
+      "ipa": {
+        "us": "/pəˈtenʃəl/",
+        "uk": "/pəˈtenʃəl/"
+      },
+      "meaningVi": "tiềm năng; khả năng phát triển",
+      "example": {
+        "en": "The new venture has the potential to create hundreds of jobs."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v30-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v31",
+      "no": 31,
+      "word": "venture",
+      "pos": "n, v",
+      "ipa": {
+        "us": "/ˈventʃər/",
+        "uk": "/ˈventʃə/"
+      },
+      "meaningVi": "dự án kinh doanh có rủi ro; mạo hiểm",
+      "example": {
+        "en": "The two companies launched a joint venture to develop new products."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v31-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v32",
+      "no": 32,
+      "word": "long-anticipated acquisition",
+      "pos": "phrase",
+      "ipa": {
+        "us": "/ˌlɔːŋ ænˈtɪsɪpeɪtɪd ˌækwɪˈzɪʃən/",
+        "uk": "/ˌlɒŋ ænˈtɪsɪpeɪtɪd ˌækwɪˈzɪʃən/"
+      },
+      "meaningVi": "thương vụ mua lại được mong đợi từ lâu",
+      "example": {
+        "en": "The company finally completed its long-anticipated acquisition of a smaller rival."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v32-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v33",
+      "no": 33,
+      "word": "controversy",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈkɑːntrəvɜːrsi/",
+        "uk": "/ˈkɒntrəvɜːsi/"
+      },
+      "meaningVi": "sự tranh cãi, cuộc tranh luận",
+      "example": {
+        "en": "The plan to demolish the old theater caused controversy among local residents."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v33-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v34",
+      "no": 34,
+      "word": "prominent",
+      "pos": "adj",
+      "ipa": {
+        "us": "/ˈprɑːmɪnənt/",
+        "uk": "/ˈprɒmɪnənt/"
+      },
+      "meaningVi": "nổi bật, nổi tiếng; quan trọng",
+      "example": {
+        "en": "A prominent architect was hired to restore the historic building."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v34-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v35",
+      "no": 35,
+      "word": "strive to retain",
+      "pos": "phrase",
+      "ipa": {
+        "us": "/straɪv tə rɪˈteɪn/",
+        "uk": "/straɪv tə rɪˈteɪn/"
+      },
+      "meaningVi": "nỗ lực giữ lại, cố gắng duy trì",
+      "example": {
+        "en": "The owners strive to retain the original character of the hotel."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v35-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v36",
+      "no": 36,
+      "word": "historic heritage",
+      "pos": "phrase",
+      "ipa": {
+        "us": "/hɪˈstɔːrɪk ˈherɪtɪdʒ/",
+        "uk": "/hɪˈstɒrɪk ˈherɪtɪdʒ/"
+      },
+      "meaningVi": "di sản lịch sử",
+      "example": {
+        "en": "The restoration project will help preserve the city’s historic heritage."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v36-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v37",
+      "no": 37,
+      "word": "neoclassic",
+      "pos": "adj",
+      "ipa": {
+        "us": "/ˌniːoʊˈklæsɪk/",
+        "uk": "/ˌniːəʊˈklæsɪk/"
+      },
+      "meaningVi": "thuộc phong cách tân cổ điển",
+      "example": {
+        "en": "The museum is housed in a neoclassic building with tall columns."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v37-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v38",
+      "no": 38,
+      "word": "diversifying",
+      "pos": "v (present participle)",
+      "ipa": {
+        "us": "/daɪˈvɜːrsɪfaɪɪŋ/",
+        "uk": "/daɪˈvɜːsɪfaɪɪŋ/"
+      },
+      "meaningVi": "đang đa dạng hóa (dạng V-ing của diversify)",
+      "example": {
+        "en": "The company is diversifying its product range to attract more customers."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v38-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v39",
+      "no": 39,
+      "word": "economy",
+      "pos": "n",
+      "ipa": {
+        "us": "/ɪˈkɑːnəmi/",
+        "uk": "/ɪˈkɒnəmi/"
+      },
+      "meaningVi": "nền kinh tế; sự tiết kiệm",
+      "example": {
+        "en": "Tourism plays an important role in the local economy."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v39-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v40",
+      "no": 40,
+      "word": "facility",
+      "pos": "n",
+      "ipa": {
+        "us": "/fəˈsɪləti/",
+        "uk": "/fəˈsɪləti/"
+      },
+      "meaningVi": "cơ sở, cơ sở vật chất; tiện ích",
+      "example": {
+        "en": "The company opened a new manufacturing facility near the port."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v40-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v41",
+      "no": 41,
+      "word": "pedestrians",
+      "pos": "n (plural)",
+      "ipa": {
+        "us": "/pəˈdestriənz/",
+        "uk": "/pəˈdestriənz/"
+      },
+      "meaningVi": "những người đi bộ (số nhiều của pedestrian)",
+      "example": {
+        "en": "Pedestrians are waiting to cross the street."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v41-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v42",
+      "no": 42,
+      "word": "tugboat",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈtʌɡboʊt/",
+        "uk": "/ˈtʌɡbəʊt/"
+      },
+      "meaningVi": "tàu kéo",
+      "example": {
+        "en": "A tugboat is guiding a large ship into the harbor."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v42-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v43",
+      "no": 43,
+      "word": "sheltering",
+      "pos": "v (present participle)",
+      "ipa": {
+        "us": "/ˈʃeltərɪŋ/",
+        "uk": "/ˈʃeltərɪŋ/"
+      },
+      "meaningVi": "đang trú ẩn, đang che chở (dạng V-ing của shelter)",
+      "example": {
+        "en": "Several people are sheltering from the rain under an awning."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v43-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v44",
+      "no": 44,
+      "word": "hose",
+      "pos": "n, v",
+      "ipa": {
+        "us": "/hoʊz/",
+        "uk": "/həʊz/"
+      },
+      "meaningVi": "ống mềm dẫn nước, vòi nước; xịt nước bằng vòi",
+      "example": {
+        "en": "A worker is using a hose to water the plants."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v44-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v45",
+      "no": 45,
+      "word": "napkin",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈnæpkɪn/",
+        "uk": "/ˈnæpkɪn/"
+      },
+      "meaningVi": "khăn ăn",
+      "example": {
+        "en": "The waiter placed a folded napkin beside each plate."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v45-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d12-v46",
+      "no": 46,
+      "word": "apron",
+      "pos": "n",
+      "ipa": {
+        "us": "/ˈeɪprən/",
+        "uk": "/ˈeɪprən/"
+      },
+      "meaningVi": "tạp dề",
+      "example": {
+        "en": "The chef is wearing an apron while preparing the meal."
+      },
+      "image": null,
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-12/voice-neural/d12-v46-us.mp3",
+        "uk": "/assets/day-12/voice-neural/d12-v46-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -769,6 +1255,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "97491e576efc64b1858cb26f0e26439fab5bc770d8a4a6e35cf157304cd3f1ed"
+    "textHash": "07e215ad87d34ec141df481c39a81ff9a6762164fc4958159fee4eccd0532c62"
   }
 }
