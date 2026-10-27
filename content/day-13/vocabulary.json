@@ -1191,6 +1191,1005 @@
         "us": "/assets/day-13/voice-neural/d13-v44-us.mp3",
         "uk": "/assets/day-13/voice-neural/d13-v44-uk.mp3"
       }
+    },
+    {
+      "id": "d13-v45",
+      "no": 45,
+      "word": "generosity",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌdʒenəˈrɒsəti/",
+        "us": "/ˌdʒenəˈrɑːsəti/"
+      },
+      "meaningVi": "sự hào phóng, lòng rộng lượng",
+      "image": null,
+      "example": {
+        "en": "The charity thanked its donors for their generosity."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v45-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v46",
+      "no": 46,
+      "word": "occasion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈkeɪʒən/",
+        "us": "/əˈkeɪʒən/"
+      },
+      "meaningVi": "dịp, sự kiện; lần",
+      "image": null,
+      "example": {
+        "en": "A special reception was held to commemorate the occasion."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v46-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v47",
+      "no": 47,
+      "word": "speech",
+      "pos": "n",
+      "ipa": {
+        "uk": "/spiːtʃ/",
+        "us": "/spiːtʃ/"
+      },
+      "meaningVi": "bài phát biểu, bài diễn văn; lời nói, khả năng nói",
+      "image": null,
+      "example": {
+        "en": "The director gave a speech at the opening ceremony."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v47-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v48",
+      "no": 48,
+      "word": "landscape",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈlændskeɪp/",
+        "us": "/ˈlændskeɪp/"
+      },
+      "meaningVi": "phong cảnh, cảnh quan; tranh phong cảnh",
+      "image": null,
+      "example": {
+        "en": "The museum has a collection of landscape paintings."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v48-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v49",
+      "no": 49,
+      "word": "contribution",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkɒntrɪˈbjuːʃən/",
+        "us": "/ˌkɑːntrɪˈbjuːʃən/"
+      },
+      "meaningVi": "sự đóng góp; khoản đóng góp, tiền quyên góp",
+      "image": null,
+      "example": {
+        "en": "The foundation made a generous contribution to the museum."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v49-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v50",
+      "no": 50,
+      "word": "strategic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/strəˈtiːdʒɪk/",
+        "us": "/strəˈtiːdʒɪk/"
+      },
+      "meaningVi": "thuộc về chiến lược; mang tính chiến lược",
+      "image": null,
+      "example": {
+        "en": "The company developed a strategic plan to enter new markets."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v50-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v51",
+      "no": 51,
+      "word": "diverse",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/daɪˈvɜːs/",
+        "us": "/daɪˈvɜːrs/"
+      },
+      "meaningVi": "đa dạng, phong phú; khác nhau",
+      "image": null,
+      "example": {
+        "en": "The company offers a diverse range of products."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v51-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v51-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v52",
+      "no": 52,
+      "word": "probably",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ˈprɒbəbli/",
+        "us": "/ˈprɑːbəbli/"
+      },
+      "meaningVi": "có lẽ, có khả năng cao",
+      "image": null,
+      "example": {
+        "en": "The meeting will probably finish before noon."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v52-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v52-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v53",
+      "no": 53,
+      "word": "prestigious",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/preˈstɪdʒəs/",
+        "us": "/preˈstɪdʒəs/"
+      },
+      "meaningVi": "danh giá, có uy tín",
+      "image": null,
+      "example": {
+        "en": "The architect received a prestigious award for her design."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v53-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v54",
+      "no": 54,
+      "word": "former director",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/ˈfɔːmə dəˈrektə/",
+        "us": "/ˈfɔːrmər dəˈrektər/"
+      },
+      "meaningVi": "cựu giám đốc, giám đốc trước đây",
+      "image": null,
+      "example": {
+        "en": "The former director was invited to speak at the opening ceremony."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v54-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v55",
+      "no": 55,
+      "word": "facilities director",
+      "pos": "n phrase",
+      "ipa": {
+        "uk": "/fəˈsɪlətiz dəˈrektə/",
+        "us": "/fəˈsɪlətiz dəˈrektər/"
+      },
+      "meaningVi": "giám đốc quản lý cơ sở vật chất",
+      "image": null,
+      "example": {
+        "en": "The facilities director oversees the maintenance of the museum building."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v55-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v56",
+      "no": 56,
+      "word": "curator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kjʊəˈreɪtə/",
+        "us": "/kjʊˈreɪtər/"
+      },
+      "meaningVi": "người phụ trách bảo tàng hoặc bộ sưu tập; giám tuyển",
+      "image": null,
+      "example": {
+        "en": "The curator selected the paintings for the new exhibition."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v56-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v57",
+      "no": 57,
+      "word": "proposal",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈpəʊzəl/",
+        "us": "/prəˈpoʊzəl/"
+      },
+      "meaningVi": "đề xuất, bản đề xuất; lời cầu hôn",
+      "image": null,
+      "example": {
+        "en": "The board approved the proposal to expand the museum."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v57-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v57-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v58",
+      "no": 58,
+      "word": "proceeds",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/ˈprəʊsiːdz/",
+        "us": "/ˈproʊsiːdz/"
+      },
+      "meaningVi": "số tiền thu được (từ việc bán hàng hoặc một sự kiện)",
+      "image": null,
+      "example": {
+        "en": "All proceeds from the event will be donated to charity."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v58-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v59",
+      "no": 59,
+      "word": "banquet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbæŋkwɪt/",
+        "us": "/ˈbæŋkwɪt/"
+      },
+      "meaningVi": "yến tiệc, tiệc chiêu đãi trang trọng",
+      "image": null,
+      "example": {
+        "en": "The company held a banquet to celebrate its anniversary."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v59-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v60",
+      "no": 60,
+      "word": "supervised",
+      "pos": "v (past, past participle), adj",
+      "ipa": {
+        "uk": "/ˈsuːpəvaɪzd/",
+        "us": "/ˈsuːpərvaɪzd/"
+      },
+      "meaningVi": "đã giám sát; được giám sát (dạng quá khứ và quá khứ phân từ của supervise)",
+      "image": null,
+      "example": {
+        "en": "The facilities director supervised the renovation of the museum."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v60-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v60-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v61",
+      "no": 61,
+      "word": "concise",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kənˈsaɪs/",
+        "us": "/kənˈsaɪs/"
+      },
+      "meaningVi": "ngắn gọn, súc tích",
+      "image": null,
+      "example": {
+        "en": "Please provide a concise summary of the proposal."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v61-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v61-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v62",
+      "no": 62,
+      "word": "ancient",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈeɪnʃənt/",
+        "us": "/ˈeɪnʃənt/"
+      },
+      "meaningVi": "cổ đại; rất cổ, có từ lâu đời",
+      "image": null,
+      "example": {
+        "en": "The museum displays artifacts from ancient civilizations."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v62-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v62-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v63",
+      "no": 63,
+      "word": "particularly",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/pəˈtɪkjələli/",
+        "us": "/pərˈtɪkjələrli/"
+      },
+      "meaningVi": "đặc biệt, nhất là",
+      "image": null,
+      "example": {
+        "en": "The curator was particularly interested in ancient paintings."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v63-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v63-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v64",
+      "no": 64,
+      "word": "amusing",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈmjuːzɪŋ/",
+        "us": "/əˈmjuːzɪŋ/"
+      },
+      "meaningVi": "vui nhộn, buồn cười, gây thích thú",
+      "image": null,
+      "example": {
+        "en": "The speaker told an amusing story during the banquet."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v64-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v64-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v65",
+      "no": 65,
+      "word": "journalist",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdʒɜːnəlɪst/",
+        "us": "/ˈdʒɜːrnəlɪst/"
+      },
+      "meaningVi": "nhà báo, phóng viên",
+      "image": null,
+      "example": {
+        "en": "The journalist interviewed the museum director about the new exhibition."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v65-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v65-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v66",
+      "no": 66,
+      "word": "vacant",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈveɪkənt/",
+        "us": "/ˈveɪkənt/"
+      },
+      "meaningVi": "trống, bỏ trống; (vị trí công việc) còn khuyết",
+      "image": null,
+      "example": {
+        "en": "There are several vacant offices on the second floor."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v66-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v66-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v67",
+      "no": 67,
+      "word": "dull",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/dʌl/",
+        "us": "/dʌl/"
+      },
+      "meaningVi": "tẻ nhạt, buồn chán; xỉn màu; cùn",
+      "image": null,
+      "example": {
+        "en": "The presentation was dull and failed to hold the audience's attention."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v67-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v67-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v68",
+      "no": 68,
+      "word": "humorous",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈhjuːmərəs/",
+        "us": "/ˈhjuːmərəs/"
+      },
+      "meaningVi": "hài hước, dí dỏm",
+      "image": null,
+      "example": {
+        "en": "The journalist wrote a humorous article about office life."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v68-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v68-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v69",
+      "no": 69,
+      "word": "arid",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈærɪd/",
+        "us": "/ˈærɪd/"
+      },
+      "meaningVi": "khô cằn, khô hạn; (văn phong, chủ đề) khô khan",
+      "image": null,
+      "example": {
+        "en": "Very few plants can survive in this arid region."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v69-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v69-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v70",
+      "no": 70,
+      "word": "appeal",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/əˈpiːl/",
+        "us": "/əˈpiːl/"
+      },
+      "meaningVi": "(n) sức hấp dẫn; lời kêu gọi; sự kháng cáo; (v) hấp dẫn, thu hút (appeal to); kêu gọi; kháng cáo",
+      "image": null,
+      "example": {
+        "en": "The new exhibition will appeal to visitors of all ages."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v70-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v70-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v71",
+      "no": 71,
+      "word": "appreciate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈpriːʃieɪt/",
+        "us": "/əˈpriːʃieɪt/"
+      },
+      "meaningVi": "trân trọng, biết ơn; đánh giá cao; hiểu rõ; tăng giá trị",
+      "image": null,
+      "example": {
+        "en": "We appreciate your generous contribution to the museum."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v71-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v71-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v72",
+      "no": 72,
+      "word": "obligation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɒblɪˈɡeɪʃən/",
+        "us": "/ˌɑːblɪˈɡeɪʃən/"
+      },
+      "meaningVi": "nghĩa vụ, bổn phận; sự bắt buộc",
+      "image": null,
+      "example": {
+        "en": "The company has an obligation to protect customer information."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v72-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v72-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v73",
+      "no": 73,
+      "word": "encounter",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ɪnˈkaʊntə/",
+        "us": "/ɪnˈkaʊntər/"
+      },
+      "meaningVi": "(v) gặp, tình cờ gặp; gặp phải (khó khăn); (n) cuộc gặp gỡ, cuộc chạm trán",
+      "image": null,
+      "example": {
+        "en": "Please contact support if you encounter any difficulties."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v73-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v73-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v74",
+      "no": 74,
+      "word": "purpose",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɜːpəs/",
+        "us": "/ˈpɜːrpəs/"
+      },
+      "meaningVi": "mục đích, ý định; công dụng",
+      "image": null,
+      "example": {
+        "en": "The purpose of the meeting is to discuss the new proposal."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v74-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v74-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v75",
+      "no": 75,
+      "word": "conduct",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "(v) /kənˈdʌkt/; (n) /ˈkɒndʌkt/",
+        "us": "(v) /kənˈdʌkt/; (n) /ˈkɑːndʌkt/"
+      },
+      "meaningVi": "(v) tiến hành, thực hiện; chỉ huy (dàn nhạc); dẫn (điện, nhiệt); (n) hành vi, cách cư xử",
+      "image": null,
+      "example": {
+        "en": "The company will conduct a survey to gather customer feedback."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v75-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v75-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v76",
+      "no": 76,
+      "word": "knob",
+      "pos": "n",
+      "ipa": {
+        "uk": "/nɒb/",
+        "us": "/nɑːb/"
+      },
+      "meaningVi": "núm cửa, tay nắm tròn; núm vặn điều chỉnh",
+      "image": null,
+      "example": {
+        "en": "Turn the knob clockwise to adjust the volume."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v76-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v76-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v77",
+      "no": 77,
+      "word": "chin",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tʃɪn/",
+        "us": "/tʃɪn/"
+      },
+      "meaningVi": "cằm",
+      "image": null,
+      "example": {
+        "en": "The man is resting his chin on his hand."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v77-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v77-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v78",
+      "no": 78,
+      "word": "bending",
+      "pos": "v (-ing)",
+      "ipa": {
+        "uk": "/ˈbendɪŋ/",
+        "us": "/ˈbendɪŋ/"
+      },
+      "meaningVi": "cúi, gập, uốn cong (dạng -ing của bend)",
+      "image": null,
+      "example": {
+        "en": "The man is bending down to pick up a box."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v78-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v78-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v79",
+      "no": 79,
+      "word": "unoccupied",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌʌnˈɒkjʊpaɪd/",
+        "us": "/ˌʌnˈɑːkjəpaɪd/"
+      },
+      "meaningVi": "không có người ở hoặc sử dụng; còn trống",
+      "image": null,
+      "example": {
+        "en": "Several seats near the window are unoccupied."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v79-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v79-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v80",
+      "no": 80,
+      "word": "deserted",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/dɪˈzɜːtɪd/",
+        "us": "/dɪˈzɜːrtɪd/"
+      },
+      "meaningVi": "vắng tanh, không có người; bị bỏ hoang",
+      "image": null,
+      "example": {
+        "en": "The streets were deserted early in the morning."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v80-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v80-uk.mp3"
+      }
+    },
+    {
+      "id": "d13-v81",
+      "no": 81,
+      "word": "merger",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmɜːdʒə/",
+        "us": "/ˈmɜːrdʒər/"
+      },
+      "meaningVi": "sự sáp nhập, sự hợp nhất (các công ty hoặc tổ chức)",
+      "image": null,
+      "example": {
+        "en": "The merger between the two companies will create new business opportunities."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-13/voice-neural/d13-v81-us.mp3",
+        "uk": "/assets/day-13/voice-neural/d13-v81-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -1201,6 +2200,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "874a4d1d126b53f7b33134e747fae944cee629002af1ec7b7501c6658982f275"
+    "textHash": "4ca474b6a554776d345592a14547db51b6cbeddcf62f9f97af8ac4e4224ffda8"
   }
 }
