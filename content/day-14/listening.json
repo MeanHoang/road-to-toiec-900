@@ -1,0 +1,2350 @@
+{
+  "collection": "listening",
+  "day": "day-14",
+  "title": "Listening practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d14-photos",
+      "code": "photos",
+      "title": "Part 1 — photo dictation",
+      "subtitle": "Listen and transcribe all four statements for each photograph.",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": true,
+      "fullAudio": "/assets/day-14/audio/part 1.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d14-photos-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/photos/01.mp3",
+          "image": "/assets/day-14/images/photos/01.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "He is reading a book.",
+            "B": "He has placed his bag at his feet.",
+            "C": "He is removing his eyeglasses.",
+            "D": "He is sitting with his arms folded."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/photos/02.mp3",
+          "image": "/assets/day-14/images/photos/02.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "People are walking up some steps.",
+            "B": "An entryway is blocked with rocks.",
+            "C": "A man is pointing at the backpack.",
+            "D": "Flowers are in bloom around the stairs."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/photos/03.mp3",
+          "image": "/assets/day-14/images/photos/03.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "They are discarding some trash.",
+            "B": "They are standing near a garbage can.",
+            "C": "They are filling containers.",
+            "D": "They are greeting each other."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/photos/04.mp3",
+          "image": "/assets/day-14/images/photos/04.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some people are talking in groups.",
+            "B": "The people have gathered for a performance.",
+            "C": "Leaves are falling from trees.",
+            "D": "All the people are dressed alike."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/photos/05.mp3",
+          "image": "/assets/day-14/images/photos/05.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The man is swimming in the water.",
+            "B": "The man is leaning on the walking stick.",
+            "C": "The man is fishing at the water's edge.",
+            "D": "The river has overflowed to the banks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/photos/06.mp3",
+          "image": "/assets/day-14/images/photos/06.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "A map is posted on the bulletin board.",
+            "B": "The man is putting a map into a bag.",
+            "C": "A map is being examined.",
+            "D": "The man is wearing a long-sleeved shirt."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/photos/07.mp3",
+          "image": "/assets/day-14/images/photos/07.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The man is looking at the computer.",
+            "B": "The computer is turned off.",
+            "C": "The desk is being cleared.",
+            "D": "There is an empty chair at the desk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/photos/08.mp3",
+          "image": "/assets/day-14/images/photos/08.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "The clothing has drawn a woman's attention.",
+            "B": "The store is about to close up for the day.",
+            "C": "Some clothes are displayed on racks.",
+            "D": "The rack is being dusted."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/photos/09.mp3",
+          "image": "/assets/day-14/images/photos/09.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Some pedestrians are waiting at the crosswalk.",
+            "B": "Cars are waiting at a traffic light.",
+            "C": "People are walking across the street.",
+            "D": "Stripes on the road are being repainted."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d14-photos-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/photos/10.mp3",
+          "image": "/assets/day-14/images/photos/10.jpg",
+          "answer": null,
+          "transcript": {
+            "A": "Paint is being applied to the wall.",
+            "B": "The workers are standing on ladders.",
+            "C": "The people are working in the factory.",
+            "D": "Some people are mowing the lawn."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": null,
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-who-e",
+      "code": "who-e",
+      "title": "Part 2 — Who questions: practice E",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d14-who-e-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/who-e/n1e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who left the lights on?",
+            "A": "I'm sure It's dark outside",
+            "B": "we always leave them on",
+            "C": "John turned them off"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/who-e/n2e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who wrote this memo?",
+            "A": "the vice president",
+            "B": "she wrote a letter to me",
+            "C": "I had to memorize it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/who-e/n3e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's in charge of marketing?",
+            "A": "the market closes at 5p.m",
+            "B": "charge it to my account",
+            "C": "the new manager"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/who-e/n4e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who won the lottery?",
+            "A": "the secretary had the winning ticket.",
+            "B": "the salesperson wanted a lot",
+            "C": "he'll leave later tonight"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/who-e/n5e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who uses the corner office?",
+            "A": "it used to be on the corner",
+            "B": "it belongs to the office manager.",
+            "C": "yes , it's a big office"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/who-e/n6e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who repaired the copy machine?",
+            "A": "Robert fixed it",
+            "B": "I made some copies",
+            "C": "it's an old machine"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/who-e/n7e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who gave you this job?",
+            "A": "I really like my job",
+            "B": "he gave me some envelopes",
+            "C": "Mr.Roger hired me"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/who-e/n8e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who went to the meeting?",
+            "A": "It was an interesting meeting",
+            "B": "there wasn't enough seating",
+            "C": "most people from this office were there"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/who-e/n9e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who helped you on this project?",
+            "A": "he was very helpful",
+            "B": "Mr. Chang and Ms. Kim were my assistants",
+            "C": "it was a big project"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-e-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/who-e/n10e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who can make coffee?",
+            "A": "I take milk in my coffee",
+            "B": "I can't stop coughing",
+            "C": "I'll make you a cup"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d14-who-f",
+      "code": "who-f",
+      "title": "Part 2 — Who questions: practice F",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d14-who-f-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/who-f/n1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "who's making coffee?",
+            "A": "No thank you, I prefer tea",
+            "B": "I had a cup for breakfast",
+            "C": "I am. it'll be ready soon"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/who-f/n2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who designed this building?",
+            "A": "an architect designed it",
+            "B": "you can follow the signs",
+            "C": "I decided not to buy it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/who-f/n3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who typed this letter?",
+            "A": "my secretary was late",
+            "B": "the new secretary typed it",
+            "C": "I don't know what type it is?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/who-f/n4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's working in the mailroom?",
+            "A": "the mail is in my room",
+            "B": "the mail clerk is working there",
+            "C": "there isn't any room to work"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/who-f/n5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who is the new secretary?",
+            "A": "a secretarial school graduate",
+            "B": "the paper is full of news",
+            "C": "I have a new secretary"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/who-f/n6.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who took this phone message?",
+            "A": "the phone is over there",
+            "B": "john took it",
+            "C": "I have a phone book"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/who-f/n7 lo_i.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who uses this computer?",
+            "A": "it's a brand new computer",
+            "B": "it's Susan's computer",
+            "C": "it's next to the computer"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/who-f/n8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who sent you that email message?",
+            "A": "I mailed you a letter yesterday",
+            "B": "a stamp costs 45 cents",
+            "C": "the message was from my boss"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/who-f/n9 lo_i.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who will you meet in New York?",
+            "A": "I'll eat at a restaurant",
+            "B": "It will be a long meeting",
+            "C": "I'll see the director and her assistant"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-f-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/who-f/n10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who put this package on my desk?",
+            "A": "Mr.kim put it there",
+            "B": "your desk is next to the door",
+            "C": "I can mail it tomorrow"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d14-what-e",
+      "code": "what-e",
+      "title": "Part 2 — What questions: practice E",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d14-what-e-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/what-e/n1e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What is your name?",
+            "A": "I came at three",
+            "B": "Her name is Mary lee",
+            "C": "my name is Mary lee"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/what-e/n2e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did this desk cost?",
+            "A": "It was only 125$",
+            "B": "that's my desk",
+            "C": "the desk is next to the window"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/what-e/n3e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What are you doing for dinner?",
+            "A": "he's going to eat lunch at noon.",
+            "B": "I'm eating with a client",
+            "C": "I'm having dinner."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/what-e/n4e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What street is your office on?",
+            "A": "I work on thirteenth street",
+            "B": "My office is in suite 313.",
+            "C": "It's a quiet street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/what-e/n5e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did we order from the printer?",
+            "A": "five hundred envelopes and one thousand labels",
+            "B": "the order arrived late",
+            "C": "the printer costs 100 dollars"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/what-e/n6e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What will you wear to the ceremony?",
+            "A": "at 8 o'clock.",
+            "B": "an awards ceremony",
+            "C": "my new suit"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/what-e/n7e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What does Bob do for a living?",
+            "A": "he's a doctor",
+            "B": "he's leaving early",
+            "C": "he lives in a nice neighborhood"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/what-e/n8e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did you send to John?",
+            "A": "I lent him some money.",
+            "B": "I sent him a copy of the report",
+            "C": "I went there with him"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/what-e/n9e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What do you want that newspaper for?",
+            "A": "I got it at the news stand",
+            "B": "there's an article I want to read",
+            "C": "it's today's paper."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-e-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/what-e/n10e.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What's the best place to eat lunch?",
+            "A": "I usually don't eat much",
+            "B": "twelve-thirty is a good time",
+            "C": "there's a great restaurant across the street"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d14-what-f",
+      "code": "what-f",
+      "title": "Part 2 — What questions: practice F",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d14-what-f-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/what-f/n1.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "what did you have for lunch?",
+            "A": "at 12:30",
+            "B": "A tuna fish sandwich",
+            "C": "at the corner coffee shop"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/what-f/n2.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What is his occupation?",
+            "A": "he's a bookkeeper",
+            "B": "he uses public transportation",
+            "C": "this seat is occupied"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/what-f/n3.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did your doctor recommend?",
+            "A": "I highly recommend my doctor",
+            "B": "he suggested I go on a diet",
+            "C": "my daughter recommends this restaurant."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/what-f/n4.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What's in your briefcase?",
+            "A": "only some papers",
+            "B": "it's on the desk.",
+            "C": "it won't take long"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/what-f/n5.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What is the fastest way to go to the airport?",
+            "A": "the plane is on time.",
+            "B": "the airport is 40 miles from the city.",
+            "C": "at this hour, the subway is the fastest"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/what-f/n6 lo_i.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did you get at the bookstore?",
+            "A": "I bought some magazines",
+            "B": "I looked some more.",
+            "C": "I went to the store"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/what-f/n7.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did you see on TV?",
+            "A": "I got a new TV",
+            "B": "the picture is very clear",
+            "C": "I watched the news program"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/what-f/n8.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What will you do after work tonight?",
+            "A": "I work during the day",
+            "B": "I think I'll just go home",
+            "C": "I'll stay 2 nights"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/what-f/n9 lo_i.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What did you tell the manager?",
+            "A": "Mr. Matsui is the manager.",
+            "B": "I didn't sell my car",
+            "C": "I told him I would arrive later"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-f-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/what-f/n10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What's in that room?",
+            "A": "The copy machine is there.",
+            "B": "It's across the hall",
+            "C": "The room is too small"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": null
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d14-who-what-which",
+      "code": "who-what-which",
+      "title": "Part 2 — mixed Who, What and Which questions",
+      "subtitle": "Transcribe the question and three responses, then review the supplied answer key.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": "/assets/day-14/audio/whowhatwhich.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d14-who-what-which-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/who-what-which/01.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who extended the deadline for this project?",
+            "A": "By the end of today",
+            "B": "One of the vice presidents",
+            "C": "The design of our Website"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/who-what-which/02.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Which spaces are designated for visitor parking?",
+            "A": "Only for 2 hours",
+            "B": "It's alright, I'll take the bus",
+            "C": "The ones with yellow signs"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/who-what-which/03.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What shift are you working on Saturday?",
+            "A": "The morning one",
+            "B": "I can meet you there",
+            "C": "Yes, we booked it in April"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/who-what-which/04.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Who'd like to volunteer to be a tour guide?",
+            "A": "I've done it before",
+            "B": "That's very helpful",
+            "C": "2 weeks ago"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/who-what-which/05.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What's the best way to get to the airport?",
+            "A": "I'd take the train",
+            "B": "Yes, it's very good",
+            "C": "Next to the telephone"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/who-what-which/06.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who's going to meet our colleagues at the airport?",
+            "A": "Oh, did he?",
+            "B": "Their flight was canceled",
+            "C": "At gate 17, I think"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/who-what-which/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Which part of the factory am I working in today?",
+            "A": "The times are listed in the handbook",
+            "B": "I wish I'd thought of that",
+            "C": "Didn't your supervisor tell you?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/who-what-which/08.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What should I prepare for the sales workshop?",
+            "A": "A group of us went",
+            "B": "Didn't Elizabeth take care of everything",
+            "C": "That should be fine"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/who-what-which/09.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's involved in organizing the town festival?",
+            "A": "Admission and activities are free",
+            "B": "It's on Saturday morning",
+            "C": "Oh, are you interested in helping out?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/who-what-which/10.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Which film should we see?",
+            "A": "Three firms are interested",
+            "B": "It doesn't matter to me",
+            "C": "You're right, it was easy"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-11",
+          "no": 11,
+          "audio": "/assets/day-14/audio/who-what-which/11.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who chose the restaurant for the company banquet?",
+            "A": "Maybe once last year",
+            "B": "Someone from HR",
+            "C": "Next Friday evening"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-12",
+          "no": 12,
+          "audio": "/assets/day-14/audio/who-what-which/12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What time does the movie start tonight?",
+            "A": "We're moving on Saturday",
+            "B": "At 7 o'clock",
+            "C": "It was in the theater"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-13",
+          "no": 13,
+          "audio": "/assets/day-14/audio/who-what-which/13.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's exhibiting in the Central Art Gallery next month?",
+            "A": "Yes, it opens at 7 p.m",
+            "B": "My friend Aziz is coming too",
+            "C": "It's a group of young Japanese artists"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-14",
+          "no": 14,
+          "audio": "/assets/day-14/audio/who-what-which/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What should I do with the new promotional brochures?",
+            "A": "He was promoted to manager",
+            "B": "Send them to the customers on our mailing list",
+            "C": "Wear that old shirt"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-15",
+          "no": 15,
+          "audio": "/assets/day-14/audio/who-what-which/15.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Who was promoted in the sales department?",
+            "A": "I heard it was Adam Kim",
+            "B": "The sale goes until Tuesday",
+            "C": "Thank you very much"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-16",
+          "no": 16,
+          "audio": "/assets/day-14/audio/who-what-which/16.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Which department is on the 2nd floor?",
+            "A": "Customer service",
+            "B": "In the conference room",
+            "C": "He didn't arrive on time"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-17",
+          "no": 17,
+          "audio": "/assets/day-14/audio/who-what-which/17.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What do you think of this month's budget?",
+            "A": "Yes, this month",
+            "B": "Look like we need money",
+            "C": "Thanks, it was a gift"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-18",
+          "no": 18,
+          "audio": "/assets/day-14/audio/who-what-which/18.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who was selected to work on the advertising project?",
+            "A": "A great success",
+            "B": "It's a popular brand",
+            "C": "I haven't heard"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-19",
+          "no": 19,
+          "audio": "/assets/day-14/audio/who-what-which/19.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Which office is Kathy's?",
+            "A": "Sure, I can do that",
+            "B": "The corner one",
+            "C": "She's very organized"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-20",
+          "no": 20,
+          "audio": "/assets/day-14/audio/who-what-which/20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What's going on in the building next door?",
+            "A": "A reception's being held",
+            "B": "But I just turned it off",
+            "C": "I'm sure you're next"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-21",
+          "no": 21,
+          "audio": "/assets/day-14/audio/who-what-which/21.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's responsible for the packaging design?",
+            "A": "It was shipped overnight",
+            "B": "Just sign here",
+            "C": "Martin's team"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-22",
+          "no": 22,
+          "audio": "/assets/day-14/audio/who-what-which/22.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What are the best vegetarian restaurants in this area?",
+            "A": "We open in an hour",
+            "B": "I'm not the best person to ask",
+            "C": "Outside seating is available"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-23",
+          "no": 23,
+          "audio": "/assets/day-14/audio/who-what-which/23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Who's responsible for authorizing credit card purchases?",
+            "A": "Isn't it the manager?",
+            "B": "Not if you use cash",
+            "C": "Only for office supplies"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-24",
+          "no": 24,
+          "audio": "/assets/day-14/audio/who-what-which/24.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Which bus can I take to the airport?",
+            "A": "The train will get you there faster",
+            "B": "A six dollar fare",
+            "C": "Three quarters of an hour"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d14-who-what-which-25",
+          "no": 25,
+          "audio": "/assets/day-14/audio/who-what-which/25.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who called the shipping company?",
+            "A": "Did they go shopping already",
+            "B": "Rita emailed them",
+            "C": "Every Monday morning"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-who-homework",
+      "code": "who-homework",
+      "title": "Part 2 — Who homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d14-who-homework-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/who/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's meeting with Ms. Clark right now?",
+            "A": "The accountant.",
+            "B": "The meeting was rather short.",
+            "C": "Yes, you're quite right."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/who/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who will replace Mr. Fernandez when he retires?",
+            "A": "I've never been there.",
+            "B": "I heard that Maria Ortega will...",
+            "C": "No, I'm not tired."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/who/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who shipped the product samples yesterday?",
+            "A": "In the afternoon shipment.",
+            "B": "Miss Kang sent them.",
+            "C": "I've already tried them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/who/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who can I ask to revise our orientation materials?",
+            "A": "I just realized that.",
+            "B": "An earlier version.",
+            "C": "Yoko has the time."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/who/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's going to do the presentation with you?",
+            "A": "I'm doing it by myself.",
+            "B": "It was a good presentation.",
+            "C": "Pauline also received one."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/who/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's in charge of stocking the supply closet?",
+            "A": "Oh, we take turns.",
+            "B": "Don't forget to close it.",
+            "C": "Some office supplies."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/who/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who is Mr Park meeting at the airport?",
+            "A": "Inside the terminal.",
+            "B": "They called a taxi.",
+            "C": "A new client."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/who/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's been selected to lead the design team?",
+            "A": "Sign here, please.",
+            "B": "Will he read it?",
+            "C": "Miss Lee was chosen."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/who/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's retiring next month?",
+            "A": "No, we're not tired.",
+            "B": "I believe Caroline is.",
+            "C": "It's due in four weeks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/who/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's the new supervisor at the factory?",
+            "A": "Oh, have they hired someone?",
+            "B": "That's an interesting fact.",
+            "C": "You're a wonderful advisor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-11",
+          "no": 11,
+          "audio": "/assets/day-14/audio/who/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who was in your office this morning?",
+            "A": "In the other building.",
+            "B": "I have time tomorrow.",
+            "C": "My manager, Mr. Lau."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-12",
+          "no": 12,
+          "audio": "/assets/day-14/audio/who/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's leading the orientation?",
+            "A": "He read it recently.",
+            "B": "The human resources team.",
+            "C": "Some training manuals."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-13",
+          "no": 13,
+          "audio": "/assets/day-14/audio/who/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who designed the floor plan?",
+            "A": "They're affordable.",
+            "B": "Only three floors.",
+            "C": "Mr. Bryson did."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-14",
+          "no": 14,
+          "audio": "/assets/day-14/audio/who/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who put the ladder in the hallway?",
+            "A": "The letter was mailed.",
+            "B": "It was probably the painters.",
+            "C": "On the way down."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-15",
+          "no": 15,
+          "audio": "/assets/day-14/audio/who/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who was offered the marketing position?",
+            "A": "Janet Gray was.",
+            "B": "I moved it.",
+            "C": "To increase our sales."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-16",
+          "no": 16,
+          "audio": "/assets/day-14/audio/who/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who developed the advertising campaign?",
+            "A": "I've never been camping.",
+            "B": "For staff development.",
+            "C": "I'll have to look up his name."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-17",
+          "no": 17,
+          "audio": "/assets/day-14/audio/who/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who can help plan the upcoming orientation session?",
+            "A": "That was helpful.",
+            "B": "A dozen invitations.",
+            "C": "You should ask David."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-18",
+          "no": 18,
+          "audio": "/assets/day-14/audio/who/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who left these documents on my desk?",
+            "A": "There isn't any left.",
+            "B": "Your supervisor brought them.",
+            "C": "I put it on a disk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-19",
+          "no": 19,
+          "audio": "/assets/day-14/audio/who/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who's bringing the clients to the restaurant?",
+            "A": "Just water for me, please.",
+            "B": "Debbie said she would.",
+            "C": "They're from Singapore."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-who-homework-20",
+          "no": 20,
+          "audio": "/assets/day-14/audio/who/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Who can I contact about the accounting position?",
+            "A": "A minimum of four years of experience.",
+            "B": "To create an online banking account.",
+            "C": "You should email the recruiting manager."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-what-homework",
+      "code": "what-homework",
+      "title": "Part 2 — What homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d14-what-homework-01",
+          "no": 1,
+          "audio": "/assets/day-14/audio/what/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What flight is he arriving on?",
+            "A": "Flight 48.",
+            "B": "Only an hour.",
+            "C": "At the airport."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-02",
+          "no": 2,
+          "audio": "/assets/day-14/audio/what/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What are these sweaters made of?",
+            "A": "In Mexico, I think.",
+            "B": "I like the blue ones.",
+            "C": "They're cotton."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-03",
+          "no": 3,
+          "audio": "/assets/day-14/audio/what/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What time is it?",
+            "A": "Just a few minutes.",
+            "B": "Almost five o'clock.",
+            "C": "Yes, it is."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-04",
+          "no": 4,
+          "audio": "/assets/day-14/audio/what/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What colour should I paint the living room walls?",
+            "A": "Yes, you should.",
+            "B": "He's nearly finished.",
+            "C": "Yellow would look nice."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-05",
+          "no": 5,
+          "audio": "/assets/day-14/audio/what/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What's on the agenda for the staff meeting?",
+            "A": "Next to the lobby.",
+            "B": "Attendance was good.",
+            "C": "It hasn't been finalised."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-06",
+          "no": 6,
+          "audio": "/assets/day-14/audio/what/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Excuse me, can you tell me what time it is?",
+            "A": "It's a digital clock.",
+            "B": "Do one at a time.",
+            "C": "A little past noon."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-07",
+          "no": 7,
+          "audio": "/assets/day-14/audio/what/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What else is required to complete the loan agreement?",
+            "A": "I was just about to.",
+            "B": "Why'd he go alone?",
+            "C": "We don't need anything else."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-08",
+          "no": 8,
+          "audio": "/assets/day-14/audio/what/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What was the article about?",
+            "A": "I didn't read it.",
+            "B": "No, not recently.",
+            "C": "That's about it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-09",
+          "no": 9,
+          "audio": "/assets/day-14/audio/what/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What's the new Vice President going to talk about?",
+            "A": "The goals for our department.",
+            "B": "Is that a new project?",
+            "C": "Please consider it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-10",
+          "no": 10,
+          "audio": "/assets/day-14/audio/what/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What do you suggest I do with the contract?",
+            "A": "That conference is in Shanghai.",
+            "B": "Has the client signed it?",
+            "C": "From the printing company."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-11",
+          "no": 11,
+          "audio": "/assets/day-14/audio/what/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What should I bring to the trade show?",
+            "A": "Your business cards.",
+            "B": "At the conference center.",
+            "C": "Sorry, I have it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-12",
+          "no": 12,
+          "audio": "/assets/day-14/audio/what/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What kind of company does Mr. Perez manage?",
+            "A": "For 20 years.",
+            "B": "I can manage that.",
+            "C": "An advertising agency."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-13",
+          "no": 13,
+          "audio": "/assets/day-14/audio/what/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What will be discussed on the conference call?",
+            "A": "Only with customer service agents.",
+            "B": "Results from a recent survey.",
+            "C": "The discussion ended early."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-14",
+          "no": 14,
+          "audio": "/assets/day-14/audio/what/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What color should we paint the front door?",
+            "A": "I like that painting.",
+            "B": "Blue would look nice.",
+            "C": "There's space in the back."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-15",
+          "no": 15,
+          "audio": "/assets/day-14/audio/what/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What street do I take to get to the Museum?",
+            "A": "Around a half hour.",
+            "B": "Check the map over there.",
+            "C": "It was a popular exhibit."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-16",
+          "no": 16,
+          "audio": "/assets/day-14/audio/what/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What was yesterday's workshop about?",
+            "A": "45 minutes.",
+            "B": "The new graphics software.",
+            "C": "It was busier than usual."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-17",
+          "no": 17,
+          "audio": "/assets/day-14/audio/what/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What are the dimensions of the apartment on Maple Road?",
+            "A": "It's rather far from the city centre.",
+            "B": "I don't remember the exact measurements.",
+            "C": "The real estate agent showed it to us."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-18",
+          "no": 18,
+          "audio": "/assets/day-14/audio/what/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What would be a good place to take a client for a meal?",
+            "A": "Try the Italian restaurant down the street.",
+            "B": "I haven't placed my order yet.",
+            "C": "Usually for lunch."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-19",
+          "no": 19,
+          "audio": "/assets/day-14/audio/what/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "Paula, what do the customer reviews say about our mobile phone?",
+            "A": "Dial zero to speak with a representative.",
+            "B": "Most people like the new features.",
+            "C": "Know it was very positive."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        },
+        {
+          "id": "d14-what-homework-20",
+          "no": 20,
+          "audio": "/assets/day-14/audio/what/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": {
+            "Q": "What are we ordering for lunch?",
+            "A": "How about Italian food?",
+            "B": "Only three of us.",
+            "C": "Near the cafe on Main Street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": null
+          }
+        }
+      ]
+    }
+  ]
+}

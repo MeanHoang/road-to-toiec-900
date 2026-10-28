@@ -1,0 +1,1422 @@
+{
+  "collection": "vocabulary",
+  "day": "day-14",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d14-v01",
+      "no": 1,
+      "word": "raw material",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌrɔː məˈtɪəriəl/",
+        "us": "/ˌrɑː məˈtɪriəl/"
+      },
+      "meaningVi": "nguyên vật liệu thô",
+      "image": null,
+      "example": {
+        "en": "We have had problems with the supply of raw materials to the factory."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v01-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v02",
+      "no": 2,
+      "word": "prototype",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈprəʊtətaɪp/",
+        "us": "/ˈproʊtətaɪp/"
+      },
+      "meaningVi": "nguyên mẫu",
+      "image": null,
+      "example": {
+        "en": "We have a working prototype that is ready to demonstrate."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v02-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v03",
+      "no": 3,
+      "word": "large-scale production",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌlɑːdʒ skeɪl prəˈdʌkʃən/",
+        "us": "/ˌlɑːrdʒ skeɪl prəˈdʌkʃən/"
+      },
+      "meaningVi": "sản xuất với quy mô lớn",
+      "image": null,
+      "example": {
+        "en": "When are we going to start the large-scale production?"
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v03-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v04",
+      "no": 4,
+      "word": "factory",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfæktəri/",
+        "us": "/ˈfæktəri/"
+      },
+      "meaningVi": "nhà máy",
+      "image": null,
+      "example": {
+        "en": "They had to close the factory down in the recession."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v04-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v05",
+      "no": 5,
+      "word": "cutting-edge products",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkʌtɪŋ edʒ ˈprɒdʌkts/",
+        "us": "/ˌkʌtɪŋ edʒ ˈprɑːdʌkts/"
+      },
+      "meaningVi": "sản phẩm cao cấp, mới nhất, hiện đại nhất",
+      "image": null,
+      "example": {
+        "en": "CES Unveiled 2020 included cutting-edge technologies and products in categories such as smart home and IoT, smartphones."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v05-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v06",
+      "no": 6,
+      "word": "patent",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpætənt/",
+        "us": "/ˈpætənt/"
+      },
+      "meaningVi": "bằng sáng chế",
+      "image": null,
+      "example": {
+        "en": "Edison took out a patent on the light bulb."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v06-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v07",
+      "no": 7,
+      "word": "defect",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdiːfekt/",
+        "us": "/ˈdiːfekt/"
+      },
+      "meaningVi": "lỗi, khuyết điểm, sai sót (defective — adj: bị lỗi)",
+      "image": null,
+      "example": {
+        "en": "They want to re-examine the products for defects."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v07-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v08",
+      "no": 8,
+      "word": "distributor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈstrɪbjətə/",
+        "us": "/dɪˈstrɪbjətər/"
+      },
+      "meaningVi": "nhà phân phối (distribution — n: sự phân phối)",
+      "image": null,
+      "example": {
+        "en": "You can get the book through your local distributor."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v08-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v09",
+      "no": 9,
+      "word": "component",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kəmˈpəʊnənt/",
+        "us": "/kəmˈpoʊnənt/"
+      },
+      "meaningVi": "linh kiện, thành phần",
+      "image": null,
+      "example": {
+        "en": "Car components are manufactured in the other factory."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v09-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v10",
+      "no": 10,
+      "word": "fabrication",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌfæbrɪˈkeɪʃən/",
+        "us": "/ˌfæbrɪˈkeɪʃən/"
+      },
+      "meaningVi": "sự chế tạo, sản xuất (fabricate — v: chế tạo, sản xuất)",
+      "image": null,
+      "example": {
+        "en": "Construction of the new warehouse started with the fabrication of a steel framework for the building."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v10-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v11",
+      "no": 11,
+      "word": "assemble",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈsembəl/",
+        "us": "/əˈsembəl/"
+      },
+      "meaningVi": "lắp ráp, tập hợp (assembly — n: sự lắp ráp)",
+      "image": null,
+      "example": {
+        "en": "The company assembles vehicles for Renault and Toyota."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v11-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v12",
+      "no": 12,
+      "word": "assembly line",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈsembli laɪn/",
+        "us": "/əˈsembli laɪn/"
+      },
+      "meaningVi": "dây chuyền lắp ráp",
+      "image": null,
+      "example": {
+        "en": "Workers on the assembly line."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v12-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v13",
+      "no": 13,
+      "word": "quality control (QC)",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkwɒləti kənˈtrəʊl/",
+        "us": "/ˌkwɑːləti kənˈtroʊl/"
+      },
+      "meaningVi": "kiểm soát chất lượng",
+      "image": null,
+      "example": {
+        "en": "Practical measures such as quality control and testing are very important in the manufacturing process."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v13-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v14",
+      "no": 14,
+      "word": "research and development (R&D)",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˌsɜːtʃ ən dɪˈveləpmənt/",
+        "us": "/rɪˌsɜːrtʃ ən dɪˈveləpmənt/"
+      },
+      "meaningVi": "nghiên cứu và phát triển",
+      "image": null,
+      "example": {
+        "en": "I do a lot of research and development work in my job."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v14-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v15",
+      "no": 15,
+      "word": "automated",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈɔːtəmeɪtɪd/",
+        "us": "/ˈɔːtəmeɪtɪd/"
+      },
+      "meaningVi": "được tự động hóa (automation — n: sự tự động hóa)",
+      "image": null,
+      "example": {
+        "en": "Automated check-in machines are common in airports."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v15-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v16",
+      "no": 16,
+      "word": "equipment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪˈkwɪpmənt/",
+        "us": "/ɪˈkwɪpmənt/"
+      },
+      "meaningVi": "thiết bị",
+      "image": null,
+      "example": {
+        "en": "The school is in need of new computer equipment."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v16-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v17",
+      "no": 17,
+      "word": "specification",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌspesɪfɪˈkeɪʃən/",
+        "us": "/ˌspesɪfɪˈkeɪʃən/"
+      },
+      "meaningVi": "đặc điểm, chi tiết kỹ thuật",
+      "image": null,
+      "example": {
+        "en": "The prototype has the same basic specifications."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v17-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v18",
+      "no": 18,
+      "word": "processing",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈprəʊsesɪŋ/",
+        "us": "/ˈprɑːsesɪŋ/"
+      },
+      "meaningVi": "sự xử lý, chế xuất",
+      "image": null,
+      "example": {
+        "en": "There was a delay in the processing of passport applications."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v18-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v19",
+      "no": 19,
+      "word": "capacity",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kəˈpæsəti/",
+        "us": "/kəˈpæsəti/"
+      },
+      "meaningVi": "công suất, sức chứa, dung tích",
+      "image": null,
+      "example": {
+        "en": "Production capacity is the maximum output that can be achieved in the production of manufactured goods."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v19-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v20",
+      "no": 20,
+      "word": "renovate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈrenəveɪt/",
+        "us": "/ˈrenəveɪt/"
+      },
+      "meaningVi": "cải tạo, cải tiến (renovation — n: sự cải tạo)",
+      "image": null,
+      "example": {
+        "en": "The factory is closed for renovations."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v20-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v21",
+      "no": 21,
+      "word": "efficiency",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪˈfɪʃənsi/",
+        "us": "/ɪˈfɪʃənsi/"
+      },
+      "meaningVi": "sự hiệu quả, tối ưu (efficient — adj: hiệu quả, tối ưu)",
+      "image": null,
+      "example": {
+        "en": "The new computer system will cut costs and increase efficiency."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v21-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v22",
+      "no": 22,
+      "word": "flexible",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈfleksəbəl/",
+        "us": "/ˈfleksəbəl/"
+      },
+      "meaningVi": "linh hoạt (flexibility — n: tính linh hoạt)",
+      "image": null,
+      "example": {
+        "en": "We can offer you flexible working hours."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v22-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v23",
+      "no": 23,
+      "word": "expiration",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌekspəˈreɪʃən/",
+        "us": "/ˌekspəˈreɪʃən/"
+      },
+      "meaningVi": "sự hết hạn (expire — v: hết hạn)",
+      "image": null,
+      "example": {
+        "en": "What is the expiration date of your credit card?"
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v23-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v24",
+      "no": 24,
+      "word": "damage",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈdæmɪdʒ/",
+        "us": "/ˈdæmɪdʒ/"
+      },
+      "meaningVi": "hư hại, tổn thất",
+      "image": null,
+      "example": {
+        "en": "There is growing awareness of the environmental damage caused by cars."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v24-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v25",
+      "no": 25,
+      "word": "council",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkaʊnsəl/",
+        "us": "/ˈkaʊnsəl/"
+      },
+      "meaningVi": "hội đồng",
+      "image": null,
+      "example": {
+        "en": "The city council approved the plan for the new factory."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v25-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v26",
+      "no": 26,
+      "word": "boarding",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbɔːdɪŋ/",
+        "us": "/ˈbɔːrdɪŋ/"
+      },
+      "meaningVi": "lên tàu, lên máy bay",
+      "image": null,
+      "example": {
+        "en": "Got to go. The flight is boarding."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v26-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v27",
+      "no": 27,
+      "word": "reschedule",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌriːˈʃedjuːl/",
+        "us": "/ˌriːˈskedʒuːl/"
+      },
+      "meaningVi": "sắp xếp lại lịch trình",
+      "image": null,
+      "example": {
+        "en": "She will reschedule the airport transportation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v27-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v28",
+      "no": 28,
+      "word": "multicolored labels",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌmʌltiˈkʌləd ˈleɪbəlz/",
+        "us": "/ˌmʌltiˈkʌlərd ˈleɪbəlz/"
+      },
+      "meaningVi": "nhãn nhiều màu",
+      "image": null,
+      "example": {
+        "en": "I need a pack of multicolored labels."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v28-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v29",
+      "no": 29,
+      "word": "out of stock",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌaʊt əv ˈstɒk/",
+        "us": "/ˌaʊt əv ˈstɑːk/"
+      },
+      "meaningVi": "hết hàng",
+      "image": null,
+      "example": {
+        "en": "Well, those seem to be out of stock."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v29-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v30",
+      "no": 30,
+      "word": "cafeteria",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkæfəˈtɪəriə/",
+        "us": "/ˌkæfəˈtɪriə/"
+      },
+      "meaningVi": "quán ăn tự phục vụ",
+      "image": null,
+      "example": {
+        "en": "I’ll meet you at the cafeteria on the second floor at 12:30 P.M."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v30-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v31",
+      "no": 31,
+      "word": "conference call",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒnfərəns kɔːl/",
+        "us": "/ˈkɑːnfərəns kɔːl/"
+      },
+      "meaningVi": "cuộc gọi hội nghị",
+      "image": null,
+      "example": {
+        "en": "We would like to have a conference call with our partners in Perth tomorrow."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v31-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v32",
+      "no": 32,
+      "word": "security policy",
+      "pos": "n",
+      "ipa": {
+        "uk": "/sɪˈkjʊərəti ˈpɒləsi/",
+        "us": "/sɪˈkjʊrəti ˈpɑːləsi/"
+      },
+      "meaningVi": "chính sách an ninh",
+      "image": null,
+      "example": {
+        "en": "The security policy states that we can’t take anything out of the building."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v32-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v33",
+      "no": 33,
+      "word": "audiovisual equipment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɔːdiəʊˈvɪʒuəl ɪˈkwɪpmənt/",
+        "us": "/ˌɔːdioʊˈvɪʒuəl ɪˈkwɪpmənt/"
+      },
+      "meaningVi": "thiết bị nghe nhìn",
+      "image": null,
+      "example": {
+        "en": "We will be using room 2C since it has the audiovisual equipment."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v33-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v34",
+      "no": 34,
+      "word": "extend the deadline",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪkˈstend ðə ˈdedlaɪn/",
+        "us": "/ɪkˈstend ðə ˈdedlaɪn/"
+      },
+      "meaningVi": "gia hạn thời hạn",
+      "image": null,
+      "example": {
+        "en": "Who extended the deadline for this project?"
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v34-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v35",
+      "no": 35,
+      "word": "accessories",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əkˈsesəriz/",
+        "us": "/əkˈsesəriz/"
+      },
+      "meaningVi": "phụ kiện",
+      "image": null,
+      "example": {
+        "en": "Elegante is an Italian cell phone accessories brand."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v35-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v36",
+      "no": 36,
+      "word": "manufacturer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌmænjuˈfæktʃərə/",
+        "us": "/ˌmænjuˈfæktʃərər/"
+      },
+      "meaningVi": "nhà sản xuất",
+      "image": null,
+      "example": {
+        "en": "We are currently looking for a manufacturer for our new line of metal cell phone cases."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v36-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v37",
+      "no": 37,
+      "word": "specialized production",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈspeʃəlaɪzd prəˈdʌkʃən/",
+        "us": "/ˈspeʃəlaɪzd prəˈdʌkʃən/"
+      },
+      "meaningVi": "sản xuất chuyên biệt",
+      "image": null,
+      "example": {
+        "en": "The factory focuses on specialized production of metal parts."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v37-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v38",
+      "no": 38,
+      "word": "partner",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɑːtnə/",
+        "us": "/ˈpɑːrtnər/"
+      },
+      "meaningVi": "đối tác",
+      "image": null,
+      "example": {
+        "en": "Luzon Manufacturing could be a strong production partner for Elegante."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v38-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v39",
+      "no": 39,
+      "word": "operation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɒpəˈreɪʃən/",
+        "us": "/ˌɑːpəˈreɪʃən/"
+      },
+      "meaningVi": "hoạt động, vận hành",
+      "image": null,
+      "example": {
+        "en": "Let me tell you more about our operation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v39-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v40",
+      "no": 40,
+      "word": "distributor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈstrɪbjətə/",
+        "us": "/dɪˈstrɪbjətər/"
+      },
+      "meaningVi": "nhà phân phối",
+      "image": null,
+      "example": {
+        "en": "We have contracts with major distributors of electronics and accessories in Italy."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v40-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v41",
+      "no": 41,
+      "word": "access",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈækses/",
+        "us": "/ˈækses/"
+      },
+      "meaningVi": "quyền truy cập; truy cập",
+      "image": null,
+      "example": {
+        "en": "The facility offers 24-hour access and 12 personal trainers."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v41-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v42",
+      "no": 42,
+      "word": "personal trainer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌpɜːsənəl ˈtreɪnə/",
+        "us": "/ˌpɜːrsənəl ˈtreɪnər/"
+      },
+      "meaningVi": "huấn luyện viên cá nhân",
+      "image": null,
+      "example": {
+        "en": "Carol Yoo is a personal trainer who opened her own gym."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v42-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v43",
+      "no": 43,
+      "word": "on installments",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ɒn ɪnˈstɔːlmənts/",
+        "us": "/ɑːn ɪnˈstɔːlmənts/"
+      },
+      "meaningVi": "trả góp",
+      "image": null,
+      "example": {
+        "en": "I paid $30,000 up front, and the rest on installments."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v43-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v44",
+      "no": 44,
+      "word": "rapid growth",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌræpɪd ˈɡrəʊθ/",
+        "us": "/ˌræpɪd ˈɡroʊθ/"
+      },
+      "meaningVi": "sự tăng trưởng nhanh chóng",
+      "image": null,
+      "example": {
+        "en": "Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v44-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v45",
+      "no": 45,
+      "word": "residence",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈrezɪdəns/",
+        "us": "/ˈrezɪdəns/"
+      },
+      "meaningVi": "nơi cư trú",
+      "image": null,
+      "example": {
+        "en": "Please write your place of residence on the form."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v45-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v46",
+      "no": 46,
+      "word": "approachable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈprəʊtʃəbəl/",
+        "us": "/əˈproʊtʃəbəl/"
+      },
+      "meaningVi": "dễ gần, dễ tiếp cận",
+      "image": null,
+      "example": {
+        "en": "All of the Prism Gym staff are friendly and approachable."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v46-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v47",
+      "no": 47,
+      "word": "production plant",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈdʌkʃən plɑːnt/",
+        "us": "/prəˈdʌkʃən plænt/"
+      },
+      "meaningVi": "nhà máy sản xuất",
+      "image": null,
+      "example": {
+        "en": "Wind Dynamics has announced plans to open a production plant in Mechelen."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v47-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v48",
+      "no": 48,
+      "word": "abandoned",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈbændənd/",
+        "us": "/əˈbændənd/"
+      },
+      "meaningVi": "bị bỏ hoang",
+      "image": null,
+      "example": {
+        "en": "The company will purchase and renovate the abandoned Cantek Telephone factory."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v48-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v49",
+      "no": 49,
+      "word": "venture",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈventʃə/",
+        "us": "/ˈventʃər/"
+      },
+      "meaningVi": "dự án kinh doanh mạo hiểm; mạo hiểm, liều lĩnh",
+      "image": null,
+      "example": {
+        "en": "The venture is expected to create about two hundred new production jobs."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v49-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v50",
+      "no": 50,
+      "word": "industrial area",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈdʌstriəl ˈeəriə/",
+        "us": "/ɪnˈdʌstriəl ˈeriə/"
+      },
+      "meaningVi": "khu công nghiệp",
+      "image": null,
+      "example": {
+        "en": "Mechelen is an industrial area that has been hit hard by factory closures."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v50-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v51",
+      "no": 51,
+      "word": "factory closure",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfæktəri ˈkləʊʒə/",
+        "us": "/ˈfæktəri ˈkloʊʒər/"
+      },
+      "meaningVi": "việc đóng cửa nhà máy",
+      "image": null,
+      "example": {
+        "en": "The town lost many jobs because of factory closures."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v51-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v51-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v52",
+      "no": 52,
+      "word": "region",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈriːdʒən/",
+        "us": "/ˈriːdʒən/"
+      },
+      "meaningVi": "khu vực",
+      "image": null,
+      "example": {
+        "en": "The project contributes to the economic growth of our region."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v52-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v52-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "af38ce9e831c29ba47f77724776a15c79f2e8a33e2d88421e213fffa1c416685"
+  }
+}

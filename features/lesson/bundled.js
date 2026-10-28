@@ -87,7 +87,20 @@ import d13theory from '@/content/day-13/theory.json';
 import d13exercises from '@/content/day-13/exercises.json';
 import d13listening from '@/content/day-13/listening.json';
 
+import d14day from '@/content/day-14/day.json';
+import d14vocabulary from '@/content/day-14/vocabulary.json';
+import d14theory from '@/content/day-14/theory.json';
+import d14exercises from '@/content/day-14/exercises.json';
+import d14listening from '@/content/day-14/listening.json';
+
 const REGISTRY = {
+  'day-14': {
+    day: d14day,
+    vocabulary: d14vocabulary,
+    theory: d14theory,
+    exercises: d14exercises,
+    listening: d14listening,
+  },
   'day-13': {
     day: d13day,
     vocabulary: d13vocabulary,

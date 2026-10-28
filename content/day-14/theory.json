@@ -1,0 +1,107 @@
+{
+  "collection": "theory",
+  "day": "day-14",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d14-t-homework",
+      "type": "wordGroups",
+      "title": "Day 5 — homework and review",
+      "groups": {
+        "Review and vocabulary": [
+          "Học flashcard Topic 03 Manufacturing (24 từ) và bộ 28 từ Quizlet Day 5 Part 7.",
+          "Chữa bài tập về nhà Day 4 (Day 13 trong ứng dụng): đáp án Part 1, When, Where và giải thích Part 7."
+        ],
+        "Listening and reading": [
+          "Nghe chép chính tả Part 1: viết lại đầy đủ bốn phương án A–D cho từng tranh.",
+          "Nghe chép chính tả Part 2: viết lại câu hỏi Who/What và ba câu trả lời A–C.",
+          "Làm bài đọc Part 7 Unit 6 và Unit 7, tự dịch trước rồi chọn đáp án và đối chiếu dẫn chứng."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d14-t-who",
+      "type": "wordGroups",
+      "title": "Part 2 — Who questions",
+      "groups": {
+        "What the question asks": [
+          "Who hỏi về người: tên người, chức danh, phòng ban hoặc công ty.",
+          "Who wrote this memo? → The vice president.",
+          "Who repaired the copy machine? → Robert fixed it."
+        ],
+        "Indirect responses": [
+          "Đáp án có thể không nêu tên mà nói “tôi”, hỏi lại hoặc nói chưa biết: Who’s making coffee? → I am. It’ll be ready soon.",
+          "Who was selected to work on the advertising project? → I haven’t heard.",
+          "Who’s going to meet our colleagues at the airport? → Their flight was canceled."
+        ],
+        "Common traps": [
+          "Từ lặp hoặc âm gần giống trong câu hỏi thường là bẫy: Who’s in charge of marketing? → the market closes… / charge it to my account.",
+          "Câu trả lời Yes/No gần như luôn sai với câu hỏi Who."
+        ]
+      },
+      "source": {
+        "rules": "ai",
+        "examples": "drive"
+      }
+    },
+    {
+      "id": "d14-t-what",
+      "type": "wordGroups",
+      "title": "Part 2 — What and Which questions",
+      "groups": {
+        "What the question asks": [
+          "Nghe kỹ danh từ hoặc động từ ngay sau What/Which để biết câu hỏi về cái gì: What time…, What street…, What kind of company…, Which bus…, Which office…",
+          "What did this desk cost? → It was only $125.",
+          "Which office is Kathy’s? → The corner one."
+        ],
+        "Indirect responses": [
+          "What should I prepare for the sales workshop? → Didn’t Elizabeth take care of everything?",
+          "Which part of the factory am I working in today? → Didn’t your supervisor tell you?",
+          "Which film should we see? → It doesn’t matter to me."
+        ],
+        "Common traps": [
+          "Phân biệt Which với Where và When: Which bus can I take to the airport? → The train will get you there faster.",
+          "Lặp từ hoặc từ cùng gốc là bẫy: What should I do with the new promotional brochures? → He was promoted to manager."
+        ]
+      },
+      "source": {
+        "rules": "ai",
+        "examples": "drive"
+      }
+    },
+    {
+      "id": "d14-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 14 trong ứng dụng tương ứng Day 5 của giai đoạn 2.",
+        "Practice makes perfect ❤"
+      ],
+      "links": [
+        {
+          "label": "Day 5 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1GiBedPymCg0j2QQ4R0YPfNCbLLXVc6ah?usp=sharing"
+        },
+        {
+          "label": "Flashcard Topic 03 — Manufacturing",
+          "href": "https://drive.google.com/file/d/1wNv_3sD7U6Ebrr-swKk1rPLiMEU5Lrxd/view?usp=sharing"
+        },
+        {
+          "label": "Day 5 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005437108/day-5-p7-flash-cards/"
+        },
+        {
+          "label": "Review Day 4 reading",
+          "href": "/day/day-13/exercises"
+        },
+        {
+          "label": "Review Day 4 listening",
+          "href": "/day/day-13/listen"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

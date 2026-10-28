@@ -1,0 +1,543 @@
+{
+  "collection": "exercises",
+  "day": "day-14",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d14-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: a flight change",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-01",
+          "no": 1,
+          "text": "At 8:52 A.M., what does Ms. Ortiz most likely mean when she writes, “No problem”?",
+          "options": {
+            "A": "She will send a phone number to Ms. Ahn.",
+            "B": "She will reschedule transportation.",
+            "C": "She agrees that Ms. Ahn should change her flight.",
+            "D": "She will write down the flight information."
+          },
+          "answer": "B",
+          "explain": "“No problem” trả lời lời nhờ gọi dịch vụ đưa đón sân bay để báo đổi chuyến, tức là cô sẽ sắp xếp lại việc đưa đón.",
+          "passage": {
+            "text": "Jung-Hee Ahn (8:44 A.M.)\nMy morning meeting was canceled, so I am on an earlier flight. I should arrive 3 hours sooner than expected. I can now attend the marketing meeting at 4 P.M.\n\nEllen Ortiz (8:49 A.M.)\nGood news! When will you land? Do you need a ride from the airport?\n\nJung-Hee Ahn (8:51 A.M.)\nI should arrive at 12:45 P.M., and I will need a ride. Please call the airport transportation service to tell them about the flight change. I don’t have their number.\n\nEllen Ortiz (8:52 A.M.)\nNo problem. What’s your flight information?\n\nJung-Hee Ahn (8:57 A.M.)\nSeacrest Air flight 1045. Departing San Juan 9:50 A.M. Got to go. The flight is boarding. See you later."
+          },
+          "vi": "Jung-Hee Ahn (8:44 sáng): Cuộc họp buổi sáng của tôi bị hủy nên tôi đi chuyến bay sớm hơn. Tôi sẽ đến sớm hơn dự kiến 3 tiếng. Giờ tôi có thể dự cuộc họp marketing lúc 4 giờ chiều.\n\nEllen Ortiz (8:49 sáng): Tin tốt đấy! Khi nào chị hạ cánh? Chị có cần người đón ở sân bay không?\n\nJung-Hee Ahn (8:51 sáng): Tôi sẽ đến lúc 12:45 chiều và tôi cần người đón. Chị gọi cho dịch vụ đưa đón sân bay để báo họ việc đổi chuyến giúp tôi nhé. Tôi không có số của họ.\n\nEllen Ortiz (8:52 sáng): Không vấn đề gì. Thông tin chuyến bay của chị là gì?\n\nJung-Hee Ahn (8:57 sáng): Chuyến 1045 của Seacrest Air. Khởi hành từ San Juan lúc 9:50 sáng. Tôi phải đi đây. Đang lên máy bay. Gặp lại sau.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-02",
+          "no": 2,
+          "text": "When will Ms. Ahn’s plane leave San Juan?",
+          "options": {
+            "A": "At 9:50 A.M.",
+            "B": "At 12:45 P.M.",
+            "C": "At 1:00 P.M.",
+            "D": "At 4:00 P.M."
+          },
+          "answer": "A",
+          "explain": "Tin nhắn 8:57 ghi “Departing San Juan 9:50 A.M.”; 12:45 là giờ đến.",
+          "passage": {
+            "text": "Jung-Hee Ahn (8:44 A.M.)\nMy morning meeting was canceled, so I am on an earlier flight. I should arrive 3 hours sooner than expected. I can now attend the marketing meeting at 4 P.M.\n\nEllen Ortiz (8:49 A.M.)\nGood news! When will you land? Do you need a ride from the airport?\n\nJung-Hee Ahn (8:51 A.M.)\nI should arrive at 12:45 P.M., and I will need a ride. Please call the airport transportation service to tell them about the flight change. I don’t have their number.\n\nEllen Ortiz (8:52 A.M.)\nNo problem. What’s your flight information?\n\nJung-Hee Ahn (8:57 A.M.)\nSeacrest Air flight 1045. Departing San Juan 9:50 A.M. Got to go. The flight is boarding. See you later."
+          },
+          "vi": "Jung-Hee Ahn (8:44 sáng): Cuộc họp buổi sáng của tôi bị hủy nên tôi đi chuyến bay sớm hơn. Tôi sẽ đến sớm hơn dự kiến 3 tiếng. Giờ tôi có thể dự cuộc họp marketing lúc 4 giờ chiều.\n\nEllen Ortiz (8:49 sáng): Tin tốt đấy! Khi nào chị hạ cánh? Chị có cần người đón ở sân bay không?\n\nJung-Hee Ahn (8:51 sáng): Tôi sẽ đến lúc 12:45 chiều và tôi cần người đón. Chị gọi cho dịch vụ đưa đón sân bay để báo họ việc đổi chuyến giúp tôi nhé. Tôi không có số của họ.\n\nEllen Ortiz (8:52 sáng): Không vấn đề gì. Thông tin chuyến bay của chị là gì?\n\nJung-Hee Ahn (8:57 sáng): Chuyến 1045 của Seacrest Air. Khởi hành từ San Juan lúc 9:50 sáng. Tôi phải đi đây. Đang lên máy bay. Gặp lại sau.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: office supplies",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-03",
+          "no": 3,
+          "text": "At 11:36 A.M., what does Ms. Murphy most likely mean when she writes, “I can wait”?",
+          "options": {
+            "A": "She is not very hungry.",
+            "B": "She wants only colored labels.",
+            "C": "She needs Ms. Emhof to find an item.",
+            "D": "She can meet Mr. Mitani at a later date."
+          },
+          "answer": "B",
+          "explain": "Cô từ chối nhãn trắng và chờ có hàng lại, nghĩa là cô chỉ muốn nhãn nhiều màu.",
+          "passage": {
+            "text": "Frances Murphy (11:25 A.M.)\nHi Debbie. You mentioned you were stopping at the office supply store today. Would you mind picking up some file labels for me?\n\nDebbie Emhof (11:27 A.M.)\nNo problem. I’m at Office Check now. What exactly do you need?\n\nFrances Murphy (11:28 A.M.)\nI need a pack of multicolored labels.\n\nDebbie Emhof (11:35 A.M.)\nWell, those seem to be out of stock. Do you want me to get a different style? There are white labels available.\n\nFrances Murphy (11:36 A.M.)\nI can wait. Are we still on for lunch?\n\nDebbie Emhof (11:37 A.M.)\nOf course. I’ll meet you at the cafeteria on the second floor at 12:30 P.M. Ken Mitani from the billing department is going to join us, too."
+          },
+          "vi": "Frances Murphy (11:25 sáng): Chào Debbie. Chị có nói hôm nay sẽ ghé cửa hàng văn phòng phẩm. Chị mua giúp tôi ít nhãn dán hồ sơ được không?\n\nDebbie Emhof (11:27 sáng): Không vấn đề gì. Tôi đang ở Office Check đây. Chị cần chính xác loại nào?\n\nFrances Murphy (11:28 sáng): Tôi cần một gói nhãn nhiều màu.\n\nDebbie Emhof (11:35 sáng): Ồ, loại đó có vẻ hết hàng rồi. Chị có muốn tôi lấy kiểu khác không? Ở đây có nhãn trắng.\n\nFrances Murphy (11:36 sáng): Tôi đợi được. Mình vẫn đi ăn trưa chứ?\n\nDebbie Emhof (11:37 sáng): Tất nhiên. Tôi sẽ gặp chị ở căng tin tầng hai lúc 12:30 chiều. Ken Mitani bên phòng kế toán hóa đơn cũng đi cùng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-04",
+          "no": 4,
+          "text": "What is probably true about the writers?",
+          "options": {
+            "A": "They work in the same building.",
+            "B": "They commute to work together.",
+            "C": "They manage an office supply store.",
+            "D": "They are late for a business lunch."
+          },
+          "answer": "A",
+          "explain": "Họ hẹn gặp ở căng tin tầng hai và có đồng nghiệp phòng billing đi cùng, nên nhiều khả năng làm cùng tòa nhà.",
+          "passage": {
+            "text": "Frances Murphy (11:25 A.M.)\nHi Debbie. You mentioned you were stopping at the office supply store today. Would you mind picking up some file labels for me?\n\nDebbie Emhof (11:27 A.M.)\nNo problem. I’m at Office Check now. What exactly do you need?\n\nFrances Murphy (11:28 A.M.)\nI need a pack of multicolored labels.\n\nDebbie Emhof (11:35 A.M.)\nWell, those seem to be out of stock. Do you want me to get a different style? There are white labels available.\n\nFrances Murphy (11:36 A.M.)\nI can wait. Are we still on for lunch?\n\nDebbie Emhof (11:37 A.M.)\nOf course. I’ll meet you at the cafeteria on the second floor at 12:30 P.M. Ken Mitani from the billing department is going to join us, too."
+          },
+          "vi": "Frances Murphy (11:25 sáng): Chào Debbie. Chị có nói hôm nay sẽ ghé cửa hàng văn phòng phẩm. Chị mua giúp tôi ít nhãn dán hồ sơ được không?\n\nDebbie Emhof (11:27 sáng): Không vấn đề gì. Tôi đang ở Office Check đây. Chị cần chính xác loại nào?\n\nFrances Murphy (11:28 sáng): Tôi cần một gói nhãn nhiều màu.\n\nDebbie Emhof (11:35 sáng): Ồ, loại đó có vẻ hết hàng rồi. Chị có muốn tôi lấy kiểu khác không? Ở đây có nhãn trắng.\n\nFrances Murphy (11:36 sáng): Tôi đợi được. Mình vẫn đi ăn trưa chứ?\n\nDebbie Emhof (11:37 sáng): Tất nhiên. Tôi sẽ gặp chị ở căng tin tầng hai lúc 12:30 chiều. Ken Mitani bên phòng kế toán hóa đơn cũng đi cùng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: a video call with partners",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-05",
+          "no": 5,
+          "text": "What is the online chat discussion about?",
+          "options": {
+            "A": "Making a tile purchase",
+            "B": "Planning a business trip",
+            "C": "Arranging a meeting",
+            "D": "Extending a deadline"
+          },
+          "answer": "C",
+          "explain": "Cả cuộc trò chuyện là sắp xếp cuộc gọi video với đối tác: giờ, phòng, xin phép ở lại muộn.",
+          "passage": {
+            "text": "Kathleen Vern (10:12 A.M.)\nOur Australian partners have requested a video call to review the tile designs.\n\nMateus Ribero (10:14 A.M.)\nOK. Do we have a plan yet?\n\nKathleen Vern (10:16 A.M.)\nI’m setting it up for 7 P.M. tomorrow, our time, in room 2C. The late start is because of the time difference between Perth and Winnipeg.\n\nNatalia Kovac (10:17 A.M.)\nCould we call in to the meeting from home?\n\nKathleen Vern (10:19 A.M.)\nI’m afraid not. The security policy states that we can’t take anything out of the building, and our partners are counting on seeing the tile designs.\n\nNatalia Kovac (10:20 A.M.)\nOK. That makes sense. Now we just need approval from Ms. Feld to be here after hours.\n\nMateus Ribero (10:22 A.M.)\nLet’s check with her now. Ms. Feld, we would like to have a conference call with our partners in Perth tomorrow. Is it all right if we stay late to show them the new designs? We will be using room 2C since it has the audiovisual equipment.\n\nJanice Feld (10:24 A.M.)\nYes, that’s fine. I’ll tell security so they won’t lock the building until you’ve finished.\n\nKathleen Vern (10:25 A.M.)\nThanks, Mr. Ribero, for reaching out to Ms. Feld."
+          },
+          "vi": "Kathleen Vern (10:12 sáng): Đối tác Úc của chúng ta yêu cầu một cuộc gọi video để xem lại các mẫu thiết kế gạch ốp.\n\nMateus Ribero (10:14 sáng): Được. Mình đã có kế hoạch chưa?\n\nKathleen Vern (10:16 sáng): Tôi đang sắp xếp vào 7 giờ tối mai theo giờ mình, ở phòng 2C. Giờ muộn là do chênh lệch múi giờ giữa Perth và Winnipeg.\n\nNatalia Kovac (10:17 sáng): Mình có thể gọi vào cuộc họp từ nhà không?\n\nKathleen Vern (10:19 sáng): Tiếc là không. Chính sách an ninh quy định không được mang gì ra khỏi tòa nhà, mà đối tác lại trông chờ được xem các mẫu gạch.\n\nNatalia Kovac (10:20 sáng): Ừ, hợp lý. Giờ mình chỉ cần bà Feld cho phép ở lại sau giờ làm.\n\nMateus Ribero (10:22 sáng): Hỏi bà ấy luôn nhé. Thưa bà Feld, chúng tôi muốn họp trực tuyến với đối tác ở Perth vào ngày mai. Chúng tôi ở lại muộn để cho họ xem các mẫu mới có được không ạ? Chúng tôi sẽ dùng phòng 2C vì phòng đó có thiết bị nghe nhìn.\n\nJanice Feld (10:24 sáng): Được. Tôi sẽ báo bảo vệ để họ không khóa tòa nhà cho đến khi các bạn xong việc.\n\nKathleen Vern (10:25 sáng): Cảm ơn anh Ribero đã liên hệ với bà Feld.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-06",
+          "no": 6,
+          "text": "At 10:20 A.M., what does Ms. Kovac most likely mean when she writes, “That makes sense”?",
+          "options": {
+            "A": "She knows about the time difference.",
+            "B": "She agrees that building security has improved.",
+            "C": "She realizes that she will be working late.",
+            "D": "She understands why they must work at the office."
+          },
+          "answer": "D",
+          "explain": "Câu này đáp lại lời giải thích không được mang mẫu gạch ra khỏi tòa nhà, nên cô hiểu vì sao phải họp ở văn phòng.",
+          "passage": {
+            "text": "Kathleen Vern (10:12 A.M.)\nOur Australian partners have requested a video call to review the tile designs.\n\nMateus Ribero (10:14 A.M.)\nOK. Do we have a plan yet?\n\nKathleen Vern (10:16 A.M.)\nI’m setting it up for 7 P.M. tomorrow, our time, in room 2C. The late start is because of the time difference between Perth and Winnipeg.\n\nNatalia Kovac (10:17 A.M.)\nCould we call in to the meeting from home?\n\nKathleen Vern (10:19 A.M.)\nI’m afraid not. The security policy states that we can’t take anything out of the building, and our partners are counting on seeing the tile designs.\n\nNatalia Kovac (10:20 A.M.)\nOK. That makes sense. Now we just need approval from Ms. Feld to be here after hours.\n\nMateus Ribero (10:22 A.M.)\nLet’s check with her now. Ms. Feld, we would like to have a conference call with our partners in Perth tomorrow. Is it all right if we stay late to show them the new designs? We will be using room 2C since it has the audiovisual equipment.\n\nJanice Feld (10:24 A.M.)\nYes, that’s fine. I’ll tell security so they won’t lock the building until you’ve finished.\n\nKathleen Vern (10:25 A.M.)\nThanks, Mr. Ribero, for reaching out to Ms. Feld."
+          },
+          "vi": "Kathleen Vern (10:12 sáng): Đối tác Úc của chúng ta yêu cầu một cuộc gọi video để xem lại các mẫu thiết kế gạch ốp.\n\nMateus Ribero (10:14 sáng): Được. Mình đã có kế hoạch chưa?\n\nKathleen Vern (10:16 sáng): Tôi đang sắp xếp vào 7 giờ tối mai theo giờ mình, ở phòng 2C. Giờ muộn là do chênh lệch múi giờ giữa Perth và Winnipeg.\n\nNatalia Kovac (10:17 sáng): Mình có thể gọi vào cuộc họp từ nhà không?\n\nKathleen Vern (10:19 sáng): Tiếc là không. Chính sách an ninh quy định không được mang gì ra khỏi tòa nhà, mà đối tác lại trông chờ được xem các mẫu gạch.\n\nNatalia Kovac (10:20 sáng): Ừ, hợp lý. Giờ mình chỉ cần bà Feld cho phép ở lại sau giờ làm.\n\nMateus Ribero (10:22 sáng): Hỏi bà ấy luôn nhé. Thưa bà Feld, chúng tôi muốn họp trực tuyến với đối tác ở Perth vào ngày mai. Chúng tôi ở lại muộn để cho họ xem các mẫu mới có được không ạ? Chúng tôi sẽ dùng phòng 2C vì phòng đó có thiết bị nghe nhìn.\n\nJanice Feld (10:24 sáng): Được. Tôi sẽ báo bảo vệ để họ không khóa tòa nhà cho đến khi các bạn xong việc.\n\nKathleen Vern (10:25 sáng): Cảm ơn anh Ribero đã liên hệ với bà Feld.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-07",
+          "no": 7,
+          "text": "What does Ms. Feld offer to do?",
+          "options": {
+            "A": "Create a video of the tile designs",
+            "B": "Contact some colleagues in Perth",
+            "C": "Make sure that the office remains open",
+            "D": "Leave an extra set of keys in the office"
+          },
+          "answer": "C",
+          "explain": "Bà nói sẽ báo bảo vệ không khóa tòa nhà cho đến khi họ xong, tức là giữ văn phòng mở.",
+          "passage": {
+            "text": "Kathleen Vern (10:12 A.M.)\nOur Australian partners have requested a video call to review the tile designs.\n\nMateus Ribero (10:14 A.M.)\nOK. Do we have a plan yet?\n\nKathleen Vern (10:16 A.M.)\nI’m setting it up for 7 P.M. tomorrow, our time, in room 2C. The late start is because of the time difference between Perth and Winnipeg.\n\nNatalia Kovac (10:17 A.M.)\nCould we call in to the meeting from home?\n\nKathleen Vern (10:19 A.M.)\nI’m afraid not. The security policy states that we can’t take anything out of the building, and our partners are counting on seeing the tile designs.\n\nNatalia Kovac (10:20 A.M.)\nOK. That makes sense. Now we just need approval from Ms. Feld to be here after hours.\n\nMateus Ribero (10:22 A.M.)\nLet’s check with her now. Ms. Feld, we would like to have a conference call with our partners in Perth tomorrow. Is it all right if we stay late to show them the new designs? We will be using room 2C since it has the audiovisual equipment.\n\nJanice Feld (10:24 A.M.)\nYes, that’s fine. I’ll tell security so they won’t lock the building until you’ve finished.\n\nKathleen Vern (10:25 A.M.)\nThanks, Mr. Ribero, for reaching out to Ms. Feld."
+          },
+          "vi": "Kathleen Vern (10:12 sáng): Đối tác Úc của chúng ta yêu cầu một cuộc gọi video để xem lại các mẫu thiết kế gạch ốp.\n\nMateus Ribero (10:14 sáng): Được. Mình đã có kế hoạch chưa?\n\nKathleen Vern (10:16 sáng): Tôi đang sắp xếp vào 7 giờ tối mai theo giờ mình, ở phòng 2C. Giờ muộn là do chênh lệch múi giờ giữa Perth và Winnipeg.\n\nNatalia Kovac (10:17 sáng): Mình có thể gọi vào cuộc họp từ nhà không?\n\nKathleen Vern (10:19 sáng): Tiếc là không. Chính sách an ninh quy định không được mang gì ra khỏi tòa nhà, mà đối tác lại trông chờ được xem các mẫu gạch.\n\nNatalia Kovac (10:20 sáng): Ừ, hợp lý. Giờ mình chỉ cần bà Feld cho phép ở lại sau giờ làm.\n\nMateus Ribero (10:22 sáng): Hỏi bà ấy luôn nhé. Thưa bà Feld, chúng tôi muốn họp trực tuyến với đối tác ở Perth vào ngày mai. Chúng tôi ở lại muộn để cho họ xem các mẫu mới có được không ạ? Chúng tôi sẽ dùng phòng 2C vì phòng đó có thiết bị nghe nhìn.\n\nJanice Feld (10:24 sáng): Được. Tôi sẽ báo bảo vệ để họ không khóa tòa nhà cho đến khi các bạn xong việc.\n\nKathleen Vern (10:25 sáng): Cảm ơn anh Ribero đã liên hệ với bà Feld.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-08",
+          "no": 8,
+          "text": "Why does Ms. Vern thank Mr. Ribero?",
+          "options": {
+            "A": "For obtaining approval",
+            "B": "For attending a conference",
+            "C": "For setting up some equipment",
+            "D": "For agreeing to lock the building"
+          },
+          "answer": "A",
+          "explain": "Ribero hỏi bà Feld và được đồng ý ở lại muộn; cảm ơn vì “reaching out” là vì đã xin được phép.",
+          "passage": {
+            "text": "Kathleen Vern (10:12 A.M.)\nOur Australian partners have requested a video call to review the tile designs.\n\nMateus Ribero (10:14 A.M.)\nOK. Do we have a plan yet?\n\nKathleen Vern (10:16 A.M.)\nI’m setting it up for 7 P.M. tomorrow, our time, in room 2C. The late start is because of the time difference between Perth and Winnipeg.\n\nNatalia Kovac (10:17 A.M.)\nCould we call in to the meeting from home?\n\nKathleen Vern (10:19 A.M.)\nI’m afraid not. The security policy states that we can’t take anything out of the building, and our partners are counting on seeing the tile designs.\n\nNatalia Kovac (10:20 A.M.)\nOK. That makes sense. Now we just need approval from Ms. Feld to be here after hours.\n\nMateus Ribero (10:22 A.M.)\nLet’s check with her now. Ms. Feld, we would like to have a conference call with our partners in Perth tomorrow. Is it all right if we stay late to show them the new designs? We will be using room 2C since it has the audiovisual equipment.\n\nJanice Feld (10:24 A.M.)\nYes, that’s fine. I’ll tell security so they won’t lock the building until you’ve finished.\n\nKathleen Vern (10:25 A.M.)\nThanks, Mr. Ribero, for reaching out to Ms. Feld."
+          },
+          "vi": "Kathleen Vern (10:12 sáng): Đối tác Úc của chúng ta yêu cầu một cuộc gọi video để xem lại các mẫu thiết kế gạch ốp.\n\nMateus Ribero (10:14 sáng): Được. Mình đã có kế hoạch chưa?\n\nKathleen Vern (10:16 sáng): Tôi đang sắp xếp vào 7 giờ tối mai theo giờ mình, ở phòng 2C. Giờ muộn là do chênh lệch múi giờ giữa Perth và Winnipeg.\n\nNatalia Kovac (10:17 sáng): Mình có thể gọi vào cuộc họp từ nhà không?\n\nKathleen Vern (10:19 sáng): Tiếc là không. Chính sách an ninh quy định không được mang gì ra khỏi tòa nhà, mà đối tác lại trông chờ được xem các mẫu gạch.\n\nNatalia Kovac (10:20 sáng): Ừ, hợp lý. Giờ mình chỉ cần bà Feld cho phép ở lại sau giờ làm.\n\nMateus Ribero (10:22 sáng): Hỏi bà ấy luôn nhé. Thưa bà Feld, chúng tôi muốn họp trực tuyến với đối tác ở Perth vào ngày mai. Chúng tôi ở lại muộn để cho họ xem các mẫu mới có được không ạ? Chúng tôi sẽ dùng phòng 2C vì phòng đó có thiết bị nghe nhìn.\n\nJanice Feld (10:24 sáng): Được. Tôi sẽ báo bảo vệ để họ không khóa tòa nhà cho đến khi các bạn xong việc.\n\nKathleen Vern (10:25 sáng): Cảm ơn anh Ribero đã liên hệ với bà Feld.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: a prospective customer",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-09",
+          "no": 1,
+          "text": "What is the purpose of the e-mail?",
+          "options": {
+            "A": "To renew a contract",
+            "B": "To request a meeting",
+            "C": "To attract a new customer",
+            "D": "To explain a production technique"
+          },
+          "answer": "B",
+          "explain": "Ông muốn thăm nhà máy, gặp ban quản lý và xin ngày giờ thuận tiện để đến bàn bạc.",
+          "passage": {
+            "text": "To: aileezawi@luzonman.ph\nFrom: vrenato@elegantebrand.it\nDate: August 8\nSubject: A prospective customer\n\nDear Ms. Wi,\n\nI am a product manager at Elegante, an Italian cell phone accessories brand. — [1] —. We are currently looking for a manufacturer for our new line of metal cell phone cases. While several factories make our current products, they all specialize in manufacturing plastic goods. — [2] —. After reviewing your Web site, we believe Luzon Manufacturing could be a strong production partner for Elegante. I would very much like to see your factory and meet with the management.\n\nTo give you an idea of our needs, let me tell you more about our operation. — [3] —. Most importantly, we only sell our products in bulk. We have contracts with major distributors of electronics and accessories in Italy, so we want a producer that can handle very large orders. We plan to expand our market to other countries as well, so our production demands will increase over time. — [4] —.\n\nPlease notify me of a convenient date and time for me to visit and discuss a relationship between Elegante and Luzon Manufacturing.\n\nLooking forward to hearing from you.\n\nVitale Renato\nSenior Product Manager, Elegante"
+          },
+          "vi": "Gửi bà Wi,\n\nTôi là quản lý sản phẩm tại Elegante, một thương hiệu phụ kiện điện thoại di động của Ý. Chúng tôi đang tìm nhà sản xuất cho dòng ốp điện thoại kim loại mới. Tuy có vài nhà máy đang sản xuất các sản phẩm hiện tại của chúng tôi, tất cả đều chuyên làm hàng nhựa. Sau khi xem trang web của quý công ty, chúng tôi tin Luzon Manufacturing có thể là đối tác sản xuất vững chắc của Elegante. Tôi rất muốn đến thăm nhà máy và gặp ban quản lý.\n\nĐể bà hình dung nhu cầu của chúng tôi, tôi xin nói thêm về hoạt động của công ty. Quan trọng nhất, chúng tôi chỉ bán sản phẩm theo số lượng lớn. Chúng tôi có hợp đồng với các nhà phân phối đồ điện tử và phụ kiện lớn ở Ý nên cần một nhà sản xuất xử lý được đơn hàng rất lớn. Chúng tôi cũng dự định mở rộng thị trường sang các nước khác nên nhu cầu sản xuất sẽ tăng dần theo thời gian.\n\nXin bà báo cho tôi ngày giờ thuận tiện để tôi đến thăm và bàn về quan hệ hợp tác giữa Elegante và Luzon Manufacturing.\n\nMong sớm nhận được hồi âm.\n\nVitale Renato, Quản lý sản phẩm cấp cao, Elegante",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-10",
+          "no": 2,
+          "text": "What is true about Elegante?",
+          "options": {
+            "A": "They make personalized cell phone accessories.",
+            "B": "They mainly sell products made from metal.",
+            "C": "They work with several manufacturers.",
+            "D": "They now operate internationally."
+          },
+          "answer": "C",
+          "explain": "“Several factories make our current products” nghĩa là họ đang làm với nhiều nhà sản xuất. Việc ra nước ngoài mới chỉ là kế hoạch.",
+          "passage": {
+            "text": "To: aileezawi@luzonman.ph\nFrom: vrenato@elegantebrand.it\nDate: August 8\nSubject: A prospective customer\n\nDear Ms. Wi,\n\nI am a product manager at Elegante, an Italian cell phone accessories brand. — [1] —. We are currently looking for a manufacturer for our new line of metal cell phone cases. While several factories make our current products, they all specialize in manufacturing plastic goods. — [2] —. After reviewing your Web site, we believe Luzon Manufacturing could be a strong production partner for Elegante. I would very much like to see your factory and meet with the management.\n\nTo give you an idea of our needs, let me tell you more about our operation. — [3] —. Most importantly, we only sell our products in bulk. We have contracts with major distributors of electronics and accessories in Italy, so we want a producer that can handle very large orders. We plan to expand our market to other countries as well, so our production demands will increase over time. — [4] —.\n\nPlease notify me of a convenient date and time for me to visit and discuss a relationship between Elegante and Luzon Manufacturing.\n\nLooking forward to hearing from you.\n\nVitale Renato\nSenior Product Manager, Elegante"
+          },
+          "vi": "Gửi bà Wi,\n\nTôi là quản lý sản phẩm tại Elegante, một thương hiệu phụ kiện điện thoại di động của Ý. Chúng tôi đang tìm nhà sản xuất cho dòng ốp điện thoại kim loại mới. Tuy có vài nhà máy đang sản xuất các sản phẩm hiện tại của chúng tôi, tất cả đều chuyên làm hàng nhựa. Sau khi xem trang web của quý công ty, chúng tôi tin Luzon Manufacturing có thể là đối tác sản xuất vững chắc của Elegante. Tôi rất muốn đến thăm nhà máy và gặp ban quản lý.\n\nĐể bà hình dung nhu cầu của chúng tôi, tôi xin nói thêm về hoạt động của công ty. Quan trọng nhất, chúng tôi chỉ bán sản phẩm theo số lượng lớn. Chúng tôi có hợp đồng với các nhà phân phối đồ điện tử và phụ kiện lớn ở Ý nên cần một nhà sản xuất xử lý được đơn hàng rất lớn. Chúng tôi cũng dự định mở rộng thị trường sang các nước khác nên nhu cầu sản xuất sẽ tăng dần theo thời gian.\n\nXin bà báo cho tôi ngày giờ thuận tiện để tôi đến thăm và bàn về quan hệ hợp tác giữa Elegante và Luzon Manufacturing.\n\nMong sớm nhận được hồi âm.\n\nVitale Renato, Quản lý sản phẩm cấp cao, Elegante",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-11",
+          "no": 3,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Now we need one that can produce high-quality metal accessories.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "B",
+          "explain": "Câu chèn đối lập với ý các nhà máy hiện tại chỉ làm hàng nhựa; “one” thay cho “a factory” ở câu trước vị trí [2].",
+          "passage": {
+            "text": "To: aileezawi@luzonman.ph\nFrom: vrenato@elegantebrand.it\nDate: August 8\nSubject: A prospective customer\n\nDear Ms. Wi,\n\nI am a product manager at Elegante, an Italian cell phone accessories brand. — [1] —. We are currently looking for a manufacturer for our new line of metal cell phone cases. While several factories make our current products, they all specialize in manufacturing plastic goods. — [2] —. After reviewing your Web site, we believe Luzon Manufacturing could be a strong production partner for Elegante. I would very much like to see your factory and meet with the management.\n\nTo give you an idea of our needs, let me tell you more about our operation. — [3] —. Most importantly, we only sell our products in bulk. We have contracts with major distributors of electronics and accessories in Italy, so we want a producer that can handle very large orders. We plan to expand our market to other countries as well, so our production demands will increase over time. — [4] —.\n\nPlease notify me of a convenient date and time for me to visit and discuss a relationship between Elegante and Luzon Manufacturing.\n\nLooking forward to hearing from you.\n\nVitale Renato\nSenior Product Manager, Elegante"
+          },
+          "vi": "Gửi bà Wi,\n\nTôi là quản lý sản phẩm tại Elegante, một thương hiệu phụ kiện điện thoại di động của Ý. Chúng tôi đang tìm nhà sản xuất cho dòng ốp điện thoại kim loại mới. Tuy có vài nhà máy đang sản xuất các sản phẩm hiện tại của chúng tôi, tất cả đều chuyên làm hàng nhựa. Sau khi xem trang web của quý công ty, chúng tôi tin Luzon Manufacturing có thể là đối tác sản xuất vững chắc của Elegante. Tôi rất muốn đến thăm nhà máy và gặp ban quản lý.\n\nĐể bà hình dung nhu cầu của chúng tôi, tôi xin nói thêm về hoạt động của công ty. Quan trọng nhất, chúng tôi chỉ bán sản phẩm theo số lượng lớn. Chúng tôi có hợp đồng với các nhà phân phối đồ điện tử và phụ kiện lớn ở Ý nên cần một nhà sản xuất xử lý được đơn hàng rất lớn. Chúng tôi cũng dự định mở rộng thị trường sang các nước khác nên nhu cầu sản xuất sẽ tăng dần theo thời gian.\n\nXin bà báo cho tôi ngày giờ thuận tiện để tôi đến thăm và bàn về quan hệ hợp tác giữa Elegante và Luzon Manufacturing.\n\nMong sớm nhận được hồi âm.\n\nVitale Renato, Quản lý sản phẩm cấp cao, Elegante",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: a popular gym",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-12",
+          "no": 4,
+          "text": "According to the article, what is true about Prism Gym?",
+          "options": {
+            "A": "It offers outdoor fitness classes.",
+            "B": "It is open 24 hours a day.",
+            "C": "It has 2,200 members.",
+            "D": "It has multiple locations."
+          },
+          "answer": "B",
+          "explain": "“The facility offers 24-hour access.” Con số 2,200 là diện tích (square feet), không phải số hội viên.",
+          "passage": {
+            "text": "Delmax City Times\nSeptember 2\n\nPersonal trainer helps locals keep fit at popular gym\n\nThree years ago, when personal trainer Carol Yoo invested her life savings to open Prism Gym, her friends were concerned. “You’re taking a big risk,” a colleague told her. — [1] —. However, the investment proved to be worth it.\n\nToday, Prism Gym has 350 clients and 21 staff members. The facility offers 24-hour access and 12 personal trainers. It currently occupies a 2,200-square foot space on the second floor of the Mandel Building and will move to a larger space on the first floor of the same building next month. “I didn’t think I would need more space so soon,” Ms. Yoo said. — [2] —.\n\nYoo, a Delmax City native, previously worked as a personal trainer at the downtown Wellness Gym. She quit when Plus Fitness, Inc. bought out the facility and reduced her work hours, and soon started Prism Gym with an initial equipment purchase of $50,000. “I paid $30,000 up front, and the rest on installments. Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned,” she said. — [3] —.\n\nYoo has done no marketing since the gym opened. “All of our members are Delmax City residents who joined via positive word of mouth from other clients,” she said. A typical member, she explained, is a beginner with little gym experience. — [4] —. Because of that, all of the Prism Gym staff are “friendly and approachable.”"
+          },
+          "vi": "Huấn luyện viên cá nhân giúp người dân địa phương giữ dáng tại phòng tập được ưa chuộng\n\nBa năm trước, khi huấn luyện viên cá nhân Carol Yoo bỏ toàn bộ tiền tiết kiệm để mở Prism Gym, bạn bè cô đều lo lắng. Một đồng nghiệp nói với cô: “Cô đang mạo hiểm lớn đấy.” Tuy vậy, khoản đầu tư đã chứng tỏ là xứng đáng.\n\nHiện nay Prism Gym có 350 khách hàng và 21 nhân viên. Cơ sở mở cửa 24 giờ và có 12 huấn luyện viên cá nhân. Phòng tập đang ở khu rộng 2.200 feet vuông trên tầng hai tòa nhà Mandel và tháng sau sẽ chuyển xuống khu rộng hơn ở tầng một cùng tòa nhà. Cô Yoo nói: “Tôi không nghĩ mình lại cần thêm chỗ sớm như vậy.”\n\nYoo, người gốc Delmax City, trước đây làm huấn luyện viên tại Wellness Gym ở trung tâm. Cô nghỉ việc khi Plus Fitness, Inc. mua lại cơ sở đó và cắt giảm giờ làm của cô, rồi sớm mở Prism Gym với khoản mua thiết bị ban đầu 50.000 đô la. “Tôi trả trước 30.000 đô la, phần còn lại trả góp. Nhờ tăng trưởng nhanh đến bất ngờ, tôi đã trả hết 20.000 đô la còn lại sớm hơn dự kiến”, cô nói.\n\nTừ khi mở cửa, Yoo không làm marketing gì. “Tất cả hội viên đều là cư dân Delmax City, đến với chúng tôi nhờ lời giới thiệu tốt từ các khách hàng khác”, cô nói. Theo cô, một hội viên điển hình là người mới bắt đầu, ít kinh nghiệm tập gym. Vì thế, toàn bộ nhân viên Prism Gym đều “thân thiện và dễ gần”.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-13",
+          "no": 5,
+          "text": "What is indicated about Ms. Yoo?",
+          "options": {
+            "A": "She was born in Delmax City.",
+            "B": "She owns two fitness centers.",
+            "C": "She used to manage Plus Fitness, Inc.",
+            "D": "She sells her own line of exercise equipment."
+          },
+          "answer": "A",
+          "explain": "“A Delmax City native” nghĩa là cô sinh ra ở Delmax City.",
+          "passage": {
+            "text": "Delmax City Times\nSeptember 2\n\nPersonal trainer helps locals keep fit at popular gym\n\nThree years ago, when personal trainer Carol Yoo invested her life savings to open Prism Gym, her friends were concerned. “You’re taking a big risk,” a colleague told her. — [1] —. However, the investment proved to be worth it.\n\nToday, Prism Gym has 350 clients and 21 staff members. The facility offers 24-hour access and 12 personal trainers. It currently occupies a 2,200-square foot space on the second floor of the Mandel Building and will move to a larger space on the first floor of the same building next month. “I didn’t think I would need more space so soon,” Ms. Yoo said. — [2] —.\n\nYoo, a Delmax City native, previously worked as a personal trainer at the downtown Wellness Gym. She quit when Plus Fitness, Inc. bought out the facility and reduced her work hours, and soon started Prism Gym with an initial equipment purchase of $50,000. “I paid $30,000 up front, and the rest on installments. Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned,” she said. — [3] —.\n\nYoo has done no marketing since the gym opened. “All of our members are Delmax City residents who joined via positive word of mouth from other clients,” she said. A typical member, she explained, is a beginner with little gym experience. — [4] —. Because of that, all of the Prism Gym staff are “friendly and approachable.”"
+          },
+          "vi": "Huấn luyện viên cá nhân giúp người dân địa phương giữ dáng tại phòng tập được ưa chuộng\n\nBa năm trước, khi huấn luyện viên cá nhân Carol Yoo bỏ toàn bộ tiền tiết kiệm để mở Prism Gym, bạn bè cô đều lo lắng. Một đồng nghiệp nói với cô: “Cô đang mạo hiểm lớn đấy.” Tuy vậy, khoản đầu tư đã chứng tỏ là xứng đáng.\n\nHiện nay Prism Gym có 350 khách hàng và 21 nhân viên. Cơ sở mở cửa 24 giờ và có 12 huấn luyện viên cá nhân. Phòng tập đang ở khu rộng 2.200 feet vuông trên tầng hai tòa nhà Mandel và tháng sau sẽ chuyển xuống khu rộng hơn ở tầng một cùng tòa nhà. Cô Yoo nói: “Tôi không nghĩ mình lại cần thêm chỗ sớm như vậy.”\n\nYoo, người gốc Delmax City, trước đây làm huấn luyện viên tại Wellness Gym ở trung tâm. Cô nghỉ việc khi Plus Fitness, Inc. mua lại cơ sở đó và cắt giảm giờ làm của cô, rồi sớm mở Prism Gym với khoản mua thiết bị ban đầu 50.000 đô la. “Tôi trả trước 30.000 đô la, phần còn lại trả góp. Nhờ tăng trưởng nhanh đến bất ngờ, tôi đã trả hết 20.000 đô la còn lại sớm hơn dự kiến”, cô nói.\n\nTừ khi mở cửa, Yoo không làm marketing gì. “Tất cả hội viên đều là cư dân Delmax City, đến với chúng tôi nhờ lời giới thiệu tốt từ các khách hàng khác”, cô nói. Theo cô, một hội viên điển hình là người mới bắt đầu, ít kinh nghiệm tập gym. Vì thế, toàn bộ nhân viên Prism Gym đều “thân thiện và dễ gần”.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-14",
+          "no": 6,
+          "text": "What does Ms. Yoo say about Prism Gym’s members?",
+          "options": {
+            "A": "They are transferred from other gyms.",
+            "B": "They will soon appear in a marketing video.",
+            "C": "They referred each other to the facility.",
+            "D": "They live outside of Delmax City."
+          },
+          "answer": "C",
+          "explain": "Hội viên đến “via positive word of mouth from other clients”, tức là giới thiệu cho nhau.",
+          "passage": {
+            "text": "Delmax City Times\nSeptember 2\n\nPersonal trainer helps locals keep fit at popular gym\n\nThree years ago, when personal trainer Carol Yoo invested her life savings to open Prism Gym, her friends were concerned. “You’re taking a big risk,” a colleague told her. — [1] —. However, the investment proved to be worth it.\n\nToday, Prism Gym has 350 clients and 21 staff members. The facility offers 24-hour access and 12 personal trainers. It currently occupies a 2,200-square foot space on the second floor of the Mandel Building and will move to a larger space on the first floor of the same building next month. “I didn’t think I would need more space so soon,” Ms. Yoo said. — [2] —.\n\nYoo, a Delmax City native, previously worked as a personal trainer at the downtown Wellness Gym. She quit when Plus Fitness, Inc. bought out the facility and reduced her work hours, and soon started Prism Gym with an initial equipment purchase of $50,000. “I paid $30,000 up front, and the rest on installments. Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned,” she said. — [3] —.\n\nYoo has done no marketing since the gym opened. “All of our members are Delmax City residents who joined via positive word of mouth from other clients,” she said. A typical member, she explained, is a beginner with little gym experience. — [4] —. Because of that, all of the Prism Gym staff are “friendly and approachable.”"
+          },
+          "vi": "Huấn luyện viên cá nhân giúp người dân địa phương giữ dáng tại phòng tập được ưa chuộng\n\nBa năm trước, khi huấn luyện viên cá nhân Carol Yoo bỏ toàn bộ tiền tiết kiệm để mở Prism Gym, bạn bè cô đều lo lắng. Một đồng nghiệp nói với cô: “Cô đang mạo hiểm lớn đấy.” Tuy vậy, khoản đầu tư đã chứng tỏ là xứng đáng.\n\nHiện nay Prism Gym có 350 khách hàng và 21 nhân viên. Cơ sở mở cửa 24 giờ và có 12 huấn luyện viên cá nhân. Phòng tập đang ở khu rộng 2.200 feet vuông trên tầng hai tòa nhà Mandel và tháng sau sẽ chuyển xuống khu rộng hơn ở tầng một cùng tòa nhà. Cô Yoo nói: “Tôi không nghĩ mình lại cần thêm chỗ sớm như vậy.”\n\nYoo, người gốc Delmax City, trước đây làm huấn luyện viên tại Wellness Gym ở trung tâm. Cô nghỉ việc khi Plus Fitness, Inc. mua lại cơ sở đó và cắt giảm giờ làm của cô, rồi sớm mở Prism Gym với khoản mua thiết bị ban đầu 50.000 đô la. “Tôi trả trước 30.000 đô la, phần còn lại trả góp. Nhờ tăng trưởng nhanh đến bất ngờ, tôi đã trả hết 20.000 đô la còn lại sớm hơn dự kiến”, cô nói.\n\nTừ khi mở cửa, Yoo không làm marketing gì. “Tất cả hội viên đều là cư dân Delmax City, đến với chúng tôi nhờ lời giới thiệu tốt từ các khách hàng khác”, cô nói. Theo cô, một hội viên điển hình là người mới bắt đầu, ít kinh nghiệm tập gym. Vì thế, toàn bộ nhân viên Prism Gym đều “thân thiện và dễ gần”.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-15",
+          "no": 7,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “But the business has grown faster than I expected.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "B",
+          "explain": "Câu chèn nối tiếp lời cô không nghĩ sẽ cần thêm chỗ sớm vậy; “But” giải thích lý do phải chuyển sang chỗ rộng hơn.",
+          "passage": {
+            "text": "Delmax City Times\nSeptember 2\n\nPersonal trainer helps locals keep fit at popular gym\n\nThree years ago, when personal trainer Carol Yoo invested her life savings to open Prism Gym, her friends were concerned. “You’re taking a big risk,” a colleague told her. — [1] —. However, the investment proved to be worth it.\n\nToday, Prism Gym has 350 clients and 21 staff members. The facility offers 24-hour access and 12 personal trainers. It currently occupies a 2,200-square foot space on the second floor of the Mandel Building and will move to a larger space on the first floor of the same building next month. “I didn’t think I would need more space so soon,” Ms. Yoo said. — [2] —.\n\nYoo, a Delmax City native, previously worked as a personal trainer at the downtown Wellness Gym. She quit when Plus Fitness, Inc. bought out the facility and reduced her work hours, and soon started Prism Gym with an initial equipment purchase of $50,000. “I paid $30,000 up front, and the rest on installments. Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned,” she said. — [3] —.\n\nYoo has done no marketing since the gym opened. “All of our members are Delmax City residents who joined via positive word of mouth from other clients,” she said. A typical member, she explained, is a beginner with little gym experience. — [4] —. Because of that, all of the Prism Gym staff are “friendly and approachable.”"
+          },
+          "vi": "Huấn luyện viên cá nhân giúp người dân địa phương giữ dáng tại phòng tập được ưa chuộng\n\nBa năm trước, khi huấn luyện viên cá nhân Carol Yoo bỏ toàn bộ tiền tiết kiệm để mở Prism Gym, bạn bè cô đều lo lắng. Một đồng nghiệp nói với cô: “Cô đang mạo hiểm lớn đấy.” Tuy vậy, khoản đầu tư đã chứng tỏ là xứng đáng.\n\nHiện nay Prism Gym có 350 khách hàng và 21 nhân viên. Cơ sở mở cửa 24 giờ và có 12 huấn luyện viên cá nhân. Phòng tập đang ở khu rộng 2.200 feet vuông trên tầng hai tòa nhà Mandel và tháng sau sẽ chuyển xuống khu rộng hơn ở tầng một cùng tòa nhà. Cô Yoo nói: “Tôi không nghĩ mình lại cần thêm chỗ sớm như vậy.”\n\nYoo, người gốc Delmax City, trước đây làm huấn luyện viên tại Wellness Gym ở trung tâm. Cô nghỉ việc khi Plus Fitness, Inc. mua lại cơ sở đó và cắt giảm giờ làm của cô, rồi sớm mở Prism Gym với khoản mua thiết bị ban đầu 50.000 đô la. “Tôi trả trước 30.000 đô la, phần còn lại trả góp. Nhờ tăng trưởng nhanh đến bất ngờ, tôi đã trả hết 20.000 đô la còn lại sớm hơn dự kiến”, cô nói.\n\nTừ khi mở cửa, Yoo không làm marketing gì. “Tất cả hội viên đều là cư dân Delmax City, đến với chúng tôi nhờ lời giới thiệu tốt từ các khách hàng khác”, cô nói. Theo cô, một hội viên điển hình là người mới bắt đầu, ít kinh nghiệm tập gym. Vì thế, toàn bộ nhân viên Prism Gym đều “thân thiện và dễ gần”.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d14-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: a new plant in Mechelen",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d14-read-16",
+          "no": 8,
+          "text": "What does the article mainly discuss?",
+          "options": {
+            "A": "The appointment of a new company CEO",
+            "B": "The merger of two companies",
+            "C": "The process of producing wind turbines",
+            "D": "The opening of a facility"
+          },
+          "answer": "D",
+          "explain": "Bài báo nói về kế hoạch mở nhà máy sản xuất mới ở Mechelen.",
+          "passage": {
+            "text": "Positive Change for Mechelen\n\nWind Dynamics, the leading producer of wind turbines and wind energy technology across Europe, has announced plans to open a production plant in Mechelen, Belgium. — [1] —. The Dutch company is spending more than €15 million to purchase, renovate, and equip the abandoned Cantek Telephone factory. The venture is expected to create about two hundred new production jobs and fifty new office jobs over the next two years. This is good news for Mechelen, an industrial area that has been hit hard by factory closures and job loss in recent years. — [2] —. Battel Builders has already been contracted to undertake the plant’s transformations. — [3] —.\n\nThe plant will primarily be used for the assembly and testing of gear drives to be incorporated in the company’s wind turbines. — [4] —. Wind Dynamics, in cooperation with the Mechelen Business Development Association (MBDA), will provide development grants to train its incoming workforce in green technology. Jane Arens, MBDA president, says “Mechelen is proud to be part of something that contributes to energy conservation and to the economic growth of our region.”"
+          },
+          "vi": "Thay đổi tích cực cho Mechelen\n\nWind Dynamics, nhà sản xuất tua-bin gió và công nghệ năng lượng gió hàng đầu châu Âu, đã công bố kế hoạch mở một nhà máy sản xuất ở Mechelen, Bỉ. Công ty Hà Lan này chi hơn 15 triệu euro để mua, cải tạo và trang bị lại nhà máy bỏ hoang của Cantek Telephone. Dự án dự kiến tạo khoảng 200 việc làm sản xuất mới và 50 việc làm văn phòng mới trong hai năm tới. Đây là tin tốt cho Mechelen, một khu công nghiệp bị ảnh hưởng nặng bởi việc đóng cửa nhà máy và mất việc làm trong những năm gần đây. Công ty Battel Builders đã được ký hợp đồng để thực hiện việc cải tạo nhà máy.\n\nNhà máy chủ yếu được dùng để lắp ráp và kiểm tra các bộ truyền động bánh răng sẽ lắp vào tua-bin gió của công ty. Wind Dynamics, phối hợp với Hiệp hội Phát triển Doanh nghiệp Mechelen (MBDA), sẽ cấp các khoản hỗ trợ phát triển để đào tạo lực lượng lao động mới về công nghệ xanh. Chủ tịch MBDA Jane Arens nói: “Mechelen tự hào được góp phần vào một dự án giúp tiết kiệm năng lượng và tăng trưởng kinh tế cho khu vực của chúng tôi.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-17",
+          "no": 9,
+          "text": "What will happen to the Cantek Telephone factory?",
+          "options": {
+            "A": "It will be restored as a historic site.",
+            "B": "It will be used by a different industry.",
+            "C": "It will be moved to a new location.",
+            "D": "It will be demolished to create an open space."
+          },
+          "answer": "B",
+          "explain": "Nhà máy điện thoại cũ được mua lại để lắp ráp bộ truyền động cho tua-bin gió, tức là chuyển sang ngành khác.",
+          "passage": {
+            "text": "Positive Change for Mechelen\n\nWind Dynamics, the leading producer of wind turbines and wind energy technology across Europe, has announced plans to open a production plant in Mechelen, Belgium. — [1] —. The Dutch company is spending more than €15 million to purchase, renovate, and equip the abandoned Cantek Telephone factory. The venture is expected to create about two hundred new production jobs and fifty new office jobs over the next two years. This is good news for Mechelen, an industrial area that has been hit hard by factory closures and job loss in recent years. — [2] —. Battel Builders has already been contracted to undertake the plant’s transformations. — [3] —.\n\nThe plant will primarily be used for the assembly and testing of gear drives to be incorporated in the company’s wind turbines. — [4] —. Wind Dynamics, in cooperation with the Mechelen Business Development Association (MBDA), will provide development grants to train its incoming workforce in green technology. Jane Arens, MBDA president, says “Mechelen is proud to be part of something that contributes to energy conservation and to the economic growth of our region.”"
+          },
+          "vi": "Thay đổi tích cực cho Mechelen\n\nWind Dynamics, nhà sản xuất tua-bin gió và công nghệ năng lượng gió hàng đầu châu Âu, đã công bố kế hoạch mở một nhà máy sản xuất ở Mechelen, Bỉ. Công ty Hà Lan này chi hơn 15 triệu euro để mua, cải tạo và trang bị lại nhà máy bỏ hoang của Cantek Telephone. Dự án dự kiến tạo khoảng 200 việc làm sản xuất mới và 50 việc làm văn phòng mới trong hai năm tới. Đây là tin tốt cho Mechelen, một khu công nghiệp bị ảnh hưởng nặng bởi việc đóng cửa nhà máy và mất việc làm trong những năm gần đây. Công ty Battel Builders đã được ký hợp đồng để thực hiện việc cải tạo nhà máy.\n\nNhà máy chủ yếu được dùng để lắp ráp và kiểm tra các bộ truyền động bánh răng sẽ lắp vào tua-bin gió của công ty. Wind Dynamics, phối hợp với Hiệp hội Phát triển Doanh nghiệp Mechelen (MBDA), sẽ cấp các khoản hỗ trợ phát triển để đào tạo lực lượng lao động mới về công nghệ xanh. Chủ tịch MBDA Jane Arens nói: “Mechelen tự hào được góp phần vào một dự án giúp tiết kiệm năng lượng và tăng trưởng kinh tế cho khu vực của chúng tôi.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-18",
+          "no": 10,
+          "text": "Who is Ms. Arens?",
+          "options": {
+            "A": "A Wind Dynamics employee",
+            "B": "A newspaper journalist",
+            "C": "The president of an association",
+            "D": "The mayor of a town in Belgium"
+          },
+          "answer": "C",
+          "explain": "“Jane Arens, MBDA president” — chủ tịch Hiệp hội Phát triển Doanh nghiệp Mechelen.",
+          "passage": {
+            "text": "Positive Change for Mechelen\n\nWind Dynamics, the leading producer of wind turbines and wind energy technology across Europe, has announced plans to open a production plant in Mechelen, Belgium. — [1] —. The Dutch company is spending more than €15 million to purchase, renovate, and equip the abandoned Cantek Telephone factory. The venture is expected to create about two hundred new production jobs and fifty new office jobs over the next two years. This is good news for Mechelen, an industrial area that has been hit hard by factory closures and job loss in recent years. — [2] —. Battel Builders has already been contracted to undertake the plant’s transformations. — [3] —.\n\nThe plant will primarily be used for the assembly and testing of gear drives to be incorporated in the company’s wind turbines. — [4] —. Wind Dynamics, in cooperation with the Mechelen Business Development Association (MBDA), will provide development grants to train its incoming workforce in green technology. Jane Arens, MBDA president, says “Mechelen is proud to be part of something that contributes to energy conservation and to the economic growth of our region.”"
+          },
+          "vi": "Thay đổi tích cực cho Mechelen\n\nWind Dynamics, nhà sản xuất tua-bin gió và công nghệ năng lượng gió hàng đầu châu Âu, đã công bố kế hoạch mở một nhà máy sản xuất ở Mechelen, Bỉ. Công ty Hà Lan này chi hơn 15 triệu euro để mua, cải tạo và trang bị lại nhà máy bỏ hoang của Cantek Telephone. Dự án dự kiến tạo khoảng 200 việc làm sản xuất mới và 50 việc làm văn phòng mới trong hai năm tới. Đây là tin tốt cho Mechelen, một khu công nghiệp bị ảnh hưởng nặng bởi việc đóng cửa nhà máy và mất việc làm trong những năm gần đây. Công ty Battel Builders đã được ký hợp đồng để thực hiện việc cải tạo nhà máy.\n\nNhà máy chủ yếu được dùng để lắp ráp và kiểm tra các bộ truyền động bánh răng sẽ lắp vào tua-bin gió của công ty. Wind Dynamics, phối hợp với Hiệp hội Phát triển Doanh nghiệp Mechelen (MBDA), sẽ cấp các khoản hỗ trợ phát triển để đào tạo lực lượng lao động mới về công nghệ xanh. Chủ tịch MBDA Jane Arens nói: “Mechelen tự hào được góp phần vào một dự án giúp tiết kiệm năng lượng và tăng trưởng kinh tế cho khu vực của chúng tôi.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d14-read-19",
+          "no": 11,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “It also anticipates hiring additional workers to complete the construction project.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "C",
+          "explain": "“It” là Battel Builders vừa được nhắc ở câu trước [3], và “construction project” khớp với việc cải tạo nhà máy.",
+          "passage": {
+            "text": "Positive Change for Mechelen\n\nWind Dynamics, the leading producer of wind turbines and wind energy technology across Europe, has announced plans to open a production plant in Mechelen, Belgium. — [1] —. The Dutch company is spending more than €15 million to purchase, renovate, and equip the abandoned Cantek Telephone factory. The venture is expected to create about two hundred new production jobs and fifty new office jobs over the next two years. This is good news for Mechelen, an industrial area that has been hit hard by factory closures and job loss in recent years. — [2] —. Battel Builders has already been contracted to undertake the plant’s transformations. — [3] —.\n\nThe plant will primarily be used for the assembly and testing of gear drives to be incorporated in the company’s wind turbines. — [4] —. Wind Dynamics, in cooperation with the Mechelen Business Development Association (MBDA), will provide development grants to train its incoming workforce in green technology. Jane Arens, MBDA president, says “Mechelen is proud to be part of something that contributes to energy conservation and to the economic growth of our region.”"
+          },
+          "vi": "Thay đổi tích cực cho Mechelen\n\nWind Dynamics, nhà sản xuất tua-bin gió và công nghệ năng lượng gió hàng đầu châu Âu, đã công bố kế hoạch mở một nhà máy sản xuất ở Mechelen, Bỉ. Công ty Hà Lan này chi hơn 15 triệu euro để mua, cải tạo và trang bị lại nhà máy bỏ hoang của Cantek Telephone. Dự án dự kiến tạo khoảng 200 việc làm sản xuất mới và 50 việc làm văn phòng mới trong hai năm tới. Đây là tin tốt cho Mechelen, một khu công nghiệp bị ảnh hưởng nặng bởi việc đóng cửa nhà máy và mất việc làm trong những năm gần đây. Công ty Battel Builders đã được ký hợp đồng để thực hiện việc cải tạo nhà máy.\n\nNhà máy chủ yếu được dùng để lắp ráp và kiểm tra các bộ truyền động bánh răng sẽ lắp vào tua-bin gió của công ty. Wind Dynamics, phối hợp với Hiệp hội Phát triển Doanh nghiệp Mechelen (MBDA), sẽ cấp các khoản hỗ trợ phát triển để đào tạo lực lượng lao động mới về công nghệ xanh. Chủ tịch MBDA Jane Arens nói: “Mechelen tự hào được góp phần vào một dự án giúp tiết kiệm năng lượng và tăng trưởng kinh tế cho khu vực của chúng tôi.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}
