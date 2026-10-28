@@ -17,7 +17,7 @@
         "D"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": true,
       "fullAudio": "/assets/day-14/audio/part 1.mp3",
       "source": "drive",
@@ -27,7 +27,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/photos/01.mp3",
           "image": "/assets/day-14/images/photos/01.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "He is reading a book.",
             "B": "He has placed his bag at his feet.",
@@ -38,7 +38,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -47,7 +47,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/photos/02.mp3",
           "image": "/assets/day-14/images/photos/02.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "People are walking up some steps.",
             "B": "An entryway is blocked with rocks.",
@@ -58,7 +58,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -67,7 +67,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/photos/03.mp3",
           "image": "/assets/day-14/images/photos/03.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "They are discarding some trash.",
             "B": "They are standing near a garbage can.",
@@ -78,7 +78,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -87,7 +87,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/photos/04.mp3",
           "image": "/assets/day-14/images/photos/04.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "Some people are talking in groups.",
             "B": "The people have gathered for a performance.",
@@ -98,7 +98,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -107,7 +107,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/photos/05.mp3",
           "image": "/assets/day-14/images/photos/05.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "The man is swimming in the water.",
             "B": "The man is leaning on the walking stick.",
@@ -118,7 +118,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -127,7 +127,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/photos/06.mp3",
           "image": "/assets/day-14/images/photos/06.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "A map is posted on the bulletin board.",
             "B": "The man is putting a map into a bag.",
@@ -138,7 +138,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -147,7 +147,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/photos/07.mp3",
           "image": "/assets/day-14/images/photos/07.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "The man is looking at the computer.",
             "B": "The computer is turned off.",
@@ -158,7 +158,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -167,7 +167,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/photos/08.mp3",
           "image": "/assets/day-14/images/photos/08.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "The clothing has drawn a woman's attention.",
             "B": "The store is about to close up for the day.",
@@ -178,7 +178,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -187,7 +187,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/photos/09.mp3",
           "image": "/assets/day-14/images/photos/09.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "Some pedestrians are waiting at the crosswalk.",
             "B": "Cars are waiting at a traffic light.",
@@ -198,7 +198,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -207,7 +207,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/photos/10.mp3",
           "image": "/assets/day-14/images/photos/10.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "Paint is being applied to the wall.",
             "B": "The workers are standing on ladders.",
@@ -218,7 +218,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -236,7 +236,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "questions": [
         {
@@ -244,7 +244,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/who-e/n1e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who left the lights on?",
             "A": "I'm sure It's dark outside",
@@ -255,7 +255,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -263,7 +263,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/who-e/n2e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who wrote this memo?",
             "A": "the vice president",
@@ -274,7 +274,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -282,7 +282,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/who-e/n3e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who's in charge of marketing?",
             "A": "the market closes at 5p.m",
@@ -293,7 +293,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -301,7 +301,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/who-e/n4e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who won the lottery?",
             "A": "the secretary had the winning ticket.",
@@ -312,7 +312,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -320,7 +320,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/who-e/n5e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who uses the corner office?",
             "A": "it used to be on the corner",
@@ -331,7 +331,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -339,7 +339,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/who-e/n6e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who repaired the copy machine?",
             "A": "Robert fixed it",
@@ -350,7 +350,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -358,7 +358,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/who-e/n7e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who gave you this job?",
             "A": "I really like my job",
@@ -369,7 +369,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -377,7 +377,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/who-e/n8e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who went to the meeting?",
             "A": "It was an interesting meeting",
@@ -388,7 +388,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -396,7 +396,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/who-e/n9e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who helped you on this project?",
             "A": "he was very helpful",
@@ -407,7 +407,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -415,7 +415,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/who-e/n10e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who can make coffee?",
             "A": "I take milk in my coffee",
@@ -426,7 +426,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         }
       ],
@@ -444,7 +444,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "questions": [
         {
@@ -452,7 +452,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/who-f/n1.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "who's making coffee?",
             "A": "No thank you, I prefer tea",
@@ -463,7 +463,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -471,7 +471,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/who-f/n2.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who designed this building?",
             "A": "an architect designed it",
@@ -482,7 +482,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -490,7 +490,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/who-f/n3.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who typed this letter?",
             "A": "my secretary was late",
@@ -501,7 +501,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -509,7 +509,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/who-f/n4.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who's working in the mailroom?",
             "A": "the mail is in my room",
@@ -520,7 +520,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -528,7 +528,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/who-f/n5.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who is the new secretary?",
             "A": "a secretarial school graduate",
@@ -539,7 +539,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -547,7 +547,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/who-f/n6.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who took this phone message?",
             "A": "the phone is over there",
@@ -558,7 +558,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -566,7 +566,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/who-f/n7 lo_i.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who uses this computer?",
             "A": "it's a brand new computer",
@@ -577,7 +577,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -585,7 +585,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/who-f/n8.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who sent you that email message?",
             "A": "I mailed you a letter yesterday",
@@ -596,7 +596,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -604,7 +604,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/who-f/n9 lo_i.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who will you meet in New York?",
             "A": "I'll eat at a restaurant",
@@ -615,7 +615,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -623,7 +623,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/who-f/n10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who put this package on my desk?",
             "A": "Mr.kim put it there",
@@ -634,7 +634,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         }
       ],
@@ -652,7 +652,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "questions": [
         {
@@ -660,7 +660,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/what-e/n1e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What is your name?",
             "A": "I came at three",
@@ -671,7 +671,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -679,7 +679,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/what-e/n2e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What did this desk cost?",
             "A": "It was only 125$",
@@ -690,7 +690,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -698,7 +698,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/what-e/n3e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What are you doing for dinner?",
             "A": "he's going to eat lunch at noon.",
@@ -709,7 +709,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -717,7 +717,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/what-e/n4e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What street is your office on?",
             "A": "I work on thirteenth street",
@@ -728,7 +728,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -736,7 +736,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/what-e/n5e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What did we order from the printer?",
             "A": "five hundred envelopes and one thousand labels",
@@ -747,7 +747,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -755,7 +755,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/what-e/n6e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What will you wear to the ceremony?",
             "A": "at 8 o'clock.",
@@ -766,7 +766,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -774,7 +774,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/what-e/n7e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What does Bob do for a living?",
             "A": "he's a doctor",
@@ -785,7 +785,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -793,7 +793,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/what-e/n8e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What did you send to John?",
             "A": "I lent him some money.",
@@ -804,7 +804,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -812,7 +812,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/what-e/n9e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What do you want that newspaper for?",
             "A": "I got it at the news stand",
@@ -823,7 +823,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -831,7 +831,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/what-e/n10e.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What's the best place to eat lunch?",
             "A": "I usually don't eat much",
@@ -842,7 +842,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         }
       ],
@@ -860,7 +860,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "questions": [
         {
@@ -868,7 +868,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/what-f/n1.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "what did you have for lunch?",
             "A": "at 12:30",
@@ -879,7 +879,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -887,7 +887,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/what-f/n2.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What is his occupation?",
             "A": "he's a bookkeeper",
@@ -898,7 +898,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -906,7 +906,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/what-f/n3.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What did your doctor recommend?",
             "A": "I highly recommend my doctor",
@@ -917,7 +917,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -925,7 +925,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/what-f/n4.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What's in your briefcase?",
             "A": "only some papers",
@@ -936,7 +936,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -944,7 +944,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/what-f/n5.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What is the fastest way to go to the airport?",
             "A": "the plane is on time.",
@@ -955,7 +955,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -963,7 +963,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/what-f/n6 lo_i.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What did you get at the bookstore?",
             "A": "I bought some magazines",
@@ -974,7 +974,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -982,7 +982,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/what-f/n7.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What did you see on TV?",
             "A": "I got a new TV",
@@ -993,7 +993,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1001,7 +1001,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/what-f/n8.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What will you do after work tonight?",
             "A": "I work during the day",
@@ -1012,7 +1012,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1020,7 +1020,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/what-f/n9 lo_i.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What did you tell the manager?",
             "A": "Mr. Matsui is the manager.",
@@ -1031,7 +1031,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1039,7 +1039,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/what-f/n10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What's in that room?",
             "A": "The copy machine is there.",
@@ -1050,7 +1050,7 @@
           "source": {
             "audio": "drive",
             "transcript": "drive",
-            "answer": null
+            "answer": "ai"
           }
         }
       ],
@@ -1562,7 +1562,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "source": "drive",
       "questions": [
@@ -1571,7 +1571,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/who/01.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's meeting with Ms. Clark right now?",
             "A": "The accountant.",
@@ -1582,7 +1582,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1590,7 +1590,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/who/02.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who will replace Mr. Fernandez when he retires?",
             "A": "I've never been there.",
@@ -1601,7 +1601,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1609,7 +1609,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/who/03.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who shipped the product samples yesterday?",
             "A": "In the afternoon shipment.",
@@ -1620,7 +1620,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1628,7 +1628,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/who/04.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who can I ask to revise our orientation materials?",
             "A": "I just realized that.",
@@ -1639,7 +1639,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1647,7 +1647,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/who/05.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's going to do the presentation with you?",
             "A": "I'm doing it by myself.",
@@ -1658,7 +1658,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1666,7 +1666,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/who/06.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's in charge of stocking the supply closet?",
             "A": "Oh, we take turns.",
@@ -1677,7 +1677,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1685,7 +1685,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/who/07.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who is Mr Park meeting at the airport?",
             "A": "Inside the terminal.",
@@ -1696,7 +1696,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1704,7 +1704,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/who/08.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who's been selected to lead the design team?",
             "A": "Sign here, please.",
@@ -1715,7 +1715,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1723,7 +1723,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/who/09.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who's retiring next month?",
             "A": "No, we're not tired.",
@@ -1734,7 +1734,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1742,7 +1742,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/who/10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's the new supervisor at the factory?",
             "A": "Oh, have they hired someone?",
@@ -1753,7 +1753,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1761,7 +1761,7 @@
           "no": 11,
           "audio": "/assets/day-14/audio/who/11.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who was in your office this morning?",
             "A": "In the other building.",
@@ -1772,7 +1772,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1780,7 +1780,7 @@
           "no": 12,
           "audio": "/assets/day-14/audio/who/12.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who's leading the orientation?",
             "A": "He read it recently.",
@@ -1791,7 +1791,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1799,7 +1799,7 @@
           "no": 13,
           "audio": "/assets/day-14/audio/who/13.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who designed the floor plan?",
             "A": "They're affordable.",
@@ -1810,7 +1810,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1818,7 +1818,7 @@
           "no": 14,
           "audio": "/assets/day-14/audio/who/14.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who put the ladder in the hallway?",
             "A": "The letter was mailed.",
@@ -1829,7 +1829,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1837,7 +1837,7 @@
           "no": 15,
           "audio": "/assets/day-14/audio/who/15.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who was offered the marketing position?",
             "A": "Janet Gray was.",
@@ -1848,7 +1848,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1856,7 +1856,7 @@
           "no": 16,
           "audio": "/assets/day-14/audio/who/16.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who developed the advertising campaign?",
             "A": "I've never been camping.",
@@ -1867,7 +1867,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1875,7 +1875,7 @@
           "no": 17,
           "audio": "/assets/day-14/audio/who/17.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who can help plan the upcoming orientation session?",
             "A": "That was helpful.",
@@ -1886,7 +1886,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1894,7 +1894,7 @@
           "no": 18,
           "audio": "/assets/day-14/audio/who/18.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who left these documents on my desk?",
             "A": "There isn't any left.",
@@ -1905,7 +1905,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1913,7 +1913,7 @@
           "no": 19,
           "audio": "/assets/day-14/audio/who/19.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who's bringing the clients to the restaurant?",
             "A": "Just water for me, please.",
@@ -1924,7 +1924,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1932,7 +1932,7 @@
           "no": 20,
           "audio": "/assets/day-14/audio/who/20.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who can I contact about the accounting position?",
             "A": "A minimum of four years of experience.",
@@ -1943,7 +1943,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         }
       ]
@@ -1960,7 +1960,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "showPhoto": false,
       "source": "drive",
       "questions": [
@@ -1969,7 +1969,7 @@
           "no": 1,
           "audio": "/assets/day-14/audio/what/01.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What flight is he arriving on?",
             "A": "Flight 48.",
@@ -1980,7 +1980,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -1988,7 +1988,7 @@
           "no": 2,
           "audio": "/assets/day-14/audio/what/02.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What are these sweaters made of?",
             "A": "In Mexico, I think.",
@@ -1999,7 +1999,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2007,7 +2007,7 @@
           "no": 3,
           "audio": "/assets/day-14/audio/what/03.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What time is it?",
             "A": "Just a few minutes.",
@@ -2018,7 +2018,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2026,7 +2026,7 @@
           "no": 4,
           "audio": "/assets/day-14/audio/what/04.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What colour should I paint the living room walls?",
             "A": "Yes, you should.",
@@ -2037,7 +2037,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2045,7 +2045,7 @@
           "no": 5,
           "audio": "/assets/day-14/audio/what/05.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What's on the agenda for the staff meeting?",
             "A": "Next to the lobby.",
@@ -2056,7 +2056,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2064,7 +2064,7 @@
           "no": 6,
           "audio": "/assets/day-14/audio/what/06.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Excuse me, can you tell me what time it is?",
             "A": "It's a digital clock.",
@@ -2075,7 +2075,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2083,7 +2083,7 @@
           "no": 7,
           "audio": "/assets/day-14/audio/what/07.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What else is required to complete the loan agreement?",
             "A": "I was just about to.",
@@ -2094,7 +2094,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2102,7 +2102,7 @@
           "no": 8,
           "audio": "/assets/day-14/audio/what/08.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What was the article about?",
             "A": "I didn't read it.",
@@ -2113,7 +2113,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2121,7 +2121,7 @@
           "no": 9,
           "audio": "/assets/day-14/audio/what/09.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What's the new Vice President going to talk about?",
             "A": "The goals for our department.",
@@ -2132,7 +2132,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2140,7 +2140,7 @@
           "no": 10,
           "audio": "/assets/day-14/audio/what/10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What do you suggest I do with the contract?",
             "A": "That conference is in Shanghai.",
@@ -2151,7 +2151,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2159,7 +2159,7 @@
           "no": 11,
           "audio": "/assets/day-14/audio/what/11.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What should I bring to the trade show?",
             "A": "Your business cards.",
@@ -2170,7 +2170,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2178,7 +2178,7 @@
           "no": 12,
           "audio": "/assets/day-14/audio/what/12.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "What kind of company does Mr. Perez manage?",
             "A": "For 20 years.",
@@ -2189,7 +2189,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2197,7 +2197,7 @@
           "no": 13,
           "audio": "/assets/day-14/audio/what/13.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What will be discussed on the conference call?",
             "A": "Only with customer service agents.",
@@ -2208,7 +2208,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2216,7 +2216,7 @@
           "no": 14,
           "audio": "/assets/day-14/audio/what/14.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What color should we paint the front door?",
             "A": "I like that painting.",
@@ -2227,7 +2227,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2235,7 +2235,7 @@
           "no": 15,
           "audio": "/assets/day-14/audio/what/15.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What street do I take to get to the Museum?",
             "A": "Around a half hour.",
@@ -2246,7 +2246,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2254,7 +2254,7 @@
           "no": 16,
           "audio": "/assets/day-14/audio/what/16.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What was yesterday's workshop about?",
             "A": "45 minutes.",
@@ -2265,7 +2265,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2273,7 +2273,7 @@
           "no": 17,
           "audio": "/assets/day-14/audio/what/17.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "What are the dimensions of the apartment on Maple Road?",
             "A": "It's rather far from the city centre.",
@@ -2284,7 +2284,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2292,7 +2292,7 @@
           "no": 18,
           "audio": "/assets/day-14/audio/what/18.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What would be a good place to take a client for a meal?",
             "A": "Try the Italian restaurant down the street.",
@@ -2303,7 +2303,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2311,7 +2311,7 @@
           "no": 19,
           "audio": "/assets/day-14/audio/what/19.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Paula, what do the customer reviews say about our mobile phone?",
             "A": "Dial zero to speak with a representative.",
@@ -2322,7 +2322,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         },
         {
@@ -2330,7 +2330,7 @@
           "no": 20,
           "audio": "/assets/day-14/audio/what/20.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "What are we ordering for lunch?",
             "A": "How about Italian food?",
@@ -2341,7 +2341,7 @@
           "source": {
             "audio": "drive",
             "transcript": "whisper",
-            "answer": null
+            "answer": "ai"
           }
         }
       ]

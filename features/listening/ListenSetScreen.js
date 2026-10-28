@@ -26,7 +26,9 @@ export function ListenSetScreen({ slug, setId, day }) {
   const set = day.listening.find((s) => s.code === setId);
   const { day: state, ready, answer, setDictation } = useProgress(slug);
   const [idx, setIdx] = useState(0);
-  const [writing, setWriting] = useState(false);
+  // Bộ khai mode 'dictation' mở ở chế độ chép; nút gạt vẫn cho chuyển sang chọn
+  // khi bộ có đáp án.
+  const [writing, setWriting] = useState(set?.mode === 'dictation');
 
   // Guard phải đứng TRƯỚC mọi chỗ đụng tới `set` — ngay dưới đây đã là
   // `set.questions[idx]`. Đẩy nó xuống sau là gõ sai setId trên URL thành
@@ -54,7 +56,7 @@ export function ListenSetScreen({ slug, setId, day }) {
   // Bộ KHÔNG có đáp án thì luôn chép: chọn A–D ở đó không chấm được (tài liệu
   // không phát key), nên bày ra bốn ô để bấm là bày ra một việc vô nghĩa. Chép
   // lại thì chấm được thật, vì đối chiếu với lời thoại chứ không cần key.
-  const chepLai = set.mode === 'dictation' || !set.hasKey || writing;
+  const chepLai = !set.hasKey || writing;
 
   const letters = choicesOf(set);
   const lettersLabel = `${letters[0]}–${letters[letters.length - 1]}`;
