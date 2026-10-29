@@ -72,7 +72,7 @@ export function DictationField({ answer, value, onChange, minHeight }) {
       </div>
 
       <div className="dictation-actions">
-        <Button size="sm" variant="primary" disabled={!value.trim()} onClick={check}>
+        <Button size="sm" variant="primary" onClick={check}>
           {t('Check')}
         </Button>
 
