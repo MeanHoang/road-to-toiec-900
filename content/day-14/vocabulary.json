@@ -1407,6 +1407,141 @@
         "us": "/assets/day-14/voice-neural/d14-v52-us.mp3",
         "uk": "/assets/day-14/voice-neural/d14-v52-uk.mp3"
       }
+    },
+    {
+      "id": "d14-v53",
+      "no": 53,
+      "word": "concerned",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kənˈsɜːnd/",
+        "us": "/kənˈsɜːrnd/"
+      },
+      "meaningVi": "lo lắng, quan ngại; có liên quan",
+      "image": null,
+      "example": {
+        "en": "When Carol Yoo invested her life savings to open Prism Gym, her friends were concerned."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v53-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v54",
+      "no": 54,
+      "word": "worth",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/wɜːθ/",
+        "us": "/wɜːrθ/"
+      },
+      "meaningVi": "đáng, xứng đáng; có giá trị (bao nhiêu); giá trị",
+      "image": null,
+      "example": {
+        "en": "However, the investment proved to be worth it."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v54-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v55",
+      "no": 55,
+      "word": "pay off",
+      "pos": "phrasal v",
+      "ipa": {
+        "uk": "/peɪ ˈɒf/",
+        "us": "/peɪ ˈɔːf/"
+      },
+      "meaningVi": "trả hết (nợ); mang lại kết quả, đáng công (quá khứ: paid off)",
+      "image": null,
+      "example": {
+        "en": "Thanks to our surprisingly rapid growth, I paid off the remaining $20,000 earlier than planned."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v55-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v56",
+      "no": 56,
+      "word": "anticipate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ænˈtɪsɪpeɪt/",
+        "us": "/ænˈtɪsɪpeɪt/"
+      },
+      "meaningVi": "dự kiến, dự đoán, lường trước (anticipation — n: sự dự đoán, sự mong đợi)",
+      "image": null,
+      "example": {
+        "en": "It also anticipates hiring additional workers to complete the construction project."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v56-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v57",
+      "no": 57,
+      "word": "article",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɑːtɪkəl/",
+        "us": "/ˈɑːrtɪkəl/"
+      },
+      "meaningVi": "bài báo, bài viết; điều khoản; món đồ, vật phẩm",
+      "image": null,
+      "example": {
+        "en": "According to the article, what is true about Prism Gym?"
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v57-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v57-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -1417,6 +1552,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "af38ce9e831c29ba47f77724776a15c79f2e8a33e2d88421e213fffa1c416685"
+    "textHash": "3d3c60d89bffa672f5c925aa65dfb5eefa2e5b47d99993931ffa14d3e6203280"
   }
 }
