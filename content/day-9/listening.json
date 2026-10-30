@@ -157,7 +157,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -166,7 +166,7 @@
           "no": 1,
           "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _1_.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Let's discuss the building designs this morning.",
             "A": "We can do it this afternoon instead.",
@@ -177,7 +177,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -186,7 +186,7 @@
           "no": 2,
           "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _2_.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "The registration deadline is on Friday.",
             "A": "Where did you hear that?",
@@ -197,7 +197,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -206,13 +206,18 @@
           "no": 3,
           "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _3_.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "I can't seem to open the file you sent me. Yes, the post office is still open. Sorry, I'll try sending it again. We can't see that far either.",
+          "answer": "B",
+          "transcript": {
+            "Q": "I can't seem to open the file you sent me.",
+            "A": "Yes, the post office is still open.",
+            "B": "Sorry, I'll try sending it again.",
+            "C": "We can't see that far either."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -221,7 +226,7 @@
           "no": 4,
           "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _4_.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "I really need the updated expense report.",
             "A": "The trip to London.",
@@ -232,7 +237,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -241,7 +246,7 @@
           "no": 5,
           "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _5_.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "The dinner with the clients is Wednesday.",
             "A": "Four copies, please.",
@@ -252,7 +257,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -270,7 +275,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -279,7 +284,7 @@
           "no": 1,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/1.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where did you buy that lovely raincoat?",
             "A": "I saw the weather forecast.",
@@ -290,7 +295,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -299,7 +304,7 @@
           "no": 2,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/2.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "How much does this suitcase cost?",
             "A": "How about the blue one?",
@@ -310,7 +315,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -319,7 +324,7 @@
           "no": 3,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/3.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "How should I pay the rent for my apartment?",
             "A": "By the end of every month.",
@@ -330,7 +335,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -339,7 +344,7 @@
           "no": 4,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/4.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Number two. Do you know someone who can fix a piano?",
             "A": "Let's do an internet search.",
@@ -350,7 +355,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -359,7 +364,7 @@
           "no": 5,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/5.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Which company developed this software?",
             "A": "No, it's too difficult.",
@@ -370,7 +375,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -379,7 +384,7 @@
           "no": 6,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/6.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Could you recommend any good restaurants in the area?",
             "A": "They were standing over there.",
@@ -390,7 +395,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -399,7 +404,7 @@
           "no": 7,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/7.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number seven. Which marketing reports do you need?",
             "A": "At the outdoor market.",
@@ -410,7 +415,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -419,7 +424,7 @@
           "no": 8,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/8.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Number seven. When are you going to get a new car?",
             "A": "I don't need one yet.",
@@ -430,7 +435,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -439,7 +444,7 @@
           "no": 9,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/9.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Number eight. What does a round-trip ticket to Milan cost?",
             "A": "To see a designer's show.",
@@ -450,7 +455,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -459,13 +464,18 @@
           "no": 10,
           "audio": "/assets/day-9/audio/practice-3-indirect-questions/10.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "Couldn't we just call the information line? Why don't we do that? The line starts over there. A lot of information.",
+          "answer": "A",
+          "transcript": {
+            "Q": "Couldn't we just call the information line?",
+            "A": "Why don't we do that?",
+            "B": "The line starts over there.",
+            "C": "A lot of information."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -483,7 +493,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -492,7 +502,7 @@
           "no": 1,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/1.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Can you tell me when the play starts?",
             "A": "How about another time?",
@@ -503,7 +513,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -512,7 +522,7 @@
           "no": 2,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/2.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number two. Could you show me where the closest bank is?",
             "A": "I'm sure it's open.",
@@ -523,7 +533,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -532,7 +542,7 @@
           "no": 3,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/3.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Number three. Did you hear how the meeting with the client went?",
             "A": "The negotiations went well.",
@@ -543,7 +553,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -552,7 +562,7 @@
           "no": 4,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/4.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number four. Can you tell me which computer I should buy?",
             "A": "We called a technician.",
@@ -563,7 +573,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -572,7 +582,7 @@
           "no": 5,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/5.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Number five. Do you know how to get to the movie theater?",
             "A": "I'm sorry, I wasn't able to go with you.",
@@ -583,7 +593,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -592,7 +602,7 @@
           "no": 6,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/6.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number six. Can you tell me where Mr. Yang is currently working?",
             "A": "I am working in the sales division.",
@@ -603,7 +613,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -612,13 +622,18 @@
           "no": 7,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/7.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "Did the manager say when she would be back? No, she didn't say anything about it. She will leave the office right away. She is not good at managing.",
+          "answer": "A",
+          "transcript": {
+            "Q": "Did the manager say when she would be back?",
+            "A": "No, she didn't say anything about it.",
+            "B": "She will leave the office right away.",
+            "C": "She is not good at managing."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -627,7 +642,7 @@
           "no": 8,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/8.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Do you happen to know where the post office is?",
             "A": "I mailed it the other day.",
@@ -638,7 +653,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -647,13 +662,18 @@
           "no": 9,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/9.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "Number nine. - Do you think we should reduce the number of staff members? - A, I have never hired anyone like that. B, I don't think that will be necessary. C, nobody took care of it.",
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you think we should reduce the number of staff members?",
+            "A": "I have never hired anyone like that.",
+            "B": "I don't think that will be necessary.",
+            "C": "nobody took care of it."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -662,7 +682,7 @@
           "no": 10,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Did you hear that there is going to be an employee training session?",
             "A": "Yes, I would like to participate in it.",
@@ -673,7 +693,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -682,13 +702,18 @@
           "no": 11,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/11.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "I'm going to put on my sweater. The morning weather report. I could turn the heat up. I haven't decided yet.",
+          "answer": "B",
+          "transcript": {
+            "Q": "I'm going to put on my sweater.",
+            "A": "The morning weather report.",
+            "B": "I could turn the heat up.",
+            "C": "I haven't decided yet."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -697,7 +722,7 @@
           "no": 12,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/12.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "This email from Mr. Robertson is rather unclear.",
             "A": "Yesterday afternoon.",
@@ -708,7 +733,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -717,7 +742,7 @@
           "no": 13,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/13.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "The table should be set before the guests arrive.",
             "A": "No, twelve people at seven o'clock.",
@@ -728,7 +753,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -737,7 +762,7 @@
           "no": 14,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/14.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "I'm trying to find out how much has been budgeted for this project.",
             "A": "It's not an expensive place.",
@@ -748,7 +773,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -757,7 +782,7 @@
           "no": 15,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/15.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "I'd like you to present your proposal at the next council meeting.",
             "A": "Thank you for the nice present.",
@@ -768,7 +793,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -777,7 +802,7 @@
           "no": 16,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/16.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "I thought we were moving to the new office next week.",
             "A": "There was an email update about that.",
@@ -788,7 +813,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -797,7 +822,7 @@
           "no": 17,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/17.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Let's meet in front of the theater at five.",
             "A": "Okay, I'll see you there.",
@@ -808,7 +833,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -817,7 +842,7 @@
           "no": 18,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/18.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "I don't know how to operate this camera.",
             "A": "Here, I'll show you.",
@@ -828,7 +853,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -837,7 +862,7 @@
           "no": 19,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/19.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "I can't read the patient's handwriting on these forms.",
             "A": "Ask her to fill them out again.",
@@ -848,7 +873,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -857,7 +882,7 @@
           "no": 20,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/20.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "This jacket isn't as warm as I thought it would be.",
             "A": "With a matching scarf.",
@@ -868,7 +893,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -877,7 +902,7 @@
           "no": 21,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/21.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Didn't you get to print out of the company newsletter from Emico?",
             "A": "She started working here three years ago.",
@@ -888,7 +913,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -897,7 +922,7 @@
           "no": 22,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/22.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Do you know someone who can fix a piano?",
             "A": "Let's do an internet search.",
@@ -908,7 +933,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -917,7 +942,7 @@
           "no": 23,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/23.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Should we buy desktop computers or laptops for the office?",
             "A": "The website is working now.",
@@ -928,7 +953,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -937,7 +962,7 @@
           "no": 24,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/24.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Is the maintenance staff going to polish the floors next week?",
             "A": "They do it once a month.",
@@ -948,7 +973,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -957,7 +982,7 @@
           "no": 25,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/25.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Where should I park the delivery truck?",
             "A": "Do you know where the loading dock is?",
@@ -968,7 +993,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -977,7 +1002,7 @@
           "no": 26,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/26.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Where will the guest speaker be joining us from?",
             "A": "Nobody shared the details with me.",
@@ -988,7 +1013,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -997,7 +1022,7 @@
           "no": 27,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/27.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Wouldn't you prefer that me, Sun, lead the training?",
             "A": "No. I filed it three months ago.",
@@ -1008,7 +1033,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1017,7 +1042,7 @@
           "no": 28,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/28.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "May I ask why you're interested in this job?",
             "A": "Well, I've been an architect for two years.",
@@ -1028,7 +1053,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1037,13 +1062,18 @@
           "no": 29,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/29.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "What section of the speech do you want to start working on? The award ceremony isn't until the 8th. She's changing jobs. This microphone doesn't work.",
+          "answer": "A",
+          "transcript": {
+            "Q": "What section of the speech do you want to start working on?",
+            "A": "The award ceremony isn't until the 8th.",
+            "B": "She's changing jobs.",
+            "C": "This microphone doesn't work."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1052,7 +1082,7 @@
           "no": 30,
           "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/30.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Should we use the extra money on computers or on chairs?",
             "A": "Please have a seat over there.",
@@ -1063,7 +1093,7 @@
           "source": {
             "audio": "drive",
             "image": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -1076,7 +1106,7 @@
       "subtitle": "Tranh Part 1: nghe rồi chép lại bốn phương án",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 07 - full.mp3",
       "source": "drive",
       "questions": [
@@ -1085,13 +1115,18 @@
           "no": 1,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 1.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p07-1.jpg",
-          "answer": null,
-          "transcript": "Number one. Look at the picture marked number one in your test book. A. He's watering some flowers. B. He's talking on a phone. C. He's drinking from a coffee mug. D. He's tying his shoe.",
+          "answer": "B",
+          "transcript": {
+            "A": "He's watering some flowers.",
+            "B": "He's talking on a phone.",
+            "C": "He's drinking from a coffee mug.",
+            "D": "He's tying his shoe."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1100,13 +1135,18 @@
           "no": 2,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 2.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p07-2.jpg",
-          "answer": null,
-          "transcript": "Number two. Look at the picture marked number two in your test book. A. They're installing a photocopier. B. They're replacing a window. C. One of the men is hanging a sign. D. One of the men is reaching for a telephone.",
+          "answer": "A",
+          "transcript": {
+            "A": "They're installing a photocopier.",
+            "B": "They're replacing a window.",
+            "C": "One of the men is hanging a sign.",
+            "D": "One of the men is reaching for a telephone."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1115,13 +1155,18 @@
           "no": 3,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 3.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p08-1.jpg",
-          "answer": null,
-          "transcript": "Number three. Look at the picture marked number three in your test book. A. The woman is using a broom. B. The woman is trying on a helmet. C. The man is measuring a cabinet. D. The man is painting a wall.",
+          "answer": "C",
+          "transcript": {
+            "A": "The woman is using a broom.",
+            "B": "The woman is trying on a helmet.",
+            "C": "The man is measuring a cabinet.",
+            "D": "The man is painting a wall."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1130,13 +1175,18 @@
           "no": 4,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 4.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p08-2.jpg",
-          "answer": null,
-          "transcript": "Number four. Look at the picture marked number four in your test book. A. She's drying her hands with a paper towel. B. She's plugging in an appliance. C. She's wiping off a countertop. D. She's washing a cup in the sink.",
+          "answer": "D",
+          "transcript": {
+            "A": "She's drying her hands with a paper towel.",
+            "B": "She's plugging in an appliance.",
+            "C": "She's wiping off a countertop.",
+            "D": "She's washing a cup in the sink."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1145,13 +1195,18 @@
           "no": 5,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 5.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p09-1.jpg",
-          "answer": null,
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. One of the men is holding a briefcase. B. One of the men is taking off his sunglasses. C. They're handing out some flyers. D. They're replacing bricks on a pathway.",
+          "answer": "A",
+          "transcript": {
+            "A": "One of the men is holding a briefcase.",
+            "B": "One of the men is taking off his sunglasses.",
+            "C": "They're handing out some flyers.",
+            "D": "They're replacing bricks on a pathway."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1160,13 +1215,18 @@
           "no": 6,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 6.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p09-2.jpg",
-          "answer": null,
-          "transcript": "Number six. Look at the picture marked number six in your test book. A. A kayak is being paddled down a river. B. A pile of bricks has been left on a walkway. C. Some roofs are being repaired. D. Some chairs have been placed along a canal.",
+          "answer": "D",
+          "transcript": {
+            "A": "A kayak is being paddled down a river.",
+            "B": "A pile of bricks has been left on a walkway.",
+            "C": "Some roofs are being repaired.",
+            "D": "Some chairs have been placed along a canal."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -1179,7 +1239,7 @@
       "subtitle": "Tranh Part 1: nghe rồi chép lại bốn phương án",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 08 - full.mp3",
       "source": "drive",
       "questions": [
@@ -1188,13 +1248,18 @@
           "no": 1,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 1.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p10-1.jpg",
-          "answer": null,
-          "transcript": "Number one. Look at the picture marked number one in your test book. A. He's talking on a phone. B. He's looking in a drawer. C. He's using a microscope. D. He's opening a window.",
+          "answer": "B",
+          "transcript": {
+            "A": "He's talking on a phone.",
+            "B": "He's looking in a drawer.",
+            "C": "He's using a microscope.",
+            "D": "He's opening a window."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1203,13 +1268,18 @@
           "no": 2,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 2.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p10-2.jpg",
-          "answer": null,
-          "transcript": "Number two. Look at the picture marked number two in your test book. A. They're swimming in a lake. B. They're fishing from a dock. C. They're walking along a path. D. They're cutting the grass.",
+          "answer": "C",
+          "transcript": {
+            "A": "They're swimming in a lake.",
+            "B": "They're fishing from a dock.",
+            "C": "They're walking along a path.",
+            "D": "They're cutting the grass."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1218,13 +1288,18 @@
           "no": 3,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 3.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p11-1.jpg",
-          "answer": null,
-          "transcript": "Number three. Look at the picture marked number three in your test book. A. Some women are crossing the street. B. Some women are paying for some clothing. C. Some clothing is being folded. D. Some coats are being displayed.",
+          "answer": "D",
+          "transcript": {
+            "A": "Some women are crossing the street.",
+            "B": "Some women are paying for some clothing.",
+            "C": "Some clothing is being folded.",
+            "D": "Some coats are being displayed."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1233,13 +1308,18 @@
           "no": 4,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 4.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p11-2.jpg",
-          "answer": null,
-          "transcript": "Number four. Look at the picture marked number four in your test book. A. The man is building a fence. B. The woman is resting her arm on a railing. C. The people are selecting some photographs. D. The people are sweeping a balcony.",
+          "answer": "B",
+          "transcript": {
+            "A": "The man is building a fence.",
+            "B": "The woman is resting her arm on a railing.",
+            "C": "The people are selecting some photographs.",
+            "D": "The people are sweeping a balcony."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1248,13 +1328,18 @@
           "no": 5,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 5.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p12-1.jpg",
-          "answer": null,
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. The woman is closing the curtains. B. The woman is watering some plants. C. The man is handing a cup to the woman. D. The man is setting dishes on the counter.",
+          "answer": "C",
+          "transcript": {
+            "A": "The woman is closing the curtains.",
+            "B": "The woman is watering some plants.",
+            "C": "The man is handing a cup to the woman.",
+            "D": "The man is setting dishes on the counter."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1263,13 +1348,18 @@
           "no": 6,
           "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 6.mp3",
           "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p12-2-full.jpg",
-          "answer": null,
-          "transcript": "Number six. Look at the picture marked number six in your test book. A. Some tools have been left on a cart. B. Some bags are hanging from hooks on the wall. C. Some cleaning supplies are scattered on the floor. D. Some artwork is leaning against a filing cabinet.",
+          "answer": "A",
+          "transcript": {
+            "A": "Some tools have been left on a cart.",
+            "B": "Some bags are hanging from hooks on the wall.",
+            "C": "Some cleaning supplies are scattered on the floor.",
+            "D": "Some artwork is leaning against a filing cabinet."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }

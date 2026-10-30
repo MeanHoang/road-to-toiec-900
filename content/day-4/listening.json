@@ -11,7 +11,7 @@
       "subtitle": "Part 1: nghe 1 lần chọn đáp án mô tả đúng nhất, nghe lại rồi ghi xuống đáp án đã chọn",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-4/audio/0 - full.mp3",
       "source": "drive",
       "questions": [
@@ -20,13 +20,18 @@
           "no": 1,
           "audio": "/assets/day-4/audio/1.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-1.jpg",
-          "answer": null,
-          "transcript": "Now, part one will begin. Number one. Look at the picture mark number one in your test book. A. The man's holding a wallet. B. The man's painting a picture. C. The man's brushing his hair. D. The man's sweeping with a broom.",
+          "answer": "B",
+          "transcript": {
+            "A": "The man's holding a wallet.",
+            "B": "The man's painting a picture.",
+            "C": "The man's brushing his hair.",
+            "D": "The man's sweeping with a broom."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -35,13 +40,18 @@
           "no": 2,
           "audio": "/assets/day-4/audio/2.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-2.jpg",
-          "answer": null,
-          "transcript": "Number two. Look at the picture mark number two in your test book. A. The woman's picking up a bag. B. The woman's carrying some flowers. C. The woman's throwing something away. D. The woman's sitting outdoors.",
+          "answer": "C",
+          "transcript": {
+            "A": "The woman's picking up a bag.",
+            "B": "The woman's carrying some flowers.",
+            "C": "The woman's throwing something away.",
+            "D": "The woman's sitting outdoors."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -50,13 +60,18 @@
           "no": 3,
           "audio": "/assets/day-4/audio/3.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-1.jpg",
-          "answer": null,
-          "transcript": "Number three. Look at the picture marked number three in your test book. A. The men are passing a plate of food. B. The men are washing some dishes. C. The men are exchanging money. D. The men are cooking dinner.",
+          "answer": "A",
+          "transcript": {
+            "A": "The men are passing a plate of food.",
+            "B": "The men are washing some dishes.",
+            "C": "The men are exchanging money.",
+            "D": "The men are cooking dinner."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -65,13 +80,18 @@
           "no": 4,
           "audio": "/assets/day-4/audio/4.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-2.jpg",
-          "answer": null,
-          "transcript": "Number four. Look at the picture marked number four in your test book. A. Artwork is being taken off the wall. B. A plant has fallen over on the floor. C. A rug is lying in front of the door. D. A package has been set in the hallway.",
+          "answer": "C",
+          "transcript": {
+            "A": "Artwork is being taken off the wall.",
+            "B": "A plant has fallen over on the floor.",
+            "C": "A rug is lying in front of the door.",
+            "D": "A package has been set in the hallway."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -80,13 +100,18 @@
           "no": 5,
           "audio": "/assets/day-4/audio/5.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-1.jpg",
-          "answer": null,
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. They're entering separate offices. B. They're examining papers on a table. C. The woman's hung her jacket on a chair. D. The man's watching a presentation on a screen.",
+          "answer": "B",
+          "transcript": {
+            "A": "They're entering separate offices.",
+            "B": "They're examining papers on a table.",
+            "C": "The woman's hung her jacket on a chair.",
+            "D": "The man's watching a presentation on a screen."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -95,13 +120,18 @@
           "no": 6,
           "audio": "/assets/day-4/audio/6.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-2.jpg",
-          "answer": null,
-          "transcript": "Number six. Look at the picture mark number six in your test book. A. Some hikers are climbing a hill. B. A railing is being installed. C. Some people are purchasing shirts. D. Vendors are displaying their merchandise.",
+          "answer": "D",
+          "transcript": {
+            "A": "Some hikers are climbing a hill.",
+            "B": "A railing is being installed.",
+            "C": "Some people are purchasing shirts.",
+            "D": "Vendors are displaying their merchandise."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -110,13 +140,18 @@
           "no": 7,
           "audio": "/assets/day-4/audio/7.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-7.jpg",
-          "answer": null,
-          "transcript": "Number seven. Look at the picture marked number seven in your test book. A. Some tents are being assembled. B. The chairs are shaded by umbrellas. C. Tourists are relaxing on the beach. D. Towels have been spread out on the sand.",
+          "answer": "B",
+          "transcript": {
+            "A": "Some tents are being assembled.",
+            "B": "The chairs are shaded by umbrellas.",
+            "C": "Tourists are relaxing on the beach.",
+            "D": "Towels have been spread out on the sand."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -125,13 +160,18 @@
           "no": 8,
           "audio": "/assets/day-4/audio/8.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-3.jpg",
-          "answer": null,
-          "transcript": "Some performers are on a stage. An audience is seated in rows. Tickets are being collected. People are exiting a theatre.",
+          "answer": "B",
+          "transcript": {
+            "A": "Some performers are on a stage.",
+            "B": "An audience is seated in rows.",
+            "C": "Tickets are being collected.",
+            "D": "People are exiting a theatre."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -140,13 +180,18 @@
           "no": 9,
           "audio": "/assets/day-4/audio/9.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-1.jpg",
-          "answer": null,
-          "transcript": "Number nine. Look at the picture marked number nine in your test book. A. The man is removing his coat. B. The man is pushing a gate open. C. A suitcase has been left on the floor. D. A cart has been loaded with luggage.",
+          "answer": "D",
+          "transcript": {
+            "A": "The man is removing his coat.",
+            "B": "The man is pushing a gate open.",
+            "C": "A suitcase has been left on the floor.",
+            "D": "A cart has been loaded with luggage."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -155,13 +200,18 @@
           "no": 10,
           "audio": "/assets/day-4/audio/10.mp3",
           "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-2.jpg",
-          "answer": null,
-          "transcript": "Number 10. Look at the picture marked number 10 in your test book. A. Spectators have gathered along the street. B. A sporting event is taking place in a stadium. C. The road has been blocked by some tires. D. Riders are getting on their bicycles.",
+          "answer": "A",
+          "transcript": {
+            "A": "Spectators have gathered along the street.",
+            "B": "A sporting event is taking place in a stadium.",
+            "C": "The road has been blocked by some tires.",
+            "D": "Riders are getting on their bicycles."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }

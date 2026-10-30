@@ -184,7 +184,7 @@
       "title": "Practice 1 — File 1.2",
       "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
       "mode": "choice",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "questions": [
         {
@@ -192,7 +192,7 @@
           "no": 1,
           "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/1.mp3",
           "image": "/assets/day-1/images/day-1/p06-1.jpg",
-          "answer": null,
+          "answer": "D",
           "lines": null,
           "transcript": {
             "A": "She's opening up a bag.",
@@ -203,7 +203,7 @@
           "transcriptVi": null,
           "source": {
             "audio": "drive",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "image": "pdf"
           }
@@ -213,7 +213,7 @@
           "no": 2,
           "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/2.mp3",
           "image": "/assets/day-1/images/day-1/p06-2.jpg",
-          "answer": null,
+          "answer": "A",
           "lines": null,
           "transcript": {
             "A": "She's using a pen.",
@@ -224,7 +224,7 @@
           "transcriptVi": null,
           "source": {
             "audio": "drive",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "image": "pdf"
           }
@@ -234,7 +234,7 @@
           "no": 3,
           "audio": "/assets/day-1/audio/1-practice-part-1-practice-1-file-1-2/3.mp3",
           "image": "/assets/day-1/images/day-1/p06-3.jpg",
-          "answer": null,
+          "answer": "C",
           "lines": null,
           "transcript": {
             "A": "She's sitting at the computer.",
@@ -245,7 +245,7 @@
           "transcriptVi": null,
           "source": {
             "audio": "drive",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "image": "pdf"
           }

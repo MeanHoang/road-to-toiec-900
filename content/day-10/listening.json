@@ -347,7 +347,7 @@
       "subtitle": "Listen and transcribe all four descriptions.",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -356,7 +356,7 @@
           "no": 1,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_1.mp3",
           "image": "/assets/day-10/images/tranh-1/q01.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "they're sitting on a bench.",
             "B": "they're lying on the grass.",
@@ -367,7 +367,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -376,7 +376,7 @@
           "no": 2,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_2.mp3",
           "image": "/assets/day-10/images/tranh-1/q02.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "One of the men is putting on a tie.",
             "B": "One of the men is standing at a counter.",
@@ -387,7 +387,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -396,7 +396,7 @@
           "no": 3,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_3.mp3",
           "image": "/assets/day-10/images/tranh-1/q03.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "Customers are waiting to be seated.",
             "B": "Cars are parked along the street.",
@@ -407,7 +407,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -416,7 +416,7 @@
           "no": 4,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_4.mp3",
           "image": "/assets/day-10/images/tranh-1/q04.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "The man is taking some paper out of a printer.",
             "B": "The man is putting a file in a drawer.",
@@ -427,7 +427,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -436,7 +436,7 @@
           "no": 5,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_5.mp3",
           "image": "/assets/day-10/images/tranh-1/q05.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "A man is unloading some packages.",
             "B": "A man is resting in a shopping mall.",
@@ -447,7 +447,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -456,7 +456,7 @@
           "no": 6,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_6.mp3",
           "image": "/assets/day-10/images/tranh-1/q06.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "A sign is hanging above some artwork.",
             "B": "Plants are arranged on a stairway.",
@@ -467,7 +467,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -476,7 +476,7 @@
           "no": 7,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_7.mp3",
           "image": "/assets/day-10/images/tranh-1/q07.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "A man is placing a basket on a shelf.",
             "B": "Labels have been attached to shelving units.",
@@ -487,7 +487,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -496,7 +496,7 @@
           "no": 8,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_8.mp3",
           "image": "/assets/day-10/images/tranh-1/q08.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "Lamp posts are standing in a row.",
             "B": "A crowd of people has gathered on a beach.",
@@ -507,7 +507,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -516,7 +516,7 @@
           "no": 9,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_9.mp3",
           "image": "/assets/day-10/images/tranh-1/q09.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "An employee is organizing a shoe display.",
             "B": "Merchandise is being put into a bag.",
@@ -527,7 +527,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -536,7 +536,7 @@
           "no": 10,
           "audio": "/assets/day-10/audio/test1-part1/Test01_part01_10.mp3",
           "image": "/assets/day-10/images/tranh-1/q10.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "Trees are growing under an archway.",
             "B": "Passengers are waiting to board a train.",
@@ -547,7 +547,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
@@ -560,7 +560,7 @@
       "subtitle": "Listen and transcribe all four descriptions.",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -569,7 +569,7 @@
           "no": 1,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_1.mp3",
           "image": "/assets/day-10/images/tranh-2/q01.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "He's writing a letter.",
             "B": "He's reading a book.",
@@ -580,7 +580,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -589,7 +589,7 @@
           "no": 2,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_2.mp3",
           "image": "/assets/day-10/images/tranh-2/q02.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "A woman is arranging the shelves.",
             "B": "A woman is standing at the board.",
@@ -600,7 +600,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -609,7 +609,7 @@
           "no": 3,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_3.mp3",
           "image": "/assets/day-10/images/tranh-2/q03.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "He’s looking at his watch.",
             "B": "He’s talking on the phone.",
@@ -620,7 +620,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -629,7 +629,7 @@
           "no": 4,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_4.mp3",
           "image": "/assets/day-10/images/tranh-2/q04.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "She's tidying her room.",
             "B": "She's brushing her teeth.",
@@ -640,7 +640,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -649,7 +649,7 @@
           "no": 5,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_5.mp3",
           "image": "/assets/day-10/images/tranh-2/q05.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "The women are in a parking lot.",
             "B": "The women are shopping for clothes.",
@@ -660,7 +660,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -669,7 +669,7 @@
           "no": 6,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_6.mp3",
           "image": "/assets/day-10/images/tranh-2/q06.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "They're resting in a waiting area.",
             "B": "They're boarding an airplane.",
@@ -680,7 +680,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -689,7 +689,7 @@
           "no": 7,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_7.mp3",
           "image": "/assets/day-10/images/tranh-2/q07.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "A painting is hanging on the wall.",
             "B": "Some people are eating a meal.",
@@ -700,7 +700,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -709,7 +709,7 @@
           "no": 8,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_8.mp3",
           "image": "/assets/day-10/images/tranh-2/q08.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "The woman is taking a picture.",
             "B": "The woman is reading as she walks.",
@@ -720,7 +720,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -729,7 +729,7 @@
           "no": 9,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_9.mp3",
           "image": "/assets/day-10/images/tranh-2/q09.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "The motorcycle has been parked.",
             "B": "The motorcycle is being ridden.",
@@ -740,7 +740,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -749,7 +749,7 @@
           "no": 10,
           "audio": "/assets/day-10/audio/test2-part1/Test02_part01_10.mp3",
           "image": "/assets/day-10/images/tranh-2/q10.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "They're delivering a presentation.",
             "B": "They're moving a piece of furniture.",
@@ -760,7 +760,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
@@ -773,7 +773,7 @@
       "subtitle": "Listen and transcribe all four descriptions.",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -782,7 +782,7 @@
           "no": 1,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_1.mp3",
           "image": "/assets/day-10/images/tranh-3/q01.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "She's taking a photograph.",
             "B": "She's picking up a pencil.",
@@ -793,7 +793,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -802,7 +802,7 @@
           "no": 2,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_2.mp3",
           "image": "/assets/day-10/images/tranh-3/q02.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "He's looking at the engine.",
             "B": "He's reading a manual.",
@@ -813,7 +813,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -822,7 +822,7 @@
           "no": 3,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_3.mp3",
           "image": "/assets/day-10/images/tranh-3/q03.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "Some bags are on display.",
             "B": "The closet has been emptied.",
@@ -833,7 +833,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -842,7 +842,7 @@
           "no": 4,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_4.mp3",
           "image": "/assets/day-10/images/tranh-3/q04.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "She's turning on a light.",
             "B": "She's sitting in front of a machine.",
@@ -853,7 +853,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -862,7 +862,7 @@
           "no": 5,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_5.mp3",
           "image": "/assets/day-10/images/tranh-3/q05.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "The chairs are stacked against the wall.",
             "B": "People are stepping into the water.",
@@ -873,7 +873,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -882,7 +882,7 @@
           "no": 6,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_6.mp3",
           "image": "/assets/day-10/images/tranh-3/q06.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "They’re having a conversation.",
             "B": "They’re reading side by side.",
@@ -893,7 +893,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -902,7 +902,7 @@
           "no": 7,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_7.mp3",
           "image": "/assets/day-10/images/tranh-3/q07.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "He's throwing some fish into the water.",
             "B": "He's swimming in the ocean.",
@@ -913,7 +913,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -922,7 +922,7 @@
           "no": 8,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_8.mp3",
           "image": "/assets/day-10/images/tranh-3/q08.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "some cars are parked along a street.",
             "B": "some trees are being planted.",
@@ -933,7 +933,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -942,7 +942,7 @@
           "no": 9,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_9.mp3",
           "image": "/assets/day-10/images/tranh-3/q09.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "He's placing an item on the scale.",
             "B": "He's wearing protective clothing.",
@@ -953,7 +953,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -962,7 +962,7 @@
           "no": 10,
           "audio": "/assets/day-10/audio/test3-part1/Test03_part01_10.mp3",
           "image": "/assets/day-10/images/tranh-3/q10.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "A work area has been roped off.",
             "B": "Traffic cones are piled on top of one another.",
@@ -973,7 +973,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         }

@@ -442,7 +442,7 @@
         "C"
       ],
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": null,
       "source": "drive",
       "questions": [
@@ -451,7 +451,7 @@
           "no": 1,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/01.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Number one. When are you visiting us next?",
             "A": "Because it's a long way to travel.",
@@ -465,7 +465,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -474,7 +474,7 @@
           "no": 2,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/02.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Number two. Who should I talk to about ordering office supplies?",
             "A": "Mr. Smith is in charge of that.",
@@ -487,7 +487,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -496,7 +496,7 @@
           "no": 3,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/03.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number three. Who's in charge of payroll?",
             "A": "It's a payment.",
@@ -509,7 +509,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -518,15 +518,20 @@
           "no": 4,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/04.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "number four where can I mail this package? a) at the post office next to our building b) yes I can help you c) the address was wrong",
+          "answer": "A",
+          "transcript": {
+            "Q": "where can I mail this package?",
+            "A": "at the post office next to our building",
+            "B": "yes I can help",
+            "C": "the address was wrong"
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -535,7 +540,7 @@
           "no": 5,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/05.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number five. Where should I place these documents?",
             "A": "By Tuesday.",
@@ -548,7 +553,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -557,7 +562,7 @@
           "no": 6,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/06.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "When will you be in Tokyo?",
             "A": "Only a short drive away.",
@@ -570,7 +575,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -579,7 +584,7 @@
           "no": 7,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/07.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number seven. Who should I give this application to?",
             "A": "Yes, please.",
@@ -592,7 +597,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -601,7 +606,7 @@
           "no": 8,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/08.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where's the nearest post office?",
             "A": "Use a bigger envelope.",
@@ -614,7 +619,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -623,7 +628,7 @@
           "no": 9,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/09.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Number nine. When is the seminar going to be held?",
             "A": "50 people attended the seminar.",
@@ -636,7 +641,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -645,7 +650,7 @@
           "no": 10,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/10.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who won first prize in the contest?",
             "A": "I was second in line.",
@@ -658,7 +663,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -667,7 +672,7 @@
           "no": 11,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/11.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where can I find an extra box of staples?",
             "A": "500 to a box.",
@@ -680,7 +685,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -689,7 +694,7 @@
           "no": 12,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/12.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "When are you going to get a new car?",
             "A": "I don't need one yet.",
@@ -702,7 +707,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -711,7 +716,7 @@
           "no": 13,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/13.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's that man over there talking with Greg?",
             "A": "I've never seen him before.",
@@ -725,7 +730,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -734,7 +739,7 @@
           "no": 14,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/14.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Where do you usually take your dry cleaning?",
             "A": "To Pierre's cleaners.",
@@ -747,7 +752,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -756,7 +761,7 @@
           "no": 15,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/15.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "When is the next bus scheduled to arrive?",
             "A": "It stops by the hotel.",
@@ -769,7 +774,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -778,7 +783,7 @@
           "no": 16,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/16.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who's going to meet Ms. Nakata at the airport?",
             "A": "It's a good idea.",
@@ -792,7 +797,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -801,7 +806,7 @@
           "no": 17,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/17.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Where do you recommend I stay in Shanghai?",
             "A": "I strongly recommend it.",
@@ -815,7 +820,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -824,7 +829,7 @@
           "no": 18,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/18.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "When did you run into Mr. Dawson?",
             "A": "Yes, jogging keeps you healthy.",
@@ -838,7 +843,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -847,15 +852,20 @@
           "no": 19,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/19.mp3",
           "image": null,
-          "answer": null,
-          "transcript": "Who will close up the shop at the end of the shift? Not that close. We'll finish at 8. Paul will be the last one here.",
+          "answer": "C",
+          "transcript": {
+            "Q": "Who will close up the shop at the end of the shift?",
+            "A": "Not that close.",
+            "B": "We'll finish at 8.",
+            "C": "Paul will be the last one here."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -864,7 +874,7 @@
           "no": 20,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/20.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Where was Ms. Mason employed before?",
             "A": "Not long ago.",
@@ -878,7 +888,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -887,7 +897,7 @@
           "no": 21,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/21.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "When will the presentation slides be finished?",
             "A": "They're for Mr Harrison.",
@@ -900,7 +910,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -909,7 +919,7 @@
           "no": 22,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/22.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Who will be the keynote speaker at our next conference?",
             "A": "Daniel has the key.",
@@ -922,7 +932,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -931,7 +941,7 @@
           "no": 23,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/23.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where can I purchase a wool sweater?",
             "A": "It fits you well.",
@@ -944,7 +954,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -953,7 +963,7 @@
           "no": 24,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/24.mp3",
           "image": null,
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "Q": "Who's in charge of stocking the supply closet?",
             "A": "Oh, we take turns.",
@@ -966,7 +976,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -975,7 +985,7 @@
           "no": 25,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/25.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who is Mr Park meeting at the airport?",
             "A": "Inside the terminal.",
@@ -989,7 +999,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -998,7 +1008,7 @@
           "no": 26,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/26.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "When will Mr. Banks come back to the office?",
             "A": "No, I haven't seen him.",
@@ -1012,7 +1022,7 @@
             "image": null,
             "question": "pdf",
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1021,7 +1031,7 @@
           "no": 27,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/27.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Who's been selected to lead the design team?",
             "A": "Sign here, please.",
@@ -1034,7 +1044,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1043,7 +1053,7 @@
           "no": 28,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/28.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where's the nearest supermarket?",
             "A": "He asked about marketing.",
@@ -1056,7 +1066,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1065,7 +1075,7 @@
           "no": 29,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/29.mp3",
           "image": null,
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "Q": "Where should I put the paper for the computer?",
             "A": "Four boxes.",
@@ -1078,7 +1088,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1087,7 +1097,7 @@
           "no": 30,
           "audio": "/assets/day-6/audio/homework-exercise-1-hoi-ap-nghe-le-tung-cau/30.mp3",
           "image": null,
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "Q": "Where are you holding the staff meeting?",
             "A": "Because our deadlines changed.",
@@ -1100,7 +1110,7 @@
             "image": null,
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -1113,7 +1123,7 @@
       "subtitle": "Nghe 1 lần chọn đáp án cho tranh, nghe lại chép đầy đủ đáp án đã chọn",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-6/audio/homework-exercise-2-tranh/TEST 1.mp3",
       "source": "drive",
       "questions": [
@@ -1122,7 +1132,7 @@
           "no": 1,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/01.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p09-1.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "she's searching in her handbag.",
             "B": "she's looking in a display case.",
@@ -1135,7 +1145,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1144,7 +1154,7 @@
           "no": 2,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/02.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p09-2.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "the man is switching off a lamp.",
             "B": "the man is opening some curtains.",
@@ -1157,7 +1167,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1166,7 +1176,7 @@
           "no": 3,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/03.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p10-1.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "some chairs are arranged in a circle.",
             "B": "some stairs are being cleaned.",
@@ -1179,7 +1189,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1188,7 +1198,7 @@
           "no": 4,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/04.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p10-2.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "one of the women is wearing a scarf.",
             "B": "the women are talking to each other.",
@@ -1201,7 +1211,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1210,7 +1220,7 @@
           "no": 5,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/05.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p11-1.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "a notice is being hung on a post.",
             "B": "the women are walking toward a doorway.",
@@ -1223,7 +1233,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1232,7 +1242,7 @@
           "no": 6,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-1/06.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p11-2.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "a shop assistant is giving a man some money.",
             "B": "some people are entering a supermarket.",
@@ -1245,7 +1255,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -1258,7 +1268,7 @@
       "subtitle": "Nghe 1 lần chọn đáp án cho tranh, nghe lại chép đầy đủ đáp án đã chọn",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-6/audio/homework-exercise-2-tranh/TEST 2.mp3",
       "source": "drive",
       "questions": [
@@ -1267,7 +1277,7 @@
           "no": 1,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/01.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p12-1.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "He's walking along the shore.",
             "B": "He's swimming in the sea.",
@@ -1280,7 +1290,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1289,7 +1299,7 @@
           "no": 2,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/02.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p12-2.jpg",
-          "answer": null,
+          "answer": "C",
           "transcript": {
             "A": "A woman's standing on a busy street.",
             "B": "A woman's wiping a car window with a cloth.",
@@ -1302,7 +1312,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1311,7 +1321,7 @@
           "no": 3,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/03.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p13-1a.jpg",
-          "answer": null,
+          "answer": "B",
           "transcript": {
             "A": "A truck has stopped at a traffic light.",
             "B": "A man is loading boxes onto a cart.",
@@ -1324,7 +1334,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1333,7 +1343,7 @@
           "no": 4,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/04.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p13-3.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "One of the women is writing on a notepad.",
             "B": "One of the women is looking at some files.",
@@ -1346,7 +1356,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1355,7 +1365,7 @@
           "no": 5,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/05.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p14-1.jpg",
-          "answer": null,
+          "answer": "D",
           "transcript": {
             "A": "Cars are parked in a garage.",
             "B": "Plants are arranged on tables.",
@@ -1368,7 +1378,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -1377,7 +1387,7 @@
           "no": 6,
           "audio": "/assets/day-6/audio/homework-exercise-2-tranh/test-2/06.mp3",
           "image": "/assets/day-6/images/day-6-who-where-when/p14-2.jpg",
-          "answer": null,
+          "answer": "A",
           "transcript": {
             "A": "Some travelers are seated in a waiting area.",
             "B": "Some workers are setting up partitions.",
@@ -1390,7 +1400,7 @@
             "image": "pdf",
             "question": null,
             "options": null,
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }

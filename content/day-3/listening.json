@@ -11,7 +11,7 @@
       "subtitle": "Practice: nghe rồi chép lại cả 4 phương án mô tả tranh",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-3/audio/1-practice-test-1-file-5-1/0 - full.mp3",
       "questions": [
         {
@@ -19,7 +19,7 @@
           "no": 1,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.1.mp3",
           "image": "/assets/day-3/images/day-3-new/p01-1.jpg",
-          "answer": null,
+          "answer": "B",
           "prompts": [
             {
               "prefix": "She’s"
@@ -40,12 +40,17 @@
             "C. She’s __________ some __________",
             "D. She’s __________ a __________"
           ],
-          "transcript": "Number one. Look at the picture mark number one in your test book. A. She's filing papers. B. She's using a photocopier. C. She's turning on some lights. D. She's closing a cabinet.",
+          "transcript": {
+            "A": "She's filing papers.",
+            "B": "She's using a photocopier.",
+            "C": "She's turning on some lights.",
+            "D": "She's closing a cabinet."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -56,7 +61,7 @@
           "no": 2,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.2.mp3",
           "image": "/assets/day-3/images/day-3-new/p01-2.jpg",
-          "answer": null,
+          "answer": "D",
           "prompts": [
             {
               "prefix": "They’re"
@@ -77,12 +82,17 @@
             "C. They’re __________",
             "D. They’re __________"
           ],
-          "transcript": "Number two. Look at the picture marked number two in your test book. A. They're working on computers. B. They're hanging up posters. C. They're putting on coats. D. They're gathered at a counter.",
+          "transcript": {
+            "A": "They're working on computers.",
+            "B": "They're hanging up posters.",
+            "C": "They're putting on coats.",
+            "D": "They're gathered at a counter."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -93,7 +103,7 @@
           "no": 3,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.3.mp3",
           "image": "/assets/day-3/images/day-3-new/p02-1.jpg",
-          "answer": null,
+          "answer": "D",
           "prompts": [
             {
               "prefix": "He’s"
@@ -114,12 +124,17 @@
             "C. He’s __________",
             "D. He’s __________"
           ],
-          "transcript": "Number three. Look at the picture mark number three in your test book. A. He's parking a car. B. He's carrying groceries. C. He's entering a store. D. He's pushing a shopping cart.",
+          "transcript": {
+            "A": "He's parking a car.",
+            "B": "He's carrying groceries.",
+            "C": "He's entering a store.",
+            "D": "He's pushing a shopping cart."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -130,7 +145,7 @@
           "no": 4,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.4.mp3",
           "image": "/assets/day-3/images/day-3-new/p02-2.jpg",
-          "answer": null,
+          "answer": "B",
           "prompts": [
             {
               "prefix": "A wall"
@@ -151,12 +166,17 @@
             "C. A cement floor __________",
             "D. Some boxes __________"
           ],
-          "transcript": "Number four. Look at the picture marked number four in your test book. A. A wall is being painted. B. Some plants have been placed in a row. C. A cement floor is being swept. D. Some boxes have been stacked in a corner. Go on to the next page. you",
+          "transcript": {
+            "A": "A wall is being painted.",
+            "B": "Some plants have been placed in a row.",
+            "C": "A cement floor is being swept.",
+            "D": "Some boxes have been stacked in a corner."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -167,7 +187,7 @@
           "no": 5,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.5.mp3",
           "image": "/assets/day-3/images/day-3-new/p02-3.jpg",
-          "answer": null,
+          "answer": "D",
           "prompts": [
             {
               "prefix": "She’s"
@@ -188,12 +208,17 @@
             "C. She’s __________",
             "D. She’s __________"
           ],
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. She's arranging some flowers. B. She's moving a table. C. She's putting on a jacket. D. She's picking up a notebook.",
+          "transcript": {
+            "A": "She's arranging some flowers.",
+            "B": "She's moving a table.",
+            "C": "She's putting on a jacket.",
+            "D": "She's picking up a notebook."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -204,7 +229,7 @@
           "no": 6,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.6.mp3",
           "image": "/assets/day-3/images/day-3-new/p03-1.jpg",
-          "answer": null,
+          "answer": "C",
           "prompts": [
             {
               "prefix": "A boat is"
@@ -225,12 +250,17 @@
             "C. A person is __________",
             "D. Some children are __________"
           ],
-          "transcript": "Number 6. Look at the picture mark number 6 in your test book. A. A boat is docking at a pier. B. Some birds are circling above the water. C. A person is sitting on a beach. D. Some children are digging in the sand. Go on to the next page. you",
+          "transcript": {
+            "A": "A boat is docking at a pier.",
+            "B": "Some birds are circling above the water.",
+            "C": "A person is sitting on a beach.",
+            "D": "Some children are digging in the sand."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -241,7 +271,7 @@
           "no": 7,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.7.mp3",
           "image": "/assets/day-3/images/day-3-new/p03-2.jpg",
-          "answer": null,
+          "answer": "D",
           "prompts": [
             {
               "prefix": "The man is"
@@ -262,12 +292,17 @@
             "C. The woman is __________",
             "D. The woman is __________"
           ],
-          "transcript": "Number seven. Look at the picture marked number seven in your test book. A. The man is looking down at his keyboard. B. The man is filing some documents. C. The woman is handing a telephone to the man. D. The woman is using a computer mouse.",
+          "transcript": {
+            "A": "The man is looking down at his keyboard.",
+            "B": "The man is filing some documents.",
+            "C": "The woman is handing a telephone to the man.",
+            "D": "The woman is using a computer mouse."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -278,7 +313,7 @@
           "no": 8,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.8.mp3",
           "image": "/assets/day-3/images/day-3-new/p04-1.jpg",
-          "answer": null,
+          "answer": "B",
           "prompts": [
             {
               "prefix": "A woman is"
@@ -299,12 +334,17 @@
             "C. A group of people is __________ a __________",
             "D. A brick patio is __________ __________"
           ],
-          "transcript": "Number eight. Look at the picture marked number eight in your test book. A. A woman's walking up some stairs. B. An awning extends over a shop entrance. C. A group of people is leaving a building. D. A brick patio is being swept.",
+          "transcript": {
+            "A": "A woman's walking up some stairs.",
+            "B": "An awning extends over a shop entrance.",
+            "C": "A group of people is leaving a building.",
+            "D": "A brick patio is being swept."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -315,7 +355,7 @@
           "no": 9,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.9.mp3",
           "image": "/assets/day-3/images/day-3-new/p04-2.jpg",
-          "answer": null,
+          "answer": "D",
           "prompts": [
             {
               "prefix": "She’s"
@@ -336,12 +376,17 @@
             "C. She’s __________",
             "D. She’s __________"
           ],
-          "transcript": "Number nine. Look at the picture marked number nine in your test book. A. She's wearing headphones. B. She's opening a drawer. C. She's holding a microphone. D. She's pushing a button.",
+          "transcript": {
+            "A": "She's wearing headphones.",
+            "B": "She's opening a drawer.",
+            "C": "She's holding a microphone.",
+            "D": "She's pushing a button."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -352,7 +397,7 @@
           "no": 10,
           "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.10.mp3",
           "image": "/assets/day-3/images/day-3-new/p04-3.jpg",
-          "answer": null,
+          "answer": "A",
           "prompts": [
             {
               "prefix": "They’re"
@@ -373,12 +418,17 @@
             "C. One of the men is __________",
             "D. One of the men is __________"
           ],
-          "transcript": "Number 10. Look at the picture marked number 10 in your test book. A. They're using laptop computers. B. They're exchanging business cards. C. One of the men is putting on a sweater. D. One of the men is moving a chair. Go on to the next page. you",
+          "transcript": {
+            "A": "They're using laptop computers.",
+            "B": "They're exchanging business cards.",
+            "C": "One of the men is putting on a sweater.",
+            "D": "One of the men is moving a chair."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper",
             "prompts": "pdf",
             "lines": "pdf"
@@ -394,7 +444,7 @@
       "subtitle": "Practice: nghe rồi chép lại cả 4 phương án mô tả tranh",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-3/audio/1-practice-test-2-file-5-2/0 - full.mp3",
       "questions": [
         {
@@ -402,13 +452,18 @@
           "no": 1,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/1.mp3",
           "image": "/assets/day-3/images/day-3-new/p05-1.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number one in your test book. A He's writing a letter. B He's reading a book. C He's serving some food. D He's holding a piece of paper.",
+          "answer": "D",
+          "transcript": {
+            "A": "He's writing a letter.",
+            "B": "He's reading a book.",
+            "C": "He's serving some food.",
+            "D": "He's holding a piece of paper."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -417,13 +472,18 @@
           "no": 2,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/2.mp3",
           "image": "/assets/day-3/images/day-3-new/p05-2.jpg",
-          "answer": null,
-          "transcript": "Number two. Look at the picture marked number two in your test book. A. A woman is arranging the shelves. B. A woman is standing at the board. C. A woman is watering a plant. D. A woman is washing a window.",
+          "answer": "B",
+          "transcript": {
+            "A": "A woman is arranging the shelves.",
+            "B": "A woman is standing at the board.",
+            "C": "A woman is watering a plant.",
+            "D": "A woman is washing a window."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -432,13 +492,18 @@
           "no": 3,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/3.mp3",
           "image": "/assets/day-3/images/day-3-new/p05-3.jpg",
-          "answer": null,
-          "transcript": "number three look at the picture mark number three in your test book a He's looking at his watch B. He's talking on the phone C. He's walking outside D. He's opening a box",
+          "answer": "B",
+          "transcript": {
+            "A": "He's looking at his watch",
+            "B": "He's talking on the phone",
+            "C": "He's walking outside",
+            "D": "He's opening a box"
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -447,13 +512,18 @@
           "no": 4,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/4.mp3",
           "image": "/assets/day-3/images/day-3-new/p06-1.jpg",
-          "answer": null,
-          "transcript": "Number four. Look at the picture mark number four in your test book. A. She's tidying her room. B. She's brushing her teeth. C. She's sweeping the deck. D. She's scrubbing the pots.",
+          "answer": "C",
+          "transcript": {
+            "A": "She's tidying her room.",
+            "B": "She's brushing her teeth.",
+            "C": "She's sweeping the deck.",
+            "D": "She's scrubbing the pots."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -462,13 +532,18 @@
           "no": 5,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/5.mp3",
           "image": "/assets/day-3/images/day-3-new/p06-2.jpg",
-          "answer": null,
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. The women are in a parking lot. B. The women are shopping for clothes. C. The women are in a supermarket. D. The women are paying for food.",
+          "answer": "C",
+          "transcript": {
+            "A": "The women are in a parking lot.",
+            "B": "The women are shopping for clothes.",
+            "C": "The women are in a supermarket.",
+            "D": "The women are paying for food."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -477,13 +552,18 @@
           "no": 6,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/6.mp3",
           "image": "/assets/day-3/images/day-3-new/p06-3.jpg",
-          "answer": null,
-          "transcript": "Number six. Look at the picture mark number six in your test book. A. They're resting in a waiting area. B. They're boarding an airplane. C. They're waiting in line. D. They're packing a suitcase.",
+          "answer": "A",
+          "transcript": {
+            "A": "They're resting in a waiting area.",
+            "B": "They're boarding an airplane.",
+            "C": "They're waiting in line.",
+            "D": "They're packing a suitcase."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -492,13 +572,18 @@
           "no": 7,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/7.mp3",
           "image": "/assets/day-3/images/day-3-new/p07-1.jpg",
-          "answer": null,
-          "transcript": "Number seven. Look at the picture marked number seven in your test book. A. A painting is hanging on the wall. B. Some people are eating a meal. C. The table is being cleared. D. A lamp is being turned off.",
+          "answer": "A",
+          "transcript": {
+            "A": "A painting is hanging on the wall.",
+            "B": "Some people are eating a meal.",
+            "C": "The table is being cleared.",
+            "D": "A lamp is being turned off."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -507,13 +592,18 @@
           "no": 8,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/8.mp3",
           "image": "/assets/day-3/images/day-3-new/p07-2.jpg",
-          "answer": null,
-          "transcript": "Number eight. Look at the picture marked number eight in your test book. A. The woman is taking a picture. B. The woman is reading as she walks. C. The boy is holding the woman's hand. D. The boy is playing in the bushes.",
+          "answer": "B",
+          "transcript": {
+            "A": "The woman is taking a picture.",
+            "B": "The woman is reading as she walks.",
+            "C": "The boy is holding the woman's hand.",
+            "D": "The boy is playing in the bushes."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -522,13 +612,18 @@
           "no": 9,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/9.mp3",
           "image": "/assets/day-3/images/day-3-new/p08-1.jpg",
-          "answer": null,
-          "transcript": "Number nine. Look at the picture marked number nine in your test book. A. The motorcycle has been parked. B. The motorcycle is being ridden. C. A tire has been removed from the motorcycle. D. The seat of the motorcycle is being repaired.",
+          "answer": "A",
+          "transcript": {
+            "A": "The motorcycle has been parked.",
+            "B": "The motorcycle is being ridden.",
+            "C": "A tire has been removed from the motorcycle.",
+            "D": "The seat of the motorcycle is being repaired."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -537,13 +632,18 @@
           "no": 10,
           "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/10.mp3",
           "image": "/assets/day-3/images/day-3-new/p08-2.jpg",
-          "answer": null,
-          "transcript": "Number 10. Look at the picture marked number 10 in your test book. A. They're delivering a presentation. B. They're moving a piece of furniture. C. They're adjusting a pull-down screen. D. They're connecting a computer cable.",
+          "answer": "B",
+          "transcript": {
+            "A": "They're delivering a presentation.",
+            "B": "They're moving a piece of furniture.",
+            "C": "They're adjusting a pull-down screen.",
+            "D": "They're connecting a computer cable."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
@@ -557,7 +657,7 @@
       "subtitle": "Homework: nghe file full 1 lần chọn đáp án, rồi nghe từng tranh và chép lại",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-3/audio/2-homework-test-3-file-5-3/0 - full.mp3",
       "questions": [
         {
@@ -565,13 +665,18 @@
           "no": 1,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/1.mp3",
           "image": "/assets/day-3/images/day-3-new/p09-1.jpg",
-          "answer": null,
-          "transcript": "A. There is a plant on the table. B. A window is above the sofa. C. A table is in front of the whiteboard. D. The trash cans are under the desk.",
+          "answer": "C",
+          "transcript": {
+            "A": "There is a plant on the table.",
+            "B": "A window is above the sofa.",
+            "C": "A table is in front of the whiteboard.",
+            "D": "The trash cans are under the desk."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -580,13 +685,18 @@
           "no": 2,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/2.mp3",
           "image": "/assets/day-3/images/day-3-new/p09-2.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number 2 in your test book. A. A hat has been placed on the railing. B. A man is sitting on a bench. C. A man is fishing from a dock. D. A pole is lying on the ground.",
+          "answer": "C",
+          "transcript": {
+            "A": "A hat has been placed on the railing.",
+            "B": "A man is sitting on a bench.",
+            "C": "A man is fishing from a dock.",
+            "D": "A pole is lying on the ground."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -595,13 +705,18 @@
           "no": 3,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/3.mp3",
           "image": "/assets/day-3/images/day-3-new/p09-3.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number three in your test book. A The cart has nothing in it. B Some bars are lying on the floor. C A ladder is leaning against the wall. D A box has been placed on the ladder.",
+          "answer": "B",
+          "transcript": {
+            "A": "The cart has nothing in it.",
+            "B": "Some bars are lying on the floor.",
+            "C": "A ladder is leaning against the wall.",
+            "D": "A box has been placed on the ladder."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -610,13 +725,18 @@
           "no": 4,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/4.mp3",
           "image": "/assets/day-3/images/day-3-new/p09-4.jpg",
-          "answer": null,
-          "transcript": "Look at the picture marked number four in your test book. A. Some scarves have been set on the counter. B. Some shoppers are browsing in a store. C. A man is standing in front of a mirror. D. A woman is trying on clothes.",
+          "answer": "B",
+          "transcript": {
+            "A": "Some scarves have been set on the counter.",
+            "B": "Some shoppers are browsing in a store.",
+            "C": "A man is standing in front of a mirror.",
+            "D": "A woman is trying on clothes."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -625,13 +745,18 @@
           "no": 5,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/5.mp3",
           "image": "/assets/day-3/images/day-3-new/p10-1.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number five in your test book. A. There is a statue behind the tree. B. A tree has fallen on the ground. C. The bench seat is covered with snow. D. Snow shovels are in front of the bench.",
+          "answer": "D",
+          "transcript": {
+            "A": "There is a statue behind the tree.",
+            "B": "A tree has fallen on the ground.",
+            "C": "The bench seat is covered with snow.",
+            "D": "Snow shovels are in front of the bench."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -640,13 +765,18 @@
           "no": 6,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/6.mp3",
           "image": "/assets/day-3/images/day-3-new/p10-2.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number six in your test book. A. There are lines painted on the roadway. B. A woman is stepping out of a car. C. Flags are hanging from some poles. D. There's a bridge over a highway.",
+          "answer": "A",
+          "transcript": {
+            "A": "There are lines painted on the roadway.",
+            "B": "A woman is stepping out of a car.",
+            "C": "Flags are hanging from some poles.",
+            "D": "There's a bridge over a highway."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -655,13 +785,18 @@
           "no": 7,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/7.mp3",
           "image": "/assets/day-3/images/day-3-new/p10-3.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number seven in your test book. A. There are flowers on the bench. B. The bushes have no leaves. C. The flower pots are empty. D. A tree is surrounded by flowers.",
+          "answer": "D",
+          "transcript": {
+            "A": "There are flowers on the bench.",
+            "B": "The bushes have no leaves.",
+            "C": "The flower pots are empty.",
+            "D": "A tree is surrounded by flowers."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -670,13 +805,18 @@
           "no": 8,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/8.mp3",
           "image": "/assets/day-3/images/day-3-new/p10-4.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number eight in your test book. A. People are shopping indoors. B. Boots are lined up on the ground. C. Shoes are arranged in a glass case. D. Merchandise is being unpacked.",
+          "answer": "B",
+          "transcript": {
+            "A": "People are shopping indoors.",
+            "B": "Boots are lined up on the ground.",
+            "C": "Shoes are arranged in a glass case.",
+            "D": "Merchandise is being unpacked."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -685,13 +825,18 @@
           "no": 9,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/9.mp3",
           "image": "/assets/day-3/images/day-3-new/p11-1.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number 9 in your test book. Some pictures are being framed. A printer has been placed on a cart. A trash can is being emptied. A tall plant has been put next to a desk.",
+          "answer": "D",
+          "transcript": {
+            "A": "Some pictures are being framed.",
+            "B": "A printer has been placed on a cart.",
+            "C": "A trash can is being emptied.",
+            "D": "A tall plant has been put next to a desk."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -700,13 +845,18 @@
           "no": 10,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/10.mp3",
           "image": "/assets/day-3/images/day-3-new/p11-2.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number 10 in your test book. A. A bicycle has been parked by a doorway. B. A woman is walking away from the building. C. Some people are sweeping the pavement. D. A man is locking the door of an office.",
+          "answer": "B",
+          "transcript": {
+            "A": "A bicycle has been parked by a doorway.",
+            "B": "A woman is walking away from the building.",
+            "C": "Some people are sweeping the pavement.",
+            "D": "A man is locking the door of an office."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -715,13 +865,18 @@
           "no": 11,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/11.mp3",
           "image": "/assets/day-3/images/day-3-new/p11-3.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number 11 in your test book. A. Some bicycle tires are displayed for sale. B. A bicycle has been chained to a tree. C. A walkway is paved with bricks. D. Some riders have gathered in the street.",
+          "answer": "C",
+          "transcript": {
+            "A": "Some bicycle tires are displayed for sale.",
+            "B": "A bicycle has been chained to a tree.",
+            "C": "A walkway is paved with bricks.",
+            "D": "Some riders have gathered in the street."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         },
@@ -730,13 +885,18 @@
           "no": 12,
           "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/12.mp3",
           "image": "/assets/day-3/images/day-3-new/p11-4.jpg",
-          "answer": null,
-          "transcript": "Look at the picture mark number 12 in your test book. A. Equipment is being loaded onto a truck. B. Some workers are putting packages on a shelf. C. A man is walking toward a doorway. D. A cart has been emptied.",
+          "answer": "C",
+          "transcript": {
+            "A": "Equipment is being loaded onto a truck.",
+            "B": "Some workers are putting packages on a shelf.",
+            "C": "A man is walking toward a doorway.",
+            "D": "A cart has been emptied."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "ai",
             "transcript": "whisper"
           }
         }
@@ -750,7 +910,7 @@
       "subtitle": "Homework: nghe file full 1 lần chọn đáp án, rồi nghe từng tranh và chép lại",
       "part": 1,
       "mode": "dictation",
-      "hasKey": false,
+      "hasKey": true,
       "fullAudio": "/assets/day-3/audio/2-homework-test-4-file-5-4/0 - full.mp3",
       "questions": [
         {
@@ -758,13 +918,18 @@
           "no": 1,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/1.mp3",
           "image": "/assets/day-3/images/day-3-new/p12-1.jpg",
-          "answer": null,
-          "transcript": "TOEIC TEST 2 Listening Test In the listening test, you will be asked to demonstrate how well you understand spoken English. The entire listening test will last approximately 45 minutes. There are four parts and directions are given for each part. You must mark your answers on the separate answer sheet. Do not write your answers in your test book. Part 1 Directions For each question in this part, you will hear four statements about a picture in your test book. When you hear the statements, you must select the one statement that best describes what you see in the picture. Then find the number of the question on your answer sheet and mark your answer. The statements will not be printed in your test book and will be spoken only one time. Look at the example item below. Now listen to the four statements. Now, Part 1 will begin. D He's filing a document.",
+          "answer": "D",
+          "transcript": {
+            "A": "He's carrying a box.",
+            "B": "He's closing a cabinet.",
+            "C": "He's cleaning a window.",
+            "D": "He's filing a document."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -773,13 +938,18 @@
           "no": 2,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/2.mp3",
           "image": "/assets/day-3/images/day-3-new/p12-2.jpg",
-          "answer": null,
-          "transcript": "Number two. Look at the picture marked number two in your test book. A. People are standing behind a railing. B. People are putting bricks in a pile. C. People are crossing the street at an intersection. D. People are waiting under a bridge. Go on to the next page. you",
+          "answer": "A",
+          "transcript": {
+            "A": "People are standing behind a railing.",
+            "B": "People are putting bricks in a pile.",
+            "C": "People are crossing the street at an intersection.",
+            "D": "People are waiting under a bridge."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -788,13 +958,18 @@
           "no": 3,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/3.mp3",
           "image": "/assets/day-3/images/day-3-new/p12-3.jpg",
-          "answer": null,
-          "transcript": "Number three. Look at the picture mark number three in your test book. A. The women are holding a scarf. B. The women are hanging a mirror. C. One woman is trying on hats. D. One woman is looking at her reflection.",
+          "answer": "C",
+          "transcript": {
+            "A": "The women are holding a scarf.",
+            "B": "The women are hanging a mirror.",
+            "C": "One woman is trying on hats.",
+            "D": "One woman is looking at her reflection."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -803,13 +978,18 @@
           "no": 4,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/4.mp3",
           "image": "/assets/day-3/images/day-3-new/p12-4.jpg",
-          "answer": null,
-          "transcript": "Number four. Look at the picture marked number four in your test book. A. A man's building a fence. B. A man's washing a road with a hose. C. A man's watering plants in a garden. D. A man's sweeping the walkway.",
+          "answer": "B",
+          "transcript": {
+            "A": "A man's building a fence.",
+            "B": "A man's washing a road with a hose.",
+            "C": "A man's watering plants in a garden.",
+            "D": "A man's sweeping the walkway."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -818,13 +998,18 @@
           "no": 5,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/5.mp3",
           "image": "/assets/day-3/images/day-3-new/p13-1.jpg",
-          "answer": null,
-          "transcript": "Number five. Look at the picture marked number five in your test book. A. A woman's showing a man something on the screen. B. A woman's pointing at a cup on the desk. C. A man's inserting some paper into the printer. D. Some people are moving a computer to the desk.",
+          "answer": "A",
+          "transcript": {
+            "A": "A woman's showing a man something on the screen.",
+            "B": "A woman's pointing at a cup on the desk.",
+            "C": "A man's inserting some paper into the printer.",
+            "D": "Some people are moving a computer to the desk."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -833,13 +1018,18 @@
           "no": 6,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/6.mp3",
           "image": "/assets/day-3/images/day-3-new/p13-2.jpg",
-          "answer": null,
-          "transcript": "Number 6. Look at the picture mark number 6 in your test book. A. Plates have been set in the sink. B. Eating utensils have been arranged in a tray. C. Dishes have been placed in a cupboard. D. Tools have been left under a counter. Go on to the next page. you",
+          "answer": "B",
+          "transcript": {
+            "A": "Plates have been set in the sink.",
+            "B": "Eating utensils have been arranged in a tray.",
+            "C": "Dishes have been placed in a cupboard.",
+            "D": "Tools have been left under a counter."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -848,13 +1038,18 @@
           "no": 7,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/7.mp3",
           "image": "/assets/day-3/images/day-3-new/p13-3.jpg",
-          "answer": null,
-          "transcript": "Number seven. Look at the picture marked number seven in your test book. A. All of the seats are stacked up against the wall. B. The tables are covered with tablecloths. C. Waiters are serving beverages to the customers. D. Some people are seated across from each other at the table.",
+          "answer": "D",
+          "transcript": {
+            "A": "All of the seats are stacked up against the wall.",
+            "B": "The tables are covered with tablecloths.",
+            "C": "Waiters are serving beverages to the customers.",
+            "D": "Some people are seated across from each other at the table."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -863,13 +1058,18 @@
           "no": 8,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/8.mp3",
           "image": "/assets/day-3/images/day-3-new/p13-4.jpg",
-          "answer": null,
-          "transcript": "Number eight. Look at the picture marked number eight in your test book. A. Some wires are coiled on the ground. B. Goods are being transported through a forest. C. Trucks have been parked inside a warehouse. D. The vehicles are facing in the same direction.",
+          "answer": "D",
+          "transcript": {
+            "A": "Some wires are coiled on the ground.",
+            "B": "Goods are being transported through a forest.",
+            "C": "Trucks have been parked inside a warehouse.",
+            "D": "The vehicles are facing in the same direction."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -878,13 +1078,18 @@
           "no": 9,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/9.mp3",
           "image": "/assets/day-3/images/day-3-new/p14-1.jpg",
-          "answer": null,
-          "transcript": "Number nine. Look at the picture marked number nine in your test book. A. Waves are crashing against the deck. B. Tourists are swimming in a pool. C. People are gathering on some rocks. D. Stones are being lined up on a bench.",
+          "answer": "C",
+          "transcript": {
+            "A": "Waves are crashing against the deck.",
+            "B": "Tourists are swimming in a pool.",
+            "C": "People are gathering on some rocks.",
+            "D": "Stones are being lined up on a bench."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -893,13 +1098,18 @@
           "no": 10,
           "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/10.mp3",
           "image": "/assets/day-3/images/day-3-new/p14-2.jpg",
-          "answer": null,
-          "transcript": "Number 10. Look at the picture marked number 10 in your test book. A. They're installing some light fixtures. B. They're writing reports in a classroom. C. They're adjusting a microphone on a stage. D. They're examining some laboratory equipment. Go on to the next page. Part 2. Directions. You will hear a question or statement and three responses spoken in English. They will not be printed in your test book and will be spoken only one time. Select the best response to the question or statement and mark the letter A, B, or C on your answer sheet. For example, you will hear Where is the meeting room? You will also hear A. To meet the new director. B. It's the first room on the right. C. Yes, at two o'clock. The best response to the question Where is the meeting room? Is choice B. It's the first room on the right. So, B is the correct answer. You should mark answer B on your answer sheet. Now let us begin with question number 11.",
+          "answer": "D",
+          "transcript": {
+            "A": "They're installing some light fixtures.",
+            "B": "They're writing reports in a classroom.",
+            "C": "They're adjusting a microphone on a stage.",
+            "D": "They're examining some laboratory equipment."
+          },
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": null,
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
