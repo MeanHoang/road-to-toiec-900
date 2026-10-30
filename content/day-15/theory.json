@@ -1,0 +1,108 @@
+{
+  "collection": "theory",
+  "day": "day-15",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d15-t-homework",
+      "type": "wordGroups",
+      "title": "Day 6 — homework and review",
+      "groups": {
+        "Review and vocabulary": [
+          "Học từ vựng Topic 1, 2, 3; flashcard Manufacturing từ số 25 đến 50 có trong mục từ vựng.",
+          "Học bộ 37 từ Quizlet Day 6 Part 7.",
+          "Chữa bài Day 5 (Day 14 trong ứng dụng): đáp án Part 1, BTVN Who/What và Part 7 đã được cập nhật."
+        ],
+        "Listening and reading": [
+          "Nghe chép chính tả Part 2: chép hết các bài trong phần Homework (How, Why, Which).",
+          "Hoàn thành Part 7 Section 2 Unit 1 (e-mail), tự dịch trước rồi chọn đáp án và đối chiếu dẫn chứng."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d15-t-how",
+      "type": "wordGroups",
+      "title": "Part 2 — How questions",
+      "groups": {
+        "What the question asks": [
+          "How hỏi cách thức, phương tiện hoặc ý kiến: How did you get to New York? → I took a train. How did you like the movie? → I thought it was boring.",
+          "How + tính từ/trạng từ hỏi mức độ: How long, How much, How many, How often, How soon, How far, How old."
+        ],
+        "Listen for the word after How": [
+          "How long hỏi thời lượng hoặc độ dài: How long will it take to get to Chicago? → Four hours by train.",
+          "How often hỏi tần suất: How often does the store have a sale? → Generally, once a month.",
+          "How much/How many hỏi số lượng hoặc giá: How many tables did you reserve? → 20 of them."
+        ],
+        "Indirect responses": [
+          "How should I store these photographs? → Matso is responsible for that.",
+          "How about…? là lời gợi ý, không hỏi cách thức: How about stopping at that new coffee shop on our way to work tomorrow?"
+        ]
+      },
+      "source": {
+        "rules": "ai",
+        "examples": "drive"
+      }
+    },
+    {
+      "id": "d15-t-why",
+      "type": "wordGroups",
+      "title": "Part 2 — Why questions",
+      "groups": {
+        "What the question asks": [
+          "Why hỏi lý do. Đáp án hay bắt đầu bằng Because, To + động từ, hoặc nêu thẳng lý do.",
+          "Why is the street closed? → Because they’re doing repair work.",
+          "Why are all these photographs stored in plastic containers? → To protect them."
+        ],
+        "Why don’t we/you…?": [
+          "Why don’t we/you…? là lời đề nghị, không hỏi lý do. Đáp án thường là đồng ý hoặc từ chối: Why don’t we offer a vegetarian dish at the lunch? → It may be too late to change the menu."
+        ],
+        "Indirect responses": [
+          "Why hasn’t Jason been in the office all week? → You’ll have to ask his manager.",
+          "Why is the contractor coming in tomorrow? → I thought you asked him to come."
+        ]
+      },
+      "source": {
+        "rules": "ai",
+        "examples": "drive"
+      }
+    },
+    {
+      "id": "d15-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 15 trong ứng dụng tương ứng Day 6 của giai đoạn 2.",
+        "Practice makes perfect ❤"
+      ],
+      "links": [
+        {
+          "label": "Day 6 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1nQm8A4vjk4olSSL5Vo0Gp2AaQshCiDG_?usp=sharing"
+        },
+        {
+          "label": "Flashcard Topic 03 — Manufacturing 25–50",
+          "href": "https://drive.google.com/file/d/1tzvaunq5oumMju7wMLPKBOD36FOV7UCy/view?usp=sharing"
+        },
+        {
+          "label": "Day 6 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005441784/day-6-p7-flash-cards/"
+        },
+        {
+          "label": "Thầy Long — Facebook post",
+          "href": "https://www.facebook.com/thaylongtdn/posts/pfbid0PeTEH8CiT1KWNzEjFnmP2RhevmzghTWMZoYDtKRSZ9k5MAisQXcWHWNXhYakvEMKl"
+        },
+        {
+          "label": "Review Day 5 reading",
+          "href": "/day/day-14/exercises"
+        },
+        {
+          "label": "Review Day 5 listening",
+          "href": "/day/day-14/listen"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

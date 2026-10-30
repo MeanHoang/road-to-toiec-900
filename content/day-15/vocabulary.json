@@ -1,0 +1,1719 @@
+{
+  "collection": "vocabulary",
+  "day": "day-15",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d15-v01",
+      "no": 1,
+      "word": "power outage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpaʊər ˌaʊtɪdʒ/",
+        "us": "/ˈpaʊər ˌaʊtɪdʒ/"
+      },
+      "meaningVi": "sự mất điện",
+      "image": null,
+      "example": {
+        "en": "As anyone who has ever had to survive through an extended power outage knows, in today’s world, when electricity stops, the world stops."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v01-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v02",
+      "no": 2,
+      "word": "take care of",
+      "pos": "v",
+      "ipa": {
+        "uk": "/teɪk ˈkeər əv/",
+        "us": "/teɪk ˈker əv/"
+      },
+      "meaningVi": "xử lý, chăm sóc, giải quyết",
+      "image": null,
+      "example": {
+        "en": "He has the tools to take care of the electrical problem."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v02-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v03",
+      "no": 3,
+      "word": "output",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈaʊtpʊt/",
+        "us": "/ˈaʊtpʊt/"
+      },
+      "meaningVi": "sản lượng, đầu ra",
+      "image": null,
+      "example": {
+        "en": "Manufacturing output has increased by 8 per cent."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v03-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v04",
+      "no": 4,
+      "word": "supervisor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsuːpəvaɪzə/",
+        "us": "/ˈsuːpərvaɪzər/"
+      },
+      "meaningVi": "người giám sát (supervise — v: giám sát; supervision — n: sự giám sát)",
+      "image": null,
+      "example": {
+        "en": "If you have a problem, go to your supervisor."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v04-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v05",
+      "no": 5,
+      "word": "process",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈprəʊses/",
+        "us": "/ˈprɑːses/"
+      },
+      "meaningVi": "quy trình; xử lý, tiến hành",
+      "image": null,
+      "example": {
+        "en": "The company doesn’t have a formal complaints process."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v05-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v06",
+      "no": 6,
+      "word": "production quota",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈdʌkʃən ˈkwəʊtə/",
+        "us": "/prəˈdʌkʃən ˈkwoʊtə/"
+      },
+      "meaningVi": "chỉ tiêu sản xuất",
+      "image": null,
+      "example": {
+        "en": "The 2022 production quota was 5968.75 kilogrammes."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v06-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v07",
+      "no": 7,
+      "word": "technician",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tekˈnɪʃən/",
+        "us": "/tekˈnɪʃən/"
+      },
+      "meaningVi": "kỹ thuật viên",
+      "image": null,
+      "example": {
+        "en": "After finishing school and national service he worked as an electronics technician."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v07-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v08",
+      "no": 8,
+      "word": "custom-made",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌkʌstəm ˈmeɪd/",
+        "us": "/ˌkʌstəm ˈmeɪd/"
+      },
+      "meaningVi": "sản xuất theo đơn hàng riêng",
+      "image": null,
+      "example": {
+        "en": "I started my own business to develop custom-made software for small businesses."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v08-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v09",
+      "no": 9,
+      "word": "maintenance cost",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmeɪntənəns kɒst/",
+        "us": "/ˈmeɪntənəns kɔːst/"
+      },
+      "meaningVi": "chi phí bảo trì",
+      "image": null,
+      "example": {
+        "en": "Maintenance costs will bring the total price tag to $16 billion."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v09-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v10",
+      "no": 10,
+      "word": "shortage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈʃɔːtɪdʒ/",
+        "us": "/ˈʃɔːrtɪdʒ/"
+      },
+      "meaningVi": "sự thiếu hụt",
+      "image": null,
+      "example": {
+        "en": "Their economy continued to suffer shortages in raw materials."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v10-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v11",
+      "no": 11,
+      "word": "precaution",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prɪˈkɔːʃən/",
+        "us": "/prɪˈkɔːʃən/"
+      },
+      "meaningVi": "sự thận trọng, phòng ngừa",
+      "image": null,
+      "example": {
+        "en": "You’ll be quite safe if you observe certain basic precautions."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v11-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v12",
+      "no": 12,
+      "word": "utilize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈjuːtəlaɪz/",
+        "us": "/ˈjuːtəlaɪz/"
+      },
+      "meaningVi": "sử dụng, tận dụng",
+      "image": null,
+      "example": {
+        "en": "The resources at our disposal could have been better utilized."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v12-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v13",
+      "no": 13,
+      "word": "succeed",
+      "pos": "v",
+      "ipa": {
+        "uk": "/səkˈsiːd/",
+        "us": "/səkˈsiːd/"
+      },
+      "meaningVi": "thành công (success — n: sự thành công)",
+      "image": null,
+      "example": {
+        "en": "We succeeded in repairing the engine."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v13-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v14",
+      "no": 14,
+      "word": "clothing line",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkləʊðɪŋ laɪn/",
+        "us": "/ˈkloʊðɪŋ laɪn/"
+      },
+      "meaningVi": "dòng quần áo",
+      "image": null,
+      "example": {
+        "en": "Create a business plan for your clothing company; follow fashion trends and find your niche; build a strong brand for your clothing line."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v14-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v15",
+      "no": 15,
+      "word": "crude oil",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkruːd ˈɔɪl/",
+        "us": "/ˌkruːd ˈɔɪl/"
+      },
+      "meaningVi": "dầu thô",
+      "image": null,
+      "example": {
+        "en": "The price of crude oil has more than doubled."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v15-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v16",
+      "no": 16,
+      "word": "synthetic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/sɪnˈθetɪk/",
+        "us": "/sɪnˈθetɪk/"
+      },
+      "meaningVi": "nhân tạo",
+      "image": null,
+      "example": {
+        "en": "She criticized the synthetic charm of TV hosts."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v16-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v17",
+      "no": 17,
+      "word": "dispose",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈspəʊz/",
+        "us": "/dɪˈspoʊz/"
+      },
+      "meaningVi": "loại bỏ, vứt đi",
+      "image": null,
+      "example": {
+        "en": "It’s important for companies to completely dispose of their recalled products."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v17-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v18",
+      "no": 18,
+      "word": "contribute",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kənˈtrɪbjuːt/",
+        "us": "/kənˈtrɪbjuːt/"
+      },
+      "meaningVi": "đóng góp, góp phần (contribution — n: sự đóng góp)",
+      "image": null,
+      "example": {
+        "en": "The company contributed $50 000 towards training costs."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v18-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v19",
+      "no": 19,
+      "word": "combine",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəmˈbaɪn/",
+        "us": "/kəmˈbaɪn/"
+      },
+      "meaningVi": "kết hợp (combination — n: sự kết hợp)",
+      "image": null,
+      "example": {
+        "en": "Several factors had combined to ruin our plans."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v19-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v20",
+      "no": 20,
+      "word": "instruct",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈstrʌkt/",
+        "us": "/ɪnˈstrʌkt/"
+      },
+      "meaningVi": "hướng dẫn (instruction — n: sự hướng dẫn)",
+      "image": null,
+      "example": {
+        "en": "He was instructed to report back to headquarters."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v20-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v21",
+      "no": 21,
+      "word": "meet",
+      "pos": "v",
+      "ipa": {
+        "uk": "/miːt/",
+        "us": "/miːt/"
+      },
+      "meaningVi": "đáp ứng, gặp gỡ",
+      "image": null,
+      "example": {
+        "en": "The oil industry is working to meet clean air requirements."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v21-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v22",
+      "no": 22,
+      "word": "reschedule",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌriːˈʃedjuːl/",
+        "us": "/ˌriːˈskedʒuːl/"
+      },
+      "meaningVi": "lên lịch lại",
+      "image": null,
+      "example": {
+        "en": "The meeting has been rescheduled for next week."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v22-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v23",
+      "no": 23,
+      "word": "compare",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəmˈpeə/",
+        "us": "/kəmˈper/"
+      },
+      "meaningVi": "so sánh (comparison — n: sự so sánh)",
+      "image": null,
+      "example": {
+        "en": "The internet allows you to compare prices from a variety of companies."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v23-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v24",
+      "no": 24,
+      "word": "surpass",
+      "pos": "v",
+      "ipa": {
+        "uk": "/səˈpɑːs/",
+        "us": "/sərˈpæs/"
+      },
+      "meaningVi": "vượt qua",
+      "image": null,
+      "example": {
+        "en": "Our team’s achievements surpass those of teams in earlier years."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v24-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v25",
+      "no": 25,
+      "word": "soar",
+      "pos": "v",
+      "ipa": {
+        "uk": "/sɔː/",
+        "us": "/sɔːr/"
+      },
+      "meaningVi": "tăng lên",
+      "image": null,
+      "example": {
+        "en": "Profits have soared dramatically in recent months."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v25-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v26",
+      "no": 26,
+      "word": "conduct",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kənˈdʌkt/",
+        "us": "/kənˈdʌkt/"
+      },
+      "meaningVi": "chỉ huy, tiến hành (conductor — n: người chỉ huy)",
+      "image": null,
+      "example": {
+        "en": "We regularly conduct safety inspections."
+      },
+      "group": "Manufacturing",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v26-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v27",
+      "no": 27,
+      "word": "mechanic",
+      "pos": "n",
+      "ipa": {
+        "uk": "/məˈkænɪk/",
+        "us": "/məˈkænɪk/"
+      },
+      "meaningVi": "thợ cơ khí",
+      "image": null,
+      "example": {
+        "en": "My car broke down on my way home today, and I had to take it to the mechanic."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v27-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v28",
+      "no": 28,
+      "word": "inconvenience",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˌɪnkənˈviːniəns/",
+        "us": "/ˌɪnkənˈviːniəns/"
+      },
+      "meaningVi": "sự bất tiện; gây bất tiện",
+      "image": null,
+      "example": {
+        "en": "We understand the inconvenience this has caused you."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v28-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v29",
+      "no": 29,
+      "word": "workplace",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɜːkpleɪs/",
+        "us": "/ˈwɜːrkpleɪs/"
+      },
+      "meaningVi": "nơi làm việc",
+      "image": null,
+      "example": {
+        "en": "This is one of the changes we plan in our efforts to make Holmana a healthier and happier workplace."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v29-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v30",
+      "no": 30,
+      "word": "repair shop",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈpeə ʃɒp/",
+        "us": "/rɪˈper ʃɑːp/"
+      },
+      "meaningVi": "cửa hàng sửa chữa",
+      "image": null,
+      "example": {
+        "en": "I took my car to the repair shop near the office."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v30-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v31",
+      "no": 31,
+      "word": "remodel",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌriːˈmɒdəl/",
+        "us": "/ˌriːˈmɑːdəl/"
+      },
+      "meaningVi": "tu sửa, cải tạo",
+      "image": null,
+      "example": {
+        "en": "His office is being remodeled."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v31-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v32",
+      "no": 32,
+      "word": "initiate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪˈnɪʃieɪt/",
+        "us": "/ɪˈnɪʃieɪt/"
+      },
+      "meaningVi": "khởi xướng, bắt đầu",
+      "image": null,
+      "example": {
+        "en": "The new fitness-at-work program was initiated by the head office."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v32-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v33",
+      "no": 33,
+      "word": "encourage",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈkʌrɪdʒ/",
+        "us": "/ɪnˈkɜːrɪdʒ/"
+      },
+      "meaningVi": "khuyến khích, động viên",
+      "image": null,
+      "example": {
+        "en": "The program encourages us to incorporate some exercise into our daily work routine."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v33-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v34",
+      "no": 34,
+      "word": "incorporate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈkɔːpəreɪt/",
+        "us": "/ɪnˈkɔːrpəreɪt/"
+      },
+      "meaningVi": "kết hợp, sáp nhập",
+      "image": null,
+      "example": {
+        "en": "The program encourages us to incorporate some exercise into our daily work routine."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v34-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v35",
+      "no": 35,
+      "word": "responsibility",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˌspɒnsəˈbɪləti/",
+        "us": "/rɪˌspɑːnsəˈbɪləti/"
+      },
+      "meaningVi": "trách nhiệm",
+      "image": null,
+      "example": {
+        "en": "Sandra Maxwell of personnel has taken on responsibility for the fitness-at-work program."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v35-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v36",
+      "no": 36,
+      "word": "nominate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈnɒmɪneɪt/",
+        "us": "/ˈnɑːmɪneɪt/"
+      },
+      "meaningVi": "đề cử, bổ nhiệm",
+      "image": null,
+      "example": {
+        "en": "She has nominated me to set up a walking group."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v36-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v37",
+      "no": 37,
+      "word": "aim",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/eɪm/",
+        "us": "/eɪm/"
+      },
+      "meaningVi": "mục tiêu; nhắm đến",
+      "image": null,
+      "example": {
+        "en": "The aim is to walk together along the footpaths for at least twenty minutes."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v37-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v38",
+      "no": 38,
+      "word": "state-of-the-art",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌsteɪt əv ði ˈɑːt/",
+        "us": "/ˌsteɪt əv ði ˈɑːrt/"
+      },
+      "meaningVi": "hiện đại nhất, tiên tiến nhất",
+      "image": null,
+      "example": {
+        "en": "Lakewood Fitness Center is a state-of-the-art fitness complex with gyms, a swimming pool, and exercise classes."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v38-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v39",
+      "no": 39,
+      "word": "maximum",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/ˈmæksɪməm/",
+        "us": "/ˈmæksɪməm/"
+      },
+      "meaningVi": "tối đa",
+      "image": null,
+      "example": {
+        "en": "Normally we take a maximum of seven days to ship online purchases."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v39-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v40",
+      "no": 40,
+      "word": "expedite",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈekspədaɪt/",
+        "us": "/ˈekspədaɪt/"
+      },
+      "meaningVi": "xúc tiến, đẩy nhanh",
+      "image": null,
+      "example": {
+        "en": "We will expedite delivery of your order and send it via National Express."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v40-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v41",
+      "no": 41,
+      "word": "inquiry",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈkwaɪəri/",
+        "us": "/ˈɪŋkwəri/"
+      },
+      "meaningVi": "câu hỏi, yêu cầu thông tin",
+      "image": null,
+      "example": {
+        "en": "We have received the inquiry dated January 14 about the status of your order."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v41-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v42",
+      "no": 42,
+      "word": "renew",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈnjuː/",
+        "us": "/rɪˈnuː/"
+      },
+      "meaningVi": "gia hạn, làm mới",
+      "image": null,
+      "example": {
+        "en": "If you renew now, you will not miss a single issue of Accounting News."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v42-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v43",
+      "no": 43,
+      "word": "complimentary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌkɒmplɪˈmentri/",
+        "us": "/ˌkɑːmplɪˈmentri/"
+      },
+      "meaningVi": "miễn phí đi kèm, biếu tặng",
+      "image": null,
+      "example": {
+        "en": "Accounting News is complimentary with your associate-level membership."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v43-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v44",
+      "no": 44,
+      "word": "informative",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɪnˈfɔːmətɪv/",
+        "us": "/ɪnˈfɔːrmətɪv/"
+      },
+      "meaningVi": "giàu thông tin",
+      "image": null,
+      "example": {
+        "en": "It is filled with informative articles."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v44-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v45",
+      "no": 45,
+      "word": "renewal",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈnjuːəl/",
+        "us": "/rɪˈnuːəl/"
+      },
+      "meaningVi": "sự gia hạn, sự đổi mới",
+      "image": null,
+      "example": {
+        "en": "Please use April as your renewal month when prompted in the online application form."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v45-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v46",
+      "no": 46,
+      "word": "status",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsteɪtəs/",
+        "us": "/ˈsteɪtəs/"
+      },
+      "meaningVi": "trạng thái, tình trạng",
+      "image": null,
+      "example": {
+        "en": "To maintain your active status with our organization, go to our Web site."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v46-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v47",
+      "no": 47,
+      "word": "identification number",
+      "pos": "n",
+      "ipa": {
+        "uk": "/aɪˌdentɪfɪˈkeɪʃən ˈnʌmbə/",
+        "us": "/aɪˌdentɪfɪˈkeɪʃən ˈnʌmbər/"
+      },
+      "meaningVi": "số nhận dạng",
+      "image": null,
+      "example": {
+        "en": "For access, you will need the COOA identification number listed on your membership card."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v47-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v48",
+      "no": 48,
+      "word": "renovation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌrenəˈveɪʃən/",
+        "us": "/ˌrenəˈveɪʃən/"
+      },
+      "meaningVi": "sự cải tạo, đổi mới",
+      "image": null,
+      "example": {
+        "en": "We are very excited about the renovations to our office space."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v48-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v49",
+      "no": 49,
+      "word": "enhance",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈhɑːns/",
+        "us": "/ɪnˈhæns/"
+      },
+      "meaningVi": "nâng cao, cải thiện",
+      "image": null,
+      "example": {
+        "en": "The renovations will enhance our work environment tremendously."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v49-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v50",
+      "no": 50,
+      "word": "tremendously",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/trəˈmendəsli/",
+        "us": "/trəˈmendəsli/"
+      },
+      "meaningVi": "cực kỳ, rất nhiều",
+      "image": null,
+      "example": {
+        "en": "The renovations will enhance our work environment tremendously."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v50-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v51",
+      "no": 51,
+      "word": "inaccessible",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌɪnəkˈsesəbəl/",
+        "us": "/ˌɪnəkˈsesəbəl/"
+      },
+      "meaningVi": "không thể tiếp cận được",
+      "image": null,
+      "example": {
+        "en": "The kitchen on the first floor will be inaccessible while it is being updated."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v51-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v51-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v52",
+      "no": 52,
+      "word": "finalize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈfaɪnəlaɪz/",
+        "us": "/ˈfaɪnəlaɪz/"
+      },
+      "meaningVi": "hoàn tất, chốt lại",
+      "image": null,
+      "example": {
+        "en": "All employees must use the third-floor kitchen until the update is finalized on May 28."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v52-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v52-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v53",
+      "no": 53,
+      "word": "refrigerator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈfrɪdʒəreɪtə/",
+        "us": "/rɪˈfrɪdʒəreɪtər/"
+      },
+      "meaningVi": "tủ lạnh",
+      "image": null,
+      "example": {
+        "en": "Please label the food items you keep in the refrigerator."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v53-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v54",
+      "no": 54,
+      "word": "minimize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈmɪnɪmaɪz/",
+        "us": "/ˈmɪnɪmaɪz/"
+      },
+      "meaningVi": "giảm thiểu",
+      "image": null,
+      "example": {
+        "en": "Please minimize the time you spend on food preparation in the kitchen."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v54-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v55",
+      "no": 55,
+      "word": "avoidable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈvɔɪdəbəl/",
+        "us": "/əˈvɔɪdəbəl/"
+      },
+      "meaningVi": "có thể tránh được (unavoidable: không thể tránh)",
+      "image": null,
+      "example": {
+        "en": "Apart from some unavoidable noise and extra traffic, the other floors should not be affected."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v55-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v56",
+      "no": 56,
+      "word": "temporary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈtemprəri/",
+        "us": "/ˈtempəreri/"
+      },
+      "meaningVi": "tạm thời",
+      "image": null,
+      "example": {
+        "en": "The e-mail explains temporary changes in the workplace."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v56-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v57",
+      "no": 57,
+      "word": "transition",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/trænˈzɪʃən/",
+        "us": "/trænˈzɪʃən/"
+      },
+      "meaningVi": "sự chuyển đổi; chuyển đổi",
+      "image": null,
+      "example": {
+        "en": "To make the transition go faster, please move the contents of your current desk into a cardboard box."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v57-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v57-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v58",
+      "no": 58,
+      "word": "hybrid",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/ˈhaɪbrɪd/",
+        "us": "/ˈhaɪbrɪd/"
+      },
+      "meaningVi": "lai, kết hợp; mô hình kết hợp",
+      "image": null,
+      "example": {
+        "en": "We will soon be replacing all employee desks with new hybrid ones."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v58-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v59",
+      "no": 59,
+      "word": "implement",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɪmplɪment/",
+        "us": "/ˈɪmplɪment/"
+      },
+      "meaningVi": "thực hiện, triển khai",
+      "image": null,
+      "example": {
+        "en": "This is only one of the changes management plans to implement this year."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v59-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v60",
+      "no": 60,
+      "word": "landscape",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈlændskeɪp/",
+        "us": "/ˈlændskeɪp/"
+      },
+      "meaningVi": "phong cảnh; thiết kế cảnh quan",
+      "image": null,
+      "example": {
+        "en": "Your work will be featured in a special landscape photography exhibit."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v60-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v60-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v61",
+      "no": 61,
+      "word": "in addition",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ɪn əˈdɪʃən/",
+        "us": "/ɪn əˈdɪʃən/"
+      },
+      "meaningVi": "ngoài ra, thêm vào đó",
+      "image": null,
+      "example": {
+        "en": "In addition, your work will be featured in a special exhibit in Birmingham."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v61-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v61-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v62",
+      "no": 62,
+      "word": "subscription",
+      "pos": "n",
+      "ipa": {
+        "uk": "/səbˈskrɪpʃən/",
+        "us": "/səbˈskrɪpʃən/"
+      },
+      "meaningVi": "đăng ký, gói thuê bao",
+      "image": null,
+      "example": {
+        "en": "You will receive a prize of £400 as well as a two-year subscription to the magazine."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v62-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v62-uk.mp3"
+      }
+    },
+    {
+      "id": "d15-v63",
+      "no": 63,
+      "word": "museum",
+      "pos": "n",
+      "ipa": {
+        "uk": "/mjuˈziːəm/",
+        "us": "/mjuˈziːəm/"
+      },
+      "meaningVi": "bảo tàng",
+      "image": null,
+      "example": {
+        "en": "This information will accompany your photograph in the magazine and in the museum exhibit."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-15/voice-neural/d15-v63-us.mp3",
+        "uk": "/assets/day-15/voice-neural/d15-v63-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "fc313145e648aeb03a7c7b5d91fb5d59752c9d8bddaf0da39bca88bfe02037fb"
+  }
+}

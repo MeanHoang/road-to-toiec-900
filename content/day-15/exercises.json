@@ -1,0 +1,653 @@
+{
+  "collection": "exercises",
+  "day": "day-15",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d15-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a ride to work",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-01",
+          "no": 1,
+          "text": "What is the purpose of the message?",
+          "options": {
+            "A": "To arrange transportation",
+            "B": "To recommend an auto repair shop",
+            "C": "To request time off from work",
+            "D": "To advertise a car for sale"
+          },
+          "answer": "A",
+          "explain": "Tom nhờ Marc chở đi làm và về ngày mai, tức là sắp xếp phương tiện đi lại.",
+          "passage": {
+            "text": "From: Tom Gough <tomgough@versatileware.com>\nTo: Marc Hammond <marchammond@versatileware.com>\nDate: Thursday, June 13, 4:12 P.M.\nSubject: Ride tomorrow?\n\nHi Marc,\n\nI’m writing to ask a favor of you. My car broke down on my way home today, and I had to take it to the mechanic. Could you give me a ride to and from work tomorrow? I’m hoping it won’t be too much of an inconvenience since we live on the same street and work in the same building. The mechanic says he’ll have the car running again by Saturday, so I shouldn’t need a ride on Monday.\n\nThanks,\nTom"
+          },
+          "vi": "Chào Marc,\n\nTôi viết thư này để nhờ anh một việc. Xe của tôi bị hỏng trên đường về nhà hôm nay và tôi đã phải mang đến thợ sửa. Anh có thể cho tôi đi nhờ đến chỗ làm và về nhà vào ngày mai được không? Tôi hy vọng việc này không quá phiền anh vì chúng ta sống cùng phố và làm cùng tòa nhà. Thợ sửa nói đến thứ Bảy xe sẽ chạy lại được, nên thứ Hai tôi sẽ không cần đi nhờ nữa.\n\nCảm ơn anh,\nTom",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-02",
+          "no": 2,
+          "text": "Who most likely is Mr. Hammond?",
+          "options": {
+            "A": "Mr. Gough’s landlord",
+            "B": "Mr. Gough’s coworker",
+            "C": "Mr. Gough’s auto mechanic",
+            "D": "Mr. Gough’s customer"
+          },
+          "answer": "B",
+          "explain": "Hai người làm cùng tòa nhà và có email cùng tên miền versatileware.com, nên là đồng nghiệp.",
+          "passage": {
+            "text": "From: Tom Gough <tomgough@versatileware.com>\nTo: Marc Hammond <marchammond@versatileware.com>\nDate: Thursday, June 13, 4:12 P.M.\nSubject: Ride tomorrow?\n\nHi Marc,\n\nI’m writing to ask a favor of you. My car broke down on my way home today, and I had to take it to the mechanic. Could you give me a ride to and from work tomorrow? I’m hoping it won’t be too much of an inconvenience since we live on the same street and work in the same building. The mechanic says he’ll have the car running again by Saturday, so I shouldn’t need a ride on Monday.\n\nThanks,\nTom"
+          },
+          "vi": "Chào Marc,\n\nTôi viết thư này để nhờ anh một việc. Xe của tôi bị hỏng trên đường về nhà hôm nay và tôi đã phải mang đến thợ sửa. Anh có thể cho tôi đi nhờ đến chỗ làm và về nhà vào ngày mai được không? Tôi hy vọng việc này không quá phiền anh vì chúng ta sống cùng phố và làm cùng tòa nhà. Thợ sửa nói đến thứ Bảy xe sẽ chạy lại được, nên thứ Hai tôi sẽ không cần đi nhờ nữa.\n\nCảm ơn anh,\nTom",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-03",
+          "no": 3,
+          "text": "What is indicated about Mr. Gough?",
+          "options": {
+            "A": "His car is being repaired.",
+            "B": "He lives near his workplace.",
+            "C": "He works on Saturdays.",
+            "D": "His office is being remodeled."
+          },
+          "answer": "A",
+          "explain": "Xe đã mang đến thợ và đến thứ Bảy mới chạy lại được, tức là đang được sửa.",
+          "passage": {
+            "text": "From: Tom Gough <tomgough@versatileware.com>\nTo: Marc Hammond <marchammond@versatileware.com>\nDate: Thursday, June 13, 4:12 P.M.\nSubject: Ride tomorrow?\n\nHi Marc,\n\nI’m writing to ask a favor of you. My car broke down on my way home today, and I had to take it to the mechanic. Could you give me a ride to and from work tomorrow? I’m hoping it won’t be too much of an inconvenience since we live on the same street and work in the same building. The mechanic says he’ll have the car running again by Saturday, so I shouldn’t need a ride on Monday.\n\nThanks,\nTom"
+          },
+          "vi": "Chào Marc,\n\nTôi viết thư này để nhờ anh một việc. Xe của tôi bị hỏng trên đường về nhà hôm nay và tôi đã phải mang đến thợ sửa. Anh có thể cho tôi đi nhờ đến chỗ làm và về nhà vào ngày mai được không? Tôi hy vọng việc này không quá phiền anh vì chúng ta sống cùng phố và làm cùng tòa nhà. Thợ sửa nói đến thứ Bảy xe sẽ chạy lại được, nên thứ Hai tôi sẽ không cần đi nhờ nữa.\n\nCảm ơn anh,\nTom",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a walking group at work",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-04",
+          "no": 4,
+          "text": "Who asked Ms. Chen to organize the walking group?",
+          "options": {
+            "A": "Lakewood Recreation Department",
+            "B": "Sandra Maxwell",
+            "C": "Jim Dixon",
+            "D": "The management of Lakewood Fitness Center"
+          },
+          "answer": "B",
+          "explain": "“She has nominated me to set up a walking group” — “she” là Sandra Maxwell.",
+          "passage": {
+            "text": "From: Julia Chen [j.chen@sanderson.com]\nTo: Sanderson Staff-Lakewood\nSubject: Fitness-at-Work Program\n\nYou’ve probably heard about the new fitness-at-work program initiated by the head office to encourage us to incorporate some exercise into our daily work routine. Sandra Maxwell of personnel has taken on responsibility for the fitness-at-work program at the Lakewood facility. She has nominated me to set up a walking group, to be known as Walk at Work. We are lucky to work in a beautiful area surrounded by parks, so what better place to take a walk?\n\nWalk at Work will meet during the lunch break, beginning next Monday. The aim is to walk together along the footpaths for at least twenty minutes. There will be two walks each day, one at 12:30 P.M., led by me, and the second at 1:00 P.M., led by Jim Dixon.\n\nThis program is fully supported by Sanderson Associates, which has arranged for all staff who enroll in Walk at Work to receive a ten percent discount on membership at Lakewood Fitness Center, a state-of-the-art fitness complex with gyms, a swimming pool, and exercise classes.\n\nWe think this is a great idea, and we hope you will too, so why not join us? You can e-mail me or just meet us at the main entrance on Monday at 12:30 P.M. or 1:00 P.M.\n\nHappy walking!\nJulia Chen"
+          },
+          "vi": "Có lẽ mọi người đã nghe về chương trình tập thể dục tại nơi làm việc do trụ sở chính khởi xướng, nhằm khuyến khích chúng ta đưa việc tập luyện vào nhịp làm việc hằng ngày. Sandra Maxwell bên phòng nhân sự đã nhận trách nhiệm chương trình này tại cơ sở Lakewood. Cô ấy đã đề cử tôi lập một nhóm đi bộ, gọi là Walk at Work. Chúng ta may mắn làm việc ở khu vực đẹp, có nhiều công viên xung quanh, còn nơi nào tốt hơn để đi bộ?\n\nWalk at Work sẽ gặp nhau vào giờ nghỉ trưa, bắt đầu từ thứ Hai tới. Mục tiêu là cùng đi bộ dọc các lối đi ít nhất hai mươi phút. Mỗi ngày có hai lượt: lượt 12:30 trưa do tôi dẫn, lượt 1:00 chiều do Jim Dixon dẫn.\n\nChương trình được Sanderson Associates hỗ trợ hoàn toàn. Công ty đã thu xếp để mọi nhân viên đăng ký Walk at Work được giảm mười phần trăm phí hội viên tại Lakewood Fitness Center, một khu thể thao hiện đại có phòng gym, hồ bơi và các lớp tập.\n\nChúng tôi nghĩ đây là ý tưởng tuyệt vời và mong mọi người cũng thấy vậy, sao không tham gia cùng chúng tôi? Bạn có thể email cho tôi hoặc gặp chúng tôi ở cổng chính vào thứ Hai lúc 12:30 hoặc 1:00 chiều.\n\nChúc đi bộ vui vẻ!\nJulia Chen",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-05",
+          "no": 5,
+          "text": "What benefit is offered to employees who join Walk at Work?",
+          "options": {
+            "A": "They can attend swimming classes free of charge.",
+            "B": "They will receive a bonus at the end of the year.",
+            "C": "They will be able to take a longer lunch break.",
+            "D": "They can save money at a local exercise center."
+          },
+          "answer": "D",
+          "explain": "Người tham gia được giảm 10% phí hội viên Lakewood Fitness Center.",
+          "passage": {
+            "text": "From: Julia Chen [j.chen@sanderson.com]\nTo: Sanderson Staff-Lakewood\nSubject: Fitness-at-Work Program\n\nYou’ve probably heard about the new fitness-at-work program initiated by the head office to encourage us to incorporate some exercise into our daily work routine. Sandra Maxwell of personnel has taken on responsibility for the fitness-at-work program at the Lakewood facility. She has nominated me to set up a walking group, to be known as Walk at Work. We are lucky to work in a beautiful area surrounded by parks, so what better place to take a walk?\n\nWalk at Work will meet during the lunch break, beginning next Monday. The aim is to walk together along the footpaths for at least twenty minutes. There will be two walks each day, one at 12:30 P.M., led by me, and the second at 1:00 P.M., led by Jim Dixon.\n\nThis program is fully supported by Sanderson Associates, which has arranged for all staff who enroll in Walk at Work to receive a ten percent discount on membership at Lakewood Fitness Center, a state-of-the-art fitness complex with gyms, a swimming pool, and exercise classes.\n\nWe think this is a great idea, and we hope you will too, so why not join us? You can e-mail me or just meet us at the main entrance on Monday at 12:30 P.M. or 1:00 P.M.\n\nHappy walking!\nJulia Chen"
+          },
+          "vi": "Có lẽ mọi người đã nghe về chương trình tập thể dục tại nơi làm việc do trụ sở chính khởi xướng, nhằm khuyến khích chúng ta đưa việc tập luyện vào nhịp làm việc hằng ngày. Sandra Maxwell bên phòng nhân sự đã nhận trách nhiệm chương trình này tại cơ sở Lakewood. Cô ấy đã đề cử tôi lập một nhóm đi bộ, gọi là Walk at Work. Chúng ta may mắn làm việc ở khu vực đẹp, có nhiều công viên xung quanh, còn nơi nào tốt hơn để đi bộ?\n\nWalk at Work sẽ gặp nhau vào giờ nghỉ trưa, bắt đầu từ thứ Hai tới. Mục tiêu là cùng đi bộ dọc các lối đi ít nhất hai mươi phút. Mỗi ngày có hai lượt: lượt 12:30 trưa do tôi dẫn, lượt 1:00 chiều do Jim Dixon dẫn.\n\nChương trình được Sanderson Associates hỗ trợ hoàn toàn. Công ty đã thu xếp để mọi nhân viên đăng ký Walk at Work được giảm mười phần trăm phí hội viên tại Lakewood Fitness Center, một khu thể thao hiện đại có phòng gym, hồ bơi và các lớp tập.\n\nChúng tôi nghĩ đây là ý tưởng tuyệt vời và mong mọi người cũng thấy vậy, sao không tham gia cùng chúng tôi? Bạn có thể email cho tôi hoặc gặp chúng tôi ở cổng chính vào thứ Hai lúc 12:30 hoặc 1:00 chiều.\n\nChúc đi bộ vui vẻ!\nJulia Chen",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-06",
+          "no": 6,
+          "text": "Who is Jim Dixon?",
+          "options": {
+            "A": "He is a representative of Lakewood Fitness Center.",
+            "B": "He is one of the leaders of Walk at Work.",
+            "C": "He is head of the personnel department.",
+            "D": "He is a gardener at Lakewood Parks."
+          },
+          "answer": "B",
+          "explain": "Lượt đi bộ 1:00 chiều “led by Jim Dixon”.",
+          "passage": {
+            "text": "From: Julia Chen [j.chen@sanderson.com]\nTo: Sanderson Staff-Lakewood\nSubject: Fitness-at-Work Program\n\nYou’ve probably heard about the new fitness-at-work program initiated by the head office to encourage us to incorporate some exercise into our daily work routine. Sandra Maxwell of personnel has taken on responsibility for the fitness-at-work program at the Lakewood facility. She has nominated me to set up a walking group, to be known as Walk at Work. We are lucky to work in a beautiful area surrounded by parks, so what better place to take a walk?\n\nWalk at Work will meet during the lunch break, beginning next Monday. The aim is to walk together along the footpaths for at least twenty minutes. There will be two walks each day, one at 12:30 P.M., led by me, and the second at 1:00 P.M., led by Jim Dixon.\n\nThis program is fully supported by Sanderson Associates, which has arranged for all staff who enroll in Walk at Work to receive a ten percent discount on membership at Lakewood Fitness Center, a state-of-the-art fitness complex with gyms, a swimming pool, and exercise classes.\n\nWe think this is a great idea, and we hope you will too, so why not join us? You can e-mail me or just meet us at the main entrance on Monday at 12:30 P.M. or 1:00 P.M.\n\nHappy walking!\nJulia Chen"
+          },
+          "vi": "Có lẽ mọi người đã nghe về chương trình tập thể dục tại nơi làm việc do trụ sở chính khởi xướng, nhằm khuyến khích chúng ta đưa việc tập luyện vào nhịp làm việc hằng ngày. Sandra Maxwell bên phòng nhân sự đã nhận trách nhiệm chương trình này tại cơ sở Lakewood. Cô ấy đã đề cử tôi lập một nhóm đi bộ, gọi là Walk at Work. Chúng ta may mắn làm việc ở khu vực đẹp, có nhiều công viên xung quanh, còn nơi nào tốt hơn để đi bộ?\n\nWalk at Work sẽ gặp nhau vào giờ nghỉ trưa, bắt đầu từ thứ Hai tới. Mục tiêu là cùng đi bộ dọc các lối đi ít nhất hai mươi phút. Mỗi ngày có hai lượt: lượt 12:30 trưa do tôi dẫn, lượt 1:00 chiều do Jim Dixon dẫn.\n\nChương trình được Sanderson Associates hỗ trợ hoàn toàn. Công ty đã thu xếp để mọi nhân viên đăng ký Walk at Work được giảm mười phần trăm phí hội viên tại Lakewood Fitness Center, một khu thể thao hiện đại có phòng gym, hồ bơi và các lớp tập.\n\nChúng tôi nghĩ đây là ý tưởng tuyệt vời và mong mọi người cũng thấy vậy, sao không tham gia cùng chúng tôi? Bạn có thể email cho tôi hoặc gặp chúng tôi ở cổng chính vào thứ Hai lúc 12:30 hoặc 1:00 chiều.\n\nChúc đi bộ vui vẻ!\nJulia Chen",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a delayed order",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-07",
+          "no": 7,
+          "text": "When did the customer report a problem with the order?",
+          "options": {
+            "A": "January 14",
+            "B": "January 15",
+            "C": "February 1",
+            "D": "February 3"
+          },
+          "answer": "A",
+          "explain": "“The inquiry dated January 14” là lúc khách hỏi về đơn hàng. Ngày 15 là ngày gửi email trả lời.",
+          "passage": {
+            "text": "From: customer-relations@videotrunk.com\nTo: roberta.alvarez@LPEnterprise.net\nDate: January 15, 9:05:32 A.M.\nSubject: Order #1673\n\nDear Ms. Alvarez:\n\nWe have received the inquiry dated January 14 about the status of your January 5 order. We apologize for the delay in shipping the Clearvision television set. We expect to ship your complete order by February 1.\n\nWe understand the inconvenience this has caused you. Normally we take a maximum of seven days to ship online purchases. To show that we truly regret the time delay, we will not charge you for shipping and handling. We will expedite delivery of your order and send it via National Express. You should receive it no later than February 3.\n\nIf you have any further inquiries or comments, please don’t hesitate to e-mail the order department, or you may call me directly at 1-777-789-0120.\n\nSincerely,\n\nBrian Kim\nAssistant Sales Manager\nVideotrunk Ltd."
+          },
+          "vi": "Kính gửi bà Alvarez,\n\nChúng tôi đã nhận được yêu cầu ngày 14 tháng 1 về tình trạng đơn hàng ngày 5 tháng 1 của bà. Chúng tôi xin lỗi vì sự chậm trễ khi giao chiếc tivi Clearvision. Chúng tôi dự kiến gửi toàn bộ đơn hàng trước ngày 1 tháng 2.\n\nChúng tôi hiểu sự bất tiện này gây ra cho bà. Thông thường chúng tôi mất tối đa bảy ngày để gửi hàng mua trực tuyến. Để thể hiện sự tiếc nuối thật sự về việc chậm trễ, chúng tôi sẽ không tính phí vận chuyển và xử lý. Chúng tôi sẽ giao hàng nhanh qua National Express. Bà sẽ nhận được hàng chậm nhất vào ngày 3 tháng 2.\n\nNếu có thắc mắc hay góp ý thêm, xin bà cứ email cho bộ phận đặt hàng hoặc gọi trực tiếp cho tôi theo số 1-777-789-0120.\n\nTrân trọng,\nBrian Kim, Trợ lý Giám đốc Bán hàng, Videotrunk Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-08",
+          "no": 8,
+          "text": "What solution is being offered in the e-mail message?",
+          "options": {
+            "A": "The customer will receive a full refund.",
+            "B": "The order will be received the next day.",
+            "C": "The customer will be contacted by telephone.",
+            "D": "There will be a reduction in the total cost."
+          },
+          "answer": "D",
+          "explain": "Công ty miễn phí vận chuyển và xử lý, nên tổng chi phí giảm.",
+          "passage": {
+            "text": "From: customer-relations@videotrunk.com\nTo: roberta.alvarez@LPEnterprise.net\nDate: January 15, 9:05:32 A.M.\nSubject: Order #1673\n\nDear Ms. Alvarez:\n\nWe have received the inquiry dated January 14 about the status of your January 5 order. We apologize for the delay in shipping the Clearvision television set. We expect to ship your complete order by February 1.\n\nWe understand the inconvenience this has caused you. Normally we take a maximum of seven days to ship online purchases. To show that we truly regret the time delay, we will not charge you for shipping and handling. We will expedite delivery of your order and send it via National Express. You should receive it no later than February 3.\n\nIf you have any further inquiries or comments, please don’t hesitate to e-mail the order department, or you may call me directly at 1-777-789-0120.\n\nSincerely,\n\nBrian Kim\nAssistant Sales Manager\nVideotrunk Ltd."
+          },
+          "vi": "Kính gửi bà Alvarez,\n\nChúng tôi đã nhận được yêu cầu ngày 14 tháng 1 về tình trạng đơn hàng ngày 5 tháng 1 của bà. Chúng tôi xin lỗi vì sự chậm trễ khi giao chiếc tivi Clearvision. Chúng tôi dự kiến gửi toàn bộ đơn hàng trước ngày 1 tháng 2.\n\nChúng tôi hiểu sự bất tiện này gây ra cho bà. Thông thường chúng tôi mất tối đa bảy ngày để gửi hàng mua trực tuyến. Để thể hiện sự tiếc nuối thật sự về việc chậm trễ, chúng tôi sẽ không tính phí vận chuyển và xử lý. Chúng tôi sẽ giao hàng nhanh qua National Express. Bà sẽ nhận được hàng chậm nhất vào ngày 3 tháng 2.\n\nNếu có thắc mắc hay góp ý thêm, xin bà cứ email cho bộ phận đặt hàng hoặc gọi trực tiếp cho tôi theo số 1-777-789-0120.\n\nTrân trọng,\nBrian Kim, Trợ lý Giám đốc Bán hàng, Videotrunk Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-09",
+          "no": 9,
+          "text": "Who is Mr. Kim’s employer?",
+          "options": {
+            "A": "Clearvision",
+            "B": "Videotrunk Ltd.",
+            "C": "National Express",
+            "D": "LP Enterprise"
+          },
+          "answer": "B",
+          "explain": "Chữ ký: Assistant Sales Manager, Videotrunk Ltd.",
+          "passage": {
+            "text": "From: customer-relations@videotrunk.com\nTo: roberta.alvarez@LPEnterprise.net\nDate: January 15, 9:05:32 A.M.\nSubject: Order #1673\n\nDear Ms. Alvarez:\n\nWe have received the inquiry dated January 14 about the status of your January 5 order. We apologize for the delay in shipping the Clearvision television set. We expect to ship your complete order by February 1.\n\nWe understand the inconvenience this has caused you. Normally we take a maximum of seven days to ship online purchases. To show that we truly regret the time delay, we will not charge you for shipping and handling. We will expedite delivery of your order and send it via National Express. You should receive it no later than February 3.\n\nIf you have any further inquiries or comments, please don’t hesitate to e-mail the order department, or you may call me directly at 1-777-789-0120.\n\nSincerely,\n\nBrian Kim\nAssistant Sales Manager\nVideotrunk Ltd."
+          },
+          "vi": "Kính gửi bà Alvarez,\n\nChúng tôi đã nhận được yêu cầu ngày 14 tháng 1 về tình trạng đơn hàng ngày 5 tháng 1 của bà. Chúng tôi xin lỗi vì sự chậm trễ khi giao chiếc tivi Clearvision. Chúng tôi dự kiến gửi toàn bộ đơn hàng trước ngày 1 tháng 2.\n\nChúng tôi hiểu sự bất tiện này gây ra cho bà. Thông thường chúng tôi mất tối đa bảy ngày để gửi hàng mua trực tuyến. Để thể hiện sự tiếc nuối thật sự về việc chậm trễ, chúng tôi sẽ không tính phí vận chuyển và xử lý. Chúng tôi sẽ giao hàng nhanh qua National Express. Bà sẽ nhận được hàng chậm nhất vào ngày 3 tháng 2.\n\nNếu có thắc mắc hay góp ý thêm, xin bà cứ email cho bộ phận đặt hàng hoặc gọi trực tiếp cho tôi theo số 1-777-789-0120.\n\nTrân trọng,\nBrian Kim, Trợ lý Giám đốc Bán hàng, Videotrunk Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a membership reminder",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-10",
+          "no": 10,
+          "text": "Why did Mr. Thierry send the e-mail to Ms. Pak?",
+          "options": {
+            "A": "To invite her to join a new organization",
+            "B": "To let her know about a change in benefits",
+            "C": "To ask her to recommend new members",
+            "D": "To advise her to renew her membership"
+          },
+          "answer": "D",
+          "explain": "Thư nhắc hội viên sắp hết hạn ngày 31/3 và hướng dẫn cách gia hạn.",
+          "passage": {
+            "text": "To: Lisa Pak <lpak@watkins.com>\nFrom: Robert Thierry <r.thierry@cooa.ca>\nSubject: Final Notice\nDate: March 8\n\nDear Ms. Pak:\n\nThis reminder is being sent because your annual membership in the Canadian Organization of Accountants (COOA) will expire on March 31. If you renew now, you will not miss a single issue of Accounting News, which is complimentary with your associate-level membership. As you know, it is filled with informative articles and discusses current topics in the accounting world.\n\nTo maintain your active status with our organization, go to www.cooa.ca. Please use April as your renewal month when prompted in the online application form.\n\nFinally, if you have not done so already, be sure to visit www.cooa.ca/membersportal.html to access the members-only section of our Web site. This area has up-to-date job notices, an index of relevant courses for professional development, industry-specific articles, and a video archive of past conference presentations. For access, you will need the COOA identification number listed on your membership card.\n\nSincerely,\n\nRobert Thierry\nExecutive Director"
+          },
+          "vi": "Kính gửi bà Pak,\n\nThư nhắc này được gửi vì tư cách hội viên năm của bà tại Hiệp hội Kế toán Canada (COOA) sẽ hết hạn vào ngày 31 tháng 3. Nếu gia hạn ngay, bà sẽ không bỏ lỡ số nào của Accounting News, tạp chí được tặng kèm hạng hội viên liên kết của bà. Như bà biết, tạp chí có nhiều bài viết hữu ích và bàn về các chủ đề thời sự trong ngành kế toán.\n\nĐể duy trì trạng thái hoạt động với hiệp hội, xin vào www.cooa.ca. Khi biểu mẫu trực tuyến hỏi, xin chọn tháng Tư làm tháng gia hạn.\n\nCuối cùng, nếu chưa làm, xin bà vào www.cooa.ca/membersportal.html để truy cập khu vực chỉ dành cho hội viên. Khu vực này có thông báo việc làm mới nhất, danh mục các khóa học phát triển nghề nghiệp, bài viết chuyên ngành và kho video các bài thuyết trình hội nghị trước đây. Để truy cập, bà cần mã số COOA ghi trên thẻ hội viên.\n\nTrân trọng,\nRobert Thierry, Giám đốc Điều hành",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-11",
+          "no": 11,
+          "text": "What is indicated about Ms. Pak?",
+          "options": {
+            "A": "She has been receiving Accounting News.",
+            "B": "She has written articles for Accounting News.",
+            "C": "She previously contacted Mr. Thierry.",
+            "D": "She will attend the annual convention."
+          },
+          "answer": "A",
+          "explain": "Accounting News được tặng kèm hạng hội viên của bà, và “If you renew now, you will not miss a single issue” cho thấy bà đang nhận tạp chí.",
+          "passage": {
+            "text": "To: Lisa Pak <lpak@watkins.com>\nFrom: Robert Thierry <r.thierry@cooa.ca>\nSubject: Final Notice\nDate: March 8\n\nDear Ms. Pak:\n\nThis reminder is being sent because your annual membership in the Canadian Organization of Accountants (COOA) will expire on March 31. If you renew now, you will not miss a single issue of Accounting News, which is complimentary with your associate-level membership. As you know, it is filled with informative articles and discusses current topics in the accounting world.\n\nTo maintain your active status with our organization, go to www.cooa.ca. Please use April as your renewal month when prompted in the online application form.\n\nFinally, if you have not done so already, be sure to visit www.cooa.ca/membersportal.html to access the members-only section of our Web site. This area has up-to-date job notices, an index of relevant courses for professional development, industry-specific articles, and a video archive of past conference presentations. For access, you will need the COOA identification number listed on your membership card.\n\nSincerely,\n\nRobert Thierry\nExecutive Director"
+          },
+          "vi": "Kính gửi bà Pak,\n\nThư nhắc này được gửi vì tư cách hội viên năm của bà tại Hiệp hội Kế toán Canada (COOA) sẽ hết hạn vào ngày 31 tháng 3. Nếu gia hạn ngay, bà sẽ không bỏ lỡ số nào của Accounting News, tạp chí được tặng kèm hạng hội viên liên kết của bà. Như bà biết, tạp chí có nhiều bài viết hữu ích và bàn về các chủ đề thời sự trong ngành kế toán.\n\nĐể duy trì trạng thái hoạt động với hiệp hội, xin vào www.cooa.ca. Khi biểu mẫu trực tuyến hỏi, xin chọn tháng Tư làm tháng gia hạn.\n\nCuối cùng, nếu chưa làm, xin bà vào www.cooa.ca/membersportal.html để truy cập khu vực chỉ dành cho hội viên. Khu vực này có thông báo việc làm mới nhất, danh mục các khóa học phát triển nghề nghiệp, bài viết chuyên ngành và kho video các bài thuyết trình hội nghị trước đây. Để truy cập, bà cần mã số COOA ghi trên thẻ hội viên.\n\nTrân trọng,\nRobert Thierry, Giám đốc Điều hành",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-12",
+          "no": 12,
+          "text": "According to the e-mail, what is NOT available on the Web site?",
+          "options": {
+            "A": "Job postings",
+            "B": "Conference videos",
+            "C": "A directory of accounting firms",
+            "D": "A list of educational opportunities"
+          },
+          "answer": "C",
+          "explain": "Trang có job notices (A), video archive (B), index of courses (D); không nhắc danh bạ công ty kế toán.",
+          "passage": {
+            "text": "To: Lisa Pak <lpak@watkins.com>\nFrom: Robert Thierry <r.thierry@cooa.ca>\nSubject: Final Notice\nDate: March 8\n\nDear Ms. Pak:\n\nThis reminder is being sent because your annual membership in the Canadian Organization of Accountants (COOA) will expire on March 31. If you renew now, you will not miss a single issue of Accounting News, which is complimentary with your associate-level membership. As you know, it is filled with informative articles and discusses current topics in the accounting world.\n\nTo maintain your active status with our organization, go to www.cooa.ca. Please use April as your renewal month when prompted in the online application form.\n\nFinally, if you have not done so already, be sure to visit www.cooa.ca/membersportal.html to access the members-only section of our Web site. This area has up-to-date job notices, an index of relevant courses for professional development, industry-specific articles, and a video archive of past conference presentations. For access, you will need the COOA identification number listed on your membership card.\n\nSincerely,\n\nRobert Thierry\nExecutive Director"
+          },
+          "vi": "Kính gửi bà Pak,\n\nThư nhắc này được gửi vì tư cách hội viên năm của bà tại Hiệp hội Kế toán Canada (COOA) sẽ hết hạn vào ngày 31 tháng 3. Nếu gia hạn ngay, bà sẽ không bỏ lỡ số nào của Accounting News, tạp chí được tặng kèm hạng hội viên liên kết của bà. Như bà biết, tạp chí có nhiều bài viết hữu ích và bàn về các chủ đề thời sự trong ngành kế toán.\n\nĐể duy trì trạng thái hoạt động với hiệp hội, xin vào www.cooa.ca. Khi biểu mẫu trực tuyến hỏi, xin chọn tháng Tư làm tháng gia hạn.\n\nCuối cùng, nếu chưa làm, xin bà vào www.cooa.ca/membersportal.html để truy cập khu vực chỉ dành cho hội viên. Khu vực này có thông báo việc làm mới nhất, danh mục các khóa học phát triển nghề nghiệp, bài viết chuyên ngành và kho video các bài thuyết trình hội nghị trước đây. Để truy cập, bà cần mã số COOA ghi trên thẻ hội viên.\n\nTrân trọng,\nRobert Thierry, Giám đốc Điều hành",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a construction notice",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-13",
+          "no": 13,
+          "text": "What is the purpose of the e-mail?",
+          "options": {
+            "A": "To explain temporary changes in the workplace",
+            "B": "To provide steps for a kitchen renovation",
+            "C": "To describe different construction techniques",
+            "D": "To repeat company policies on kitchen use"
+          },
+          "answer": "A",
+          "explain": "Email báo những thay đổi tạm thời trong thời gian thi công: cửa ra vào, bếp.",
+          "passage": {
+            "text": "To: All employees\nFrom: Sarwar Ahmed\nDate: May 13\nSubject: Construction notice\n\nStarting May 18, construction will begin at Abrinton Insurance headquarters. We are very excited about the renovations to our office space and believe that they will enhance our work environment tremendously. However, during the construction period, we ask that employees make some basic changes to their office routines.\n\nFirst of all, please use only the back door until May 26, as the front door will be blocked. In addition, the kitchen on the first floor will be inaccessible while it is being updated. Consequently, all employees must use the third-floor kitchen until the update is finalized on May 28. Since we will be sharing a much smaller kitchen space, please label the food items you keep in the refrigerator and minimize the time you spend on food preparation in the kitchen. Apart from some unavoidable noise and extra traffic, the second through fourth floors should not be affected by construction.\n\nIf the construction crew is able to complete the work on schedule, the renovations will be finished on June 2. Thank you in advance for your patience.\n\nSarwar Ahmed\nFacilities Manager"
+          },
+          "vi": "Từ ngày 18 tháng 5, trụ sở Abrinton Insurance sẽ bắt đầu thi công. Chúng tôi rất hào hứng với việc cải tạo văn phòng và tin rằng nó sẽ cải thiện môi trường làm việc rất nhiều. Tuy nhiên, trong thời gian thi công, chúng tôi đề nghị nhân viên thay đổi một vài thói quen ở văn phòng.\n\nTrước hết, xin chỉ dùng cửa sau cho đến ngày 26 tháng 5 vì cửa trước sẽ bị chặn. Ngoài ra, bếp tầng một sẽ không vào được trong lúc nâng cấp. Vì vậy mọi nhân viên phải dùng bếp tầng ba cho đến khi việc nâng cấp hoàn tất vào ngày 28 tháng 5. Vì sẽ dùng chung một bếp nhỏ hơn nhiều, xin dán nhãn đồ ăn để trong tủ lạnh và hạn chế thời gian chuẩn bị đồ ăn trong bếp. Ngoài một chút tiếng ồn khó tránh và người qua lại nhiều hơn, tầng hai đến tầng bốn sẽ không bị ảnh hưởng.\n\nNếu đội thi công làm đúng tiến độ, việc cải tạo sẽ xong vào ngày 2 tháng 6. Cảm ơn mọi người trước vì đã kiên nhẫn.\n\nSarwar Ahmed, Quản lý Cơ sở vật chất",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-14",
+          "no": 14,
+          "text": "What are employees instructed to do?",
+          "options": {
+            "A": "Avoid making noise",
+            "B": "Use a different entrance",
+            "C": "Modify their work hours",
+            "D": "Clean out the refrigerator"
+          },
+          "answer": "B",
+          "explain": "“Please use only the back door until May 26” — dùng lối vào khác.",
+          "passage": {
+            "text": "To: All employees\nFrom: Sarwar Ahmed\nDate: May 13\nSubject: Construction notice\n\nStarting May 18, construction will begin at Abrinton Insurance headquarters. We are very excited about the renovations to our office space and believe that they will enhance our work environment tremendously. However, during the construction period, we ask that employees make some basic changes to their office routines.\n\nFirst of all, please use only the back door until May 26, as the front door will be blocked. In addition, the kitchen on the first floor will be inaccessible while it is being updated. Consequently, all employees must use the third-floor kitchen until the update is finalized on May 28. Since we will be sharing a much smaller kitchen space, please label the food items you keep in the refrigerator and minimize the time you spend on food preparation in the kitchen. Apart from some unavoidable noise and extra traffic, the second through fourth floors should not be affected by construction.\n\nIf the construction crew is able to complete the work on schedule, the renovations will be finished on June 2. Thank you in advance for your patience.\n\nSarwar Ahmed\nFacilities Manager"
+          },
+          "vi": "Từ ngày 18 tháng 5, trụ sở Abrinton Insurance sẽ bắt đầu thi công. Chúng tôi rất hào hứng với việc cải tạo văn phòng và tin rằng nó sẽ cải thiện môi trường làm việc rất nhiều. Tuy nhiên, trong thời gian thi công, chúng tôi đề nghị nhân viên thay đổi một vài thói quen ở văn phòng.\n\nTrước hết, xin chỉ dùng cửa sau cho đến ngày 26 tháng 5 vì cửa trước sẽ bị chặn. Ngoài ra, bếp tầng một sẽ không vào được trong lúc nâng cấp. Vì vậy mọi nhân viên phải dùng bếp tầng ba cho đến khi việc nâng cấp hoàn tất vào ngày 28 tháng 5. Vì sẽ dùng chung một bếp nhỏ hơn nhiều, xin dán nhãn đồ ăn để trong tủ lạnh và hạn chế thời gian chuẩn bị đồ ăn trong bếp. Ngoài một chút tiếng ồn khó tránh và người qua lại nhiều hơn, tầng hai đến tầng bốn sẽ không bị ảnh hưởng.\n\nNếu đội thi công làm đúng tiến độ, việc cải tạo sẽ xong vào ngày 2 tháng 6. Cảm ơn mọi người trước vì đã kiên nhẫn.\n\nSarwar Ahmed, Quản lý Cơ sở vật chất",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-15",
+          "no": 15,
+          "text": "When will the update to the first-floor kitchen be completed?",
+          "options": {
+            "A": "On May 13",
+            "B": "On May 18",
+            "C": "On May 26",
+            "D": "On May 28"
+          },
+          "answer": "D",
+          "explain": "“until the update is finalized on May 28”.",
+          "passage": {
+            "text": "To: All employees\nFrom: Sarwar Ahmed\nDate: May 13\nSubject: Construction notice\n\nStarting May 18, construction will begin at Abrinton Insurance headquarters. We are very excited about the renovations to our office space and believe that they will enhance our work environment tremendously. However, during the construction period, we ask that employees make some basic changes to their office routines.\n\nFirst of all, please use only the back door until May 26, as the front door will be blocked. In addition, the kitchen on the first floor will be inaccessible while it is being updated. Consequently, all employees must use the third-floor kitchen until the update is finalized on May 28. Since we will be sharing a much smaller kitchen space, please label the food items you keep in the refrigerator and minimize the time you spend on food preparation in the kitchen. Apart from some unavoidable noise and extra traffic, the second through fourth floors should not be affected by construction.\n\nIf the construction crew is able to complete the work on schedule, the renovations will be finished on June 2. Thank you in advance for your patience.\n\nSarwar Ahmed\nFacilities Manager"
+          },
+          "vi": "Từ ngày 18 tháng 5, trụ sở Abrinton Insurance sẽ bắt đầu thi công. Chúng tôi rất hào hứng với việc cải tạo văn phòng và tin rằng nó sẽ cải thiện môi trường làm việc rất nhiều. Tuy nhiên, trong thời gian thi công, chúng tôi đề nghị nhân viên thay đổi một vài thói quen ở văn phòng.\n\nTrước hết, xin chỉ dùng cửa sau cho đến ngày 26 tháng 5 vì cửa trước sẽ bị chặn. Ngoài ra, bếp tầng một sẽ không vào được trong lúc nâng cấp. Vì vậy mọi nhân viên phải dùng bếp tầng ba cho đến khi việc nâng cấp hoàn tất vào ngày 28 tháng 5. Vì sẽ dùng chung một bếp nhỏ hơn nhiều, xin dán nhãn đồ ăn để trong tủ lạnh và hạn chế thời gian chuẩn bị đồ ăn trong bếp. Ngoài một chút tiếng ồn khó tránh và người qua lại nhiều hơn, tầng hai đến tầng bốn sẽ không bị ảnh hưởng.\n\nNếu đội thi công làm đúng tiến độ, việc cải tạo sẽ xong vào ngày 2 tháng 6. Cảm ơn mọi người trước vì đã kiên nhẫn.\n\nSarwar Ahmed, Quản lý Cơ sở vật chất",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-16",
+          "no": 16,
+          "text": "The word “traffic” in paragraph 2, line 7 is closest in meaning to",
+          "options": {
+            "A": "movement through an area",
+            "B": "transportation of shipments",
+            "C": "communication",
+            "D": "trade"
+          },
+          "answer": "A",
+          "explain": "“Extra traffic” trong tòa nhà là người đi lại nhiều hơn, tức là sự di chuyển qua một khu vực.",
+          "passage": {
+            "text": "To: All employees\nFrom: Sarwar Ahmed\nDate: May 13\nSubject: Construction notice\n\nStarting May 18, construction will begin at Abrinton Insurance headquarters. We are very excited about the renovations to our office space and believe that they will enhance our work environment tremendously. However, during the construction period, we ask that employees make some basic changes to their office routines.\n\nFirst of all, please use only the back door until May 26, as the front door will be blocked. In addition, the kitchen on the first floor will be inaccessible while it is being updated. Consequently, all employees must use the third-floor kitchen until the update is finalized on May 28. Since we will be sharing a much smaller kitchen space, please label the food items you keep in the refrigerator and minimize the time you spend on food preparation in the kitchen. Apart from some unavoidable noise and extra traffic, the second through fourth floors should not be affected by construction.\n\nIf the construction crew is able to complete the work on schedule, the renovations will be finished on June 2. Thank you in advance for your patience.\n\nSarwar Ahmed\nFacilities Manager"
+          },
+          "vi": "Từ ngày 18 tháng 5, trụ sở Abrinton Insurance sẽ bắt đầu thi công. Chúng tôi rất hào hứng với việc cải tạo văn phòng và tin rằng nó sẽ cải thiện môi trường làm việc rất nhiều. Tuy nhiên, trong thời gian thi công, chúng tôi đề nghị nhân viên thay đổi một vài thói quen ở văn phòng.\n\nTrước hết, xin chỉ dùng cửa sau cho đến ngày 26 tháng 5 vì cửa trước sẽ bị chặn. Ngoài ra, bếp tầng một sẽ không vào được trong lúc nâng cấp. Vì vậy mọi nhân viên phải dùng bếp tầng ba cho đến khi việc nâng cấp hoàn tất vào ngày 28 tháng 5. Vì sẽ dùng chung một bếp nhỏ hơn nhiều, xin dán nhãn đồ ăn để trong tủ lạnh và hạn chế thời gian chuẩn bị đồ ăn trong bếp. Ngoài một chút tiếng ồn khó tránh và người qua lại nhiều hơn, tầng hai đến tầng bốn sẽ không bị ảnh hưởng.\n\nNếu đội thi công làm đúng tiến độ, việc cải tạo sẽ xong vào ngày 2 tháng 6. Cảm ơn mọi người trước vì đã kiên nhẫn.\n\nSarwar Ahmed, Quản lý Cơ sở vật chất",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: new desks",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-17",
+          "no": 17,
+          "text": "How can employees help prepare for a delivery?",
+          "options": {
+            "A": "By packing their belongings",
+            "B": "By collecting cardboard boxes",
+            "C": "By completing their work in the morning",
+            "D": "By moving furniture out of their offices"
+          },
+          "answer": "A",
+          "explain": "Nhân viên được đề nghị cho đồ trong bàn, kể cả đồ cá nhân, vào thùng ngày 19.",
+          "passage": {
+            "text": "To: Staff@holmana.co.uk\nFrom: Robin Ruiz, Facilities Manager\nDate: 12 October\nSubject: New Desks\n\nDear staff,\n\nWe will soon be replacing all employee desks with new hybrid ones that will allow you to work while either seated or standing. The new desks are due to arrive on 20 October. — [1] —. I have requested that the delivery occur early in the morning before office hours so it does not interrupt our work. — [2] —. To make the transition go faster, please move the contents of your current desk, including personal items, into a cardboard box on the 19th.\n\nYou can read more about the model we’ve ordered at wilsonofficefurniture.com/hybrid56. — [3] —. My research showed this one to be the most user-friendly option. The height of the desk can be changed by simply flipping a latch and pushing a button.\n\nMany of you have been requesting hybrid desks for some time now, so I am glad we are able to make this happen. This is only one of the changes management plans to implement this year in our efforts to make Holmana a healthier and happier workplace. — [4] —.\n\nBest regards,\n\nRobin Ruiz"
+          },
+          "vi": "Gửi toàn thể nhân viên,\n\nSắp tới chúng tôi sẽ thay toàn bộ bàn làm việc bằng loại bàn kết hợp mới, cho phép làm việc khi ngồi hoặc đứng. Bàn mới dự kiến đến vào ngày 20 tháng 10. Tôi đã đề nghị giao hàng vào sáng sớm trước giờ làm để không gián đoạn công việc. Để việc chuyển đổi nhanh hơn, xin mọi người cho đồ trong bàn hiện tại, kể cả đồ cá nhân, vào thùng các-tông vào ngày 19.\n\nMọi người có thể tìm hiểu thêm về mẫu bàn chúng tôi đặt tại wilsonofficefurniture.com/hybrid56. Qua tìm hiểu, tôi thấy mẫu này dễ dùng nhất. Chỉ cần lật một cái chốt và bấm nút là đổi được chiều cao bàn.\n\nNhiều người đã đề nghị có bàn kết hợp từ lâu, nên tôi rất vui vì chúng ta làm được điều này. Đây chỉ là một trong những thay đổi ban quản lý dự định thực hiện năm nay để Holmana trở thành nơi làm việc khỏe mạnh và vui vẻ hơn.\n\nTrân trọng,\nRobin Ruiz",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-18",
+          "no": 18,
+          "text": "Why has the desk been chosen?",
+          "options": {
+            "A": "It has a large storage area.",
+            "B": "It is easy to adjust.",
+            "C": "It can be delivered quickly.",
+            "D": "It is the cheapest option available."
+          },
+          "answer": "B",
+          "explain": "Mẫu bàn dễ dùng nhất: chỉ cần lật chốt và bấm nút là đổi được chiều cao.",
+          "passage": {
+            "text": "To: Staff@holmana.co.uk\nFrom: Robin Ruiz, Facilities Manager\nDate: 12 October\nSubject: New Desks\n\nDear staff,\n\nWe will soon be replacing all employee desks with new hybrid ones that will allow you to work while either seated or standing. The new desks are due to arrive on 20 October. — [1] —. I have requested that the delivery occur early in the morning before office hours so it does not interrupt our work. — [2] —. To make the transition go faster, please move the contents of your current desk, including personal items, into a cardboard box on the 19th.\n\nYou can read more about the model we’ve ordered at wilsonofficefurniture.com/hybrid56. — [3] —. My research showed this one to be the most user-friendly option. The height of the desk can be changed by simply flipping a latch and pushing a button.\n\nMany of you have been requesting hybrid desks for some time now, so I am glad we are able to make this happen. This is only one of the changes management plans to implement this year in our efforts to make Holmana a healthier and happier workplace. — [4] —.\n\nBest regards,\n\nRobin Ruiz"
+          },
+          "vi": "Gửi toàn thể nhân viên,\n\nSắp tới chúng tôi sẽ thay toàn bộ bàn làm việc bằng loại bàn kết hợp mới, cho phép làm việc khi ngồi hoặc đứng. Bàn mới dự kiến đến vào ngày 20 tháng 10. Tôi đã đề nghị giao hàng vào sáng sớm trước giờ làm để không gián đoạn công việc. Để việc chuyển đổi nhanh hơn, xin mọi người cho đồ trong bàn hiện tại, kể cả đồ cá nhân, vào thùng các-tông vào ngày 19.\n\nMọi người có thể tìm hiểu thêm về mẫu bàn chúng tôi đặt tại wilsonofficefurniture.com/hybrid56. Qua tìm hiểu, tôi thấy mẫu này dễ dùng nhất. Chỉ cần lật một cái chốt và bấm nút là đổi được chiều cao bàn.\n\nNhiều người đã đề nghị có bàn kết hợp từ lâu, nên tôi rất vui vì chúng ta làm được điều này. Đây chỉ là một trong những thay đổi ban quản lý dự định thực hiện năm nay để Holmana trở thành nơi làm việc khỏe mạnh và vui vẻ hơn.\n\nTrân trọng,\nRobin Ruiz",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-19",
+          "no": 19,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Any other ideas you have for us are welcome.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "D",
+          "explain": "Câu chèn nối tiếp ý về những thay đổi khác giúp nơi làm việc khỏe và vui hơn ở cuối thư: mời nhân viên góp thêm ý tưởng.",
+          "passage": {
+            "text": "To: Staff@holmana.co.uk\nFrom: Robin Ruiz, Facilities Manager\nDate: 12 October\nSubject: New Desks\n\nDear staff,\n\nWe will soon be replacing all employee desks with new hybrid ones that will allow you to work while either seated or standing. The new desks are due to arrive on 20 October. — [1] —. I have requested that the delivery occur early in the morning before office hours so it does not interrupt our work. — [2] —. To make the transition go faster, please move the contents of your current desk, including personal items, into a cardboard box on the 19th.\n\nYou can read more about the model we’ve ordered at wilsonofficefurniture.com/hybrid56. — [3] —. My research showed this one to be the most user-friendly option. The height of the desk can be changed by simply flipping a latch and pushing a button.\n\nMany of you have been requesting hybrid desks for some time now, so I am glad we are able to make this happen. This is only one of the changes management plans to implement this year in our efforts to make Holmana a healthier and happier workplace. — [4] —.\n\nBest regards,\n\nRobin Ruiz"
+          },
+          "vi": "Gửi toàn thể nhân viên,\n\nSắp tới chúng tôi sẽ thay toàn bộ bàn làm việc bằng loại bàn kết hợp mới, cho phép làm việc khi ngồi hoặc đứng. Bàn mới dự kiến đến vào ngày 20 tháng 10. Tôi đã đề nghị giao hàng vào sáng sớm trước giờ làm để không gián đoạn công việc. Để việc chuyển đổi nhanh hơn, xin mọi người cho đồ trong bàn hiện tại, kể cả đồ cá nhân, vào thùng các-tông vào ngày 19.\n\nMọi người có thể tìm hiểu thêm về mẫu bàn chúng tôi đặt tại wilsonofficefurniture.com/hybrid56. Qua tìm hiểu, tôi thấy mẫu này dễ dùng nhất. Chỉ cần lật một cái chốt và bấm nút là đổi được chiều cao bàn.\n\nNhiều người đã đề nghị có bàn kết hợp từ lâu, nên tôi rất vui vì chúng ta làm được điều này. Đây chỉ là một trong những thay đổi ban quản lý dự định thực hiện năm nay để Holmana trở thành nơi làm việc khỏe mạnh và vui vẻ hơn.\n\nTrân trọng,\nRobin Ruiz",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-read7",
+      "code": "read7",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 1: a photography contest",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d15-read-20",
+          "no": 20,
+          "text": "What is implied about Ms. Yi’s photograph?",
+          "options": {
+            "A": "It is in black and white.",
+            "B": "It has previously been published.",
+            "C": "It has been purchased by a magazine.",
+            "D": "It depicts a landscape scene."
+          },
+          "answer": "D",
+          "explain": "Ảnh đoạt giải cuộc thi ảnh phong cảnh và là “panoramic winter scene”.",
+          "passage": {
+            "text": "To: Kyungbin Yi <kyi@moto.net>\nFrom: Miguel Hernández <mhernandez@mintner_mag.com>\nDate: 3 January\nSubject: Your submission\n\nWe’re writing with some good news. Your photograph Coastline in Winter has been chosen as the third-place winner in the “Views of Our World” landscape photography contest sponsored by Mintner Photography Magazine. Our judges felt that your panoramic winter scene conveys a sense of wonder at the scale of nature and that the impressionistic image you captured shows your skill as an artist.\n\nYour photograph will appear among the other winning photographs in the March issue of Mintner Photography Magazine. In addition, your work will be featured in a special landscape photography exhibit in Birmingham at Perivale Art Museum from 9 May to 21 May.\n\nYou will receive a prize of £400 as well as a two-year subscription to Mintner Photography Magazine. A cheque in the amount of the prize will be sent to you in February, and your subscription will begin with the issue featuring your photograph.\n\nWhen you submitted your photograph, you stated that you used a Fisk SLR 500 camera and a Genoma XR wide-angle lens. Please let us know if this is correct by replying to this e-mail. This information will accompany your photograph in the magazine and in the museum exhibit.\n\nCongratulations on your success. We are looking forward to sharing your work with our international readership and hope to see more of your work in the future.\n\nSincerely,\n\nMiguel Hernández\nEditor"
+          },
+          "vi": "Chúng tôi viết thư báo tin vui. Bức ảnh Coastline in Winter của bạn đã đoạt giải ba cuộc thi ảnh phong cảnh “Views of Our World” do tạp chí Mintner Photography Magazine tài trợ. Ban giám khảo nhận thấy cảnh mùa đông toàn cảnh của bạn gợi cảm giác kinh ngạc trước tầm vóc thiên nhiên, và hình ảnh mang phong cách ấn tượng cho thấy tay nghề nghệ sĩ của bạn.\n\nBức ảnh sẽ xuất hiện cùng các ảnh đoạt giải khác trong số tháng Ba của tạp chí. Ngoài ra, tác phẩm sẽ được trưng bày trong triển lãm ảnh phong cảnh đặc biệt tại Bảo tàng Nghệ thuật Perivale ở Birmingham từ 9 đến 21 tháng 5.\n\nBạn sẽ nhận giải thưởng 400 bảng cùng hai năm đặt mua tạp chí. Tấm séc trị giá giải thưởng sẽ được gửi vào tháng Hai, và việc đặt mua sẽ bắt đầu từ số báo có đăng ảnh của bạn.\n\nKhi gửi ảnh, bạn cho biết đã dùng máy Fisk SLR 500 và ống kính góc rộng Genoma XR. Xin trả lời email này để xác nhận thông tin đó có đúng không. Thông tin này sẽ đi kèm bức ảnh trên tạp chí và tại triển lãm.\n\nChúc mừng thành công của bạn. Chúng tôi mong được chia sẻ tác phẩm của bạn với độc giả quốc tế và hy vọng được thấy thêm nhiều tác phẩm của bạn.\n\nTrân trọng,\nMiguel Hernández, Biên tập viên",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-21",
+          "no": 21,
+          "text": "When will Ms. Yi’s subscription begin?",
+          "options": {
+            "A": "In January",
+            "B": "In February",
+            "C": "In March",
+            "D": "In May"
+          },
+          "answer": "C",
+          "explain": "Đặt mua bắt đầu từ số báo có đăng ảnh, tức là số tháng Ba. Tháng Hai là lúc gửi séc.",
+          "passage": {
+            "text": "To: Kyungbin Yi <kyi@moto.net>\nFrom: Miguel Hernández <mhernandez@mintner_mag.com>\nDate: 3 January\nSubject: Your submission\n\nWe’re writing with some good news. Your photograph Coastline in Winter has been chosen as the third-place winner in the “Views of Our World” landscape photography contest sponsored by Mintner Photography Magazine. Our judges felt that your panoramic winter scene conveys a sense of wonder at the scale of nature and that the impressionistic image you captured shows your skill as an artist.\n\nYour photograph will appear among the other winning photographs in the March issue of Mintner Photography Magazine. In addition, your work will be featured in a special landscape photography exhibit in Birmingham at Perivale Art Museum from 9 May to 21 May.\n\nYou will receive a prize of £400 as well as a two-year subscription to Mintner Photography Magazine. A cheque in the amount of the prize will be sent to you in February, and your subscription will begin with the issue featuring your photograph.\n\nWhen you submitted your photograph, you stated that you used a Fisk SLR 500 camera and a Genoma XR wide-angle lens. Please let us know if this is correct by replying to this e-mail. This information will accompany your photograph in the magazine and in the museum exhibit.\n\nCongratulations on your success. We are looking forward to sharing your work with our international readership and hope to see more of your work in the future.\n\nSincerely,\n\nMiguel Hernández\nEditor"
+          },
+          "vi": "Chúng tôi viết thư báo tin vui. Bức ảnh Coastline in Winter của bạn đã đoạt giải ba cuộc thi ảnh phong cảnh “Views of Our World” do tạp chí Mintner Photography Magazine tài trợ. Ban giám khảo nhận thấy cảnh mùa đông toàn cảnh của bạn gợi cảm giác kinh ngạc trước tầm vóc thiên nhiên, và hình ảnh mang phong cách ấn tượng cho thấy tay nghề nghệ sĩ của bạn.\n\nBức ảnh sẽ xuất hiện cùng các ảnh đoạt giải khác trong số tháng Ba của tạp chí. Ngoài ra, tác phẩm sẽ được trưng bày trong triển lãm ảnh phong cảnh đặc biệt tại Bảo tàng Nghệ thuật Perivale ở Birmingham từ 9 đến 21 tháng 5.\n\nBạn sẽ nhận giải thưởng 400 bảng cùng hai năm đặt mua tạp chí. Tấm séc trị giá giải thưởng sẽ được gửi vào tháng Hai, và việc đặt mua sẽ bắt đầu từ số báo có đăng ảnh của bạn.\n\nKhi gửi ảnh, bạn cho biết đã dùng máy Fisk SLR 500 và ống kính góc rộng Genoma XR. Xin trả lời email này để xác nhận thông tin đó có đúng không. Thông tin này sẽ đi kèm bức ảnh trên tạp chí và tại triển lãm.\n\nChúc mừng thành công của bạn. Chúng tôi mong được chia sẻ tác phẩm của bạn với độc giả quốc tế và hy vọng được thấy thêm nhiều tác phẩm của bạn.\n\nTrân trọng,\nMiguel Hernández, Biên tập viên",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-22",
+          "no": 22,
+          "text": "What is Ms. Yi asked to do?",
+          "options": {
+            "A": "Submit some additional photographs",
+            "B": "Confirm that some information is true",
+            "C": "Sign a release form",
+            "D": "Provide a mailing address"
+          },
+          "answer": "B",
+          "explain": "“Please let us know if this is correct” — xác nhận thông tin máy ảnh và ống kính.",
+          "passage": {
+            "text": "To: Kyungbin Yi <kyi@moto.net>\nFrom: Miguel Hernández <mhernandez@mintner_mag.com>\nDate: 3 January\nSubject: Your submission\n\nWe’re writing with some good news. Your photograph Coastline in Winter has been chosen as the third-place winner in the “Views of Our World” landscape photography contest sponsored by Mintner Photography Magazine. Our judges felt that your panoramic winter scene conveys a sense of wonder at the scale of nature and that the impressionistic image you captured shows your skill as an artist.\n\nYour photograph will appear among the other winning photographs in the March issue of Mintner Photography Magazine. In addition, your work will be featured in a special landscape photography exhibit in Birmingham at Perivale Art Museum from 9 May to 21 May.\n\nYou will receive a prize of £400 as well as a two-year subscription to Mintner Photography Magazine. A cheque in the amount of the prize will be sent to you in February, and your subscription will begin with the issue featuring your photograph.\n\nWhen you submitted your photograph, you stated that you used a Fisk SLR 500 camera and a Genoma XR wide-angle lens. Please let us know if this is correct by replying to this e-mail. This information will accompany your photograph in the magazine and in the museum exhibit.\n\nCongratulations on your success. We are looking forward to sharing your work with our international readership and hope to see more of your work in the future.\n\nSincerely,\n\nMiguel Hernández\nEditor"
+          },
+          "vi": "Chúng tôi viết thư báo tin vui. Bức ảnh Coastline in Winter của bạn đã đoạt giải ba cuộc thi ảnh phong cảnh “Views of Our World” do tạp chí Mintner Photography Magazine tài trợ. Ban giám khảo nhận thấy cảnh mùa đông toàn cảnh của bạn gợi cảm giác kinh ngạc trước tầm vóc thiên nhiên, và hình ảnh mang phong cách ấn tượng cho thấy tay nghề nghệ sĩ của bạn.\n\nBức ảnh sẽ xuất hiện cùng các ảnh đoạt giải khác trong số tháng Ba của tạp chí. Ngoài ra, tác phẩm sẽ được trưng bày trong triển lãm ảnh phong cảnh đặc biệt tại Bảo tàng Nghệ thuật Perivale ở Birmingham từ 9 đến 21 tháng 5.\n\nBạn sẽ nhận giải thưởng 400 bảng cùng hai năm đặt mua tạp chí. Tấm séc trị giá giải thưởng sẽ được gửi vào tháng Hai, và việc đặt mua sẽ bắt đầu từ số báo có đăng ảnh của bạn.\n\nKhi gửi ảnh, bạn cho biết đã dùng máy Fisk SLR 500 và ống kính góc rộng Genoma XR. Xin trả lời email này để xác nhận thông tin đó có đúng không. Thông tin này sẽ đi kèm bức ảnh trên tạp chí và tại triển lãm.\n\nChúc mừng thành công của bạn. Chúng tôi mong được chia sẻ tác phẩm của bạn với độc giả quốc tế và hy vọng được thấy thêm nhiều tác phẩm của bạn.\n\nTrân trọng,\nMiguel Hernández, Biên tập viên",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d15-read-23",
+          "no": 23,
+          "text": "What is mentioned about Mintner Photography Magazine?",
+          "options": {
+            "A": "It is read around the world.",
+            "B": "It sponsors several contests each year.",
+            "C": "It is a new publication.",
+            "D": "It is published four times a year."
+          },
+          "answer": "A",
+          "explain": "“Our international readership” cho thấy tạp chí có độc giả khắp thế giới.",
+          "passage": {
+            "text": "To: Kyungbin Yi <kyi@moto.net>\nFrom: Miguel Hernández <mhernandez@mintner_mag.com>\nDate: 3 January\nSubject: Your submission\n\nWe’re writing with some good news. Your photograph Coastline in Winter has been chosen as the third-place winner in the “Views of Our World” landscape photography contest sponsored by Mintner Photography Magazine. Our judges felt that your panoramic winter scene conveys a sense of wonder at the scale of nature and that the impressionistic image you captured shows your skill as an artist.\n\nYour photograph will appear among the other winning photographs in the March issue of Mintner Photography Magazine. In addition, your work will be featured in a special landscape photography exhibit in Birmingham at Perivale Art Museum from 9 May to 21 May.\n\nYou will receive a prize of £400 as well as a two-year subscription to Mintner Photography Magazine. A cheque in the amount of the prize will be sent to you in February, and your subscription will begin with the issue featuring your photograph.\n\nWhen you submitted your photograph, you stated that you used a Fisk SLR 500 camera and a Genoma XR wide-angle lens. Please let us know if this is correct by replying to this e-mail. This information will accompany your photograph in the magazine and in the museum exhibit.\n\nCongratulations on your success. We are looking forward to sharing your work with our international readership and hope to see more of your work in the future.\n\nSincerely,\n\nMiguel Hernández\nEditor"
+          },
+          "vi": "Chúng tôi viết thư báo tin vui. Bức ảnh Coastline in Winter của bạn đã đoạt giải ba cuộc thi ảnh phong cảnh “Views of Our World” do tạp chí Mintner Photography Magazine tài trợ. Ban giám khảo nhận thấy cảnh mùa đông toàn cảnh của bạn gợi cảm giác kinh ngạc trước tầm vóc thiên nhiên, và hình ảnh mang phong cách ấn tượng cho thấy tay nghề nghệ sĩ của bạn.\n\nBức ảnh sẽ xuất hiện cùng các ảnh đoạt giải khác trong số tháng Ba của tạp chí. Ngoài ra, tác phẩm sẽ được trưng bày trong triển lãm ảnh phong cảnh đặc biệt tại Bảo tàng Nghệ thuật Perivale ở Birmingham từ 9 đến 21 tháng 5.\n\nBạn sẽ nhận giải thưởng 400 bảng cùng hai năm đặt mua tạp chí. Tấm séc trị giá giải thưởng sẽ được gửi vào tháng Hai, và việc đặt mua sẽ bắt đầu từ số báo có đăng ảnh của bạn.\n\nKhi gửi ảnh, bạn cho biết đã dùng máy Fisk SLR 500 và ống kính góc rộng Genoma XR. Xin trả lời email này để xác nhận thông tin đó có đúng không. Thông tin này sẽ đi kèm bức ảnh trên tạp chí và tại triển lãm.\n\nChúc mừng thành công của bạn. Chúng tôi mong được chia sẻ tác phẩm của bạn với độc giả quốc tế và hy vọng được thấy thêm nhiều tác phẩm của bạn.\n\nTrân trọng,\nMiguel Hernández, Biên tập viên",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

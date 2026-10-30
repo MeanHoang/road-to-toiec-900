@@ -1,0 +1,2691 @@
+{
+  "collection": "listening",
+  "day": "day-15",
+  "title": "Listening practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d15-photos",
+      "code": "photos",
+      "title": "Part 1 — photo dictation",
+      "subtitle": "Listen and transcribe all four statements for each photograph.",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": "/assets/day-15/audio/part 1.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d15-photos-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/photos/01.mp3",
+          "image": "/assets/day-15/images/photos/01.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "They're eating in a cafe.",
+            "B": "They're cutting the grass.",
+            "C": "They're setting up a tent.",
+            "D": "They're sitting on the ground."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/photos/02.mp3",
+          "image": "/assets/day-15/images/photos/02.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "He's watering the plants.",
+            "B": "He's holding a rake.",
+            "C": "He's digging a hole.",
+            "D": "He's pouring a drink."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/photos/03.mp3",
+          "image": "/assets/day-15/images/photos/03.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "They're using some computers.",
+            "B": "They're facing each other.",
+            "C": "They're standing at a desk.",
+            "D": "They're buying some equipment."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/photos/04.mp3",
+          "image": "/assets/day-15/images/photos/04.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "She's carrying some books.",
+            "B": "She's wiping the shelves.",
+            "C": "She's reading a magazine.",
+            "D": "She's folding her hands."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/photos/05.mp3",
+          "image": "/assets/day-15/images/photos/05.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "They're taking off their glasses.",
+            "B": "They're examining a document.",
+            "C": "They're entering a restaurant.",
+            "D": "They're leaning on a rail."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/photos/06.mp3",
+          "image": "/assets/day-15/images/photos/06.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "Some people are building benches.",
+            "B": "Some people are resting in a park.",
+            "C": "Some people are crossing the road.",
+            "D": "Some people are watching a race."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/photos/07.mp3",
+          "image": "/assets/day-15/images/photos/07.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "The man's placing some food in an oven.",
+            "B": "The man's washing some dishes.",
+            "C": "The man's handing a spoon to a customer.",
+            "D": "The man's preparing a plate of food."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/photos/08.mp3",
+          "image": "/assets/day-15/images/photos/08.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "Vehicles are passing over a bridge.",
+            "B": "There's a walkway above a street.",
+            "C": "Passengers are stepping off a bus.",
+            "D": "Some cars are parked in a garage."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/photos/09.mp3",
+          "image": "/assets/day-15/images/photos/09.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "A worker's laying floor tiles.",
+            "B": "A woman's wearing a long skirt.",
+            "C": "People are hanging up some posters.",
+            "D": "People are playing cards."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d15-photos-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/photos/10.mp3",
+          "image": "/assets/day-15/images/photos/10.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "Some tables are stacked in a pile.",
+            "B": "The tables are being rearranged.",
+            "C": "A cord is being plugged in.",
+            "D": "The wall is being painted."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-how-e",
+      "code": "how-e",
+      "title": "Part 2 — How questions: practice E",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d15-how-e-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/how-how-e/n1.7.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long is this letter?",
+            "A": "the letter is two pages long",
+            "B": "she's five feet tall",
+            "C": "It took 2 hours"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/how-how-e/n2.7.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How many files are in the cabinet?",
+            "A": "It's a new filing cabinet",
+            "B": "there are too many to count",
+            "C": "there will be 6 cabs in the line."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/how-how-e/n3.7.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How late will the bank be open?",
+            "A": "the banker ate at his desk",
+            "B": "the bank will be open until 6 pm",
+            "C": "the bank is two blocks away."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/how-how-e/n4.7.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How often do you take the bus?",
+            "A": "a bus ride costs one dollar",
+            "B": "I ride the bus every day",
+            "C": "I go there quite often"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/how-how-e/n5.7.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How much does a new computer cost?",
+            "A": "She has 10 different costumes",
+            "B": "A basic model costs about $800",
+            "C": "We need some new computers"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/how-how-e/n6.7.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How long will it take to finish that report?",
+            "A": "I'll report it to the manager",
+            "B": "It's about 20 pages long",
+            "C": "I'll have it finished by next week"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/how-how-e/n7.7.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How did you get to New York?",
+            "A": "I took a train",
+            "B": "It's a very interesting city",
+            "C": "I got it at a store"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/how-how-e/n8.7.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How did you like the movie?",
+            "A": "It lasted about 2 hours",
+            "B": "the next one start at 5 o'clock",
+            "C": "I thought it was boring"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/how-how-e/n9.7.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How soon will the meeting be over?",
+            "A": "It's just upstairs",
+            "B": "We'll be finished in about thirty minutes",
+            "C": "the meeting was very interesting"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-e-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/how-how-e/n10.7.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How much paper do you need?",
+            "A": "I think 5 pieces will be enough",
+            "B": "A newspaper costs 50 cents",
+            "C": "I need it to write some letters"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d15-how-f",
+      "code": "how-f",
+      "title": "Part 2 — How questions: practice F",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d15-how-f-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/how-how-f/n1.8.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "how much time will we have to do the work?",
+            "A": "we have until next week",
+            "B": "we worked all night",
+            "C": "I don't have a watch"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/how-how-f/n2.8.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How long has it been raining?",
+            "A": "It is raining from California to New York",
+            "B": "It's rained all afternoon",
+            "C": "Rain turns to snow in cold weather"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/how-how-f/n3.8 loi.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How much mail do you get everyday?",
+            "A": "I get about thirty letters a day",
+            "B": "The mail carrier earns one hundred dollars a day",
+            "C": "The mail was late today"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/how-how-f/n4.8.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How well do you play golf?",
+            "A": "I feel better when I play golf",
+            "B": "Golfing is a relaxing sport",
+            "C": "Not very well , I'm a beginner"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/how-how-f/n5.8.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How many members are on the board of directors?",
+            "A": "There are ten, counting the chairperson",
+            "B": "we all need direction sometimes",
+            "C": "No, I'm not a member"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/how-how-f/n6.8.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How often do you take a business trip?",
+            "A": "Our business didn't do well this year",
+            "B": "I always go by plane",
+            "C": "I travel about three times a year"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/how-how-f/n7.8.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How old are these computers?",
+            "A": "we bought them last year",
+            "B": "they work very well",
+            "C": "they weren't very expensive"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/how-how-f/n8.8.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How can I get to the airport?",
+            "A": "It's only 5 miles from here",
+            "B": "there's a bus that will take you there",
+            "C": "It's a very busy airport"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/how-how-f/n9.8.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How can I contact Mr. Peterson?",
+            "A": "He'll come back tomorrow",
+            "B": "They already signed the contract",
+            "C": "You can send him an e-mail message"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-f-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/how-how-f/n10.8.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How far is your office from here?",
+            "A": "This office is too small",
+            "B": "It's only two blocks away",
+            "C": "I come here everyday"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d15-why-e",
+      "code": "why-e",
+      "title": "Part 2 — Why questions: practice E",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d15-why-e-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/why-why-e/n1.5.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why is she happy?",
+            "A": "she got a new job this morning",
+            "B": "yes, I did notice that",
+            "C": "yes, It happened."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/why-why-e/n2.5.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why are you sitting next to the door?",
+            "A": "I may have to leave early",
+            "B": "the doors are closed",
+            "C": "they live next door"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/why-why-e/n3.5.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why won't this printer work?",
+            "A": "you have nice printing",
+            "B": "it needs a new cartridge",
+            "C": "It was a cold winter"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/why-why-e/n4.5.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why can't you finish this project on time?",
+            "A": "my watch is broken",
+            "B": "I've been sick",
+            "C": "It's time to go"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/why-why-e/n5.5.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why were you late?",
+            "A": "my car wouldn't start",
+            "B": "I ate lunch already",
+            "C": "he'll have to wait"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/why-why-e/n6.5.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why are you so hungry?",
+            "A": "he really made me angry",
+            "B": "I didn't have time to eat lunch",
+            "C": "I ordered a hundred envelopes"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/why-why-e/n7.5.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why did they come by bus?",
+            "A": "they didn't call us",
+            "B": "their car is broken",
+            "C": "he's someone you can trust"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/why-why-e/n8.5.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why are you wearing that coat?",
+            "A": "it's really cold outside",
+            "B": "I put it in the closet",
+            "C": "He doesn't know where it is?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/why-why-e/n9.5.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why isn't Ms. Wilson here today?",
+            "A": "her office is near mine",
+            "B": "she didn't hear you",
+            "C": "she's away on vacation"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-e-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/why-why-e/n10.5.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why is it so cold in this room?",
+            "A": "he told me to come here",
+            "B": "this isn't the right room",
+            "C": "the heating system doesn't work"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d15-why-f",
+      "code": "why-f",
+      "title": "Part 2 — Why questions: practice F",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "questions": [
+        {
+          "id": "d15-why-f-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/why-why-f/n1.6.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "why aren't they finished copying the reports?",
+            "A": "the copy machine is out of paper.",
+            "B": "they want a nice finish on the furniture",
+            "C": "they are crossing the finish line"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/why-why-f/n2.6.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why are these bills overdue?",
+            "A": "we paid them last month",
+            "B": "there's no money in our account",
+            "C": "Bill is due here any minute"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/why-why-f/n3.6.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why is there no water?",
+            "A": "they're repairing the water pipe",
+            "B": "It is always dry in the summer",
+            "C": "you can build it anywhere"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/why-why-f/n4.6.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why does she speak Japanese?",
+            "A": "she studied the language in school",
+            "B": "she loves Japanese food",
+            "C": "she speaks Japanese quite well"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/why-why-f/n5.6.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why aren't you wearing a tie?",
+            "A": "I like wearing ties",
+            "B": "they wear ties to work",
+            "C": "I never wear ties on the weekend"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/why-why-f/n6.6.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why did you turn the computer on?",
+            "A": "It's on my desk",
+            "B": "He turned the report in yesterday",
+            "C": "I'm going to type a letter"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/why-why-f/n7.6.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why doesn't this phone work?",
+            "A": "It needs new batteries",
+            "B": "you can call me at work",
+            "C": "He works alone"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/why-why-f/n8.6.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why did you send Tom a card?",
+            "A": "To wish him a happy birthday",
+            "B": "I've been working too hard",
+            "C": "I bought a new car"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/why-why-f/n9.6.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why did he move to California?",
+            "A": "It was a very good movie",
+            "B": "John helped me move it",
+            "C": "He got a job there"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-f-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/why-why-f/n10.6 loi.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why do you always open the window?",
+            "A": "the window is open",
+            "B": "I like to breathe fresh air",
+            "C": "He went downstairs"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive",
+            "answer": "ai"
+          }
+        }
+      ],
+      "source": "drive"
+    },
+    {
+      "id": "d15-how-why",
+      "code": "how-why",
+      "title": "Part 2 — mixed How and Why questions",
+      "subtitle": "Transcribe the question and three responses, then review the supplied answer key.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": "/assets/day-15/audio/howwhy.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d15-how-why-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/how-why/01.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How much did sales increase this quarter?",
+            "A": "Thanks, it was on sale",
+            "B": "At our headquarters",
+            "C": "By 20%"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/how-why/02.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why is the street closed?",
+            "A": "Go straight ahead",
+            "B": "It's nearby",
+            "C": "Because they're doing repair work"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/how-why/03.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do you like your new apartment?",
+            "A": "I made an appointment yesterday",
+            "B": "The 3rd floor",
+            "C": "The location is perfect"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/how-why/04.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why are all these photographs stored in plastic containers?",
+            "A": "Probably not",
+            "B": "That's a good picture",
+            "C": "To protect them"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/how-why/05.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long will it take to get to Chicago?",
+            "A": "Four hours by train",
+            "B": "To visit my parents",
+            "C": "He got back yesterday"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/how-why/06.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why did you come to the office early today?",
+            "A": "Because I had to finish a report",
+            "B": "Usually at 8:30 in the morning",
+            "C": "I'm sorry but I can't"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/how-why/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How often does the store have a sale?",
+            "A": "The bus comes every 10 minutes",
+            "B": "I learned to sail during the summer",
+            "C": "Generally, once a month"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/how-why/08.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why is the contractor coming in tomorrow?",
+            "A": "I thought you asked him to come",
+            "B": "You have to initial every page",
+            "C": "At least 3 weeks"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/how-why/09.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long is the flight to Vietnam?",
+            "A": "There'll be enough time to read this whole book",
+            "B": "In the international terminal",
+            "C": "It's a good day for flying"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/how-why/10.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why isn't the vegetable soup on your lunch menu today?",
+            "A": "It suits you well",
+            "B": "The same amount of water",
+            "C": "We're offering French onion soup"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-11",
+          "no": 11,
+          "audio": "/assets/day-15/audio/how-why/11.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How should I store these photographs?",
+            "A": "Matso is responsible for that",
+            "B": "From the company picnic",
+            "C": "Yes, the staff is very helpful"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-12",
+          "no": 12,
+          "audio": "/assets/day-15/audio/how-why/12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why hasn't the performance started yet?",
+            "A": "I just left it there",
+            "B": "In 30 minutes",
+            "C": "An actor is late"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-13",
+          "no": 13,
+          "audio": "/assets/day-15/audio/how-why/13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How many tables did you reserve?",
+            "A": "20 of them",
+            "B": "I'll be right there",
+            "C": "For the awards dinner"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-14",
+          "no": 14,
+          "audio": "/assets/day-15/audio/how-why/14.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why hasn't Jason been in the office all week?",
+            "A": "No, I haven't seen him",
+            "B": "Typically until 6 oclock or so",
+            "C": "You'll have to ask his manager"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-15",
+          "no": 15,
+          "audio": "/assets/day-15/audio/how-why/15.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we offer a vegetarian dish at the lunch?",
+            "A": "I've been there a few times",
+            "B": "It may be too late to change to menu",
+            "C": "No, let's wash the dishes later"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-16",
+          "no": 16,
+          "audio": "/assets/day-15/audio/how-why/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why has the workshop been cancelled?",
+            "A": "About 20 min ago",
+            "B": "In room 14",
+            "C": "Because many people couldn't attend"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-17",
+          "no": 17,
+          "audio": "/assets/day-15/audio/how-why/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How will the construction workers get into the building?",
+            "A": "The security guard can let them in",
+            "B": "They're renovating the 5th floor",
+            "C": "The work will be done by Wednesday"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-18",
+          "no": 18,
+          "audio": "/assets/day-15/audio/how-why/18.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why is the legal department having a party?",
+            "A": "To welcome some new employees",
+            "B": "Yes, I finished that part",
+            "C": "I'm sorry but I can't make it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-19",
+          "no": 19,
+          "audio": "/assets/day-15/audio/how-why/19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How much does this sweater cost?",
+            "A": "It also comes in black",
+            "B": "Cash only",
+            "C": "It should say on the tag"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-20",
+          "no": 20,
+          "audio": "/assets/day-15/audio/how-why/20.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why is there so much traffic?",
+            "A": "After the weather report",
+            "B": "Because there's a basketball game today",
+            "C": "No, that's enough"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-21",
+          "no": 21,
+          "audio": "/assets/day-15/audio/how-why/21.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we take a few minutes to go over the proposal?",
+            "A": "It lasted a few hours",
+            "B": "Should we ask Sarah to join us?",
+            "C": "I didn't select the speaker"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-22",
+          "no": 22,
+          "audio": "/assets/day-15/audio/how-why/22.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How should I pay the deposit on the rental car?",
+            "A": "Do you have a credit card?",
+            "B": "It's less expensive than that",
+            "C": "Yes, there's plenty of space"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-23",
+          "no": 23,
+          "audio": "/assets/day-15/audio/how-why/23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why are you working late today?",
+            "A": "I have a deadline coming up",
+            "B": "I might be able to",
+            "C": "35 dollars"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-24",
+          "no": 24,
+          "audio": "/assets/day-15/audio/how-why/24.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How about stopping at that new coffee shop on our way to work tomorrow?",
+            "A": "A pound of coffee, please",
+            "B": "By 5 oclock, I think",
+            "C": "OK, I've heard good things about it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d15-how-why-25",
+          "no": 25,
+          "audio": "/assets/day-15/audio/how-why/25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How soon can we announce the staff promotions?",
+            "A": "That's enough room",
+            "B": "OK, that's wonderful news",
+            "C": "At the next meeting"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-how-homework",
+      "code": "how-homework",
+      "title": "Part 2 — How homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d15-how-homework-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/how/01.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How many clients will be visiting?",
+            "A": "Yes, they are.",
+            "B": "At two o'clock.",
+            "C": "About a dozen."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/how/02.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How about a game of tennis this weekend?",
+            "A": "No, I'm afraid I didn't.",
+            "B": "Well, I do need the exercise.",
+            "C": "I bought ten of them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/how/03.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How can we identify the best solution?",
+            "A": "We may want to consult some experts.",
+            "B": "Everyone must show identification.",
+            "C": "In the laboratory."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/how/04.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How was your stay at the hotel?",
+            "A": "I'm sorry, I can't.",
+            "B": "Near Fourth Avenue.",
+            "C": "I enjoyed it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/how/05.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How do I renew my membership?",
+            "A": "A teacher's association.",
+            "B": "There's a form online.",
+            "C": "No, it's not new."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/how/06.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How much do the theater tickets cost?",
+            "A": "Only $16.",
+            "B": "I'm sure they're not lost.",
+            "C": "There's a concert at the theater."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/how/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How did you find out about that movie?",
+            "A": "To the cinema.",
+            "B": "We have a good view.",
+            "C": "Marco mentioned it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/how/08.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How much does this briefcase cost?",
+            "A": "Let me check for you.",
+            "B": "No, it's actually fairly long.",
+            "C": "It's about two hours to the coast."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/how/09.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How did the committee select the finalists for the prize?",
+            "A": "We evaluated their research.",
+            "B": "By the end of the week.",
+            "C": "Yes, that's the price."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/how/10.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How will you get to the hotel from here?",
+            "A": "I'll take a taxi.",
+            "B": "In the lobby.",
+            "C": "She left yesterday."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-11",
+          "no": 11,
+          "audio": "/assets/day-15/audio/how/11.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How long have you worked at the university?",
+            "A": "It doesn't take that long.",
+            "B": "Since last spring.",
+            "C": "It's a 10-minute walk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-12",
+          "no": 12,
+          "audio": "/assets/day-15/audio/how/12.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How many computers will your laboratory need?",
+            "A": "Probably around 50.",
+            "B": "Every other week.",
+            "C": "The keyboards were included."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-13",
+          "no": 13,
+          "audio": "/assets/day-15/audio/how/13.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "John, how do you get to work?",
+            "A": "An assistant manager.",
+            "B": "In the waiting room.",
+            "C": "I take the bus."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-14",
+          "no": 14,
+          "audio": "/assets/day-15/audio/how/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How much is this umbrella?",
+            "A": "It's going to rain.",
+            "B": "15 euros.",
+            "C": "It won't take long."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-15",
+          "no": 15,
+          "audio": "/assets/day-15/audio/how/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do I enter this information into the database?",
+            "A": "The entrance is around the corner.",
+            "B": "Keep me informed.",
+            "C": "Here are the instructions."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-16",
+          "no": 16,
+          "audio": "/assets/day-15/audio/how/16.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How much do these shirts cost?",
+            "A": "They're 20 euros each.",
+            "B": "The show is at 3.",
+            "C": "Not much more."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-17",
+          "no": 17,
+          "audio": "/assets/day-15/audio/how/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How often does Sun He travel to Europe?",
+            "A": "At least twice a year.",
+            "B": "The Palace Hotel.",
+            "C": "To lead a seminar."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-18",
+          "no": 18,
+          "audio": "/assets/day-15/audio/how/18.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How soon can we announce the staff promotions?",
+            "A": "There's enough room.",
+            "B": "That's wonderful news.",
+            "C": "At the next meeting."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-19",
+          "no": 19,
+          "audio": "/assets/day-15/audio/how/19.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How often do you give factory tours?",
+            "A": "It covers the entire factory.",
+            "B": "Usually just on Saturdays.",
+            "C": "I gave it to Victoria."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-20",
+          "no": 20,
+          "audio": "/assets/day-15/audio/how/20.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How many people are scheduled to attend the party?",
+            "A": "It was a wonderful evening.",
+            "B": "Because the president's retiring.",
+            "C": "Patty has the guest list."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-21",
+          "no": 21,
+          "audio": "/assets/day-15/audio/how/21 20.59.39.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How much has our travel budget increased this year?",
+            "A": "Actually, he was there last year.",
+            "B": "It's almost doubled.",
+            "C": "To Sydney and Melbourne."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-22",
+          "no": 22,
+          "audio": "/assets/day-15/audio/how/22 20.59.39.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do you plan to market the new line of tennis rackets?",
+            "A": "I'll be sure to mark it on my list.",
+            "B": "No, in a tennis magazine.",
+            "C": "My team's still developing a strategy."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-23",
+          "no": 23,
+          "audio": "/assets/day-15/audio/how/23 20.59.39.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How long does it take to fly to New York?",
+            "A": "About once a month.",
+            "B": "Two and a half hours.",
+            "C": "A great place to visit."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-24",
+          "no": 24,
+          "audio": "/assets/day-15/audio/how/24 20.59.39.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How much will it cost to landscape this area?",
+            "A": "It took less than a week.",
+            "B": "I hired Johnson's Landscaping.",
+            "C": "About $8,000."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-how-homework-25",
+          "no": 25,
+          "audio": "/assets/day-15/audio/how/25 20.59.39.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do I reserve a meeting space?",
+            "A": "All the full-time staff.",
+            "B": "It was too crowded.",
+            "C": "You can do it online."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-why-homework",
+      "code": "why-homework",
+      "title": "Part 2 — Why homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d15-why-homework-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/why/01.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why did Yumi leave the seminar early?",
+            "A": "Seven o'clock this morning.",
+            "B": "Summer in room 26.",
+            "C": "She had a doctor's appointment."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/why/02.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why are our supplies so low?",
+            "A": "I'm surprised to see you.",
+            "B": "The bottom shelf.",
+            "C": "The delivery's been delayed."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/why/03.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we go out for some fresh air?",
+            "A": "It's out of stock.",
+            "B": "Yes, I'd like to take a break.",
+            "C": "The chairs go over there."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/why/04.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we take a few minutes to go over the proposal?",
+            "A": "It lasted a few hours.",
+            "B": "Should we ask Sarah to join us?",
+            "C": "I didn't select the speaker."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-05",
+          "no": 5,
+          "audio": "/assets/day-15/audio/why/05.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why did you get a new mobile phone?",
+            "A": "In my briefcase.",
+            "B": "I lost my old one.",
+            "C": "Next September."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-06",
+          "no": 6,
+          "audio": "/assets/day-15/audio/why/06.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why is the shopping centre so busy?",
+            "A": "I have to buy food for dinner.",
+            "B": "A new store opened there last week.",
+            "C": "A business proposal."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-07",
+          "no": 7,
+          "audio": "/assets/day-15/audio/why/07.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why don't you call Ms. Garcia this morning?",
+            "A": "I don't think I have her number.",
+            "B": "Because she asked for one.",
+            "C": "I can answer the phone."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-08",
+          "no": 8,
+          "audio": "/assets/day-15/audio/why/08.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why has the train been delayed?",
+            "A": "For about two hours.",
+            "B": "Lay it over there.",
+            "C": "They're repairing the tracks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-09",
+          "no": 9,
+          "audio": "/assets/day-15/audio/why/09.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why does Mr. Tang look so worried?",
+            "A": "Yes, so he told me.",
+            "B": "OK, I'll look it up.",
+            "C": "He left his briefcase on the plane."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-10",
+          "no": 10,
+          "audio": "/assets/day-15/audio/why/10.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why is Felipe sitting in the lobby?",
+            "A": "He's meeting me there.",
+            "B": "I'd rather stand.",
+            "C": "At ten o'clock."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-11",
+          "no": 11,
+          "audio": "/assets/day-15/audio/why/11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why don't we lower the prices on our sweaters?",
+            "A": "That discount store in town.",
+            "B": "How many would you like?",
+            "C": "That should help our sales."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-12",
+          "no": 12,
+          "audio": "/assets/day-15/audio/why/12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why doesn't the bus to the city park ever arrive on time?",
+            "A": "Until the next one.",
+            "B": "No, you can't park here.",
+            "C": "It's frustrating, isn't it?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-13",
+          "no": 13,
+          "audio": "/assets/day-15/audio/why/13.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why did one of the engineers resign from the McMaster project?",
+            "A": "Is the engine running?",
+            "B": "They wanted him to relocate.",
+            "C": "It's an impressive design."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-14",
+          "no": 14,
+          "audio": "/assets/day-15/audio/why/14.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why did she call the library?",
+            "A": "Next to the magazines.",
+            "B": "No, I didn't.",
+            "C": "To reserve a book."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-15",
+          "no": 15,
+          "audio": "/assets/day-15/audio/why/15.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why is the showroom floor being rearranged?",
+            "A": "I'll arrange transportation.",
+            "B": "To display the new merchandise.",
+            "C": "It's on the sixth floor."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-16",
+          "no": 16,
+          "audio": "/assets/day-15/audio/why/16.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why is the road blocked?",
+            "A": "For two days.",
+            "B": "It's under construction.",
+            "C": "I rode my bicycle."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-17",
+          "no": 17,
+          "audio": "/assets/day-15/audio/why/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why has the copy machine been removed?",
+            "A": "It's being replaced.",
+            "B": "Ten copies, please.",
+            "C": "To the factory."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-18",
+          "no": 18,
+          "audio": "/assets/day-15/audio/why/18.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why don't we go ahead and start?",
+            "A": "A different schedule.",
+            "B": "About 16 meters.",
+            "C": "Let's wait for Mark."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-19",
+          "no": 19,
+          "audio": "/assets/day-15/audio/why/19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why isn't the printer working?",
+            "A": "It's out of ink.",
+            "B": "Print your name here.",
+            "C": "A lot of work."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-20",
+          "no": 20,
+          "audio": "/assets/day-15/audio/why/20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why don't you join Mary and me for a walk?",
+            "A": "Some fresh air would be lovely.",
+            "B": "It's a great organization.",
+            "C": "That's Mary's group."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-21",
+          "no": 21,
+          "audio": "/assets/day-15/audio/why/21 20.59.55.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why are you adding more training sessions?",
+            "A": "Ivan's passing around a sign-up sheet.",
+            "B": "The proposal can't be changed now.",
+            "C": "We didn't realise so many people wanted to attend."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-22",
+          "no": 22,
+          "audio": "/assets/day-15/audio/why/22 20.59.55.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why wasn't the mail delivered?",
+            "A": "Because it's a holiday.",
+            "B": "20 stamps, please.",
+            "C": "At any time."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-23",
+          "no": 23,
+          "audio": "/assets/day-15/audio/why/23 20.59.55.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why were all the chairs in the staff room removed?",
+            "A": "They're being replaced.",
+            "B": "We can share it.",
+            "C": "Let's pack them up."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-24",
+          "no": 24,
+          "audio": "/assets/day-15/audio/why/24 20.59.55.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why was the festival date changed?",
+            "A": "They're predicting rain.",
+            "B": "You can keep the change.",
+            "C": "Okay, I'll revise the calendar."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-25",
+          "no": 25,
+          "audio": "/assets/day-15/audio/why/25 20.59.55.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why don't you wait to see the survey results before making a decision?",
+            "A": "Oh, we've already taken them into account.",
+            "B": "I don't see the waiter anywhere.",
+            "C": "A select group of customers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-26",
+          "no": 26,
+          "audio": "/assets/day-15/audio/why/26 20.59.55.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why don't I hang up these flyers for you?",
+            "A": "I'd appreciate that.",
+            "B": "The publicity department.",
+            "C": "Peter designed them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-27",
+          "no": 27,
+          "audio": "/assets/day-15/audio/why/27 20.59.55.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why was the management meeting postponed?",
+            "A": "I'm planning to go.",
+            "B": "There was a scheduling conflict.",
+            "C": "The senior managers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-why-homework-28",
+          "no": 28,
+          "audio": "/assets/day-15/audio/why/28 20.59.55.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why isn't our company's address posted on the website?",
+            "A": "The employee phone directory.",
+            "B": "You're right. It's supposed to be there.",
+            "C": "Next door to the Anderson Building."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d15-which-homework",
+      "code": "which-homework",
+      "title": "Part 2 — Which homework",
+      "subtitle": "Listen and transcribe the question and all three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d15-which-homework-01",
+          "no": 1,
+          "audio": "/assets/day-15/audio/which/01.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Which of these notebooks is yours?",
+            "A": "At the library.",
+            "B": "The black one's mine.",
+            "C": "Thanks, it is."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-which-homework-02",
+          "no": 2,
+          "audio": "/assets/day-15/audio/which/02.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Which paint color did you choose for the waiting room?",
+            "A": "He didn't see the memo.",
+            "B": "A shade of pale green.",
+            "C": "I don't mind waiting."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-which-homework-03",
+          "no": 3,
+          "audio": "/assets/day-15/audio/which/03.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Which road should I take to get to City Hall?",
+            "A": "You'll get it in the mail.",
+            "B": "The seminar's in room 309.",
+            "C": "I would take Broad Street."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        },
+        {
+          "id": "d15-which-homework-04",
+          "no": 4,
+          "audio": "/assets/day-15/audio/which/04.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Which region reported the highest number of car sales this quarter?",
+            "A": "Many more than we expected.",
+            "B": "We just hired a new executive.",
+            "C": "The Northwest sales team sold the most."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper",
+            "answer": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}
