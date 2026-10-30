@@ -1542,6 +1542,114 @@
         "us": "/assets/day-14/voice-neural/d14-v57-us.mp3",
         "uk": "/assets/day-14/voice-neural/d14-v57-uk.mp3"
       }
+    },
+    {
+      "id": "d14-v58",
+      "no": 58,
+      "word": "usual",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈjuːʒuəl/",
+        "us": "/ˈjuːʒuəl/"
+      },
+      "meaningVi": "thông thường, thường lệ (usually — adv: thường thường)",
+      "image": null,
+      "example": {
+        "en": "It was busier than usual."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v58-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v59",
+      "no": 59,
+      "word": "estate",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪˈsteɪt/",
+        "us": "/ɪˈsteɪt/"
+      },
+      "meaningVi": "bất động sản, điền sản; khu đất rộng; tài sản (real estate: bất động sản)",
+      "image": null,
+      "example": {
+        "en": "The real estate agent showed it to us."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v59-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v60",
+      "no": 60,
+      "word": "revise",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈvaɪz/",
+        "us": "/rɪˈvaɪz/"
+      },
+      "meaningVi": "sửa đổi, chỉnh sửa; ôn tập (Anh-Anh) (revision — n: sự sửa đổi, bản sửa đổi)",
+      "image": null,
+      "example": {
+        "en": "Who can I ask to revise our orientation materials?"
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v60-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v60-uk.mp3"
+      }
+    },
+    {
+      "id": "d14-v61",
+      "no": 61,
+      "word": "orientation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɔːriənˈteɪʃən/",
+        "us": "/ˌɔːriənˈteɪʃən/"
+      },
+      "meaningVi": "buổi định hướng, hội nhập (cho nhân viên/sinh viên mới); sự định hướng, khuynh hướng",
+      "image": null,
+      "example": {
+        "en": "Who's leading the orientation?"
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "whisper",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-14/voice-neural/d14-v61-us.mp3",
+        "uk": "/assets/day-14/voice-neural/d14-v61-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -1552,6 +1660,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "3d3c60d89bffa672f5c925aa65dfb5eefa2e5b47d99993931ffa14d3e6203280"
+    "textHash": "0e8c0bec491aa5053ac8bb3f876417e1c057781f7e9b283131c11868df20c8de"
   }
 }
