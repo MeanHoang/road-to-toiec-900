@@ -1,0 +1,1638 @@
+{
+  "collection": "vocabulary",
+  "day": "day-16",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d16-v01",
+      "no": 1,
+      "word": "cargo",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɑːɡəʊ/",
+        "us": "/ˈkɑːrɡoʊ/"
+      },
+      "meaningVi": "hàng hóa được vận chuyển bằng tàu (máy bay, phương tiện lớn)",
+      "image": null,
+      "example": {
+        "en": "Can you check the cargo for me? I just need to fix something."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v01-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v02",
+      "no": 2,
+      "word": "fragile",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈfrædʒaɪl/",
+        "us": "/ˈfrædʒl/"
+      },
+      "meaningVi": "mỏng manh, dễ vỡ",
+      "image": null,
+      "example": {
+        "en": "Be careful not to drop it; it’s very fragile."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v02-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v03",
+      "no": 3,
+      "word": "courier",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkʊriə(r)/",
+        "us": "/ˈkʊriər/"
+      },
+      "meaningVi": "người chuyển phát nhanh (thư, bưu kiện), công ty vận chuyển",
+      "image": null,
+      "example": {
+        "en": "Urgent deliveries of medicine may be sent by motorcycle courier."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v03-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v04",
+      "no": 4,
+      "word": "tariff",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtærɪf/",
+        "us": "/ˈtærɪf/"
+      },
+      "meaningVi": "thuế quan, thuế xuất nhập khẩu",
+      "image": null,
+      "example": {
+        "en": "The US imposed 100% tariff on EU products such as mustard and cheese."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v04-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v05",
+      "no": 5,
+      "word": "destination",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌdestɪˈneɪʃn/",
+        "us": "/ˌdestɪˈneɪʃn/"
+      },
+      "meaningVi": "điểm đến, đích đến",
+      "image": null,
+      "example": {
+        "en": "We reached our final destination at 5 P.M after 2 hours of travelling and everyone was exhausted."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v05-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v06",
+      "no": 6,
+      "word": "shipment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈʃɪpmənt/",
+        "us": "/ˈʃɪpmənt/"
+      },
+      "meaningVi": "việc gửi hàng, hàng gửi",
+      "image": null,
+      "example": {
+        "en": "Dozens of valuable works of art disappeared during shipment to the US."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v06-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v07",
+      "no": 7,
+      "word": "package",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpækɪdʒ/",
+        "us": "/ˈpækɪdʒ/"
+      },
+      "meaningVi": "bưu kiện · đồng nghĩa: parcel /ˈpɑːrsl/ (n)",
+      "image": null,
+      "example": {
+        "en": "The courier tried to deliver a parcel yesterday but I’d already left."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v07-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v08",
+      "no": 8,
+      "word": "clearing customs",
+      "pos": "phr",
+      "ipa": {
+        "uk": "/ˈklɪərɪŋ ˈkʌstəmz/",
+        "us": "/ˈklɪrɪŋ ˈkʌstəmz/"
+      },
+      "meaningVi": "thông quan hàng hóa",
+      "image": null,
+      "example": {
+        "en": "Have you had a hard time clearing customs?"
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v08-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v09",
+      "no": 9,
+      "word": "fulfill",
+      "pos": "v",
+      "ipa": {
+        "uk": "/fʊlˈfɪl/",
+        "us": "/fʊlˈfɪl/"
+      },
+      "meaningVi": "thực hiện, thi hành · họ từ: fulfillment /fʊlˈfɪlmənt/ (n) sự thực hiện (đơn hàng)",
+      "image": null,
+      "example": {
+        "en": "Failure to fulfil the terms of the agreements may result in legal action."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v09-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v10",
+      "no": 10,
+      "word": "content",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɒntent/",
+        "us": "/ˈkɑːntent/"
+      },
+      "meaningVi": "nội dung, đồ (hàng hóa) đựng bên trong",
+      "image": null,
+      "example": {
+        "en": "Fire has caused severe damage to the contents of the building."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v10-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v11",
+      "no": 11,
+      "word": "border",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbɔːdə(r)/",
+        "us": "/ˈbɔːrdər/"
+      },
+      "meaningVi": "biên giới",
+      "image": null,
+      "example": {
+        "en": "The international border was agreed and the legislation was signed."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v11-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v12",
+      "no": 12,
+      "word": "warehouse",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈweəhaʊs/",
+        "us": "/ˈwerhaʊs/"
+      },
+      "meaningVi": "nhà kho",
+      "image": null,
+      "example": {
+        "en": "Just take another look at the warehouse. Jason will assist you."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v12-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v13",
+      "no": 13,
+      "word": "supplier",
+      "pos": "n",
+      "ipa": {
+        "uk": "/səˈplaɪə(r)/",
+        "us": "/səˈplaɪər/"
+      },
+      "meaningVi": "nhà cung cấp",
+      "image": null,
+      "example": {
+        "en": "You will need to be able to deal with both customers and suppliers."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v13-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v14",
+      "no": 14,
+      "word": "goods",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɡʊdz/",
+        "us": "/ɡʊdz/"
+      },
+      "meaningVi": "hàng hóa",
+      "image": null,
+      "example": {
+        "en": "The goods will be delivered within ten days."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v14-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v15",
+      "no": 15,
+      "word": "logistics",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ləˈdʒɪstɪks/",
+        "us": "/ləˈdʒɪstɪks/"
+      },
+      "meaningVi": "kho vận, giao nhận, hậu cần",
+      "image": null,
+      "example": {
+        "en": "Good planning and communication is essential to good logistics."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v15-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v16",
+      "no": 16,
+      "word": "retailer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈriːteɪlə(r)/",
+        "us": "/ˈriːteɪlər/"
+      },
+      "meaningVi": "người (nhà) bán lẻ · họ từ: retail /ˈriːteɪl/ (v, n) bán lẻ",
+      "image": null,
+      "example": {
+        "en": "Traditional retailers are complaining about online retailers stealing their customers."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v16-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v17",
+      "no": 17,
+      "word": "handle",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈhændl/",
+        "us": "/ˈhændl/"
+      },
+      "meaningVi": "xử lý, giải quyết · đồng nghĩa: deal with / address",
+      "image": null,
+      "example": {
+        "en": "The label on the box said: ‘Fragile. Handle with care.’"
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v17-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v18",
+      "no": 18,
+      "word": "merchandise",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmɜːtʃəndaɪs/",
+        "us": "/ˈmɜːrtʃəndaɪz/"
+      },
+      "meaningVi": "hàng hóa",
+      "image": null,
+      "example": {
+        "en": "These tokens can be exchanged for merchandise in any of our stores."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v18-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v19",
+      "no": 19,
+      "word": "caution",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/ˈkɔːʃn/",
+        "us": "/ˈkɔːʃn/"
+      },
+      "meaningVi": "cảnh báo, thận trọng · họ từ: cautious /ˈkɔːʃəs/ (adj) thận trọng",
+      "image": null,
+      "example": {
+        "en": "Anyone receiving a suspect package should exercise extreme caution."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v19-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v20",
+      "no": 20,
+      "word": "acknowledge",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əkˈnɒlɪdʒ/",
+        "us": "/əkˈnɑːlɪdʒ/"
+      },
+      "meaningVi": "thừa nhận (báo xác nhận), cảm ơn · họ từ: acknowledgement /əkˈnɑːlɪdʒmənt/ (n) sự thừa nhận",
+      "image": null,
+      "example": {
+        "en": "Please acknowledge receipt of this package."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v20-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v21",
+      "no": 21,
+      "word": "store",
+      "pos": "v",
+      "ipa": {
+        "uk": "/stɔː(r)/",
+        "us": "/stɔːr/"
+      },
+      "meaningVi": "lưu trữ · họ từ: storage /ˈstɔːrɪdʒ/ (n) sự lưu trữ",
+      "image": null,
+      "example": {
+        "en": "We do not have adequate space to store these goods."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v21-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v22",
+      "no": 22,
+      "word": "duty",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdjuːti/",
+        "us": "/ˈduːti/"
+      },
+      "meaningVi": "thuế (hải quan), bổn phận, trách nhiệm",
+      "image": null,
+      "example": {
+        "en": "By changing its supplier, the company saved thousands of pounds in import duty."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v22-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v23",
+      "no": 23,
+      "word": "impose",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪmˈpəʊz/",
+        "us": "/ɪmˈpoʊz/"
+      },
+      "meaningVi": "áp (thuế, tiền phạt…)",
+      "image": null,
+      "example": {
+        "en": "Is the employer allowed to impose a penalty like this?"
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v23-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v24",
+      "no": 24,
+      "word": "detach",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈtætʃ/",
+        "us": "/dɪˈtætʃ/"
+      },
+      "meaningVi": "tách rời · trái nghĩa: attach /əˈtætʃ/ (v) đính kèm",
+      "image": null,
+      "example": {
+        "en": "Detach the coupon and return it as soon as possible."
+      },
+      "group": "Topic 04 — Shipping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v24-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v25",
+      "no": 25,
+      "word": "rent",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/rent/",
+        "us": "/rent/"
+      },
+      "meaningVi": "thuê; tiền thuê",
+      "image": null,
+      "example": {
+        "en": "Thank you for renting from Ryke Photography."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v25-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v26",
+      "no": 26,
+      "word": "thoroughly",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ˈθʌrəli/",
+        "us": "/ˈθɜːroʊli/"
+      },
+      "meaningVi": "một cách kỹ lưỡng, hoàn toàn",
+      "image": null,
+      "example": {
+        "en": "It has been thoroughly cleaned and tested prior to shipping."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v26-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v27",
+      "no": 27,
+      "word": "indicate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɪndɪkeɪt/",
+        "us": "/ˈɪndɪkeɪt/"
+      },
+      "meaningVi": "chỉ ra",
+      "image": null,
+      "example": {
+        "en": "Our records indicate that we have sent you the following items:"
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v27-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v28",
+      "no": 28,
+      "word": "replacement items",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈpleɪsmənt ˈaɪtəmz/",
+        "us": "/rɪˈpleɪsmənt ˈaɪtəmz/"
+      },
+      "meaningVi": "các mặt hàng thay thế",
+      "image": null,
+      "example": {
+        "en": "If the above items are not returned by this date, we will charge you for the purchase of replacement items."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v28-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v29",
+      "no": 29,
+      "word": "return",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/rɪˈtɜːn/",
+        "us": "/rɪˈtɜːrn/"
+      },
+      "meaningVi": "trả lại; sự trở lại",
+      "image": null,
+      "example": {
+        "en": "When returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v29-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v30",
+      "no": 30,
+      "word": "affect",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈfekt/",
+        "us": "/əˈfekt/"
+      },
+      "meaningVi": "ảnh hưởng",
+      "image": null,
+      "example": {
+        "en": "For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v30-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v31",
+      "no": 31,
+      "word": "permission",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pəˈmɪʃn/",
+        "us": "/pərˈmɪʃn/"
+      },
+      "meaningVi": "sự cho phép",
+      "image": null,
+      "example": {
+        "en": "After reviewing the request, Dr. Giordano has provided her permission; note that a credit line acknowledging Dr. Giordano’s work must be included."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v31-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v32",
+      "no": 32,
+      "word": "originally",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/əˈrɪdʒənəli/",
+        "us": "/əˈrɪdʒənəli/"
+      },
+      "meaningVi": "ban đầu",
+      "image": null,
+      "example": {
+        "en": "The article was originally published in Medical Technology Journal on April 8 of this year."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v32-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v33",
+      "no": 33,
+      "word": "compile",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəmˈpaɪl/",
+        "us": "/kəmˈpaɪl/"
+      },
+      "meaningVi": "tổng hợp",
+      "image": null,
+      "example": {
+        "en": "You indicated that the material requested will be used as a chapter in a medical encyclopedia currently being compiled by Mr. Stanton."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v33-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v34",
+      "no": 34,
+      "word": "specify",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈspesɪfaɪ/",
+        "us": "/ˈspesɪfaɪ/"
+      },
+      "meaningVi": "chỉ định, xác định rõ",
+      "image": null,
+      "example": {
+        "en": "This document specifies how Dr. Giordano should be credited."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v34-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v35",
+      "no": 35,
+      "word": "authorize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɔːθəraɪz/",
+        "us": "/ˈɔːθəraɪz/"
+      },
+      "meaningVi": "cấp quyền, cho phép",
+      "image": null,
+      "example": {
+        "en": "I am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v35-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v36",
+      "no": 36,
+      "word": "fruitful",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈfruːtfl/",
+        "us": "/ˈfruːtfl/"
+      },
+      "meaningVi": "có hiệu quả, sinh lợi",
+      "image": null,
+      "example": {
+        "en": "I am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v36-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v37",
+      "no": 37,
+      "word": "dynamic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/daɪˈnæmɪk/",
+        "us": "/daɪˈnæmɪk/"
+      },
+      "meaningVi": "năng động, linh hoạt",
+      "image": null,
+      "example": {
+        "en": "Mr. Shinawakra planned a very interesting round-table discussion in the morning with several of your senior executives responsible for strategy implementation, concentrating in particular upon consumer behavior, cost dynamics, and corporate social responsibility—some of my students’ particular areas of interest."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v37-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v38",
+      "no": 38,
+      "word": "summary",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈsʌməri/",
+        "us": "/ˈsʌməri/"
+      },
+      "meaningVi": "bản tóm tắt",
+      "image": null,
+      "example": {
+        "en": "After eating lunch with the group, Mr. Shinawakra presented a very professional summary of career opportunities in corporate Thailand, especially at Diwikar Corporation."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v38-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v39",
+      "no": 39,
+      "word": "demeanor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈmiːnə(r)/",
+        "us": "/dɪˈmiːnər/"
+      },
+      "meaningVi": "phong thái, thái độ",
+      "image": null,
+      "example": {
+        "en": "We were all extremely impressed by his professional demeanor and the attention he gave to many details of the visit."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v39-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v40",
+      "no": 40,
+      "word": "assessment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈsesmənt/",
+        "us": "/əˈsesmənt/"
+      },
+      "meaningVi": "sự đánh giá",
+      "image": null,
+      "example": {
+        "en": "I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v40-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v41",
+      "no": 41,
+      "word": "appreciate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈpriːʃieɪt/",
+        "us": "/əˈpriːʃieɪt/"
+      },
+      "meaningVi": "đánh giá cao, trân trọng",
+      "image": null,
+      "example": {
+        "en": "I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v41-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v42",
+      "no": 42,
+      "word": "expectation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌekspekˈteɪʃn/",
+        "us": "/ˌekspekˈteɪʃn/"
+      },
+      "meaningVi": "kỳ vọng",
+      "image": null,
+      "example": {
+        "en": "I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v42-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v43",
+      "no": 43,
+      "word": "execute",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈeksɪkjuːt/",
+        "us": "/ˈeksɪkjuːt/"
+      },
+      "meaningVi": "thực hiện, thi hành",
+      "image": null,
+      "example": {
+        "en": "It would provide useful discussion points for us as we plan and execute the project."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v43-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v44",
+      "no": 44,
+      "word": "acknowledgement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əkˈnɒlɪdʒmənt/",
+        "us": "/əkˈnɑːlɪdʒmənt/"
+      },
+      "meaningVi": "sự công nhận",
+      "image": null,
+      "example": {
+        "en": "We would not distribute any part of it outside the company without first obtaining permission from you, nor would we include any part of it in any of our presentations to external bodies without your permission and without acknowledgement of you as the author."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v44-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v45",
+      "no": 45,
+      "word": "enthusiastic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɪnˌθjuːziˈæstɪk/",
+        "us": "/ɪnˌθuːziˈæstɪk/"
+      },
+      "meaningVi": "nhiệt tình, hăng hái",
+      "image": null,
+      "example": {
+        "en": "I am enthusiastic about the prospect of the Crockett Center working with Integral Harvest."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v45-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v46",
+      "no": 46,
+      "word": "attention",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈtenʃn/",
+        "us": "/əˈtenʃn/"
+      },
+      "meaningVi": "sự chú ý",
+      "image": null,
+      "example": {
+        "en": "As you know, the Crockett Center has recently turned its attention to urban gardening."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v46-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v47",
+      "no": 47,
+      "word": "main priority",
+      "pos": "n",
+      "ipa": {
+        "uk": "/meɪn praɪˈɒrəti/",
+        "us": "/meɪn praɪˈɔːrəti/"
+      },
+      "meaningVi": "ưu tiên chính",
+      "image": null,
+      "example": {
+        "en": "On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v47-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v48",
+      "no": 48,
+      "word": "representative",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌreprɪˈzentətɪv/",
+        "us": "/ˌreprɪˈzentətɪv/"
+      },
+      "meaningVi": "người đại diện",
+      "image": null,
+      "example": {
+        "en": "I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v48-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v49",
+      "no": 49,
+      "word": "demonstrate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈdemənstreɪt/",
+        "us": "/ˈdemənstreɪt/"
+      },
+      "meaningVi": "trình bày, chứng minh",
+      "image": null,
+      "example": {
+        "en": "As for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v49-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v50",
+      "no": 50,
+      "word": "receptive audience",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈseptɪv ˈɔːdiəns/",
+        "us": "/rɪˈseptɪv ˈɔːdiəns/"
+      },
+      "meaningVi": "khán giả dễ tiếp thu",
+      "image": null,
+      "example": {
+        "en": "It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v50-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v51",
+      "no": 51,
+      "word": "school administrator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/skuːl ədˈmɪnɪstreɪtə(r)/",
+        "us": "/skuːl ədˈmɪnɪstreɪtər/"
+      },
+      "meaningVi": "quản trị viên trường học",
+      "image": null,
+      "example": {
+        "en": "As for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v51-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v51-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v52",
+      "no": 52,
+      "word": "up to date",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌʌp tə ˈdeɪt/",
+        "us": "/ˌʌp tə ˈdeɪt/"
+      },
+      "meaningVi": "cập nhật, hiện đại",
+      "image": null,
+      "example": {
+        "en": "As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v52-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v52-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v53",
+      "no": 53,
+      "word": "business hours",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbɪznəs ˈaʊəz/",
+        "us": "/ˈbɪznəs ˈaʊərz/"
+      },
+      "meaningVi": "giờ làm việc",
+      "image": null,
+      "example": {
+        "en": "Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v53-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v54",
+      "no": 54,
+      "word": "exceptional",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɪkˈsepʃənl/",
+        "us": "/ɪkˈsepʃənl/"
+      },
+      "meaningVi": "đặc biệt, xuất sắc",
+      "image": null,
+      "example": {
+        "en": "Ms. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v54-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v55",
+      "no": 55,
+      "word": "problem-solving skills",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈprɒbləm ˌsɒlvɪŋ skɪlz/",
+        "us": "/ˈprɑːbləm ˌsɑːlvɪŋ skɪlz/"
+      },
+      "meaningVi": "kỹ năng giải quyết vấn đề",
+      "image": null,
+      "example": {
+        "en": "Ms. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v55-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v56",
+      "no": 56,
+      "word": "budget associate",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbʌdʒɪt əˈsəʊʃiət/",
+        "us": "/ˈbʌdʒɪt əˈsoʊʃiət/"
+      },
+      "meaningVi": "nhân viên quản lý ngân sách",
+      "image": null,
+      "example": {
+        "en": "Ms. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v56-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v57",
+      "no": 57,
+      "word": "contribute",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kənˈtrɪbjuːt/",
+        "us": "/kənˈtrɪbjuːt/"
+      },
+      "meaningVi": "đóng góp",
+      "image": null,
+      "example": {
+        "en": "Ms. Lee’s leadership contributed substantially to increased productivity in her department."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v57-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v57-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v58",
+      "no": 58,
+      "word": "consecutive",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/kənˈsekjətɪv/",
+        "us": "/kənˈsekjətɪv/"
+      },
+      "meaningVi": "liên tục, liên tiếp",
+      "image": null,
+      "example": {
+        "en": "During her first year in that role, her team was commended for finding cost savings in four consecutive quarters."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v58-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v59",
+      "no": 59,
+      "word": "advanced degree",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ədˈvɑːnst dɪˈɡriː/",
+        "us": "/ədˈvænst dɪˈɡriː/"
+      },
+      "meaningVi": "bằng cấp cao",
+      "image": null,
+      "example": {
+        "en": "After six years with the Balestri Corporation, Ms. Lee resigned to pursue an advanced degree."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v59-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d16-v60",
+      "no": 60,
+      "word": "asset",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈæset/",
+        "us": "/ˈæset/"
+      },
+      "meaningVi": "tài sản, lợi thế",
+      "image": null,
+      "example": {
+        "en": "She was an asset to the Balestri Corporation, and I am confident she will be an asset to your company as well."
+      },
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-16/voice-neural/d16-v60-us.mp3",
+        "uk": "/assets/day-16/voice-neural/d16-v60-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "073dde026e288d5fad95728bae97b2deba5f067136b72fb38c90a4cf1a00c90c"
+  }
+}

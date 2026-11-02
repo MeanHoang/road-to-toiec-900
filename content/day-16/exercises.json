@@ -1,0 +1,703 @@
+{
+  "collection": "exercises",
+  "day": "day-16",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d16-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: a camera rental",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-01",
+          "no": 1,
+          "text": "What is indicated about the camera?",
+          "options": {
+            "A": "Ms. Tran picked it up at Ryke Photography.",
+            "B": "Ms. Tran has reported a problem with it.",
+            "C": "It was purchased by Ms. Tran.",
+            "D": "It was shipped with accessories."
+          },
+          "answer": "D",
+          "explain": "Thư liệt kê máy ảnh được gửi kèm 2 nắp ống kính, 1 dây đeo và 1 hộp đựng, tức là gửi kèm phụ kiện. Máy được thuê, không phải mua.",
+          "passage": {
+            "text": "Ryke Photography\nCameras and photography supplies\nwww.rykephotography.com\n\nAugust 15\n\nHien Tran\n324 Oak Lane\nColumbus, OH 43085\n\nDear Ms. Tran:\n\nThank you for renting from Ryke Photography. The camera you ordered from us will be arriving shortly (if you have not received it already). It has been thoroughly cleaned and tested prior to shipping. We are confident that you will be pleased with it, but if you experience any problems, please let us know right away.\n\nOur records indicate that we have sent you the following items:\n• 1 Manning 6100 camera (35-70 millimeter zoom lens)\n• 2 lens caps\n• 1 camera strap\n• 1 hard-sided case\n\nYour rental period ends on October 15. If the above items are not returned by this date, we will charge you for the purchase of replacement items.\n\nWhen returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided. Affix the return label to the package and drop it off at your local Hart Courier office, or call 482-555-0711 to arrange for a pickup.\n\nThank you again for your order.\n\nSincerely,\nPaul Denning\nOwner"
+          },
+          "vi": "Kính gửi cô Tran,\n\nCảm ơn cô đã thuê đồ của Ryke Photography. Chiếc máy ảnh cô đặt sẽ sớm được giao tới (nếu cô chưa nhận được). Máy đã được lau chùi và kiểm tra kỹ lưỡng trước khi gửi đi. Chúng tôi tin cô sẽ hài lòng, nhưng nếu gặp bất kỳ trục trặc nào, xin báo cho chúng tôi ngay.\n\nTheo hồ sơ của chúng tôi, chúng tôi đã gửi cho cô các món sau:\n• 1 máy ảnh Manning 6100 (ống kính zoom 35-70 mm)\n• 2 nắp ống kính\n• 1 dây đeo máy ảnh\n• 1 hộp đựng cứng\n\nThời hạn thuê kết thúc vào ngày 15 tháng 10. Nếu các món trên không được trả lại trước ngày này, chúng tôi sẽ tính tiền mua đồ thay thế.\n\nKhi trả máy ảnh và phụ kiện, xin xếp cẩn thận vào hộp đựng cứng rồi đặt hộp vào thùng gửi hàng đã được cung cấp. Dán nhãn gửi trả lên kiện hàng và mang đến văn phòng Hart Courier gần nhất, hoặc gọi 482-555-0711 để hẹn lấy hàng.\n\nMột lần nữa cảm ơn cô đã đặt hàng.\n\nTrân trọng,\nPaul Denning, chủ cửa hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-02",
+          "no": 2,
+          "text": "What is Ms. Tran asked to do by October 15?",
+          "options": {
+            "A": "Replace a lost item",
+            "B": "Send a package",
+            "C": "Request a hard-sided case",
+            "D": "Contact Paul Denning by telephone"
+          },
+          "answer": "B",
+          "explain": "Hạn thuê hết ngày 15/10; cô Tran phải đóng gói máy và phụ kiện rồi gửi trả qua Hart Courier, tức là gửi một kiện hàng.",
+          "passage": {
+            "text": "Ryke Photography\nCameras and photography supplies\nwww.rykephotography.com\n\nAugust 15\n\nHien Tran\n324 Oak Lane\nColumbus, OH 43085\n\nDear Ms. Tran:\n\nThank you for renting from Ryke Photography. The camera you ordered from us will be arriving shortly (if you have not received it already). It has been thoroughly cleaned and tested prior to shipping. We are confident that you will be pleased with it, but if you experience any problems, please let us know right away.\n\nOur records indicate that we have sent you the following items:\n• 1 Manning 6100 camera (35-70 millimeter zoom lens)\n• 2 lens caps\n• 1 camera strap\n• 1 hard-sided case\n\nYour rental period ends on October 15. If the above items are not returned by this date, we will charge you for the purchase of replacement items.\n\nWhen returning the camera and the accessories, please pack them carefully inside the hard-sided case and insert the case in the shipping box provided. Affix the return label to the package and drop it off at your local Hart Courier office, or call 482-555-0711 to arrange for a pickup.\n\nThank you again for your order.\n\nSincerely,\nPaul Denning\nOwner"
+          },
+          "vi": "Kính gửi cô Tran,\n\nCảm ơn cô đã thuê đồ của Ryke Photography. Chiếc máy ảnh cô đặt sẽ sớm được giao tới (nếu cô chưa nhận được). Máy đã được lau chùi và kiểm tra kỹ lưỡng trước khi gửi đi. Chúng tôi tin cô sẽ hài lòng, nhưng nếu gặp bất kỳ trục trặc nào, xin báo cho chúng tôi ngay.\n\nTheo hồ sơ của chúng tôi, chúng tôi đã gửi cho cô các món sau:\n• 1 máy ảnh Manning 6100 (ống kính zoom 35-70 mm)\n• 2 nắp ống kính\n• 1 dây đeo máy ảnh\n• 1 hộp đựng cứng\n\nThời hạn thuê kết thúc vào ngày 15 tháng 10. Nếu các món trên không được trả lại trước ngày này, chúng tôi sẽ tính tiền mua đồ thay thế.\n\nKhi trả máy ảnh và phụ kiện, xin xếp cẩn thận vào hộp đựng cứng rồi đặt hộp vào thùng gửi hàng đã được cung cấp. Dán nhãn gửi trả lên kiện hàng và mang đến văn phòng Hart Courier gần nhất, hoặc gọi 482-555-0711 để hẹn lấy hàng.\n\nMột lần nữa cảm ơn cô đã đặt hàng.\n\nTrân trọng,\nPaul Denning, chủ cửa hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: permission to reprint an article",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-03",
+          "no": 3,
+          "text": "What is the purpose of the letter?",
+          "options": {
+            "A": "To authorize the use of an article",
+            "B": "To ask questions about a contract",
+            "C": "To submit an article for publication",
+            "D": "To request technological assistance"
+          },
+          "answer": "A",
+          "explain": "Thư báo tiến sĩ Giordano đã đồng ý cho in lại bài báo, tức là cho phép dùng một bài báo.",
+          "passage": {
+            "text": "Mei Hayashi\nPiedmont Publishing\n1452 Magellan Drive\nChicago, IL 60602\n\nSeptember 4\n\nDear Ms. Hayashi:\n\nRecently you requested permission on behalf of Charles Stanton, managing editor of Piedmont Publishing, to reprint \"Expanding X-Ray Capabilities\" by Dr. Mia Giordano. The article was originally published in Medical Technology Journal on April 8 of this year.\n\nYou indicated that the material requested will be used as a chapter in a medical encyclopedia currently being compiled by Mr. Stanton.\n\nAfter reviewing the request, Dr. Giordano has provided her permission; note that a credit line acknowledging Dr. Giordano's work must be included. The contract acknowledging legal permission for Piedmont Publishing to reprint the material is enclosed. This document specifies how Dr. Giordano should be credited.\n\nPlease refrain from utilizing or publishing any of the material until the contract has been completed, signed, and returned to me. If you have any questions, please call me at 847-555-0188 or e-mail kndiayc@smtpubs.org.\n\nSincerely,\nKarim Ndiaye\nKarim Ndiaye, Publisher\nSociety of Medical Technology\n\nEnclosure"
+          },
+          "vi": "Kính gửi cô Hayashi,\n\nGần đây cô đã thay mặt ông Charles Stanton, biên tập viên quản lý của Piedmont Publishing, xin phép in lại bài \"Mở rộng khả năng chụp X-quang\" của tiến sĩ Mia Giordano. Bài báo ban đầu được đăng trên tạp chí Medical Technology Journal ngày 8 tháng 4 năm nay.\n\nCô cho biết tài liệu được yêu cầu sẽ dùng làm một chương trong bộ bách khoa toàn thư y khoa mà ông Stanton đang biên soạn.\n\nSau khi xem xét yêu cầu, tiến sĩ Giordano đã đồng ý; xin lưu ý phải có dòng ghi công ghi nhận tác phẩm của tiến sĩ Giordano. Kèm theo thư là hợp đồng xác nhận quyền hợp pháp để Piedmont Publishing in lại tài liệu. Văn bản này quy định rõ cách ghi công cho tiến sĩ Giordano.\n\nXin đừng sử dụng hay xuất bản bất kỳ phần nào của tài liệu cho đến khi hợp đồng được điền đầy đủ, ký và gửi lại cho tôi. Nếu có câu hỏi, xin gọi cho tôi theo số 847-555-0188 hoặc gửi e-mail tới kndiayc@smtpubs.org.\n\nTrân trọng,\nKarim Ndiaye, nhà xuất bản\nHiệp hội Công nghệ Y khoa\n\nTài liệu đính kèm",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-04",
+          "no": 4,
+          "text": "Who most likely is Ms. Hayashi?",
+          "options": {
+            "A": "A member of the Society of Medical Technology",
+            "B": "A writer of technology articles",
+            "C": "An assistant to Mr. Stanton",
+            "D": "A student of Dr. Giordano’s"
+          },
+          "answer": "C",
+          "explain": "Cô Hayashi làm ở Piedmont Publishing và gửi yêu cầu thay mặt ông Stanton (biên tập viên quản lý), nên nhiều khả năng là trợ lý của ông.",
+          "passage": {
+            "text": "Mei Hayashi\nPiedmont Publishing\n1452 Magellan Drive\nChicago, IL 60602\n\nSeptember 4\n\nDear Ms. Hayashi:\n\nRecently you requested permission on behalf of Charles Stanton, managing editor of Piedmont Publishing, to reprint \"Expanding X-Ray Capabilities\" by Dr. Mia Giordano. The article was originally published in Medical Technology Journal on April 8 of this year.\n\nYou indicated that the material requested will be used as a chapter in a medical encyclopedia currently being compiled by Mr. Stanton.\n\nAfter reviewing the request, Dr. Giordano has provided her permission; note that a credit line acknowledging Dr. Giordano's work must be included. The contract acknowledging legal permission for Piedmont Publishing to reprint the material is enclosed. This document specifies how Dr. Giordano should be credited.\n\nPlease refrain from utilizing or publishing any of the material until the contract has been completed, signed, and returned to me. If you have any questions, please call me at 847-555-0188 or e-mail kndiayc@smtpubs.org.\n\nSincerely,\nKarim Ndiaye\nKarim Ndiaye, Publisher\nSociety of Medical Technology\n\nEnclosure"
+          },
+          "vi": "Kính gửi cô Hayashi,\n\nGần đây cô đã thay mặt ông Charles Stanton, biên tập viên quản lý của Piedmont Publishing, xin phép in lại bài \"Mở rộng khả năng chụp X-quang\" của tiến sĩ Mia Giordano. Bài báo ban đầu được đăng trên tạp chí Medical Technology Journal ngày 8 tháng 4 năm nay.\n\nCô cho biết tài liệu được yêu cầu sẽ dùng làm một chương trong bộ bách khoa toàn thư y khoa mà ông Stanton đang biên soạn.\n\nSau khi xem xét yêu cầu, tiến sĩ Giordano đã đồng ý; xin lưu ý phải có dòng ghi công ghi nhận tác phẩm của tiến sĩ Giordano. Kèm theo thư là hợp đồng xác nhận quyền hợp pháp để Piedmont Publishing in lại tài liệu. Văn bản này quy định rõ cách ghi công cho tiến sĩ Giordano.\n\nXin đừng sử dụng hay xuất bản bất kỳ phần nào của tài liệu cho đến khi hợp đồng được điền đầy đủ, ký và gửi lại cho tôi. Nếu có câu hỏi, xin gọi cho tôi theo số 847-555-0188 hoặc gửi e-mail tới kndiayc@smtpubs.org.\n\nTrân trọng,\nKarim Ndiaye, nhà xuất bản\nHiệp hội Công nghệ Y khoa\n\nTài liệu đính kèm",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-05",
+          "no": 5,
+          "text": "What must be returned to Mr. Ndiaye?",
+          "options": {
+            "A": "A medical journal",
+            "B": "A legal document",
+            "C": "A credit application",
+            "D": "A subscription form"
+          },
+          "answer": "B",
+          "explain": "Hợp đồng xác nhận quyền hợp pháp phải được điền, ký và gửi lại cho ông Ndiaye — đó là một văn bản pháp lý.",
+          "passage": {
+            "text": "Mei Hayashi\nPiedmont Publishing\n1452 Magellan Drive\nChicago, IL 60602\n\nSeptember 4\n\nDear Ms. Hayashi:\n\nRecently you requested permission on behalf of Charles Stanton, managing editor of Piedmont Publishing, to reprint \"Expanding X-Ray Capabilities\" by Dr. Mia Giordano. The article was originally published in Medical Technology Journal on April 8 of this year.\n\nYou indicated that the material requested will be used as a chapter in a medical encyclopedia currently being compiled by Mr. Stanton.\n\nAfter reviewing the request, Dr. Giordano has provided her permission; note that a credit line acknowledging Dr. Giordano's work must be included. The contract acknowledging legal permission for Piedmont Publishing to reprint the material is enclosed. This document specifies how Dr. Giordano should be credited.\n\nPlease refrain from utilizing or publishing any of the material until the contract has been completed, signed, and returned to me. If you have any questions, please call me at 847-555-0188 or e-mail kndiayc@smtpubs.org.\n\nSincerely,\nKarim Ndiaye\nKarim Ndiaye, Publisher\nSociety of Medical Technology\n\nEnclosure"
+          },
+          "vi": "Kính gửi cô Hayashi,\n\nGần đây cô đã thay mặt ông Charles Stanton, biên tập viên quản lý của Piedmont Publishing, xin phép in lại bài \"Mở rộng khả năng chụp X-quang\" của tiến sĩ Mia Giordano. Bài báo ban đầu được đăng trên tạp chí Medical Technology Journal ngày 8 tháng 4 năm nay.\n\nCô cho biết tài liệu được yêu cầu sẽ dùng làm một chương trong bộ bách khoa toàn thư y khoa mà ông Stanton đang biên soạn.\n\nSau khi xem xét yêu cầu, tiến sĩ Giordano đã đồng ý; xin lưu ý phải có dòng ghi công ghi nhận tác phẩm của tiến sĩ Giordano. Kèm theo thư là hợp đồng xác nhận quyền hợp pháp để Piedmont Publishing in lại tài liệu. Văn bản này quy định rõ cách ghi công cho tiến sĩ Giordano.\n\nXin đừng sử dụng hay xuất bản bất kỳ phần nào của tài liệu cho đến khi hợp đồng được điền đầy đủ, ký và gửi lại cho tôi. Nếu có câu hỏi, xin gọi cho tôi theo số 847-555-0188 hoặc gửi e-mail tới kndiayc@smtpubs.org.\n\nTrân trọng,\nKarim Ndiaye, nhà xuất bản\nHiệp hội Công nghệ Y khoa\n\nTài liệu đính kèm",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: a thank-you for a company visit",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-06",
+          "no": 6,
+          "text": "What is the purpose of this letter?",
+          "options": {
+            "A": "To commend a company employee",
+            "B": "To authorize an official visit",
+            "C": "To arrange for a discussion",
+            "D": "To explore future collaborations"
+          },
+          "answer": "A",
+          "explain": "Cả thư khen ông Shinawakra: sắp xếp chuyến thăm bổ ích, trình bày chuyên nghiệp, phong thái tốt — tức là khen ngợi một nhân viên.",
+          "passage": {
+            "text": "Department of International Business\nBangkok Business University\n1855 Henry Dunant Road * Bangkok 10330\n\nMarch 30\n\nMs. S. Veratanavanit\nDiwikar Oil and Gas Corporation\nBangkok\n\nDear Ms. Veratanavanit,\n\nI am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation. Mr. Shinawakra planned a very interesting round-table discussion in the morning with several of your senior executives responsible for strategy implementation, concentrating in particular upon consumer behavior, cost dynamics, and corporate social responsibility—some of my students' particular areas of interest.\n\nAfter eating lunch with the group, Mr. Shinawakra presented a very professional summary of career opportunities in corporate Thailand, especially at Diwikar Corporation. As a former executive of Diwikar, I was pleased that he did such an excellent job representing the company. We were all extremely impressed by his professional demeanor and the attention he gave to many details of the visit.\n\nVery truly yours,\nThaksin Panupong"
+          },
+          "vi": "Kính gửi bà Veratanavanit,\n\nTôi viết thư này để cảm ơn bà đã cho phép ông Shinawakra, nhân viên của bà, sắp xếp một chuyến thăm rất bổ ích cho mười lăm học viên cao học và giảng viên của Đại học Kinh doanh Bangkok tới Tập đoàn Dầu khí Diwikar. Ông Shinawakra đã lên kế hoạch cho một buổi thảo luận bàn tròn rất thú vị vào buổi sáng với một số giám đốc cấp cao phụ trách triển khai chiến lược, tập trung đặc biệt vào hành vi người tiêu dùng, biến động chi phí và trách nhiệm xã hội của doanh nghiệp — những lĩnh vực mà một số sinh viên của tôi đặc biệt quan tâm.\n\nSau khi ăn trưa cùng đoàn, ông Shinawakra đã trình bày một bản tóm tắt rất chuyên nghiệp về cơ hội nghề nghiệp trong các doanh nghiệp Thái Lan, đặc biệt là tại Diwikar. Là một cựu giám đốc của Diwikar, tôi rất vui vì ông ấy đã đại diện công ty xuất sắc như vậy. Tất cả chúng tôi đều rất ấn tượng với phong thái chuyên nghiệp và sự chú ý của ông ấy tới nhiều chi tiết của chuyến thăm.\n\nTrân trọng,\nThaksin Panupong",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-07",
+          "no": 7,
+          "text": "Where does Thaksin Panupong work?",
+          "options": {
+            "A": "At an accounting office",
+            "B": "At a travel agency",
+            "C": "At a university",
+            "D": "At an engineering firm"
+          },
+          "answer": "C",
+          "explain": "Thư in tiêu đề Khoa Kinh doanh Quốc tế, Đại học Kinh doanh Bangkok, và người viết nhắc tới \"my students\".",
+          "passage": {
+            "text": "Department of International Business\nBangkok Business University\n1855 Henry Dunant Road * Bangkok 10330\n\nMarch 30\n\nMs. S. Veratanavanit\nDiwikar Oil and Gas Corporation\nBangkok\n\nDear Ms. Veratanavanit,\n\nI am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation. Mr. Shinawakra planned a very interesting round-table discussion in the morning with several of your senior executives responsible for strategy implementation, concentrating in particular upon consumer behavior, cost dynamics, and corporate social responsibility—some of my students' particular areas of interest.\n\nAfter eating lunch with the group, Mr. Shinawakra presented a very professional summary of career opportunities in corporate Thailand, especially at Diwikar Corporation. As a former executive of Diwikar, I was pleased that he did such an excellent job representing the company. We were all extremely impressed by his professional demeanor and the attention he gave to many details of the visit.\n\nVery truly yours,\nThaksin Panupong"
+          },
+          "vi": "Kính gửi bà Veratanavanit,\n\nTôi viết thư này để cảm ơn bà đã cho phép ông Shinawakra, nhân viên của bà, sắp xếp một chuyến thăm rất bổ ích cho mười lăm học viên cao học và giảng viên của Đại học Kinh doanh Bangkok tới Tập đoàn Dầu khí Diwikar. Ông Shinawakra đã lên kế hoạch cho một buổi thảo luận bàn tròn rất thú vị vào buổi sáng với một số giám đốc cấp cao phụ trách triển khai chiến lược, tập trung đặc biệt vào hành vi người tiêu dùng, biến động chi phí và trách nhiệm xã hội của doanh nghiệp — những lĩnh vực mà một số sinh viên của tôi đặc biệt quan tâm.\n\nSau khi ăn trưa cùng đoàn, ông Shinawakra đã trình bày một bản tóm tắt rất chuyên nghiệp về cơ hội nghề nghiệp trong các doanh nghiệp Thái Lan, đặc biệt là tại Diwikar. Là một cựu giám đốc của Diwikar, tôi rất vui vì ông ấy đã đại diện công ty xuất sắc như vậy. Tất cả chúng tôi đều rất ấn tượng với phong thái chuyên nghiệp và sự chú ý của ông ấy tới nhiều chi tiết của chuyến thăm.\n\nTrân trọng,\nThaksin Panupong",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-08",
+          "no": 8,
+          "text": "Which of the following did the visitors NOT do in the afternoon?",
+          "options": {
+            "A": "Eat lunch with Mr. Shinawakra",
+            "B": "Take a tour of Diwikar Corporation",
+            "C": "Learn about corporate Thailand",
+            "D": "Hear about career opportunities"
+          },
+          "answer": "B",
+          "explain": "Thư chỉ nhắc ăn trưa và nghe tóm tắt về cơ hội nghề nghiệp trong doanh nghiệp Thái Lan; không hề nói đến việc đi tham quan công ty.",
+          "passage": {
+            "text": "Department of International Business\nBangkok Business University\n1855 Henry Dunant Road * Bangkok 10330\n\nMarch 30\n\nMs. S. Veratanavanit\nDiwikar Oil and Gas Corporation\nBangkok\n\nDear Ms. Veratanavanit,\n\nI am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation. Mr. Shinawakra planned a very interesting round-table discussion in the morning with several of your senior executives responsible for strategy implementation, concentrating in particular upon consumer behavior, cost dynamics, and corporate social responsibility—some of my students' particular areas of interest.\n\nAfter eating lunch with the group, Mr. Shinawakra presented a very professional summary of career opportunities in corporate Thailand, especially at Diwikar Corporation. As a former executive of Diwikar, I was pleased that he did such an excellent job representing the company. We were all extremely impressed by his professional demeanor and the attention he gave to many details of the visit.\n\nVery truly yours,\nThaksin Panupong"
+          },
+          "vi": "Kính gửi bà Veratanavanit,\n\nTôi viết thư này để cảm ơn bà đã cho phép ông Shinawakra, nhân viên của bà, sắp xếp một chuyến thăm rất bổ ích cho mười lăm học viên cao học và giảng viên của Đại học Kinh doanh Bangkok tới Tập đoàn Dầu khí Diwikar. Ông Shinawakra đã lên kế hoạch cho một buổi thảo luận bàn tròn rất thú vị vào buổi sáng với một số giám đốc cấp cao phụ trách triển khai chiến lược, tập trung đặc biệt vào hành vi người tiêu dùng, biến động chi phí và trách nhiệm xã hội của doanh nghiệp — những lĩnh vực mà một số sinh viên của tôi đặc biệt quan tâm.\n\nSau khi ăn trưa cùng đoàn, ông Shinawakra đã trình bày một bản tóm tắt rất chuyên nghiệp về cơ hội nghề nghiệp trong các doanh nghiệp Thái Lan, đặc biệt là tại Diwikar. Là một cựu giám đốc của Diwikar, tôi rất vui vì ông ấy đã đại diện công ty xuất sắc như vậy. Tất cả chúng tôi đều rất ấn tượng với phong thái chuyên nghiệp và sự chú ý của ông ấy tới nhiều chi tiết của chuyến thăm.\n\nTrân trọng,\nThaksin Panupong",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-09",
+          "no": 9,
+          "text": "What does Thaksin Panupong say about Mr. Shinawakra?",
+          "options": {
+            "A": "He works in the human resources department.",
+            "B": "He has a good sense of humor.",
+            "C": "His position is senior executive.",
+            "D": "He is attentive to detail."
+          },
+          "answer": "D",
+          "explain": "\"the attention he gave to many details of the visit\" — ông ấy chú ý tới chi tiết.",
+          "passage": {
+            "text": "Department of International Business\nBangkok Business University\n1855 Henry Dunant Road * Bangkok 10330\n\nMarch 30\n\nMs. S. Veratanavanit\nDiwikar Oil and Gas Corporation\nBangkok\n\nDear Ms. Veratanavanit,\n\nI am writing to thank you for authorizing Mr. Shinawakra of your staff to arrange a very fruitful visit by fifteen graduate students and faculty from the Bangkok Business University to the Diwikar Oil and Gas Corporation. Mr. Shinawakra planned a very interesting round-table discussion in the morning with several of your senior executives responsible for strategy implementation, concentrating in particular upon consumer behavior, cost dynamics, and corporate social responsibility—some of my students' particular areas of interest.\n\nAfter eating lunch with the group, Mr. Shinawakra presented a very professional summary of career opportunities in corporate Thailand, especially at Diwikar Corporation. As a former executive of Diwikar, I was pleased that he did such an excellent job representing the company. We were all extremely impressed by his professional demeanor and the attention he gave to many details of the visit.\n\nVery truly yours,\nThaksin Panupong"
+          },
+          "vi": "Kính gửi bà Veratanavanit,\n\nTôi viết thư này để cảm ơn bà đã cho phép ông Shinawakra, nhân viên của bà, sắp xếp một chuyến thăm rất bổ ích cho mười lăm học viên cao học và giảng viên của Đại học Kinh doanh Bangkok tới Tập đoàn Dầu khí Diwikar. Ông Shinawakra đã lên kế hoạch cho một buổi thảo luận bàn tròn rất thú vị vào buổi sáng với một số giám đốc cấp cao phụ trách triển khai chiến lược, tập trung đặc biệt vào hành vi người tiêu dùng, biến động chi phí và trách nhiệm xã hội của doanh nghiệp — những lĩnh vực mà một số sinh viên của tôi đặc biệt quan tâm.\n\nSau khi ăn trưa cùng đoàn, ông Shinawakra đã trình bày một bản tóm tắt rất chuyên nghiệp về cơ hội nghề nghiệp trong các doanh nghiệp Thái Lan, đặc biệt là tại Diwikar. Là một cựu giám đốc của Diwikar, tôi rất vui vì ông ấy đã đại diện công ty xuất sắc như vậy. Tất cả chúng tôi đều rất ấn tượng với phong thái chuyên nghiệp và sự chú ý của ông ấy tới nhiều chi tiết của chuyến thăm.\n\nTrân trọng,\nThaksin Panupong",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: a request for a speech",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-10",
+          "no": 10,
+          "text": "What can be inferred about Mr. Wong?",
+          "options": {
+            "A": "He attended a presentation given by Ms. Cha.",
+            "B": "He is seeking employees for his architecture firm.",
+            "C": "He would like to submit an article for publication.",
+            "D": "He wants to purchase a subscription to a trade journal."
+          },
+          "answer": "A",
+          "explain": "\"I very much enjoyed your talk at the International Conference…\" — ông Wong đã nghe bài thuyết trình của cô Cha.",
+          "passage": {
+            "text": "June 8\n\nMs. Eunice Cha\nProject Leader\nB.S. Consultants\n10-EE Central City Building\nBangalore 560 097 India\n\nDear Ms. Cha:\n\nI very much enjoyed your talk at the International Conference on Public Architecture in Mumbai. I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects.\n\nOur firm has recently been awarded the contract for the design of a large public swimming facility here in Singapore, and I think that our staff would be most interested in your remarks. It would provide useful discussion points for us as we plan and execute the project.\n\nWould it be possible to obtain a copy of your speech and reproduce twenty copies for our internal use only? We would not distribute any part of it outside the company without first obtaining permission from you, nor would we include any part of it in any of our presentations to external bodies without your permission and without acknowledgement of you as the author.\n\nIt might be that you have plans to publish the material in some form in a journal or trade magazine. If that is the case, I understand that you would not want to release it to us. In that event, would you please inform me when and where it will be published?\n\nThank you very much for your consideration and for a superb presentation.\n\nSincerely,\nDavid Wong\nPresident\nWong Architecture, Pty. Ltd."
+          },
+          "vi": "Kính gửi cô Cha,\n\nTôi rất thích bài nói của cô tại Hội nghị Quốc tế về Kiến trúc Công cộng ở Mumbai. Tôi đặc biệt đánh giá cao phần cô phân tích những yêu cầu cạnh tranh nhau giữa công năng, ngân sách và kỳ vọng của công chúng trong các dự án của thành phố.\n\nCông ty chúng tôi vừa giành được hợp đồng thiết kế một khu bể bơi công cộng lớn tại Singapore, và tôi nghĩ nhân viên của chúng tôi sẽ rất quan tâm tới những nhận xét của cô. Chúng sẽ là những điểm thảo luận hữu ích khi chúng tôi lên kế hoạch và thực hiện dự án.\n\nLiệu chúng tôi có thể xin một bản bài phát biểu của cô và sao thành hai mươi bản chỉ để dùng nội bộ được không? Chúng tôi sẽ không phát tán bất kỳ phần nào ra ngoài công ty khi chưa được cô cho phép, cũng không đưa phần nào vào bài thuyết trình với bên ngoài khi chưa có sự cho phép của cô và chưa ghi nhận cô là tác giả.\n\nCó thể cô dự định xuất bản tài liệu này dưới hình thức nào đó trên một tạp chí chuyên ngành hoặc tạp chí thương mại. Nếu vậy, tôi hiểu rằng cô sẽ không muốn đưa nó cho chúng tôi. Khi đó, cô có thể cho tôi biết tài liệu sẽ được đăng ở đâu và khi nào không?\n\nXin chân thành cảm ơn cô đã cân nhắc và vì bài thuyết trình tuyệt vời.\n\nTrân trọng,\nDavid Wong, chủ tịch\nWong Architecture, Pty. Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-11",
+          "no": 11,
+          "text": "What is Mr. Wong’s company working on?",
+          "options": {
+            "A": "Giving a public presentation",
+            "B": "Planning an awards ceremony",
+            "C": "The construction of a new conference center",
+            "D": "The design of a swimming pool"
+          },
+          "answer": "D",
+          "explain": "Công ty vừa nhận hợp đồng \"design of a large public swimming facility\" — thiết kế bể bơi.",
+          "passage": {
+            "text": "June 8\n\nMs. Eunice Cha\nProject Leader\nB.S. Consultants\n10-EE Central City Building\nBangalore 560 097 India\n\nDear Ms. Cha:\n\nI very much enjoyed your talk at the International Conference on Public Architecture in Mumbai. I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects.\n\nOur firm has recently been awarded the contract for the design of a large public swimming facility here in Singapore, and I think that our staff would be most interested in your remarks. It would provide useful discussion points for us as we plan and execute the project.\n\nWould it be possible to obtain a copy of your speech and reproduce twenty copies for our internal use only? We would not distribute any part of it outside the company without first obtaining permission from you, nor would we include any part of it in any of our presentations to external bodies without your permission and without acknowledgement of you as the author.\n\nIt might be that you have plans to publish the material in some form in a journal or trade magazine. If that is the case, I understand that you would not want to release it to us. In that event, would you please inform me when and where it will be published?\n\nThank you very much for your consideration and for a superb presentation.\n\nSincerely,\nDavid Wong\nPresident\nWong Architecture, Pty. Ltd."
+          },
+          "vi": "Kính gửi cô Cha,\n\nTôi rất thích bài nói của cô tại Hội nghị Quốc tế về Kiến trúc Công cộng ở Mumbai. Tôi đặc biệt đánh giá cao phần cô phân tích những yêu cầu cạnh tranh nhau giữa công năng, ngân sách và kỳ vọng của công chúng trong các dự án của thành phố.\n\nCông ty chúng tôi vừa giành được hợp đồng thiết kế một khu bể bơi công cộng lớn tại Singapore, và tôi nghĩ nhân viên của chúng tôi sẽ rất quan tâm tới những nhận xét của cô. Chúng sẽ là những điểm thảo luận hữu ích khi chúng tôi lên kế hoạch và thực hiện dự án.\n\nLiệu chúng tôi có thể xin một bản bài phát biểu của cô và sao thành hai mươi bản chỉ để dùng nội bộ được không? Chúng tôi sẽ không phát tán bất kỳ phần nào ra ngoài công ty khi chưa được cô cho phép, cũng không đưa phần nào vào bài thuyết trình với bên ngoài khi chưa có sự cho phép của cô và chưa ghi nhận cô là tác giả.\n\nCó thể cô dự định xuất bản tài liệu này dưới hình thức nào đó trên một tạp chí chuyên ngành hoặc tạp chí thương mại. Nếu vậy, tôi hiểu rằng cô sẽ không muốn đưa nó cho chúng tôi. Khi đó, cô có thể cho tôi biết tài liệu sẽ được đăng ở đâu và khi nào không?\n\nXin chân thành cảm ơn cô đã cân nhắc và vì bài thuyết trình tuyệt vời.\n\nTrân trọng,\nDavid Wong, chủ tịch\nWong Architecture, Pty. Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-12",
+          "no": 12,
+          "text": "What is Mr. Wong requesting?",
+          "options": {
+            "A": "The opportunity to bid on a contract",
+            "B": "Copies of published project design plans",
+            "C": "Permission to distribute information to his colleagues",
+            "D": "A review of a municipal annual budget"
+          },
+          "answer": "C",
+          "explain": "Ông xin bản bài phát biểu và sao 20 bản để dùng nội bộ, tức là xin phép chia sẻ cho đồng nghiệp.",
+          "passage": {
+            "text": "June 8\n\nMs. Eunice Cha\nProject Leader\nB.S. Consultants\n10-EE Central City Building\nBangalore 560 097 India\n\nDear Ms. Cha:\n\nI very much enjoyed your talk at the International Conference on Public Architecture in Mumbai. I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects.\n\nOur firm has recently been awarded the contract for the design of a large public swimming facility here in Singapore, and I think that our staff would be most interested in your remarks. It would provide useful discussion points for us as we plan and execute the project.\n\nWould it be possible to obtain a copy of your speech and reproduce twenty copies for our internal use only? We would not distribute any part of it outside the company without first obtaining permission from you, nor would we include any part of it in any of our presentations to external bodies without your permission and without acknowledgement of you as the author.\n\nIt might be that you have plans to publish the material in some form in a journal or trade magazine. If that is the case, I understand that you would not want to release it to us. In that event, would you please inform me when and where it will be published?\n\nThank you very much for your consideration and for a superb presentation.\n\nSincerely,\nDavid Wong\nPresident\nWong Architecture, Pty. Ltd."
+          },
+          "vi": "Kính gửi cô Cha,\n\nTôi rất thích bài nói của cô tại Hội nghị Quốc tế về Kiến trúc Công cộng ở Mumbai. Tôi đặc biệt đánh giá cao phần cô phân tích những yêu cầu cạnh tranh nhau giữa công năng, ngân sách và kỳ vọng của công chúng trong các dự án của thành phố.\n\nCông ty chúng tôi vừa giành được hợp đồng thiết kế một khu bể bơi công cộng lớn tại Singapore, và tôi nghĩ nhân viên của chúng tôi sẽ rất quan tâm tới những nhận xét của cô. Chúng sẽ là những điểm thảo luận hữu ích khi chúng tôi lên kế hoạch và thực hiện dự án.\n\nLiệu chúng tôi có thể xin một bản bài phát biểu của cô và sao thành hai mươi bản chỉ để dùng nội bộ được không? Chúng tôi sẽ không phát tán bất kỳ phần nào ra ngoài công ty khi chưa được cô cho phép, cũng không đưa phần nào vào bài thuyết trình với bên ngoài khi chưa có sự cho phép của cô và chưa ghi nhận cô là tác giả.\n\nCó thể cô dự định xuất bản tài liệu này dưới hình thức nào đó trên một tạp chí chuyên ngành hoặc tạp chí thương mại. Nếu vậy, tôi hiểu rằng cô sẽ không muốn đưa nó cho chúng tôi. Khi đó, cô có thể cho tôi biết tài liệu sẽ được đăng ở đâu và khi nào không?\n\nXin chân thành cảm ơn cô đã cân nhắc và vì bài thuyết trình tuyệt vời.\n\nTrân trọng,\nDavid Wong, chủ tịch\nWong Architecture, Pty. Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-13",
+          "no": 13,
+          "text": "The word “trade” in paragraph 4, line 1, is closest in meaning to",
+          "options": {
+            "A": "exchange",
+            "B": "diligence",
+            "C": "industry",
+            "D": "substitute"
+          },
+          "answer": "C",
+          "explain": "\"trade magazine\" là tạp chí của một ngành nghề, nên \"trade\" gần nghĩa với \"industry\" (ngành).",
+          "passage": {
+            "text": "June 8\n\nMs. Eunice Cha\nProject Leader\nB.S. Consultants\n10-EE Central City Building\nBangalore 560 097 India\n\nDear Ms. Cha:\n\nI very much enjoyed your talk at the International Conference on Public Architecture in Mumbai. I especially appreciated your assessment of the competing demands of function, budget, and public expectations on municipal projects.\n\nOur firm has recently been awarded the contract for the design of a large public swimming facility here in Singapore, and I think that our staff would be most interested in your remarks. It would provide useful discussion points for us as we plan and execute the project.\n\nWould it be possible to obtain a copy of your speech and reproduce twenty copies for our internal use only? We would not distribute any part of it outside the company without first obtaining permission from you, nor would we include any part of it in any of our presentations to external bodies without your permission and without acknowledgement of you as the author.\n\nIt might be that you have plans to publish the material in some form in a journal or trade magazine. If that is the case, I understand that you would not want to release it to us. In that event, would you please inform me when and where it will be published?\n\nThank you very much for your consideration and for a superb presentation.\n\nSincerely,\nDavid Wong\nPresident\nWong Architecture, Pty. Ltd."
+          },
+          "vi": "Kính gửi cô Cha,\n\nTôi rất thích bài nói của cô tại Hội nghị Quốc tế về Kiến trúc Công cộng ở Mumbai. Tôi đặc biệt đánh giá cao phần cô phân tích những yêu cầu cạnh tranh nhau giữa công năng, ngân sách và kỳ vọng của công chúng trong các dự án của thành phố.\n\nCông ty chúng tôi vừa giành được hợp đồng thiết kế một khu bể bơi công cộng lớn tại Singapore, và tôi nghĩ nhân viên của chúng tôi sẽ rất quan tâm tới những nhận xét của cô. Chúng sẽ là những điểm thảo luận hữu ích khi chúng tôi lên kế hoạch và thực hiện dự án.\n\nLiệu chúng tôi có thể xin một bản bài phát biểu của cô và sao thành hai mươi bản chỉ để dùng nội bộ được không? Chúng tôi sẽ không phát tán bất kỳ phần nào ra ngoài công ty khi chưa được cô cho phép, cũng không đưa phần nào vào bài thuyết trình với bên ngoài khi chưa có sự cho phép của cô và chưa ghi nhận cô là tác giả.\n\nCó thể cô dự định xuất bản tài liệu này dưới hình thức nào đó trên một tạp chí chuyên ngành hoặc tạp chí thương mại. Nếu vậy, tôi hiểu rằng cô sẽ không muốn đưa nó cho chúng tôi. Khi đó, cô có thể cho tôi biết tài liệu sẽ được đăng ở đâu và khi nào không?\n\nXin chân thành cảm ơn cô đã cân nhắc và vì bài thuyết trình tuyệt vời.\n\nTrân trọng,\nDavid Wong, chủ tịch\nWong Architecture, Pty. Ltd.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: urban gardening classes",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-14",
+          "no": 14,
+          "text": "What is the purpose of the letter?",
+          "options": {
+            "A": "To arrange a joint project between two organizations",
+            "B": "To inquire about future job openings",
+            "C": "To provide a schedule of gardening classes",
+            "D": "To finalize a merger of two organizations"
+          },
+          "answer": "A",
+          "explain": "Thư bàn việc hai tổ chức hợp tác mở lớp làm vườn và trình diễn ở trường học — sắp xếp một dự án chung. Lịch học chưa có nên không phải C.",
+          "passage": {
+            "text": "Crockett Center for Community Development\n28 Freeney Avenue\nAustin, TX 73301\n\nMay 16\n\nDathan Shaw, Urban Outreach Director\nIntegral Harvest\n184 Van Buren Street\nDenver, CO 80210\n\nDear Mr. Shaw:\n\nI enjoyed our meeting last week. I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crockett Center working with Integral Harvest.\n\nAs you know, the Crockett Center has recently turned its attention to urban gardening. On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them. Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents. If you will let me know your representatives' availability for teaching the classes and also the range of topics they will cover, I can prepare a class schedule and generate interest in it among residents. My assistant, Cindy Reed, will call you shortly for this information.\n\nAs for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule.\n\nI am sure that, if our two organizations work together, we can do much to promote urban gardening as a rewarding and healthful endeavor.\n\nYours sincerely,\nLetitia Price, Executive Director\nCrockett Center for Community Development"
+          },
+          "vi": "Kính gửi ông Shaw,\n\nTôi rất vui về cuộc gặp tuần trước của chúng ta. Tôi không biết tổ chức phi lợi nhuận nào khác làm một việc quan trọng cho nông nghiệp hoàn toàn tự nhiên như tổ chức của ông, và tôi rất hào hứng với triển vọng Trung tâm Crockett hợp tác với Integral Harvest.\n\nNhư ông biết, Trung tâm Crockett gần đây đã chuyển sự chú ý sang làm vườn ở đô thị. Ở mảng này, ưu tiên chính là mở rộng các khu vườn cộng đồng hiện có ở Austin và lập thêm vườn mới ở những khu dân cư chưa có. Vì vậy, tôi muốn triển khai các lớp làm vườn mà chúng ta đã bàn trong cuộc họp, do đại diện của Integral Harvest dạy tại chỗ và cư dân Austin tham gia. Nếu ông cho tôi biết lịch rảnh của các đại diện để dạy và các chủ đề họ sẽ dạy, tôi có thể lập lịch học và thu hút sự quan tâm của cư dân. Trợ lý của tôi, Cindy Reed, sẽ sớm gọi cho ông để lấy những thông tin này.\n\nVề đề xuất của ông để đại diện Integral Harvest trình diễn cách làm vườn hữu cơ cho học sinh tiểu học ở Austin, từ sau cuộc gặp tôi đã nói chuyện với một số quản lý trường học. Có vẻ nhiều trường có câu lạc bộ làm vườn, nên cả học sinh lẫn giáo viên sẽ là những khán giả dễ tiếp thu. Chúng ta hãy bàn thêm đề xuất này trong cuộc họp tới, do cô Reed sắp xếp.\n\nTôi tin rằng nếu hai tổ chức cùng làm việc, chúng ta có thể làm được nhiều điều để quảng bá việc làm vườn đô thị như một hoạt động bổ ích và tốt cho sức khỏe.\n\nTrân trọng,\nLetitia Price, giám đốc điều hành\nTrung tâm Phát triển Cộng đồng Crockett",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-15",
+          "no": 15,
+          "text": "What is stated as one of the Crockett Center’s goals?",
+          "options": {
+            "A": "To find gardens located outside Austin",
+            "B": "To increase attendance at gardening club meetings",
+            "C": "To establish new community gardens",
+            "D": "To sell produce at neighborhood markets"
+          },
+          "answer": "C",
+          "explain": "\"to found new ones in neighborhoods currently lacking them\" — lập thêm vườn cộng đồng mới.",
+          "passage": {
+            "text": "Crockett Center for Community Development\n28 Freeney Avenue\nAustin, TX 73301\n\nMay 16\n\nDathan Shaw, Urban Outreach Director\nIntegral Harvest\n184 Van Buren Street\nDenver, CO 80210\n\nDear Mr. Shaw:\n\nI enjoyed our meeting last week. I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crockett Center working with Integral Harvest.\n\nAs you know, the Crockett Center has recently turned its attention to urban gardening. On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them. Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents. If you will let me know your representatives' availability for teaching the classes and also the range of topics they will cover, I can prepare a class schedule and generate interest in it among residents. My assistant, Cindy Reed, will call you shortly for this information.\n\nAs for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule.\n\nI am sure that, if our two organizations work together, we can do much to promote urban gardening as a rewarding and healthful endeavor.\n\nYours sincerely,\nLetitia Price, Executive Director\nCrockett Center for Community Development"
+          },
+          "vi": "Kính gửi ông Shaw,\n\nTôi rất vui về cuộc gặp tuần trước của chúng ta. Tôi không biết tổ chức phi lợi nhuận nào khác làm một việc quan trọng cho nông nghiệp hoàn toàn tự nhiên như tổ chức của ông, và tôi rất hào hứng với triển vọng Trung tâm Crockett hợp tác với Integral Harvest.\n\nNhư ông biết, Trung tâm Crockett gần đây đã chuyển sự chú ý sang làm vườn ở đô thị. Ở mảng này, ưu tiên chính là mở rộng các khu vườn cộng đồng hiện có ở Austin và lập thêm vườn mới ở những khu dân cư chưa có. Vì vậy, tôi muốn triển khai các lớp làm vườn mà chúng ta đã bàn trong cuộc họp, do đại diện của Integral Harvest dạy tại chỗ và cư dân Austin tham gia. Nếu ông cho tôi biết lịch rảnh của các đại diện để dạy và các chủ đề họ sẽ dạy, tôi có thể lập lịch học và thu hút sự quan tâm của cư dân. Trợ lý của tôi, Cindy Reed, sẽ sớm gọi cho ông để lấy những thông tin này.\n\nVề đề xuất của ông để đại diện Integral Harvest trình diễn cách làm vườn hữu cơ cho học sinh tiểu học ở Austin, từ sau cuộc gặp tôi đã nói chuyện với một số quản lý trường học. Có vẻ nhiều trường có câu lạc bộ làm vườn, nên cả học sinh lẫn giáo viên sẽ là những khán giả dễ tiếp thu. Chúng ta hãy bàn thêm đề xuất này trong cuộc họp tới, do cô Reed sắp xếp.\n\nTôi tin rằng nếu hai tổ chức cùng làm việc, chúng ta có thể làm được nhiều điều để quảng bá việc làm vườn đô thị như một hoạt động bổ ích và tốt cho sức khỏe.\n\nTrân trọng,\nLetitia Price, giám đốc điều hành\nTrung tâm Phát triển Cộng đồng Crockett",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-16",
+          "no": 16,
+          "text": "What subject was most likely discussed when Mr. Shaw and Ms. Price met?",
+          "options": {
+            "A": "Integral Harvest’s reputation among gardeners",
+            "B": "Attitudes toward all-natural agriculture",
+            "C": "A government proposal to build new schools",
+            "D": "Gardening classes for Austin residents"
+          },
+          "answer": "D",
+          "explain": "\"the gardening classes we discussed in our meeting … attended by Austin community residents\".",
+          "passage": {
+            "text": "Crockett Center for Community Development\n28 Freeney Avenue\nAustin, TX 73301\n\nMay 16\n\nDathan Shaw, Urban Outreach Director\nIntegral Harvest\n184 Van Buren Street\nDenver, CO 80210\n\nDear Mr. Shaw:\n\nI enjoyed our meeting last week. I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crockett Center working with Integral Harvest.\n\nAs you know, the Crockett Center has recently turned its attention to urban gardening. On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them. Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents. If you will let me know your representatives' availability for teaching the classes and also the range of topics they will cover, I can prepare a class schedule and generate interest in it among residents. My assistant, Cindy Reed, will call you shortly for this information.\n\nAs for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule.\n\nI am sure that, if our two organizations work together, we can do much to promote urban gardening as a rewarding and healthful endeavor.\n\nYours sincerely,\nLetitia Price, Executive Director\nCrockett Center for Community Development"
+          },
+          "vi": "Kính gửi ông Shaw,\n\nTôi rất vui về cuộc gặp tuần trước của chúng ta. Tôi không biết tổ chức phi lợi nhuận nào khác làm một việc quan trọng cho nông nghiệp hoàn toàn tự nhiên như tổ chức của ông, và tôi rất hào hứng với triển vọng Trung tâm Crockett hợp tác với Integral Harvest.\n\nNhư ông biết, Trung tâm Crockett gần đây đã chuyển sự chú ý sang làm vườn ở đô thị. Ở mảng này, ưu tiên chính là mở rộng các khu vườn cộng đồng hiện có ở Austin và lập thêm vườn mới ở những khu dân cư chưa có. Vì vậy, tôi muốn triển khai các lớp làm vườn mà chúng ta đã bàn trong cuộc họp, do đại diện của Integral Harvest dạy tại chỗ và cư dân Austin tham gia. Nếu ông cho tôi biết lịch rảnh của các đại diện để dạy và các chủ đề họ sẽ dạy, tôi có thể lập lịch học và thu hút sự quan tâm của cư dân. Trợ lý của tôi, Cindy Reed, sẽ sớm gọi cho ông để lấy những thông tin này.\n\nVề đề xuất của ông để đại diện Integral Harvest trình diễn cách làm vườn hữu cơ cho học sinh tiểu học ở Austin, từ sau cuộc gặp tôi đã nói chuyện với một số quản lý trường học. Có vẻ nhiều trường có câu lạc bộ làm vườn, nên cả học sinh lẫn giáo viên sẽ là những khán giả dễ tiếp thu. Chúng ta hãy bàn thêm đề xuất này trong cuộc họp tới, do cô Reed sắp xếp.\n\nTôi tin rằng nếu hai tổ chức cùng làm việc, chúng ta có thể làm được nhiều điều để quảng bá việc làm vườn đô thị như một hoạt động bổ ích và tốt cho sức khỏe.\n\nTrân trọng,\nLetitia Price, giám đốc điều hành\nTrung tâm Phát triển Cộng đồng Crockett",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-17",
+          "no": 17,
+          "text": "Why will Ms. Reed contact Mr. Shaw?",
+          "options": {
+            "A": "To give him contact information for school administrators",
+            "B": "To postpone a meeting until the following week",
+            "C": "To determine the availability of instructors",
+            "D": "To ask him about a new gardening method"
+          },
+          "answer": "C",
+          "explain": "Cô Reed sẽ gọi để hỏi lịch rảnh của các đại diện sẽ dạy lớp — tức là người hướng dẫn.",
+          "passage": {
+            "text": "Crockett Center for Community Development\n28 Freeney Avenue\nAustin, TX 73301\n\nMay 16\n\nDathan Shaw, Urban Outreach Director\nIntegral Harvest\n184 Van Buren Street\nDenver, CO 80210\n\nDear Mr. Shaw:\n\nI enjoyed our meeting last week. I know of no other non-profit organization that performs such a vital service for all-natural agriculture as yours does, and I am enthusiastic about the prospect of the Crockett Center working with Integral Harvest.\n\nAs you know, the Crockett Center has recently turned its attention to urban gardening. On this front, the main priorities are to expand existing community gardens in Austin and to found new ones in neighborhoods currently lacking them. Therefore, I would like to proceed with the gardening classes we discussed in our meeting, to be taught on-site by Integral Harvest representatives and attended by Austin community residents. If you will let me know your representatives' availability for teaching the classes and also the range of topics they will cover, I can prepare a class schedule and generate interest in it among residents. My assistant, Cindy Reed, will call you shortly for this information.\n\nAs for your proposal that Integral Harvest representatives demonstrate organic gardening to elementary school students here in Austin, since our meeting I have spoken with several school administrators. It seems that a number of the schools have gardening clubs, so students and teachers alike should make a receptive audience. Let us discuss this proposal further in our next meeting, which Ms. Reed will schedule.\n\nI am sure that, if our two organizations work together, we can do much to promote urban gardening as a rewarding and healthful endeavor.\n\nYours sincerely,\nLetitia Price, Executive Director\nCrockett Center for Community Development"
+          },
+          "vi": "Kính gửi ông Shaw,\n\nTôi rất vui về cuộc gặp tuần trước của chúng ta. Tôi không biết tổ chức phi lợi nhuận nào khác làm một việc quan trọng cho nông nghiệp hoàn toàn tự nhiên như tổ chức của ông, và tôi rất hào hứng với triển vọng Trung tâm Crockett hợp tác với Integral Harvest.\n\nNhư ông biết, Trung tâm Crockett gần đây đã chuyển sự chú ý sang làm vườn ở đô thị. Ở mảng này, ưu tiên chính là mở rộng các khu vườn cộng đồng hiện có ở Austin và lập thêm vườn mới ở những khu dân cư chưa có. Vì vậy, tôi muốn triển khai các lớp làm vườn mà chúng ta đã bàn trong cuộc họp, do đại diện của Integral Harvest dạy tại chỗ và cư dân Austin tham gia. Nếu ông cho tôi biết lịch rảnh của các đại diện để dạy và các chủ đề họ sẽ dạy, tôi có thể lập lịch học và thu hút sự quan tâm của cư dân. Trợ lý của tôi, Cindy Reed, sẽ sớm gọi cho ông để lấy những thông tin này.\n\nVề đề xuất của ông để đại diện Integral Harvest trình diễn cách làm vườn hữu cơ cho học sinh tiểu học ở Austin, từ sau cuộc gặp tôi đã nói chuyện với một số quản lý trường học. Có vẻ nhiều trường có câu lạc bộ làm vườn, nên cả học sinh lẫn giáo viên sẽ là những khán giả dễ tiếp thu. Chúng ta hãy bàn thêm đề xuất này trong cuộc họp tới, do cô Reed sắp xếp.\n\nTôi tin rằng nếu hai tổ chức cùng làm việc, chúng ta có thể làm được nhiều điều để quảng bá việc làm vườn đô thị như một hoạt động bổ ích và tốt cho sức khỏe.\n\nTrân trọng,\nLetitia Price, giám đốc điều hành\nTrung tâm Phát triển Cộng đồng Crockett",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: new telephone rates",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-18",
+          "no": 18,
+          "text": "For whom is the letter intended?",
+          "options": {
+            "A": "People who have been Valsen Lines customers for an extended period",
+            "B": "People who recently switched from Valsen Lines to another telephone company",
+            "C": "Potential Valsen Lines employees",
+            "D": "Service technicians at Valsen Lines"
+          },
+          "answer": "A",
+          "explain": "\"loyal Valsen Lines subscriber\", \"our longtime customers\" — khách hàng lâu năm.",
+          "passage": {
+            "text": "February 1\n\nDear Valsen Lines Subscriber:\n\nThank you for being a loyal Valsen Lines subscriber. As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide. For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business.\n\nBeginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute. In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.\n\nWe wish to assure you that these changes are necessary and that we are committed to providing the best possible service to all our customers. As one measure taken to ensure that our service remains of the highest quality, we recently refurbished several of our communications receivers, which has improved the clarity of telephone calls on the Valsen Lines network. Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative. These and other planned improvements over the next few months are our way of showing you that we at Valsen Line value your continued business.\n\nSincerely,\nRashna Richards\nVice President, Customer Relations"
+          },
+          "vi": "Kính gửi quý khách hàng của Valsen Lines,\n\nCảm ơn quý khách đã luôn gắn bó với Valsen Lines. Như quý khách biết, một trong những ưu tiên hàng đầu của chúng tôi là cập nhật cho khách hàng lâu năm mọi thay đổi hay cải tiến trong dịch vụ. Vì vậy, chúng tôi viết thư này để thông báo một số thay đổi trong chính sách giá có thể ảnh hưởng tới việc kinh doanh của quý khách.\n\nTừ ngày 20 tháng 2, cước gọi quốc tế trong giờ làm việc thông thường sẽ tăng từ 14 xu lên 16 xu mỗi phút. Cước của mọi cuộc gọi quốc tế khác cũng tăng từ 9 xu lên 11 xu mỗi phút. Ngoài ra, cuộc gọi nội hạt trong giờ làm việc sẽ không còn là 5 xu mỗi phút mà là 6 xu mỗi phút. Tuy nhiên, mọi mức cước khác giữ nguyên. Xin lưu ý giờ làm việc thông thường là từ 8 giờ sáng đến 6 giờ chiều, thứ Hai đến thứ Sáu.\n\nChúng tôi xin cam đoan những thay đổi này là cần thiết và chúng tôi cam kết mang tới dịch vụ tốt nhất cho mọi khách hàng. Để bảo đảm chất lượng dịch vụ luôn ở mức cao nhất, gần đây chúng tôi đã tân trang một số bộ thu tín hiệu, giúp cuộc gọi trên mạng Valsen Lines rõ hơn. Hơn nữa, ngày 15 tháng 3, chúng tôi sẽ mở một trung tâm chăm sóc khách hàng mới qua điện thoại, giúp giảm thời gian khách phải chờ để nói chuyện với nhân viên. Những cải tiến này và các cải tiến khác trong vài tháng tới là cách chúng tôi thể hiện sự trân trọng việc quý khách tiếp tục sử dụng dịch vụ.\n\nTrân trọng,\nRashna Richards\nPhó chủ tịch phụ trách Quan hệ khách hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-19",
+          "no": 19,
+          "text": "When will a change in rates take effect?",
+          "options": {
+            "A": "On February 1",
+            "B": "On February 20",
+            "C": "On March 6",
+            "D": "On March 15"
+          },
+          "answer": "B",
+          "explain": "\"Beginning on February 20, the rate … will increase\".",
+          "passage": {
+            "text": "February 1\n\nDear Valsen Lines Subscriber:\n\nThank you for being a loyal Valsen Lines subscriber. As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide. For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business.\n\nBeginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute. In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.\n\nWe wish to assure you that these changes are necessary and that we are committed to providing the best possible service to all our customers. As one measure taken to ensure that our service remains of the highest quality, we recently refurbished several of our communications receivers, which has improved the clarity of telephone calls on the Valsen Lines network. Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative. These and other planned improvements over the next few months are our way of showing you that we at Valsen Line value your continued business.\n\nSincerely,\nRashna Richards\nVice President, Customer Relations"
+          },
+          "vi": "Kính gửi quý khách hàng của Valsen Lines,\n\nCảm ơn quý khách đã luôn gắn bó với Valsen Lines. Như quý khách biết, một trong những ưu tiên hàng đầu của chúng tôi là cập nhật cho khách hàng lâu năm mọi thay đổi hay cải tiến trong dịch vụ. Vì vậy, chúng tôi viết thư này để thông báo một số thay đổi trong chính sách giá có thể ảnh hưởng tới việc kinh doanh của quý khách.\n\nTừ ngày 20 tháng 2, cước gọi quốc tế trong giờ làm việc thông thường sẽ tăng từ 14 xu lên 16 xu mỗi phút. Cước của mọi cuộc gọi quốc tế khác cũng tăng từ 9 xu lên 11 xu mỗi phút. Ngoài ra, cuộc gọi nội hạt trong giờ làm việc sẽ không còn là 5 xu mỗi phút mà là 6 xu mỗi phút. Tuy nhiên, mọi mức cước khác giữ nguyên. Xin lưu ý giờ làm việc thông thường là từ 8 giờ sáng đến 6 giờ chiều, thứ Hai đến thứ Sáu.\n\nChúng tôi xin cam đoan những thay đổi này là cần thiết và chúng tôi cam kết mang tới dịch vụ tốt nhất cho mọi khách hàng. Để bảo đảm chất lượng dịch vụ luôn ở mức cao nhất, gần đây chúng tôi đã tân trang một số bộ thu tín hiệu, giúp cuộc gọi trên mạng Valsen Lines rõ hơn. Hơn nữa, ngày 15 tháng 3, chúng tôi sẽ mở một trung tâm chăm sóc khách hàng mới qua điện thoại, giúp giảm thời gian khách phải chờ để nói chuyện với nhân viên. Những cải tiến này và các cải tiến khác trong vài tháng tới là cách chúng tôi thể hiện sự trân trọng việc quý khách tiếp tục sử dụng dịch vụ.\n\nTrân trọng,\nRashna Richards\nPhó chủ tịch phụ trách Quan hệ khách hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-20",
+          "no": 20,
+          "text": "What type of call will NOT be affected by the rate changes?",
+          "options": {
+            "A": "A local call on a Saturday evening",
+            "B": "A local call on a Monday afternoon",
+            "C": "An international call on a Sunday morning",
+            "D": "An international call on a Tuesday afternoon"
+          },
+          "answer": "A",
+          "explain": "Chỉ cuộc gọi nội hạt trong giờ làm việc (thứ Hai–thứ Sáu, 8h–18h) mới tăng giá; gọi nội hạt tối thứ Bảy nằm ngoài giờ làm việc nên giữ nguyên. Mọi cuộc gọi quốc tế đều tăng.",
+          "passage": {
+            "text": "February 1\n\nDear Valsen Lines Subscriber:\n\nThank you for being a loyal Valsen Lines subscriber. As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide. For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business.\n\nBeginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute. In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.\n\nWe wish to assure you that these changes are necessary and that we are committed to providing the best possible service to all our customers. As one measure taken to ensure that our service remains of the highest quality, we recently refurbished several of our communications receivers, which has improved the clarity of telephone calls on the Valsen Lines network. Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative. These and other planned improvements over the next few months are our way of showing you that we at Valsen Line value your continued business.\n\nSincerely,\nRashna Richards\nVice President, Customer Relations"
+          },
+          "vi": "Kính gửi quý khách hàng của Valsen Lines,\n\nCảm ơn quý khách đã luôn gắn bó với Valsen Lines. Như quý khách biết, một trong những ưu tiên hàng đầu của chúng tôi là cập nhật cho khách hàng lâu năm mọi thay đổi hay cải tiến trong dịch vụ. Vì vậy, chúng tôi viết thư này để thông báo một số thay đổi trong chính sách giá có thể ảnh hưởng tới việc kinh doanh của quý khách.\n\nTừ ngày 20 tháng 2, cước gọi quốc tế trong giờ làm việc thông thường sẽ tăng từ 14 xu lên 16 xu mỗi phút. Cước của mọi cuộc gọi quốc tế khác cũng tăng từ 9 xu lên 11 xu mỗi phút. Ngoài ra, cuộc gọi nội hạt trong giờ làm việc sẽ không còn là 5 xu mỗi phút mà là 6 xu mỗi phút. Tuy nhiên, mọi mức cước khác giữ nguyên. Xin lưu ý giờ làm việc thông thường là từ 8 giờ sáng đến 6 giờ chiều, thứ Hai đến thứ Sáu.\n\nChúng tôi xin cam đoan những thay đổi này là cần thiết và chúng tôi cam kết mang tới dịch vụ tốt nhất cho mọi khách hàng. Để bảo đảm chất lượng dịch vụ luôn ở mức cao nhất, gần đây chúng tôi đã tân trang một số bộ thu tín hiệu, giúp cuộc gọi trên mạng Valsen Lines rõ hơn. Hơn nữa, ngày 15 tháng 3, chúng tôi sẽ mở một trung tâm chăm sóc khách hàng mới qua điện thoại, giúp giảm thời gian khách phải chờ để nói chuyện với nhân viên. Những cải tiến này và các cải tiến khác trong vài tháng tới là cách chúng tôi thể hiện sự trân trọng việc quý khách tiếp tục sử dụng dịch vụ.\n\nTrân trọng,\nRashna Richards\nPhó chủ tịch phụ trách Quan hệ khách hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-21",
+          "no": 21,
+          "text": "What is the company planning to do next month?",
+          "options": {
+            "A": "Improve its Web site",
+            "B": "Replace old equipment",
+            "C": "Offer a special discount",
+            "D": "Open a new office"
+          },
+          "answer": "D",
+          "explain": "Thư viết ngày 1/2; tháng sau là ngày 15/3 công ty \"set up a new customer service call center\" — mở một trung tâm (văn phòng) mới. Việc tân trang bộ thu đã làm rồi.",
+          "passage": {
+            "text": "February 1\n\nDear Valsen Lines Subscriber:\n\nThank you for being a loyal Valsen Lines subscriber. As you know, we consider it one of our highest priorities to keep our longtime customers up-to-date on all changes or improvements in the services we provide. For this reason, we are writing to inform you of some changes to our pricing policies that may affect your business.\n\nBeginning on February 20, the rate for international calls placed during regular business hours will increase from 14 cents per minute to 16 cents per minute. Also, the rate for all other international calls will be raised, from 9 cents per minute to 11 cents per minute. In addition, local calls during business hours will no longer cost 5 cents per minute. Instead, they will be 6 cents per minute. However, all other rates will remain the same. Please also note that regular business hours are defined as 8 A.M. to 6 P.M., Monday through Friday.\n\nWe wish to assure you that these changes are necessary and that we are committed to providing the best possible service to all our customers. As one measure taken to ensure that our service remains of the highest quality, we recently refurbished several of our communications receivers, which has improved the clarity of telephone calls on the Valsen Lines network. Moreover, on March 15, we will set up a new customer service call center that will help reduce the amount of time customers have to wait to speak to a representative. These and other planned improvements over the next few months are our way of showing you that we at Valsen Line value your continued business.\n\nSincerely,\nRashna Richards\nVice President, Customer Relations"
+          },
+          "vi": "Kính gửi quý khách hàng của Valsen Lines,\n\nCảm ơn quý khách đã luôn gắn bó với Valsen Lines. Như quý khách biết, một trong những ưu tiên hàng đầu của chúng tôi là cập nhật cho khách hàng lâu năm mọi thay đổi hay cải tiến trong dịch vụ. Vì vậy, chúng tôi viết thư này để thông báo một số thay đổi trong chính sách giá có thể ảnh hưởng tới việc kinh doanh của quý khách.\n\nTừ ngày 20 tháng 2, cước gọi quốc tế trong giờ làm việc thông thường sẽ tăng từ 14 xu lên 16 xu mỗi phút. Cước của mọi cuộc gọi quốc tế khác cũng tăng từ 9 xu lên 11 xu mỗi phút. Ngoài ra, cuộc gọi nội hạt trong giờ làm việc sẽ không còn là 5 xu mỗi phút mà là 6 xu mỗi phút. Tuy nhiên, mọi mức cước khác giữ nguyên. Xin lưu ý giờ làm việc thông thường là từ 8 giờ sáng đến 6 giờ chiều, thứ Hai đến thứ Sáu.\n\nChúng tôi xin cam đoan những thay đổi này là cần thiết và chúng tôi cam kết mang tới dịch vụ tốt nhất cho mọi khách hàng. Để bảo đảm chất lượng dịch vụ luôn ở mức cao nhất, gần đây chúng tôi đã tân trang một số bộ thu tín hiệu, giúp cuộc gọi trên mạng Valsen Lines rõ hơn. Hơn nữa, ngày 15 tháng 3, chúng tôi sẽ mở một trung tâm chăm sóc khách hàng mới qua điện thoại, giúp giảm thời gian khách phải chờ để nói chuyện với nhân viên. Những cải tiến này và các cải tiến khác trong vài tháng tới là cách chúng tôi thể hiện sự trân trọng việc quý khách tiếp tục sử dụng dịch vụ.\n\nTrân trọng,\nRashna Richards\nPhó chủ tịch phụ trách Quan hệ khách hàng",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-read7",
+      "code": "read7",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 2: a reference letter",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "questions": [
+        {
+          "id": "d16-read-22",
+          "no": 22,
+          "text": "What accomplishment earned Ms. Lee a promotion to revenue accounting manager?",
+          "options": {
+            "A": "She reduced corporate spending.",
+            "B": "She launched a new business unit.",
+            "C": "She developed a new statistical tool.",
+            "D": "She increased employees’ productivity."
+          },
+          "answer": "C",
+          "explain": "Bảng tính phân tích thống kê cô tạo ra \"was directly responsible for her promotion\" — một công cụ thống kê mới.",
+          "passage": {
+            "text": "THE BALESTRI CORPORATION\n\n7 February\n\nMichi Hashimoto\nHashimoto Consultants, Inc.\n32 Joo Koon Circle\nSingapore 628990\n\nDear Mr. Hashimoto:\n\nI am responding to your reference request for Ms. Mou Lee, who was an employee of the Balestri Corporation up until two years ago. It is my sincere pleasure to recommend Ms. Lee for a position with your company. — [1] —.\n\nMs. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills. For example, she created a unique spreadsheet for conducting statistical analyses that was used to help one of our top clients become more profitable. — [2] —. This was directly responsible for her promotion.\n\nAs revenue accounting manager, Ms. Lee's leadership contributed substantially to increased productivity in her department. During her first year in that role, her team was commended for finding cost savings in four consecutive quarters. — [3] —. In addition, she is a talented speaker, and she successfully represented the Balestri Corporation at a number of client meetings.\n\nAfter six years with the Balestri Corporation, Ms. Lee resigned to pursue an advanced degree. — [4] —. She was an asset to the Balestri Corporation, and I am confident she will be an asset to your company as well.\n\nRegards,\nNelson Groth, Vice President of Finance"
+          },
+          "vi": "Kính gửi ông Hashimoto,\n\nTôi phản hồi yêu cầu tham chiếu của ông về cô Mou Lee, người đã làm việc tại Tập đoàn Balestri cho đến hai năm trước. Tôi rất vui được giới thiệu cô Lee cho một vị trí tại công ty ông. — [1] —.\n\nCô Lee được tuyển làm nhân viên ngân sách nhưng chỉ sau một năm đã được thăng chức lên quản lý kế toán doanh thu nhờ kỹ năng giải quyết vấn đề xuất sắc. Ví dụ, cô đã tạo ra một bảng tính độc đáo để làm phân tích thống kê, được dùng để giúp một trong những khách hàng lớn nhất của chúng tôi có lãi hơn. — [2] —. Chính điều này trực tiếp giúp cô được thăng chức.\n\nTrên cương vị quản lý kế toán doanh thu, khả năng lãnh đạo của cô Lee đã góp phần đáng kể vào việc tăng năng suất của phòng. Trong năm đầu ở vị trí này, nhóm của cô được khen ngợi vì tìm ra cách tiết kiệm chi phí trong bốn quý liên tiếp. — [3] —. Ngoài ra, cô là một diễn giả có tài và đã đại diện thành công cho Tập đoàn Balestri trong nhiều cuộc họp với khách hàng.\n\nSau sáu năm làm việc tại Tập đoàn Balestri, cô Lee đã nghỉ việc để học lên bằng cấp cao hơn. — [4] —. Cô là một tài sản quý của Tập đoàn Balestri, và tôi tin cô cũng sẽ là tài sản quý của công ty ông.\n\nTrân trọng,\nNelson Groth, Phó chủ tịch phụ trách Tài chính",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-23",
+          "no": 23,
+          "text": "For how long was Ms. Lee a budget associate at the Balestri Corporation?",
+          "options": {
+            "A": "One year",
+            "B": "Two years",
+            "C": "Four years",
+            "D": "Six years"
+          },
+          "answer": "A",
+          "explain": "\"was promoted in just one year to revenue accounting manager\" — cô làm nhân viên ngân sách một năm.",
+          "passage": {
+            "text": "THE BALESTRI CORPORATION\n\n7 February\n\nMichi Hashimoto\nHashimoto Consultants, Inc.\n32 Joo Koon Circle\nSingapore 628990\n\nDear Mr. Hashimoto:\n\nI am responding to your reference request for Ms. Mou Lee, who was an employee of the Balestri Corporation up until two years ago. It is my sincere pleasure to recommend Ms. Lee for a position with your company. — [1] —.\n\nMs. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills. For example, she created a unique spreadsheet for conducting statistical analyses that was used to help one of our top clients become more profitable. — [2] —. This was directly responsible for her promotion.\n\nAs revenue accounting manager, Ms. Lee's leadership contributed substantially to increased productivity in her department. During her first year in that role, her team was commended for finding cost savings in four consecutive quarters. — [3] —. In addition, she is a talented speaker, and she successfully represented the Balestri Corporation at a number of client meetings.\n\nAfter six years with the Balestri Corporation, Ms. Lee resigned to pursue an advanced degree. — [4] —. She was an asset to the Balestri Corporation, and I am confident she will be an asset to your company as well.\n\nRegards,\nNelson Groth, Vice President of Finance"
+          },
+          "vi": "Kính gửi ông Hashimoto,\n\nTôi phản hồi yêu cầu tham chiếu của ông về cô Mou Lee, người đã làm việc tại Tập đoàn Balestri cho đến hai năm trước. Tôi rất vui được giới thiệu cô Lee cho một vị trí tại công ty ông. — [1] —.\n\nCô Lee được tuyển làm nhân viên ngân sách nhưng chỉ sau một năm đã được thăng chức lên quản lý kế toán doanh thu nhờ kỹ năng giải quyết vấn đề xuất sắc. Ví dụ, cô đã tạo ra một bảng tính độc đáo để làm phân tích thống kê, được dùng để giúp một trong những khách hàng lớn nhất của chúng tôi có lãi hơn. — [2] —. Chính điều này trực tiếp giúp cô được thăng chức.\n\nTrên cương vị quản lý kế toán doanh thu, khả năng lãnh đạo của cô Lee đã góp phần đáng kể vào việc tăng năng suất của phòng. Trong năm đầu ở vị trí này, nhóm của cô được khen ngợi vì tìm ra cách tiết kiệm chi phí trong bốn quý liên tiếp. — [3] —. Ngoài ra, cô là một diễn giả có tài và đã đại diện thành công cho Tập đoàn Balestri trong nhiều cuộc họp với khách hàng.\n\nSau sáu năm làm việc tại Tập đoàn Balestri, cô Lee đã nghỉ việc để học lên bằng cấp cao hơn. — [4] —. Cô là một tài sản quý của Tập đoàn Balestri, và tôi tin cô cũng sẽ là tài sản quý của công ty ông.\n\nTrân trọng,\nNelson Groth, Phó chủ tịch phụ trách Tài chính",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-24",
+          "no": 24,
+          "text": "According to Mr. Groth, why did Ms. Lee leave the Balestri Corporation?",
+          "options": {
+            "A": "She had little opportunity for advancement.",
+            "B": "She was not adequately compensated.",
+            "C": "She accepted a position with a competitor.",
+            "D": "She enrolled in an educational program."
+          },
+          "answer": "D",
+          "explain": "\"Ms. Lee resigned to pursue an advanced degree\" — cô nghỉ để đi học.",
+          "passage": {
+            "text": "THE BALESTRI CORPORATION\n\n7 February\n\nMichi Hashimoto\nHashimoto Consultants, Inc.\n32 Joo Koon Circle\nSingapore 628990\n\nDear Mr. Hashimoto:\n\nI am responding to your reference request for Ms. Mou Lee, who was an employee of the Balestri Corporation up until two years ago. It is my sincere pleasure to recommend Ms. Lee for a position with your company. — [1] —.\n\nMs. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills. For example, she created a unique spreadsheet for conducting statistical analyses that was used to help one of our top clients become more profitable. — [2] —. This was directly responsible for her promotion.\n\nAs revenue accounting manager, Ms. Lee's leadership contributed substantially to increased productivity in her department. During her first year in that role, her team was commended for finding cost savings in four consecutive quarters. — [3] —. In addition, she is a talented speaker, and she successfully represented the Balestri Corporation at a number of client meetings.\n\nAfter six years with the Balestri Corporation, Ms. Lee resigned to pursue an advanced degree. — [4] —. She was an asset to the Balestri Corporation, and I am confident she will be an asset to your company as well.\n\nRegards,\nNelson Groth, Vice President of Finance"
+          },
+          "vi": "Kính gửi ông Hashimoto,\n\nTôi phản hồi yêu cầu tham chiếu của ông về cô Mou Lee, người đã làm việc tại Tập đoàn Balestri cho đến hai năm trước. Tôi rất vui được giới thiệu cô Lee cho một vị trí tại công ty ông. — [1] —.\n\nCô Lee được tuyển làm nhân viên ngân sách nhưng chỉ sau một năm đã được thăng chức lên quản lý kế toán doanh thu nhờ kỹ năng giải quyết vấn đề xuất sắc. Ví dụ, cô đã tạo ra một bảng tính độc đáo để làm phân tích thống kê, được dùng để giúp một trong những khách hàng lớn nhất của chúng tôi có lãi hơn. — [2] —. Chính điều này trực tiếp giúp cô được thăng chức.\n\nTrên cương vị quản lý kế toán doanh thu, khả năng lãnh đạo của cô Lee đã góp phần đáng kể vào việc tăng năng suất của phòng. Trong năm đầu ở vị trí này, nhóm của cô được khen ngợi vì tìm ra cách tiết kiệm chi phí trong bốn quý liên tiếp. — [3] —. Ngoài ra, cô là một diễn giả có tài và đã đại diện thành công cho Tập đoàn Balestri trong nhiều cuộc họp với khách hàng.\n\nSau sáu năm làm việc tại Tập đoàn Balestri, cô Lee đã nghỉ việc để học lên bằng cấp cao hơn. — [4] —. Cô là một tài sản quý của Tập đoàn Balestri, và tôi tin cô cũng sẽ là tài sản quý của công ty ông.\n\nTrân trọng,\nNelson Groth, Phó chủ tịch phụ trách Tài chính",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d16-read-25",
+          "no": 25,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “The technique she created for this client was adopted for use throughout the company.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "B",
+          "explain": "Câu nói về \"technique she created for this client\", nên phải đứng ngay sau câu kể bảng tính cô tạo để giúp một khách hàng lớn, tức vị trí [2].",
+          "passage": {
+            "text": "THE BALESTRI CORPORATION\n\n7 February\n\nMichi Hashimoto\nHashimoto Consultants, Inc.\n32 Joo Koon Circle\nSingapore 628990\n\nDear Mr. Hashimoto:\n\nI am responding to your reference request for Ms. Mou Lee, who was an employee of the Balestri Corporation up until two years ago. It is my sincere pleasure to recommend Ms. Lee for a position with your company. — [1] —.\n\nMs. Lee was hired as a budget associate but was promoted in just one year to revenue accounting manager because of her exceptional problem-solving skills. For example, she created a unique spreadsheet for conducting statistical analyses that was used to help one of our top clients become more profitable. — [2] —. This was directly responsible for her promotion.\n\nAs revenue accounting manager, Ms. Lee's leadership contributed substantially to increased productivity in her department. During her first year in that role, her team was commended for finding cost savings in four consecutive quarters. — [3] —. In addition, she is a talented speaker, and she successfully represented the Balestri Corporation at a number of client meetings.\n\nAfter six years with the Balestri Corporation, Ms. Lee resigned to pursue an advanced degree. — [4] —. She was an asset to the Balestri Corporation, and I am confident she will be an asset to your company as well.\n\nRegards,\nNelson Groth, Vice President of Finance"
+          },
+          "vi": "Kính gửi ông Hashimoto,\n\nTôi phản hồi yêu cầu tham chiếu của ông về cô Mou Lee, người đã làm việc tại Tập đoàn Balestri cho đến hai năm trước. Tôi rất vui được giới thiệu cô Lee cho một vị trí tại công ty ông. — [1] —.\n\nCô Lee được tuyển làm nhân viên ngân sách nhưng chỉ sau một năm đã được thăng chức lên quản lý kế toán doanh thu nhờ kỹ năng giải quyết vấn đề xuất sắc. Ví dụ, cô đã tạo ra một bảng tính độc đáo để làm phân tích thống kê, được dùng để giúp một trong những khách hàng lớn nhất của chúng tôi có lãi hơn. — [2] —. Chính điều này trực tiếp giúp cô được thăng chức.\n\nTrên cương vị quản lý kế toán doanh thu, khả năng lãnh đạo của cô Lee đã góp phần đáng kể vào việc tăng năng suất của phòng. Trong năm đầu ở vị trí này, nhóm của cô được khen ngợi vì tìm ra cách tiết kiệm chi phí trong bốn quý liên tiếp. — [3] —. Ngoài ra, cô là một diễn giả có tài và đã đại diện thành công cho Tập đoàn Balestri trong nhiều cuộc họp với khách hàng.\n\nSau sáu năm làm việc tại Tập đoàn Balestri, cô Lee đã nghỉ việc để học lên bằng cấp cao hơn. — [4] —. Cô là một tài sản quý của Tập đoàn Balestri, và tôi tin cô cũng sẽ là tài sản quý của công ty ông.\n\nTrân trọng,\nNelson Groth, Phó chủ tịch phụ trách Tài chính",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

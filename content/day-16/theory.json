@@ -1,0 +1,96 @@
+{
+  "collection": "theory",
+  "day": "day-16",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d16-t-homework",
+      "type": "wordGroups",
+      "title": "Day 7 — homework and review",
+      "groups": {
+        "Review and vocabulary": [
+          "Ôn từ vựng Topic 1, 2, 3 và 25 từ đầu tiên của Topic 4 (Shipping) — 24 từ Shipping có trong mục từ vựng.",
+          "Học bộ 36 từ Quizlet Day 7 Part 7.",
+          "Xem lại BTVN Day 6 (Day 15 trong ứng dụng), check đáp án và nghe lại."
+        ],
+        "Listening and reading": [
+          "Chép chính tả phần Yes/No và Test 2.",
+          "Test 1 chỉ cần chọn đáp án đúng.",
+          "Làm bài Part 7 Section 2 Unit 2 (letter)."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d16-t-choice",
+      "type": "wordGroups",
+      "title": "Part 2 — Choice questions (or)",
+      "groups": {
+        "What the question asks": [
+          "Câu hỏi lựa chọn khá dễ nhận biết vì hai lựa chọn được nối với nhau bởi liên từ “or”."
+        ],
+        "Common responses": [
+          "Chọn 1 thứ trong 2: Should I call Jim or will you call him instead? → I think you’d better call him.",
+          "Chọn cả 2 (thường có từ “both”): Would you like to have steak or pasta for dinner? → Both. I’m starving.",
+          "Không chọn cái nào (thường có từ “neither”): Would you rather have cream or milk in your coffee? → Neither, thank you."
+        ],
+        "Either one is fine": [
+          "Either would be fine",
+          "Whatever you say",
+          "Anything is okay with me",
+          "Whichever you prefer",
+          "It doesn’t matter",
+          "It’s up to you"
+        ]
+      },
+      "source": "pdf"
+    },
+    {
+      "id": "d16-t-embedded",
+      "type": "wordGroups",
+      "title": "Part 2 — Embedded questions",
+      "groups": {
+        "Structure": [
+          "Trợ động từ + S + V + Từ để hỏi + S + V"
+        ],
+        "Examples": [
+          "Could you tell me how much it cost?",
+          "Do you know what time it is?"
+        ]
+      },
+      "source": "pdf"
+    },
+    {
+      "id": "d16-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 16 trong ứng dụng tương ứng Day 7 của giai đoạn 2."
+      ],
+      "links": [
+        {
+          "label": "Day 7 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1I2Wt8kYFIOhQQVhrKjY6VtIrwgieg1eH?usp=sharing"
+        },
+        {
+          "label": "Flashcard Topic 04 — Shipping",
+          "href": "https://drive.google.com/file/d/1YFUrIBqTfvLpXN8-ZLssuJm2buNsLkwx/view?usp=sharing"
+        },
+        {
+          "label": "Day 7 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005446076/day-7-p7-flash-cards/"
+        },
+        {
+          "label": "Review Day 6 reading",
+          "href": "/day/day-15/exercises"
+        },
+        {
+          "label": "Review Day 6 listening",
+          "href": "/day/day-15/listen"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

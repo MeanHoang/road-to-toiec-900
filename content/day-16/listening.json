@@ -1,0 +1,2581 @@
+{
+  "collection": "listening",
+  "day": "day-16",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d16-or",
+      "code": "or",
+      "title": "Part 2 — Choice and embedded questions",
+      "subtitle": "Transcribe the question and three responses, then check the teacher’s answer key.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": "/assets/day-16/audio/Orembedded-question.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-or-01",
+          "no": 1,
+          "audio": "/assets/day-16/audio/or/01.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Was this order placed online or over the phone?",
+            "A": "It was an online order",
+            "B": "A different client",
+            "C": "Thanks for your help"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-02",
+          "no": 2,
+          "audio": "/assets/day-16/audio/or/02.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you know who this jacket belongs to?",
+            "A": "Yes, very expensive",
+            "B": "No, where did you find it?",
+            "C": "It won't take too long"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-03",
+          "no": 3,
+          "audio": "/assets/day-16/audio/or/03.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Will the fliers be ready today or do you need more time to finish them?",
+            "A": "I'll start work on them now",
+            "B": "I don't know who's going",
+            "C": "Her flight's late"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-04",
+          "no": 4,
+          "audio": "/assets/day-16/audio/or/04.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you know when the next payment is due?",
+            "A": "The same amount as the last one",
+            "B": "On June 15th",
+            "C": "It's 400 dollars"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-05",
+          "no": 5,
+          "audio": "/assets/day-16/audio/or/05.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Are you ready to leave or are you still packing?",
+            "A": "The package arrived this morning",
+            "B": "Our flight isn't until 8",
+            "C": "Is Carlos leaving some for us?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-06",
+          "no": 6,
+          "audio": "/assets/day-16/audio/or/06.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I don't know which computer model to buy?",
+            "A": "What features are most important to you?",
+            "B": "Because mine stopped working",
+            "C": "No, I won't get it for a while"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-07",
+          "no": 7,
+          "audio": "/assets/day-16/audio/or/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Shall I contact you by email or by phone?",
+            "A": "Ok, I'll take a look at the contract",
+            "B": "Oh, did you?",
+            "C": "Actually, I'll be seeing you tomorrow"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-08",
+          "no": 8,
+          "audio": "/assets/day-16/audio/or/08.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do you know where I can get a cup of coffee?",
+            "A": "A nice-looking couple",
+            "B": "Yes, thanks. I'd love some",
+            "C": "At the café on the corner"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-09",
+          "no": 9,
+          "audio": "/assets/day-16/audio/or/09.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Should I contact her this week or next?",
+            "A": "A one-year contract",
+            "B": "She's going on vacation tomorrow",
+            "C": "It's the building next to ours"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-10",
+          "no": 10,
+          "audio": "/assets/day-16/audio/or/10.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "I haven't heard who the board chose as a chairperson?",
+            "A": "Tomorrow morning at the latest",
+            "B": "Please take a seat",
+            "C": "I believe it was Mr. Peterson"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-11",
+          "no": 11,
+          "audio": "/assets/day-16/audio/or/11.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Did you buy the coat online or from a shop?",
+            "A": "I never buy clothes without trying them on",
+            "B": "Do you have this in a smaller size",
+            "C": "No, the line isn't very long"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-12",
+          "no": 12,
+          "audio": "/assets/day-16/audio/or/12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Should I order the supplies now or wait until next week?",
+            "A": "A total of 75 dollars",
+            "B": "Actually I already sent the order",
+            "C": "It's in the supply closet"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-13",
+          "no": 13,
+          "audio": "/assets/day-16/audio/or/13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you know who was hired as the new program director?",
+            "A": "It hasn't been decided yet",
+            "B": "No, he didn't direct the show",
+            "C": "I think Ms. Shin likes that program"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-14",
+          "no": 14,
+          "audio": "/assets/day-16/audio/or/14.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you like to pay now or be billed later?",
+            "A": "Please send me a bill",
+            "B": "We're building another office",
+            "C": "Just a few copies"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-15",
+          "no": 15,
+          "audio": "/assets/day-16/audio/or/15.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you want me to take the highway or Parker Avenue?",
+            "A": "Won't the highway be faster?",
+            "B": "Let's get out of the hallway",
+            "C": "No, I don't want one, thanks"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-16",
+          "no": 16,
+          "audio": "/assets/day-16/audio/or/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Did you hear who's going to take over the manager's position?",
+            "A": "Near the window",
+            "B": "It isn't loud enough",
+            "C": "Yes, Mr. Liu, from Hong Kong"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-17",
+          "no": 17,
+          "audio": "/assets/day-16/audio/or/17.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do you have time to talk or does Mr. Navano need you?",
+            "A": "A quarter after ten",
+            "B": "No I don't have one",
+            "C": "Yes I can talk now"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-18",
+          "no": 18,
+          "audio": "/assets/day-16/audio/or/18.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Shall we repaint the lobby or the boardroom?",
+            "A": "There's some in the closet",
+            "B": "It has plenty of room",
+            "C": "We can afford to do both"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-19",
+          "no": 19,
+          "audio": "/assets/day-16/audio/or/19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do you know if all employees need to submit a time sheet?",
+            "A": "We had a really good time",
+            "B": "In the benefits department",
+            "C": "I'll ask Donna"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-20",
+          "no": 20,
+          "audio": "/assets/day-16/audio/or/20.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Does the train leave from Platform 24 or Platform 25?",
+            "A": "A window seat",
+            "B": "Let's check our tickets",
+            "C": "No, it's running on time"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-21",
+          "no": 21,
+          "audio": "/assets/day-16/audio/or/21.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do you think there'll be a company picnic this year?",
+            "A": "Maybe they'll be there",
+            "B": "For the last 10 years",
+            "C": "Yes, they've asked me to organize it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-22",
+          "no": 22,
+          "audio": "/assets/day-16/audio/or/22.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Should we take a group photo now or in the afternoon?",
+            "A": "On the stairs by the entrance is best",
+            "B": "The picture turned out really well",
+            "C": "Some people are leaving before noon"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-23",
+          "no": 23,
+          "audio": "/assets/day-16/audio/or/23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Can you tell me why there's an additional charge on my account?",
+            "A": "That's our service fee",
+            "B": "Yes, the battery is low",
+            "C": "Up to 3 times"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-24",
+          "no": 24,
+          "audio": "/assets/day-16/audio/or/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Should I work on the report at home tonight or can I finish it tomorrow?",
+            "A": "We left at 3",
+            "B": "Whichever you prefer",
+            "C": "Yes she can"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d16-or-25",
+          "no": 25,
+          "audio": "/assets/day-16/audio/or/25.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "I wonder who will be hired as an assistant manager, don't you?",
+            "A": "Sorry he can't assist you right now",
+            "B": "I think Mr. Brown has a good chance",
+            "C": "No thanks, I can manage it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-test3",
+      "code": "test3",
+      "title": "Part 2 — Test 3 (class)",
+      "subtitle": "Questions 7–31 from the class test. Choose the best response.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-test3-07",
+          "no": 7,
+          "audio": "/assets/day-16/audio/test/Test3_07.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What time does the restaurant close?",
+            "A": "At eleven o'clock.",
+            "B": "It's close to the library.",
+            "C": "No, it doesn't."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-08",
+          "no": 8,
+          "audio": "/assets/day-16/audio/test/Test3_08.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who should I see about updating the Langdon account?",
+            "A": "It's due by next Monday.",
+            "B": "Mr. Travis is in charge of that.",
+            "C": "For my laptop."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-09",
+          "no": 9,
+          "audio": "/assets/day-16/audio/test/Test3_09.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long will it take to fix the copy machine?",
+            "A": "About an hour",
+            "B": "Once every two weeks",
+            "C": "Sure, I can fix it"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-10",
+          "no": 10,
+          "audio": "/assets/day-16/audio/test/Test3_10.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Did you enjoy the dance performance last night?",
+            "A": "A ballet company from Argentina.",
+            "B": "Yes, it was even better than I expected.",
+            "C": "A few more nights."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-11",
+          "no": 11,
+          "audio": "/assets/day-16/audio/test/Test3_11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "You've sent the invitations, haven't you?",
+            "A": "Yes, I'll have some.",
+            "B": "Which bakery?",
+            "C": "No, Peter did."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-12",
+          "no": 12,
+          "audio": "/assets/day-16/audio/test/Test3_12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Can we try that Brazilian cafe tonight?",
+            "A": "There were a few more than that.",
+            "B": "I went there last week.",
+            "C": "A reservation for five."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-13",
+          "no": 13,
+          "audio": "/assets/day-16/audio/test/Test3_13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When will my paperwork be ready?",
+            "A": "On November 2nd.",
+            "B": "A variety of paper products.",
+            "C": "Yes, a 10% increase."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-14",
+          "no": 14,
+          "audio": "/assets/day-16/audio/test/Test3_14.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where's the entrance to the hotel?",
+            "A": "We've already booked the room.",
+            "B": "Do you offer a discount?",
+            "C": "Around the corner to the right."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-15",
+          "no": 15,
+          "audio": "/assets/day-16/audio/test/Test3_15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do you like your new apartment?",
+            "A": "I made an appointment yesterday.",
+            "B": "The third floor.",
+            "C": "The location is perfect."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-16",
+          "no": 16,
+          "audio": "/assets/day-16/audio/test/Test3_16.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Whose glasses are these?",
+            "A": "A history class.",
+            "B": "They're not mine.",
+            "C": "A stronger prescription."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-17",
+          "no": 17,
+          "audio": "/assets/day-16/audio/test/Test3_17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Could you take these packages to the Post Office?",
+            "A": "I'll be free after my conference call.",
+            "B": "They're packaged by the dozen.",
+            "C": "I haven't received any mail."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-18",
+          "no": 18,
+          "audio": "/assets/day-16/audio/test/Test3_18.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why is the street closed?",
+            "A": "Go straight ahead.",
+            "B": "It's nearby.",
+            "C": "Because they're doing repair work."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-19",
+          "no": 19,
+          "audio": "/assets/day-16/audio/test/Test3_19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Is the doctor in today?",
+            "A": "How often?",
+            "B": "That's not a good day.",
+            "C": "No, she's not."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-20",
+          "no": 20,
+          "audio": "/assets/day-16/audio/test/Test3_20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What's going on in the building next door?",
+            "A": "A reception's being held.",
+            "B": "But I just turned it off.",
+            "C": "I'm sure you're next."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-21",
+          "no": 21,
+          "audio": "/assets/day-16/audio/test/Test3_21.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "That theater always sells out quickly, doesn't it?",
+            "A": "I prefer comedies.",
+            "B": "We sat in the first row.",
+            "C": "True, so let's get our tickets now."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-22",
+          "no": 22,
+          "audio": "/assets/day-16/audio/test/Test3_22.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you want to fly to Sydney or go by train?",
+            "A": "You know I don't like flying.",
+            "B": "It was a pretty short trip.",
+            "C": "To attend my sister's graduation."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-23",
+          "no": 23,
+          "audio": "/assets/day-16/audio/test/Test3_23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where'd you find that lovely winter coat?",
+            "A": "Thank you. It was a gift.",
+            "B": "Every January.",
+            "C": "No, I haven't found them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-24",
+          "no": 24,
+          "audio": "/assets/day-16/audio/test/Test3_24.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Should we remind Ms. Woods to send us the budget report?",
+            "A": "I'd like to meet the reporter here.",
+            "B": "Sales projections for the first quarter.",
+            "C": "But the deadline isn't for another week."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-25",
+          "no": 25,
+          "audio": "/assets/day-16/audio/test/Test3_25.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When does Mr. Cho want to pick up his cake?",
+            "A": "I'll carry it to the car for you.",
+            "B": "He said he'd be in around three o'clock.",
+            "C": "For his colleagues."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-26",
+          "no": 26,
+          "audio": "/assets/day-16/audio/test/Test3_26.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "I haven't heard who the board chose as a chairperson.",
+            "A": "Tomorrow morning at the latest.",
+            "B": "Please take a seat.",
+            "C": "I believe it was Mr Peterson."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-27",
+          "no": 27,
+          "audio": "/assets/day-16/audio/test/Test3_27.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Will we focus on advertising in print media or online?",
+            "A": "They're waiting in line.",
+            "B": "Yes, it looks great.",
+            "C": "Let's see what the team thinks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-28",
+          "no": 28,
+          "audio": "/assets/day-16/audio/test/Test3_28.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you want to go to the art gallery opening on Friday evening?",
+            "A": "Sorry, I'll be out of town.",
+            "B": "I thought it was outstanding, too.",
+            "C": "Her most recent work."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-29",
+          "no": 29,
+          "audio": "/assets/day-16/audio/test/Test3_29.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "We'll have to cancel the company picnic.",
+            "A": "Two days before the event?",
+            "B": "Which catering service?",
+            "C": "Yes, they had one."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-30",
+          "no": 30,
+          "audio": "/assets/day-16/audio/test/Test3_30.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Don't you know how to use the new computer system?",
+            "A": "I was hoping you could train me.",
+            "B": "No, she doesn't use it.",
+            "C": "At the 4th Street branch."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test3-31",
+          "no": 31,
+          "audio": "/assets/day-16/audio/test/Test3_31.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why hasn't Jason been in the office all week?",
+            "A": "No, I haven't seen him.",
+            "B": "Typically until six o'clock or so.",
+            "C": "You'll have to ask his manager."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-yes-no",
+      "code": "yes-no",
+      "title": "Part 2 — Yes/No questions homework",
+      "subtitle": "Transcribe the question and three responses.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-yes-no-01",
+          "no": 1,
+          "audio": "/assets/day-16/audio/yes-no/01.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Would you like me to call a taxi for you?",
+            "A": "It's not very likely.",
+            "B": "No, thanks. I'd prefer to walk.",
+            "C": "I'll return his call then."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-02",
+          "no": 2,
+          "audio": "/assets/day-16/audio/yes-no/02.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Should we stay late tonight or work on this job tomorrow?",
+            "A": "I'm not free tomorrow.",
+            "B": "We walked through the lobby.",
+            "C": "Let's make him an offer."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-03",
+          "no": 3,
+          "audio": "/assets/day-16/audio/yes-no/03.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Those French lessons were very useful, weren't they?",
+            "A": "At the training center.",
+            "B": "It's held Monday and Wednesday.",
+            "C": "Yes, I really learned a lot."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-04",
+          "no": 4,
+          "audio": "/assets/day-16/audio/yes-no/04.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Aren't you supposed to be on holiday this week?",
+            "A": "No, I had a scheduling conflict.",
+            "B": "I go there with my family.",
+            "C": "They used to be."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-05",
+          "no": 5,
+          "audio": "/assets/day-16/audio/yes-no/05.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "You've gone through customs, haven't you?",
+            "A": "Is she one of our customers?",
+            "B": "Yes, it was faster than usual.",
+            "C": "I haven't received one yet."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-06",
+          "no": 6,
+          "audio": "/assets/day-16/audio/yes-no/06.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "I thought the discussion was helpful.",
+            "A": "Sure, help yourself.",
+            "B": "The quarterly reports.",
+            "C": "Yes, our goals seem clearer now."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-07",
+          "no": 7,
+          "audio": "/assets/day-16/audio/yes-no/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do I have to complete this application now?",
+            "A": "We're competing for market share.",
+            "B": "Yes, I confirmed my reservation.",
+            "C": "You can fill it out at home if you'd like."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-08",
+          "no": 8,
+          "audio": "/assets/day-16/audio/yes-no/08.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I think the Vice President should select the location.",
+            "A": "But she asked us to.",
+            "B": "A wide variety.",
+            "C": "We couldn't find them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-09",
+          "no": 9,
+          "audio": "/assets/day-16/audio/yes-no/09.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Your new assignment looks quite complicated.",
+            "A": "It's nicer than the old sign.",
+            "B": "I'll distribute them tomorrow.",
+            "C": "It's actually easier than it looks."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-10",
+          "no": 10,
+          "audio": "/assets/day-16/audio/yes-no/10.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Have the emergency exits been inspected?",
+            "A": "Only in an emergency.",
+            "B": "Through the main entrance.",
+            "C": "Yes, everything's fine."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-11",
+          "no": 11,
+          "audio": "/assets/day-16/audio/yes-no/11.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Do you have to phone your office now, or can you wait until later?",
+            "A": "I'd better do it before I forget.",
+            "B": "A waiter will be with you in a moment.",
+            "C": "Our new offices will be bigger."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-12",
+          "no": 12,
+          "audio": "/assets/day-16/audio/yes-no/12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Hasn't Mr. Chu finished compiling the data?",
+            "A": "Of course, you can borrow my calculator.",
+            "B": "He hasn't received all the figures yet.",
+            "C": "Sure, he can come by any time."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-13",
+          "no": 13,
+          "audio": "/assets/day-16/audio/yes-no/13.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you want me to schedule the press conference for Thursday or for Friday?",
+            "A": "A television reporter.",
+            "B": "I'd prefer Thursday.",
+            "C": "The latest press release."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-14",
+          "no": 14,
+          "audio": "/assets/day-16/audio/yes-no/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Michael, is this your coat?",
+            "A": "Because it's cold outside.",
+            "B": "No, mine's brown.",
+            "C": "A different postal code."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-15",
+          "no": 15,
+          "audio": "/assets/day-16/audio/yes-no/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Does Samir work in accounting or customer service?",
+            "A": "That's the right account number.",
+            "B": "How can I help you?",
+            "C": "He's a supervisor in customer service."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-16",
+          "no": 16,
+          "audio": "/assets/day-16/audio/yes-no/16.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "You manage this apartment complex, don't you?",
+            "A": "Yes, I have for 12 years.",
+            "B": "It's apartment 16.",
+            "C": "It wasn't that complicated."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-17",
+          "no": 17,
+          "audio": "/assets/day-16/audio/yes-no/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "My flight to Chicago's been delayed for six hours.",
+            "A": "Have you tried to get a different flight?",
+            "B": "Unless he's waiting at the airport.",
+            "C": "Sure, I'll put it on display."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-18",
+          "no": 18,
+          "audio": "/assets/day-16/audio/yes-no/18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Shouldn't we distribute these brochures?",
+            "A": "Black and white's fine.",
+            "B": "Not until more people get here.",
+            "C": "Martin designed them."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-19",
+          "no": 19,
+          "audio": "/assets/day-16/audio/yes-no/19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Let's order a bigger sign for the front door.",
+            "A": "What size should we get?",
+            "B": "No, in the bottom drawer.",
+            "C": "You can sign it later."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-yes-no-20",
+          "no": 20,
+          "audio": "/assets/day-16/audio/yes-no/20.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "The cafe's out of sandwiches.",
+            "A": "An extra slice of cheese.",
+            "B": "They open at 9.",
+            "C": "Try the soup instead."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-test1-p1",
+      "code": "test1-p1",
+      "title": "Test 1 — Part 1 photos",
+      "subtitle": "Homework: choose the statement that best describes each photo.",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-test1-p1-01",
+          "no": 1,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_01.mp3",
+          "image": "/assets/day-16/images/test1/01.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "She's filing papers.",
+            "B": "She's using a photocopier.",
+            "C": "She's turning on some lights.",
+            "D": "She's closing a cabinet."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p1-02",
+          "no": 2,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_02.mp3",
+          "image": "/assets/day-16/images/test1/02.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "The man's wrapping boxes in plastic.",
+            "B": "The man's repairing an air conditioning unit.",
+            "C": "The man's sitting in the driver's seat.",
+            "D": "The man's unlocking a gate."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p1-03",
+          "no": 3,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_03.mp3",
+          "image": "/assets/day-16/images/test1/03.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "A towel is hanging on a fence.",
+            "B": "Some plants have been placed in pots.",
+            "C": "Some chairs have been set around a table.",
+            "D": "The door to a house has been left open."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p1-04",
+          "no": 4,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_04.mp3",
+          "image": "/assets/day-16/images/test1/04.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "A woman is putting away a mobile phone.",
+            "B": "A cashier is collecting a payment.",
+            "C": "A man is discarding a newspaper.",
+            "D": "Some diners are seated across from each other."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p1-05",
+          "no": 5,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_05.mp3",
+          "image": "/assets/day-16/images/test1/05.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "A customer is choosing some floor tiles.",
+            "B": "A shop assistant is unfolding a pair of jeans.",
+            "C": "A woman is checking her appearance in a mirror.",
+            "D": "Some shoes are being lined up under a bench."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p1-06",
+          "no": 6,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_06.mp3",
+          "image": "/assets/day-16/images/test1/06.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "Signs are being posted at an intersection.",
+            "B": "Bricks are being replaced on a walkway.",
+            "C": "A man is using a lawnmower to cut the grass.",
+            "D": "A man is loading supplies into a wheelbarrow."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-test1-p2",
+      "code": "test1-p2",
+      "title": "Test 1 — Part 2 questions",
+      "subtitle": "Homework: choose the best response for questions 7–31.",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-test1-p2-07",
+          "no": 7,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Will you translate an email into Spanish for me?",
+            "A": "Three more chapters.",
+            "B": "No, I haven't sent it yet.",
+            "C": "Sure, let me see it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-08",
+          "no": 8,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_08.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How many tables did you reserve?",
+            "A": "Twelve of them.",
+            "B": "I'll be right there.",
+            "C": "For the awards dinner."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-09",
+          "no": 9,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_09.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where can I mail this letter?",
+            "A": "I don't have an envelope.",
+            "B": "At the post office down the street.",
+            "C": "No, not right now."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-10",
+          "no": 10,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_10.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Why did you come to the office earlier today?",
+            "A": "Because I had to finish a report.",
+            "B": "Usually at 8:30 in the morning.",
+            "C": "I'm sorry, but I can't."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-11",
+          "no": 11,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Have you opened the front entrance yet?",
+            "A": "I left it in the back.",
+            "B": "I saw them.",
+            "C": "No, I don't have a key."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-12",
+          "no": 12,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "You went to that museum last weekend, didn't you?",
+            "A": "I saw him on Sunday.",
+            "B": "I didn't have time.",
+            "C": "For a few months."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-13",
+          "no": 13,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How many interns do we need this summer?",
+            "A": "I think five will be enough.",
+            "B": "We'll place an advertisement.",
+            "C": "I'm well, thank you."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-14",
+          "no": 14,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_14.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What shift are you working on Saturday?",
+            "A": "The morning one.",
+            "B": "I can meet you there.",
+            "C": "Yes, we booked it in April."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-15",
+          "no": 15,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "My co-workers and I are going out for lunch tomorrow.",
+            "A": "It launched at 3.",
+            "B": "I had the chicken.",
+            "C": "That sounds nice."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-16",
+          "no": 16,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_16.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When does the plane to Seoul leave?",
+            "A": "No, I've never been.",
+            "B": "It's an hour behind schedule.",
+            "C": "From gate 52, I think."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-17",
+          "no": 17,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How will I know if the baseball game is cancelled?",
+            "A": "You could look on the team's website.",
+            "B": "Yes, I knew that.",
+            "C": "Because you chose a different date."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-18",
+          "no": 18,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Should we get the changes to this agreement in writing?",
+            "A": "Sorry, I don't have change.",
+            "B": "That's probably a good idea.",
+            "C": "I'll write each day."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-19",
+          "no": 19,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Will you create a chart to track our expenses this quarter?",
+            "A": "Yeah, I'll do that now.",
+            "B": "A quarterly fee.",
+            "C": "Try Track 46."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-20",
+          "no": 20,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_20.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where can I donate some old office equipment?",
+            "A": "Because it starts at nine o'clock.",
+            "B": "No, don't eat in here.",
+            "C": "What kind of equipment is it?"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-21",
+          "no": 21,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_21.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I'll lose my registration fee if I can't attend the workshop, right?",
+            "A": "I'm afraid so.",
+            "B": "Just over there on the right.",
+            "C": "Check the lost and found."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-22",
+          "no": 22,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_22.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Didn't Daniel accept the job offer?",
+            "A": "He'll let us know tomorrow.",
+            "B": "We expect a large crowd.",
+            "C": "Yes, I will."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-23",
+          "no": 23,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "That building's still under construction, isn't it?",
+            "A": "Maybe the site manager.",
+            "B": "Yes, it's due to be finished in October.",
+            "C": "Yes, it's on Level 6."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-24",
+          "no": 24,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Have we changed our paper supplier?",
+            "A": "A large inventory.",
+            "B": "I'm not sure.",
+            "C": "In the cupboard there."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-25",
+          "no": 25,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's exhibiting in the Central Art Gallery next month?",
+            "A": "Yes, it opens at 7 p.m.",
+            "B": "My friend Aziz is coming to see it.",
+            "C": "It's a group of young Japanese artists."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-26",
+          "no": 26,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_26.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Shall we repaint the lobby or the boardroom?",
+            "A": "There's some in the closet.",
+            "B": "It has plenty of room.",
+            "C": "We can afford to do both."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-27",
+          "no": 27,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_27.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Are you riding your bike to work today?",
+            "A": "Alfonso's writing the book.",
+            "B": "Only if the weather's nice.",
+            "C": "Yes, I'd like to work there."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-28",
+          "no": 28,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_28.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When do you think we'll hear if we've won the Jones account?",
+            "A": "I lost my accounting manual.",
+            "B": "One of our biggest clients.",
+            "C": "Ms. Watson might already know."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-29",
+          "no": 29,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_29.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "You'd better call the technician to repair the photocopier.",
+            "A": "Yes, overnight delivery.",
+            "B": "Hopefully it won't take him too long.",
+            "C": "Double-sided copies, please."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-30",
+          "no": 30,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_30.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I don't know which computer model to buy.",
+            "A": "What features are most important to you?",
+            "B": "Because mine stopped working.",
+            "C": "No, I won't get it for a while."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test1-p2-31",
+          "no": 31,
+          "audio": "/assets/day-16/audio/test-1-part-1-2/Test1_31.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Didn't you see the review of our restaurant?",
+            "A": "I haven't had time to read it yet.",
+            "B": "There's a great view from the dining room.",
+            "C": "A reservation for lunch on Saturday."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-test2-p1",
+      "code": "test2-p1",
+      "title": "Test 2 — Part 1 photo dictation",
+      "subtitle": "Homework: transcribe all four statements for each photo.",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": true,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-test2-p1-01",
+          "no": 1,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_01.mp3",
+          "image": "/assets/day-16/images/test2/01.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "He's parking a car.",
+            "B": "He's carrying groceries.",
+            "C": "He's entering a store.",
+            "D": "He's pushing a shopping cart."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p1-02",
+          "no": 2,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_02.mp3",
+          "image": "/assets/day-16/images/test2/02.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "A wall is being painted.",
+            "B": "Some plants have been placed in a row.",
+            "C": "A cement floor is being swept.",
+            "D": "Some boxes have been stacked in a corner."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p1-03",
+          "no": 3,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_03.mp3",
+          "image": "/assets/day-16/images/test2/03.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "One of the women is adjusting a bicycle seat.",
+            "B": "One of the women is drinking from a cup.",
+            "C": "The women are standing by a wooden railing.",
+            "D": "The women are climbing some stairs to a porch."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p1-04",
+          "no": 4,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_04.mp3",
+          "image": "/assets/day-16/images/test2/04.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "A table has plates of food on it.",
+            "B": "A display case is located near some steps.",
+            "C": "Some chairs have been moved into a corner.",
+            "D": "Some lights are being turned off."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p1-05",
+          "no": 5,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_05.mp3",
+          "image": "/assets/day-16/images/test2/05.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "A door has been propped open.",
+            "B": "Some people are replacing some glass.",
+            "C": "Workers are cleaning large window panes.",
+            "D": "A spray bottle has been set on the ground."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p1-06",
+          "no": 6,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_06.mp3",
+          "image": "/assets/day-16/images/test2/06.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "Merchandise is being taken off a shelf.",
+            "B": "They're hanging some clothes on a rack.",
+            "C": "Some shirts are being packed into a box.",
+            "D": "A ladder is leaning against a wall."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "image": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d16-test2-p2",
+      "code": "test2-p2",
+      "title": "Test 2 — Part 2 dictation",
+      "subtitle": "Homework: transcribe questions 11–31 (Drive has no audio for 7–10).",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "dictation",
+      "hasKey": true,
+      "showPhoto": false,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d16-test2-p2-11",
+          "no": 11,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Is technical support available 24 hours a day?",
+            "A": "To buy a new watch.",
+            "B": "I don't have questions right now.",
+            "C": "Yes, through our website."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-12",
+          "no": 12,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How much does this sweater cost?",
+            "A": "It also comes in black.",
+            "B": "Cash only.",
+            "C": "It should say on the tag."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-13",
+          "no": 13,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_13.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who gave the presentation on company benefits?",
+            "A": "Yes, we all went.",
+            "B": "They don't fit.",
+            "C": "Someone in human resources."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-14",
+          "no": 14,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why is there so much traffic?",
+            "A": "After the weather report.",
+            "B": "Because there's a basketball game today.",
+            "C": "No, that's enough."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-15",
+          "no": 15,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_15.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you be interested in joining the hiring committee?",
+            "A": "Yes, I'd be honored to.",
+            "B": "Last Wednesday evening.",
+            "C": "It's an interesting article."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-16",
+          "no": 16,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_16.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Are you going on vacation this month or next month?",
+            "A": "We're still deciding.",
+            "B": "A different location.",
+            "C": "I'm looking forward to it."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-17",
+          "no": 17,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How do I get a new identification card?",
+            "A": "There's an online form to fill out.",
+            "B": "To carry in your wallet.",
+            "C": "By February 21st."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-18",
+          "no": 18,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Shall I send out the agenda for the meeting?",
+            "A": "Not in general.",
+            "B": "I have to make a revision first.",
+            "C": "Conference Room C is large enough."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-19",
+          "no": 19,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who was selected to work on the advertising project?",
+            "A": "A great success.",
+            "B": "It's a popular brand.",
+            "C": "I haven't heard."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-20",
+          "no": 20,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "The ferry to the island runs every half hour, doesn't it?",
+            "A": "Yes, there's one coming now.",
+            "B": "No thanks, that's too late.",
+            "C": "At the ticket kiosk."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-21",
+          "no": 21,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_21.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How should I pay the deposit on the rental car?",
+            "A": "Do you have a credit card?",
+            "B": "It's less expensive than that.",
+            "C": "Yes, there's plenty of space."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-22",
+          "no": 22,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_22.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's responsible for the packaging design?",
+            "A": "It was shipped overnight",
+            "B": "Just sign here",
+            "C": "Martin's team"
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-23",
+          "no": 23,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Is Mr. Kim in charge of the manufacturing plant?",
+            "A": "Weren't some planted recently?",
+            "B": "I think someone else is managing it now.",
+            "C": "Just a small production defect."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-24",
+          "no": 24,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we offer a vegetarian dish at the lunch?",
+            "A": "I've been there a few times.",
+            "B": "It may be too late to change the menu.",
+            "C": "No, let's wash the dishes later."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-25",
+          "no": 25,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where does John usually store the extra supplies?",
+            "A": "There's one on the corner of Main Street.",
+            "B": "Sure, that might be a good idea.",
+            "C": "You'd better ask him."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-26",
+          "no": 26,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_26.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I found a new supplier for the garden fertilizer we use.",
+            "A": "Do they have good prices?",
+            "B": "In the warehouse.",
+            "C": "We sold a lot of flowers."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-27",
+          "no": 27,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_27.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How about holding a training seminar on the new database?",
+            "A": "Yes, I think we should.",
+            "B": "I've been there before.",
+            "C": "It went very well."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-28",
+          "no": 28,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_28.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Didn't you organize the employee picnic last year?",
+            "A": "You can use the Milton Room.",
+            "B": "I've done it the past seven years.",
+            "C": "No, it was free."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-29",
+          "no": 29,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_29.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you take this memo to the finance department?",
+            "A": "Sure, I'll drop it off before the meeting.",
+            "B": "I had to pay a small fine.",
+            "C": "Right on the first page."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-30",
+          "no": 30,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_30.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Shall I contact you by email or by phone?",
+            "A": "Okay, I'll take a look at the contract.",
+            "B": "Oh, did you?",
+            "C": "Actually, I'll be seeing you tomorrow."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d16-test2-p2-31",
+          "no": 31,
+          "audio": "/assets/day-16/audio/test-2-part-1-2/Test2_31.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Are you still working on the final budget?",
+            "A": "The decision was final.",
+            "B": "I usually start work at 9.",
+            "C": "I'm not, but Janet is."
+          },
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    }
+  ]
+}
