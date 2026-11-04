@@ -1,0 +1,67 @@
+{
+  "collection": "theory",
+  "day": "day-17",
+  "title": "Homework and resources",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d17-t-homework",
+      "type": "wordGroups",
+      "title": "Day 8 — homework",
+      "groups": {
+        "Listening homework": [
+          "Vào study.thaylongtoeic.com → bấm ảnh đại diện → Lớp học của bạn → làm bài cô đã giao sẵn."
+        ],
+        "Vocabulary": [
+          "Học 26 từ vựng Part 7 trong bộ Quizlet Day 8.",
+          "Học flashcard Shipping tiếp nối: từ số 25 (oversight) đến số 49 (liability)."
+        ],
+        "Previous homework review": [
+          "Check đáp án BTVN buổi trước (Day 16 trong ứng dụng).",
+          "Theo hướng dẫn của cô, đã làm bài trên web thì không cần làm thêm phần BTVN trong thư mục Drive."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d17-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 17 trong ứng dụng tương ứng Day 8 của giai đoạn 2.",
+        "Bài nghe được giao trong lớp học trên web. Thư mục Drive giữ để tham khảo và check đáp án BTVN buổi trước."
+      ],
+      "links": [
+        {
+          "label": "Listening homework — Your classroom",
+          "href": "https://study.thaylongtoeic.com/"
+        },
+        {
+          "label": "Day 8 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348"
+        },
+        {
+          "label": "Day 8 flashcards — PDF",
+          "href": "/assets/day-17/flashcard.pdf"
+        },
+        {
+          "label": "Day 8 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing"
+        },
+        {
+          "label": "Homework archive and previous answers — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1xfYnpok6XXyNcACHzW4WVPjVYWe1t_sP?usp=sharing"
+        },
+        {
+          "label": "Review Day 7 reading",
+          "href": "/day/day-16/exercises"
+        },
+        {
+          "label": "Review Day 7 listening",
+          "href": "/day/day-16/listen"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

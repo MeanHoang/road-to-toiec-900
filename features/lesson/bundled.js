@@ -105,7 +105,12 @@ import d16theory from '@/content/day-16/theory.json';
 import d16exercises from '@/content/day-16/exercises.json';
 import d16listening from '@/content/day-16/listening.json';
 
+import d17day from '@/content/day-17/day.json';
+import d17vocabulary from '@/content/day-17/vocabulary.json';
+import d17theory from '@/content/day-17/theory.json';
+
 const REGISTRY = {
+  'day-17': { day: d17day, vocabulary: d17vocabulary, theory: d17theory },
   'day-16': {
     day: d16day,
     vocabulary: d16vocabulary,

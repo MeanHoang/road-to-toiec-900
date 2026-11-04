@@ -1,0 +1,1394 @@
+{
+  "collection": "vocabulary",
+  "day": "day-17",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d17-v01",
+      "no": 1,
+      "word": "oversight",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈəʊvəsaɪt/",
+        "us": "/ˈoʊvərsaɪt/"
+      },
+      "meaningVi": "sự giám sát; sự sơ suất, sai sót",
+      "image": null,
+      "example": {
+        "en": "The mistake was due to an unfortunate oversight on my part."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v01-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v02",
+      "no": 2,
+      "word": "sufficient",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/səˈfɪʃnt/",
+        "us": "/səˈfɪʃnt/"
+      },
+      "meaningVi": "đủ, đầy đủ",
+      "image": null,
+      "example": {
+        "en": "Our budget is hardly sufficient to pay people, let alone buy any new equipment."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v02-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v03",
+      "no": 3,
+      "word": "minimize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈmɪnɪmaɪz/",
+        "us": "/ˈmɪnɪmaɪz/"
+      },
+      "meaningVi": "tối thiểu hóa",
+      "image": null,
+      "example": {
+        "en": "Costs were minimized by using plastic instead of leather."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v03-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v04",
+      "no": 4,
+      "word": "accurate",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈækjərət/",
+        "us": "/ˈækjərət/"
+      },
+      "meaningVi": "chính xác",
+      "image": null,
+      "example": {
+        "en": "The cost is an accurate reflection of the quality of our products."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v04-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v05",
+      "no": 5,
+      "word": "inventory",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈɪnvəntri/",
+        "us": "/ˈɪnvəntɔːri/"
+      },
+      "meaningVi": "sự kiểm kê; hàng hóa tồn kho; kiểm kê",
+      "image": null,
+      "example": {
+        "en": "Each product must be tracked, shelved, and inventoried."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v05-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v06",
+      "no": 6,
+      "word": "terminal",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtɜːmɪnl/",
+        "us": "/ˈtɜːrmɪnl/"
+      },
+      "meaningVi": "nhà đón khách, ga cuối",
+      "image": null,
+      "example": {
+        "en": "They intend to build a massive new rail terminal."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v06-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v07",
+      "no": 7,
+      "word": "quote",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kwəʊt/",
+        "us": "/kwoʊt/"
+      },
+      "meaningVi": "trích dẫn; báo giá",
+      "image": null,
+      "example": {
+        "en": "Their quote for the shipment was way too high."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v07-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v08",
+      "no": 8,
+      "word": "pick up",
+      "pos": "v",
+      "ipa": {
+        "uk": "/pɪk ʌp/",
+        "us": "/pɪk ʌp/"
+      },
+      "meaningVi": "đón, nhặt, lấy",
+      "image": null,
+      "example": {
+        "en": "The bus picks up passengers outside the airport."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v08-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v09",
+      "no": 9,
+      "word": "waive",
+      "pos": "v",
+      "ipa": {
+        "uk": "/weɪv/",
+        "us": "/weɪv/"
+      },
+      "meaningVi": "từ bỏ, khước từ; miễn phí hoặc miễn yêu cầu",
+      "image": null,
+      "example": {
+        "en": "The bank manager waived the charge, as we were old and valued customers."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v09-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v10",
+      "no": 10,
+      "word": "express service",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪkˈspres ˈsɜːvɪs/",
+        "us": "/ɪkˈspres ˈsɜːrvɪs/"
+      },
+      "meaningVi": "dịch vụ tốc hành",
+      "image": null,
+      "example": {
+        "en": "The dry cleaners offer a normal or an express service."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v10-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v11",
+      "no": 11,
+      "word": "explore",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪkˈsplɔː(r)/",
+        "us": "/ɪkˈsplɔːr/"
+      },
+      "meaningVi": "khám phá, thăm dò, tìm ra",
+      "image": null,
+      "example": {
+        "en": "Exploring your small business shipping options can make a huge difference to your bottom line."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v11-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v12",
+      "no": 12,
+      "word": "call off",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kɔːl ɒf/",
+        "us": "/kɔːl ɔːf/"
+      },
+      "meaningVi": "hủy bỏ",
+      "image": null,
+      "example": {
+        "en": "The game was called off because of bad weather."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v12-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v13",
+      "no": 13,
+      "word": "comply with",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kəmˈplaɪ wɪð/",
+        "us": "/kəmˈplaɪ wɪð/"
+      },
+      "meaningVi": "tuân thủ, tuân theo",
+      "image": null,
+      "example": {
+        "en": "You should comply with the shipping rules."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v13-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v14",
+      "no": 14,
+      "word": "compensation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌkɒmpenˈseɪʃn/",
+        "us": "/ˌkɑːmpenˈseɪʃn/"
+      },
+      "meaningVi": "tiền bồi thường; tiền lương",
+      "image": null,
+      "example": {
+        "en": "You can seek compensation for damages and losses you suffer due to a problem with a product or service."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v14-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v15",
+      "no": 15,
+      "word": "renew",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈnjuː/",
+        "us": "/rɪˈnuː/"
+      },
+      "meaningVi": "gia hạn, đổi mới",
+      "image": null,
+      "example": {
+        "en": "Please contact us on the number below if you wish to renew."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v15-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v16",
+      "no": 16,
+      "word": "inquiry",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈkwaɪəri/",
+        "us": "/ˈɪŋkwəri/"
+      },
+      "meaningVi": "câu hỏi; sự điều tra",
+      "image": null,
+      "example": {
+        "en": "All inquiries should be addressed to the customer services department."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v16-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v17",
+      "no": 17,
+      "word": "consent",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/kənˈsent/",
+        "us": "/kənˈsent/"
+      },
+      "meaningVi": "sự đồng ý; đồng ý, bằng lòng",
+      "image": null,
+      "example": {
+        "en": "The contract can only be broken by mutual consent."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v17-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v18",
+      "no": 18,
+      "word": "satisfaction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌsætɪsˈfækʃn/",
+        "us": "/ˌsætɪsˈfækʃn/"
+      },
+      "meaningVi": "sự hài lòng",
+      "image": null,
+      "example": {
+        "en": "The car manufacturer receives consistently high customer satisfaction ratings."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v18-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v19",
+      "no": 19,
+      "word": "vendor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈvendə(r)/",
+        "us": "/ˈvendər/"
+      },
+      "meaningVi": "người bán dạo; nhà cung cấp, đại lý",
+      "image": null,
+      "example": {
+        "en": "Get a list of vendors who deliver frozen food."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v19-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v20",
+      "no": 20,
+      "word": "delay",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/dɪˈleɪ/",
+        "us": "/dɪˈleɪ/"
+      },
+      "meaningVi": "sự trì hoãn; trì hoãn",
+      "image": null,
+      "example": {
+        "en": "The strike has led to some delays in train services."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v20-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v21",
+      "no": 21,
+      "word": "volume",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈvɒljuːm/",
+        "us": "/ˈvɑːljuːm/"
+      },
+      "meaningVi": "khối lượng, số lượng lớn",
+      "image": null,
+      "example": {
+        "en": "New roads are being built to cope with the increased volume of traffic."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v21-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v22",
+      "no": 22,
+      "word": "fare",
+      "pos": "n",
+      "ipa": {
+        "uk": "/feə(r)/",
+        "us": "/fer/"
+      },
+      "meaningVi": "tiền vé xe, máy bay, tàu, thuyền",
+      "image": null,
+      "example": {
+        "en": "The airline has introduced a cheap fare to New York."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v22-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v23",
+      "no": 23,
+      "word": "obligation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌɒblɪˈɡeɪʃn/",
+        "us": "/ˌɑːblɪˈɡeɪʃn/"
+      },
+      "meaningVi": "nghĩa vụ, bổn phận",
+      "image": null,
+      "example": {
+        "en": "There will be no breaking of any contractual obligation."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v23-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v24",
+      "no": 24,
+      "word": "distance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdɪstəns/",
+        "us": "/ˈdɪstəns/"
+      },
+      "meaningVi": "khoảng cách",
+      "image": null,
+      "example": {
+        "en": "The house is a short distance away from the bus station."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v24-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v25",
+      "no": 25,
+      "word": "liability",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌlaɪəˈbɪləti/",
+        "us": "/ˌlaɪəˈbɪləti/"
+      },
+      "meaningVi": "trách nhiệm pháp lý",
+      "image": null,
+      "example": {
+        "en": "They have no legal liability for damage to customers’ possessions."
+      },
+      "group": "Topic 04 — Shipping (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1FIDIaAd43kLfBOS4Z3SqFcdN_vbMq0AP/view?usp=sharing",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v25-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v26",
+      "no": 26,
+      "word": "courteous",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkɜːtiəs/",
+        "us": "/ˈkɜːrtiəs/"
+      },
+      "meaningVi": "lịch sự, nhã nhặn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v26-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v26-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v27",
+      "no": 27,
+      "word": "fabulous",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈfæbjələs/",
+        "us": "/ˈfæbjələs/"
+      },
+      "meaningVi": "tuyệt vời",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v27-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v27-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v28",
+      "no": 28,
+      "word": "in particular",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/ɪn pəˈtɪkjələ(r)/",
+        "us": "/ɪn pərˈtɪkjələr/"
+      },
+      "meaningVi": "đặc biệt là",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v28-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v28-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v29",
+      "no": 29,
+      "word": "numerous",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈnjuːmərəs/",
+        "us": "/ˈnuːmərəs/"
+      },
+      "meaningVi": "nhiều, số lượng lớn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v29-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v29-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v30",
+      "no": 30,
+      "word": "flight attendant",
+      "pos": "n",
+      "ipa": {
+        "uk": "/flaɪt əˈtendənt/",
+        "us": "/flaɪt əˈtendənt/"
+      },
+      "meaningVi": "tiếp viên hàng không",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v30-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v30-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v31",
+      "no": 31,
+      "word": "superior",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/suːˈpɪəriə(r)/",
+        "us": "/suːˈpɪriər/"
+      },
+      "meaningVi": "vượt trội, cao cấp hơn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v31-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v31-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v32",
+      "no": 32,
+      "word": "function",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈfʌŋkʃn/",
+        "us": "/ˈfʌŋkʃn/"
+      },
+      "meaningVi": "chức năng; hoạt động",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v32-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v32-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v33",
+      "no": 33,
+      "word": "application",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌæplɪˈkeɪʃn/",
+        "us": "/ˌæplɪˈkeɪʃn/"
+      },
+      "meaningVi": "đơn xin, ứng dụng",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v33-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v33-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v34",
+      "no": 34,
+      "word": "browse",
+      "pos": "v",
+      "ipa": {
+        "uk": "/braʊz/",
+        "us": "/braʊz/"
+      },
+      "meaningVi": "duyệt, xem qua",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v34-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v34-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v35",
+      "no": 35,
+      "word": "apparel",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈpærəl/",
+        "us": "/əˈpærəl/"
+      },
+      "meaningVi": "trang phục, quần áo",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v35-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v35-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v36",
+      "no": 36,
+      "word": "unorganized",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ʌnˈɔːɡənaɪzd/",
+        "us": "/ʌnˈɔːrɡənaɪzd/"
+      },
+      "meaningVi": "không có tổ chức",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v36-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v36-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v37",
+      "no": 37,
+      "word": "procrastinate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/prəʊˈkræstɪneɪt/",
+        "us": "/proʊˈkræstɪneɪt/"
+      },
+      "meaningVi": "trì hoãn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v37-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v37-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v38",
+      "no": 38,
+      "word": "under pressure",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ˈʌndə ˈpreʃə(r)/",
+        "us": "/ˈʌndər ˈpreʃər/"
+      },
+      "meaningVi": "chịu áp lực",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v38-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v38-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v39",
+      "no": 39,
+      "word": "set priorities",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/set praɪˈɒrətiz/",
+        "us": "/set praɪˈɔːrətiz/"
+      },
+      "meaningVi": "đặt thứ tự ưu tiên",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v39-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v39-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v40",
+      "no": 40,
+      "word": "durable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈdjʊərəbl/",
+        "us": "/ˈdʊrəbl/"
+      },
+      "meaningVi": "bền, lâu dài",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v40-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v40-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v41",
+      "no": 41,
+      "word": "warranty",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɒrənti/",
+        "us": "/ˈwɔːrənti/"
+      },
+      "meaningVi": "bảo hành",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v41-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v41-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v42",
+      "no": 42,
+      "word": "artisanship",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɑːtɪzənʃɪp/",
+        "us": "/ˈɑːrtɪzənʃɪp/"
+      },
+      "meaningVi": "tay nghề thủ công",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v42-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v42-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v43",
+      "no": 43,
+      "word": "competitor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kəmˈpetɪtə(r)/",
+        "us": "/kəmˈpetɪtər/"
+      },
+      "meaningVi": "đối thủ cạnh tranh",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v43-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v43-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v44",
+      "no": 44,
+      "word": "regardless",
+      "pos": "adv",
+      "ipa": {
+        "uk": "/rɪˈɡɑːdləs/",
+        "us": "/rɪˈɡɑːrdləs/"
+      },
+      "meaningVi": "bất kể, không quan tâm đến",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v44-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v44-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v45",
+      "no": 45,
+      "word": "permanent",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈpɜːmənənt/",
+        "us": "/ˈpɜːrmənənt/"
+      },
+      "meaningVi": "lâu dài, vĩnh viễn",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v45-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v45-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v46",
+      "no": 46,
+      "word": "bus operator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/bʌs ˈɒpəreɪtə(r)/",
+        "us": "/bʌs ˈɑːpəreɪtər/"
+      },
+      "meaningVi": "người điều hành xe buýt",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v46-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v46-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v47",
+      "no": 47,
+      "word": "dispatcher",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈspætʃə(r)/",
+        "us": "/dɪˈspætʃər/"
+      },
+      "meaningVi": "người điều phối",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v47-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v47-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v48",
+      "no": 48,
+      "word": "retirement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈtaɪəmənt/",
+        "us": "/rɪˈtaɪərmənt/"
+      },
+      "meaningVi": "sự nghỉ hưu",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v48-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v48-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v49",
+      "no": 49,
+      "word": "advancement opportunities",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ədˈvɑːnsmənt ˌɒpəˈtjuːnətiz/",
+        "us": "/ədˈvænsmənt ˌɑːpərˈtuːnətiz/"
+      },
+      "meaningVi": "cơ hội thăng tiến",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v49-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v49-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v50",
+      "no": 50,
+      "word": "diploma",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈpləʊmə/",
+        "us": "/dɪˈploʊmə/"
+      },
+      "meaningVi": "bằng cấp, chứng chỉ",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v50-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v50-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v51",
+      "no": 51,
+      "word": "assistance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈsɪstəns/",
+        "us": "/əˈsɪstəns/"
+      },
+      "meaningVi": "sự hỗ trợ, trợ giúp",
+      "image": null,
+      "example": null,
+      "group": "Part 7 vocabulary",
+      "source": {
+        "word": "quizlet",
+        "meaningVi": "quizlet",
+        "ipa": "ai",
+        "example": null,
+        "voice": "tts"
+      },
+      "sourceUrl": "https://quizlet.com/vn/1005449427/day-8-p7-flash-cards/?funnelUUID=262636a9-127b-42bb-9a58-93a676f8f348",
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v51-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v51-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "434bf435f2086b75ee71e8fe5ac8de546959450d3eba2f3e333c36c921d4623a"
+  }
+}
