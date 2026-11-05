@@ -99,6 +99,13 @@ function ChoiceCard({ item, saved, onAnswer }) {
         {item.passage?.text && (
           <div className="exercise-passage" role="region" tabIndex={0} aria-label={t('Reading passage')}>
             {item.passage.text}
+            {item.passage.image && (
+              <img
+                src={item.passage.image}
+                alt={item.passage.imageAlt || t('Reading passage')}
+                style={{ display: 'block', maxWidth: '100%', height: 'auto', marginTop: 'var(--space-4)' }}
+              />
+            )}
           </div>
         )}
         <div className="reading-answer stack"><p style={{ fontSize: 'var(--text-lg)', lineHeight: 'var(--leading-snug)' }}>

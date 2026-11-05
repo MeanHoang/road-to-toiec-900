@@ -1379,6 +1379,258 @@
         "us": "/assets/day-17/voice-neural/d17-v51-us.mp3",
         "uk": "/assets/day-17/voice-neural/d17-v51-uk.mp3"
       }
+    },
+    {
+      "id": "d17-v52",
+      "no": 52,
+      "word": "fixture",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfɪkstʃə/",
+        "us": "/ˈfɪkstʃɚ/"
+      },
+      "meaningVi": "thiết bị, vật dụng được lắp cố định (như đèn, bồn rửa); light fixture: bộ đèn",
+      "image": null,
+      "example": {
+        "en": "The electrician installed a new light fixture in the hallway.",
+        "vi": "Thợ điện đã lắp một bộ đèn mới ở hành lang."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v52-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v52-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v53",
+      "no": 53,
+      "word": "suspended",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/səˈspendɪd/",
+        "us": "/səˈspendɪd/"
+      },
+      "meaningVi": "được treo, lơ lửng; bị đình chỉ, tạm ngừng (tùy ngữ cảnh)",
+      "image": null,
+      "example": {
+        "en": "A light fixture is suspended from the ceiling.",
+        "vi": "Một bộ đèn được treo từ trần nhà."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v53-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v54",
+      "no": 54,
+      "word": "rug",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rʌɡ/",
+        "us": "/rʌɡ/"
+      },
+      "meaningVi": "tấm thảm trải sàn, thường nhỏ và có thể di chuyển",
+      "image": null,
+      "example": {
+        "en": "A rug has been rolled up against a wall.",
+        "vi": "Một tấm thảm đã được cuộn lại và dựng sát tường."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v54-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v55",
+      "no": 55,
+      "word": "recital",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈsaɪtəl/",
+        "us": "/rɪˈsaɪtəl/"
+      },
+      "meaningVi": "buổi biểu diễn độc tấu hoặc đơn ca trước khán giả",
+      "image": null,
+      "example": {
+        "en": "I saw the piano recital.",
+        "vi": "Tôi đã xem buổi biểu diễn độc tấu piano."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v55-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v56",
+      "no": 56,
+      "word": "receptionist",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈsepʃənɪst/",
+        "us": "/rɪˈsepʃənɪst/"
+      },
+      "meaningVi": "nhân viên lễ tân; người đón khách và trả lời điện thoại",
+      "image": null,
+      "example": {
+        "en": "The receptionist would know.",
+        "vi": "Nhân viên lễ tân chắc sẽ biết."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v56-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v57",
+      "no": 57,
+      "word": "lumber",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈlʌmbə/",
+        "us": "/ˈlʌmbɚ/"
+      },
+      "meaningVi": "gỗ xẻ; gỗ đã được cưa thành tấm hoặc thanh để xây dựng, làm đồ gỗ",
+      "image": null,
+      "example": {
+        "en": "When did you place the order for the lumber?",
+        "vi": "Bạn đã đặt số gỗ xẻ đó khi nào?"
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v57-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v57-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v58",
+      "no": 58,
+      "word": "commute",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/kəˈmjuːt/",
+        "us": "/kəˈmjuːt/"
+      },
+      "meaningVi": "(n) quãng đường hoặc việc đi lại thường xuyên giữa nhà và nơi làm việc; (v) đi làm hằng ngày",
+      "image": null,
+      "example": {
+        "en": "An awfully long commute.",
+        "vi": "Một quãng đường đi làm dài kinh khủng."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v58-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v58-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v59",
+      "no": 59,
+      "word": "expenses",
+      "pos": "n (plural)",
+      "ipa": {
+        "uk": "/ɪkˈspensɪz/",
+        "us": "/ɪkˈspensɪz/"
+      },
+      "meaningVi": "các khoản chi phí; travel expenses: chi phí đi công tác",
+      "image": null,
+      "example": {
+        "en": "Isn't there a limit on travel expenses?",
+        "vi": "Chẳng phải có giới hạn chi phí đi công tác sao?"
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v59-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v59-uk.mp3"
+      }
+    },
+    {
+      "id": "d17-v60",
+      "no": 60,
+      "word": "scrubbing",
+      "pos": "v-ing",
+      "ipa": {
+        "uk": "/ˈskrʌbɪŋ/",
+        "us": "/ˈskrʌbɪŋ/"
+      },
+      "meaningVi": "đang cọ rửa, chà sạch (thường bằng bàn chải hoặc miếng cọ); dạng V-ing của scrub",
+      "image": null,
+      "example": {
+        "en": "The man is scrubbing the front of a car.",
+        "vi": "Người đàn ông đang cọ rửa phần đầu xe ô tô."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-17/voice-neural/d17-v60-us.mp3",
+        "uk": "/assets/day-17/voice-neural/d17-v60-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -1389,6 +1641,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "434bf435f2086b75ee71e8fe5ac8de546959450d3eba2f3e333c36c921d4623a"
+    "textHash": "2e013c0e3a40946174c41c07489efdbbb0788c2632902e57b9a2b92555b49435"
   }
 }

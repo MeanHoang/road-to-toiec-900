@@ -1,0 +1,526 @@
+{
+  "collection": "exercises",
+  "day": "day-17",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d17-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: Hotel Bella",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d17-read-01",
+          "no": 1,
+          "text": "According to the advertisement, what is provided for free at the hotel?",
+          "options": {
+            "A": "A meal",
+            "B": "A theater ticket",
+            "C": "Transportation to the city center",
+            "D": "The first night’s lodging"
+          },
+          "answer": "A",
+          "explain": "“Complimentary breakfast” là bữa sáng miễn phí, tức một bữa ăn. Không có thông tin miễn phí vé, vận chuyển hoặc đêm nghỉ.",
+          "passage": {
+            "text": "Hotel Bella\nMadrid, Spain\n\nFind out what people are saying about us!\n\n“This was our first stay at Hotel Bella and it was definitely worth every cent — friendly service — sparkling clean rooms — wonderful! Thank you for a great few days!” J.G.\n\n“The service was excellent, everything was in working order and the staff was courteous and warm. Very, very nice. Don’t change anything.” R.S.\n\n“Absolutely fabulous! The front desk staff was extremely helpful with directions to points of interest in the area. The restaurant — the dinner menu in particular — was simply superb. We have stayed at numerous hotels, but this has to be the best!” L.G.\n\n“On Day 1, I was pleasantly surprised by the complimentary breakfast. I am going to tell all my family and friends to visit your hotel when they travel to Madrid.” K.K.\n\n“Hotel Bella is close to public transportation, the city center, the theaters, the museums — an excellent location for the traveler who wants to do it all.” E.M."
+          },
+          "vi": "Khách sạn Bella — Madrid, Tây Ban Nha\n\nHãy xem khách hàng nói gì về chúng tôi!\n\n“Đây là lần đầu chúng tôi ở Hotel Bella và thật sự đáng từng xu — phục vụ thân thiện, phòng sạch bóng — tuyệt vời! Cảm ơn vì những ngày nghỉ thật vui!” J.G.\n\n“Dịch vụ xuất sắc, mọi thứ hoạt động tốt và nhân viên lịch sự, niềm nở. Rất, rất tốt. Đừng thay đổi điều gì cả.” R.S.\n\n“Hoàn toàn tuyệt vời! Nhân viên lễ tân rất tận tình chỉ đường tới các điểm tham quan trong vùng. Nhà hàng — đặc biệt là thực đơn bữa tối — thực sự xuất sắc. Chúng tôi đã ở nhiều khách sạn nhưng đây hẳn là nơi tốt nhất!” L.G.\n\n“Ngay ngày đầu, tôi đã ngạc nhiên thích thú vì bữa sáng miễn phí. Tôi sẽ giới thiệu tất cả người thân và bạn bè ghé khách sạn của các bạn khi tới Madrid.” K.K.\n\n“Hotel Bella gần phương tiện giao thông công cộng, trung tâm thành phố, các nhà hát và bảo tàng — một vị trí lý tưởng cho du khách muốn trải nghiệm mọi thứ.” E.M.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-02",
+          "no": 2,
+          "text": "What is NOT mentioned about the hotel?",
+          "options": {
+            "A": "Clean rooms",
+            "B": "Friendly staff",
+            "C": "Reasonable rates",
+            "D": "Convenient location"
+          },
+          "answer": "C",
+          "explain": "Bài nhắc phòng sạch, nhân viên thân thiện và vị trí thuận tiện. “Worth every cent” nói đáng tiền, nhưng không nêu mức giá hợp lý hay rẻ.",
+          "passage": {
+            "text": "Hotel Bella\nMadrid, Spain\n\nFind out what people are saying about us!\n\n“This was our first stay at Hotel Bella and it was definitely worth every cent — friendly service — sparkling clean rooms — wonderful! Thank you for a great few days!” J.G.\n\n“The service was excellent, everything was in working order and the staff was courteous and warm. Very, very nice. Don’t change anything.” R.S.\n\n“Absolutely fabulous! The front desk staff was extremely helpful with directions to points of interest in the area. The restaurant — the dinner menu in particular — was simply superb. We have stayed at numerous hotels, but this has to be the best!” L.G.\n\n“On Day 1, I was pleasantly surprised by the complimentary breakfast. I am going to tell all my family and friends to visit your hotel when they travel to Madrid.” K.K.\n\n“Hotel Bella is close to public transportation, the city center, the theaters, the museums — an excellent location for the traveler who wants to do it all.” E.M."
+          },
+          "vi": "Khách sạn Bella — Madrid, Tây Ban Nha\n\nHãy xem khách hàng nói gì về chúng tôi!\n\n“Đây là lần đầu chúng tôi ở Hotel Bella và thật sự đáng từng xu — phục vụ thân thiện, phòng sạch bóng — tuyệt vời! Cảm ơn vì những ngày nghỉ thật vui!” J.G.\n\n“Dịch vụ xuất sắc, mọi thứ hoạt động tốt và nhân viên lịch sự, niềm nở. Rất, rất tốt. Đừng thay đổi điều gì cả.” R.S.\n\n“Hoàn toàn tuyệt vời! Nhân viên lễ tân rất tận tình chỉ đường tới các điểm tham quan trong vùng. Nhà hàng — đặc biệt là thực đơn bữa tối — thực sự xuất sắc. Chúng tôi đã ở nhiều khách sạn nhưng đây hẳn là nơi tốt nhất!” L.G.\n\n“Ngay ngày đầu, tôi đã ngạc nhiên thích thú vì bữa sáng miễn phí. Tôi sẽ giới thiệu tất cả người thân và bạn bè ghé khách sạn của các bạn khi tới Madrid.” K.K.\n\n“Hotel Bella gần phương tiện giao thông công cộng, trung tâm thành phố, các nhà hát và bảo tàng — một vị trí lý tưởng cho du khách muốn trải nghiệm mọi thứ.” E.M.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: Metzger Airlines",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d17-read-03",
+          "no": 3,
+          "text": "What is NOT a stated requirement for becoming a Metzger Airlines flight attendant?",
+          "options": {
+            "A": "Willingness to work on holidays",
+            "B": "Willingness to move to a new city",
+            "C": "A minimum age of 21",
+            "D": "A minimum of one year of experience"
+          },
+          "answer": "D",
+          "explain": "Danh sách yêu cầu có làm ngày lễ, sẵn sàng chuyển nơi ở và ít nhất 21 tuổi; không yêu cầu một năm kinh nghiệm.",
+          "passage": {
+            "text": "Job Fair\nMetzger Airlines\n\nMetzger Airlines is seeking international flight attendants and will hold a job fair on Tuesday, March 1, beginning at 9:00 A.M. at the Metzger Airlines Corporate Center in Miami.\n\nRequirements:\n• Must be able to work nights, weekends, and holidays\n• Must be at least 21 years old\n• Must be prepared to relocate\n• Must have superior communication skills\n• Must function well in stressful situations\n• Must work well with others\n\nMetzger Airlines offers all employees paid vacations, semi-annual raises, professional development courses, and much more.\n\nInterested individuals should be prepared to submit a résumé and complete an application at the job fair. Initial Interviews will take place during the afternoon.\n\nSuccessful candidates will spend six weeks at the Metzger Airlines Training Facility in Tokyo. After completion of the training program, newly certified flight attendants will be based in Barcelona or Milan."
+          },
+          "vi": "Ngày hội tuyển dụng — Metzger Airlines\n\nMetzger Airlines đang tuyển tiếp viên hàng không quốc tế và sẽ tổ chức ngày hội tuyển dụng vào thứ Ba, ngày 1 tháng 3, bắt đầu lúc 9 giờ sáng tại trung tâm doanh nghiệp của hãng ở Miami.\n\nYêu cầu:\n• Có thể làm việc ban đêm, cuối tuần và ngày lễ\n• Ít nhất 21 tuổi\n• Sẵn sàng chuyển nơi ở\n• Có kỹ năng giao tiếp xuất sắc\n• Làm việc tốt trong tình huống căng thẳng\n• Phối hợp tốt với người khác\n\nHãng cung cấp kỳ nghỉ có lương, tăng lương hai lần mỗi năm, các khóa phát triển nghề nghiệp và nhiều quyền lợi khác.\n\nỨng viên cần chuẩn bị nộp sơ yếu lý lịch và điền đơn tại ngày hội tuyển dụng. Phỏng vấn ban đầu diễn ra vào buổi chiều.\n\nỨng viên trúng tuyển sẽ học sáu tuần tại cơ sở đào tạo của Metzger Airlines ở Tokyo. Sau khi hoàn thành chương trình, tiếp viên mới được chứng nhận sẽ làm việc tại Barcelona hoặc Milan.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-04",
+          "no": 4,
+          "text": "Where will successful candidates train to become flight attendants?",
+          "options": {
+            "A": "In Miami",
+            "B": "In Tokyo",
+            "C": "In Barcelona",
+            "D": "In Milan"
+          },
+          "answer": "B",
+          "explain": "Ứng viên trúng tuyển học sáu tuần tại cơ sở đào tạo ở Tokyo. Miami là nơi tuyển dụng, Barcelona và Milan là nơi làm việc sau đào tạo.",
+          "passage": {
+            "text": "Job Fair\nMetzger Airlines\n\nMetzger Airlines is seeking international flight attendants and will hold a job fair on Tuesday, March 1, beginning at 9:00 A.M. at the Metzger Airlines Corporate Center in Miami.\n\nRequirements:\n• Must be able to work nights, weekends, and holidays\n• Must be at least 21 years old\n• Must be prepared to relocate\n• Must have superior communication skills\n• Must function well in stressful situations\n• Must work well with others\n\nMetzger Airlines offers all employees paid vacations, semi-annual raises, professional development courses, and much more.\n\nInterested individuals should be prepared to submit a résumé and complete an application at the job fair. Initial Interviews will take place during the afternoon.\n\nSuccessful candidates will spend six weeks at the Metzger Airlines Training Facility in Tokyo. After completion of the training program, newly certified flight attendants will be based in Barcelona or Milan."
+          },
+          "vi": "Ngày hội tuyển dụng — Metzger Airlines\n\nMetzger Airlines đang tuyển tiếp viên hàng không quốc tế và sẽ tổ chức ngày hội tuyển dụng vào thứ Ba, ngày 1 tháng 3, bắt đầu lúc 9 giờ sáng tại trung tâm doanh nghiệp của hãng ở Miami.\n\nYêu cầu:\n• Có thể làm việc ban đêm, cuối tuần và ngày lễ\n• Ít nhất 21 tuổi\n• Sẵn sàng chuyển nơi ở\n• Có kỹ năng giao tiếp xuất sắc\n• Làm việc tốt trong tình huống căng thẳng\n• Phối hợp tốt với người khác\n\nHãng cung cấp kỳ nghỉ có lương, tăng lương hai lần mỗi năm, các khóa phát triển nghề nghiệp và nhiều quyền lợi khác.\n\nỨng viên cần chuẩn bị nộp sơ yếu lý lịch và điền đơn tại ngày hội tuyển dụng. Phỏng vấn ban đầu diễn ra vào buổi chiều.\n\nỨng viên trúng tuyển sẽ học sáu tuần tại cơ sở đào tạo của Metzger Airlines ở Tokyo. Sau khi hoàn thành chương trình, tiếp viên mới được chứng nhận sẽ làm việc tại Barcelona hoặc Milan.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: Excelsior Style",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d17-read-05",
+          "no": 5,
+          "text": "What is being advertised?",
+          "options": {
+            "A": "A department store’s new name",
+            "B": "A recently upgraded Web site",
+            "C": "A discount on online purchases",
+            "D": "A change to a shipping policy"
+          },
+          "answer": "C",
+          "explain": "Trang bán hàng trực tuyến quảng cáo giảm giá tới 50% cho mọi đơn mua hàng. Chính sách giao hàng miễn phí đã có từ lâu, không phải thay đổi mới.",
+          "passage": {
+            "text": "Excelsior Style—Your First Name in Fashion!\nFor a short time only, receive up to 50 percent off on all purchases!\nOffer valid through May 31\n\nExcelsiorstyle.com is your go-to Web fashion hub with thousands of items of women’s and children’s apparel. Browse our site for the newest styles in coats and jackets, dresses, tops, skirts, swimwear, sleepwear, shoes, and accessories.\n\nPlus, we now offer fashions for your home through our brand-new line of interior decoration products! Visit Excelsiorstyle.com now to find the latest in home décor.\n\nTake advantage of our long-standing policy of free delivery for purchases over $75.00."
+          },
+          "vi": "Excelsior Style — Thương hiệu hàng đầu của bạn về thời trang!\nChỉ trong thời gian ngắn, giảm giá tới 50% cho mọi giao dịch mua hàng!\nƯu đãi có hiệu lực đến hết ngày 31 tháng 5.\n\nExcelsiorstyle.com là điểm đến thời trang trực tuyến với hàng nghìn sản phẩm quần áo phụ nữ và trẻ em. Hãy duyệt trang để xem những kiểu áo khoác, đầm, áo, váy, đồ bơi, đồ ngủ, giày và phụ kiện mới nhất.\n\nNgoài ra, chúng tôi nay còn mang thời trang tới ngôi nhà của bạn với dòng sản phẩm trang trí nội thất hoàn toàn mới! Hãy truy cập Excelsiorstyle.com để khám phá các xu hướng trang trí nhà mới nhất.\n\nHãy tận dụng chính sách miễn phí giao hàng lâu nay cho đơn hàng trên 75 đô la.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-06",
+          "no": 6,
+          "text": "Based on the advertisement, what will happen on June 1?",
+          "options": {
+            "A": "Customers will pay regular prices.",
+            "B": "A children’s department will open.",
+            "C": "Purchases will be eligible for a free gift.",
+            "D": "All shipping costs will be discounted."
+          },
+          "answer": "A",
+          "explain": "Ưu đãi chỉ có hiệu lực đến hết 31/5, nên từ 1/6 khách hàng sẽ trả giá thông thường.",
+          "passage": {
+            "text": "Excelsior Style—Your First Name in Fashion!\nFor a short time only, receive up to 50 percent off on all purchases!\nOffer valid through May 31\n\nExcelsiorstyle.com is your go-to Web fashion hub with thousands of items of women’s and children’s apparel. Browse our site for the newest styles in coats and jackets, dresses, tops, skirts, swimwear, sleepwear, shoes, and accessories.\n\nPlus, we now offer fashions for your home through our brand-new line of interior decoration products! Visit Excelsiorstyle.com now to find the latest in home décor.\n\nTake advantage of our long-standing policy of free delivery for purchases over $75.00."
+          },
+          "vi": "Excelsior Style — Thương hiệu hàng đầu của bạn về thời trang!\nChỉ trong thời gian ngắn, giảm giá tới 50% cho mọi giao dịch mua hàng!\nƯu đãi có hiệu lực đến hết ngày 31 tháng 5.\n\nExcelsiorstyle.com là điểm đến thời trang trực tuyến với hàng nghìn sản phẩm quần áo phụ nữ và trẻ em. Hãy duyệt trang để xem những kiểu áo khoác, đầm, áo, váy, đồ bơi, đồ ngủ, giày và phụ kiện mới nhất.\n\nNgoài ra, chúng tôi nay còn mang thời trang tới ngôi nhà của bạn với dòng sản phẩm trang trí nội thất hoàn toàn mới! Hãy truy cập Excelsiorstyle.com để khám phá các xu hướng trang trí nhà mới nhất.\n\nHãy tận dụng chính sách miễn phí giao hàng lâu nay cho đơn hàng trên 75 đô la.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-07",
+          "no": 7,
+          "text": "What is available for the first time?",
+          "options": {
+            "A": "Footwear",
+            "B": "Home-decorating items",
+            "C": "Outerwear",
+            "D": "Children’s clothing"
+          },
+          "answer": "B",
+          "explain": "“Brand-new line of interior decoration products” là dòng sản phẩm trang trí nội thất mới lần đầu được cung cấp.",
+          "passage": {
+            "text": "Excelsior Style—Your First Name in Fashion!\nFor a short time only, receive up to 50 percent off on all purchases!\nOffer valid through May 31\n\nExcelsiorstyle.com is your go-to Web fashion hub with thousands of items of women’s and children’s apparel. Browse our site for the newest styles in coats and jackets, dresses, tops, skirts, swimwear, sleepwear, shoes, and accessories.\n\nPlus, we now offer fashions for your home through our brand-new line of interior decoration products! Visit Excelsiorstyle.com now to find the latest in home décor.\n\nTake advantage of our long-standing policy of free delivery for purchases over $75.00."
+          },
+          "vi": "Excelsior Style — Thương hiệu hàng đầu của bạn về thời trang!\nChỉ trong thời gian ngắn, giảm giá tới 50% cho mọi giao dịch mua hàng!\nƯu đãi có hiệu lực đến hết ngày 31 tháng 5.\n\nExcelsiorstyle.com là điểm đến thời trang trực tuyến với hàng nghìn sản phẩm quần áo phụ nữ và trẻ em. Hãy duyệt trang để xem những kiểu áo khoác, đầm, áo, váy, đồ bơi, đồ ngủ, giày và phụ kiện mới nhất.\n\nNgoài ra, chúng tôi nay còn mang thời trang tới ngôi nhà của bạn với dòng sản phẩm trang trí nội thất hoàn toàn mới! Hãy truy cập Excelsiorstyle.com để khám phá các xu hướng trang trí nhà mới nhất.\n\nHãy tận dụng chính sách miễn phí giao hàng lâu nay cho đơn hàng trên 75 đô la.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: time management",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d17-read-08",
+          "no": 8,
+          "text": "What is being advertised?",
+          "options": {
+            "A": "A job",
+            "B": "A workshop",
+            "C": "A club",
+            "D": "A computer program"
+          },
+          "answer": "B",
+          "explain": "Bài mời đăng ký “Time Management workshop”, tức buổi tập huấn quản lý thời gian.",
+          "passage": {
+            "text": "Would you like to be more productive? Do you find that you sometimes have a lot to do but get nothing done? Do you procrastinate? Would you like to be more organized? Are you tired of being rushed or under pressure?\n\nEnroll in the Time Management workshop and learn how to plan and schedule work, how to set goals and overcome procrastination, and how to set priorities and follow through on them.\n\nThe workshop will be held on October 26 and run for three hours. Two identical sessions will be offered—one from 1 P.M. to 4 P.M. and the other from 5:30 P.M. to 8:30 P.M. Please choose the one that works best with your schedule. Contact Marcy Halford at extension 425 for more information."
+          },
+          "vi": "Bạn có muốn làm việc hiệu quả hơn không? Bạn có thấy đôi khi mình có rất nhiều việc mà chẳng hoàn thành được gì không? Bạn có hay trì hoãn không? Bạn có muốn làm việc có tổ chức hơn không? Bạn có mệt mỏi vì luôn bị thúc giục hoặc chịu áp lực không?\n\nHãy đăng ký buổi tập huấn Quản lý thời gian để học cách lập kế hoạch và lịch làm việc, đặt mục tiêu, vượt qua thói quen trì hoãn, xác định các ưu tiên và thực hiện chúng đến cùng.\n\nBuổi tập huấn diễn ra ngày 26 tháng 10 và kéo dài ba giờ. Có hai buổi với nội dung giống nhau: từ 13 giờ đến 16 giờ và từ 17 giờ 30 đến 20 giờ 30. Hãy chọn buổi phù hợp nhất với lịch của bạn. Liên hệ Marcy Halford qua số máy lẻ 425 để biết thêm thông tin.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-09",
+          "no": 9,
+          "text": "For whom is the advertisement probably intended?",
+          "options": {
+            "A": "People who work quickly",
+            "B": "People with planning experience",
+            "C": "Recently retired people",
+            "D": "Unorganized people"
+          },
+          "answer": "D",
+          "explain": "Các câu mở đầu nhắm tới người hay trì hoãn, không sắp xếp công việc và muốn làm việc có tổ chức hơn.",
+          "passage": {
+            "text": "Would you like to be more productive? Do you find that you sometimes have a lot to do but get nothing done? Do you procrastinate? Would you like to be more organized? Are you tired of being rushed or under pressure?\n\nEnroll in the Time Management workshop and learn how to plan and schedule work, how to set goals and overcome procrastination, and how to set priorities and follow through on them.\n\nThe workshop will be held on October 26 and run for three hours. Two identical sessions will be offered—one from 1 P.M. to 4 P.M. and the other from 5:30 P.M. to 8:30 P.M. Please choose the one that works best with your schedule. Contact Marcy Halford at extension 425 for more information."
+          },
+          "vi": "Bạn có muốn làm việc hiệu quả hơn không? Bạn có thấy đôi khi mình có rất nhiều việc mà chẳng hoàn thành được gì không? Bạn có hay trì hoãn không? Bạn có muốn làm việc có tổ chức hơn không? Bạn có mệt mỏi vì luôn bị thúc giục hoặc chịu áp lực không?\n\nHãy đăng ký buổi tập huấn Quản lý thời gian để học cách lập kế hoạch và lịch làm việc, đặt mục tiêu, vượt qua thói quen trì hoãn, xác định các ưu tiên và thực hiện chúng đến cùng.\n\nBuổi tập huấn diễn ra ngày 26 tháng 10 và kéo dài ba giờ. Có hai buổi với nội dung giống nhau: từ 13 giờ đến 16 giờ và từ 17 giờ 30 đến 20 giờ 30. Hãy chọn buổi phù hợp nhất với lịch của bạn. Liên hệ Marcy Halford qua số máy lẻ 425 để biết thêm thông tin.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-10",
+          "no": 10,
+          "text": "How long is each session?",
+          "options": {
+            "A": "One hour",
+            "B": "Two hours",
+            "C": "Three hours",
+            "D": "Five hours"
+          },
+          "answer": "C",
+          "explain": "Bài nói buổi tập huấn kéo dài ba giờ; cả khung 13–16 giờ và 17:30–20:30 đều dài ba giờ.",
+          "passage": {
+            "text": "Would you like to be more productive? Do you find that you sometimes have a lot to do but get nothing done? Do you procrastinate? Would you like to be more organized? Are you tired of being rushed or under pressure?\n\nEnroll in the Time Management workshop and learn how to plan and schedule work, how to set goals and overcome procrastination, and how to set priorities and follow through on them.\n\nThe workshop will be held on October 26 and run for three hours. Two identical sessions will be offered—one from 1 P.M. to 4 P.M. and the other from 5:30 P.M. to 8:30 P.M. Please choose the one that works best with your schedule. Contact Marcy Halford at extension 425 for more information."
+          },
+          "vi": "Bạn có muốn làm việc hiệu quả hơn không? Bạn có thấy đôi khi mình có rất nhiều việc mà chẳng hoàn thành được gì không? Bạn có hay trì hoãn không? Bạn có muốn làm việc có tổ chức hơn không? Bạn có mệt mỏi vì luôn bị thúc giục hoặc chịu áp lực không?\n\nHãy đăng ký buổi tập huấn Quản lý thời gian để học cách lập kế hoạch và lịch làm việc, đặt mục tiêu, vượt qua thói quen trì hoãn, xác định các ưu tiên và thực hiện chúng đến cùng.\n\nBuổi tập huấn diễn ra ngày 26 tháng 10 và kéo dài ba giờ. Có hai buổi với nội dung giống nhau: từ 13 giờ đến 16 giờ và từ 17 giờ 30 đến 20 giờ 30. Hãy chọn buổi phù hợp nhất với lịch của bạn. Liên hệ Marcy Halford qua số máy lẻ 425 để biết thêm thông tin.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: Kinsley mirrors",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d17-read-11",
+          "no": 11,
+          "text": "What is implied about the Kinsley Mirror Company?",
+          "options": {
+            "A": "It plans to open four new stores.",
+            "B": "It advertises weekly sales.",
+            "C": "It has been in business for many years.",
+            "D": "It is a family-owned company."
+          },
+          "answer": "C",
+          "explain": "“For several decades” cho biết công ty đã hoạt động nhiều thập kỷ. Bốn sản phẩm mới là gương, không phải cửa hàng mới.",
+          "passage": {
+            "text": "The Kinsley Mirror Company\nBeauty and Affordability\n\nFor several decades, the name Kinsley has been associated with high-quality mirrors. Our mirrors have always been both inexpensive and durable. The quality of our products has earned us several regional and national honors, including the United Glass Company’s award for excellence in manufacturing.\n\nThis month, we proudly present four new wall mirrors. They include the Padley dark pine mirror, the Hinderly maple mirror, the Gatson wrought-iron mirror, and the Lexford imperial silver mirror. Those who purchased our most popular mirror, the Cooper round mirror, may appreciate the beauty of either the Gatson wrought-iron mirror or the Lexford imperial silver mirror. Lighter mirrors, like the Padley pine mirror and the Hinderly maple mirror, also make excellent additions to any home.\n\nFor your peace of mind, every purchase comes with a one-year warranty that provides a guarantee against defects in artisanship or material. And unlike all of our competitors, we will ship your products to you at no extra cost, regardless of the size of the order. For additional information, go to our Web site at www.kinsleymirrors.com or visit us at one of our locations in Dunville or Forbinton."
+          },
+          "vi": "Công ty Gương Kinsley — Vẻ đẹp và giá cả phải chăng\n\nTrong nhiều thập kỷ, tên tuổi Kinsley gắn liền với các loại gương chất lượng cao. Gương của chúng tôi luôn vừa rẻ vừa bền. Chất lượng sản phẩm đã mang về nhiều giải thưởng cấp vùng và quốc gia, trong đó có giải xuất sắc trong sản xuất của United Glass Company.\n\nTháng này, chúng tôi tự hào giới thiệu bốn mẫu gương treo tường mới: Padley bằng gỗ thông sẫm màu, Hinderly bằng gỗ phong, Gatson bằng sắt rèn và Lexford màu bạc sang trọng. Khách đã mua mẫu bán chạy nhất — gương tròn Cooper — có thể sẽ thích vẻ đẹp của gương Gatson hoặc Lexford. Những mẫu nhẹ hơn như Padley và Hinderly cũng là vật bổ sung lý tưởng cho mọi ngôi nhà.\n\nĐể bạn an tâm, mỗi sản phẩm đều được bảo hành một năm đối với lỗi chế tác hoặc vật liệu. Khác với tất cả đối thủ cạnh tranh, chúng tôi giao hàng miễn phí bất kể quy mô đơn hàng. Để biết thêm thông tin, hãy truy cập www.kinsleymirrors.com hoặc ghé một trong các cửa hàng tại Dunville hay Forbinton.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-12",
+          "no": 12,
+          "text": "What mirror has been sold the most by the Kinsley Mirror Company?",
+          "options": {
+            "A": "The Padley pine mirror",
+            "B": "The Hinderly maple mirror",
+            "C": "The Cooper round mirror",
+            "D": "The Gatson wrought-iron mirror"
+          },
+          "answer": "C",
+          "explain": "Bài gọi Cooper round mirror là “our most popular mirror”, tức mẫu được ưa chuộng và bán chạy nhất.",
+          "passage": {
+            "text": "The Kinsley Mirror Company\nBeauty and Affordability\n\nFor several decades, the name Kinsley has been associated with high-quality mirrors. Our mirrors have always been both inexpensive and durable. The quality of our products has earned us several regional and national honors, including the United Glass Company’s award for excellence in manufacturing.\n\nThis month, we proudly present four new wall mirrors. They include the Padley dark pine mirror, the Hinderly maple mirror, the Gatson wrought-iron mirror, and the Lexford imperial silver mirror. Those who purchased our most popular mirror, the Cooper round mirror, may appreciate the beauty of either the Gatson wrought-iron mirror or the Lexford imperial silver mirror. Lighter mirrors, like the Padley pine mirror and the Hinderly maple mirror, also make excellent additions to any home.\n\nFor your peace of mind, every purchase comes with a one-year warranty that provides a guarantee against defects in artisanship or material. And unlike all of our competitors, we will ship your products to you at no extra cost, regardless of the size of the order. For additional information, go to our Web site at www.kinsleymirrors.com or visit us at one of our locations in Dunville or Forbinton."
+          },
+          "vi": "Công ty Gương Kinsley — Vẻ đẹp và giá cả phải chăng\n\nTrong nhiều thập kỷ, tên tuổi Kinsley gắn liền với các loại gương chất lượng cao. Gương của chúng tôi luôn vừa rẻ vừa bền. Chất lượng sản phẩm đã mang về nhiều giải thưởng cấp vùng và quốc gia, trong đó có giải xuất sắc trong sản xuất của United Glass Company.\n\nTháng này, chúng tôi tự hào giới thiệu bốn mẫu gương treo tường mới: Padley bằng gỗ thông sẫm màu, Hinderly bằng gỗ phong, Gatson bằng sắt rèn và Lexford màu bạc sang trọng. Khách đã mua mẫu bán chạy nhất — gương tròn Cooper — có thể sẽ thích vẻ đẹp của gương Gatson hoặc Lexford. Những mẫu nhẹ hơn như Padley và Hinderly cũng là vật bổ sung lý tưởng cho mọi ngôi nhà.\n\nĐể bạn an tâm, mỗi sản phẩm đều được bảo hành một năm đối với lỗi chế tác hoặc vật liệu. Khác với tất cả đối thủ cạnh tranh, chúng tôi giao hàng miễn phí bất kể quy mô đơn hàng. Để biết thêm thông tin, hãy truy cập www.kinsleymirrors.com hoặc ghé một trong các cửa hàng tại Dunville hay Forbinton.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-13",
+          "no": 13,
+          "text": "According to the advertisement, what does the Kinsley Mirror Company offer that other companies do not?",
+          "options": {
+            "A": "Overnight delivery",
+            "B": "A one-year warranty",
+            "C": "A customer newsletter",
+            "D": "Free shipping"
+          },
+          "answer": "D",
+          "explain": "“Unlike all of our competitors” đi với giao hàng “at no extra cost”, bất kể quy mô đơn hàng: giao hàng miễn phí là điểm khác biệt.",
+          "passage": {
+            "text": "The Kinsley Mirror Company\nBeauty and Affordability\n\nFor several decades, the name Kinsley has been associated with high-quality mirrors. Our mirrors have always been both inexpensive and durable. The quality of our products has earned us several regional and national honors, including the United Glass Company’s award for excellence in manufacturing.\n\nThis month, we proudly present four new wall mirrors. They include the Padley dark pine mirror, the Hinderly maple mirror, the Gatson wrought-iron mirror, and the Lexford imperial silver mirror. Those who purchased our most popular mirror, the Cooper round mirror, may appreciate the beauty of either the Gatson wrought-iron mirror or the Lexford imperial silver mirror. Lighter mirrors, like the Padley pine mirror and the Hinderly maple mirror, also make excellent additions to any home.\n\nFor your peace of mind, every purchase comes with a one-year warranty that provides a guarantee against defects in artisanship or material. And unlike all of our competitors, we will ship your products to you at no extra cost, regardless of the size of the order. For additional information, go to our Web site at www.kinsleymirrors.com or visit us at one of our locations in Dunville or Forbinton."
+          },
+          "vi": "Công ty Gương Kinsley — Vẻ đẹp và giá cả phải chăng\n\nTrong nhiều thập kỷ, tên tuổi Kinsley gắn liền với các loại gương chất lượng cao. Gương của chúng tôi luôn vừa rẻ vừa bền. Chất lượng sản phẩm đã mang về nhiều giải thưởng cấp vùng và quốc gia, trong đó có giải xuất sắc trong sản xuất của United Glass Company.\n\nTháng này, chúng tôi tự hào giới thiệu bốn mẫu gương treo tường mới: Padley bằng gỗ thông sẫm màu, Hinderly bằng gỗ phong, Gatson bằng sắt rèn và Lexford màu bạc sang trọng. Khách đã mua mẫu bán chạy nhất — gương tròn Cooper — có thể sẽ thích vẻ đẹp của gương Gatson hoặc Lexford. Những mẫu nhẹ hơn như Padley và Hinderly cũng là vật bổ sung lý tưởng cho mọi ngôi nhà.\n\nĐể bạn an tâm, mỗi sản phẩm đều được bảo hành một năm đối với lỗi chế tác hoặc vật liệu. Khác với tất cả đối thủ cạnh tranh, chúng tôi giao hàng miễn phí bất kể quy mô đơn hàng. Để biết thêm thông tin, hãy truy cập www.kinsleymirrors.com hoặc ghé một trong các cửa hàng tại Dunville hay Forbinton.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 3: bus operators",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D8 S2 UNIT3.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d17-read-14",
+          "no": 14,
+          "text": "What is offered to new bus drivers?",
+          "options": {
+            "A": "Vacation and holiday pay",
+            "B": "A promotion in six months",
+            "C": "A local housing allowance",
+            "D": "An annual bonus"
+          },
+          "answer": "A",
+          "explain": "Quyền lợi gồm hai tuần nghỉ phép có lương và tám ngày nghỉ lễ có lương. Bài không hứa thăng chức sau sáu tháng, trợ cấp nhà hay thưởng năm.",
+          "passage": {
+            "text": "Wanted: Bus Operators\n(Posted: August 15)\n\nThe Pennsylvania Transportation Authority (PTA) is recruiting permanent, full-time bus operators to start October 1. We offer starting pay of $11.20/hour, on-the-job training, a competitive benefits package, an employee transportation pass, two weeks paid vacation, eight paid holidays, a choice of two retirement plans, and excellent career advancement opportunities. Please apply in person at the Philadelphia office (see map below). No applications will be accepted after September 1.\n\nDuties:\n• Transport passengers on a predetermined route and assist with route and fare information\n• Monitor fare box for correct fare deposits\n• File a defect card daily, noting mechanical and body defects on vehicle\n• Report to dispatcher via radio any route detours or passengers in need of medical attention or police assistance\n\nQualifications:\n• High school diploma\n• Twenty-one years of age\n• Valid Class B commercial driver’s license\n• Good work history and record of safe driving (five years)\n• Must successfully pass a training and route familiarization program\n• Must be able to work various shifts, weekends, holidays",
+            "image": "/assets/day-17/images/reading/pta-map.webp",
+            "imageAlt": "Map showing the PTA office near North Washington Avenue, Third Avenue, and Interstate Exit 11"
+          },
+          "vi": "Tuyển dụng: Tài xế xe buýt\n(Đăng ngày 15 tháng 8)\n\nCơ quan Giao thông Pennsylvania (PTA) đang tuyển tài xế xe buýt làm việc toàn thời gian, lâu dài, bắt đầu ngày 1 tháng 10. Quyền lợi gồm lương khởi điểm 11,20 đô la/giờ, đào tạo tại chỗ, chế độ phúc lợi cạnh tranh, thẻ đi lại cho nhân viên, hai tuần nghỉ phép có lương, tám ngày nghỉ lễ có lương, lựa chọn giữa hai chương trình hưu trí và cơ hội thăng tiến tốt. Hãy đến nộp đơn trực tiếp tại văn phòng Philadelphia (xem bản đồ). Không nhận đơn sau ngày 1 tháng 9.\n\nNhiệm vụ:\n• Chở khách theo tuyến định sẵn và hỗ trợ thông tin tuyến đường, giá vé\n• Theo dõi hộp thu tiền vé để bảo đảm khách trả đúng số tiền\n• Nộp phiếu ghi lỗi hằng ngày, nêu các hư hỏng cơ khí và thân xe\n• Báo cho điều phối viên qua bộ đàm khi phải đi đường vòng hoặc có hành khách cần trợ giúp y tế hay cảnh sát\n\nYêu cầu:\n• Có bằng tốt nghiệp trung học phổ thông\n• 21 tuổi\n• Có giấy phép lái xe thương mại hạng B còn hiệu lực\n• Có quá trình làm việc tốt và hồ sơ lái xe an toàn trong năm năm\n• Hoàn thành chương trình đào tạo và làm quen tuyến đường\n• Có thể làm nhiều ca, cuối tuần và ngày lễ\n\nBản đồ chỉ văn phòng PTA gần đại lộ North Washington, đại lộ Third và lối ra 11 của đường liên bang.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-15",
+          "no": 15,
+          "text": "What is the deadline to apply for this job?",
+          "options": {
+            "A": "August 15",
+            "B": "September 1",
+            "C": "October 1",
+            "D": "November 20"
+          },
+          "answer": "B",
+          "explain": "“No applications will be accepted after September 1” nghĩa là hạn cuối nhận đơn là ngày 1/9. 15/8 là ngày đăng, 1/10 là ngày bắt đầu làm.",
+          "passage": {
+            "text": "Wanted: Bus Operators\n(Posted: August 15)\n\nThe Pennsylvania Transportation Authority (PTA) is recruiting permanent, full-time bus operators to start October 1. We offer starting pay of $11.20/hour, on-the-job training, a competitive benefits package, an employee transportation pass, two weeks paid vacation, eight paid holidays, a choice of two retirement plans, and excellent career advancement opportunities. Please apply in person at the Philadelphia office (see map below). No applications will be accepted after September 1.\n\nDuties:\n• Transport passengers on a predetermined route and assist with route and fare information\n• Monitor fare box for correct fare deposits\n• File a defect card daily, noting mechanical and body defects on vehicle\n• Report to dispatcher via radio any route detours or passengers in need of medical attention or police assistance\n\nQualifications:\n• High school diploma\n• Twenty-one years of age\n• Valid Class B commercial driver’s license\n• Good work history and record of safe driving (five years)\n• Must successfully pass a training and route familiarization program\n• Must be able to work various shifts, weekends, holidays",
+            "image": "/assets/day-17/images/reading/pta-map.webp",
+            "imageAlt": "Map showing the PTA office near North Washington Avenue, Third Avenue, and Interstate Exit 11"
+          },
+          "vi": "Tuyển dụng: Tài xế xe buýt\n(Đăng ngày 15 tháng 8)\n\nCơ quan Giao thông Pennsylvania (PTA) đang tuyển tài xế xe buýt làm việc toàn thời gian, lâu dài, bắt đầu ngày 1 tháng 10. Quyền lợi gồm lương khởi điểm 11,20 đô la/giờ, đào tạo tại chỗ, chế độ phúc lợi cạnh tranh, thẻ đi lại cho nhân viên, hai tuần nghỉ phép có lương, tám ngày nghỉ lễ có lương, lựa chọn giữa hai chương trình hưu trí và cơ hội thăng tiến tốt. Hãy đến nộp đơn trực tiếp tại văn phòng Philadelphia (xem bản đồ). Không nhận đơn sau ngày 1 tháng 9.\n\nNhiệm vụ:\n• Chở khách theo tuyến định sẵn và hỗ trợ thông tin tuyến đường, giá vé\n• Theo dõi hộp thu tiền vé để bảo đảm khách trả đúng số tiền\n• Nộp phiếu ghi lỗi hằng ngày, nêu các hư hỏng cơ khí và thân xe\n• Báo cho điều phối viên qua bộ đàm khi phải đi đường vòng hoặc có hành khách cần trợ giúp y tế hay cảnh sát\n\nYêu cầu:\n• Có bằng tốt nghiệp trung học phổ thông\n• 21 tuổi\n• Có giấy phép lái xe thương mại hạng B còn hiệu lực\n• Có quá trình làm việc tốt và hồ sơ lái xe an toàn trong năm năm\n• Hoàn thành chương trình đào tạo và làm quen tuyến đường\n• Có thể làm nhiều ca, cuối tuần và ngày lễ\n\nBản đồ chỉ văn phòng PTA gần đại lộ North Washington, đại lộ Third và lối ra 11 của đường liên bang.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-16",
+          "no": 16,
+          "text": "In which situation would a bus operator radio the dispatcher during a shift?",
+          "options": {
+            "A": "To report a medical emergency with a passenger",
+            "B": "To schedule vacation time for the following week",
+            "C": "To pass a training test on a particular route",
+            "D": "To validate a commercial driver’s license"
+          },
+          "answer": "A",
+          "explain": "Nhiệm vụ yêu cầu báo điều phối viên qua bộ đàm khi có hành khách cần trợ giúp y tế hoặc cảnh sát; vì vậy cấp cứu y tế là trường hợp phù hợp.",
+          "passage": {
+            "text": "Wanted: Bus Operators\n(Posted: August 15)\n\nThe Pennsylvania Transportation Authority (PTA) is recruiting permanent, full-time bus operators to start October 1. We offer starting pay of $11.20/hour, on-the-job training, a competitive benefits package, an employee transportation pass, two weeks paid vacation, eight paid holidays, a choice of two retirement plans, and excellent career advancement opportunities. Please apply in person at the Philadelphia office (see map below). No applications will be accepted after September 1.\n\nDuties:\n• Transport passengers on a predetermined route and assist with route and fare information\n• Monitor fare box for correct fare deposits\n• File a defect card daily, noting mechanical and body defects on vehicle\n• Report to dispatcher via radio any route detours or passengers in need of medical attention or police assistance\n\nQualifications:\n• High school diploma\n• Twenty-one years of age\n• Valid Class B commercial driver’s license\n• Good work history and record of safe driving (five years)\n• Must successfully pass a training and route familiarization program\n• Must be able to work various shifts, weekends, holidays",
+            "image": "/assets/day-17/images/reading/pta-map.webp",
+            "imageAlt": "Map showing the PTA office near North Washington Avenue, Third Avenue, and Interstate Exit 11"
+          },
+          "vi": "Tuyển dụng: Tài xế xe buýt\n(Đăng ngày 15 tháng 8)\n\nCơ quan Giao thông Pennsylvania (PTA) đang tuyển tài xế xe buýt làm việc toàn thời gian, lâu dài, bắt đầu ngày 1 tháng 10. Quyền lợi gồm lương khởi điểm 11,20 đô la/giờ, đào tạo tại chỗ, chế độ phúc lợi cạnh tranh, thẻ đi lại cho nhân viên, hai tuần nghỉ phép có lương, tám ngày nghỉ lễ có lương, lựa chọn giữa hai chương trình hưu trí và cơ hội thăng tiến tốt. Hãy đến nộp đơn trực tiếp tại văn phòng Philadelphia (xem bản đồ). Không nhận đơn sau ngày 1 tháng 9.\n\nNhiệm vụ:\n• Chở khách theo tuyến định sẵn và hỗ trợ thông tin tuyến đường, giá vé\n• Theo dõi hộp thu tiền vé để bảo đảm khách trả đúng số tiền\n• Nộp phiếu ghi lỗi hằng ngày, nêu các hư hỏng cơ khí và thân xe\n• Báo cho điều phối viên qua bộ đàm khi phải đi đường vòng hoặc có hành khách cần trợ giúp y tế hay cảnh sát\n\nYêu cầu:\n• Có bằng tốt nghiệp trung học phổ thông\n• 21 tuổi\n• Có giấy phép lái xe thương mại hạng B còn hiệu lực\n• Có quá trình làm việc tốt và hồ sơ lái xe an toàn trong năm năm\n• Hoàn thành chương trình đào tạo và làm quen tuyến đường\n• Có thể làm nhiều ca, cuối tuần và ngày lễ\n\nBản đồ chỉ văn phòng PTA gần đại lộ North Washington, đại lộ Third và lối ra 11 của đường liên bang.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d17-read-17",
+          "no": 17,
+          "text": "What is NOT required for this position?",
+          "options": {
+            "A": "A five-year safe driving record",
+            "B": "A commercial driver’s license",
+            "C": "An employee transportation pass",
+            "D": "A high school diploma"
+          },
+          "answer": "C",
+          "explain": "Thẻ đi lại cho nhân viên là phúc lợi được cấp, không phải điều kiện tuyển dụng. Ba mục còn lại đều nằm trong phần Qualifications.",
+          "passage": {
+            "text": "Wanted: Bus Operators\n(Posted: August 15)\n\nThe Pennsylvania Transportation Authority (PTA) is recruiting permanent, full-time bus operators to start October 1. We offer starting pay of $11.20/hour, on-the-job training, a competitive benefits package, an employee transportation pass, two weeks paid vacation, eight paid holidays, a choice of two retirement plans, and excellent career advancement opportunities. Please apply in person at the Philadelphia office (see map below). No applications will be accepted after September 1.\n\nDuties:\n• Transport passengers on a predetermined route and assist with route and fare information\n• Monitor fare box for correct fare deposits\n• File a defect card daily, noting mechanical and body defects on vehicle\n• Report to dispatcher via radio any route detours or passengers in need of medical attention or police assistance\n\nQualifications:\n• High school diploma\n• Twenty-one years of age\n• Valid Class B commercial driver’s license\n• Good work history and record of safe driving (five years)\n• Must successfully pass a training and route familiarization program\n• Must be able to work various shifts, weekends, holidays",
+            "image": "/assets/day-17/images/reading/pta-map.webp",
+            "imageAlt": "Map showing the PTA office near North Washington Avenue, Third Avenue, and Interstate Exit 11"
+          },
+          "vi": "Tuyển dụng: Tài xế xe buýt\n(Đăng ngày 15 tháng 8)\n\nCơ quan Giao thông Pennsylvania (PTA) đang tuyển tài xế xe buýt làm việc toàn thời gian, lâu dài, bắt đầu ngày 1 tháng 10. Quyền lợi gồm lương khởi điểm 11,20 đô la/giờ, đào tạo tại chỗ, chế độ phúc lợi cạnh tranh, thẻ đi lại cho nhân viên, hai tuần nghỉ phép có lương, tám ngày nghỉ lễ có lương, lựa chọn giữa hai chương trình hưu trí và cơ hội thăng tiến tốt. Hãy đến nộp đơn trực tiếp tại văn phòng Philadelphia (xem bản đồ). Không nhận đơn sau ngày 1 tháng 9.\n\nNhiệm vụ:\n• Chở khách theo tuyến định sẵn và hỗ trợ thông tin tuyến đường, giá vé\n• Theo dõi hộp thu tiền vé để bảo đảm khách trả đúng số tiền\n• Nộp phiếu ghi lỗi hằng ngày, nêu các hư hỏng cơ khí và thân xe\n• Báo cho điều phối viên qua bộ đàm khi phải đi đường vòng hoặc có hành khách cần trợ giúp y tế hay cảnh sát\n\nYêu cầu:\n• Có bằng tốt nghiệp trung học phổ thông\n• 21 tuổi\n• Có giấy phép lái xe thương mại hạng B còn hiệu lực\n• Có quá trình làm việc tốt và hồ sơ lái xe an toàn trong năm năm\n• Hoàn thành chương trình đào tạo và làm quen tuyến đường\n• Có thể làm nhiều ca, cuối tuần và ngày lễ\n\nBản đồ chỉ văn phòng PTA gần đại lộ North Washington, đại lộ Third và lối ra 11 của đường liên bang.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

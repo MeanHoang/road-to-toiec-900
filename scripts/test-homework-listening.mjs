@@ -4,7 +4,7 @@ import { choicesOf, hasPhoto, usesDictation, countCorrect } from '../features/li
 import { assemble } from '../features/lesson/schema.js';
 
 const read = (name) => JSON.parse(readFileSync(`content/day-17/${name}.json`, 'utf8'));
-const day = assemble('day-17', { day: read('day'), listening: read('listening') });
+const day = assemble('day-17', { day: read('day'), listening: read('listening'), exercises: read('exercises') });
 assert.ok(day.has('listening'));
 assert.equal(day.listening.length, 4);
 assert.deepEqual(day.listening.map((set) => set.questions.length), [6, 25, 6, 25]);
@@ -32,3 +32,26 @@ assert.equal(usesDictation({ hasKey: false, mode: 'choice' }, false), false, 'un
 assert.equal(usesDictation({ hasKey: true, mode: 'choice' }, false), false);
 assert.equal(usesDictation({ hasKey: true, mode: 'choice' }, true), true);
 console.log('✓ Day 17: 4 AI-keyed sets, 62 answers and transcripts, media and choice/dictation behavior');
+
+assert.ok(day.has('exercises'));
+assert.deepEqual(day.exercises.map((set) => set.questions.length), [2, 2, 3, 3, 3, 4]);
+const reading = day.exercises.flatMap((set) => set.questions);
+assert.deepEqual(reading.map((q) => q.no), Array.from({ length: 17 }, (_, i) => i + 1));
+assert.equal(new Set(reading.map((q) => q.id)).size, 17);
+for (const set of day.exercises) {
+  assert.equal(set.part, 7);
+  assert.equal(set.kind, 'choice');
+  assert.ok(set.sourcePages.length > 0);
+  for (const q of set.questions) {
+    assert.deepEqual(Object.keys(q.options), ['A', 'B', 'C', 'D']);
+    assert.ok(q.options[q.answer] && q.explain && q.vi && q.passage.text);
+    assert.equal(q.source.answer, 'ai');
+    assert.equal(q.source.passage, 'pdf');
+  }
+}
+const bus = day.exercises.at(-1);
+assert.deepEqual(bus.sourcePages, [6, 7], 'Keep the advertisement and its questions across the page break');
+assert.ok(existsSync(`public${bus.questions[0].passage.image}`));
+assert.ok(bus.questions[0].passage.imageAlt);
+assert.ok(bus.questions[0].passage.text.includes('September 1'));
+console.log('✓ Day 17: 6 Part 7 advertisements, all 17 questions, AI provenance, translations, and original map');

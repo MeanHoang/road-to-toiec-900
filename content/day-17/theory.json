@@ -20,6 +20,11 @@
         "Previous homework review": [
           "Check đáp án BTVN buổi trước (Day 16 trong ứng dụng).",
           "Theo hướng dẫn của cô, đã làm bài trên web thì không cần làm thêm phần BTVN trong thư mục Drive."
+        ],
+        "Reading practice": [
+          "Luyện thêm Part 7 — Unit 3: 6 bài quảng cáo, 17 câu hỏi từ tài liệu D8 S2 UNIT3.pdf trong thư mục Drive.",
+          "Phần Reading này là tài liệu luyện thêm trong Drive; danh sách BTVN trên web chỉ giao 4 bài nghe.",
+          "Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện."
         ]
       },
       "source": "user"
@@ -60,6 +65,10 @@
         {
           "label": "Review Day 7 listening",
           "href": "/day/day-16/listen"
+        },
+        {
+          "label": "Day 8 Part 7 — Unit 3 reading",
+          "href": "/day/day-17/exercises"
         }
       ],
       "source": "user"
