@@ -12,7 +12,7 @@ import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
 import { db, isConfigured } from '@/lib/firebase';
 import { assemble } from './schema';
 import { mergeVocabularyAudio } from './recordings';
-import { bundledDays, getBundledDay } from './bundled';
+import { bundledDays, getBundledDay, getBundledFiles } from './bundled';
 import { englishMetadata } from '@/shared/lib/englishLabels';
 
 const COLLECTIONS = [
@@ -52,7 +52,12 @@ export async function fetchDay(slug) {
     try {
       const daySnap = await getDoc(doc(store, 'days', slug));
       if (daySnap.exists()) {
-        const files = { day: daySnap.data() };
+        const bundled = getBundledFiles(slug);
+        const remoteDay = daySnap.data();
+        const files = { ...bundled, day: {
+          ...remoteDay,
+          collections: [...new Set([...(remoteDay.collections || []), ...(bundled?.day.collections || [])])],
+        } };
 
         const colSnap = await getDocs(collection(store, 'days', slug, 'collections'));
         colSnap.forEach((d) => {
@@ -91,7 +96,8 @@ export async function fetchDayIndex() {
           [slug, { slug, no, title, subtitle, phase, exerciseLabel, collections }]));
         snap.docs.forEach((doc) => {
           const day = englishMetadata(doc.data());
-          merged.set(day.slug, { ...merged.get(day.slug), ...day });
+          const local = merged.get(day.slug);
+          merged.set(day.slug, { ...local, ...day, collections: [...new Set([...(day.collections || []), ...(local?.collections || [])])] });
         });
         return [...merged.values()].sort((a, b) => (a.no || 0) - (b.no || 0));
       }

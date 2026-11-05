@@ -11,7 +11,7 @@ import { PageHeader } from '@/shared/ui/molecules/PageHeader';
 import { StepList } from '@/shared/ui/molecules/StepList';
 import { ChoicePanel } from './ChoicePanel';
 import { DictationPanel } from './DictationPanel';
-import { choicesOf, hasPhoto } from './rules';
+import { choicesOf, hasPhoto, usesDictation } from './rules';
 
 /**
  * Một bộ bài nghe. Màn này chỉ lo ĐIỀU HƯỚNG giữa các câu và bày bố cục;
@@ -53,10 +53,9 @@ export function ListenSetScreen({ slug, setId, day }) {
   // Chép được ở gần như mọi bộ — audio nào cũng có lời để mà chép lại. Ngoại lệ
   // duy nhất là bộ CÓ đáp án chính thức và đang ở chế độ chọn A–D.
   //
-  // Bộ KHÔNG có đáp án thì luôn chép: chọn A–D ở đó không chấm được (tài liệu
-  // không phát key), nên bày ra bốn ô để bấm là bày ra một việc vô nghĩa. Chép
-  // lại thì chấm được thật, vì đối chiếu với lời thoại chứ không cần key.
-  const chepLai = !set.hasKey || writing;
+  // Bộ chưa có key mặc định luyện chép. BTVN khai mode 'choice' cho phép lưu
+  // lựa chọn để tự luyện, với thông báo rõ rằng bài chưa được chấm điểm.
+  const chepLai = usesDictation(set, writing);
 
   const letters = choicesOf(set);
   const lettersLabel = `${letters[0]}–${letters[letters.length - 1]}`;

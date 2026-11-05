@@ -9,6 +9,9 @@ export const CHOICES = ['A', 'B', 'C', 'D'];
  */
 export const choicesOf = (set) => set?.choices || CHOICES;
 
+/** Explicit choice homework remains usable while its answer key is unavailable. */
+export const usesDictation = (set, writing) => writing || (!set.hasKey && set.mode !== 'choice');
+
 /**
  * Bộ này có tranh đề bài không. Chỉ Part 1 là tả tranh; Part 2 hỏi-đáp và
  * Part 3 hội thoại không có tranh, nên không được hiện ô "chưa có ảnh".

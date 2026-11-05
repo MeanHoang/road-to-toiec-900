@@ -1,0 +1,962 @@
+{
+  "collection": "listening",
+  "day": "day-17",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d17-hw-2024-test-5-p1",
+      "code": "hw-2024-test-5-p1",
+      "title": "2024 Test 5 — Part 1",
+      "subtitle": "Class homework · listen and save your answers · not graded yet",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": false,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "42cd5343-d660-4eec-ac94-e929e52e751f",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d17-hw-2024-test-5-p1-01",
+          "no": 1,
+          "audio": "/assets/day-17/online-homework/test-5/audio/01.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/01.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "0748aade-2822-4433-b5a9-bd4e57e18488",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p1-02",
+          "no": 2,
+          "audio": "/assets/day-17/online-homework/test-5/audio/02.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/02.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "30d93a92-8a56-46b3-920b-b9623b8ba489",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p1-03",
+          "no": 3,
+          "audio": "/assets/day-17/online-homework/test-5/audio/03.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/03.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "4dea17f1-7bba-4ced-a584-ec716842b388",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p1-04",
+          "no": 4,
+          "audio": "/assets/day-17/online-homework/test-5/audio/04.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/04.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "96166a02-3d22-46c1-acce-1ba7f30e1b3c",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p1-05",
+          "no": 5,
+          "audio": "/assets/day-17/online-homework/test-5/audio/05.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/05.jpg",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "efd2d6e9-2851-47b1-94fd-a8ea85b339bc",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p1-06",
+          "no": 6,
+          "audio": "/assets/day-17/online-homework/test-5/audio/06.mp3",
+          "image": "/assets/day-17/online-homework/test-5/images/06.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "35915747-34cc-4144-ae8a-fbea23c8972e",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-hw-2024-test-5-p2",
+      "code": "hw-2024-test-5-p2",
+      "title": "2024 Test 5 — Part 2",
+      "subtitle": "Class homework · listen and save your answers · not graded yet",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "42cd5343-d660-4eec-ac94-e929e52e751f",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d17-hw-2024-test-5-p2-07",
+          "no": 7,
+          "audio": "/assets/day-17/online-homework/test-5/audio/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "4fd1417c-a8a1-4fc2-a8ff-dd76aa7cde82",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-08",
+          "no": 8,
+          "audio": "/assets/day-17/online-homework/test-5/audio/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "94ffda39-43c2-47a8-85e9-1be56a4f5231",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-09",
+          "no": 9,
+          "audio": "/assets/day-17/online-homework/test-5/audio/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "dea18075-5d9d-4266-9771-15f621ad6ad1",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-10",
+          "no": 10,
+          "audio": "/assets/day-17/online-homework/test-5/audio/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "3deb3589-2eec-408d-af23-c2e074bd579e",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-11",
+          "no": 11,
+          "audio": "/assets/day-17/online-homework/test-5/audio/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "b4d8568d-db47-4eb5-96cb-ac6e90d0d416",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-12",
+          "no": 12,
+          "audio": "/assets/day-17/online-homework/test-5/audio/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "576716a1-5283-4a7a-b685-51063e49ade4",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-13",
+          "no": 13,
+          "audio": "/assets/day-17/online-homework/test-5/audio/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "aa540ec9-7857-4cd6-89ca-aa882f72f3ae",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-14",
+          "no": 14,
+          "audio": "/assets/day-17/online-homework/test-5/audio/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "7e6417ce-c9e0-412c-897d-6f3bd2eddde4",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-15",
+          "no": 15,
+          "audio": "/assets/day-17/online-homework/test-5/audio/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "161841da-8c29-4134-8ca6-d48b253911ce",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-16",
+          "no": 16,
+          "audio": "/assets/day-17/online-homework/test-5/audio/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "6fda280b-9a60-4fb9-b40f-70cac9fb58e1",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-17",
+          "no": 17,
+          "audio": "/assets/day-17/online-homework/test-5/audio/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "f7ed2394-7c2e-4cf4-b792-4e86bf9412bb",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-18",
+          "no": 18,
+          "audio": "/assets/day-17/online-homework/test-5/audio/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5a11ed70-e2be-4ef9-aaef-0d790c85c915",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-19",
+          "no": 19,
+          "audio": "/assets/day-17/online-homework/test-5/audio/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "c2c5d462-0b2b-46a9-b03c-10406aa4d7e2",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-20",
+          "no": 20,
+          "audio": "/assets/day-17/online-homework/test-5/audio/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "81b78e98-3c81-4564-87ee-5085343d5568",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-21",
+          "no": 21,
+          "audio": "/assets/day-17/online-homework/test-5/audio/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "1d544789-9800-446f-8d2d-e4ed908c422f",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-22",
+          "no": 22,
+          "audio": "/assets/day-17/online-homework/test-5/audio/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "b9f066a4-a66e-4033-b6af-12465e4b0198",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-23",
+          "no": 23,
+          "audio": "/assets/day-17/online-homework/test-5/audio/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "6a6829c1-da44-4e2d-b7e8-14dc1f7061a3",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-24",
+          "no": 24,
+          "audio": "/assets/day-17/online-homework/test-5/audio/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "f44d078e-1f8d-488c-a598-a1f1e4a575dc",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-25",
+          "no": 25,
+          "audio": "/assets/day-17/online-homework/test-5/audio/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "a78b9c5d-8eb4-41d5-b56d-3ffc7813be78",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-26",
+          "no": 26,
+          "audio": "/assets/day-17/online-homework/test-5/audio/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5035ff08-1207-412c-af3a-c27765d1cee5",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-27",
+          "no": 27,
+          "audio": "/assets/day-17/online-homework/test-5/audio/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "66ab5bda-d70a-4bd1-aedb-4aa3ac57ed82",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-28",
+          "no": 28,
+          "audio": "/assets/day-17/online-homework/test-5/audio/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "20565249-d891-44f4-ad43-144c4566174b",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-29",
+          "no": 29,
+          "audio": "/assets/day-17/online-homework/test-5/audio/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "366e70ea-63ad-426d-aedd-a690d54affec",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-30",
+          "no": 30,
+          "audio": "/assets/day-17/online-homework/test-5/audio/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5889d5e1-3009-48f2-83c2-4abbfdcc35ca",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-5-p2-31",
+          "no": 31,
+          "audio": "/assets/day-17/online-homework/test-5/audio/31.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "acd3c982-e567-4b40-8e63-d11ac0334285",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-hw-2024-test-6-p1",
+      "code": "hw-2024-test-6-p1",
+      "title": "2024 Test 6 — Part 1",
+      "subtitle": "Class homework · listen and save your answers · not graded yet",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": false,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "ce736b28-62b6-4877-b761-335528119987",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d17-hw-2024-test-6-p1-01",
+          "no": 1,
+          "audio": "/assets/day-17/online-homework/test-6/audio/01.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/01.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "4752af37-3702-4e49-9c6b-cf302703c48c",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p1-02",
+          "no": 2,
+          "audio": "/assets/day-17/online-homework/test-6/audio/02.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/02.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "d4c60973-fd66-42a6-9d15-6b438672b86b",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p1-03",
+          "no": 3,
+          "audio": "/assets/day-17/online-homework/test-6/audio/03.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/03.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "8e83204b-1ff2-4a76-9721-ae8b34a4da33",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p1-04",
+          "no": 4,
+          "audio": "/assets/day-17/online-homework/test-6/audio/04.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/04.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "00c1e15f-caec-4646-ac30-c2a73898dd53",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p1-05",
+          "no": 5,
+          "audio": "/assets/day-17/online-homework/test-6/audio/05.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/05.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "7212136b-8164-43dc-966b-a5b9b4c48bf0",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p1-06",
+          "no": 6,
+          "audio": "/assets/day-17/online-homework/test-6/audio/06.mp3",
+          "image": "/assets/day-17/online-homework/test-6/images/06.webp",
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "f34b1c46-3060-43a9-b018-deea0363998b",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d17-hw-2024-test-6-p2",
+      "code": "hw-2024-test-6-p2",
+      "title": "2024 Test 6 — Part 2",
+      "subtitle": "Class homework · listen and save your answers · not graded yet",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "ce736b28-62b6-4877-b761-335528119987",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d17-hw-2024-test-6-p2-07",
+          "no": 7,
+          "audio": "/assets/day-17/online-homework/test-6/audio/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "be70aac1-4cc5-4ea9-ba9d-23a9316a9571",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-08",
+          "no": 8,
+          "audio": "/assets/day-17/online-homework/test-6/audio/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "257211a0-04a6-4815-b264-02a0284c526e",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-09",
+          "no": 9,
+          "audio": "/assets/day-17/online-homework/test-6/audio/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5eafc049-0024-43b1-a0c9-224f26291ecd",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-10",
+          "no": 10,
+          "audio": "/assets/day-17/online-homework/test-6/audio/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "69930644-df21-47d3-8eda-403c830b69ab",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-11",
+          "no": 11,
+          "audio": "/assets/day-17/online-homework/test-6/audio/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "bfea13ba-bdd8-4c67-9cc8-5d08a1847748",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-12",
+          "no": 12,
+          "audio": "/assets/day-17/online-homework/test-6/audio/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "ceb1cf8d-b745-4b44-aedb-ba0ec84208a4",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-13",
+          "no": 13,
+          "audio": "/assets/day-17/online-homework/test-6/audio/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "37045fbe-e966-434a-9888-4f562ee802b2",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-14",
+          "no": 14,
+          "audio": "/assets/day-17/online-homework/test-6/audio/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5b2c2739-77f5-47fa-8267-c8d30e624138",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-15",
+          "no": 15,
+          "audio": "/assets/day-17/online-homework/test-6/audio/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "f5760013-02ab-4913-ad97-010807455ccf",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-16",
+          "no": 16,
+          "audio": "/assets/day-17/online-homework/test-6/audio/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "81ccbc3f-0bc5-47b5-99f0-3ded354f8a74",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-17",
+          "no": 17,
+          "audio": "/assets/day-17/online-homework/test-6/audio/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "5fe5f8cb-dbc0-4913-bc9b-6179e34b4b40",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-18",
+          "no": 18,
+          "audio": "/assets/day-17/online-homework/test-6/audio/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "a5c61d42-6587-4b91-8f77-24a6975d5213",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-19",
+          "no": 19,
+          "audio": "/assets/day-17/online-homework/test-6/audio/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "0361151b-e15d-416c-8c44-beefe9b3f524",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-20",
+          "no": 20,
+          "audio": "/assets/day-17/online-homework/test-6/audio/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "c391a191-97e3-4992-9c01-8bd583952e84",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-21",
+          "no": 21,
+          "audio": "/assets/day-17/online-homework/test-6/audio/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "ec59b3fd-04cc-4086-afe5-2ab9b5a31bc6",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-22",
+          "no": 22,
+          "audio": "/assets/day-17/online-homework/test-6/audio/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "801de551-837d-49f9-97d6-7774ab2ee2e1",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-23",
+          "no": 23,
+          "audio": "/assets/day-17/online-homework/test-6/audio/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "82feb5d7-5002-43d6-b156-a6d3d119f17f",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-24",
+          "no": 24,
+          "audio": "/assets/day-17/online-homework/test-6/audio/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "9a833abe-3973-489f-ab6d-c8a99436cdf8",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-25",
+          "no": 25,
+          "audio": "/assets/day-17/online-homework/test-6/audio/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "c60816d3-8421-45a9-884a-f1935c02f7d6",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-26",
+          "no": 26,
+          "audio": "/assets/day-17/online-homework/test-6/audio/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "ca720561-5ffd-44e5-a3fd-92595e6d87ac",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-27",
+          "no": 27,
+          "audio": "/assets/day-17/online-homework/test-6/audio/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "2a758b46-fa8e-48e2-838a-9989d8118fc2",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-28",
+          "no": 28,
+          "audio": "/assets/day-17/online-homework/test-6/audio/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "9150335c-5fa2-46ba-b0cd-aa12d97b3b2c",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-29",
+          "no": 29,
+          "audio": "/assets/day-17/online-homework/test-6/audio/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "cb2743bc-7d34-426c-ad55-ab0cdf034e99",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-30",
+          "no": 30,
+          "audio": "/assets/day-17/online-homework/test-6/audio/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "69811202-c357-41f5-87b8-d7c4204a61d7",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        },
+        {
+          "id": "d17-hw-2024-test-6-p2-31",
+          "no": 31,
+          "audio": "/assets/day-17/online-homework/test-6/audio/31.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": null,
+          "sourceCardId": "0ec14fc2-4013-40ad-a30b-4d5a432d8caa",
+          "source": {
+            "audio": "thaylong",
+            "answer": null,
+            "transcript": null
+          }
+        }
+      ]
+    }
+  ]
+}

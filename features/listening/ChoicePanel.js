@@ -47,6 +47,8 @@ function ChoiceScript({ item, letters }) {
 export function ChoicePanel({ item, letters, saved, onAnswer, onSkip }) {
   const t = useTranslation();
   const [picked, setPicked] = useState(null);
+  const graded = Boolean(item.answer);
+  const selected = picked || saved?.picked;
 
   const solved = Boolean(saved?.correct);
   const tries = saved?.tries || 0;
@@ -59,21 +61,22 @@ export function ChoicePanel({ item, letters, saved, onAnswer, onSkip }) {
 
       <div className="options options-stacked">
         {letters.map((letter) => {
-          const revealed = solved || (picked && picked !== item.answer);
+          const revealed = graded && (solved || (picked && picked !== item.answer));
           let cls = '';
           if (revealed && letter === item.answer) cls = 'is-correct';
-          else if (picked === letter && letter !== item.answer) cls = 'is-wrong';
+          else if (graded && picked === letter && letter !== item.answer) cls = 'is-wrong';
 
           return (
             <button
               key={letter}
               className={`option ${cls}`}
               type="button"
+              aria-pressed={!graded ? selected === letter : undefined}
               disabled={solved}
               onClick={() => {
                 if (solved) return;
                 setPicked(letter);
-                onAnswer(letter, letter === item.answer);
+                onAnswer(letter, graded ? letter === item.answer : null);
               }}
             >
               <span className="key">{letter}</span>
@@ -110,7 +113,13 @@ export function ChoicePanel({ item, letters, saved, onAnswer, onSkip }) {
         </RevealAnswer>
       )}
 
-      {picked && !solved && (
+      {!graded && (
+        <p className="caption" role="status">
+          {selected ? t('Answer {0} saved. Not graded: the official answer key is unavailable.', [selected]) : t('Choose an answer to save it. This set is not graded yet.')}
+        </p>
+      )}
+
+      {graded && picked && !solved && (
         <div className="feedback feedback-error">
           {t('❌ Incorrect — unsuccessful attempts:')} <strong>{tries}</strong>.
           <div className="row" style={{ marginTop: 'var(--space-3)' }}>

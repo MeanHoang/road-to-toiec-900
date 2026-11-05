@@ -3558,5 +3558,45 @@
     "vi": "Vuốt trái: đang học · Vuốt phải: đã biết",
     "zh": "左滑：继续学习 · 右滑：已掌握",
     "ko": "왼쪽: 학습 중 · 오른쪽: 알고 있음"
+  },
+  "Answer {0} saved. Not graded: the official answer key is unavailable.": {
+    "vi": "Đã lưu đáp án {0}. Chưa chấm điểm vì chưa có đáp án chính thức.",
+    "zh": "已保存答案 {0}。暂无官方答案，尚未评分。",
+    "ko": "답 {0} 저장됨. 공식 정답이 없어 아직 채점하지 않습니다."
+  },
+  "Choose an answer to save it. This set is not graded yet.": {
+    "vi": "Chọn đáp án để lưu lại. Bộ bài này chưa chấm điểm.",
+    "zh": "选择答案即可保存。本题组尚未评分。",
+    "ko": "답을 선택하면 저장됩니다. 이 문제 세트는 아직 채점하지 않습니다."
+  },
+  "These sets save your choices without grading. The official answer key is unavailable.": {
+    "vi": "Các bộ này lưu lựa chọn của bạn và chưa chấm điểm vì chưa có đáp án chính thức.",
+    "zh": "这些题组会保存您的选择，但暂无官方答案，尚不评分。",
+    "ko": "이 문제 세트는 선택한 답을 저장합니다. 공식 정답이 없어 채점하지 않습니다."
+  },
+  "Class homework · listen and save your answers · not graded yet": {
+    "vi": "Bài tập về nhà · nghe và lưu đáp án · chưa chấm điểm",
+    "zh": "课堂作业 · 听录音并保存答案 · 暂未评分",
+    "ko": "수업 과제 · 듣고 답 저장 · 아직 채점하지 않음"
+  },
+  "2024 Test 5 — Part 1": {
+    "vi": "Đề 2024 Test 5 — Part 1",
+    "zh": "2024 年试卷 5 — 第 1 部分",
+    "ko": "2024 테스트 5 — 파트 1"
+  },
+  "2024 Test 5 — Part 2": {
+    "vi": "Đề 2024 Test 5 — Part 2",
+    "zh": "2024 年试卷 5 — 第 2 部分",
+    "ko": "2024 테스트 5 — 파트 2"
+  },
+  "2024 Test 6 — Part 1": {
+    "vi": "Đề 2024 Test 6 — Part 1",
+    "zh": "2024 年试卷 6 — 第 1 部分",
+    "ko": "2024 테스트 6 — 파트 1"
+  },
+  "2024 Test 6 — Part 2": {
+    "vi": "Đề 2024 Test 6 — Part 2",
+    "zh": "2024 年试卷 6 — 第 2 部分",
+    "ko": "2024 테스트 6 — 파트 2"
   }
 }

@@ -2041,6 +2041,11 @@ th {
 .exam-option:hover {
   border-color: var(--border-strong);
 }
+.option[aria-pressed='true'] {
+  border-color: var(--brand);
+  background: var(--brand-surface);
+}
+
 .exam-option.is-picked {
   border-color: var(--brand);
   background: var(--brand-surface);

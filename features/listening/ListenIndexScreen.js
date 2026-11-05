@@ -20,7 +20,8 @@ function KeyNote({ sets }) {
   const keyed = sets.filter((s) => s.hasKey);
   const aiKeyed = keyed.filter((s) => s.questions.some((q) => q.source?.answer === 'ai'));
   const official = keyed.filter((s) => !aiKeyed.includes(s));
-  const noKey = sets.filter((s) => !s.hasKey);
+  const noKey = sets.filter((s) => !s.hasKey && s.mode !== 'choice');
+  const ungraded = sets.filter((s) => !s.hasKey && s.mode === 'choice');
   const names = (list) => list.map((s) => s.title).join(', ');
 
   return (
@@ -35,6 +36,9 @@ function KeyNote({ sets }) {
           <p>
             <strong>{t('AI-generated answers')}</strong> {t('for sets without an official key:')} {names(aiKeyed)}.
           </p>
+        )}
+        {ungraded.length > 0 && (
+          <p>{t('These sets save your choices without grading. The official answer key is unavailable.')} {names(ungraded)}.</p>
         )}
         {noKey.length > 0 && (
           <p>

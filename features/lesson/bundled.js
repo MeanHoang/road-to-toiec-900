@@ -108,9 +108,10 @@ import d16listening from '@/content/day-16/listening.json';
 import d17day from '@/content/day-17/day.json';
 import d17vocabulary from '@/content/day-17/vocabulary.json';
 import d17theory from '@/content/day-17/theory.json';
+import d17listening from '@/content/day-17/listening.json';
 
 const REGISTRY = {
-  'day-17': { day: d17day, vocabulary: d17vocabulary, theory: d17theory },
+  'day-17': { day: d17day, vocabulary: d17vocabulary, theory: d17theory, listening: d17listening },
   'day-16': {
     day: d16day,
     vocabulary: d16vocabulary,
@@ -232,3 +233,4 @@ export const bundledDays = daysIndex.days
   .filter(Boolean);
 
 export const getBundledDay = (slug) => bundledDays.find((d) => d.slug === slug);
+export const getBundledFiles = (slug) => REGISTRY[slug];
