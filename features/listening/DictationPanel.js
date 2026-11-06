@@ -54,6 +54,7 @@ export function DictationPanel({ item, slug, value, onChange }) {
 
       <DictationField
         answer={spokenText(item.transcript)}
+        translation={item.transcriptVi}
         value={value}
         onChange={onChange}
         minHeight={nhieuPhuongAn ? 132 : 96}

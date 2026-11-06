@@ -18,7 +18,7 @@ import { checkLine, fullLine } from './dictation';
  * Gõ tiếp là gạch chân biến mất (nó nói về bản đã chấm, không phải bản đang
  * gõ), nhưng đáp án đã lộ thì giữ nguyên — đang cần nó để gõ nốt.
  */
-export function DictationField({ answer, value, onChange, minHeight }) {
+export function DictationField({ answer, translation, value, onChange, minHeight }) {
   const t = useTranslation();
   const [checked, setChecked] = useState(null); // { text, result } | null
   const [gaveUp, setGaveUp] = useState(false);
@@ -95,6 +95,11 @@ export function DictationField({ answer, value, onChange, minHeight }) {
               {w.text}{' '}
             </span>
           ))}
+        </p>
+      )}
+      {translation && (done || gaveUp) && (
+        <p className="caption" style={{ whiteSpace: 'pre-line' }}>
+          <strong>{t('Translation')}</strong>: {translation}
         </p>
       )}
     </div>

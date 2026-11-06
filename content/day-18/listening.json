@@ -1,0 +1,1998 @@
+{
+  "collection": "listening",
+  "day": "day-18",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d18-hw-2024-test-7-p1",
+      "code": "hw-2024-test-7-p1",
+      "title": "2024 Test 7 — Part 1",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "8a5a2f0e-abae-4986-8c08-46426e43f0fa",
+      "sourceHomeworkItemId": "a756e3fc-f151-418c-bbc3-1311c224b871",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b?hwId=58c81108-71ed-4f42-bfc9-3f9e84e04ba5&classHwId=c7e2f98a-9ef0-42d7-a825-67ec8b6adeb8",
+      "questions": [
+        {
+          "id": "d18-hw-2024-test-7-p1-01",
+          "no": 1,
+          "audio": "/assets/day-18/online-homework/test-7/audio/01.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/01.webp",
+          "answer": "D",
+          "transcript": {
+            "A": "He's digging in a garden.",
+            "B": "He's stacking wooden pallets.",
+            "C": "He's emptying soil from a pot.",
+            "D": "He's examining some plants."
+          },
+          "sourceCardId": "6040e294-93fb-4376-9255-35390b71522d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p1-02",
+          "no": 2,
+          "audio": "/assets/day-18/online-homework/test-7/audio/02.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/02.webp",
+          "answer": "D",
+          "transcript": {
+            "A": "One of the women is pushing a cart towards an exit.",
+            "B": "One of the women is hanging a coat on a hook.",
+            "C": "The women are restocking some store shelves.",
+            "D": "The women are purchasing some groceries."
+          },
+          "sourceCardId": "e650dcab-6ef8-4001-8fcb-6d5c89022168",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p1-03",
+          "no": 3,
+          "audio": "/assets/day-18/online-homework/test-7/audio/03.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/03.webp",
+          "answer": "A",
+          "transcript": {
+            "A": "The man is resting his arm on a counter.",
+            "B": "The man is folding his coat.",
+            "C": "A cabinet door has been left open.",
+            "D": "Some stools are being wiped down."
+          },
+          "sourceCardId": "78e39b2b-ae92-444c-9349-dfeabae7db3c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p1-04",
+          "no": 4,
+          "audio": "/assets/day-18/online-homework/test-7/audio/04.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/04.webp",
+          "answer": "B",
+          "transcript": {
+            "A": "Some balconies are decorated with banners.",
+            "B": "Some signs have been posted in front of a building.",
+            "C": "A cafe has been set up on a street corner.",
+            "D": "A tour group is standing outside a building."
+          },
+          "sourceCardId": "5e4dc756-2e32-4252-9e9b-0cb3657c1611",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p1-05",
+          "no": 5,
+          "audio": "/assets/day-18/online-homework/test-7/audio/05.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/05.webp",
+          "answer": "C",
+          "transcript": {
+            "A": "Some people are waiting at a bus stop.",
+            "B": "Bike racks have been placed near a lawn.",
+            "C": "Some cars are parked along a sidewalk.",
+            "D": "Some people are gathered in a city square."
+          },
+          "sourceCardId": "28482d97-8d74-425f-a072-4950c2b00a44",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p1-06",
+          "no": 6,
+          "audio": "/assets/day-18/online-homework/test-7/audio/06.mp3",
+          "image": "/assets/day-18/online-homework/test-7/images/06.webp",
+          "answer": "C",
+          "transcript": {
+            "A": "The sun is being blocked by some curtains.",
+            "B": "There's a large carpet underneath a piano.",
+            "C": "There are some windows by a seating area.",
+            "D": "Some furniture is being stored in a closet."
+          },
+          "sourceCardId": "10f7da2f-206e-43d1-935e-17a9d16c8be7",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-hw-2024-test-8-p1",
+      "code": "hw-2024-test-8-p1",
+      "title": "2024 Test 8 — Part 1",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "7e2e24be-1f74-4c49-83e2-9331d1f516f7",
+      "sourceHomeworkItemId": "bb604463-7a20-466e-8be5-80e0a03e9ecf",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b?hwId=58c81108-71ed-4f42-bfc9-3f9e84e04ba5&classHwId=c7e2f98a-9ef0-42d7-a825-67ec8b6adeb8",
+      "questions": [
+        {
+          "id": "d18-hw-2024-test-8-p1-01",
+          "no": 1,
+          "audio": "/assets/day-18/online-homework/test-8/audio/01.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/01.webp",
+          "answer": "D",
+          "transcript": {
+            "A": "She's taking off her badge.",
+            "B": "She's leaning over a desk.",
+            "C": "She's locking a door.",
+            "D": "She's lifting a bin."
+          },
+          "sourceCardId": "76dae085-35c9-4a61-ad45-ca5565bf8e5d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p1-02",
+          "no": 2,
+          "audio": "/assets/day-18/online-homework/test-8/audio/02.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/02.webp",
+          "answer": "B",
+          "transcript": {
+            "A": "A man is repairing a railing.",
+            "B": "A man is climbing some stairs.",
+            "C": "A man is carrying a ladder.",
+            "D": "A man is looking up at a roof."
+          },
+          "sourceCardId": "8917c3c6-d5a1-4cab-84fc-fe9f0d14cb15",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p1-03",
+          "no": 3,
+          "audio": "/assets/day-18/online-homework/test-8/audio/03.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/03.webp",
+          "answer": "D",
+          "transcript": {
+            "A": "A person is swimming in a lake.",
+            "B": "A sign is posted on a building.",
+            "C": "A bird is resting on a pole.",
+            "D": "A person is rowing a boat."
+          },
+          "sourceCardId": "70474459-ab38-42e9-a1a4-e2ec8f0b10e1",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p1-04",
+          "no": 4,
+          "audio": "/assets/day-18/online-homework/test-8/audio/04.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/04.webp",
+          "answer": "C",
+          "transcript": {
+            "A": "One of the workers is opening a display case.",
+            "B": "One of the workers is tying a necktie.",
+            "C": "The workers are behind a counter.",
+            "D": "The workers are greeting some customers."
+          },
+          "sourceCardId": "55bc3c0d-2b0d-47dc-a159-687bff465d5f",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p1-05",
+          "no": 5,
+          "audio": "/assets/day-18/online-homework/test-8/audio/05.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/05.webp",
+          "answer": "B",
+          "transcript": {
+            "A": "Some rocks are piled in a wheelbarrow.",
+            "B": "Some telephone wires are suspended over a road.",
+            "C": "Some benches are occupied.",
+            "D": "Some trees are shading a picnic table."
+          },
+          "sourceCardId": "65531824-14fc-4c2f-adb7-8c8a55faa010",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p1-06",
+          "no": 6,
+          "audio": "/assets/day-18/online-homework/test-8/audio/06.mp3",
+          "image": "/assets/day-18/online-homework/test-8/images/06.webp",
+          "answer": "A",
+          "transcript": {
+            "A": "Some papers have been pinned to a bulletin board.",
+            "B": "A clock has been set on a bedside table.",
+            "C": "A painting has been propped against a chair.",
+            "D": "Some medical equipment has been placed on a shelf."
+          },
+          "sourceCardId": "33b9eb93-08bd-4807-b8cd-71d759ece8e5",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-hw-2024-test-8-p2",
+      "code": "hw-2024-test-8-p2",
+      "title": "2024 Test 8 — Part 2",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "7e2e24be-1f74-4c49-83e2-9331d1f516f7",
+      "sourceHomeworkItemId": "f6237182-69b0-4999-b7d8-2260b2248c07",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b?hwId=58c81108-71ed-4f42-bfc9-3f9e84e04ba5&classHwId=c7e2f98a-9ef0-42d7-a825-67ec8b6adeb8",
+      "questions": [
+        {
+          "id": "d18-hw-2024-test-8-p2-07",
+          "no": 7,
+          "audio": "/assets/day-18/online-homework/test-8/audio/07.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who's picking up the newspaper?",
+            "A": "Some paper napkins.",
+            "B": "Camille said she will.",
+            "C": "He took out the trash."
+          },
+          "sourceCardId": "8a31fa08-2e3f-4f44-892d-713d7e035ee2",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-08",
+          "no": 8,
+          "audio": "/assets/day-18/online-homework/test-8/audio/08.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When is your doctor's appointment?",
+            "A": "This afternoon.",
+            "B": "That's a good point.",
+            "C": "At a medical clinic."
+          },
+          "sourceCardId": "0af18b71-2f83-4763-9df9-83ebdb342bad",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-09",
+          "no": 9,
+          "audio": "/assets/day-18/online-homework/test-8/audio/09.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we have a company picnic?",
+            "A": "Potato salad and green beans.",
+            "B": "Because it costs a lot of money.",
+            "C": "I already have that one."
+          },
+          "sourceCardId": "2ee2676f-39ce-48ff-94eb-c7f61e53cb72",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-10",
+          "no": 10,
+          "audio": "/assets/day-18/online-homework/test-8/audio/10.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What do you think I should take to the conference?",
+            "A": "In the lobby.",
+            "B": "Just your laptop.",
+            "C": "A three o'clock shift."
+          },
+          "sourceCardId": "76e68870-b9e2-4d68-95c5-1827491129ee",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-11",
+          "no": 11,
+          "audio": "/assets/day-18/online-homework/test-8/audio/11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where's the festival being held?",
+            "A": "A music concert.",
+            "B": "Probably sometime in December.",
+            "C": "In the town centre."
+          },
+          "sourceCardId": "4f5c4821-42e9-4073-ada5-65dce21a9903",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-12",
+          "no": 12,
+          "audio": "/assets/day-18/online-homework/test-8/audio/12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who do I present my proposal to?",
+            "A": "A hotel reservation.",
+            "B": "The acquisitions committee.",
+            "C": "At noon today."
+          },
+          "sourceCardId": "17bee27b-651a-4be6-8843-0ed5082a27b6",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-13",
+          "no": 13,
+          "audio": "/assets/day-18/online-homework/test-8/audio/13.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Could you please look up the location on your phone?",
+            "A": "Here's my phone number.",
+            "B": "Okay, one moment.",
+            "C": "The weather is nice right now."
+          },
+          "sourceCardId": "6329cb92-3f75-456f-8521-5891a193c081",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-14",
+          "no": 14,
+          "audio": "/assets/day-18/online-homework/test-8/audio/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Isn't the accounting seminar tomorrow?",
+            "A": "I'd like to open an account, please.",
+            "B": "Actually, it's on Friday.",
+            "C": "Time management."
+          },
+          "sourceCardId": "4b63930c-b442-429b-bd5b-aa46f9345eef",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-15",
+          "no": 15,
+          "audio": "/assets/day-18/online-homework/test-8/audio/15.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When's the dishwasher being repaired?",
+            "A": "The technician came this morning.",
+            "B": "I store the knives in a separate drawer.",
+            "C": "The bread is in the pantry."
+          },
+          "sourceCardId": "b72f62d7-52d9-48a3-9138-bcd3c6e1815c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-16",
+          "no": 16,
+          "audio": "/assets/day-18/online-homework/test-8/audio/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Should we move the employee lounge to the basement?",
+            "A": "He attended the talk.",
+            "B": "The reservation is for two people.",
+            "C": "No, it's too dark down there."
+          },
+          "sourceCardId": "6a1e3b68-6176-46f6-aa46-efca64336e6d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-17",
+          "no": 17,
+          "audio": "/assets/day-18/online-homework/test-8/audio/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "You changed the color printer cartridge recently, didn't you?",
+            "A": "Right, just a few days ago.",
+            "B": "They're painting the walls blue.",
+            "C": "A different password."
+          },
+          "sourceCardId": "3e85681b-c52a-4112-8a46-cdd240914e1d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-18",
+          "no": 18,
+          "audio": "/assets/day-18/online-homework/test-8/audio/18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "We're not going to be able to fit everyone in this space.",
+            "A": "A professional development workshop.",
+            "B": "There's a larger room down the hallway.",
+            "C": "These shoes are exactly the right size."
+          },
+          "sourceCardId": "56e529c3-3d3c-48ab-92ea-d2a38a734bdd",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-19",
+          "no": 19,
+          "audio": "/assets/day-18/online-homework/test-8/audio/19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Is it easiest for me to take a bus to the city center?",
+            "A": "A new department store.",
+            "B": "When did you buy it?",
+            "C": "I usually do."
+          },
+          "sourceCardId": "699a94ec-2f63-451c-b6a0-87ebe5eb174c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-20",
+          "no": 20,
+          "audio": "/assets/day-18/online-homework/test-8/audio/20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Are you able to make a prototype soon?",
+            "A": "Yes, my team is working on it.",
+            "B": "I thought it was very innovative.",
+            "C": "He's a good typist."
+          },
+          "sourceCardId": "b1e0cb56-7418-45d0-982b-bddcd8213825",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-21",
+          "no": 21,
+          "audio": "/assets/day-18/online-homework/test-8/audio/21.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where can I buy a lamp like that?",
+            "A": "On my desk.",
+            "B": "I got this one as a gift.",
+            "C": "After my client meeting."
+          },
+          "sourceCardId": "665e182d-a68b-43f7-bab8-7d32b393df9c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-22",
+          "no": 22,
+          "audio": "/assets/day-18/online-homework/test-8/audio/22.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How often do you have to install updates?",
+            "A": "This letter needs more postage.",
+            "B": "An incorrect serial code.",
+            "C": "Wasim is the software administrator."
+          },
+          "sourceCardId": "e66d5fc0-13f6-4d5c-a035-369e4d063eb6",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-23",
+          "no": 23,
+          "audio": "/assets/day-18/online-homework/test-8/audio/23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Let's talk about your project after lunch.",
+            "A": "Because her microphone is broken.",
+            "B": "I'm leaving work early today.",
+            "C": "I have two pairs of shoes."
+          },
+          "sourceCardId": "ff852305-8fef-46f7-9c6d-ce6dc806c947",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-24",
+          "no": 24,
+          "audio": "/assets/day-18/online-homework/test-8/audio/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Is there a list of guests who have been invited?",
+            "A": "Room 305 is being prepared for you.",
+            "B": "The caterer has all the necessary information.",
+            "C": "A banquet hall on Main Street."
+          },
+          "sourceCardId": "918f3a8f-6319-4313-b968-cd454bd10eee",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-25",
+          "no": 25,
+          "audio": "/assets/day-18/online-homework/test-8/audio/25.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would it be cheaper to ship by express mail or overnight delivery?",
+            "A": "Express mail is less expensive.",
+            "B": "I'd like a large.",
+            "C": "It's in the next shipment."
+          },
+          "sourceCardId": "44e1964e-9002-4213-b7e1-43ec379ec680",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-26",
+          "no": 26,
+          "audio": "/assets/day-18/online-homework/test-8/audio/26.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How do I turn on the air conditioner in this office?",
+            "A": "The temperature is controlled automatically.",
+            "B": "Turn left after the post office.",
+            "C": "No, I shut off all the lights."
+          },
+          "sourceCardId": "d91c7189-592c-4f05-a4f9-5d970713708d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-27",
+          "no": 27,
+          "audio": "/assets/day-18/online-homework/test-8/audio/27.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Have you trained Hikaru to use the new microscope?",
+            "A": "I have my own car.",
+            "B": "That's enough. Thanks.",
+            "C": "I misplaced the instruction manual."
+          },
+          "sourceCardId": "7eedb7df-1f77-4b9c-9d84-78fefba8f51f",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-28",
+          "no": 28,
+          "audio": "/assets/day-18/online-homework/test-8/audio/28.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "We're meeting this week to discuss the upcoming merger.",
+            "A": "I have it on my calendar.",
+            "B": "Please merge onto the highway.",
+            "C": "A law firm in Glenview."
+          },
+          "sourceCardId": "33393272-ead8-49fe-8dde-1f06b2c9c416",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-29",
+          "no": 29,
+          "audio": "/assets/day-18/online-homework/test-8/audio/29.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How long will we have to wait for a taxi to arrive?",
+            "A": "About twelve kilometers.",
+            "B": "No, I don't think so.",
+            "C": "Would you prefer to walk?"
+          },
+          "sourceCardId": "10bd90bd-be17-437e-8295-e56f1863a6ee",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-30",
+          "no": 30,
+          "audio": "/assets/day-18/online-homework/test-8/audio/30.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Did the deal to lease the equipment go through?",
+            "A": "A one-bedroom apartment.",
+            "B": "The supply catalogue is in the filing cabinet.",
+            "C": "Not yet, but we hope to have it finalised this quarter."
+          },
+          "sourceCardId": "8be44e54-0244-42d3-af13-1c9967c635cd",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-8-p2-31",
+          "no": 31,
+          "audio": "/assets/day-18/online-homework/test-8/audio/31.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Would you like to take this vehicle for a test drive?",
+            "A": "Because there's no parking available.",
+            "B": "I heard a new model is coming out in March.",
+            "C": "Only two doors."
+          },
+          "sourceCardId": "1b483d5e-0bbd-4474-ac1f-d95dded2491a",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-hw-2024-test-7-p2",
+      "code": "hw-2024-test-7-p2",
+      "title": "2024 Test 7 — Part 2",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "8a5a2f0e-abae-4986-8c08-46426e43f0fa",
+      "sourceHomeworkItemId": "7ec39c39-7951-4cff-a5ba-0e8876655e9f",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b?hwId=58c81108-71ed-4f42-bfc9-3f9e84e04ba5&classHwId=c7e2f98a-9ef0-42d7-a825-67ec8b6adeb8",
+      "questions": [
+        {
+          "id": "d18-hw-2024-test-7-p2-07",
+          "no": 7,
+          "audio": "/assets/day-18/online-homework/test-7/audio/07.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Who's providing the floral arrangements for the party?",
+            "A": "The florist on Main Street.",
+            "B": "She's had a long career.",
+            "C": "Yes, his flight has been arranged."
+          },
+          "sourceCardId": "a7059a5e-ffe2-445d-b6eb-8b4168610f7d",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-08",
+          "no": 8,
+          "audio": "/assets/day-18/online-homework/test-7/audio/08.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why didn't you finish the budget report?",
+            "A": "At the finish line.",
+            "B": "No, it wasn't expensive.",
+            "C": "I was meeting with a client."
+          },
+          "sourceCardId": "22eb9b40-004d-4469-882c-b65a30545ef6",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-09",
+          "no": 9,
+          "audio": "/assets/day-18/online-homework/test-7/audio/09.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What floor are you going to?",
+            "A": "Can I have a copy of this?",
+            "B": "The 25th.",
+            "C": "That painting will look nice there."
+          },
+          "sourceCardId": "bb14a4b2-6bee-4263-8ee1-92fb743771b9",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-10",
+          "no": 10,
+          "audio": "/assets/day-18/online-homework/test-7/audio/10.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do I set up this projector?",
+            "A": "The storage area downstairs.",
+            "B": "A new project code.",
+            "C": "There's a manual in the drawer."
+          },
+          "sourceCardId": "9943b0b2-820e-477c-af83-fac05874e353",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-11",
+          "no": 11,
+          "audio": "/assets/day-18/online-homework/test-7/audio/11.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Who has already received their promotion letter?",
+            "A": "I did yesterday.",
+            "B": "A party invitation.",
+            "C": "Polina gave the speech."
+          },
+          "sourceCardId": "13c574f8-5537-4c9b-954e-f265caa094d2",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-12",
+          "no": 12,
+          "audio": "/assets/day-18/online-homework/test-7/audio/12.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Did you read the press release?",
+            "A": "I haven't checked my email all day.",
+            "B": "It's not raining here yet.",
+            "C": "The switch works fine."
+          },
+          "sourceCardId": "b1ef852e-5ca2-4776-9559-8c573c33170c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-13",
+          "no": 13,
+          "audio": "/assets/day-18/online-homework/test-7/audio/13.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Didn't we renew our newspaper subscription last month?",
+            "A": "That photo's on the front page.",
+            "B": "Here's the paper for your newsletter.",
+            "C": "Yes, it was renewed for another six months."
+          },
+          "sourceCardId": "9f089bf1-f494-45c1-b9c0-13d8d83c7430",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-14",
+          "no": 14,
+          "audio": "/assets/day-18/online-homework/test-7/audio/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When will we mention our budgetary needs to the outreach coordinator?",
+            "A": "I can't quite reach the top shelf.",
+            "B": "We're fully funded through the end of the year.",
+            "C": "Because our accountant is on vacation."
+          },
+          "sourceCardId": "0d63dd88-b770-4c3d-b342-2fd3a7900308",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-15",
+          "no": 15,
+          "audio": "/assets/day-18/online-homework/test-7/audio/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "My appointment is with Dr. Hamdy today, right?",
+            "A": "Usually an annual check-up.",
+            "B": "No, parking is not free.",
+            "C": "Yes, and she'll see you in a minute."
+          },
+          "sourceCardId": "9fe69c18-c6cd-4624-9a16-5603e0dac91c",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-16",
+          "no": 16,
+          "audio": "/assets/day-18/online-homework/test-7/audio/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where should I store this shipment of paper?",
+            "A": "The store closes at 4.",
+            "B": "By express delivery.",
+            "C": "Well, the supply room is full."
+          },
+          "sourceCardId": "4ca23643-3773-48b9-bdf5-fae2a654dc75",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-17",
+          "no": 17,
+          "audio": "/assets/day-18/online-homework/test-7/audio/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you be able to reschedule my haircut for Monday?",
+            "A": "No, we're fully booked that day.",
+            "B": "I'll open a window to let in some fresh air.",
+            "C": "The grass needs cutting."
+          },
+          "sourceCardId": "4c66dd61-d885-4804-a642-55d818ed52c2",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-18",
+          "no": 18,
+          "audio": "/assets/day-18/online-homework/test-7/audio/18.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Should I take the train or the bus to the airport?",
+            "A": "The bus stop is five kilometers away.",
+            "B": "There are enough for all of us.",
+            "C": "No, I went to a training session."
+          },
+          "sourceCardId": "28747f21-d85d-4848-9215-4dd2ba8e96dc",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-19",
+          "no": 19,
+          "audio": "/assets/day-18/online-homework/test-7/audio/19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long will the online course take?",
+            "A": "You can finish it in a few hours.",
+            "B": "$40 a month.",
+            "C": "I'll take the blue jacket."
+          },
+          "sourceCardId": "8cf68c93-a645-4727-b5b9-2435824242ab",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-20",
+          "no": 20,
+          "audio": "/assets/day-18/online-homework/test-7/audio/20.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Will this month's company gathering be held in Benson Park?",
+            "A": "I usually park by the fountain.",
+            "B": "It's still cold outside most days.",
+            "C": "Those should be printed in colour."
+          },
+          "sourceCardId": "9f773903-e80a-4022-8010-6a8123a98c64",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-21",
+          "no": 21,
+          "audio": "/assets/day-18/online-homework/test-7/audio/21.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When will the tickets for the performance be ready to pick up?",
+            "A": "We should get them by the end of the week.",
+            "B": "A famous director.",
+            "C": "Twenty-five euros."
+          },
+          "sourceCardId": "113c0b55-6adf-4c66-8d4e-968536361de9",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-22",
+          "no": 22,
+          "audio": "/assets/day-18/online-homework/test-7/audio/22.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I don't know if the packaging materials were ordered already.",
+            "A": "I saw some boxes on the loading dock.",
+            "B": "She's wearing a red hat.",
+            "C": "A lunch appointment at 12:30."
+          },
+          "sourceCardId": "84fb4081-4c34-4624-93c3-e48102bbf828",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-23",
+          "no": 23,
+          "audio": "/assets/day-18/online-homework/test-7/audio/23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Could you please send me the sales report?",
+            "A": "50% off last season's merchandise.",
+            "B": "Of course, I'll do it now.",
+            "C": "Did you check the weather report?"
+          },
+          "sourceCardId": "9d13d305-0d43-4c48-8ce4-79b9e4eef504",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-24",
+          "no": 24,
+          "audio": "/assets/day-18/online-homework/test-7/audio/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What type of view will your apartment have?",
+            "A": "The kitchen lighting looks great.",
+            "B": "I haven't signed a lease yet.",
+            "C": "We're in complete agreement on that."
+          },
+          "sourceCardId": "ae8b84a7-9126-4fc7-9e84-30c778439774",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-25",
+          "no": 25,
+          "audio": "/assets/day-18/online-homework/test-7/audio/25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How much oil does your heater use in the winter?",
+            "A": "We may need to stop for gas on our trip.",
+            "B": "That recipe calls for butter.",
+            "C": "We only use electric appliances."
+          },
+          "sourceCardId": "951bb6c5-5ca6-4410-bab7-fdc89357f00a",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-26",
+          "no": 26,
+          "audio": "/assets/day-18/online-homework/test-7/audio/26.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where can I find the vitamins?",
+            "A": "In aisle 6.",
+            "B": "That's a really healthy recipe.",
+            "C": "The library is closed on Sundays."
+          },
+          "sourceCardId": "4cfbae59-feb8-460d-96df-8d50b5fc4df0",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-27",
+          "no": 27,
+          "audio": "/assets/day-18/online-homework/test-7/audio/27.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Thank you for helping me create a survey.",
+            "A": "The software did most of the work.",
+            "B": "Our loyal customers.",
+            "C": "The crates are still in the warehouse."
+          },
+          "sourceCardId": "6ac8e7d1-0962-49a9-85c0-abcf140ac00b",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-28",
+          "no": 28,
+          "audio": "/assets/day-18/online-homework/test-7/audio/28.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "When will you be done testing the new mobile app?",
+            "A": "No, just an older laptop model.",
+            "B": "I'm almost finished.",
+            "C": "It's about a two-hour drive from here."
+          },
+          "sourceCardId": "4c943fd9-7141-41ec-8ce3-a3da1ed9dc27",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-29",
+          "no": 29,
+          "audio": "/assets/day-18/online-homework/test-7/audio/29.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Don't forget to turn off the projector after your presentation.",
+            "A": "I don't have a summary.",
+            "B": "Should I return it to the supply closet?",
+            "C": "Please distribute these handouts."
+          },
+          "sourceCardId": "1e308379-41a5-4e76-a843-a284e7d733f5",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-30",
+          "no": 30,
+          "audio": "/assets/day-18/online-homework/test-7/audio/30.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Didn't there used to be a parking garage on this street?",
+            "A": "Yes, but it's being torn down.",
+            "B": "You can hang your keys on this hook.",
+            "C": "My car has a flat tire."
+          },
+          "sourceCardId": "46d2ae36-9c58-47ef-bbdd-eff3a60c1b58",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d18-hw-2024-test-7-p2-31",
+          "no": 31,
+          "audio": "/assets/day-18/online-homework/test-7/audio/31.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Will you be available to work on Thursday or Friday?",
+            "A": "There's mandatory training on Friday.",
+            "B": "Yes, it was a good show.",
+            "C": "A daily schedule."
+          },
+          "sourceCardId": "9a91fa7c-0403-47c6-8b21-3bcf126564c2",
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-words",
+      "code": "words",
+      "title": "Vocabulary dictation",
+      "subtitle": "Class homework · transcribe each word and check the transcript",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExerciseId": "4faf8c5f-e5f1-4576-a6ec-d1596db1b355",
+      "sourceName": "WORD - DAY 4",
+      "sourceUrl": "https://study.thaylongtoeic.com/dictation/16e8a009-edd0-495c-9e56-90a309c0c4e6/exercises/4faf8c5f-e5f1-4576-a6ec-d1596db1b355",
+      "questions": [
+        {
+          "id": "d18-word-01",
+          "no": 1,
+          "audio": "/assets/day-18/online-homework/dictation/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "aisle",
+          "transcriptVi": "lối đi giữa các dãy ghế (trong nhà thờ, ở rạp hát, xe lửa, xe buýt)",
+          "sourceSentenceId": "6d566b7e-b8cb-4166-abbf-1e4931140f4c",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-02",
+          "no": 2,
+          "audio": "/assets/day-18/online-homework/dictation/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ask for",
+          "transcriptVi": "Yêu cầu, xin phép (một cách lịch sự và trang trọng)",
+          "sourceSentenceId": "a04fffaf-1f77-4374-8768-419ca915badb",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-03",
+          "no": 3,
+          "audio": "/assets/day-18/online-homework/dictation/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "be supposed to",
+          "transcriptVi": "được cho là, được mong đợi để ",
+          "sourceSentenceId": "2e2e3eb6-b4d4-4b9b-8a9e-d9c340cc9405",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-04",
+          "no": 4,
+          "audio": "/assets/day-18/online-homework/dictation/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "belong to",
+          "transcriptVi": "(động từ) thuộc về",
+          "sourceSentenceId": "cafa6279-a1e5-4b5a-b064-f9ae77a02151",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-05",
+          "no": 5,
+          "audio": "/assets/day-18/online-homework/dictation/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "bottom",
+          "transcriptVi": "phần dưới cùng; đáy",
+          "sourceSentenceId": "0c80859a-1709-47ef-8e53-2a1de9668e6a",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-06",
+          "no": 6,
+          "audio": "/assets/day-18/online-homework/dictation/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "branch",
+          "transcriptVi": "(danh từ) Chi nhánh, nhánh (cây)",
+          "sourceSentenceId": "fa49707f-df15-46a1-ad99-4f26a3a90ac2",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-07",
+          "no": 7,
+          "audio": "/assets/day-18/online-homework/dictation/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "celebrate",
+          "transcriptVi": "(động từ) đánh dấu (một ngày, sự kiện quan trọng và vui vẻ...) với những hoạt động lễ hội và vui chơi; kỷ niệm; làm lễ kỷ niệm",
+          "sourceSentenceId": "3d9ce205-e80b-4f12-baca-d2df68a18878",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-08",
+          "no": 8,
+          "audio": "/assets/day-18/online-homework/dictation/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "consult",
+          "transcriptVi": "(động từ) hỏi ý kiến; tra cứu, tham khảo",
+          "sourceSentenceId": "7f5db306-9a76-4d86-8791-8951294f3143",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-09",
+          "no": 9,
+          "audio": "/assets/day-18/online-homework/dictation/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "deliver",
+          "transcriptVi": "(động từ) phân phát; giao\nđọc, phát biểu",
+          "sourceSentenceId": "708cffae-1369-4edd-9d62-4db744751c76",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-10",
+          "no": 10,
+          "audio": "/assets/day-18/online-homework/dictation/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "deserve",
+          "transcriptVi": "(động từ) đáng, xứng đáng",
+          "sourceSentenceId": "9836b1cc-44c4-4dd9-ba70-bb5206b6a62c",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-11",
+          "no": 11,
+          "audio": "/assets/day-18/online-homework/dictation/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "document",
+          "transcriptVi": "(danh từ) tài liệu",
+          "sourceSentenceId": "fd68f8cf-8d7b-446f-935a-66643c35e9a8",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-12",
+          "no": 12,
+          "audio": "/assets/day-18/online-homework/dictation/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "donate",
+          "transcriptVi": "(động từ) quyên góp, quyên tặng",
+          "sourceSentenceId": "211abfa7-67e6-4b67-9d66-da870de45e09",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-13",
+          "no": 13,
+          "audio": "/assets/day-18/online-homework/dictation/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "downtown",
+          "transcriptVi": "(danh từ) khu vực trung tâm, khu buôn bán kinh doanh (của một thành phố)",
+          "sourceSentenceId": "fd1296c3-1f37-44a3-b96e-28d63cb37d9b",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-14",
+          "no": 14,
+          "audio": "/assets/day-18/online-homework/dictation/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "employee",
+          "transcriptVi": "(danh từ) nhân viên",
+          "sourceSentenceId": "28f582e2-97ce-49ab-8f06-08eddf99999c",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-15",
+          "no": 15,
+          "audio": "/assets/day-18/online-homework/dictation/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "except",
+          "transcriptVi": "(prep) ngoại trừ, ngoại lệ",
+          "sourceSentenceId": "63e46c31-3efa-4f31-a129-d7a3dd9e6b66",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-16",
+          "no": 16,
+          "audio": "/assets/day-18/online-homework/dictation/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "flyer",
+          "transcriptVi": "(n) tờ bướm quảng cáo",
+          "sourceSentenceId": "efd0ea9d-9a29-42f8-a455-5cd338f8553d",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-17",
+          "no": 17,
+          "audio": "/assets/day-18/online-homework/dictation/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "go ahead",
+          "transcriptVi": "Về cơ bản, từ go ahead được dùng với nghĩa bắt đầu tiến hành làm gì đó, xảy ra, hay cho phép ai làm gì \nA: ‘May I start coming home now?’ (‘Tôi có thể về nhà ngay bây giờ được không?’) B:‘Yes, go ahead.’ (‘Được chứ, cứ tự nhiên.’)",
+          "sourceSentenceId": "37cc8abf-22fc-4fe6-a21a-6ff377494327",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-18",
+          "no": 18,
+          "audio": "/assets/day-18/online-homework/dictation/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "holiday",
+          "transcriptVi": "(n) ngày lễ, ngày nghỉ",
+          "sourceSentenceId": "56d832b7-2778-447f-9000-a7b2aaff8771",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-19",
+          "no": 19,
+          "audio": "/assets/day-18/online-homework/dictation/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "identification",
+          "transcriptVi": "(n) (viết tắt) là ID phương tiện để chứng tỏ một người nào đó là ai; các giấy tờ chứng minh việc đó; thẻ căn cước; giấy chứng minh",
+          "sourceSentenceId": "6cfa40c2-52a8-4b25-bdd6-cb91719cf48f",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-20",
+          "no": 20,
+          "audio": "/assets/day-18/online-homework/dictation/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "improve",
+          "transcriptVi": "(v) cải thiện, cải tiến",
+          "sourceSentenceId": "694c1746-ad53-4ca9-9321-82d0c4edcecf",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-21",
+          "no": 21,
+          "audio": "/assets/day-18/online-homework/dictation/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "invoice",
+          "transcriptVi": "(n) hóa đơn",
+          "sourceSentenceId": "11b6d551-d29c-43c9-8341-641b59ae9f26",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-22",
+          "no": 22,
+          "audio": "/assets/day-18/online-homework/dictation/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "know if",
+          "transcriptVi": "biết liệu ... hay không",
+          "sourceSentenceId": "83f767b1-fd3a-4456-8fdf-79fca8688e0f",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "ai"
+          }
+        },
+        {
+          "id": "d18-word-23",
+          "no": 23,
+          "audio": "/assets/day-18/online-homework/dictation/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "label",
+          "transcriptVi": "(n) nhãn mác\n(v) dán nhãn mác",
+          "sourceSentenceId": "ef100142-4bef-43a3-8ff7-43585ff0155f",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-24",
+          "no": 24,
+          "audio": "/assets/day-18/online-homework/dictation/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "lead",
+          "transcriptVi": "(v) chỉ huy, dẫn đường, hướng dẫn",
+          "sourceSentenceId": "8caf735d-3a52-4600-a804-f5fc9f92b675",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-25",
+          "no": 25,
+          "audio": "/assets/day-18/online-homework/dictation/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "lend",
+          "transcriptVi": "(v) cho vay, cho mượn",
+          "sourceSentenceId": "eee023c9-552d-4bae-9dd0-99cc380901f2",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-26",
+          "no": 26,
+          "audio": "/assets/day-18/online-homework/dictation/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "lower",
+          "transcriptVi": "(adj) thấp hơn\n(v) giảm, hạ (giá cả)",
+          "sourceSentenceId": "df970b5b-1ba7-4d5a-8a9a-3d9a162db803",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-27",
+          "no": 27,
+          "audio": "/assets/day-18/online-homework/dictation/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "mail",
+          "transcriptVi": "(n) thư từ; bưu kiện, bưu phẩm\n(v) gửi qua bưu điện",
+          "sourceSentenceId": "adf384c8-2ea8-4ed2-8991-6a688cd5b829",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-28",
+          "no": 28,
+          "audio": "/assets/day-18/online-homework/dictation/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "make sure",
+          "transcriptVi": "(v) đảm bảo",
+          "sourceSentenceId": "fd36c100-da2e-4cf0-84aa-221b3b0020e3",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-29",
+          "no": 29,
+          "audio": "/assets/day-18/online-homework/dictation/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "manual",
+          "transcriptVi": "(n) quyển sách có các thông tin hoặc chỉ dẫn ",
+          "sourceSentenceId": "3d6b7c25-16de-460d-9118-b9b8764cdd37",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-30",
+          "no": 30,
+          "audio": "/assets/day-18/online-homework/dictation/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "monitor",
+          "transcriptVi": "(v) giám sát",
+          "sourceSentenceId": "94c8a5ad-26af-4de0-9a5e-18bee9bd7f62",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-31",
+          "no": 31,
+          "audio": "/assets/day-18/online-homework/dictation/31.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "negotiation",
+          "transcriptVi": "(n) đàm phán",
+          "sourceSentenceId": "853da603-2295-4308-8fc9-3cbf65062fe7",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-32",
+          "no": 32,
+          "audio": "/assets/day-18/online-homework/dictation/32.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "no later than",
+          "transcriptVi": "(prpep) không trễ hơn, muộn nhất vào",
+          "sourceSentenceId": "34785559-b6c3-476a-b6bb-eb3923cf20ab",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-33",
+          "no": 33,
+          "audio": "/assets/day-18/online-homework/dictation/33.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "process",
+          "transcriptVi": "(n) quy trình, thủ tục\n(v) xử lý",
+          "sourceSentenceId": "8229937b-600f-45e9-91ae-bbd9af173900",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-34",
+          "no": 34,
+          "audio": "/assets/day-18/online-homework/dictation/34.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "proofread",
+          "transcriptVi": "(v) đọc và sửa (bản in thử), hiệu chỉnh",
+          "sourceSentenceId": "328f001e-7adb-4b80-b5d4-76fd48a9f4f2",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-35",
+          "no": 35,
+          "audio": "/assets/day-18/online-homework/dictation/35.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "purchase",
+          "transcriptVi": "(v) mua sắm\n(n) sự mua, tậu; vật mua được, vật tậu được",
+          "sourceSentenceId": "9d6a2c2c-f65a-45f5-a3a8-3ccad0938256",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-36",
+          "no": 36,
+          "audio": "/assets/day-18/online-homework/dictation/36.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "reception",
+          "transcriptVi": "(n) sự đón tiếp, tiệc chiêu đãi",
+          "sourceSentenceId": "91059c4f-197a-48e1-9510-610516ffb2cf",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-37",
+          "no": 37,
+          "audio": "/assets/day-18/online-homework/dictation/37.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "reimburse",
+          "transcriptVi": "(v) hoàn lại, trả lại, bồi hoàn (số tiền đã tiêu..)",
+          "sourceSentenceId": "61888e84-432d-4eea-92fc-fae554145002",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-38",
+          "no": 38,
+          "audio": "/assets/day-18/online-homework/dictation/38.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "renew",
+          "transcriptVi": "(v) thay mới, làm mới lại",
+          "sourceSentenceId": "042b890e-1f2a-4e30-8d3f-bbd414ea6cdd",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-39",
+          "no": 39,
+          "audio": "/assets/day-18/online-homework/dictation/39.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ride",
+          "transcriptVi": "(v) đi xe, đi nhờ xe; (n) chuyến đi",
+          "sourceSentenceId": "fe0a4a02-719c-4e15-9b0e-6e06a58e9583",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "ai"
+          }
+        },
+        {
+          "id": "d18-word-40",
+          "no": 40,
+          "audio": "/assets/day-18/online-homework/dictation/40.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "run out",
+          "transcriptVi": "(v) cạn kiệt, hết",
+          "sourceSentenceId": "879519c8-971f-48ed-b334-d2084d102ac2",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-41",
+          "no": 41,
+          "audio": "/assets/day-18/online-homework/dictation/41.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "suggest",
+          "transcriptVi": "(v) đề nghị, đề xuất",
+          "sourceSentenceId": "e1b6cdbc-ab95-48cb-85b4-b7ec426c4105",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-42",
+          "no": 42,
+          "audio": "/assets/day-18/online-homework/dictation/42.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "supervisor",
+          "transcriptVi": "(n) người giám sát",
+          "sourceSentenceId": "f52f88a5-3315-4b75-8888-86e10dbd3017",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-43",
+          "no": 43,
+          "audio": "/assets/day-18/online-homework/dictation/43.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "survey",
+          "transcriptVi": "(n,v) khảo sát, cuộc khảo sát",
+          "sourceSentenceId": "e12462cc-045b-4dd3-a221-b01528480215",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-44",
+          "no": 44,
+          "audio": "/assets/day-18/online-homework/dictation/44.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "transfer",
+          "transcriptVi": "(n,v)di chuyển, sự dời chỗ; sự truyền",
+          "sourceSentenceId": "1698dd51-2867-462e-b36b-4c1968ae7d43",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-45",
+          "no": 45,
+          "audio": "/assets/day-18/online-homework/dictation/45.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "upstairs",
+          "transcriptVi": "tầng trên",
+          "sourceSentenceId": "408d47db-364a-47a3-b92c-ee5b11c488e9",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-46",
+          "no": 46,
+          "audio": "/assets/day-18/online-homework/dictation/46.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "weight",
+          "transcriptVi": "trọng lượng, sức nặng",
+          "sourceSentenceId": "936a5742-fe76-4ac3-a65d-0db4cf029724",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d18-word-47",
+          "no": 47,
+          "audio": "/assets/day-18/online-homework/dictation/47.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "wonder",
+          "transcriptVi": "(v)ngạc nhiên, lấy làm lạ, kinh ngạc, tự hỏi",
+          "sourceSentenceId": "f61326b9-3d7c-4b96-b209-9b5202723a82",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        }
+      ]
+    }
+  ]
+}

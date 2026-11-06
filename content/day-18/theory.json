@@ -1,0 +1,140 @@
+{
+  "collection": "theory",
+  "day": "day-18",
+  "title": "Nouns and homework",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d18-t-homework",
+      "type": "wordGroups",
+      "title": "Day 9 — homework",
+      "groups": {
+        "Noun summary": [
+          "Tự tổng hợp lý thuyết Danh từ theo ý hiểu của bản thân và ghi chú các từ vựng học được.",
+          "Tự nộp phần ghi chú vào BTVN trên Google Classroom theo yêu cầu của cô. Các trang lý thuyết bên dưới là tài liệu tham khảo do AI biên soạn, không phải bài nộp của bạn."
+        ],
+        "Online homework": [
+          "Làm Part 1 của đề 2024 Test 7 và Test 8; Part 2 của đề 2024 Test 8 và Test 7. Tổng cộng 62 câu, có audio và ảnh gốc trong app.",
+          "Làm bài nghe chép chính tả được giao kèm trong lớp: 47 từ/cụm từ. Nguồn giữ tên WORD - DAY 4 nhưng được giao trong DAY 9.",
+          "Đáp án trắc nghiệm do AI suy luận từ audio và ảnh; bản chép lời được tạo tự động rồi soát lại."
+        ],
+        "Vocabulary": [
+          "Học 29 thẻ Quizlet DAY 9 P7 và 24 từ chính trong flashcard Technology / Internet. Từ artificial xuất hiện ở cả hai nguồn, nên app có 52 từ khác nhau.",
+          "Không cần làm thêm bài tập trong thư mục HW Drive khi đã làm bài tập được giao trên web."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d18-t-roles",
+      "type": "notes",
+      "title": "Nouns — meaning and roles",
+      "lines": [
+        "Danh từ (noun) gọi tên người, vật, nơi chốn, sự việc hoặc ý niệm: employee, browser, office, meeting, information. Danh từ có thể chỉ thứ cụ thể hoặc trừu tượng.",
+        "Chủ ngữ: The browser is compatible with this system. → Trình duyệt tương thích với hệ thống này.",
+        "Tân ngữ của động từ: We received a notification. → Chúng tôi nhận được một thông báo.",
+        "Sau giới từ: Please read the instructions in the manual. → Hãy đọc hướng dẫn trong sách hướng dẫn.",
+        "Bổ ngữ sau be: She is a talented designer. → Cô ấy là một nhà thiết kế tài năng.",
+        "Danh từ cũng có thể bổ nghĩa cho danh từ khác: a feedback questionnaire, a search engine, a computer program. Danh từ chính thường đứng cuối cụm."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-countability",
+      "type": "notes",
+      "title": "Countable and uncountable nouns",
+      "lines": [
+        "Danh từ đếm được (countable) có dạng số ít và số nhiều: a browser → two browsers; a questionnaire → several questionnaires.",
+        "Danh từ đếm được số ít thường cần từ hạn định: a tutorial, the tutorial, this tutorial, my tutorial. Không nói “I watched tutorial” trong cách dùng thông thường này.",
+        "Danh từ không đếm được (uncountable) không dùng a/an và thường không thêm -s: information, equipment, advice, feedback, software. Ví dụ: useful information; some equipment.",
+        "Muốn đếm danh từ không đếm được, dùng đơn vị: a piece of advice, two pieces of equipment, three items of information.",
+        "Một số danh từ đổi tính đếm được theo nghĩa: experience = kinh nghiệm nói chung (không đếm được); an experience = một trải nghiệm (đếm được). Không đoán chỉ từ bản dịch tiếng Việt."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-quantifiers",
+      "type": "notes",
+      "title": "Articles and quantity words",
+      "lines": [
+        "A/an dùng trước danh từ đếm được số ít khi chưa xác định: a browser, an analysis. Chọn a/an theo âm mở đầu, không chỉ theo chữ viết: a user-friendly program; an hour.",
+        "The dùng khi người đọc/nghe xác định được đối tượng: the browser on this computer. Có thể đứng trước danh từ đếm được hoặc không đếm được.",
+        "Many, a few, few, several đi với danh từ đếm được số nhiều: many notifications; several techniques.",
+        "Much, a little, little đi với danh từ không đếm được: much information; a little feedback. A lot of và some dùng được với cả hai nhóm.",
+        "Each/every + danh từ đếm được số ít: Each employee has an ID card. All/most + danh từ số nhiều hoặc không đếm được: all employees; most software.",
+        "A number of + danh từ số nhiều + động từ số nhiều: A number of users are online. The number of + danh từ số nhiều + động từ số ít: The number of users is increasing."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-plurals",
+      "type": "notes",
+      "title": "Plural nouns and agreement",
+      "lines": [
+        "Đa số danh từ thêm -s; một số thêm -es: browser → browsers; box → boxes. Phụ âm + y thường đổi thành -ies: company → companies.",
+        "Một số dạng bất quy tắc cần nhớ: person → people; child → children; analysis → analyses. Không phải từ nào tận cùng bằng -s cũng có cách dùng giống nhau.",
+        "Chọn động từ theo danh từ chính của chủ ngữ: The list of compatible devices is available. “List” là số ít, không chia theo “devices”.",
+        "Danh từ không đếm được thường dùng động từ số ít: The equipment is new. This information is useful.",
+        "Tránh nhầm sở hữu với số nhiều: the employee’s badge = thẻ của một nhân viên; the employees’ badges = thẻ của nhiều nhân viên."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-recognition",
+      "type": "notes",
+      "title": "Noun positions and common endings",
+      "lines": [
+        "Trong bài chọn từ loại, xác định vị trí cần danh từ trước khi nhìn đuôi từ: sau a/an/the, tính từ hoặc sở hữu thường có một danh từ làm trung tâm cụm.",
+        "Ví dụ: We need a detailed analysis. → Sau a detailed cần danh từ analysis, không dùng động từ analyze hay tính từ analytical.",
+        "Các đuôi thường gặp ở danh từ: -tion/-sion (notification, combination), -ment (development), -ness (effectiveness), -ity (originality), -er/-or (browser, supervisor). Đây là dấu hiệu gợi ý, không phải quy tắc đúng với mọi từ.",
+        "Vị trí sau giới từ thường là danh từ, cụm danh từ hoặc V-ing: after the meeting; before installing updates. Cần đọc cả cụm để chọn dạng phù hợp.",
+        "Từ có nhiều từ loại phải dựa vào ngữ cảnh: access (n/v), broadcast (n/v), measure (n/v), forward (adv/adj/v)."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-own-notes",
+      "type": "notes",
+      "title": "Write your own noun summary",
+      "lines": [
+        "Gợi ý bài tự viết: 1) Danh từ là gì? 2) Danh từ đứng ở đâu? 3) Phân biệt đếm được/không đếm được. 4) Mạo từ và từ chỉ lượng. 5) Số nhiều và hòa hợp chủ ngữ–động từ.",
+        "Với mỗi ý, tự viết một ví dụ lấy từ những câu bạn đã học thay vì sao chép nguyên văn phần hướng dẫn.",
+        "Take note từ vựng theo mẫu: từ → từ loại → nghĩa trong câu → một cụm từ hoặc ví dụ. Ví dụ: notification (n) → thông báo → receive a notification.",
+        "Sau khi tự soát nội dung và ví dụ, nộp phần tóm tắt và ghi chú vào Google Classroom theo hướng dẫn của cô."
+      ],
+      "source": "ai"
+    },
+    {
+      "id": "d18-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 18 trong app tương ứng DAY 9 giai đoạn 2. Nguồn bài tập là danh sách được giao trong lớp học trên study.thaylongtoeic.com.",
+        "Thư mục HW Drive được lưu làm đường dẫn tham khảo, không nhập thêm bài nghe/đọc từ thư mục đó theo lựa chọn của bạn. Flashcard PDF vẫn là nguồn từ vựng."
+      ],
+      "links": [
+        {
+          "label": "Day 9 — classroom homework",
+          "href": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b?hwId=58c81108-71ed-4f42-bfc9-3f9e84e04ba5&classHwId=c7e2f98a-9ef0-42d7-a825-67ec8b6adeb8"
+        },
+        {
+          "label": "Day 9 Part 7 vocabulary — Quizlet",
+          "href": "https://quizlet.com/vn/1005450236/day-9-p7-flash-cards/"
+        },
+        {
+          "label": "Day 9 flashcards — PDF",
+          "href": "/assets/day-18/flashcard.pdf"
+        },
+        {
+          "label": "Day 9 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1z6Ll21N_F1Gl7A7LHDtj5rDQ-G6sSD5Z/view?usp=sharing"
+        },
+        {
+          "label": "Homework archive — reference only",
+          "href": "https://drive.google.com/drive/folders/1Hh3xRQFst92f1dhUDvOHAqPxcNMjl575?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}
