@@ -9,6 +9,8 @@
   "collections": [
     "theory",
     "vocabulary",
-    "listening"
-  ]
+    "listening",
+    "exercises"
+  ],
+  "exerciseLabel": "Reading practice"
 }

@@ -21,6 +21,11 @@
         "Vocabulary": [
           "Học 29 thẻ Quizlet DAY 9 P7 và 24 từ chính trong flashcard Technology / Internet. Từ artificial xuất hiện ở cả hai nguồn, nên app có 52 từ khác nhau.",
           "Không cần làm thêm bài tập trong thư mục HW Drive khi đã làm bài tập được giao trên web."
+        ],
+        "Reading practice": [
+          "Luyện thêm Part 7 — Unit 4: 6 bài đọc (memo, thông báo), 21 câu hỏi từ tài liệu PART 7 D9 S2 UNIT4.pdf trong thư mục HW Drive.",
+          "Phần Reading này là tài liệu luyện thêm trong Drive; danh sách BTVN trên web không giao bài đọc.",
+          "File KEY trong Drive giống hệt file đề, không có đáp án. Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện."
         ]
       },
       "source": "user"
@@ -128,6 +133,10 @@
         {
           "label": "Day 9 flashcards — Google Drive",
           "href": "https://drive.google.com/file/d/1z6Ll21N_F1Gl7A7LHDtj5rDQ-G6sSD5Z/view?usp=sharing"
+        },
+        {
+          "label": "Day 9 Part 7 — Unit 4 reading",
+          "href": "/day/day-18/exercises"
         },
         {
           "label": "Homework archive — reference only",

@@ -3,9 +3,11 @@ import { readFileSync, existsSync } from 'node:fs';
 import { assemble } from '../features/lesson/schema.js';
 import { translate } from '../features/language/translate.js';
 const read=name=>JSON.parse(readFileSync(`content/day-18/${name}.json`,'utf8'));
-const day=assemble('day-18',{day:read('day'),theory:read('theory'),vocabulary:read('vocabulary'),listening:read('listening')});
+const day=assemble('day-18',{day:read('day'),theory:read('theory'),vocabulary:read('vocabulary'),listening:read('listening'),exercises:read('exercises')});
 assert.equal(day.no,18);assert.equal(day.phase,2);assert.equal(day.sourceDay,9);
-assert.deepEqual(day.collections,['theory','vocabulary','listening'],'Web assignments are the homework source; do not add Drive exercises');
+assert.deepEqual(day.collections,['theory','vocabulary','listening','exercises']);
+assert.deepEqual(day.exercises.map(s=>s.questions.length),[3,3,3,4,4,4],'Drive Part 7 Unit 4: 6 passages, 21 questions');
+for(const q of day.exercises.flatMap(s=>s.questions)){assert.ok(['A','B','C','D'].includes(q.answer));assert.equal(q.source.answer,'ai');assert.ok(q.passage.text&&q.vi&&q.explain);}
 assert.deepEqual(day.listening.map(s=>s.questions.length),[6,6,25,25,47]);
 const questions=day.listening.flatMap(s=>s.questions);
 assert.equal(questions.length,109);assert.equal(new Set(questions.map(q=>q.id)).size,109);
@@ -32,7 +34,7 @@ const artificial=day.vocabulary.find(q=>q.word==='artificial');assert.equal(arti
 for(const v of day.vocabulary){for(const accent of ['uk','us'])assert.ok(existsSync(`public${v.voice[accent]}`));}
 assert.ok(existsSync('public/assets/day-18/flashcard.pdf'));
 assert.equal(day.theory.length,8);
-for(const label of [day.subtitle,...day.theory.map(b=>b.title),...day.theory.flatMap(b=>Object.keys(b.groups||{})),...day.listening.flatMap(s=>[s.title,s.subtitle]),...day.vocabulary.map(v=>v.group)]){
+for(const label of [day.subtitle,...day.theory.map(b=>b.title),...day.theory.flatMap(b=>Object.keys(b.groups||{})),...day.listening.flatMap(s=>[s.title,s.subtitle]),...day.exercises.map(s=>s.title),...day.vocabulary.map(v=>v.group)]){
  for(const locale of ['vi','zh','ko'])assert.notEqual(translate(locale,label),label,`Missing ${locale}: ${label}`);
 }
-console.log('✓ Day 18: web-only assignment scope, 109 original audio clips, 62 AI keys, 47 reviewed dictations, 52 unique words with both voices, noun guide and UI translations');
+console.log('✓ Day 18: 21 Part 7 reading questions with AI keys, 109 original audio clips, 62 AI keys, 47 reviewed dictations, 52 unique words with both voices, noun guide and UI translations');

@@ -1,0 +1,618 @@
+{
+  "collection": "exercises",
+  "day": "day-18",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d18-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: juice products memo",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d18-read-01",
+          "no": 1,
+          "text": "What is the purpose of the memo?",
+          "options": {
+            "A": "To report the results of a study",
+            "B": "To request a deadline extension.",
+            "C": "To recommend new product names",
+            "D": "To propose a new discount"
+          },
+          "answer": "A",
+          "explain": "Bản ghi nhớ tóm tắt “information gathered through the program” — kết quả khảo sát ý kiến khách hàng, tức là báo cáo kết quả một cuộc khảo sát/nghiên cứu.",
+          "passage": {
+            "text": "From: Liam Perry, marketing director\nTo: All marketing staff\nDate: August 5\nRe: New line of juice products\n\nLast week was the end of the free-sample program for our new line of fruit juices. Potential customers received complimentary bottles of the drinks and 15% discount coupons for future purchases. They were then asked to complete feedback questionnaires. The program ran from July 15 to July 31, and the discount, which applies to our full range of products, will be good until October 1.\n\nThe following briefly summarizes information gathered through the program:\n• Three varieties were measured, listed here in descending order of customer popularity: Mango Mountain, Great Guava, and Yum Cocoplum\n• Analysis of the feedback questionnaires showed that customers felt Yum Cocoplum contained too much sugar. (This is a surprising finding because none of the brands are artificially flavored and they all preserve the natural taste of the fruit they are based on.)\n• Many customers rated the flavor combinations in Mango Mountain and Great Guava as “superb.”\n\nI would like to hold a meeting with you next week to discuss these points in more detail. Jess Bronsky is putting together the agenda for the meeting and will notify you soon of the time and place."
+          },
+          "vi": "Từ: Liam Perry, giám đốc marketing\nGửi: Toàn bộ nhân viên marketing\nNgày: 5 tháng 8\nV/v: Dòng sản phẩm nước ép mới\n\nTuần trước, chương trình phát mẫu dùng thử miễn phí cho dòng nước ép trái cây mới của chúng ta đã kết thúc. Khách hàng tiềm năng được tặng các chai nước uống và phiếu giảm giá 15% cho lần mua sau. Sau đó họ được mời điền phiếu khảo sát ý kiến. Chương trình diễn ra từ 15/7 đến 31/7, và mức giảm giá — áp dụng cho toàn bộ sản phẩm của chúng ta — có hiệu lực đến 1/10.\n\nDưới đây là tóm tắt thông tin thu được qua chương trình:\n• Ba loại được đánh giá, xếp theo mức độ yêu thích giảm dần: Mango Mountain, Great Guava và Yum Cocoplum.\n• Phân tích phiếu khảo sát cho thấy khách hàng thấy Yum Cocoplum có quá nhiều đường. (Đây là phát hiện bất ngờ vì không loại nào dùng hương liệu nhân tạo, và tất cả đều giữ vị tự nhiên của trái cây làm nên chúng.)\n• Nhiều khách hàng đánh giá sự kết hợp hương vị của Mango Mountain và Great Guava là “tuyệt hảo”.\n\nTôi muốn tổ chức một cuộc họp với các bạn vào tuần sau để bàn kỹ hơn những điểm này. Jess Bronsky đang soạn chương trình họp và sẽ sớm báo cho các bạn thời gian, địa điểm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-02",
+          "no": 2,
+          "text": "What did potential customers NOT receive?",
+          "options": {
+            "A": "A discount certificate",
+            "B": "A list of ingredients",
+            "C": "A free sample of juice",
+            "D": "A feedback form"
+          },
+          "answer": "B",
+          "explain": "Khách nhận “complimentary bottles” (mẫu miễn phí), “15% discount coupons” (phiếu giảm giá) và “feedback questionnaires” (phiếu khảo sát). Không nhắc tới danh sách thành phần.",
+          "passage": {
+            "text": "From: Liam Perry, marketing director\nTo: All marketing staff\nDate: August 5\nRe: New line of juice products\n\nLast week was the end of the free-sample program for our new line of fruit juices. Potential customers received complimentary bottles of the drinks and 15% discount coupons for future purchases. They were then asked to complete feedback questionnaires. The program ran from July 15 to July 31, and the discount, which applies to our full range of products, will be good until October 1.\n\nThe following briefly summarizes information gathered through the program:\n• Three varieties were measured, listed here in descending order of customer popularity: Mango Mountain, Great Guava, and Yum Cocoplum\n• Analysis of the feedback questionnaires showed that customers felt Yum Cocoplum contained too much sugar. (This is a surprising finding because none of the brands are artificially flavored and they all preserve the natural taste of the fruit they are based on.)\n• Many customers rated the flavor combinations in Mango Mountain and Great Guava as “superb.”\n\nI would like to hold a meeting with you next week to discuss these points in more detail. Jess Bronsky is putting together the agenda for the meeting and will notify you soon of the time and place."
+          },
+          "vi": "Từ: Liam Perry, giám đốc marketing\nGửi: Toàn bộ nhân viên marketing\nNgày: 5 tháng 8\nV/v: Dòng sản phẩm nước ép mới\n\nTuần trước, chương trình phát mẫu dùng thử miễn phí cho dòng nước ép trái cây mới của chúng ta đã kết thúc. Khách hàng tiềm năng được tặng các chai nước uống và phiếu giảm giá 15% cho lần mua sau. Sau đó họ được mời điền phiếu khảo sát ý kiến. Chương trình diễn ra từ 15/7 đến 31/7, và mức giảm giá — áp dụng cho toàn bộ sản phẩm của chúng ta — có hiệu lực đến 1/10.\n\nDưới đây là tóm tắt thông tin thu được qua chương trình:\n• Ba loại được đánh giá, xếp theo mức độ yêu thích giảm dần: Mango Mountain, Great Guava và Yum Cocoplum.\n• Phân tích phiếu khảo sát cho thấy khách hàng thấy Yum Cocoplum có quá nhiều đường. (Đây là phát hiện bất ngờ vì không loại nào dùng hương liệu nhân tạo, và tất cả đều giữ vị tự nhiên của trái cây làm nên chúng.)\n• Nhiều khách hàng đánh giá sự kết hợp hương vị của Mango Mountain và Great Guava là “tuyệt hảo”.\n\nTôi muốn tổ chức một cuộc họp với các bạn vào tuần sau để bàn kỹ hơn những điểm này. Jess Bronsky đang soạn chương trình họp và sẽ sớm báo cho các bạn thời gian, địa điểm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-03",
+          "no": 3,
+          "text": "What concern was reported by potential customers?",
+          "options": {
+            "A": "Artificial ingredients were used.",
+            "B": "The discount procedure was confusing.",
+            "C": "The juice portions were too small.",
+            "D": "One of the juices was too sweet."
+          },
+          "answer": "D",
+          "explain": "“Customers felt Yum Cocoplum contained too much sugar” — một loại nước ép quá ngọt. Bài còn nói rõ không loại nào dùng hương liệu nhân tạo, nên A sai.",
+          "passage": {
+            "text": "From: Liam Perry, marketing director\nTo: All marketing staff\nDate: August 5\nRe: New line of juice products\n\nLast week was the end of the free-sample program for our new line of fruit juices. Potential customers received complimentary bottles of the drinks and 15% discount coupons for future purchases. They were then asked to complete feedback questionnaires. The program ran from July 15 to July 31, and the discount, which applies to our full range of products, will be good until October 1.\n\nThe following briefly summarizes information gathered through the program:\n• Three varieties were measured, listed here in descending order of customer popularity: Mango Mountain, Great Guava, and Yum Cocoplum\n• Analysis of the feedback questionnaires showed that customers felt Yum Cocoplum contained too much sugar. (This is a surprising finding because none of the brands are artificially flavored and they all preserve the natural taste of the fruit they are based on.)\n• Many customers rated the flavor combinations in Mango Mountain and Great Guava as “superb.”\n\nI would like to hold a meeting with you next week to discuss these points in more detail. Jess Bronsky is putting together the agenda for the meeting and will notify you soon of the time and place."
+          },
+          "vi": "Từ: Liam Perry, giám đốc marketing\nGửi: Toàn bộ nhân viên marketing\nNgày: 5 tháng 8\nV/v: Dòng sản phẩm nước ép mới\n\nTuần trước, chương trình phát mẫu dùng thử miễn phí cho dòng nước ép trái cây mới của chúng ta đã kết thúc. Khách hàng tiềm năng được tặng các chai nước uống và phiếu giảm giá 15% cho lần mua sau. Sau đó họ được mời điền phiếu khảo sát ý kiến. Chương trình diễn ra từ 15/7 đến 31/7, và mức giảm giá — áp dụng cho toàn bộ sản phẩm của chúng ta — có hiệu lực đến 1/10.\n\nDưới đây là tóm tắt thông tin thu được qua chương trình:\n• Ba loại được đánh giá, xếp theo mức độ yêu thích giảm dần: Mango Mountain, Great Guava và Yum Cocoplum.\n• Phân tích phiếu khảo sát cho thấy khách hàng thấy Yum Cocoplum có quá nhiều đường. (Đây là phát hiện bất ngờ vì không loại nào dùng hương liệu nhân tạo, và tất cả đều giữ vị tự nhiên của trái cây làm nên chúng.)\n• Nhiều khách hàng đánh giá sự kết hợp hương vị của Mango Mountain và Great Guava là “tuyệt hảo”.\n\nTôi muốn tổ chức một cuộc họp với các bạn vào tuần sau để bàn kỹ hơn những điểm này. Jess Bronsky đang soạn chương trình họp và sẽ sớm báo cho các bạn thời gian, địa điểm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: Woodcraft Designs",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d18-read-04",
+          "no": 4,
+          "text": "What is the purpose of the notice?",
+          "options": {
+            "A": "To announce the publication of a new book",
+            "B": "To describe a recent trend in architecture",
+            "C": "To promote a new retail store",
+            "D": "To invite people to apply for a job"
+          },
+          "answer": "C",
+          "explain": "Tiêu đề “Grand Opening!” và câu đầu “announce the opening of her second store” — thông báo nhằm quảng bá cửa hàng mới.",
+          "passage": {
+            "text": "Grand Opening!\n\nThe owner of Woodcraft Designs is pleased to announce the opening of her second store in Falls City. The new store will offer high-quality wood furniture, with an emphasis on pieces made to customer specifications. Abigail Hurst, who opened the original Woodcraft Designs location on High Street five years ago, leads a small team of experienced, talented furniture makers whose unique creations will be displayed in both stores. Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas of Victorian-style furniture made from fine quality cherry, oak, and mahogany woods.\n\nHurst’s craftwork has earned her a reputation as a master artisan in her field. Her reconstruction of a nineteenth-century dressing table was the subject of a lengthy article in Classics of Woodwork on methods and techniques of precision woodcutting. In addition, photographs of some of her best pieces have appeared in Today’s Space, which features information about houses and buildings that are known for their impressive furnishings and decor. Ms. Hurst will divide her time between the old and new store locations."
+          },
+          "vi": "Khai trương!\n\nChủ cửa hàng Woodcraft Designs vui mừng thông báo khai trương cửa hàng thứ hai của bà tại Falls City. Cửa hàng mới sẽ bán đồ nội thất gỗ chất lượng cao, chú trọng các sản phẩm làm theo yêu cầu của khách. Abigail Hurst, người mở cửa hàng Woodcraft Designs đầu tiên trên phố High Street năm năm trước, dẫn dắt một nhóm nhỏ thợ làm đồ gỗ giàu kinh nghiệm, tài năng; các tác phẩm độc đáo của họ sẽ được trưng bày ở cả hai cửa hàng. Dù sản phẩm của Hurst trải qua nhiều phong cách và thời kỳ, cửa hàng mới sẽ giới thiệu những bản sao đồ nội thất phong cách Victoria xuất sắc của công ty, làm từ gỗ anh đào, sồi và gụ chất lượng tốt.\n\nTay nghề của Hurst đã giúp bà được biết đến như một nghệ nhân bậc thầy trong lĩnh vực của mình. Việc bà phục dựng một chiếc bàn trang điểm thế kỷ 19 từng là chủ đề của một bài viết dài trên tạp chí Classics of Woodwork về phương pháp và kỹ thuật cắt gỗ chính xác. Ngoài ra, ảnh một số tác phẩm đẹp nhất của bà đã xuất hiện trên Today’s Space, tạp chí giới thiệu những ngôi nhà và công trình nổi tiếng với nội thất và cách trang trí ấn tượng. Bà Hurst sẽ chia thời gian làm việc giữa cửa hàng cũ và cửa hàng mới.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-05",
+          "no": 5,
+          "text": "Who is Ms. Hurst?",
+          "options": {
+            "A": "A professor",
+            "B": "A photographer",
+            "C": "A furniture maker",
+            "D": "A magazine editor"
+          },
+          "answer": "C",
+          "explain": "Bà là chủ Woodcraft Designs, “leads a small team of … furniture makers” và có tiếng là “a master artisan”; bà tự phục dựng bàn trang điểm thế kỷ 19 — tức là thợ làm đồ nội thất.",
+          "passage": {
+            "text": "Grand Opening!\n\nThe owner of Woodcraft Designs is pleased to announce the opening of her second store in Falls City. The new store will offer high-quality wood furniture, with an emphasis on pieces made to customer specifications. Abigail Hurst, who opened the original Woodcraft Designs location on High Street five years ago, leads a small team of experienced, talented furniture makers whose unique creations will be displayed in both stores. Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas of Victorian-style furniture made from fine quality cherry, oak, and mahogany woods.\n\nHurst’s craftwork has earned her a reputation as a master artisan in her field. Her reconstruction of a nineteenth-century dressing table was the subject of a lengthy article in Classics of Woodwork on methods and techniques of precision woodcutting. In addition, photographs of some of her best pieces have appeared in Today’s Space, which features information about houses and buildings that are known for their impressive furnishings and decor. Ms. Hurst will divide her time between the old and new store locations."
+          },
+          "vi": "Khai trương!\n\nChủ cửa hàng Woodcraft Designs vui mừng thông báo khai trương cửa hàng thứ hai của bà tại Falls City. Cửa hàng mới sẽ bán đồ nội thất gỗ chất lượng cao, chú trọng các sản phẩm làm theo yêu cầu của khách. Abigail Hurst, người mở cửa hàng Woodcraft Designs đầu tiên trên phố High Street năm năm trước, dẫn dắt một nhóm nhỏ thợ làm đồ gỗ giàu kinh nghiệm, tài năng; các tác phẩm độc đáo của họ sẽ được trưng bày ở cả hai cửa hàng. Dù sản phẩm của Hurst trải qua nhiều phong cách và thời kỳ, cửa hàng mới sẽ giới thiệu những bản sao đồ nội thất phong cách Victoria xuất sắc của công ty, làm từ gỗ anh đào, sồi và gụ chất lượng tốt.\n\nTay nghề của Hurst đã giúp bà được biết đến như một nghệ nhân bậc thầy trong lĩnh vực của mình. Việc bà phục dựng một chiếc bàn trang điểm thế kỷ 19 từng là chủ đề của một bài viết dài trên tạp chí Classics of Woodwork về phương pháp và kỹ thuật cắt gỗ chính xác. Ngoài ra, ảnh một số tác phẩm đẹp nhất của bà đã xuất hiện trên Today’s Space, tạp chí giới thiệu những ngôi nhà và công trình nổi tiếng với nội thất và cách trang trí ấn tượng. Bà Hurst sẽ chia thời gian làm việc giữa cửa hàng cũ và cửa hàng mới.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-06",
+          "no": 6,
+          "text": "What are the articles in Today’s Space mostly about?",
+          "options": {
+            "A": "Real estate purchases",
+            "B": "Interior design",
+            "C": "Professional photography",
+            "D": "Natural history"
+          },
+          "answer": "B",
+          "explain": "Today’s Space “features information about houses and buildings that are known for their impressive furnishings and decor” — nội thất và trang trí, tức thiết kế nội thất.",
+          "passage": {
+            "text": "Grand Opening!\n\nThe owner of Woodcraft Designs is pleased to announce the opening of her second store in Falls City. The new store will offer high-quality wood furniture, with an emphasis on pieces made to customer specifications. Abigail Hurst, who opened the original Woodcraft Designs location on High Street five years ago, leads a small team of experienced, talented furniture makers whose unique creations will be displayed in both stores. Although Hurst’s pieces cover a range of styles and periods, the new store will showcase the company’s remarkable replicas of Victorian-style furniture made from fine quality cherry, oak, and mahogany woods.\n\nHurst’s craftwork has earned her a reputation as a master artisan in her field. Her reconstruction of a nineteenth-century dressing table was the subject of a lengthy article in Classics of Woodwork on methods and techniques of precision woodcutting. In addition, photographs of some of her best pieces have appeared in Today’s Space, which features information about houses and buildings that are known for their impressive furnishings and decor. Ms. Hurst will divide her time between the old and new store locations."
+          },
+          "vi": "Khai trương!\n\nChủ cửa hàng Woodcraft Designs vui mừng thông báo khai trương cửa hàng thứ hai của bà tại Falls City. Cửa hàng mới sẽ bán đồ nội thất gỗ chất lượng cao, chú trọng các sản phẩm làm theo yêu cầu của khách. Abigail Hurst, người mở cửa hàng Woodcraft Designs đầu tiên trên phố High Street năm năm trước, dẫn dắt một nhóm nhỏ thợ làm đồ gỗ giàu kinh nghiệm, tài năng; các tác phẩm độc đáo của họ sẽ được trưng bày ở cả hai cửa hàng. Dù sản phẩm của Hurst trải qua nhiều phong cách và thời kỳ, cửa hàng mới sẽ giới thiệu những bản sao đồ nội thất phong cách Victoria xuất sắc của công ty, làm từ gỗ anh đào, sồi và gụ chất lượng tốt.\n\nTay nghề của Hurst đã giúp bà được biết đến như một nghệ nhân bậc thầy trong lĩnh vực của mình. Việc bà phục dựng một chiếc bàn trang điểm thế kỷ 19 từng là chủ đề của một bài viết dài trên tạp chí Classics of Woodwork về phương pháp và kỹ thuật cắt gỗ chính xác. Ngoài ra, ảnh một số tác phẩm đẹp nhất của bà đã xuất hiện trên Today’s Space, tạp chí giới thiệu những ngôi nhà và công trình nổi tiếng với nội thất và cách trang trí ấn tượng. Bà Hurst sẽ chia thời gian làm việc giữa cửa hàng cũ và cửa hàng mới.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: Simonte e-mail change",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d18-read-07",
+          "no": 7,
+          "text": "What will happen on October 1?",
+          "options": {
+            "A": "Simonte Corporation will move to new offices.",
+            "B": "Old e-mail accounts will become inactive.",
+            "C": "Employees will receive instructions for setting up a new e-mail account.",
+            "D": "Employees will be given access to the Technological Services portal."
+          },
+          "answer": "B",
+          "explain": "Tài khoản cũ dùng được “until 6 P.M. on October 1, after which you will no longer be able to access the old account” — từ 1/10 tài khoản e-mail cũ ngừng hoạt động.",
+          "passage": {
+            "text": "MEMO\n\nTo: All Simonte Corporation Employees\nFrom: Technological Services\nDate: August 18\n\nDear Employee,\n\nThis is to remind you that, as of September 1, your old corporate e-mail address (employeename@horizons.com) will change to employeename@simontecorp.com to reflect our company’s new name. Your previous e-mail account will continue to be available for one month after the switch, until 6 P.M. on October 1, after which you will no longer be able to access the old account directly.\n\nIt will be possible, however, to forward e-mails from your old address to the new address. At any time from September 1 through December 1, you may go onto the main Simonte Corporation Web site and go to the “Technological Services” portal to find instructions on how to transfer information from one account to the other. You will also be able to activate an automatic forwarding system for e-mails that are sent to the old address. This forwarding system will be available for the three months following the switch—until December 1. After December 1, e-mails sent to the old address will no longer be forwarded, and you will not be able to retrieve them.\n\nIf you have any questions, please do not hesitate to call the technological services department at extension 5178.\n\nThank you,\nToru Okamoto\nManaging Director\nTechnological Services"
+          },
+          "vi": "BẢN GHI NHỚ\n\nGửi: Toàn bộ nhân viên Tập đoàn Simonte\nTừ: Bộ phận Dịch vụ Công nghệ\nNgày: 18 tháng 8\n\nThân gửi nhân viên,\n\nXin nhắc rằng từ ngày 1/9, địa chỉ e-mail công ty cũ của bạn (employeename@horizons.com) sẽ đổi thành employeename@simontecorp.com để phản ánh tên mới của công ty. Tài khoản e-mail cũ vẫn dùng được thêm một tháng sau khi chuyển đổi, đến 6 giờ chiều ngày 1/10; sau đó bạn sẽ không thể truy cập trực tiếp tài khoản cũ nữa.\n\nTuy nhiên, bạn vẫn có thể chuyển tiếp e-mail từ địa chỉ cũ sang địa chỉ mới. Bất cứ lúc nào từ 1/9 đến 1/12, bạn có thể vào trang web chính của Tập đoàn Simonte, mục “Technological Services”, để xem hướng dẫn chuyển dữ liệu từ tài khoản này sang tài khoản kia. Bạn cũng có thể bật hệ thống tự động chuyển tiếp các e-mail gửi đến địa chỉ cũ. Hệ thống chuyển tiếp này hoạt động trong ba tháng sau khi chuyển đổi — đến ngày 1/12. Sau ngày 1/12, e-mail gửi tới địa chỉ cũ sẽ không được chuyển tiếp nữa và bạn sẽ không thể lấy lại chúng.\n\nNếu có thắc mắc, xin cứ gọi cho bộ phận dịch vụ công nghệ theo số máy lẻ 5178.\n\nXin cảm ơn,\nToru Okamoto\nGiám đốc điều hành\nBộ phận Dịch vụ Công nghệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-08",
+          "no": 8,
+          "text": "What is indicated about Simonte Corporation?",
+          "options": {
+            "A": "Its information technology department is under new management.",
+            "B": "Its e-mail system will be temporarily interrupted.",
+            "C": "It has recently changed its name.",
+            "D": "It plans to change the appearance of its Web site."
+          },
+          "answer": "C",
+          "explain": "Địa chỉ e-mail đổi “to reflect our company’s new name” — công ty vừa đổi tên (từ Horizons sang Simonte).",
+          "passage": {
+            "text": "MEMO\n\nTo: All Simonte Corporation Employees\nFrom: Technological Services\nDate: August 18\n\nDear Employee,\n\nThis is to remind you that, as of September 1, your old corporate e-mail address (employeename@horizons.com) will change to employeename@simontecorp.com to reflect our company’s new name. Your previous e-mail account will continue to be available for one month after the switch, until 6 P.M. on October 1, after which you will no longer be able to access the old account directly.\n\nIt will be possible, however, to forward e-mails from your old address to the new address. At any time from September 1 through December 1, you may go onto the main Simonte Corporation Web site and go to the “Technological Services” portal to find instructions on how to transfer information from one account to the other. You will also be able to activate an automatic forwarding system for e-mails that are sent to the old address. This forwarding system will be available for the three months following the switch—until December 1. After December 1, e-mails sent to the old address will no longer be forwarded, and you will not be able to retrieve them.\n\nIf you have any questions, please do not hesitate to call the technological services department at extension 5178.\n\nThank you,\nToru Okamoto\nManaging Director\nTechnological Services"
+          },
+          "vi": "BẢN GHI NHỚ\n\nGửi: Toàn bộ nhân viên Tập đoàn Simonte\nTừ: Bộ phận Dịch vụ Công nghệ\nNgày: 18 tháng 8\n\nThân gửi nhân viên,\n\nXin nhắc rằng từ ngày 1/9, địa chỉ e-mail công ty cũ của bạn (employeename@horizons.com) sẽ đổi thành employeename@simontecorp.com để phản ánh tên mới của công ty. Tài khoản e-mail cũ vẫn dùng được thêm một tháng sau khi chuyển đổi, đến 6 giờ chiều ngày 1/10; sau đó bạn sẽ không thể truy cập trực tiếp tài khoản cũ nữa.\n\nTuy nhiên, bạn vẫn có thể chuyển tiếp e-mail từ địa chỉ cũ sang địa chỉ mới. Bất cứ lúc nào từ 1/9 đến 1/12, bạn có thể vào trang web chính của Tập đoàn Simonte, mục “Technological Services”, để xem hướng dẫn chuyển dữ liệu từ tài khoản này sang tài khoản kia. Bạn cũng có thể bật hệ thống tự động chuyển tiếp các e-mail gửi đến địa chỉ cũ. Hệ thống chuyển tiếp này hoạt động trong ba tháng sau khi chuyển đổi — đến ngày 1/12. Sau ngày 1/12, e-mail gửi tới địa chỉ cũ sẽ không được chuyển tiếp nữa và bạn sẽ không thể lấy lại chúng.\n\nNếu có thắc mắc, xin cứ gọi cho bộ phận dịch vụ công nghệ theo số máy lẻ 5178.\n\nXin cảm ơn,\nToru Okamoto\nGiám đốc điều hành\nBộ phận Dịch vụ Công nghệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-09",
+          "no": 9,
+          "text": "What are readers invited to do?",
+          "options": {
+            "A": "Ask for an individual phone extension",
+            "B": "Choose a new e-mail address",
+            "C": "Visit the company Web page",
+            "D": "Apply for a transfer to a different office"
+          },
+          "answer": "C",
+          "explain": "“You may go onto the main Simonte Corporation Web site and go to the ‘Technological Services’ portal to find instructions” — nhân viên được mời vào trang web công ty.",
+          "passage": {
+            "text": "MEMO\n\nTo: All Simonte Corporation Employees\nFrom: Technological Services\nDate: August 18\n\nDear Employee,\n\nThis is to remind you that, as of September 1, your old corporate e-mail address (employeename@horizons.com) will change to employeename@simontecorp.com to reflect our company’s new name. Your previous e-mail account will continue to be available for one month after the switch, until 6 P.M. on October 1, after which you will no longer be able to access the old account directly.\n\nIt will be possible, however, to forward e-mails from your old address to the new address. At any time from September 1 through December 1, you may go onto the main Simonte Corporation Web site and go to the “Technological Services” portal to find instructions on how to transfer information from one account to the other. You will also be able to activate an automatic forwarding system for e-mails that are sent to the old address. This forwarding system will be available for the three months following the switch—until December 1. After December 1, e-mails sent to the old address will no longer be forwarded, and you will not be able to retrieve them.\n\nIf you have any questions, please do not hesitate to call the technological services department at extension 5178.\n\nThank you,\nToru Okamoto\nManaging Director\nTechnological Services"
+          },
+          "vi": "BẢN GHI NHỚ\n\nGửi: Toàn bộ nhân viên Tập đoàn Simonte\nTừ: Bộ phận Dịch vụ Công nghệ\nNgày: 18 tháng 8\n\nThân gửi nhân viên,\n\nXin nhắc rằng từ ngày 1/9, địa chỉ e-mail công ty cũ của bạn (employeename@horizons.com) sẽ đổi thành employeename@simontecorp.com để phản ánh tên mới của công ty. Tài khoản e-mail cũ vẫn dùng được thêm một tháng sau khi chuyển đổi, đến 6 giờ chiều ngày 1/10; sau đó bạn sẽ không thể truy cập trực tiếp tài khoản cũ nữa.\n\nTuy nhiên, bạn vẫn có thể chuyển tiếp e-mail từ địa chỉ cũ sang địa chỉ mới. Bất cứ lúc nào từ 1/9 đến 1/12, bạn có thể vào trang web chính của Tập đoàn Simonte, mục “Technological Services”, để xem hướng dẫn chuyển dữ liệu từ tài khoản này sang tài khoản kia. Bạn cũng có thể bật hệ thống tự động chuyển tiếp các e-mail gửi đến địa chỉ cũ. Hệ thống chuyển tiếp này hoạt động trong ba tháng sau khi chuyển đổi — đến ngày 1/12. Sau ngày 1/12, e-mail gửi tới địa chỉ cũ sẽ không được chuyển tiếp nữa và bạn sẽ không thể lấy lại chúng.\n\nNếu có thắc mắc, xin cứ gọi cho bộ phận dịch vụ công nghệ theo số máy lẻ 5178.\n\nXin cảm ơn,\nToru Okamoto\nGiám đốc điều hành\nBộ phận Dịch vụ Công nghệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: talk by Ami Wibowo",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d18-read-10",
+          "no": 10,
+          "text": "What is the purpose of the notice?",
+          "options": {
+            "A": "To advertise an event",
+            "B": "To announce a new exhibit",
+            "C": "To publicize a new museum",
+            "D": "To remind participants about a trip"
+          },
+          "answer": "A",
+          "explain": "Thông báo có tiêu đề “A Talk by Ami Wibowo” kèm ngày giờ và địa điểm — quảng bá một sự kiện (buổi nói chuyện).",
+          "passage": {
+            "text": "ANNOUNCING...\nA Talk by Ami Wibowo\nChief Curator of Mustika Museum\n\nDate & Time: February 2, 10:00 A.M.-12 noon\nLocation: Mustika Museum, Conference Room J1\nKramat Raya 81, Jakarta\n\nBio: Ami Wibowo has been the chief curator of the Mustika Museum, the oldest museum of Indonesian art and artifacts, since 1987. She holds a Master of Arts degree from Surabaya University and has been promoting the country’s culture and heritage since 1971. She is cochair of the National Heritage Commission and currently serves as the chair of the ASEAN Culture Foundation. She also started the annual Pan-Indonesian Art Conference in Jakarta.\n\nUnder her leadership, Mustika Museum has developed several award-winning services, ranging from the “Museums as Classrooms” program to international exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons,” which is receiving overwhelmingly positive reviews in New York.\n\nMs. Wibowo is frequently featured in art journals and on radio and television talk shows. Among her many publications is the international best seller, Postcards from the Far East.\n\nFor more information, please call the Ministry of Culture at 555-3003 and speak to Benny Sutrisno."
+          },
+          "vi": "THÔNG BÁO...\nBuổi nói chuyện của Ami Wibowo\nTrưởng quản lý (giám tuyển) Bảo tàng Mustika\n\nNgày giờ: 2 tháng 2, 10:00 sáng – 12:00 trưa\nĐịa điểm: Bảo tàng Mustika, Phòng hội nghị J1\nKramat Raya 81, Jakarta\n\nTiểu sử: Ami Wibowo là trưởng giám tuyển của Bảo tàng Mustika — bảo tàng lâu đời nhất về nghệ thuật và hiện vật Indonesia — từ năm 1987. Bà có bằng Thạc sĩ Nghệ thuật của Đại học Surabaya và đã quảng bá văn hóa, di sản của đất nước từ năm 1971. Bà là đồng chủ tịch Ủy ban Di sản Quốc gia và hiện là chủ tịch Quỹ Văn hóa ASEAN. Bà cũng là người khởi xướng Hội nghị Nghệ thuật Toàn Indonesia thường niên tại Jakarta.\n\nDưới sự lãnh đạo của bà, Bảo tàng Mustika đã phát triển nhiều dịch vụ đoạt giải, từ chương trình “Museums as Classrooms” (Bảo tàng là lớp học) đến các triển lãm quốc tế như “Masks of the Java Seas” và “A Transcultural Mosaic”, trưng bày hiện vật từ bộ sưu tập thường trực. Triển lãm mới nhất của bà là “Hornbills and Dragons”, đang nhận được những đánh giá cực kỳ tích cực tại New York.\n\nBà Wibowo thường xuyên xuất hiện trên các tạp chí nghệ thuật và các chương trình trò chuyện trên radio, truyền hình. Trong số nhiều ấn phẩm của bà có cuốn sách bán chạy quốc tế Postcards from the Far East.\n\nMuốn biết thêm thông tin, xin gọi Bộ Văn hóa theo số 555-3003 và gặp Benny Sutrisno.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-11",
+          "no": 11,
+          "text": "Which of the following is NOT an international exhibition?",
+          "options": {
+            "A": "Hornbills and Dragons",
+            "B": "Masks of the Java Seas",
+            "C": "A Transcultural Mosaic",
+            "D": "Museums as Classrooms"
+          },
+          "answer": "D",
+          "explain": "“Museums as Classrooms” được gọi là một “program” (chương trình). “Masks of the Java Seas” và “A Transcultural Mosaic” là “international exhibits”, còn “Hornbills and Dragons” là triển lãm đang được đánh giá ở New York.",
+          "passage": {
+            "text": "ANNOUNCING...\nA Talk by Ami Wibowo\nChief Curator of Mustika Museum\n\nDate & Time: February 2, 10:00 A.M.-12 noon\nLocation: Mustika Museum, Conference Room J1\nKramat Raya 81, Jakarta\n\nBio: Ami Wibowo has been the chief curator of the Mustika Museum, the oldest museum of Indonesian art and artifacts, since 1987. She holds a Master of Arts degree from Surabaya University and has been promoting the country’s culture and heritage since 1971. She is cochair of the National Heritage Commission and currently serves as the chair of the ASEAN Culture Foundation. She also started the annual Pan-Indonesian Art Conference in Jakarta.\n\nUnder her leadership, Mustika Museum has developed several award-winning services, ranging from the “Museums as Classrooms” program to international exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons,” which is receiving overwhelmingly positive reviews in New York.\n\nMs. Wibowo is frequently featured in art journals and on radio and television talk shows. Among her many publications is the international best seller, Postcards from the Far East.\n\nFor more information, please call the Ministry of Culture at 555-3003 and speak to Benny Sutrisno."
+          },
+          "vi": "THÔNG BÁO...\nBuổi nói chuyện của Ami Wibowo\nTrưởng quản lý (giám tuyển) Bảo tàng Mustika\n\nNgày giờ: 2 tháng 2, 10:00 sáng – 12:00 trưa\nĐịa điểm: Bảo tàng Mustika, Phòng hội nghị J1\nKramat Raya 81, Jakarta\n\nTiểu sử: Ami Wibowo là trưởng giám tuyển của Bảo tàng Mustika — bảo tàng lâu đời nhất về nghệ thuật và hiện vật Indonesia — từ năm 1987. Bà có bằng Thạc sĩ Nghệ thuật của Đại học Surabaya và đã quảng bá văn hóa, di sản của đất nước từ năm 1971. Bà là đồng chủ tịch Ủy ban Di sản Quốc gia và hiện là chủ tịch Quỹ Văn hóa ASEAN. Bà cũng là người khởi xướng Hội nghị Nghệ thuật Toàn Indonesia thường niên tại Jakarta.\n\nDưới sự lãnh đạo của bà, Bảo tàng Mustika đã phát triển nhiều dịch vụ đoạt giải, từ chương trình “Museums as Classrooms” (Bảo tàng là lớp học) đến các triển lãm quốc tế như “Masks of the Java Seas” và “A Transcultural Mosaic”, trưng bày hiện vật từ bộ sưu tập thường trực. Triển lãm mới nhất của bà là “Hornbills and Dragons”, đang nhận được những đánh giá cực kỳ tích cực tại New York.\n\nBà Wibowo thường xuyên xuất hiện trên các tạp chí nghệ thuật và các chương trình trò chuyện trên radio, truyền hình. Trong số nhiều ấn phẩm của bà có cuốn sách bán chạy quốc tế Postcards from the Far East.\n\nMuốn biết thêm thông tin, xin gọi Bộ Văn hóa theo số 555-3003 và gặp Benny Sutrisno.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-12",
+          "no": 12,
+          "text": "Where will Ami Wibowo be speaking?",
+          "options": {
+            "A": "At Mustika Museum",
+            "B": "At the Pan-Indonesian Art Conference",
+            "C": "At Surabaya University",
+            "D": "At the Ministry of Culture"
+          },
+          "answer": "A",
+          "explain": "“Location: Mustika Museum, Conference Room J1”. Bộ Văn hóa chỉ là nơi gọi để hỏi thông tin.",
+          "passage": {
+            "text": "ANNOUNCING...\nA Talk by Ami Wibowo\nChief Curator of Mustika Museum\n\nDate & Time: February 2, 10:00 A.M.-12 noon\nLocation: Mustika Museum, Conference Room J1\nKramat Raya 81, Jakarta\n\nBio: Ami Wibowo has been the chief curator of the Mustika Museum, the oldest museum of Indonesian art and artifacts, since 1987. She holds a Master of Arts degree from Surabaya University and has been promoting the country’s culture and heritage since 1971. She is cochair of the National Heritage Commission and currently serves as the chair of the ASEAN Culture Foundation. She also started the annual Pan-Indonesian Art Conference in Jakarta.\n\nUnder her leadership, Mustika Museum has developed several award-winning services, ranging from the “Museums as Classrooms” program to international exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons,” which is receiving overwhelmingly positive reviews in New York.\n\nMs. Wibowo is frequently featured in art journals and on radio and television talk shows. Among her many publications is the international best seller, Postcards from the Far East.\n\nFor more information, please call the Ministry of Culture at 555-3003 and speak to Benny Sutrisno."
+          },
+          "vi": "THÔNG BÁO...\nBuổi nói chuyện của Ami Wibowo\nTrưởng quản lý (giám tuyển) Bảo tàng Mustika\n\nNgày giờ: 2 tháng 2, 10:00 sáng – 12:00 trưa\nĐịa điểm: Bảo tàng Mustika, Phòng hội nghị J1\nKramat Raya 81, Jakarta\n\nTiểu sử: Ami Wibowo là trưởng giám tuyển của Bảo tàng Mustika — bảo tàng lâu đời nhất về nghệ thuật và hiện vật Indonesia — từ năm 1987. Bà có bằng Thạc sĩ Nghệ thuật của Đại học Surabaya và đã quảng bá văn hóa, di sản của đất nước từ năm 1971. Bà là đồng chủ tịch Ủy ban Di sản Quốc gia và hiện là chủ tịch Quỹ Văn hóa ASEAN. Bà cũng là người khởi xướng Hội nghị Nghệ thuật Toàn Indonesia thường niên tại Jakarta.\n\nDưới sự lãnh đạo của bà, Bảo tàng Mustika đã phát triển nhiều dịch vụ đoạt giải, từ chương trình “Museums as Classrooms” (Bảo tàng là lớp học) đến các triển lãm quốc tế như “Masks of the Java Seas” và “A Transcultural Mosaic”, trưng bày hiện vật từ bộ sưu tập thường trực. Triển lãm mới nhất của bà là “Hornbills and Dragons”, đang nhận được những đánh giá cực kỳ tích cực tại New York.\n\nBà Wibowo thường xuyên xuất hiện trên các tạp chí nghệ thuật và các chương trình trò chuyện trên radio, truyền hình. Trong số nhiều ấn phẩm của bà có cuốn sách bán chạy quốc tế Postcards from the Far East.\n\nMuốn biết thêm thông tin, xin gọi Bộ Văn hóa theo số 555-3003 và gặp Benny Sutrisno.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-13",
+          "no": 13,
+          "text": "What is one of Ami Wibowo’s achievements?",
+          "options": {
+            "A": "She is the founder of Mustika Museum.",
+            "B": "She wrote Postcards from the Far East.",
+            "C": "She is a professor at Surabaya University.",
+            "D": "She started a broadcasting company."
+          },
+          "answer": "B",
+          "explain": "“Among her many publications is the international best seller, Postcards from the Far East” — bà là tác giả cuốn sách này. Bà là giám tuyển chứ không phải người sáng lập bảo tàng.",
+          "passage": {
+            "text": "ANNOUNCING...\nA Talk by Ami Wibowo\nChief Curator of Mustika Museum\n\nDate & Time: February 2, 10:00 A.M.-12 noon\nLocation: Mustika Museum, Conference Room J1\nKramat Raya 81, Jakarta\n\nBio: Ami Wibowo has been the chief curator of the Mustika Museum, the oldest museum of Indonesian art and artifacts, since 1987. She holds a Master of Arts degree from Surabaya University and has been promoting the country’s culture and heritage since 1971. She is cochair of the National Heritage Commission and currently serves as the chair of the ASEAN Culture Foundation. She also started the annual Pan-Indonesian Art Conference in Jakarta.\n\nUnder her leadership, Mustika Museum has developed several award-winning services, ranging from the “Museums as Classrooms” program to international exhibits such as “Masks of the Java Seas” and “A Transcultural Mosaic,” showcasing artifacts from the permanent collection. Her most recent exhibit is “Hornbills and Dragons,” which is receiving overwhelmingly positive reviews in New York.\n\nMs. Wibowo is frequently featured in art journals and on radio and television talk shows. Among her many publications is the international best seller, Postcards from the Far East.\n\nFor more information, please call the Ministry of Culture at 555-3003 and speak to Benny Sutrisno."
+          },
+          "vi": "THÔNG BÁO...\nBuổi nói chuyện của Ami Wibowo\nTrưởng quản lý (giám tuyển) Bảo tàng Mustika\n\nNgày giờ: 2 tháng 2, 10:00 sáng – 12:00 trưa\nĐịa điểm: Bảo tàng Mustika, Phòng hội nghị J1\nKramat Raya 81, Jakarta\n\nTiểu sử: Ami Wibowo là trưởng giám tuyển của Bảo tàng Mustika — bảo tàng lâu đời nhất về nghệ thuật và hiện vật Indonesia — từ năm 1987. Bà có bằng Thạc sĩ Nghệ thuật của Đại học Surabaya và đã quảng bá văn hóa, di sản của đất nước từ năm 1971. Bà là đồng chủ tịch Ủy ban Di sản Quốc gia và hiện là chủ tịch Quỹ Văn hóa ASEAN. Bà cũng là người khởi xướng Hội nghị Nghệ thuật Toàn Indonesia thường niên tại Jakarta.\n\nDưới sự lãnh đạo của bà, Bảo tàng Mustika đã phát triển nhiều dịch vụ đoạt giải, từ chương trình “Museums as Classrooms” (Bảo tàng là lớp học) đến các triển lãm quốc tế như “Masks of the Java Seas” và “A Transcultural Mosaic”, trưng bày hiện vật từ bộ sưu tập thường trực. Triển lãm mới nhất của bà là “Hornbills and Dragons”, đang nhận được những đánh giá cực kỳ tích cực tại New York.\n\nBà Wibowo thường xuyên xuất hiện trên các tạp chí nghệ thuật và các chương trình trò chuyện trên radio, truyền hình. Trong số nhiều ấn phẩm của bà có cuốn sách bán chạy quốc tế Postcards from the Far East.\n\nMuốn biết thêm thông tin, xin gọi Bộ Văn hóa theo số 555-3003 và gặp Benny Sutrisno.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: amateur animators",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d18-read-14",
+          "no": 14,
+          "text": "What is a goal of the competition?",
+          "options": {
+            "A": "To encourage people to attend a university",
+            "B": "To raise funds for a university program",
+            "C": "To provide exposure to unknown artists",
+            "D": "To publicize a new computer software product"
+          },
+          "answer": "C",
+          "explain": "“A real opportunity to have your work critiqued by animation professionals and seen by the public” — giúp người làm phim nghiệp dư (chưa có tên tuổi) được biết đến.",
+          "passage": {
+            "text": "WANTED: AMATEUR ANIMATORS\n12TH ANNUAL COMPUTER ANIMATION FESTIVAL AND COMPETITION\n\nOnce again, Johannsen University will host its computer animation festival and competition. With home computers becoming more powerful and animation software less expensive, many animated films are being made at home. If you’ve been making amateur animated films, we urge you to enter the competition. Past winners have gone on to work in television and with major studios. This is a real opportunity to have your work critiqued by animation professionals and seen by the public.\n\nThe festival will be held at Johannsen University starting May 15. It will feature works from around the world as well as competition winners.\n\nOur judges will select five entries for awards. The entries will be evaluated based on the originality of both the story line and the production. The trophy for the grand prize winner will be presented at the opening night event. The other four winners will have their work shown during the afternoon programs on May 16 and 18.\n\nOur Web site, www.newlookanima.com, has complete instructions for preparing submissions. Note that the competition is open to amateur animators only. Employees of broadcast, film production, and publishing organizations may not enter."
+          },
+          "vi": "TUYỂN: NHÀ LÀM PHIM HOẠT HÌNH NGHIỆP DƯ\nLIÊN HOAN VÀ CUỘC THI HOẠT HÌNH MÁY TÍNH THƯỜNG NIÊN LẦN THỨ 12\n\nMột lần nữa, Đại học Johannsen sẽ tổ chức liên hoan và cuộc thi hoạt hình máy tính. Khi máy tính gia đình ngày càng mạnh và phần mềm hoạt hình ngày càng rẻ, nhiều phim hoạt hình đang được làm tại nhà. Nếu bạn đang làm phim hoạt hình nghiệp dư, chúng tôi khuyến khích bạn tham gia cuộc thi. Những người thắng giải trước đây đã tiếp tục làm việc trong ngành truyền hình và với các hãng phim lớn. Đây là cơ hội thật sự để tác phẩm của bạn được các chuyên gia hoạt hình nhận xét và được công chúng xem.\n\nLiên hoan sẽ diễn ra tại Đại học Johannsen, bắt đầu từ ngày 15/5. Liên hoan sẽ trình chiếu các tác phẩm từ khắp thế giới cùng các tác phẩm đoạt giải.\n\nBan giám khảo sẽ chọn năm tác phẩm để trao giải. Các tác phẩm được chấm dựa trên tính độc đáo của cả cốt truyện lẫn khâu sản xuất. Cúp cho người đoạt giải nhất sẽ được trao tại sự kiện đêm khai mạc. Bốn người thắng giải còn lại sẽ được chiếu tác phẩm trong các chương trình buổi chiều ngày 16 và 18/5.\n\nTrang web của chúng tôi, www.newlookanima.com, có đầy đủ hướng dẫn chuẩn bị bài dự thi. Lưu ý cuộc thi chỉ dành cho người làm hoạt hình nghiệp dư. Nhân viên của các tổ chức phát thanh truyền hình, sản xuất phim và xuất bản không được tham gia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-15",
+          "no": 15,
+          "text": "On what basis will the entries be judged?",
+          "options": {
+            "A": "The simplicity of the software design",
+            "B": "The creativity of the work",
+            "C": "The length of the story",
+            "D": "The presenter’s public speaking skills"
+          },
+          "answer": "B",
+          "explain": "“Evaluated based on the originality of both the story line and the production” — originality (tính độc đáo) được diễn đạt lại thành creativity (sự sáng tạo).",
+          "passage": {
+            "text": "WANTED: AMATEUR ANIMATORS\n12TH ANNUAL COMPUTER ANIMATION FESTIVAL AND COMPETITION\n\nOnce again, Johannsen University will host its computer animation festival and competition. With home computers becoming more powerful and animation software less expensive, many animated films are being made at home. If you’ve been making amateur animated films, we urge you to enter the competition. Past winners have gone on to work in television and with major studios. This is a real opportunity to have your work critiqued by animation professionals and seen by the public.\n\nThe festival will be held at Johannsen University starting May 15. It will feature works from around the world as well as competition winners.\n\nOur judges will select five entries for awards. The entries will be evaluated based on the originality of both the story line and the production. The trophy for the grand prize winner will be presented at the opening night event. The other four winners will have their work shown during the afternoon programs on May 16 and 18.\n\nOur Web site, www.newlookanima.com, has complete instructions for preparing submissions. Note that the competition is open to amateur animators only. Employees of broadcast, film production, and publishing organizations may not enter."
+          },
+          "vi": "TUYỂN: NHÀ LÀM PHIM HOẠT HÌNH NGHIỆP DƯ\nLIÊN HOAN VÀ CUỘC THI HOẠT HÌNH MÁY TÍNH THƯỜNG NIÊN LẦN THỨ 12\n\nMột lần nữa, Đại học Johannsen sẽ tổ chức liên hoan và cuộc thi hoạt hình máy tính. Khi máy tính gia đình ngày càng mạnh và phần mềm hoạt hình ngày càng rẻ, nhiều phim hoạt hình đang được làm tại nhà. Nếu bạn đang làm phim hoạt hình nghiệp dư, chúng tôi khuyến khích bạn tham gia cuộc thi. Những người thắng giải trước đây đã tiếp tục làm việc trong ngành truyền hình và với các hãng phim lớn. Đây là cơ hội thật sự để tác phẩm của bạn được các chuyên gia hoạt hình nhận xét và được công chúng xem.\n\nLiên hoan sẽ diễn ra tại Đại học Johannsen, bắt đầu từ ngày 15/5. Liên hoan sẽ trình chiếu các tác phẩm từ khắp thế giới cùng các tác phẩm đoạt giải.\n\nBan giám khảo sẽ chọn năm tác phẩm để trao giải. Các tác phẩm được chấm dựa trên tính độc đáo của cả cốt truyện lẫn khâu sản xuất. Cúp cho người đoạt giải nhất sẽ được trao tại sự kiện đêm khai mạc. Bốn người thắng giải còn lại sẽ được chiếu tác phẩm trong các chương trình buổi chiều ngày 16 và 18/5.\n\nTrang web của chúng tôi, www.newlookanima.com, có đầy đủ hướng dẫn chuẩn bị bài dự thi. Lưu ý cuộc thi chỉ dành cho người làm hoạt hình nghiệp dư. Nhân viên của các tổ chức phát thanh truyền hình, sản xuất phim và xuất bản không được tham gia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-16",
+          "no": 16,
+          "text": "When will the top prize be awarded?",
+          "options": {
+            "A": "On May 15",
+            "B": "On May 16",
+            "C": "On May 17",
+            "D": "On May 18"
+          },
+          "answer": "A",
+          "explain": "Giải nhất trao “at the opening night event”, và liên hoan bắt đầu “starting May 15” — đêm khai mạc là 15/5. Ngày 16 và 18/5 dành cho bốn người thắng giải còn lại.",
+          "passage": {
+            "text": "WANTED: AMATEUR ANIMATORS\n12TH ANNUAL COMPUTER ANIMATION FESTIVAL AND COMPETITION\n\nOnce again, Johannsen University will host its computer animation festival and competition. With home computers becoming more powerful and animation software less expensive, many animated films are being made at home. If you’ve been making amateur animated films, we urge you to enter the competition. Past winners have gone on to work in television and with major studios. This is a real opportunity to have your work critiqued by animation professionals and seen by the public.\n\nThe festival will be held at Johannsen University starting May 15. It will feature works from around the world as well as competition winners.\n\nOur judges will select five entries for awards. The entries will be evaluated based on the originality of both the story line and the production. The trophy for the grand prize winner will be presented at the opening night event. The other four winners will have their work shown during the afternoon programs on May 16 and 18.\n\nOur Web site, www.newlookanima.com, has complete instructions for preparing submissions. Note that the competition is open to amateur animators only. Employees of broadcast, film production, and publishing organizations may not enter."
+          },
+          "vi": "TUYỂN: NHÀ LÀM PHIM HOẠT HÌNH NGHIỆP DƯ\nLIÊN HOAN VÀ CUỘC THI HOẠT HÌNH MÁY TÍNH THƯỜNG NIÊN LẦN THỨ 12\n\nMột lần nữa, Đại học Johannsen sẽ tổ chức liên hoan và cuộc thi hoạt hình máy tính. Khi máy tính gia đình ngày càng mạnh và phần mềm hoạt hình ngày càng rẻ, nhiều phim hoạt hình đang được làm tại nhà. Nếu bạn đang làm phim hoạt hình nghiệp dư, chúng tôi khuyến khích bạn tham gia cuộc thi. Những người thắng giải trước đây đã tiếp tục làm việc trong ngành truyền hình và với các hãng phim lớn. Đây là cơ hội thật sự để tác phẩm của bạn được các chuyên gia hoạt hình nhận xét và được công chúng xem.\n\nLiên hoan sẽ diễn ra tại Đại học Johannsen, bắt đầu từ ngày 15/5. Liên hoan sẽ trình chiếu các tác phẩm từ khắp thế giới cùng các tác phẩm đoạt giải.\n\nBan giám khảo sẽ chọn năm tác phẩm để trao giải. Các tác phẩm được chấm dựa trên tính độc đáo của cả cốt truyện lẫn khâu sản xuất. Cúp cho người đoạt giải nhất sẽ được trao tại sự kiện đêm khai mạc. Bốn người thắng giải còn lại sẽ được chiếu tác phẩm trong các chương trình buổi chiều ngày 16 và 18/5.\n\nTrang web của chúng tôi, www.newlookanima.com, có đầy đủ hướng dẫn chuẩn bị bài dự thi. Lưu ý cuộc thi chỉ dành cho người làm hoạt hình nghiệp dư. Nhân viên của các tổ chức phát thanh truyền hình, sản xuất phim và xuất bản không được tham gia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-17",
+          "no": 17,
+          "text": "Who is NOT eligible to enter the competition?",
+          "options": {
+            "A": "Those who have won the competition in the past",
+            "B": "Those who make films on home computers",
+            "C": "Animators working for television studios",
+            "D": "Students at Johannsen University"
+          },
+          "answer": "C",
+          "explain": "“Employees of broadcast, film production, and publishing organizations may not enter” — người làm cho đài truyền hình không được dự thi.",
+          "passage": {
+            "text": "WANTED: AMATEUR ANIMATORS\n12TH ANNUAL COMPUTER ANIMATION FESTIVAL AND COMPETITION\n\nOnce again, Johannsen University will host its computer animation festival and competition. With home computers becoming more powerful and animation software less expensive, many animated films are being made at home. If you’ve been making amateur animated films, we urge you to enter the competition. Past winners have gone on to work in television and with major studios. This is a real opportunity to have your work critiqued by animation professionals and seen by the public.\n\nThe festival will be held at Johannsen University starting May 15. It will feature works from around the world as well as competition winners.\n\nOur judges will select five entries for awards. The entries will be evaluated based on the originality of both the story line and the production. The trophy for the grand prize winner will be presented at the opening night event. The other four winners will have their work shown during the afternoon programs on May 16 and 18.\n\nOur Web site, www.newlookanima.com, has complete instructions for preparing submissions. Note that the competition is open to amateur animators only. Employees of broadcast, film production, and publishing organizations may not enter."
+          },
+          "vi": "TUYỂN: NHÀ LÀM PHIM HOẠT HÌNH NGHIỆP DƯ\nLIÊN HOAN VÀ CUỘC THI HOẠT HÌNH MÁY TÍNH THƯỜNG NIÊN LẦN THỨ 12\n\nMột lần nữa, Đại học Johannsen sẽ tổ chức liên hoan và cuộc thi hoạt hình máy tính. Khi máy tính gia đình ngày càng mạnh và phần mềm hoạt hình ngày càng rẻ, nhiều phim hoạt hình đang được làm tại nhà. Nếu bạn đang làm phim hoạt hình nghiệp dư, chúng tôi khuyến khích bạn tham gia cuộc thi. Những người thắng giải trước đây đã tiếp tục làm việc trong ngành truyền hình và với các hãng phim lớn. Đây là cơ hội thật sự để tác phẩm của bạn được các chuyên gia hoạt hình nhận xét và được công chúng xem.\n\nLiên hoan sẽ diễn ra tại Đại học Johannsen, bắt đầu từ ngày 15/5. Liên hoan sẽ trình chiếu các tác phẩm từ khắp thế giới cùng các tác phẩm đoạt giải.\n\nBan giám khảo sẽ chọn năm tác phẩm để trao giải. Các tác phẩm được chấm dựa trên tính độc đáo của cả cốt truyện lẫn khâu sản xuất. Cúp cho người đoạt giải nhất sẽ được trao tại sự kiện đêm khai mạc. Bốn người thắng giải còn lại sẽ được chiếu tác phẩm trong các chương trình buổi chiều ngày 16 và 18/5.\n\nTrang web của chúng tôi, www.newlookanima.com, có đầy đủ hướng dẫn chuẩn bị bài dự thi. Lưu ý cuộc thi chỉ dành cho người làm hoạt hình nghiệp dư. Nhân viên của các tổ chức phát thanh truyền hình, sản xuất phim và xuất bản không được tham gia.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d18-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 4: walkway renovation",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "PART 7 D9 S2 UNIT4.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d18-read-18",
+          "no": 18,
+          "text": "What is the main purpose of the memo?",
+          "options": {
+            "A": "To invite applications for employment on a project",
+            "B": "To describe an upcoming construction project",
+            "C": "To outline safety procedures for people who work downtown",
+            "D": "To suggest an alternate work schedule"
+          },
+          "answer": "B",
+          "explain": "Bản ghi nhớ báo việc sửa vỉa hè trong hai tháng tới và đưa lịch thi công chi tiết — mô tả một dự án xây dựng sắp diễn ra.",
+          "passage": {
+            "text": "MEMO\n\nFrom: David Goldstein, Office of the City Manager\nTo: Downtown Business Owners\nDate: Monday, June 2\nSubject: Walkway renovation\n\nOver the next two months, the city streets department will be repairing walkways along Main, Duval, and Carolyn avenues. It is anticipated that the work will be carried out over a five-day period at each location and will follow a typical pattern. Business owners who will be affected will receive notice of work that is planned for their immediate area at least one week in advance.\n\nPlease note the timeline for work on Carolyn Avenue walkways between Pine Road and Oak Lane:\nJune 16: Delivery of equipment and materials to Carolyn Avenue work site\nJune 17: Removal of old and broken sections of walkways\nJune 18: Leveling of surfaces and pouring gravel foundation\nJune 19: Pouring and leveling concrete\nJune 20: Cleaning and finishing walkways\n\nThe crews from Midtown Construction will begin their work at 8:00 A.M. and should close down operations by 4:30 P.M. daily. Although we expect the operation to be minimally disruptive on most days, the sound of construction work is likely to affect employees and customers in nearby restaurants and shops, particularly during the walkway excavation.\n\nPlease contact Sonia Indovino, general manager of Midtown Construction, at 555-0122 if you have any questions about this project. You may also call me or visit the Office of the City Manager, 120 State Road, to discuss any concerns."
+          },
+          "vi": "BẢN GHI NHỚ\n\nTừ: David Goldstein, Văn phòng Quản lý Thành phố\nGửi: Các chủ doanh nghiệp khu trung tâm\nNgày: Thứ Hai, 2 tháng 6\nChủ đề: Cải tạo vỉa hè\n\nTrong hai tháng tới, sở đường phố thành phố sẽ sửa chữa vỉa hè dọc các đại lộ Main, Duval và Carolyn. Dự kiến công việc sẽ kéo dài năm ngày ở mỗi địa điểm và theo một quy trình giống nhau. Các chủ doanh nghiệp bị ảnh hưởng sẽ nhận thông báo về công việc dự kiến ở khu vực ngay sát họ trước ít nhất một tuần.\n\nXin lưu ý lịch thi công vỉa hè đại lộ Carolyn, đoạn giữa đường Pine và đường Oak:\n16/6: Chuyển thiết bị và vật liệu đến công trường đại lộ Carolyn\n17/6: Dỡ bỏ các đoạn vỉa hè cũ và hư hỏng\n18/6: San phẳng bề mặt và đổ nền sỏi\n19/6: Đổ và san phẳng bê tông\n20/6: Dọn dẹp và hoàn thiện vỉa hè\n\nCác đội thi công của Midtown Construction sẽ bắt đầu lúc 8:00 sáng và kết thúc trước 4:30 chiều mỗi ngày. Dù chúng tôi dự kiến việc thi công gây ít xáo trộn trong hầu hết các ngày, tiếng ồn công trình có thể ảnh hưởng đến nhân viên và khách hàng ở các nhà hàng, cửa hàng gần đó, đặc biệt trong lúc đào vỉa hè.\n\nNếu có câu hỏi về dự án, xin liên hệ Sonia Indovino, tổng giám đốc Midtown Construction, theo số 555-0122. Bạn cũng có thể gọi cho tôi hoặc đến Văn phòng Quản lý Thành phố, số 120 đường State, để trao đổi mọi lo ngại.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-19",
+          "no": 19,
+          "text": "Who most likely is Mr. Goldstein?",
+          "options": {
+            "A": "A construction company worker",
+            "B": "A government employee",
+            "C": "The owner of a shop",
+            "D": "The manager of a restaurant"
+          },
+          "answer": "B",
+          "explain": "Ông ký tên “David Goldstein, Office of the City Manager” — làm ở văn phòng quản lý thành phố, tức là nhân viên chính quyền.",
+          "passage": {
+            "text": "MEMO\n\nFrom: David Goldstein, Office of the City Manager\nTo: Downtown Business Owners\nDate: Monday, June 2\nSubject: Walkway renovation\n\nOver the next two months, the city streets department will be repairing walkways along Main, Duval, and Carolyn avenues. It is anticipated that the work will be carried out over a five-day period at each location and will follow a typical pattern. Business owners who will be affected will receive notice of work that is planned for their immediate area at least one week in advance.\n\nPlease note the timeline for work on Carolyn Avenue walkways between Pine Road and Oak Lane:\nJune 16: Delivery of equipment and materials to Carolyn Avenue work site\nJune 17: Removal of old and broken sections of walkways\nJune 18: Leveling of surfaces and pouring gravel foundation\nJune 19: Pouring and leveling concrete\nJune 20: Cleaning and finishing walkways\n\nThe crews from Midtown Construction will begin their work at 8:00 A.M. and should close down operations by 4:30 P.M. daily. Although we expect the operation to be minimally disruptive on most days, the sound of construction work is likely to affect employees and customers in nearby restaurants and shops, particularly during the walkway excavation.\n\nPlease contact Sonia Indovino, general manager of Midtown Construction, at 555-0122 if you have any questions about this project. You may also call me or visit the Office of the City Manager, 120 State Road, to discuss any concerns."
+          },
+          "vi": "BẢN GHI NHỚ\n\nTừ: David Goldstein, Văn phòng Quản lý Thành phố\nGửi: Các chủ doanh nghiệp khu trung tâm\nNgày: Thứ Hai, 2 tháng 6\nChủ đề: Cải tạo vỉa hè\n\nTrong hai tháng tới, sở đường phố thành phố sẽ sửa chữa vỉa hè dọc các đại lộ Main, Duval và Carolyn. Dự kiến công việc sẽ kéo dài năm ngày ở mỗi địa điểm và theo một quy trình giống nhau. Các chủ doanh nghiệp bị ảnh hưởng sẽ nhận thông báo về công việc dự kiến ở khu vực ngay sát họ trước ít nhất một tuần.\n\nXin lưu ý lịch thi công vỉa hè đại lộ Carolyn, đoạn giữa đường Pine và đường Oak:\n16/6: Chuyển thiết bị và vật liệu đến công trường đại lộ Carolyn\n17/6: Dỡ bỏ các đoạn vỉa hè cũ và hư hỏng\n18/6: San phẳng bề mặt và đổ nền sỏi\n19/6: Đổ và san phẳng bê tông\n20/6: Dọn dẹp và hoàn thiện vỉa hè\n\nCác đội thi công của Midtown Construction sẽ bắt đầu lúc 8:00 sáng và kết thúc trước 4:30 chiều mỗi ngày. Dù chúng tôi dự kiến việc thi công gây ít xáo trộn trong hầu hết các ngày, tiếng ồn công trình có thể ảnh hưởng đến nhân viên và khách hàng ở các nhà hàng, cửa hàng gần đó, đặc biệt trong lúc đào vỉa hè.\n\nNếu có câu hỏi về dự án, xin liên hệ Sonia Indovino, tổng giám đốc Midtown Construction, theo số 555-0122. Bạn cũng có thể gọi cho tôi hoặc đến Văn phòng Quản lý Thành phố, số 120 đường State, để trao đổi mọi lo ngại.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-20",
+          "no": 20,
+          "text": "What is indicated about the process described in the memo?",
+          "options": {
+            "A": "It will involve walkways along five streets.",
+            "B": "It will require that some businesses close temporarily.",
+            "C": "It will take longer to complete than originally planned.",
+            "D": "It will be repeated in several different areas."
+          },
+          "answer": "D",
+          "explain": "“Five-day period at each location and will follow a typical pattern” — quy trình năm ngày sẽ lặp lại ở từng đại lộ (Main, Duval, Carolyn). Chỉ có ba đại lộ, không phải năm con đường.",
+          "passage": {
+            "text": "MEMO\n\nFrom: David Goldstein, Office of the City Manager\nTo: Downtown Business Owners\nDate: Monday, June 2\nSubject: Walkway renovation\n\nOver the next two months, the city streets department will be repairing walkways along Main, Duval, and Carolyn avenues. It is anticipated that the work will be carried out over a five-day period at each location and will follow a typical pattern. Business owners who will be affected will receive notice of work that is planned for their immediate area at least one week in advance.\n\nPlease note the timeline for work on Carolyn Avenue walkways between Pine Road and Oak Lane:\nJune 16: Delivery of equipment and materials to Carolyn Avenue work site\nJune 17: Removal of old and broken sections of walkways\nJune 18: Leveling of surfaces and pouring gravel foundation\nJune 19: Pouring and leveling concrete\nJune 20: Cleaning and finishing walkways\n\nThe crews from Midtown Construction will begin their work at 8:00 A.M. and should close down operations by 4:30 P.M. daily. Although we expect the operation to be minimally disruptive on most days, the sound of construction work is likely to affect employees and customers in nearby restaurants and shops, particularly during the walkway excavation.\n\nPlease contact Sonia Indovino, general manager of Midtown Construction, at 555-0122 if you have any questions about this project. You may also call me or visit the Office of the City Manager, 120 State Road, to discuss any concerns."
+          },
+          "vi": "BẢN GHI NHỚ\n\nTừ: David Goldstein, Văn phòng Quản lý Thành phố\nGửi: Các chủ doanh nghiệp khu trung tâm\nNgày: Thứ Hai, 2 tháng 6\nChủ đề: Cải tạo vỉa hè\n\nTrong hai tháng tới, sở đường phố thành phố sẽ sửa chữa vỉa hè dọc các đại lộ Main, Duval và Carolyn. Dự kiến công việc sẽ kéo dài năm ngày ở mỗi địa điểm và theo một quy trình giống nhau. Các chủ doanh nghiệp bị ảnh hưởng sẽ nhận thông báo về công việc dự kiến ở khu vực ngay sát họ trước ít nhất một tuần.\n\nXin lưu ý lịch thi công vỉa hè đại lộ Carolyn, đoạn giữa đường Pine và đường Oak:\n16/6: Chuyển thiết bị và vật liệu đến công trường đại lộ Carolyn\n17/6: Dỡ bỏ các đoạn vỉa hè cũ và hư hỏng\n18/6: San phẳng bề mặt và đổ nền sỏi\n19/6: Đổ và san phẳng bê tông\n20/6: Dọn dẹp và hoàn thiện vỉa hè\n\nCác đội thi công của Midtown Construction sẽ bắt đầu lúc 8:00 sáng và kết thúc trước 4:30 chiều mỗi ngày. Dù chúng tôi dự kiến việc thi công gây ít xáo trộn trong hầu hết các ngày, tiếng ồn công trình có thể ảnh hưởng đến nhân viên và khách hàng ở các nhà hàng, cửa hàng gần đó, đặc biệt trong lúc đào vỉa hè.\n\nNếu có câu hỏi về dự án, xin liên hệ Sonia Indovino, tổng giám đốc Midtown Construction, theo số 555-0122. Bạn cũng có thể gọi cho tôi hoặc đến Văn phòng Quản lý Thành phố, số 120 đường State, để trao đổi mọi lo ngại.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d18-read-21",
+          "no": 21,
+          "text": "What possible effect on businesses is mentioned in the memo?",
+          "options": {
+            "A": "Noise may bother people.",
+            "B": "Parking will be limited.",
+            "C": "Business hours will be shortened.",
+            "D": "Equipment may block entrances."
+          },
+          "answer": "A",
+          "explain": "“The sound of construction work is likely to affect employees and customers in nearby restaurants and shops” — tiếng ồn có thể làm phiền mọi người.",
+          "passage": {
+            "text": "MEMO\n\nFrom: David Goldstein, Office of the City Manager\nTo: Downtown Business Owners\nDate: Monday, June 2\nSubject: Walkway renovation\n\nOver the next two months, the city streets department will be repairing walkways along Main, Duval, and Carolyn avenues. It is anticipated that the work will be carried out over a five-day period at each location and will follow a typical pattern. Business owners who will be affected will receive notice of work that is planned for their immediate area at least one week in advance.\n\nPlease note the timeline for work on Carolyn Avenue walkways between Pine Road and Oak Lane:\nJune 16: Delivery of equipment and materials to Carolyn Avenue work site\nJune 17: Removal of old and broken sections of walkways\nJune 18: Leveling of surfaces and pouring gravel foundation\nJune 19: Pouring and leveling concrete\nJune 20: Cleaning and finishing walkways\n\nThe crews from Midtown Construction will begin their work at 8:00 A.M. and should close down operations by 4:30 P.M. daily. Although we expect the operation to be minimally disruptive on most days, the sound of construction work is likely to affect employees and customers in nearby restaurants and shops, particularly during the walkway excavation.\n\nPlease contact Sonia Indovino, general manager of Midtown Construction, at 555-0122 if you have any questions about this project. You may also call me or visit the Office of the City Manager, 120 State Road, to discuss any concerns."
+          },
+          "vi": "BẢN GHI NHỚ\n\nTừ: David Goldstein, Văn phòng Quản lý Thành phố\nGửi: Các chủ doanh nghiệp khu trung tâm\nNgày: Thứ Hai, 2 tháng 6\nChủ đề: Cải tạo vỉa hè\n\nTrong hai tháng tới, sở đường phố thành phố sẽ sửa chữa vỉa hè dọc các đại lộ Main, Duval và Carolyn. Dự kiến công việc sẽ kéo dài năm ngày ở mỗi địa điểm và theo một quy trình giống nhau. Các chủ doanh nghiệp bị ảnh hưởng sẽ nhận thông báo về công việc dự kiến ở khu vực ngay sát họ trước ít nhất một tuần.\n\nXin lưu ý lịch thi công vỉa hè đại lộ Carolyn, đoạn giữa đường Pine và đường Oak:\n16/6: Chuyển thiết bị và vật liệu đến công trường đại lộ Carolyn\n17/6: Dỡ bỏ các đoạn vỉa hè cũ và hư hỏng\n18/6: San phẳng bề mặt và đổ nền sỏi\n19/6: Đổ và san phẳng bê tông\n20/6: Dọn dẹp và hoàn thiện vỉa hè\n\nCác đội thi công của Midtown Construction sẽ bắt đầu lúc 8:00 sáng và kết thúc trước 4:30 chiều mỗi ngày. Dù chúng tôi dự kiến việc thi công gây ít xáo trộn trong hầu hết các ngày, tiếng ồn công trình có thể ảnh hưởng đến nhân viên và khách hàng ở các nhà hàng, cửa hàng gần đó, đặc biệt trong lúc đào vỉa hè.\n\nNếu có câu hỏi về dự án, xin liên hệ Sonia Indovino, tổng giám đốc Midtown Construction, theo số 555-0122. Bạn cũng có thể gọi cho tôi hoặc đến Văn phòng Quản lý Thành phố, số 120 đường State, để trao đổi mọi lo ngại.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

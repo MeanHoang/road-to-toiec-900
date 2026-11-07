@@ -114,9 +114,10 @@ import d18day from '@/content/day-18/day.json';
 import d18vocabulary from '@/content/day-18/vocabulary.json';
 import d18theory from '@/content/day-18/theory.json';
 import d18listening from '@/content/day-18/listening.json';
+import d18exercises from '@/content/day-18/exercises.json';
 
 const REGISTRY = {
-  'day-18': { day: d18day, vocabulary: d18vocabulary, theory: d18theory, listening: d18listening },
+  'day-18': { day: d18day, vocabulary: d18vocabulary, theory: d18theory, listening: d18listening, exercises: d18exercises },
   'day-17': { day: d17day, vocabulary: d17vocabulary, theory: d17theory, listening: d17listening, exercises: d17exercises },
   'day-16': {
     day: d16day,
