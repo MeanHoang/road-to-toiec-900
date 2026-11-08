@@ -1,0 +1,718 @@
+{
+  "collection": "vocabulary",
+  "day": "day-19",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d19-v01",
+      "no": 1,
+      "word": "sign up",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/saɪn ʌp/",
+        "us": "/saɪn ʌp/"
+      },
+      "meaningVi": "đăng ký",
+      "image": null,
+      "example": {
+        "en": "You can sign up online for language classes."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v01-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v02",
+      "no": 2,
+      "word": "hardware",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhɑːdweə(r)/",
+        "us": "/ˈhɑːrdwer/"
+      },
+      "meaningVi": "phần cứng",
+      "image": null,
+      "example": {
+        "en": "The cost of computer hardware has fallen in the last ten years."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v02-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v03",
+      "no": 3,
+      "word": "accessory",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əkˈsesəri/",
+        "us": "/əkˈsesəri/"
+      },
+      "meaningVi": "phụ kiện",
+      "image": null,
+      "example": {
+        "en": "You can buy various accessories for your phone."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v03-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v04",
+      "no": 4,
+      "word": "switch on",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/swɪtʃ ɒn/",
+        "us": "/swɪtʃ ɑːn/"
+      },
+      "meaningVi": "bật (đèn, công tắc…)",
+      "image": null,
+      "example": {
+        "en": "The machine switches on automatically."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v04-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v05",
+      "no": 5,
+      "word": "switch off",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/swɪtʃ ɒf/",
+        "us": "/swɪtʃ ɔːf/"
+      },
+      "meaningVi": "tắt (đèn, công tắc…)",
+      "image": null,
+      "example": {
+        "en": "Mobiles must remain switched off throughout the flight."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v05-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v06",
+      "no": 6,
+      "word": "spreadsheet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈspredʃiːt/",
+        "us": "/ˈspredʃiːt/"
+      },
+      "meaningVi": "bảng tính",
+      "image": null,
+      "example": {
+        "en": "I entered the data into a spreadsheet on my laptop."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v06-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v07",
+      "no": 7,
+      "word": "hard drive",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhɑːd draɪv/",
+        "us": "/ˈhɑːrd draɪv/"
+      },
+      "meaningVi": "ổ cứng",
+      "image": null,
+      "example": {
+        "en": "Computer hard drives contain all the data in your PC, from the operating system to music, movies and video games."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v07-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v08",
+      "no": 8,
+      "word": "backup",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbækʌp/",
+        "us": "/ˈbækʌp/"
+      },
+      "meaningVi": "sao lưu dữ liệu, hỗ trợ",
+      "image": null,
+      "example": {
+        "en": "Always make a backup of your work."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v08-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v09",
+      "no": 9,
+      "word": "graphic",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡræfɪk/",
+        "us": "/ˈɡræfɪk/"
+      },
+      "meaningVi": "đồ họa",
+      "image": null,
+      "example": {
+        "en": "Open positions for graphic designer jobs with attractive salaries and benefits."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v09-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v10",
+      "no": 10,
+      "word": "firewall",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfaɪəwɔːl/",
+        "us": "/ˈfaɪərwɔːl/"
+      },
+      "meaningVi": "tường lửa",
+      "image": null,
+      "example": {
+        "en": "Without a firewall, all your files could be instantly accessible to any competent hacker from anywhere in the world."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v10-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v11",
+      "no": 11,
+      "word": "state-of-the-art",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌsteɪt əv ði ˈɑːt/",
+        "us": "/ˌsteɪt əv ði ˈɑːrt/"
+      },
+      "meaningVi": "(sử dụng công nghệ, biện pháp) tiên tiến, hiện đại",
+      "image": null,
+      "example": {
+        "en": "The control panel uses all the newest technology and is considered state-of-the-art."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v11-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v12",
+      "no": 12,
+      "word": "outdated",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌaʊtˈdeɪtɪd/",
+        "us": "/ˌaʊtˈdeɪtɪd/"
+      },
+      "meaningVi": "lỗi thời, cũ",
+      "image": null,
+      "example": {
+        "en": "It is an outdated and inefficient system."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v12-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v13",
+      "no": 13,
+      "word": "database",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdeɪtəbeɪs/",
+        "us": "/ˈdætəbeɪs/"
+      },
+      "meaningVi": "cơ sở dữ liệu",
+      "image": null,
+      "example": {
+        "en": "The database is updated monthly."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v13-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v14",
+      "no": 14,
+      "word": "word processor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɜːd prəʊsesə(r)/",
+        "us": "/ˈwɜːrd prɑːsesər/"
+      },
+      "meaningVi": "máy (chương trình) xử lý văn bản",
+      "image": null,
+      "example": {
+        "en": "Which word processor do you have on your computer?"
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v14-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v15",
+      "no": 15,
+      "word": "router",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈruːtə(r)/",
+        "us": "/ˈraʊtər/"
+      },
+      "meaningVi": "bộ định tuyến",
+      "image": null,
+      "example": {
+        "en": "Companies need to buy routers to direct data traffic and connect to the internet."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v15-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v16",
+      "no": 16,
+      "word": "programmer",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈprəʊɡræmə(r)/",
+        "us": "/ˈproʊɡræmər/"
+      },
+      "meaningVi": "lập trình viên (word family: programming (n) — sự lập trình)",
+      "image": null,
+      "example": {
+        "en": "He used to work as a computer programmer for a software company."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v16-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v17",
+      "no": 17,
+      "word": "take advantage of",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/teɪk ədˈvɑːntɪdʒ əv/",
+        "us": "/teɪk ədˈvæntɪdʒ əv/"
+      },
+      "meaningVi": "sử dụng, tận dụng, lợi dụng (bóc lột)",
+      "image": null,
+      "example": {
+        "en": "Let's take advantage of the good weather and go to the beach."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v17-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v18",
+      "no": 18,
+      "word": "cope with",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/kəʊp wɪð/",
+        "us": "/koʊp wɪθ/"
+      },
+      "meaningVi": "đương đầu, đối phó, giải quyết điều khó khăn một cách thành công",
+      "image": null,
+      "example": {
+        "en": "She is unable to cope with her increasing workload."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v18-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v19",
+      "no": 19,
+      "word": "activate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈæktɪveɪt/",
+        "us": "/ˈæktɪveɪt/"
+      },
+      "meaningVi": "kích hoạt (word family: activation (n) — sự kích hoạt)",
+      "image": null,
+      "example": {
+        "en": "The alarm is activated by the lightest pressure."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v19-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v20",
+      "no": 20,
+      "word": "insight",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɪnsaɪt/",
+        "us": "/ˈɪnsaɪt/"
+      },
+      "meaningVi": "sự hiểu biết sâu sắc, nhìn thấu bên trong",
+      "image": null,
+      "example": {
+        "en": "The experienced specialist has professional skills and insight."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v20-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v21",
+      "no": 21,
+      "word": "occur",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈkɜː(r)/",
+        "us": "/əˈkɜːr/"
+      },
+      "meaningVi": "xuất hiện, xảy ra (word family: occurrence (n) — sự kiện, sự cố, sự xảy ra)",
+      "image": null,
+      "example": {
+        "en": "Opportunities for learning occur spontaneously every day."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v21-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v22",
+      "no": 22,
+      "word": "observe",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əbˈzɜːv/",
+        "us": "/əbˈzɜːrv/"
+      },
+      "meaningVi": "quan sát, theo dõi (word family: observation (n) — sự quan sát, theo dõi)",
+      "image": null,
+      "example": {
+        "en": "Each coastal ocean observing system uses a variety of platforms to collect data."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v22-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v23",
+      "no": 23,
+      "word": "refrain",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈfreɪn/",
+        "us": "/rɪˈfreɪn/"
+      },
+      "meaningVi": "kiềm chế, hạn chế làm gì",
+      "image": null,
+      "example": {
+        "en": "Employees are advised to refrain from using mobile phones while on duty, since it causes distraction."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v23-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v24",
+      "no": 24,
+      "word": "investigate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪnˈvestɪɡeɪt/",
+        "us": "/ɪnˈvestɪɡeɪt/"
+      },
+      "meaningVi": "điều tra (word family: investigation (n) — sự điều tra)",
+      "image": null,
+      "example": {
+        "en": "The report calls for a commission to investigate the matter further."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v24-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d19-v25",
+      "no": 25,
+      "word": "crash",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kræʃ/",
+        "us": "/kræʃ/"
+      },
+      "meaningVi": "sự cố, sự hỏng hóc",
+      "image": null,
+      "example": {
+        "en": "Users won't lose important data if a hardware problem causes a crash."
+      },
+      "group": "Topic 05 — Technology and Internet (continued)",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view",
+      "voice": {
+        "us": "/assets/day-19/voice-neural/d19-v25-us.mp3",
+        "uk": "/assets/day-19/voice-neural/d19-v25-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "e3c0598c83e9639419d7f86f314db657ff2a4351686ee8b7fa04a4ede7f62658"
+  }
+}

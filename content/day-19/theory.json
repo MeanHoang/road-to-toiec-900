@@ -1,0 +1,64 @@
+{
+  "collection": "theory",
+  "day": "day-19",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d19-t-homework",
+      "type": "wordGroups",
+      "title": "Day 10 — homework",
+      "groups": {
+        "Online homework": [
+          "Làm bài tập được giao trên web (study.thaylongtoeic.com)."
+        ],
+        "Part 3 conversations": [
+          "Nghe hết đoạn hội thoại rồi chọn đáp án trước, sau đó mới điền vào chỗ trống trong tài liệu in.",
+          "App có Part 3 của Test 1 và Test 2 (mỗi đề 30 câu, câu 41–70) từ thư mục Homework trên Drive. Đáp án do AI suy luận từ bản chép lời audio vì Drive không có file đáp án."
+        ],
+        "Listening test": [
+          "Làm YBM Test 1 Part 1 (6 câu, có ảnh) và Part 2 (25 câu). Đáp án do AI suy luận từ audio và ảnh."
+        ],
+        "Vocabulary": [
+          "Ghi chép (take note) toàn bộ từ vựng học trên lớp và nộp vào phần BTVN.",
+          "Flashcard DAY 10: 25 từ (số 25–49) chủ đề Technology / Internet."
+        ],
+        "Reading practice": [
+          "Luyện thêm Part 7 — Unit 5: 6 bài đọc (tin nhắn, chat trực tuyến), 20 câu hỏi từ tài liệu D10 S2 UNIT5.pdf trong thư mục Drive.",
+          "Phần Reading này là tài liệu luyện thêm trong Drive; danh sách BTVN trên web không giao bài đọc.",
+          "Drive không có file đáp án cho Unit 5. Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện.",
+          "Chữa bài và làm bài tập Part 7 theo yêu cầu của lớp."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d19-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 19 trong app tương ứng DAY 10 giai đoạn 2.",
+        "Audio nghe trên lớp (ETS TEST và 5 file MP3) được đưa vào dạng nghe chép; câu hỏi và chỗ trống nằm trong tài liệu in, không có trên Drive."
+      ],
+      "links": [
+        {
+          "label": "Day 10 flashcards — PDF",
+          "href": "/assets/day-19/flashcard.pdf"
+        },
+        {
+          "label": "Day 10 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1zAIfTui4UM553JrDXlSzEszUzsD6NJcp/view?usp=sharing"
+        },
+        {
+          "label": "Day 10 Part 7 — Unit 5 reading",
+          "href": "/day/day-19/exercises"
+        },
+        {
+          "label": "Day 10 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/19ajhMEhS9i7B7icAHxZ2imQLRxeso7gJ?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "collection": "exercises",
+  "day": "day-19",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d19-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: book cover draft",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d19-read-01",
+          "no": 1,
+          "text": "At 10:10 A.M., what does Ms. Park most likely mean when she writes, “Okay, got it”?",
+          "options": {
+            "A": "She understands what Mr. Hildebrand said.",
+            "B": "She has the package Mr. Hildebrand is looking for.",
+            "C": "She has received an e-mail Mr. Hildebrand sent.",
+            "D": "She has found a file Mr. Hildebrand wants to see."
+          },
+          "answer": "C",
+          "explain": "Lúc 10:05 anh Hildebrand nói “I’ll e-mail it to you”, chị Park trả lời “One second...” rồi 10:10 viết “Okay, got it. Let me take a look.” — tức là chị đã nhận được e-mail anh gửi. D sai vì không phải chị tự tìm file.",
+          "passage": {
+            "text": "Andreas Hildebrand (10:04): Hi Eun Hee, do you have a minute to look at something?\nEun Hee Park (10:04): Sure, what do you need?\nAndreas Hildebrand (10:05): I’ll e-mail it to you. It’s the draft for the cover of Anne Wahlberg’s book.\nEun Hee Park (10:06): One second...\nEun Hee Park (10:10): Okay, got it. Let me take a look.\nAndreas Hildebrand (10:11): Is the title too difficult to read? I wanted it to be eye-catching and different.\nEun Hee Park (10:13): I like the effect. But you could be right. Maybe if you changed the color? Even just a darker shade of blue would help.\nAndreas Hildebrand (10:14): Good idea. I’ll give that a try. Mind if I run it past you again later?\nEun Hee Park (10:15): No problem."
+          },
+          "vi": "Andreas Hildebrand (10:04): Chào Eun Hee, chị có rảnh một phút để xem giúp tôi một thứ không?\nEun Hee Park (10:04): Được chứ, anh cần gì?\nAndreas Hildebrand (10:05): Tôi sẽ gửi e-mail cho chị. Đó là bản nháp bìa sách của Anne Wahlberg.\nEun Hee Park (10:06): Chờ một chút...\nEun Hee Park (10:10): Được rồi, tôi nhận được rồi. Để tôi xem.\nAndreas Hildebrand (10:11): Tiêu đề có khó đọc quá không? Tôi muốn nó bắt mắt và khác biệt.\nEun Hee Park (10:13): Tôi thích hiệu ứng này. Nhưng có thể anh nói đúng. Hay là anh đổi màu thử? Chỉ cần một tông xanh dương đậm hơn cũng sẽ đỡ hơn.\nAndreas Hildebrand (10:14): Ý hay đấy. Tôi sẽ thử. Lát nữa tôi gửi chị xem lại được không?\nEun Hee Park (10:15): Không vấn đề gì.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-02",
+          "no": 2,
+          "text": "What will Mr. Hildebrand most likely do next?",
+          "options": {
+            "A": "Change a deadline",
+            "B": "Revise a design",
+            "C": "Give a presentation",
+            "D": "Meet with Ms. Wahlberg"
+          },
+          "answer": "B",
+          "explain": "Chị Park gợi ý đổi màu tiêu đề sang “a darker shade of blue”; anh trả lời “I’ll give that a try” — anh sẽ chỉnh sửa bản thiết kế bìa.",
+          "passage": {
+            "text": "Andreas Hildebrand (10:04): Hi Eun Hee, do you have a minute to look at something?\nEun Hee Park (10:04): Sure, what do you need?\nAndreas Hildebrand (10:05): I’ll e-mail it to you. It’s the draft for the cover of Anne Wahlberg’s book.\nEun Hee Park (10:06): One second...\nEun Hee Park (10:10): Okay, got it. Let me take a look.\nAndreas Hildebrand (10:11): Is the title too difficult to read? I wanted it to be eye-catching and different.\nEun Hee Park (10:13): I like the effect. But you could be right. Maybe if you changed the color? Even just a darker shade of blue would help.\nAndreas Hildebrand (10:14): Good idea. I’ll give that a try. Mind if I run it past you again later?\nEun Hee Park (10:15): No problem."
+          },
+          "vi": "Andreas Hildebrand (10:04): Chào Eun Hee, chị có rảnh một phút để xem giúp tôi một thứ không?\nEun Hee Park (10:04): Được chứ, anh cần gì?\nAndreas Hildebrand (10:05): Tôi sẽ gửi e-mail cho chị. Đó là bản nháp bìa sách của Anne Wahlberg.\nEun Hee Park (10:06): Chờ một chút...\nEun Hee Park (10:10): Được rồi, tôi nhận được rồi. Để tôi xem.\nAndreas Hildebrand (10:11): Tiêu đề có khó đọc quá không? Tôi muốn nó bắt mắt và khác biệt.\nEun Hee Park (10:13): Tôi thích hiệu ứng này. Nhưng có thể anh nói đúng. Hay là anh đổi màu thử? Chỉ cần một tông xanh dương đậm hơn cũng sẽ đỡ hơn.\nAndreas Hildebrand (10:14): Ý hay đấy. Tôi sẽ thử. Lát nữa tôi gửi chị xem lại được không?\nEun Hee Park (10:15): Không vấn đề gì.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d19-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: lost sunglasses",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d19-read-03",
+          "no": 3,
+          "text": "What problem does Ms. Müller mention?",
+          "options": {
+            "A": "A hiking trail is closed.",
+            "B": "A visitor misplaced an item.",
+            "C": "A bus has broken down.",
+            "D": "A tour has been canceled."
+          },
+          "answer": "B",
+          "explain": "“A tourist ... said she accidentally left her sunglasses on your bus” — một du khách để quên đồ (kính râm), tức là làm thất lạc một món đồ.",
+          "passage": {
+            "text": "Marina Müller (15:06): A tourist from your morning tour group said she accidentally left her sunglasses on your bus. She said she was sitting toward the back on the left side. Can you check to see if they are still there?\nVincent Dumont (15:07): No problem. We’re in the middle of a hike right now, but I’ll check as soon as I get back to the bus.\nMarina Müller (15:07): Thanks. I’ll let her know.\nVincent Dumont (15:43): I’m back. Do they have red frames with square lenses?\nMarina Müller (15:45): Yes. That’s the pair. If it’s possible, she would like to collect them at our office tonight. Your tour ends at five, but we close at six. Can you make it back within an hour? I know you’re a bit far away and there might be a lot of traffic.\nVincent Dumont (15:46): It’s usually not that bad. If I’m running late, I’ll let you know."
+          },
+          "vi": "Marina Müller (15:06): Một du khách trong đoàn tham quan buổi sáng của anh nói cô ấy để quên kính râm trên xe buýt của anh. Cô ấy nói cô ngồi gần phía cuối, bên trái. Anh kiểm tra xem kính còn đó không nhé?\nVincent Dumont (15:07): Không vấn đề gì. Bây giờ chúng tôi đang đi bộ đường dài giữa chừng, nhưng tôi sẽ kiểm tra ngay khi quay lại xe.\nMarina Müller (15:07): Cảm ơn anh. Tôi sẽ báo cho cô ấy.\nVincent Dumont (15:43): Tôi về rồi. Có phải kính gọng đỏ, tròng vuông không?\nMarina Müller (15:45): Đúng. Chính là cặp đó. Nếu được, cô ấy muốn đến văn phòng chúng ta lấy kính tối nay. Tour của anh kết thúc lúc năm giờ, nhưng chúng ta đóng cửa lúc sáu giờ. Anh có về kịp trong vòng một tiếng không? Tôi biết anh ở hơi xa và có thể sẽ kẹt xe nhiều.\nVincent Dumont (15:46): Thường thì không tệ đến thế đâu. Nếu tôi bị trễ, tôi sẽ báo chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-04",
+          "no": 4,
+          "text": "At 15:46, what does Mr. Dument imply when he writes, “It’s usually not that bad”?",
+          "options": {
+            "A": "People can finish the hike in one hour.",
+            "B": "The traffic is the worst on Friday.",
+            "C": "He thinks most people enjoy the tour.",
+            "D": "He can return to the office by six o’clock."
+          },
+          "answer": "D",
+          "explain": "Chị Müller hỏi anh có về kịp trong một tiếng (trước sáu giờ) không vì có thể kẹt xe. “It’s usually not that bad” = giao thông thường không tệ đến vậy → anh có thể về văn phòng trước sáu giờ.",
+          "passage": {
+            "text": "Marina Müller (15:06): A tourist from your morning tour group said she accidentally left her sunglasses on your bus. She said she was sitting toward the back on the left side. Can you check to see if they are still there?\nVincent Dumont (15:07): No problem. We’re in the middle of a hike right now, but I’ll check as soon as I get back to the bus.\nMarina Müller (15:07): Thanks. I’ll let her know.\nVincent Dumont (15:43): I’m back. Do they have red frames with square lenses?\nMarina Müller (15:45): Yes. That’s the pair. If it’s possible, she would like to collect them at our office tonight. Your tour ends at five, but we close at six. Can you make it back within an hour? I know you’re a bit far away and there might be a lot of traffic.\nVincent Dumont (15:46): It’s usually not that bad. If I’m running late, I’ll let you know."
+          },
+          "vi": "Marina Müller (15:06): Một du khách trong đoàn tham quan buổi sáng của anh nói cô ấy để quên kính râm trên xe buýt của anh. Cô ấy nói cô ngồi gần phía cuối, bên trái. Anh kiểm tra xem kính còn đó không nhé?\nVincent Dumont (15:07): Không vấn đề gì. Bây giờ chúng tôi đang đi bộ đường dài giữa chừng, nhưng tôi sẽ kiểm tra ngay khi quay lại xe.\nMarina Müller (15:07): Cảm ơn anh. Tôi sẽ báo cho cô ấy.\nVincent Dumont (15:43): Tôi về rồi. Có phải kính gọng đỏ, tròng vuông không?\nMarina Müller (15:45): Đúng. Chính là cặp đó. Nếu được, cô ấy muốn đến văn phòng chúng ta lấy kính tối nay. Tour của anh kết thúc lúc năm giờ, nhưng chúng ta đóng cửa lúc sáu giờ. Anh có về kịp trong vòng một tiếng không? Tôi biết anh ở hơi xa và có thể sẽ kẹt xe nhiều.\nVincent Dumont (15:46): Thường thì không tệ đến thế đâu. Nếu tôi bị trễ, tôi sẽ báo chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d19-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: perfume conference",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d19-read-05",
+          "no": 5,
+          "text": "What is indicated about the group’s lunch?",
+          "options": {
+            "A": "It will be served in 14E.",
+            "B": "It will be provided at half price.",
+            "C": "It will occur after a competitor’s presentation.",
+            "D": "It will give them additional time for preparation."
+          },
+          "answer": "D",
+          "explain": "Alina viết cơm hộp sẽ được gửi đến bàn trưng bày và “Let’s plan on getting ready for the afternoon session while we eat” — bữa trưa cũng là thời gian để chuẩn bị thêm. A sai vì cơm gửi đến bàn ở 12A, không phải 14E.",
+          "passage": {
+            "text": "10:03 ALINA: Hi. I just arrived... about to get my conference badge, so I should get to our table soon.\n10:04 KONRAD: Glad you got in okay. Do you have the perfume samples?\n10:06 ALINA: No, they were too heavy to bring on the plane, so I sent them by express mail. They’re expected here by 11 A.M.\n10:07 CHARLIE: Okay. Our table is in Area 12A of the conference center.\n10:08 ALINA: Got it.\n10:09 KONRAD: After we get our table set up, let’s check out DTY’s presentation in 14E. It’s close by, so the time would work out.\n10:13 ALINA: Okay, I have my badge, so I’m on my way. The people in reception will send boxed lunches to our display table. Let’s plan on getting ready for the afternoon session while we eat.\n10:15 CHARLIE: Okay, when you get here we can check out DTY. I want to see their new spring lineup.\n10:17 ALINA: Yes, I’ll bet it’s no threat to us. I’m interested in seeing the materials Na-Young and her group have developed to promote their new product line."
+          },
+          "vi": "10:03 ALINA: Chào mọi người. Tôi vừa tới... sắp lấy thẻ hội nghị, nên tôi sẽ sớm đến bàn của chúng ta.\n10:04 KONRAD: Mừng là chị đến nơi suôn sẻ. Chị có mang mẫu nước hoa không?\n10:06 ALINA: Không, chúng nặng quá nên không mang lên máy bay được, vì vậy tôi đã gửi chuyển phát nhanh. Dự kiến chúng đến đây trước 11 giờ sáng.\n10:07 CHARLIE: Được. Bàn của chúng ta ở Khu 12A của trung tâm hội nghị.\n10:08 ALINA: Rõ rồi.\n10:09 KONRAD: Sau khi bày bàn xong, mình đi xem buổi thuyết trình của DTY ở phòng 14E nhé. Chỗ đó gần, nên thời gian sẽ kịp.\n10:13 ALINA: Được, tôi lấy thẻ rồi, đang trên đường đến. Bộ phận lễ tân sẽ gửi cơm hộp đến bàn trưng bày của chúng ta. Mình vừa ăn vừa chuẩn bị cho phiên buổi chiều nhé.\n10:15 CHARLIE: Được, khi chị đến thì mình đi xem DTY. Tôi muốn xem dòng sản phẩm mùa xuân mới của họ.\n10:17 ALINA: Ừ, tôi cá là nó chẳng đe dọa gì chúng ta đâu. Tôi muốn xem các tài liệu mà Na-Young và nhóm của cô ấy đã làm để quảng bá dòng sản phẩm mới của họ.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-06",
+          "no": 6,
+          "text": "At 10:08, what does Alina mean when she writes, “Got it”?",
+          "options": {
+            "A": "She understands the directions.",
+            "B": "She has the lunch.",
+            "C": "She will give the presentation.",
+            "D": "She is paying for lunch."
+          },
+          "answer": "A",
+          "explain": "Ngay trước đó Charlie chỉ chỗ: “Our table is in Area 12A of the conference center.” “Got it” = chị đã nắm được chỉ dẫn vị trí.",
+          "passage": {
+            "text": "10:03 ALINA: Hi. I just arrived... about to get my conference badge, so I should get to our table soon.\n10:04 KONRAD: Glad you got in okay. Do you have the perfume samples?\n10:06 ALINA: No, they were too heavy to bring on the plane, so I sent them by express mail. They’re expected here by 11 A.M.\n10:07 CHARLIE: Okay. Our table is in Area 12A of the conference center.\n10:08 ALINA: Got it.\n10:09 KONRAD: After we get our table set up, let’s check out DTY’s presentation in 14E. It’s close by, so the time would work out.\n10:13 ALINA: Okay, I have my badge, so I’m on my way. The people in reception will send boxed lunches to our display table. Let’s plan on getting ready for the afternoon session while we eat.\n10:15 CHARLIE: Okay, when you get here we can check out DTY. I want to see their new spring lineup.\n10:17 ALINA: Yes, I’ll bet it’s no threat to us. I’m interested in seeing the materials Na-Young and her group have developed to promote their new product line."
+          },
+          "vi": "10:03 ALINA: Chào mọi người. Tôi vừa tới... sắp lấy thẻ hội nghị, nên tôi sẽ sớm đến bàn của chúng ta.\n10:04 KONRAD: Mừng là chị đến nơi suôn sẻ. Chị có mang mẫu nước hoa không?\n10:06 ALINA: Không, chúng nặng quá nên không mang lên máy bay được, vì vậy tôi đã gửi chuyển phát nhanh. Dự kiến chúng đến đây trước 11 giờ sáng.\n10:07 CHARLIE: Được. Bàn của chúng ta ở Khu 12A của trung tâm hội nghị.\n10:08 ALINA: Rõ rồi.\n10:09 KONRAD: Sau khi bày bàn xong, mình đi xem buổi thuyết trình của DTY ở phòng 14E nhé. Chỗ đó gần, nên thời gian sẽ kịp.\n10:13 ALINA: Được, tôi lấy thẻ rồi, đang trên đường đến. Bộ phận lễ tân sẽ gửi cơm hộp đến bàn trưng bày của chúng ta. Mình vừa ăn vừa chuẩn bị cho phiên buổi chiều nhé.\n10:15 CHARLIE: Được, khi chị đến thì mình đi xem DTY. Tôi muốn xem dòng sản phẩm mùa xuân mới của họ.\n10:17 ALINA: Ừ, tôi cá là nó chẳng đe dọa gì chúng ta đâu. Tôi muốn xem các tài liệu mà Na-Young và nhóm của cô ấy đã làm để quảng bá dòng sản phẩm mới của họ.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-07",
+          "no": 7,
+          "text": "What is suggested about Na-Young?",
+          "options": {
+            "A": "She works in a personnel department.",
+            "B": "She arranged travel for her coworkers.",
+            "C": "She is a product designer.",
+            "D": "She works for DTY."
+          },
+          "answer": "D",
+          "explain": "Cả nhóm bàn về dòng sản phẩm mùa xuân mới của DTY (“no threat to us” → đối thủ). Alina muốn xem tài liệu “Na-Young and her group have developed to promote their new product line” — “their” là DTY, nên Na-Young làm cho DTY.",
+          "passage": {
+            "text": "10:03 ALINA: Hi. I just arrived... about to get my conference badge, so I should get to our table soon.\n10:04 KONRAD: Glad you got in okay. Do you have the perfume samples?\n10:06 ALINA: No, they were too heavy to bring on the plane, so I sent them by express mail. They’re expected here by 11 A.M.\n10:07 CHARLIE: Okay. Our table is in Area 12A of the conference center.\n10:08 ALINA: Got it.\n10:09 KONRAD: After we get our table set up, let’s check out DTY’s presentation in 14E. It’s close by, so the time would work out.\n10:13 ALINA: Okay, I have my badge, so I’m on my way. The people in reception will send boxed lunches to our display table. Let’s plan on getting ready for the afternoon session while we eat.\n10:15 CHARLIE: Okay, when you get here we can check out DTY. I want to see their new spring lineup.\n10:17 ALINA: Yes, I’ll bet it’s no threat to us. I’m interested in seeing the materials Na-Young and her group have developed to promote their new product line."
+          },
+          "vi": "10:03 ALINA: Chào mọi người. Tôi vừa tới... sắp lấy thẻ hội nghị, nên tôi sẽ sớm đến bàn của chúng ta.\n10:04 KONRAD: Mừng là chị đến nơi suôn sẻ. Chị có mang mẫu nước hoa không?\n10:06 ALINA: Không, chúng nặng quá nên không mang lên máy bay được, vì vậy tôi đã gửi chuyển phát nhanh. Dự kiến chúng đến đây trước 11 giờ sáng.\n10:07 CHARLIE: Được. Bàn của chúng ta ở Khu 12A của trung tâm hội nghị.\n10:08 ALINA: Rõ rồi.\n10:09 KONRAD: Sau khi bày bàn xong, mình đi xem buổi thuyết trình của DTY ở phòng 14E nhé. Chỗ đó gần, nên thời gian sẽ kịp.\n10:13 ALINA: Được, tôi lấy thẻ rồi, đang trên đường đến. Bộ phận lễ tân sẽ gửi cơm hộp đến bàn trưng bày của chúng ta. Mình vừa ăn vừa chuẩn bị cho phiên buổi chiều nhé.\n10:15 CHARLIE: Được, khi chị đến thì mình đi xem DTY. Tôi muốn xem dòng sản phẩm mùa xuân mới của họ.\n10:17 ALINA: Ừ, tôi cá là nó chẳng đe dọa gì chúng ta đâu. Tôi muốn xem các tài liệu mà Na-Young và nhóm của cô ấy đã làm để quảng bá dòng sản phẩm mới của họ.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-08",
+          "no": 8,
+          "text": "What will Alina most likely do next?",
+          "options": {
+            "A": "Pick up a conference badge",
+            "B": "Arrive at Area 12A",
+            "C": "Deliver product samples",
+            "D": "Look over a menu"
+          },
+          "answer": "B",
+          "explain": "Lúc 10:13 Alina đã có thẻ (“I have my badge, so I’m on my way”) và Charlie nói “when you get here” — việc tiếp theo là đến bàn ở Khu 12A. A đã làm xong; mẫu nước hoa gửi chuyển phát nên C sai.",
+          "passage": {
+            "text": "10:03 ALINA: Hi. I just arrived... about to get my conference badge, so I should get to our table soon.\n10:04 KONRAD: Glad you got in okay. Do you have the perfume samples?\n10:06 ALINA: No, they were too heavy to bring on the plane, so I sent them by express mail. They’re expected here by 11 A.M.\n10:07 CHARLIE: Okay. Our table is in Area 12A of the conference center.\n10:08 ALINA: Got it.\n10:09 KONRAD: After we get our table set up, let’s check out DTY’s presentation in 14E. It’s close by, so the time would work out.\n10:13 ALINA: Okay, I have my badge, so I’m on my way. The people in reception will send boxed lunches to our display table. Let’s plan on getting ready for the afternoon session while we eat.\n10:15 CHARLIE: Okay, when you get here we can check out DTY. I want to see their new spring lineup.\n10:17 ALINA: Yes, I’ll bet it’s no threat to us. I’m interested in seeing the materials Na-Young and her group have developed to promote their new product line."
+          },
+          "vi": "10:03 ALINA: Chào mọi người. Tôi vừa tới... sắp lấy thẻ hội nghị, nên tôi sẽ sớm đến bàn của chúng ta.\n10:04 KONRAD: Mừng là chị đến nơi suôn sẻ. Chị có mang mẫu nước hoa không?\n10:06 ALINA: Không, chúng nặng quá nên không mang lên máy bay được, vì vậy tôi đã gửi chuyển phát nhanh. Dự kiến chúng đến đây trước 11 giờ sáng.\n10:07 CHARLIE: Được. Bàn của chúng ta ở Khu 12A của trung tâm hội nghị.\n10:08 ALINA: Rõ rồi.\n10:09 KONRAD: Sau khi bày bàn xong, mình đi xem buổi thuyết trình của DTY ở phòng 14E nhé. Chỗ đó gần, nên thời gian sẽ kịp.\n10:13 ALINA: Được, tôi lấy thẻ rồi, đang trên đường đến. Bộ phận lễ tân sẽ gửi cơm hộp đến bàn trưng bày của chúng ta. Mình vừa ăn vừa chuẩn bị cho phiên buổi chiều nhé.\n10:15 CHARLIE: Được, khi chị đến thì mình đi xem DTY. Tôi muốn xem dòng sản phẩm mùa xuân mới của họ.\n10:17 ALINA: Ừ, tôi cá là nó chẳng đe dọa gì chúng ta đâu. Tôi muốn xem các tài liệu mà Na-Young và nhóm của cô ấy đã làm để quảng bá dòng sản phẩm mới của họ.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d19-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: rush order for Mr. Tran",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "questions": [
+        {
+          "id": "d19-read-09",
+          "no": 9,
+          "text": "At 9:38 A.M., what does Ms. Lo mean when she writes, “I’d like your input”?",
+          "options": {
+            "A": "She needs some numerical data.",
+            "B": "She needs some financial contributions.",
+            "C": "She wants to develop some projects.",
+            "D": "She wants to gather some opinions."
+          },
+          "answer": "D",
+          "explain": "“Input” ở đây là ý kiến đóng góp. Chị hỏi ngay sau đó “Can we do that?” — chị muốn thu thập ý kiến của các bộ phận về việc giao hàng sớm.",
+          "passage": {
+            "text": "Sarah Lo [9:38 A.M.]: Hi all. I’d like your input. Jovita Wilson in sales just told me that her client, Mr. Tran, wants us to deliver his order a week early. Can we do that?\nAlex Ralston [9:40 A.M.]: If we rush, we can assemble the hardwood frames in two days.\nRiko Kimura [9:41 A.M.]: And my department needs just a day to print and cut the fabric to cover the cushion seating.\nMia Ochoa [9:42 A.M.]: But initially you need the designs, right? My team can finish that by end of day today.\nSarah Lo [9:43 A.M.]: OK. Then we’ll be ready for the finishing steps by end of day on Wednesday. Alex, once you have the fabric, how long will it take to build the cushions, stuff them, and attach them to the frames?\nAlex Ralston [9:45 A.M.]: That will take two days—if my group can set aside regular work to do that.\nSarah Lo [9:46 A.M.]: I can authorize that. Bill, how long will it take your department to package the order and ship it?\nBill Belmore [9:48 A.M.]: We can complete that on Monday morning.\nSarah Lo [9:49 A.M.]: Great. Thanks all. I’ll let Jovita know so she can inform the client."
+          },
+          "vi": "Sarah Lo [9:38 sáng]: Chào mọi người. Tôi muốn nghe ý kiến của các bạn. Jovita Wilson bên kinh doanh vừa báo rằng khách hàng của cô ấy, ông Tran, muốn chúng ta giao đơn hàng của ông sớm một tuần. Chúng ta làm được không?\nAlex Ralston [9:40 sáng]: Nếu làm gấp, chúng tôi có thể lắp khung gỗ cứng trong hai ngày.\nRiko Kimura [9:41 sáng]: Còn bộ phận của tôi chỉ cần một ngày để in và cắt vải bọc phần đệm ghế.\nMia Ochoa [9:42 sáng]: Nhưng trước hết các bạn cần bản thiết kế, đúng không? Nhóm tôi có thể hoàn thành việc đó trước cuối ngày hôm nay.\nSarah Lo [9:43 sáng]: Được. Vậy chúng ta sẽ sẵn sàng cho các bước hoàn thiện vào cuối ngày thứ Tư. Alex, khi có vải rồi, anh cần bao lâu để may đệm, nhồi đệm và gắn vào khung?\nAlex Ralston [9:45 sáng]: Mất hai ngày — nếu nhóm tôi được tạm gác công việc thường ngày để làm.\nSarah Lo [9:46 sáng]: Tôi có thể phê duyệt việc đó. Bill, bộ phận của anh cần bao lâu để đóng gói và gửi hàng?\nBill Belmore [9:48 sáng]: Chúng tôi có thể xong vào sáng thứ Hai.\nSarah Lo [9:49 sáng]: Tuyệt. Cảm ơn mọi người. Tôi sẽ báo Jovita để cô ấy thông báo cho khách hàng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-10",
+          "no": 10,
+          "text": "For what type of company does Ms. Lo most likely work?",
+          "options": {
+            "A": "A package delivery business",
+            "B": "A furniture manufacturer",
+            "C": "An art supply store",
+            "D": "A construction firm"
+          },
+          "answer": "B",
+          "explain": "Công ty lắp “hardwood frames”, in và cắt vải bọc “cushion seating”, nhồi đệm rồi gắn vào khung — đây là nhà sản xuất đồ nội thất (ghế bọc nệm).",
+          "passage": {
+            "text": "Sarah Lo [9:38 A.M.]: Hi all. I’d like your input. Jovita Wilson in sales just told me that her client, Mr. Tran, wants us to deliver his order a week early. Can we do that?\nAlex Ralston [9:40 A.M.]: If we rush, we can assemble the hardwood frames in two days.\nRiko Kimura [9:41 A.M.]: And my department needs just a day to print and cut the fabric to cover the cushion seating.\nMia Ochoa [9:42 A.M.]: But initially you need the designs, right? My team can finish that by end of day today.\nSarah Lo [9:43 A.M.]: OK. Then we’ll be ready for the finishing steps by end of day on Wednesday. Alex, once you have the fabric, how long will it take to build the cushions, stuff them, and attach them to the frames?\nAlex Ralston [9:45 A.M.]: That will take two days—if my group can set aside regular work to do that.\nSarah Lo [9:46 A.M.]: I can authorize that. Bill, how long will it take your department to package the order and ship it?\nBill Belmore [9:48 A.M.]: We can complete that on Monday morning.\nSarah Lo [9:49 A.M.]: Great. Thanks all. I’ll let Jovita know so she can inform the client."
+          },
+          "vi": "Sarah Lo [9:38 sáng]: Chào mọi người. Tôi muốn nghe ý kiến của các bạn. Jovita Wilson bên kinh doanh vừa báo rằng khách hàng của cô ấy, ông Tran, muốn chúng ta giao đơn hàng của ông sớm một tuần. Chúng ta làm được không?\nAlex Ralston [9:40 sáng]: Nếu làm gấp, chúng tôi có thể lắp khung gỗ cứng trong hai ngày.\nRiko Kimura [9:41 sáng]: Còn bộ phận của tôi chỉ cần một ngày để in và cắt vải bọc phần đệm ghế.\nMia Ochoa [9:42 sáng]: Nhưng trước hết các bạn cần bản thiết kế, đúng không? Nhóm tôi có thể hoàn thành việc đó trước cuối ngày hôm nay.\nSarah Lo [9:43 sáng]: Được. Vậy chúng ta sẽ sẵn sàng cho các bước hoàn thiện vào cuối ngày thứ Tư. Alex, khi có vải rồi, anh cần bao lâu để may đệm, nhồi đệm và gắn vào khung?\nAlex Ralston [9:45 sáng]: Mất hai ngày — nếu nhóm tôi được tạm gác công việc thường ngày để làm.\nSarah Lo [9:46 sáng]: Tôi có thể phê duyệt việc đó. Bill, bộ phận của anh cần bao lâu để đóng gói và gửi hàng?\nBill Belmore [9:48 sáng]: Chúng tôi có thể xong vào sáng thứ Hai.\nSarah Lo [9:49 sáng]: Tuyệt. Cảm ơn mọi người. Tôi sẽ báo Jovita để cô ấy thông báo cho khách hàng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-11",
+          "no": 11,
+          "text": "According to the discussion, whose department must complete their work first?",
+          "options": {
+            "A": "Mr. Belmore’s department",
+            "B": "Ms. Kimura’s department",
+            "C": "Ms. Ochoa’s department",
+            "D": "Mr. Ralston’s department"
+          },
+          "answer": "C",
+          "explain": "Mia Ochoa viết “But initially you need the designs, right?” — bản thiết kế phải có trước tiên, và nhóm của chị sẽ làm xong trong hôm nay.",
+          "passage": {
+            "text": "Sarah Lo [9:38 A.M.]: Hi all. I’d like your input. Jovita Wilson in sales just told me that her client, Mr. Tran, wants us to deliver his order a week early. Can we do that?\nAlex Ralston [9:40 A.M.]: If we rush, we can assemble the hardwood frames in two days.\nRiko Kimura [9:41 A.M.]: And my department needs just a day to print and cut the fabric to cover the cushion seating.\nMia Ochoa [9:42 A.M.]: But initially you need the designs, right? My team can finish that by end of day today.\nSarah Lo [9:43 A.M.]: OK. Then we’ll be ready for the finishing steps by end of day on Wednesday. Alex, once you have the fabric, how long will it take to build the cushions, stuff them, and attach them to the frames?\nAlex Ralston [9:45 A.M.]: That will take two days—if my group can set aside regular work to do that.\nSarah Lo [9:46 A.M.]: I can authorize that. Bill, how long will it take your department to package the order and ship it?\nBill Belmore [9:48 A.M.]: We can complete that on Monday morning.\nSarah Lo [9:49 A.M.]: Great. Thanks all. I’ll let Jovita know so she can inform the client."
+          },
+          "vi": "Sarah Lo [9:38 sáng]: Chào mọi người. Tôi muốn nghe ý kiến của các bạn. Jovita Wilson bên kinh doanh vừa báo rằng khách hàng của cô ấy, ông Tran, muốn chúng ta giao đơn hàng của ông sớm một tuần. Chúng ta làm được không?\nAlex Ralston [9:40 sáng]: Nếu làm gấp, chúng tôi có thể lắp khung gỗ cứng trong hai ngày.\nRiko Kimura [9:41 sáng]: Còn bộ phận của tôi chỉ cần một ngày để in và cắt vải bọc phần đệm ghế.\nMia Ochoa [9:42 sáng]: Nhưng trước hết các bạn cần bản thiết kế, đúng không? Nhóm tôi có thể hoàn thành việc đó trước cuối ngày hôm nay.\nSarah Lo [9:43 sáng]: Được. Vậy chúng ta sẽ sẵn sàng cho các bước hoàn thiện vào cuối ngày thứ Tư. Alex, khi có vải rồi, anh cần bao lâu để may đệm, nhồi đệm và gắn vào khung?\nAlex Ralston [9:45 sáng]: Mất hai ngày — nếu nhóm tôi được tạm gác công việc thường ngày để làm.\nSarah Lo [9:46 sáng]: Tôi có thể phê duyệt việc đó. Bill, bộ phận của anh cần bao lâu để đóng gói và gửi hàng?\nBill Belmore [9:48 sáng]: Chúng tôi có thể xong vào sáng thứ Hai.\nSarah Lo [9:49 sáng]: Tuyệt. Cảm ơn mọi người. Tôi sẽ báo Jovita để cô ấy thông báo cho khách hàng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-12",
+          "no": 12,
+          "text": "What will Ms. Wilson most likely tell Mr. Tran?",
+          "options": {
+            "A": "That she can meet his request for rush work",
+            "B": "That there will be an extra charge for completing his order",
+            "C": "That his order will be ready for delivery on Friday",
+            "D": "That she will meet him at her office next Monday"
+          },
+          "answer": "A",
+          "explain": "Các bộ phận xác nhận làm kịp và Sarah Lo phê duyệt (“I can authorize that”), rồi nói sẽ báo Jovita “so she can inform the client” — Jovita sẽ báo ông Tran rằng yêu cầu giao gấp được đáp ứng. C sai vì hàng được đóng gói và gửi vào sáng thứ Hai; không nhắc phụ phí (B).",
+          "passage": {
+            "text": "Sarah Lo [9:38 A.M.]: Hi all. I’d like your input. Jovita Wilson in sales just told me that her client, Mr. Tran, wants us to deliver his order a week early. Can we do that?\nAlex Ralston [9:40 A.M.]: If we rush, we can assemble the hardwood frames in two days.\nRiko Kimura [9:41 A.M.]: And my department needs just a day to print and cut the fabric to cover the cushion seating.\nMia Ochoa [9:42 A.M.]: But initially you need the designs, right? My team can finish that by end of day today.\nSarah Lo [9:43 A.M.]: OK. Then we’ll be ready for the finishing steps by end of day on Wednesday. Alex, once you have the fabric, how long will it take to build the cushions, stuff them, and attach them to the frames?\nAlex Ralston [9:45 A.M.]: That will take two days—if my group can set aside regular work to do that.\nSarah Lo [9:46 A.M.]: I can authorize that. Bill, how long will it take your department to package the order and ship it?\nBill Belmore [9:48 A.M.]: We can complete that on Monday morning.\nSarah Lo [9:49 A.M.]: Great. Thanks all. I’ll let Jovita know so she can inform the client."
+          },
+          "vi": "Sarah Lo [9:38 sáng]: Chào mọi người. Tôi muốn nghe ý kiến của các bạn. Jovita Wilson bên kinh doanh vừa báo rằng khách hàng của cô ấy, ông Tran, muốn chúng ta giao đơn hàng của ông sớm một tuần. Chúng ta làm được không?\nAlex Ralston [9:40 sáng]: Nếu làm gấp, chúng tôi có thể lắp khung gỗ cứng trong hai ngày.\nRiko Kimura [9:41 sáng]: Còn bộ phận của tôi chỉ cần một ngày để in và cắt vải bọc phần đệm ghế.\nMia Ochoa [9:42 sáng]: Nhưng trước hết các bạn cần bản thiết kế, đúng không? Nhóm tôi có thể hoàn thành việc đó trước cuối ngày hôm nay.\nSarah Lo [9:43 sáng]: Được. Vậy chúng ta sẽ sẵn sàng cho các bước hoàn thiện vào cuối ngày thứ Tư. Alex, khi có vải rồi, anh cần bao lâu để may đệm, nhồi đệm và gắn vào khung?\nAlex Ralston [9:45 sáng]: Mất hai ngày — nếu nhóm tôi được tạm gác công việc thường ngày để làm.\nSarah Lo [9:46 sáng]: Tôi có thể phê duyệt việc đó. Bill, bộ phận của anh cần bao lâu để đóng gói và gửi hàng?\nBill Belmore [9:48 sáng]: Chúng tôi có thể xong vào sáng thứ Hai.\nSarah Lo [9:49 sáng]: Tuyệt. Cảm ơn mọi người. Tôi sẽ báo Jovita để cô ấy thông báo cho khách hàng.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d19-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: White Hat Supplies chat",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d19-read-13",
+          "no": 13,
+          "text": "Why did Ms. Brown contact Customer Service?",
+          "options": {
+            "A": "To order more ink",
+            "B": "To return an item",
+            "C": "To inquire about a shipping date",
+            "D": "To report a problem with an order"
+          },
+          "answer": "D",
+          "explain": "Chị Brown nói đơn hàng lẽ ra đến trước 12/5 “but the package has not arrived” — chị liên hệ để báo vấn đề với đơn hàng (chưa nhận được hàng).",
+          "passage": {
+            "text": "White Hat Supplies\nCustomer Service Live Chat\n\nAgent Mark Smalls (4:25 P.M.): Hello, Ms. Brown. Thank you for contacting Customer Service. How may I help you?\nKim Brown (4:26 P.M.): I ordered three packages of ink on May 4. I received a confirmation e-mail stating that the order was shipped on May 8 and would arrive by May 12, but the package has not arrived.\nAgent Mark Smalls (4:28 P.M.): Sorry to hear that. Give me a moment while I check. Do you have your order number?\nKim Brown (4:32 P.M.): Sure. It’s order JX43125.\nAgent Mark Smalls (4:35 P.M.): OK. One moment.\nAgent Mark Smalls (4:38 P.M.): Ms. Brown, our tracking system indicates that the package arrived on May 10. Can you confirm your shipping address is 15 Walters Court, Boca Raton, FL 33431?\nKim Brown (4:41 P.M.): Yes, that’s correct.\nAgent Mark Smalls (4:42 P.M.): Is it possible that a neighbor picked it up?\nKim Brown (4:43 P.M.): I really don’t think so. I know my neighbors, and it’s been over a week now.\nAgent Mark Smalls (4:45 P.M.): I see. Well, I’m very sorry your package seems to have been lost. Would you like us to send you a replacement? The order should arrive by May 27.\nKim Brown (4:46 P.M.): I need the ink right away. Would you be able to expedite shipping and handling?\nAgent Mark Smalls (4:50 P.M.): With express delivery, your order would arrive on May 24. Since your original order was standard delivery, express delivery would be an additional $15.\nKim Brown (4:51 P.M.): In that case, please just refund my order.\nAgent Mark Smalls (4:52 P.M.): Certainly. I will refund the original purchase price and delivery charge to your credit card."
+          },
+          "vi": "White Hat Supplies\nTrò chuyện trực tuyến với bộ phận Chăm sóc khách hàng\n\nNhân viên Mark Smalls (4:25 chiều): Xin chào chị Brown. Cảm ơn chị đã liên hệ bộ phận Chăm sóc khách hàng. Tôi có thể giúp gì cho chị?\nKim Brown (4:26 chiều): Tôi đặt ba gói mực in vào ngày 4/5. Tôi nhận được e-mail xác nhận rằng đơn hàng đã được gửi đi ngày 8/5 và sẽ đến trước ngày 12/5, nhưng gói hàng vẫn chưa tới.\nNhân viên Mark Smalls (4:28 chiều): Rất tiếc khi nghe vậy. Chị chờ tôi một chút để kiểm tra. Chị có mã đơn hàng không?\nKim Brown (4:32 chiều): Có. Đơn hàng JX43125.\nNhân viên Mark Smalls (4:35 chiều): Vâng. Chờ tôi một chút.\nNhân viên Mark Smalls (4:38 chiều): Chị Brown, hệ thống theo dõi của chúng tôi cho thấy gói hàng đã đến vào ngày 10/5. Chị xác nhận giúp địa chỉ giao hàng là 15 Walters Court, Boca Raton, FL 33431 được không?\nKim Brown (4:41 chiều): Vâng, đúng rồi.\nNhân viên Mark Smalls (4:42 chiều): Có khả năng hàng xóm đã nhận giúp không?\nKim Brown (4:43 chiều): Tôi thật sự không nghĩ vậy. Tôi quen hàng xóm của mình, và giờ đã hơn một tuần rồi.\nNhân viên Mark Smalls (4:45 chiều): Tôi hiểu. Rất xin lỗi chị vì có vẻ gói hàng đã bị thất lạc. Chị có muốn chúng tôi gửi hàng thay thế không? Đơn hàng sẽ đến trước ngày 27/5.\nKim Brown (4:46 chiều): Tôi cần mực ngay. Bên anh có thể giao hàng nhanh được không?\nNhân viên Mark Smalls (4:50 chiều): Với giao hàng hỏa tốc, đơn của chị sẽ đến vào ngày 24/5. Vì đơn gốc của chị là giao hàng tiêu chuẩn nên giao hỏa tốc sẽ tốn thêm 15 đô la.\nKim Brown (4:51 chiều): Vậy thì anh hoàn tiền đơn hàng cho tôi là được.\nNhân viên Mark Smalls (4:52 chiều): Chắc chắn rồi. Tôi sẽ hoàn lại giá mua ban đầu và phí giao hàng vào thẻ tín dụng của chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-14",
+          "no": 14,
+          "text": "According to the chat, what is suggested about the package?",
+          "options": {
+            "A": "It was sent to the wrong address.",
+            "B": "It contained the wrong item.",
+            "C": "The warehouse misplaced it.",
+            "D": "No one is sure what happened to it."
+          },
+          "answer": "D",
+          "explain": "Hệ thống báo hàng đã đến 10/5, địa chỉ đúng (A sai), hàng xóm cũng không nhận; nhân viên chỉ nói “your package seems to have been lost” — không ai biết chắc gói hàng đã ra sao.",
+          "passage": {
+            "text": "White Hat Supplies\nCustomer Service Live Chat\n\nAgent Mark Smalls (4:25 P.M.): Hello, Ms. Brown. Thank you for contacting Customer Service. How may I help you?\nKim Brown (4:26 P.M.): I ordered three packages of ink on May 4. I received a confirmation e-mail stating that the order was shipped on May 8 and would arrive by May 12, but the package has not arrived.\nAgent Mark Smalls (4:28 P.M.): Sorry to hear that. Give me a moment while I check. Do you have your order number?\nKim Brown (4:32 P.M.): Sure. It’s order JX43125.\nAgent Mark Smalls (4:35 P.M.): OK. One moment.\nAgent Mark Smalls (4:38 P.M.): Ms. Brown, our tracking system indicates that the package arrived on May 10. Can you confirm your shipping address is 15 Walters Court, Boca Raton, FL 33431?\nKim Brown (4:41 P.M.): Yes, that’s correct.\nAgent Mark Smalls (4:42 P.M.): Is it possible that a neighbor picked it up?\nKim Brown (4:43 P.M.): I really don’t think so. I know my neighbors, and it’s been over a week now.\nAgent Mark Smalls (4:45 P.M.): I see. Well, I’m very sorry your package seems to have been lost. Would you like us to send you a replacement? The order should arrive by May 27.\nKim Brown (4:46 P.M.): I need the ink right away. Would you be able to expedite shipping and handling?\nAgent Mark Smalls (4:50 P.M.): With express delivery, your order would arrive on May 24. Since your original order was standard delivery, express delivery would be an additional $15.\nKim Brown (4:51 P.M.): In that case, please just refund my order.\nAgent Mark Smalls (4:52 P.M.): Certainly. I will refund the original purchase price and delivery charge to your credit card."
+          },
+          "vi": "White Hat Supplies\nTrò chuyện trực tuyến với bộ phận Chăm sóc khách hàng\n\nNhân viên Mark Smalls (4:25 chiều): Xin chào chị Brown. Cảm ơn chị đã liên hệ bộ phận Chăm sóc khách hàng. Tôi có thể giúp gì cho chị?\nKim Brown (4:26 chiều): Tôi đặt ba gói mực in vào ngày 4/5. Tôi nhận được e-mail xác nhận rằng đơn hàng đã được gửi đi ngày 8/5 và sẽ đến trước ngày 12/5, nhưng gói hàng vẫn chưa tới.\nNhân viên Mark Smalls (4:28 chiều): Rất tiếc khi nghe vậy. Chị chờ tôi một chút để kiểm tra. Chị có mã đơn hàng không?\nKim Brown (4:32 chiều): Có. Đơn hàng JX43125.\nNhân viên Mark Smalls (4:35 chiều): Vâng. Chờ tôi một chút.\nNhân viên Mark Smalls (4:38 chiều): Chị Brown, hệ thống theo dõi của chúng tôi cho thấy gói hàng đã đến vào ngày 10/5. Chị xác nhận giúp địa chỉ giao hàng là 15 Walters Court, Boca Raton, FL 33431 được không?\nKim Brown (4:41 chiều): Vâng, đúng rồi.\nNhân viên Mark Smalls (4:42 chiều): Có khả năng hàng xóm đã nhận giúp không?\nKim Brown (4:43 chiều): Tôi thật sự không nghĩ vậy. Tôi quen hàng xóm của mình, và giờ đã hơn một tuần rồi.\nNhân viên Mark Smalls (4:45 chiều): Tôi hiểu. Rất xin lỗi chị vì có vẻ gói hàng đã bị thất lạc. Chị có muốn chúng tôi gửi hàng thay thế không? Đơn hàng sẽ đến trước ngày 27/5.\nKim Brown (4:46 chiều): Tôi cần mực ngay. Bên anh có thể giao hàng nhanh được không?\nNhân viên Mark Smalls (4:50 chiều): Với giao hàng hỏa tốc, đơn của chị sẽ đến vào ngày 24/5. Vì đơn gốc của chị là giao hàng tiêu chuẩn nên giao hỏa tốc sẽ tốn thêm 15 đô la.\nKim Brown (4:51 chiều): Vậy thì anh hoàn tiền đơn hàng cho tôi là được.\nNhân viên Mark Smalls (4:52 chiều): Chắc chắn rồi. Tôi sẽ hoàn lại giá mua ban đầu và phí giao hàng vào thẻ tín dụng của chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-15",
+          "no": 15,
+          "text": "At 4:43 P.M., what does Ms. Brown most likely mean when she writes, “it’s been over a week now”?",
+          "options": {
+            "A": "The project she needs the package for was completed a week ago.",
+            "B": "She plans to ask her neighbors if they have seen the package.",
+            "C": "Her neighbors would have already given her the package.",
+            "D": "She moved into her neighborhood a week ago."
+          },
+          "answer": "C",
+          "explain": "Đáp lại câu hỏi hàng xóm có nhận giúp không, chị nói chị quen hàng xóm và đã hơn một tuần rồi — nếu hàng xóm nhận thì họ đã đưa cho chị từ lâu.",
+          "passage": {
+            "text": "White Hat Supplies\nCustomer Service Live Chat\n\nAgent Mark Smalls (4:25 P.M.): Hello, Ms. Brown. Thank you for contacting Customer Service. How may I help you?\nKim Brown (4:26 P.M.): I ordered three packages of ink on May 4. I received a confirmation e-mail stating that the order was shipped on May 8 and would arrive by May 12, but the package has not arrived.\nAgent Mark Smalls (4:28 P.M.): Sorry to hear that. Give me a moment while I check. Do you have your order number?\nKim Brown (4:32 P.M.): Sure. It’s order JX43125.\nAgent Mark Smalls (4:35 P.M.): OK. One moment.\nAgent Mark Smalls (4:38 P.M.): Ms. Brown, our tracking system indicates that the package arrived on May 10. Can you confirm your shipping address is 15 Walters Court, Boca Raton, FL 33431?\nKim Brown (4:41 P.M.): Yes, that’s correct.\nAgent Mark Smalls (4:42 P.M.): Is it possible that a neighbor picked it up?\nKim Brown (4:43 P.M.): I really don’t think so. I know my neighbors, and it’s been over a week now.\nAgent Mark Smalls (4:45 P.M.): I see. Well, I’m very sorry your package seems to have been lost. Would you like us to send you a replacement? The order should arrive by May 27.\nKim Brown (4:46 P.M.): I need the ink right away. Would you be able to expedite shipping and handling?\nAgent Mark Smalls (4:50 P.M.): With express delivery, your order would arrive on May 24. Since your original order was standard delivery, express delivery would be an additional $15.\nKim Brown (4:51 P.M.): In that case, please just refund my order.\nAgent Mark Smalls (4:52 P.M.): Certainly. I will refund the original purchase price and delivery charge to your credit card."
+          },
+          "vi": "White Hat Supplies\nTrò chuyện trực tuyến với bộ phận Chăm sóc khách hàng\n\nNhân viên Mark Smalls (4:25 chiều): Xin chào chị Brown. Cảm ơn chị đã liên hệ bộ phận Chăm sóc khách hàng. Tôi có thể giúp gì cho chị?\nKim Brown (4:26 chiều): Tôi đặt ba gói mực in vào ngày 4/5. Tôi nhận được e-mail xác nhận rằng đơn hàng đã được gửi đi ngày 8/5 và sẽ đến trước ngày 12/5, nhưng gói hàng vẫn chưa tới.\nNhân viên Mark Smalls (4:28 chiều): Rất tiếc khi nghe vậy. Chị chờ tôi một chút để kiểm tra. Chị có mã đơn hàng không?\nKim Brown (4:32 chiều): Có. Đơn hàng JX43125.\nNhân viên Mark Smalls (4:35 chiều): Vâng. Chờ tôi một chút.\nNhân viên Mark Smalls (4:38 chiều): Chị Brown, hệ thống theo dõi của chúng tôi cho thấy gói hàng đã đến vào ngày 10/5. Chị xác nhận giúp địa chỉ giao hàng là 15 Walters Court, Boca Raton, FL 33431 được không?\nKim Brown (4:41 chiều): Vâng, đúng rồi.\nNhân viên Mark Smalls (4:42 chiều): Có khả năng hàng xóm đã nhận giúp không?\nKim Brown (4:43 chiều): Tôi thật sự không nghĩ vậy. Tôi quen hàng xóm của mình, và giờ đã hơn một tuần rồi.\nNhân viên Mark Smalls (4:45 chiều): Tôi hiểu. Rất xin lỗi chị vì có vẻ gói hàng đã bị thất lạc. Chị có muốn chúng tôi gửi hàng thay thế không? Đơn hàng sẽ đến trước ngày 27/5.\nKim Brown (4:46 chiều): Tôi cần mực ngay. Bên anh có thể giao hàng nhanh được không?\nNhân viên Mark Smalls (4:50 chiều): Với giao hàng hỏa tốc, đơn của chị sẽ đến vào ngày 24/5. Vì đơn gốc của chị là giao hàng tiêu chuẩn nên giao hỏa tốc sẽ tốn thêm 15 đô la.\nKim Brown (4:51 chiều): Vậy thì anh hoàn tiền đơn hàng cho tôi là được.\nNhân viên Mark Smalls (4:52 chiều): Chắc chắn rồi. Tôi sẽ hoàn lại giá mua ban đầu và phí giao hàng vào thẻ tín dụng của chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-16",
+          "no": 16,
+          "text": "Why does Ms. Brown refuse a replacement?",
+          "options": {
+            "A": "She does not want to pay for expedited shipping.",
+            "B": "The ink works better with other printers.",
+            "C": "She read a negative review of the product.",
+            "D": "She no longer needs the ink."
+          },
+          "answer": "A",
+          "explain": "Chị cần mực gấp nên hỏi giao nhanh; nhân viên báo giao hỏa tốc tốn thêm 15 đô la, chị liền nói “In that case, please just refund my order” — chị không muốn trả thêm phí giao nhanh. D sai vì chị nói “I need the ink right away”.",
+          "passage": {
+            "text": "White Hat Supplies\nCustomer Service Live Chat\n\nAgent Mark Smalls (4:25 P.M.): Hello, Ms. Brown. Thank you for contacting Customer Service. How may I help you?\nKim Brown (4:26 P.M.): I ordered three packages of ink on May 4. I received a confirmation e-mail stating that the order was shipped on May 8 and would arrive by May 12, but the package has not arrived.\nAgent Mark Smalls (4:28 P.M.): Sorry to hear that. Give me a moment while I check. Do you have your order number?\nKim Brown (4:32 P.M.): Sure. It’s order JX43125.\nAgent Mark Smalls (4:35 P.M.): OK. One moment.\nAgent Mark Smalls (4:38 P.M.): Ms. Brown, our tracking system indicates that the package arrived on May 10. Can you confirm your shipping address is 15 Walters Court, Boca Raton, FL 33431?\nKim Brown (4:41 P.M.): Yes, that’s correct.\nAgent Mark Smalls (4:42 P.M.): Is it possible that a neighbor picked it up?\nKim Brown (4:43 P.M.): I really don’t think so. I know my neighbors, and it’s been over a week now.\nAgent Mark Smalls (4:45 P.M.): I see. Well, I’m very sorry your package seems to have been lost. Would you like us to send you a replacement? The order should arrive by May 27.\nKim Brown (4:46 P.M.): I need the ink right away. Would you be able to expedite shipping and handling?\nAgent Mark Smalls (4:50 P.M.): With express delivery, your order would arrive on May 24. Since your original order was standard delivery, express delivery would be an additional $15.\nKim Brown (4:51 P.M.): In that case, please just refund my order.\nAgent Mark Smalls (4:52 P.M.): Certainly. I will refund the original purchase price and delivery charge to your credit card."
+          },
+          "vi": "White Hat Supplies\nTrò chuyện trực tuyến với bộ phận Chăm sóc khách hàng\n\nNhân viên Mark Smalls (4:25 chiều): Xin chào chị Brown. Cảm ơn chị đã liên hệ bộ phận Chăm sóc khách hàng. Tôi có thể giúp gì cho chị?\nKim Brown (4:26 chiều): Tôi đặt ba gói mực in vào ngày 4/5. Tôi nhận được e-mail xác nhận rằng đơn hàng đã được gửi đi ngày 8/5 và sẽ đến trước ngày 12/5, nhưng gói hàng vẫn chưa tới.\nNhân viên Mark Smalls (4:28 chiều): Rất tiếc khi nghe vậy. Chị chờ tôi một chút để kiểm tra. Chị có mã đơn hàng không?\nKim Brown (4:32 chiều): Có. Đơn hàng JX43125.\nNhân viên Mark Smalls (4:35 chiều): Vâng. Chờ tôi một chút.\nNhân viên Mark Smalls (4:38 chiều): Chị Brown, hệ thống theo dõi của chúng tôi cho thấy gói hàng đã đến vào ngày 10/5. Chị xác nhận giúp địa chỉ giao hàng là 15 Walters Court, Boca Raton, FL 33431 được không?\nKim Brown (4:41 chiều): Vâng, đúng rồi.\nNhân viên Mark Smalls (4:42 chiều): Có khả năng hàng xóm đã nhận giúp không?\nKim Brown (4:43 chiều): Tôi thật sự không nghĩ vậy. Tôi quen hàng xóm của mình, và giờ đã hơn một tuần rồi.\nNhân viên Mark Smalls (4:45 chiều): Tôi hiểu. Rất xin lỗi chị vì có vẻ gói hàng đã bị thất lạc. Chị có muốn chúng tôi gửi hàng thay thế không? Đơn hàng sẽ đến trước ngày 27/5.\nKim Brown (4:46 chiều): Tôi cần mực ngay. Bên anh có thể giao hàng nhanh được không?\nNhân viên Mark Smalls (4:50 chiều): Với giao hàng hỏa tốc, đơn của chị sẽ đến vào ngày 24/5. Vì đơn gốc của chị là giao hàng tiêu chuẩn nên giao hỏa tốc sẽ tốn thêm 15 đô la.\nKim Brown (4:51 chiều): Vậy thì anh hoàn tiền đơn hàng cho tôi là được.\nNhân viên Mark Smalls (4:52 chiều): Chắc chắn rồi. Tôi sẽ hoàn lại giá mua ban đầu và phí giao hàng vào thẻ tín dụng của chị.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d19-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 5: community garden",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D10 S2 UNIT5.pdf",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "questions": [
+        {
+          "id": "d19-read-17",
+          "no": 17,
+          "text": "What is indicated about Ms. Novak?",
+          "options": {
+            "A": "She missed last week’s meeting.",
+            "B": "She has just returned from a trip.",
+            "C": "She does not like Mr. Goodwin’s idea.",
+            "D": "She gave her colleagues an assignment."
+          },
+          "answer": "D",
+          "explain": "“Last week when we met, I asked you to come up with strategies...” — chị Novak đã giao nhiệm vụ cho đồng nghiệp. Chị có mặt ở buổi họp (A sai) và khen “Wonderful” (C sai).",
+          "passage": {
+            "text": "Ann Novak [1:31 P.M.]: Hello, everyone. Last week when we met, I asked you to come up with strategies to bring attention to the community garden program. Does anyone have progress to report?\nJay Goodwin [1:32 P.M.]: I reached out to Stuart Chan of City Wide Now, the local newspaper. You probably know his “City Living” column.\nMike Louden [1:33 P.M.]: The one that runs on Mondays? I never miss it!\nJay Goodwin [1:34 P.M.]: He has a large online following, too. He’d like to interview me for an upcoming issue. So that’s happening next week.\nAnn Novak [1:34 P.M.]: Wonderful. Will you talk about the community garden in general?\nJay Goodwin [1:35 P.M.]: I explained to Stuart that we are surveying members of the garden about issues regarding access to water. So he wants to focus on that.\nMike Louden [1:36 P.M.]: Lori and I are writing up the survey results. Ann. I’m getting ready to send you a draft. As soon as you have approved it, I can post it on our Web site.\nAnn Novak [1:37 P.M.]: OK. I’ll look it over this afternoon."
+          },
+          "vi": "Ann Novak [1:31 chiều]: Chào mọi người. Tuần trước khi họp, tôi đã nhờ các bạn nghĩ ra chiến lược để thu hút sự chú ý đến chương trình vườn cộng đồng. Có ai có tiến triển gì để báo cáo không?\nJay Goodwin [1:32 chiều]: Tôi đã liên hệ Stuart Chan của City Wide Now, tờ báo địa phương. Chắc mọi người biết chuyên mục “City Living” của anh ấy.\nMike Louden [1:33 chiều]: Chuyên mục đăng vào thứ Hai phải không? Tôi chưa bỏ lỡ số nào!\nJay Goodwin [1:34 chiều]: Anh ấy cũng có lượng người theo dõi trực tuyến lớn. Anh ấy muốn phỏng vấn tôi cho một số báo sắp tới. Việc đó sẽ diễn ra tuần sau.\nAnn Novak [1:34 chiều]: Tuyệt vời. Anh sẽ nói về vườn cộng đồng nói chung chứ?\nJay Goodwin [1:35 chiều]: Tôi đã giải thích với Stuart rằng chúng ta đang khảo sát các thành viên của vườn về những vấn đề liên quan đến việc tiếp cận nguồn nước. Nên anh ấy muốn tập trung vào chủ đề đó.\nMike Louden [1:36 chiều]: Lori và tôi đang viết báo cáo kết quả khảo sát. Ann. Tôi sắp gửi chị bản nháp. Ngay khi chị duyệt, tôi có thể đăng nó lên trang web của chúng ta.\nAnn Novak [1:37 chiều]: Được. Chiều nay tôi sẽ xem qua.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-18",
+          "no": 18,
+          "text": "Who is Mr. Chan?",
+          "options": {
+            "A": "A city official",
+            "B": "A local reporter",
+            "C": "A job candidate",
+            "D": "An expert gardener"
+          },
+          "answer": "B",
+          "explain": "Stuart Chan “of City Wide Now, the local newspaper”, viết chuyên mục “City Living” và sẽ phỏng vấn Jay — anh là phóng viên báo địa phương.",
+          "passage": {
+            "text": "Ann Novak [1:31 P.M.]: Hello, everyone. Last week when we met, I asked you to come up with strategies to bring attention to the community garden program. Does anyone have progress to report?\nJay Goodwin [1:32 P.M.]: I reached out to Stuart Chan of City Wide Now, the local newspaper. You probably know his “City Living” column.\nMike Louden [1:33 P.M.]: The one that runs on Mondays? I never miss it!\nJay Goodwin [1:34 P.M.]: He has a large online following, too. He’d like to interview me for an upcoming issue. So that’s happening next week.\nAnn Novak [1:34 P.M.]: Wonderful. Will you talk about the community garden in general?\nJay Goodwin [1:35 P.M.]: I explained to Stuart that we are surveying members of the garden about issues regarding access to water. So he wants to focus on that.\nMike Louden [1:36 P.M.]: Lori and I are writing up the survey results. Ann. I’m getting ready to send you a draft. As soon as you have approved it, I can post it on our Web site.\nAnn Novak [1:37 P.M.]: OK. I’ll look it over this afternoon."
+          },
+          "vi": "Ann Novak [1:31 chiều]: Chào mọi người. Tuần trước khi họp, tôi đã nhờ các bạn nghĩ ra chiến lược để thu hút sự chú ý đến chương trình vườn cộng đồng. Có ai có tiến triển gì để báo cáo không?\nJay Goodwin [1:32 chiều]: Tôi đã liên hệ Stuart Chan của City Wide Now, tờ báo địa phương. Chắc mọi người biết chuyên mục “City Living” của anh ấy.\nMike Louden [1:33 chiều]: Chuyên mục đăng vào thứ Hai phải không? Tôi chưa bỏ lỡ số nào!\nJay Goodwin [1:34 chiều]: Anh ấy cũng có lượng người theo dõi trực tuyến lớn. Anh ấy muốn phỏng vấn tôi cho một số báo sắp tới. Việc đó sẽ diễn ra tuần sau.\nAnn Novak [1:34 chiều]: Tuyệt vời. Anh sẽ nói về vườn cộng đồng nói chung chứ?\nJay Goodwin [1:35 chiều]: Tôi đã giải thích với Stuart rằng chúng ta đang khảo sát các thành viên của vườn về những vấn đề liên quan đến việc tiếp cận nguồn nước. Nên anh ấy muốn tập trung vào chủ đề đó.\nMike Louden [1:36 chiều]: Lori và tôi đang viết báo cáo kết quả khảo sát. Ann. Tôi sắp gửi chị bản nháp. Ngay khi chị duyệt, tôi có thể đăng nó lên trang web của chúng ta.\nAnn Novak [1:37 chiều]: Được. Chiều nay tôi sẽ xem qua.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-19",
+          "no": 19,
+          "text": "At 1:33 P.M., what does Mr. Louden most likely mean when he writes, “I never miss it”?",
+          "options": {
+            "A": "He enjoys participating in community activities.",
+            "B": "He always meets project deadlines.",
+            "C": "He subscribes to City Wide Now.",
+            "D": "He reads a column regularly."
+          },
+          "answer": "D",
+          "explain": "“The one that runs on Mondays? I never miss it!” nói về chuyên mục “City Living” — anh đọc chuyên mục này đều đặn. C không chắc: đọc thường xuyên không có nghĩa là đăng ký mua báo (báo còn có bản trực tuyến).",
+          "passage": {
+            "text": "Ann Novak [1:31 P.M.]: Hello, everyone. Last week when we met, I asked you to come up with strategies to bring attention to the community garden program. Does anyone have progress to report?\nJay Goodwin [1:32 P.M.]: I reached out to Stuart Chan of City Wide Now, the local newspaper. You probably know his “City Living” column.\nMike Louden [1:33 P.M.]: The one that runs on Mondays? I never miss it!\nJay Goodwin [1:34 P.M.]: He has a large online following, too. He’d like to interview me for an upcoming issue. So that’s happening next week.\nAnn Novak [1:34 P.M.]: Wonderful. Will you talk about the community garden in general?\nJay Goodwin [1:35 P.M.]: I explained to Stuart that we are surveying members of the garden about issues regarding access to water. So he wants to focus on that.\nMike Louden [1:36 P.M.]: Lori and I are writing up the survey results. Ann. I’m getting ready to send you a draft. As soon as you have approved it, I can post it on our Web site.\nAnn Novak [1:37 P.M.]: OK. I’ll look it over this afternoon."
+          },
+          "vi": "Ann Novak [1:31 chiều]: Chào mọi người. Tuần trước khi họp, tôi đã nhờ các bạn nghĩ ra chiến lược để thu hút sự chú ý đến chương trình vườn cộng đồng. Có ai có tiến triển gì để báo cáo không?\nJay Goodwin [1:32 chiều]: Tôi đã liên hệ Stuart Chan của City Wide Now, tờ báo địa phương. Chắc mọi người biết chuyên mục “City Living” của anh ấy.\nMike Louden [1:33 chiều]: Chuyên mục đăng vào thứ Hai phải không? Tôi chưa bỏ lỡ số nào!\nJay Goodwin [1:34 chiều]: Anh ấy cũng có lượng người theo dõi trực tuyến lớn. Anh ấy muốn phỏng vấn tôi cho một số báo sắp tới. Việc đó sẽ diễn ra tuần sau.\nAnn Novak [1:34 chiều]: Tuyệt vời. Anh sẽ nói về vườn cộng đồng nói chung chứ?\nJay Goodwin [1:35 chiều]: Tôi đã giải thích với Stuart rằng chúng ta đang khảo sát các thành viên của vườn về những vấn đề liên quan đến việc tiếp cận nguồn nước. Nên anh ấy muốn tập trung vào chủ đề đó.\nMike Louden [1:36 chiều]: Lori và tôi đang viết báo cáo kết quả khảo sát. Ann. Tôi sắp gửi chị bản nháp. Ngay khi chị duyệt, tôi có thể đăng nó lên trang web của chúng ta.\nAnn Novak [1:37 chiều]: Được. Chiều nay tôi sẽ xem qua.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d19-read-20",
+          "no": 20,
+          "text": "What does Mr. Louden indicate he will do?",
+          "options": {
+            "A": "Conduct a survey",
+            "B": "Post a document online",
+            "C": "Prepare interview questions",
+            "D": "Help improve access to water"
+          },
+          "answer": "B",
+          "explain": "“As soon as you have approved it, I can post it on our Web site” — anh sẽ đăng bản báo cáo kết quả khảo sát lên trang web. A sai vì khảo sát đã làm, giờ chỉ viết báo cáo kết quả.",
+          "passage": {
+            "text": "Ann Novak [1:31 P.M.]: Hello, everyone. Last week when we met, I asked you to come up with strategies to bring attention to the community garden program. Does anyone have progress to report?\nJay Goodwin [1:32 P.M.]: I reached out to Stuart Chan of City Wide Now, the local newspaper. You probably know his “City Living” column.\nMike Louden [1:33 P.M.]: The one that runs on Mondays? I never miss it!\nJay Goodwin [1:34 P.M.]: He has a large online following, too. He’d like to interview me for an upcoming issue. So that’s happening next week.\nAnn Novak [1:34 P.M.]: Wonderful. Will you talk about the community garden in general?\nJay Goodwin [1:35 P.M.]: I explained to Stuart that we are surveying members of the garden about issues regarding access to water. So he wants to focus on that.\nMike Louden [1:36 P.M.]: Lori and I are writing up the survey results. Ann. I’m getting ready to send you a draft. As soon as you have approved it, I can post it on our Web site.\nAnn Novak [1:37 P.M.]: OK. I’ll look it over this afternoon."
+          },
+          "vi": "Ann Novak [1:31 chiều]: Chào mọi người. Tuần trước khi họp, tôi đã nhờ các bạn nghĩ ra chiến lược để thu hút sự chú ý đến chương trình vườn cộng đồng. Có ai có tiến triển gì để báo cáo không?\nJay Goodwin [1:32 chiều]: Tôi đã liên hệ Stuart Chan của City Wide Now, tờ báo địa phương. Chắc mọi người biết chuyên mục “City Living” của anh ấy.\nMike Louden [1:33 chiều]: Chuyên mục đăng vào thứ Hai phải không? Tôi chưa bỏ lỡ số nào!\nJay Goodwin [1:34 chiều]: Anh ấy cũng có lượng người theo dõi trực tuyến lớn. Anh ấy muốn phỏng vấn tôi cho một số báo sắp tới. Việc đó sẽ diễn ra tuần sau.\nAnn Novak [1:34 chiều]: Tuyệt vời. Anh sẽ nói về vườn cộng đồng nói chung chứ?\nJay Goodwin [1:35 chiều]: Tôi đã giải thích với Stuart rằng chúng ta đang khảo sát các thành viên của vườn về những vấn đề liên quan đến việc tiếp cận nguồn nước. Nên anh ấy muốn tập trung vào chủ đề đó.\nMike Louden [1:36 chiều]: Lori và tôi đang viết báo cáo kết quả khảo sát. Ann. Tôi sắp gửi chị bản nháp. Ngay khi chị duyệt, tôi có thể đăng nó lên trang web của chúng ta.\nAnn Novak [1:37 chiều]: Được. Chiều nay tôi sẽ xem qua.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}
