@@ -29,7 +29,7 @@ assert.equal(words.mode,'dictation');assert.equal(words.sourceName,'WORD - DAY 4
 assert.equal(new Set(words.questions.map(q=>q.sourceSentenceId)).size,47);
 for(const q of words.questions){assert.equal(typeof q.transcript,'string');assert.ok(q.transcriptVi);assert.equal(q.source.transcript,'whisper');}
 assert.equal(words.questions[0].transcript,'aisle');assert.equal(words.questions[26].transcript,'mail');assert.equal(words.questions[45].transcript,'weight');
-assert.equal(day.vocabulary.length,52);assert.equal(new Set(day.vocabulary.map(q=>q.word)).size,52);
+assert.equal(day.vocabulary.length,57);assert.equal(new Set(day.vocabulary.map(q=>q.word)).size,57);
 const artificial=day.vocabulary.find(q=>q.word==='artificial');assert.equal(artificial.sourceUrls.length,2,'Keep both vocabulary sources without a duplicate artificial card');
 for(const v of day.vocabulary){for(const accent of ['uk','us'])assert.ok(existsSync(`public${v.voice[accent]}`));}
 assert.ok(existsSync('public/assets/day-18/flashcard.pdf'));
@@ -37,4 +37,4 @@ assert.equal(day.theory.length,8);
 for(const label of [day.subtitle,...day.theory.map(b=>b.title),...day.theory.flatMap(b=>Object.keys(b.groups||{})),...day.listening.flatMap(s=>[s.title,s.subtitle]),...day.exercises.map(s=>s.title),...day.vocabulary.map(v=>v.group)]){
  for(const locale of ['vi','zh','ko'])assert.notEqual(translate(locale,label),label,`Missing ${locale}: ${label}`);
 }
-console.log('✓ Day 18: 21 Part 7 reading questions with AI keys, 109 original audio clips, 62 AI keys, 47 reviewed dictations, 52 unique words with both voices, noun guide and UI translations');
+console.log('✓ Day 18: 21 Part 7 reading questions with AI keys, 109 original audio clips, 62 AI keys, 47 reviewed dictations, 57 unique words with both voices, noun guide and UI translations');

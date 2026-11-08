@@ -1463,6 +1463,141 @@
         "us": "/assets/day-18/voice-neural/d18-v52-us.mp3",
         "uk": "/assets/day-18/voice-neural/d18-v52-uk.mp3"
       }
+    },
+    {
+      "id": "d18-v53",
+      "no": 53,
+      "word": "potential",
+      "pos": "adj, n",
+      "ipa": {
+        "uk": "/pəˈtenʃl/",
+        "us": "/pəˈtenʃl/"
+      },
+      "meaningVi": "(adj) tiềm năng, có khả năng xảy ra; (n) tiềm năng, khả năng phát triển",
+      "image": null,
+      "example": {
+        "en": "The sales team will meet with several potential clients next week."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-18/voice-neural/d18-v53-us.mp3",
+        "uk": "/assets/day-18/voice-neural/d18-v53-uk.mp3"
+      }
+    },
+    {
+      "id": "d18-v54",
+      "no": 54,
+      "word": "guava",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡwɑːvə/",
+        "us": "/ˈɡwɑːvə/"
+      },
+      "meaningVi": "quả ổi; cây ổi",
+      "image": null,
+      "example": {
+        "en": "The café serves fresh guava juice every morning."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-18/voice-neural/d18-v54-us.mp3",
+        "uk": "/assets/day-18/voice-neural/d18-v54-uk.mp3"
+      }
+    },
+    {
+      "id": "d18-v55",
+      "no": 55,
+      "word": "cocoplum",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkəʊkəʊplʌm/",
+        "us": "/ˈkoʊkoʊplʌm/"
+      },
+      "meaningVi": "cây/quả mận biển (cocoplum) — loại cây bụi vùng nhiệt đới, thường trồng làm hàng rào",
+      "image": null,
+      "example": {
+        "en": "The hotel planted a cocoplum hedge along the edge of the parking lot."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-18/voice-neural/d18-v55-us.mp3",
+        "uk": "/assets/day-18/voice-neural/d18-v55-uk.mp3"
+      }
+    },
+    {
+      "id": "d18-v56",
+      "no": 56,
+      "word": "ingredients",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈɡriːdiənts/",
+        "us": "/ɪnˈɡriːdiənts/"
+      },
+      "meaningVi": "nguyên liệu, thành phần (để nấu ăn hoặc làm ra sản phẩm)",
+      "image": null,
+      "example": {
+        "en": "Our restaurant uses only fresh, locally sourced ingredients."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-18/voice-neural/d18-v56-us.mp3",
+        "uk": "/assets/day-18/voice-neural/d18-v56-uk.mp3"
+      }
+    },
+    {
+      "id": "d18-v57",
+      "no": 57,
+      "word": "remarkable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/rɪˈmɑːkəbl/",
+        "us": "/rɪˈmɑːrkəbl/"
+      },
+      "meaningVi": "đáng chú ý, nổi bật, phi thường",
+      "image": null,
+      "example": {
+        "en": "The company has made remarkable progress in reducing its energy costs."
+      },
+      "group": "Additional vocabulary",
+      "source": {
+        "word": "user",
+        "meaningVi": "ai",
+        "ipa": "ai",
+        "example": "ai",
+        "voice": "tts"
+      },
+      "voice": {
+        "us": "/assets/day-18/voice-neural/d18-v57-us.mp3",
+        "uk": "/assets/day-18/voice-neural/d18-v57-uk.mp3"
+      }
     }
   ],
   "voiceGeneration": {
@@ -1473,6 +1608,6 @@
     },
     "rate": "-8%",
     "package": "edge-tts 7.3.1",
-    "textHash": "3bf6b4685926e17eae4ee1f77cf7e22dab1baa889f87b396319d980c91d6dfc6"
+    "textHash": "17dc1f26cd136323459ba42343df705ad91dec27f7470fe92ad336e80b3fb12d"
   }
 }
