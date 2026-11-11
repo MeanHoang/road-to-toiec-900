@@ -1,0 +1,66 @@
+{
+  "collection": "theory",
+  "day": "day-20",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d20-t-homework",
+      "type": "wordGroups",
+      "title": "Day 11 — homework",
+      "groups": {
+        "Online homework": [
+          "Làm bài tập Part 1 và Part 2 trên web cô đã tạo (study.thaylongtoeic.com)."
+        ],
+        "Listening test": [
+          "App có Test 3 Part 1 (6 câu, có ảnh) và Part 2 (25 câu) từ thư mục PART 1&2 trên Drive. Đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép."
+        ],
+        "Part 3 conversations": [
+          "Làm bài tập Part 3 trong phần HW: ETS Chapter 3 (câu 1–20) và Test 3 (câu 41–70).",
+          "Drive không có đáp án cho hai bài này. Đáp án do AI suy luận từ audio; câu hỏi và phương án lấy nguyên từ file Word.",
+          "Audio ETS Chapter 3 đọc tới câu 24 nhưng file Word chỉ in câu 1–20, nên app có câu 1–20."
+        ],
+        "Vocabulary": [
+          "Review từ vựng các topic đã học và từ vựng trên lớp; take note và nộp cùng BTVN.",
+          "Flashcard DAY 11: 24 từ Topic 06 — Contract Law."
+        ],
+        "Previous homework review": [
+          "Chữa Part 7 và take note từ vựng Day 10 (Day 19 trong app), rồi hoàn thành Day 11."
+        ],
+        "Reading practice": [
+          "Luyện thêm Part 7 — Unit 6: 6 bài đọc (thông báo, chính sách, hướng dẫn, báo cáo), 19 câu hỏi từ tài liệu D11 S2 UNIT6.pdf trong thư mục Drive.",
+          "Drive không có file đáp án cho Unit 6. Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d20-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 20 trong app tương ứng DAY 11 giai đoạn 2.",
+        "Audio nghe trên lớp được đưa vào dạng nghe chép. ETS Test (7 đoạn, thiếu file đoạn câu 16–18 trên Drive) và hai bài ETS Check Up dùng lời thoại trong file key của lớp; các file còn lại do máy chép."
+      ],
+      "links": [
+        {
+          "label": "Day 11 flashcards — PDF",
+          "href": "/assets/day-20/flashcard.pdf"
+        },
+        {
+          "label": "Day 11 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view?usp=sharing"
+        },
+        {
+          "label": "Day 11 Part 7 — Unit 6 reading",
+          "href": "/day/day-20/exercises"
+        },
+        {
+          "label": "Day 11 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1wJ6Nwz3xGA4BISWaytsXAiHcrDj6RcjZ?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

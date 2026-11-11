@@ -1,0 +1,690 @@
+{
+  "collection": "vocabulary",
+  "day": "day-20",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d20-v01",
+      "no": 1,
+      "word": "agreement",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈɡriːmənt/",
+        "us": "/əˈɡriːmənt/"
+      },
+      "meaningVi": "thỏa thuận, hợp đồng",
+      "image": null,
+      "example": {
+        "en": "An agreement was finally reached between management and employees."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v01-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v02",
+      "no": 2,
+      "word": "contractor",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kənˈtræktə/",
+        "us": "/ˈkɑːntræktɚ/"
+      },
+      "meaningVi": "nhà thầu",
+      "image": null,
+      "example": {
+        "en": "We'll need to employ a building contractor to do the work."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v02-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v03",
+      "no": 3,
+      "word": "provision",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈvɪʒn/",
+        "us": "/prəˈvɪʒn/"
+      },
+      "meaningVi": "điều khoản (của hợp đồng pháp lý)",
+      "image": null,
+      "example": {
+        "en": "She accepted the job with the provision that she would be paid expenses for relocating."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v03-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v04",
+      "no": 4,
+      "word": "conclude",
+      "pos": "v",
+      "ipa": {
+        "uk": "/kənˈkluːd/",
+        "us": "/kənˈkluːd/"
+      },
+      "meaningVi": "kết luận, kết thúc, kí kết",
+      "image": null,
+      "example": {
+        "en": "A trade agreement was concluded between the two countries."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v04-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v05",
+      "no": 5,
+      "word": "establish",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪˈstæblɪʃ/",
+        "us": "/ɪˈstæblɪʃ/"
+      },
+      "meaningVi": "thành lập, thiết lập",
+      "image": null,
+      "example": {
+        "en": "The company intends to establish a presence in Korea."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v05-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v06",
+      "no": 6,
+      "word": "refuse",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈfjuːz/",
+        "us": "/rɪˈfjuːz/"
+      },
+      "meaningVi": "từ chối",
+      "image": null,
+      "example": {
+        "en": "They refused to renew my contract due to the budget constraint."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v06-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v07",
+      "no": 7,
+      "word": "dealership",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdiːləʃɪp/",
+        "us": "/ˈdiːlɚʃɪp/"
+      },
+      "meaningVi": "đại lý",
+      "image": null,
+      "example": {
+        "en": "They are a large commercial truck dealership."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v07-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v08",
+      "no": 8,
+      "word": "temporary",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈtemprəri/",
+        "us": "/ˈtempəreri/"
+      },
+      "meaningVi": "tạm thời",
+      "image": null,
+      "example": {
+        "en": "Renting space in another office building is only a temporary measure."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v08-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v09",
+      "no": 9,
+      "word": "finalize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈfaɪnəlaɪz/",
+        "us": "/ˈfaɪnəlaɪz/"
+      },
+      "meaningVi": "hoàn tất, hoàn thành",
+      "image": null,
+      "example": {
+        "en": "Details of the deal are being finalized."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v09-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v10",
+      "no": 10,
+      "word": "bargain",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈbɑːɡɪn/",
+        "us": "/ˈbɑːrɡən/"
+      },
+      "meaningVi": "sự mặc cả (thỏa thuận); thỏa thuận (mặc cả)",
+      "image": null,
+      "example": {
+        "en": "You can usually bargain with antique dealers."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v10-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v11",
+      "no": 11,
+      "word": "represent",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˌreprɪˈzent/",
+        "us": "/ˌreprɪˈzent/"
+      },
+      "meaningVi": "đại diện, tương đương với",
+      "image": null,
+      "example": {
+        "en": "This contract represents 20% of the company's annual revenue."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v11-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v12",
+      "no": 12,
+      "word": "dispute",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/dɪˈspjuːt/",
+        "us": "/dɪˈspjuːt/"
+      },
+      "meaningVi": "tranh chấp, tranh cãi",
+      "image": null,
+      "example": {
+        "en": "The employees have been in dispute with management for three weeks."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v12-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v13",
+      "no": 13,
+      "word": "settle",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈsetl/",
+        "us": "/ˈsetl/"
+      },
+      "meaningVi": "giải quyết, thanh toán",
+      "image": null,
+      "example": {
+        "en": "Talks will be held in an attempt to settle the dispute."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v13-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v14",
+      "no": 14,
+      "word": "party",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɑːti/",
+        "us": "/ˈpɑːrti/"
+      },
+      "meaningVi": "tiệc; bên (hợp đồng…)",
+      "image": null,
+      "example": {
+        "en": "The contract can be terminated by either party with three months' notice."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v14-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v15",
+      "no": 15,
+      "word": "offer",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈɒfə/",
+        "us": "/ˈɔːfɚ/"
+      },
+      "meaningVi": "đề nghị, tặng, đưa ra",
+      "image": null,
+      "example": {
+        "en": "I refer to your recent application and interview and am pleased to offer you the post of editor."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v15-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v16",
+      "no": 16,
+      "word": "consideration",
+      "pos": "n",
+      "ipa": {
+        "uk": "/kənˌsɪdəˈreɪʃn/",
+        "us": "/kənˌsɪdəˈreɪʃn/"
+      },
+      "meaningVi": "sự cân nhắc (suy xét)",
+      "image": null,
+      "example": {
+        "en": "There needs to be a consideration of the legal issues involved."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v16-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v17",
+      "no": 17,
+      "word": "acceptance",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əkˈseptəns/",
+        "us": "/əkˈseptəns/"
+      },
+      "meaningVi": "sự chấp nhận",
+      "image": null,
+      "example": {
+        "en": "On acceptance of the proposal, a draft agreement will be sent to both parties."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v17-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v18",
+      "no": 18,
+      "word": "term",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tɜːm/",
+        "us": "/tɝːm/"
+      },
+      "meaningVi": "điều khoản, kỳ hạn",
+      "image": null,
+      "example": {
+        "en": "Under the terms of their contract, employees must give three months' notice if they leave."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v18-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v19",
+      "no": 19,
+      "word": "binding",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈbaɪndɪŋ/",
+        "us": "/ˈbaɪndɪŋ/"
+      },
+      "meaningVi": "bắt buộc, ràng buộc",
+      "image": null,
+      "example": {
+        "en": "The contract was not legally binding because it wasn't signed by both parties."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v19-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v20",
+      "no": 20,
+      "word": "negotiation",
+      "pos": "n",
+      "ipa": {
+        "uk": "/nɪˌɡəʊʃiˈeɪʃn/",
+        "us": "/nɪˌɡoʊʃiˈeɪʃn/"
+      },
+      "meaningVi": "sự đàm phán",
+      "image": null,
+      "example": {
+        "en": "A contract is prepared in negotiation with our clients."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v20-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v21",
+      "no": 21,
+      "word": "imply",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪmˈplaɪ/",
+        "us": "/ɪmˈplaɪ/"
+      },
+      "meaningVi": "ngụ ý (ám chỉ), bao hàm",
+      "image": null,
+      "example": {
+        "en": "Her statement implies a lack of confidence in the management of the company."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v21-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v22",
+      "no": 22,
+      "word": "express",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ɪkˈspres/",
+        "us": "/ɪkˈspres/"
+      },
+      "meaningVi": "thể hiện, bày tỏ",
+      "image": null,
+      "example": {
+        "en": "Customers expressed interest in trying the product."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v22-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v23",
+      "no": 23,
+      "word": "go into effect",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ɡəʊ ˈɪntə ɪˈfekt/",
+        "us": "/ɡoʊ ˈɪntə ɪˈfekt/"
+      },
+      "meaningVi": "có hiệu lực",
+      "image": null,
+      "example": {
+        "en": "Once the contract goes into effect, we have to start learning."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v23-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d20-v24",
+      "no": 24,
+      "word": "assure",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈʃʊə/",
+        "us": "/əˈʃʊr/"
+      },
+      "meaningVi": "đảm bảo, cam kết",
+      "image": null,
+      "example": {
+        "en": "The unions assured the new owners of the workers' loyalty to the company."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1J3bmtXlJxHC7V1ICK7YaIcomgqosv2KJ/view",
+      "voice": {
+        "us": "/assets/day-20/voice-neural/d20-v24-us.mp3",
+        "uk": "/assets/day-20/voice-neural/d20-v24-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "1a1591ad490ae0790524ab4079768411ee4d9e2e694d8ed33400b82945a7dfb7"
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "collection": "exercises",
+  "day": "day-20",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d20-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: Kaweiben scholarships",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d20-read-01",
+          "no": 1,
+          "text": "What is being announced?",
+          "options": {
+            "A": "A scholarship for students who want to work at Kaweiben Corporation",
+            "B": "An information session about educational scholarships",
+            "C": "A scholarship which requires students to make passing grades",
+            "D": "Financial aid for employees who want to attend university"
+          },
+          "answer": "C",
+          "explain": "Thông báo nói về học bổng, và “any student who does not maintain passing grades will not be eligible” — học bổng yêu cầu duy trì điểm đạt. D sai vì học bổng dành cho con của nhân viên, không phải nhân viên.",
+          "passage": {
+            "text": "The Kaweiben Corporation awards educational scholarships to children of full-time employees who meet certain qualifications. Interested candidates must be high school graduates or must be graduating from high school during the year the application is submitted. Candidates must present a copy of an acceptance letter from a university. Scholarship recipients must attend university full time.\n\nScholarships will be paid directly to the university on a yearly basis. Any student who does not maintain passing grades will not be eligible to receive the scholarship in the following academic year.\n\nApplication forms can be found online at www.kaweiben.com/scr, along with more details about the program."
+          },
+          "vi": "Tập đoàn Kaweiben trao học bổng cho con của nhân viên làm việc toàn thời gian đáp ứng một số điều kiện nhất định. Ứng viên quan tâm phải đã tốt nghiệp trung học phổ thông hoặc sẽ tốt nghiệp trong năm nộp hồ sơ. Ứng viên phải nộp bản sao giấy báo trúng tuyển của một trường đại học. Người nhận học bổng phải học đại học toàn thời gian.\n\nHọc bổng sẽ được trả trực tiếp cho trường đại học theo từng năm. Sinh viên nào không duy trì được điểm đạt yêu cầu sẽ không đủ điều kiện nhận học bổng trong năm học tiếp theo.\n\nMẫu đơn đăng ký có trên mạng tại www.kaweiben.com/scr, cùng với thông tin chi tiết hơn về chương trình.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-02",
+          "no": 2,
+          "text": "What is NOT indicated about scholarship recipients?",
+          "options": {
+            "A": "They must be related to a Kaweiben employee.",
+            "B": "They must graduate from high school.",
+            "C": "They must have been accepted to a university.",
+            "D": "They must have demonstrated leadership in the community."
+          },
+          "answer": "D",
+          "explain": "Bài có nhắc: con của nhân viên (A), tốt nghiệp trung học (B), giấy báo trúng tuyển đại học (C). Không có gì về khả năng lãnh đạo trong cộng đồng.",
+          "passage": {
+            "text": "The Kaweiben Corporation awards educational scholarships to children of full-time employees who meet certain qualifications. Interested candidates must be high school graduates or must be graduating from high school during the year the application is submitted. Candidates must present a copy of an acceptance letter from a university. Scholarship recipients must attend university full time.\n\nScholarships will be paid directly to the university on a yearly basis. Any student who does not maintain passing grades will not be eligible to receive the scholarship in the following academic year.\n\nApplication forms can be found online at www.kaweiben.com/scr, along with more details about the program."
+          },
+          "vi": "Tập đoàn Kaweiben trao học bổng cho con của nhân viên làm việc toàn thời gian đáp ứng một số điều kiện nhất định. Ứng viên quan tâm phải đã tốt nghiệp trung học phổ thông hoặc sẽ tốt nghiệp trong năm nộp hồ sơ. Ứng viên phải nộp bản sao giấy báo trúng tuyển của một trường đại học. Người nhận học bổng phải học đại học toàn thời gian.\n\nHọc bổng sẽ được trả trực tiếp cho trường đại học theo từng năm. Sinh viên nào không duy trì được điểm đạt yêu cầu sẽ không đủ điều kiện nhận học bổng trong năm học tiếp theo.\n\nMẫu đơn đăng ký có trên mạng tại www.kaweiben.com/scr, cùng với thông tin chi tiết hơn về chương trình.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: NOEE convention",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d20-read-03",
+          "no": 3,
+          "text": "Where would this announcement most likely be found?",
+          "options": {
+            "A": "In a tourist brochure about Seattle",
+            "B": "In an advertisement for the Montrose Hotel",
+            "C": "In a magazine for teachers",
+            "D": "In an elementary school textbook"
+          },
+          "answer": "C",
+          "explain": "Thông báo mời “elementary school teachers and administrators” dự hội nghị của họ — phù hợp nhất với một tạp chí dành cho giáo viên.",
+          "passage": {
+            "text": "23rd Annual NOEE Convention\n\nJoin more than two thousand elementary school teachers and administrators for the annual convention of the National Organization for Elementary Educators (NOEE) in Seattle, Washington, April 4-7. Highlights include:\n\n• Keynote address—“Kids These Days” by Amy Fadden, host of the nationally syndicated children’s television program Wake Up and Sing\n• Video game fair—Meet representatives from Academic Gamer and Learning Curve Games to discuss how to use educational video and computer games in your classroom.\n• Interview sessions—Bring your résumé and meet with human resources personnel from school districts throughout the country.\n\nAll convention activities will take place at the historic Montrose Hotel, which also offers easy access to restaurants, shopping, and museums.\n\nRegister for the conference or schedule a job interview today! Visit the NOEE Web site at www.noee.org."
+          },
+          "vi": "Hội nghị NOEE thường niên lần thứ 23\n\nHãy cùng hơn hai nghìn giáo viên và cán bộ quản lý trường tiểu học tham dự hội nghị thường niên của Tổ chức Quốc gia các Nhà giáo dục Tiểu học (NOEE) tại Seattle, Washington, ngày 4–7/4. Các điểm nổi bật gồm:\n\n• Bài phát biểu chính — “Kids These Days” (Trẻ em thời nay) của Amy Fadden, người dẫn chương trình truyền hình thiếu nhi phát sóng toàn quốc Wake Up and Sing.\n• Hội chợ trò chơi điện tử — Gặp đại diện của Academic Gamer và Learning Curve Games để trao đổi cách dùng trò chơi điện tử và trò chơi máy tính mang tính giáo dục trong lớp học.\n• Các buổi phỏng vấn — Mang theo hồ sơ xin việc và gặp nhân viên phòng nhân sự của các khu học chánh trên toàn quốc.\n\nMọi hoạt động của hội nghị sẽ diễn ra tại khách sạn lịch sử Montrose, nơi cũng thuận tiện đi đến nhà hàng, khu mua sắm và bảo tàng.\n\nHãy đăng ký dự hội nghị hoặc đặt lịch phỏng vấn xin việc ngay hôm nay! Truy cập trang web NOEE tại www.noee.org.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-04",
+          "no": 4,
+          "text": "What is suggested about the NOEE?",
+          "options": {
+            "A": "It produces educational children’s games.",
+            "B": "It holds a convention every two years.",
+            "C": "It sponsors children’s television programs.",
+            "D": "It helps its members find jobs."
+          },
+          "answer": "D",
+          "explain": "Hội nghị có “Interview sessions — bring your résumé and meet with human resources personnel” và mời “schedule a job interview today” — NOEE giúp hội viên tìm việc. Hội nghị là “annual” (hằng năm), nên B sai.",
+          "passage": {
+            "text": "23rd Annual NOEE Convention\n\nJoin more than two thousand elementary school teachers and administrators for the annual convention of the National Organization for Elementary Educators (NOEE) in Seattle, Washington, April 4-7. Highlights include:\n\n• Keynote address—“Kids These Days” by Amy Fadden, host of the nationally syndicated children’s television program Wake Up and Sing\n• Video game fair—Meet representatives from Academic Gamer and Learning Curve Games to discuss how to use educational video and computer games in your classroom.\n• Interview sessions—Bring your résumé and meet with human resources personnel from school districts throughout the country.\n\nAll convention activities will take place at the historic Montrose Hotel, which also offers easy access to restaurants, shopping, and museums.\n\nRegister for the conference or schedule a job interview today! Visit the NOEE Web site at www.noee.org."
+          },
+          "vi": "Hội nghị NOEE thường niên lần thứ 23\n\nHãy cùng hơn hai nghìn giáo viên và cán bộ quản lý trường tiểu học tham dự hội nghị thường niên của Tổ chức Quốc gia các Nhà giáo dục Tiểu học (NOEE) tại Seattle, Washington, ngày 4–7/4. Các điểm nổi bật gồm:\n\n• Bài phát biểu chính — “Kids These Days” (Trẻ em thời nay) của Amy Fadden, người dẫn chương trình truyền hình thiếu nhi phát sóng toàn quốc Wake Up and Sing.\n• Hội chợ trò chơi điện tử — Gặp đại diện của Academic Gamer và Learning Curve Games để trao đổi cách dùng trò chơi điện tử và trò chơi máy tính mang tính giáo dục trong lớp học.\n• Các buổi phỏng vấn — Mang theo hồ sơ xin việc và gặp nhân viên phòng nhân sự của các khu học chánh trên toàn quốc.\n\nMọi hoạt động của hội nghị sẽ diễn ra tại khách sạn lịch sử Montrose, nơi cũng thuận tiện đi đến nhà hàng, khu mua sắm và bảo tàng.\n\nHãy đăng ký dự hội nghị hoặc đặt lịch phỏng vấn xin việc ngay hôm nay! Truy cập trang web NOEE tại www.noee.org.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-05",
+          "no": 5,
+          "text": "What is indicated about Amy Fadden?",
+          "options": {
+            "A": "She is a former NOEE president.",
+            "B": "She will give a speech at the convention.",
+            "C": "She has been a teacher for 23 years.",
+            "D": "She has written several books for children."
+          },
+          "answer": "B",
+          "explain": "“Keynote address … by Amy Fadden” — bà sẽ có bài phát biểu chính tại hội nghị. Số 23 là số lần tổ chức hội nghị.",
+          "passage": {
+            "text": "23rd Annual NOEE Convention\n\nJoin more than two thousand elementary school teachers and administrators for the annual convention of the National Organization for Elementary Educators (NOEE) in Seattle, Washington, April 4-7. Highlights include:\n\n• Keynote address—“Kids These Days” by Amy Fadden, host of the nationally syndicated children’s television program Wake Up and Sing\n• Video game fair—Meet representatives from Academic Gamer and Learning Curve Games to discuss how to use educational video and computer games in your classroom.\n• Interview sessions—Bring your résumé and meet with human resources personnel from school districts throughout the country.\n\nAll convention activities will take place at the historic Montrose Hotel, which also offers easy access to restaurants, shopping, and museums.\n\nRegister for the conference or schedule a job interview today! Visit the NOEE Web site at www.noee.org."
+          },
+          "vi": "Hội nghị NOEE thường niên lần thứ 23\n\nHãy cùng hơn hai nghìn giáo viên và cán bộ quản lý trường tiểu học tham dự hội nghị thường niên của Tổ chức Quốc gia các Nhà giáo dục Tiểu học (NOEE) tại Seattle, Washington, ngày 4–7/4. Các điểm nổi bật gồm:\n\n• Bài phát biểu chính — “Kids These Days” (Trẻ em thời nay) của Amy Fadden, người dẫn chương trình truyền hình thiếu nhi phát sóng toàn quốc Wake Up and Sing.\n• Hội chợ trò chơi điện tử — Gặp đại diện của Academic Gamer và Learning Curve Games để trao đổi cách dùng trò chơi điện tử và trò chơi máy tính mang tính giáo dục trong lớp học.\n• Các buổi phỏng vấn — Mang theo hồ sơ xin việc và gặp nhân viên phòng nhân sự của các khu học chánh trên toàn quốc.\n\nMọi hoạt động của hội nghị sẽ diễn ra tại khách sạn lịch sử Montrose, nơi cũng thuận tiện đi đến nhà hàng, khu mua sắm và bảo tàng.\n\nHãy đăng ký dự hội nghị hoặc đặt lịch phỏng vấn xin việc ngay hôm nay! Truy cập trang web NOEE tại www.noee.org.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: Marsdin shipping policy",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d20-read-06",
+          "no": 6,
+          "text": "According to the policy, why has JMO Transport been selected as the delivery service?",
+          "options": {
+            "A": "It charges low fees.",
+            "B": "It ships to locations overseas.",
+            "C": "It delivers products with care.",
+            "D": "It offers delivery on Sunday."
+          },
+          "answer": "C",
+          "explain": "JMO Transport “provides special handling for fragile and bulk items to ensure that orders are delivered in perfect condition” — giao hàng cẩn thận.",
+          "passage": {
+            "text": "Marsdin Medical Equipment\nShipping Policy\n\nUnless otherwise specified, orders are sent from our Louisville warehouse by standard ground shipping via JMO Transport, which provides special handling for fragile and bulk items to ensure that orders are delivered in perfect condition. Please allow up to five business days for in-state delivery and ten for deliveries outside Kentucky. If you require expedited service, select Express or Next Day handling in your online order form. Express orders will arrive within two to four business days. For guaranteed arrival of orders by the following business day, choose Next Day and submit your order by 5:00 p.m. Additional fees for expedited service will be charged to your account. For an estimate of the amount, call the shipping department at 502-555-0171, Monday–Friday, 8:00 A.M.–6:00 P.M. Note that orders may be delayed if payment cannot be processed, the shipping address is incorrect, or the item is temporarily out of stock. Should your order be delayed, our customer service department will contact you by phone or e-mail."
+          },
+          "vi": "Thiết bị Y tế Marsdin\nChính sách vận chuyển\n\nTrừ khi có yêu cầu khác, đơn hàng được gửi từ kho ở Louisville bằng hình thức vận chuyển đường bộ tiêu chuẩn qua JMO Transport — đơn vị có cách xử lý đặc biệt cho hàng dễ vỡ và hàng cồng kềnh để đơn hàng đến nơi trong tình trạng hoàn hảo. Vui lòng chờ tối đa năm ngày làm việc với đơn giao trong bang và mười ngày với đơn giao ngoài bang Kentucky. Nếu cần giao nhanh, hãy chọn Express hoặc Next Day trong mẫu đặt hàng trực tuyến. Đơn Express sẽ đến trong vòng hai đến bốn ngày làm việc. Để chắc chắn nhận hàng vào ngày làm việc kế tiếp, hãy chọn Next Day và gửi đơn trước 5 giờ chiều. Phí giao nhanh sẽ được tính thêm vào tài khoản của bạn. Để biết ước tính số tiền, hãy gọi bộ phận vận chuyển theo số 502-555-0171, thứ Hai–thứ Sáu, 8 giờ sáng – 6 giờ chiều. Lưu ý rằng đơn hàng có thể bị chậm nếu không xử lý được thanh toán, địa chỉ giao hàng sai, hoặc sản phẩm tạm hết hàng. Nếu đơn hàng bị chậm, bộ phận chăm sóc khách hàng sẽ liên hệ bạn qua điện thoại hoặc e-mail.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-07",
+          "no": 7,
+          "text": "What is true about Express delivery?",
+          "options": {
+            "A": "It requires the customer’s signature.",
+            "B": "It ensures the order is received by 5:00 P.M.",
+            "C": "It costs more than Next Day shipping.",
+            "D": "It takes up to four business days."
+          },
+          "answer": "D",
+          "explain": "“Express orders will arrive within two to four business days” — tối đa bốn ngày làm việc. Mốc 5 giờ chiều là hạn đặt đơn Next Day.",
+          "passage": {
+            "text": "Marsdin Medical Equipment\nShipping Policy\n\nUnless otherwise specified, orders are sent from our Louisville warehouse by standard ground shipping via JMO Transport, which provides special handling for fragile and bulk items to ensure that orders are delivered in perfect condition. Please allow up to five business days for in-state delivery and ten for deliveries outside Kentucky. If you require expedited service, select Express or Next Day handling in your online order form. Express orders will arrive within two to four business days. For guaranteed arrival of orders by the following business day, choose Next Day and submit your order by 5:00 p.m. Additional fees for expedited service will be charged to your account. For an estimate of the amount, call the shipping department at 502-555-0171, Monday–Friday, 8:00 A.M.–6:00 P.M. Note that orders may be delayed if payment cannot be processed, the shipping address is incorrect, or the item is temporarily out of stock. Should your order be delayed, our customer service department will contact you by phone or e-mail."
+          },
+          "vi": "Thiết bị Y tế Marsdin\nChính sách vận chuyển\n\nTrừ khi có yêu cầu khác, đơn hàng được gửi từ kho ở Louisville bằng hình thức vận chuyển đường bộ tiêu chuẩn qua JMO Transport — đơn vị có cách xử lý đặc biệt cho hàng dễ vỡ và hàng cồng kềnh để đơn hàng đến nơi trong tình trạng hoàn hảo. Vui lòng chờ tối đa năm ngày làm việc với đơn giao trong bang và mười ngày với đơn giao ngoài bang Kentucky. Nếu cần giao nhanh, hãy chọn Express hoặc Next Day trong mẫu đặt hàng trực tuyến. Đơn Express sẽ đến trong vòng hai đến bốn ngày làm việc. Để chắc chắn nhận hàng vào ngày làm việc kế tiếp, hãy chọn Next Day và gửi đơn trước 5 giờ chiều. Phí giao nhanh sẽ được tính thêm vào tài khoản của bạn. Để biết ước tính số tiền, hãy gọi bộ phận vận chuyển theo số 502-555-0171, thứ Hai–thứ Sáu, 8 giờ sáng – 6 giờ chiều. Lưu ý rằng đơn hàng có thể bị chậm nếu không xử lý được thanh toán, địa chỉ giao hàng sai, hoặc sản phẩm tạm hết hàng. Nếu đơn hàng bị chậm, bộ phận chăm sóc khách hàng sẽ liên hệ bạn qua điện thoại hoặc e-mail.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-08",
+          "no": 8,
+          "text": "According to the policy, why might a delivery be late?",
+          "options": {
+            "A": "An account number was not provided.",
+            "B": "The order contains especially large items.",
+            "C": "An item needs special packaging.",
+            "D": "There is an error in the recipient’s address."
+          },
+          "answer": "D",
+          "explain": "“Orders may be delayed if … the shipping address is incorrect” — địa chỉ người nhận bị sai.",
+          "passage": {
+            "text": "Marsdin Medical Equipment\nShipping Policy\n\nUnless otherwise specified, orders are sent from our Louisville warehouse by standard ground shipping via JMO Transport, which provides special handling for fragile and bulk items to ensure that orders are delivered in perfect condition. Please allow up to five business days for in-state delivery and ten for deliveries outside Kentucky. If you require expedited service, select Express or Next Day handling in your online order form. Express orders will arrive within two to four business days. For guaranteed arrival of orders by the following business day, choose Next Day and submit your order by 5:00 p.m. Additional fees for expedited service will be charged to your account. For an estimate of the amount, call the shipping department at 502-555-0171, Monday–Friday, 8:00 A.M.–6:00 P.M. Note that orders may be delayed if payment cannot be processed, the shipping address is incorrect, or the item is temporarily out of stock. Should your order be delayed, our customer service department will contact you by phone or e-mail."
+          },
+          "vi": "Thiết bị Y tế Marsdin\nChính sách vận chuyển\n\nTrừ khi có yêu cầu khác, đơn hàng được gửi từ kho ở Louisville bằng hình thức vận chuyển đường bộ tiêu chuẩn qua JMO Transport — đơn vị có cách xử lý đặc biệt cho hàng dễ vỡ và hàng cồng kềnh để đơn hàng đến nơi trong tình trạng hoàn hảo. Vui lòng chờ tối đa năm ngày làm việc với đơn giao trong bang và mười ngày với đơn giao ngoài bang Kentucky. Nếu cần giao nhanh, hãy chọn Express hoặc Next Day trong mẫu đặt hàng trực tuyến. Đơn Express sẽ đến trong vòng hai đến bốn ngày làm việc. Để chắc chắn nhận hàng vào ngày làm việc kế tiếp, hãy chọn Next Day và gửi đơn trước 5 giờ chiều. Phí giao nhanh sẽ được tính thêm vào tài khoản của bạn. Để biết ước tính số tiền, hãy gọi bộ phận vận chuyển theo số 502-555-0171, thứ Hai–thứ Sáu, 8 giờ sáng – 6 giờ chiều. Lưu ý rằng đơn hàng có thể bị chậm nếu không xử lý được thanh toán, địa chỉ giao hàng sai, hoặc sản phẩm tạm hết hàng. Nếu đơn hàng bị chậm, bộ phận chăm sóc khách hàng sẽ liên hệ bạn qua điện thoại hoặc e-mail.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: submission guidelines",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d20-read-09",
+          "no": 9,
+          "text": "What is suggested about the magazine?",
+          "options": {
+            "A": "It is hiring for editorial positions.",
+            "B": "It sells more copies than its competitors.",
+            "C": "It is published quarterly.",
+            "D": "It was founded six months ago."
+          },
+          "answer": "B",
+          "explain": "“The most widely circulated literary magazine in Canada” — phát hành rộng rãi nhất, tức bán được nhiều bản hơn các tạp chí khác. “Six months” là thời gian chờ thông báo kết quả.",
+          "passage": {
+            "text": "Submission Guidelines\n\nMaple Leaf Literary Journal, the most widely circulated literary magazine in Canada, has published fiction by some of the most well-known writers in the country. We are now inviting new writers to submit short stories for publication.\n\nSubmitted stories should be carefully proofread and should conform to our editing criteria. These can be accessed at www.mapleleaflj.ca/submissions/stylesheet.\n\nSubmissions are accepted in the form of e-mail attachments only, sent to our Editorial Office at submissions@mapleleaflj.org.ca. Please include a cover letter and a brief summary of the piece (listing major events in the story’s plot, main characters’ names, etc.). When the editors have finished reviewing the submission, they will notify you as to whether it will be published. Notification can be expected within six months of submission. Please do not contact the Editorial Office for review results.\n\nWriters whose stories are published will be compensated at the rate of $20 for each page as the story appears in the final print layout of the magazine."
+          },
+          "vi": "Hướng dẫn gửi bài\n\nMaple Leaf Literary Journal, tạp chí văn học được phát hành rộng rãi nhất Canada, đã đăng truyện của một số nhà văn nổi tiếng nhất nước. Hiện chúng tôi mời các cây bút mới gửi truyện ngắn để đăng.\n\nTruyện gửi đến cần được soát lỗi kỹ và tuân theo tiêu chí biên tập của chúng tôi. Có thể xem các tiêu chí này tại www.mapleleaflj.ca/submissions/stylesheet.\n\nChúng tôi chỉ nhận bài dưới dạng tệp đính kèm e-mail, gửi tới Ban Biên tập tại submissions@mapleleaflj.org.ca. Vui lòng gửi kèm thư giới thiệu và bản tóm tắt ngắn của tác phẩm (liệt kê các sự kiện chính trong cốt truyện, tên các nhân vật chính, v.v.). Khi ban biên tập xem xét xong, họ sẽ báo cho bạn biết tác phẩm có được đăng hay không. Thông báo sẽ đến trong vòng sáu tháng kể từ ngày gửi. Vui lòng không liên hệ Ban Biên tập để hỏi kết quả.\n\nTác giả có truyện được đăng sẽ được trả 20 đô la cho mỗi trang theo bố cục in cuối cùng của tạp chí.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-10",
+          "no": 10,
+          "text": "What should accompany each submission?",
+          "options": {
+            "A": "Proofreading guidelines",
+            "B": "A brief biography of the author",
+            "C": "A summary of the story",
+            "D": "Copies of review results"
+          },
+          "answer": "C",
+          "explain": "“Please include a cover letter and a brief summary of the piece” — gửi kèm bản tóm tắt truyện.",
+          "passage": {
+            "text": "Submission Guidelines\n\nMaple Leaf Literary Journal, the most widely circulated literary magazine in Canada, has published fiction by some of the most well-known writers in the country. We are now inviting new writers to submit short stories for publication.\n\nSubmitted stories should be carefully proofread and should conform to our editing criteria. These can be accessed at www.mapleleaflj.ca/submissions/stylesheet.\n\nSubmissions are accepted in the form of e-mail attachments only, sent to our Editorial Office at submissions@mapleleaflj.org.ca. Please include a cover letter and a brief summary of the piece (listing major events in the story’s plot, main characters’ names, etc.). When the editors have finished reviewing the submission, they will notify you as to whether it will be published. Notification can be expected within six months of submission. Please do not contact the Editorial Office for review results.\n\nWriters whose stories are published will be compensated at the rate of $20 for each page as the story appears in the final print layout of the magazine."
+          },
+          "vi": "Hướng dẫn gửi bài\n\nMaple Leaf Literary Journal, tạp chí văn học được phát hành rộng rãi nhất Canada, đã đăng truyện của một số nhà văn nổi tiếng nhất nước. Hiện chúng tôi mời các cây bút mới gửi truyện ngắn để đăng.\n\nTruyện gửi đến cần được soát lỗi kỹ và tuân theo tiêu chí biên tập của chúng tôi. Có thể xem các tiêu chí này tại www.mapleleaflj.ca/submissions/stylesheet.\n\nChúng tôi chỉ nhận bài dưới dạng tệp đính kèm e-mail, gửi tới Ban Biên tập tại submissions@mapleleaflj.org.ca. Vui lòng gửi kèm thư giới thiệu và bản tóm tắt ngắn của tác phẩm (liệt kê các sự kiện chính trong cốt truyện, tên các nhân vật chính, v.v.). Khi ban biên tập xem xét xong, họ sẽ báo cho bạn biết tác phẩm có được đăng hay không. Thông báo sẽ đến trong vòng sáu tháng kể từ ngày gửi. Vui lòng không liên hệ Ban Biên tập để hỏi kết quả.\n\nTác giả có truyện được đăng sẽ được trả 20 đô la cho mỗi trang theo bố cục in cuối cùng của tạp chí.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-11",
+          "no": 11,
+          "text": "What will authors receive if their pieces are chosen?",
+          "options": {
+            "A": "Payment according to story length",
+            "B": "A one-year subscription to the magazine",
+            "C": "A free copy of the next magazine issue",
+            "D": "Reimbursement for postage costs"
+          },
+          "answer": "A",
+          "explain": "Tác giả được trả “$20 for each page” — tiền nhuận bút tính theo số trang, tức theo độ dài truyện.",
+          "passage": {
+            "text": "Submission Guidelines\n\nMaple Leaf Literary Journal, the most widely circulated literary magazine in Canada, has published fiction by some of the most well-known writers in the country. We are now inviting new writers to submit short stories for publication.\n\nSubmitted stories should be carefully proofread and should conform to our editing criteria. These can be accessed at www.mapleleaflj.ca/submissions/stylesheet.\n\nSubmissions are accepted in the form of e-mail attachments only, sent to our Editorial Office at submissions@mapleleaflj.org.ca. Please include a cover letter and a brief summary of the piece (listing major events in the story’s plot, main characters’ names, etc.). When the editors have finished reviewing the submission, they will notify you as to whether it will be published. Notification can be expected within six months of submission. Please do not contact the Editorial Office for review results.\n\nWriters whose stories are published will be compensated at the rate of $20 for each page as the story appears in the final print layout of the magazine."
+          },
+          "vi": "Hướng dẫn gửi bài\n\nMaple Leaf Literary Journal, tạp chí văn học được phát hành rộng rãi nhất Canada, đã đăng truyện của một số nhà văn nổi tiếng nhất nước. Hiện chúng tôi mời các cây bút mới gửi truyện ngắn để đăng.\n\nTruyện gửi đến cần được soát lỗi kỹ và tuân theo tiêu chí biên tập của chúng tôi. Có thể xem các tiêu chí này tại www.mapleleaflj.ca/submissions/stylesheet.\n\nChúng tôi chỉ nhận bài dưới dạng tệp đính kèm e-mail, gửi tới Ban Biên tập tại submissions@mapleleaflj.org.ca. Vui lòng gửi kèm thư giới thiệu và bản tóm tắt ngắn của tác phẩm (liệt kê các sự kiện chính trong cốt truyện, tên các nhân vật chính, v.v.). Khi ban biên tập xem xét xong, họ sẽ báo cho bạn biết tác phẩm có được đăng hay không. Thông báo sẽ đến trong vòng sáu tháng kể từ ngày gửi. Vui lòng không liên hệ Ban Biên tập để hỏi kết quả.\n\nTác giả có truyện được đăng sẽ được trả 20 đô la cho mỗi trang theo bố cục in cuối cùng của tạp chí.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: Demy NX drill",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d20-read-12",
+          "no": 12,
+          "text": "Where would the information most likely be found?",
+          "options": {
+            "A": "In an advertisement for a Demy product",
+            "B": "In an instruction manual for a power tool",
+            "C": "In a book on home improvement techniques",
+            "D": "In a review of popular brands of tools"
+          },
+          "answer": "B",
+          "explain": "Đoạn văn có số trang (p. 4), dẫn sang “page 7 for a detailed diagram” và giải thích “basic guidelines for operating this … power tool” — đây là sách hướng dẫn sử dụng.",
+          "passage": {
+            "text": "Demy NX—Getting Started   p. 4\n\nCongratulations on purchasing a Demy NX Cordless Electric Drill! The following pages will explain the basic guidelines for operating this state-of-the-art power tool.\n\nBatteries\nYour Demy NX Cordless Electric Drill is powered by two Demy rechargeable 18-volt batteries (included in packaging). These are specifically designed for compatibility with your NX Cordless Electric Drill and with the Demy 18-Volt Battery Charger (also included). Before using the drill for the first time, charge the batteries in the charger for at least six hours. Then insert them into the drill’s battery compartment (see page 7 for a detailed diagram).\n\nBecause your Demy 18-Volt Battery Charger makes use of the latest in battery charging technology, you should leave your batteries in the charger indefinitely between uses, thus ensuring that your Demy NX Cordless Electric Drill is ready to use at a moment’s notice. The average life of Demy rechargeable 18-volt batteries varies depending on use. To avoid possible damage to your charger or drill, use only Demy brand batteries."
+          },
+          "vi": "Demy NX — Bắt đầu sử dụng   trang 4\n\nChúc mừng bạn đã mua máy khoan điện không dây Demy NX! Các trang sau sẽ giải thích hướng dẫn cơ bản để vận hành dụng cụ điện hiện đại này.\n\nPin\nMáy khoan điện không dây Demy NX của bạn chạy bằng hai pin sạc Demy 18 vôn (có sẵn trong hộp). Pin được thiết kế riêng để tương thích với máy khoan NX và với bộ sạc pin Demy 18 vôn (cũng có trong hộp). Trước khi dùng máy khoan lần đầu, hãy sạc pin trong bộ sạc ít nhất sáu giờ. Sau đó lắp pin vào ngăn pin của máy khoan (xem sơ đồ chi tiết ở trang 7).\n\nVì bộ sạc pin Demy 18 vôn dùng công nghệ sạc pin mới nhất, bạn nên để pin trong bộ sạc giữa các lần sử dụng mà không cần giới hạn thời gian, nhờ đó máy khoan luôn sẵn sàng dùng ngay. Tuổi thọ trung bình của pin sạc Demy 18 vôn thay đổi tùy theo cách sử dụng. Để tránh làm hỏng bộ sạc hoặc máy khoan, chỉ dùng pin chính hãng Demy.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-13",
+          "no": 13,
+          "text": "What is indicated about the batteries?",
+          "options": {
+            "A": "They should be charged every two weeks.",
+            "B": "They were charged at the factory.",
+            "C": "They are covered by a limited warranty.",
+            "D": "They were designed for use with the product."
+          },
+          "answer": "D",
+          "explain": "“These are specifically designed for compatibility with your NX Cordless Electric Drill” — pin được thiết kế để dùng với sản phẩm này. Bài còn yêu cầu sạc trước khi dùng lần đầu, nên B sai.",
+          "passage": {
+            "text": "Demy NX—Getting Started   p. 4\n\nCongratulations on purchasing a Demy NX Cordless Electric Drill! The following pages will explain the basic guidelines for operating this state-of-the-art power tool.\n\nBatteries\nYour Demy NX Cordless Electric Drill is powered by two Demy rechargeable 18-volt batteries (included in packaging). These are specifically designed for compatibility with your NX Cordless Electric Drill and with the Demy 18-Volt Battery Charger (also included). Before using the drill for the first time, charge the batteries in the charger for at least six hours. Then insert them into the drill’s battery compartment (see page 7 for a detailed diagram).\n\nBecause your Demy 18-Volt Battery Charger makes use of the latest in battery charging technology, you should leave your batteries in the charger indefinitely between uses, thus ensuring that your Demy NX Cordless Electric Drill is ready to use at a moment’s notice. The average life of Demy rechargeable 18-volt batteries varies depending on use. To avoid possible damage to your charger or drill, use only Demy brand batteries."
+          },
+          "vi": "Demy NX — Bắt đầu sử dụng   trang 4\n\nChúc mừng bạn đã mua máy khoan điện không dây Demy NX! Các trang sau sẽ giải thích hướng dẫn cơ bản để vận hành dụng cụ điện hiện đại này.\n\nPin\nMáy khoan điện không dây Demy NX của bạn chạy bằng hai pin sạc Demy 18 vôn (có sẵn trong hộp). Pin được thiết kế riêng để tương thích với máy khoan NX và với bộ sạc pin Demy 18 vôn (cũng có trong hộp). Trước khi dùng máy khoan lần đầu, hãy sạc pin trong bộ sạc ít nhất sáu giờ. Sau đó lắp pin vào ngăn pin của máy khoan (xem sơ đồ chi tiết ở trang 7).\n\nVì bộ sạc pin Demy 18 vôn dùng công nghệ sạc pin mới nhất, bạn nên để pin trong bộ sạc giữa các lần sử dụng mà không cần giới hạn thời gian, nhờ đó máy khoan luôn sẵn sàng dùng ngay. Tuổi thọ trung bình của pin sạc Demy 18 vôn thay đổi tùy theo cách sử dụng. Để tránh làm hỏng bộ sạc hoặc máy khoan, chỉ dùng pin chính hãng Demy.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-14",
+          "no": 14,
+          "text": "According to the information, where should the batteries be stored?",
+          "options": {
+            "A": "In an air-conditioned location",
+            "B": "Inside the battery charger",
+            "C": "Inside the power tool",
+            "D": "In a protective case"
+          },
+          "answer": "B",
+          "explain": "“You should leave your batteries in the charger indefinitely between uses” — cất pin trong bộ sạc.",
+          "passage": {
+            "text": "Demy NX—Getting Started   p. 4\n\nCongratulations on purchasing a Demy NX Cordless Electric Drill! The following pages will explain the basic guidelines for operating this state-of-the-art power tool.\n\nBatteries\nYour Demy NX Cordless Electric Drill is powered by two Demy rechargeable 18-volt batteries (included in packaging). These are specifically designed for compatibility with your NX Cordless Electric Drill and with the Demy 18-Volt Battery Charger (also included). Before using the drill for the first time, charge the batteries in the charger for at least six hours. Then insert them into the drill’s battery compartment (see page 7 for a detailed diagram).\n\nBecause your Demy 18-Volt Battery Charger makes use of the latest in battery charging technology, you should leave your batteries in the charger indefinitely between uses, thus ensuring that your Demy NX Cordless Electric Drill is ready to use at a moment’s notice. The average life of Demy rechargeable 18-volt batteries varies depending on use. To avoid possible damage to your charger or drill, use only Demy brand batteries."
+          },
+          "vi": "Demy NX — Bắt đầu sử dụng   trang 4\n\nChúc mừng bạn đã mua máy khoan điện không dây Demy NX! Các trang sau sẽ giải thích hướng dẫn cơ bản để vận hành dụng cụ điện hiện đại này.\n\nPin\nMáy khoan điện không dây Demy NX của bạn chạy bằng hai pin sạc Demy 18 vôn (có sẵn trong hộp). Pin được thiết kế riêng để tương thích với máy khoan NX và với bộ sạc pin Demy 18 vôn (cũng có trong hộp). Trước khi dùng máy khoan lần đầu, hãy sạc pin trong bộ sạc ít nhất sáu giờ. Sau đó lắp pin vào ngăn pin của máy khoan (xem sơ đồ chi tiết ở trang 7).\n\nVì bộ sạc pin Demy 18 vôn dùng công nghệ sạc pin mới nhất, bạn nên để pin trong bộ sạc giữa các lần sử dụng mà không cần giới hạn thời gian, nhờ đó máy khoan luôn sẵn sàng dùng ngay. Tuổi thọ trung bình của pin sạc Demy 18 vôn thay đổi tùy theo cách sử dụng. Để tránh làm hỏng bộ sạc hoặc máy khoan, chỉ dùng pin chính hãng Demy.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-15",
+          "no": 15,
+          "text": "What does the information warn against?",
+          "options": {
+            "A": "Using a battery with a low charge",
+            "B": "Recharging a battery more than once in a two-week period",
+            "C": "Using batteries made by other manufacturers",
+            "D": "Opening the charger before the batteries are fully charged"
+          },
+          "answer": "C",
+          "explain": "“To avoid possible damage to your charger or drill, use only Demy brand batteries” — cảnh báo không dùng pin của hãng khác.",
+          "passage": {
+            "text": "Demy NX—Getting Started   p. 4\n\nCongratulations on purchasing a Demy NX Cordless Electric Drill! The following pages will explain the basic guidelines for operating this state-of-the-art power tool.\n\nBatteries\nYour Demy NX Cordless Electric Drill is powered by two Demy rechargeable 18-volt batteries (included in packaging). These are specifically designed for compatibility with your NX Cordless Electric Drill and with the Demy 18-Volt Battery Charger (also included). Before using the drill for the first time, charge the batteries in the charger for at least six hours. Then insert them into the drill’s battery compartment (see page 7 for a detailed diagram).\n\nBecause your Demy 18-Volt Battery Charger makes use of the latest in battery charging technology, you should leave your batteries in the charger indefinitely between uses, thus ensuring that your Demy NX Cordless Electric Drill is ready to use at a moment’s notice. The average life of Demy rechargeable 18-volt batteries varies depending on use. To avoid possible damage to your charger or drill, use only Demy brand batteries."
+          },
+          "vi": "Demy NX — Bắt đầu sử dụng   trang 4\n\nChúc mừng bạn đã mua máy khoan điện không dây Demy NX! Các trang sau sẽ giải thích hướng dẫn cơ bản để vận hành dụng cụ điện hiện đại này.\n\nPin\nMáy khoan điện không dây Demy NX của bạn chạy bằng hai pin sạc Demy 18 vôn (có sẵn trong hộp). Pin được thiết kế riêng để tương thích với máy khoan NX và với bộ sạc pin Demy 18 vôn (cũng có trong hộp). Trước khi dùng máy khoan lần đầu, hãy sạc pin trong bộ sạc ít nhất sáu giờ. Sau đó lắp pin vào ngăn pin của máy khoan (xem sơ đồ chi tiết ở trang 7).\n\nVì bộ sạc pin Demy 18 vôn dùng công nghệ sạc pin mới nhất, bạn nên để pin trong bộ sạc giữa các lần sử dụng mà không cần giới hạn thời gian, nhờ đó máy khoan luôn sẵn sàng dùng ngay. Tuổi thọ trung bình của pin sạc Demy 18 vôn thay đổi tùy theo cách sử dụng. Để tránh làm hỏng bộ sạc hoặc máy khoan, chỉ dùng pin chính hãng Demy.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 6: Hinkle Industries",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D11 S2 UNIT6.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d20-read-16",
+          "no": 16,
+          "text": "Why will new technology be used at Hinkle Industries?",
+          "options": {
+            "A": "To improve a manufacturing process",
+            "B": "To satisfy new government regulations",
+            "C": "To respond to customer complaints",
+            "D": "To enhance the flavor of a product"
+          },
+          "answer": "A",
+          "explain": "Công ty “is overhauling the manufacturing process”; thiết bị mới giúp sản xuất “faster and more efficiently” — cải thiện quy trình sản xuất. Hương vị được giữ nguyên, nên D sai.",
+          "passage": {
+            "text": "Hinkle Industries\n\nHinkle Industries, one of the world’s leading food companies, is overhauling the manufacturing process it uses to produce its soft drinks. Sophisticated new equipment for bottling and labeling beverages will enable the company to produce soft drinks faster and more efficiently. The company also has invested in a new carbonation system that will significantly reduce the amount of waste material that is generated during production.\n\nAlthough the company has shown a willingness to embrace cutting-edge technology, it has not done so lightly. The quality assurance department conducted a series of rigorous trials using the new machines, and production was moved to the new machines only after strict quality-control standards had been met. According to Inga Hochstein, the company’s assistant director of operations, care was taken to ensure that customers would not notice any difference in taste. “It’s all very well if a new method is more efficient,” remarked Ms. Hochstein, “but it is hardly a good idea if it affects the customer’s enjoyment of the final product.”\n\nThe changes at Hinkle are expected to bolster company growth over the next year. Although the European market still accounts for the biggest share (60 percent) of the company’s sales, Hinkle has seen its markets in Asia and North America increase dramatically over the last two years. Moreover, with new markets expected to develop in South America and Africa over the next several years, industry analysts believe Hinkle Industries will match its stated goal of a 10 percent annual increase in worldwide sales."
+          },
+          "vi": "Hinkle Industries\n\nHinkle Industries, một trong những công ty thực phẩm hàng đầu thế giới, đang cải tổ toàn bộ quy trình sản xuất nước ngọt. Thiết bị đóng chai và dán nhãn hiện đại mới sẽ giúp công ty sản xuất nước ngọt nhanh hơn và hiệu quả hơn. Công ty cũng đã đầu tư vào một hệ thống tạo ga mới, giúp giảm đáng kể lượng chất thải phát sinh trong quá trình sản xuất.\n\nDù công ty sẵn sàng đón nhận công nghệ tiên tiến, họ không làm điều đó một cách xem nhẹ. Bộ phận đảm bảo chất lượng đã tiến hành một loạt thử nghiệm nghiêm ngặt với máy móc mới, và việc sản xuất chỉ được chuyển sang máy mới sau khi đạt các tiêu chuẩn kiểm soát chất lượng chặt chẽ. Theo bà Inga Hochstein, phó giám đốc vận hành của công ty, công ty đã cẩn thận để khách hàng không nhận ra bất kỳ khác biệt nào về hương vị. “Một phương pháp mới hiệu quả hơn thì rất tốt,” bà Hochstein nói, “nhưng sẽ chẳng phải ý hay nếu nó làm khách hàng kém thích sản phẩm cuối cùng.”\n\nNhững thay đổi ở Hinkle được kỳ vọng sẽ thúc đẩy công ty tăng trưởng trong năm tới. Dù thị trường châu Âu vẫn chiếm phần lớn nhất (60%) doanh số của công ty, các thị trường của Hinkle ở châu Á và Bắc Mỹ đã tăng mạnh trong hai năm qua. Hơn nữa, với các thị trường mới dự kiến phát triển ở Nam Mỹ và châu Phi trong vài năm tới, giới phân tích tin rằng Hinkle Industries sẽ đạt mục tiêu đã đề ra là tăng 10% doanh số toàn cầu mỗi năm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-17",
+          "no": 17,
+          "text": "The word “conducted” in paragraph 2, line 2, is closest in meaning to",
+          "options": {
+            "A": "shut down",
+            "B": "showed around",
+            "C": "carried out",
+            "D": "sent along"
+          },
+          "answer": "C",
+          "explain": "“Conducted a series of rigorous trials” = tiến hành một loạt thử nghiệm, nghĩa gần nhất là “carried out”.",
+          "passage": {
+            "text": "Hinkle Industries\n\nHinkle Industries, one of the world’s leading food companies, is overhauling the manufacturing process it uses to produce its soft drinks. Sophisticated new equipment for bottling and labeling beverages will enable the company to produce soft drinks faster and more efficiently. The company also has invested in a new carbonation system that will significantly reduce the amount of waste material that is generated during production.\n\nAlthough the company has shown a willingness to embrace cutting-edge technology, it has not done so lightly. The quality assurance department conducted a series of rigorous trials using the new machines, and production was moved to the new machines only after strict quality-control standards had been met. According to Inga Hochstein, the company’s assistant director of operations, care was taken to ensure that customers would not notice any difference in taste. “It’s all very well if a new method is more efficient,” remarked Ms. Hochstein, “but it is hardly a good idea if it affects the customer’s enjoyment of the final product.”\n\nThe changes at Hinkle are expected to bolster company growth over the next year. Although the European market still accounts for the biggest share (60 percent) of the company’s sales, Hinkle has seen its markets in Asia and North America increase dramatically over the last two years. Moreover, with new markets expected to develop in South America and Africa over the next several years, industry analysts believe Hinkle Industries will match its stated goal of a 10 percent annual increase in worldwide sales."
+          },
+          "vi": "Hinkle Industries\n\nHinkle Industries, một trong những công ty thực phẩm hàng đầu thế giới, đang cải tổ toàn bộ quy trình sản xuất nước ngọt. Thiết bị đóng chai và dán nhãn hiện đại mới sẽ giúp công ty sản xuất nước ngọt nhanh hơn và hiệu quả hơn. Công ty cũng đã đầu tư vào một hệ thống tạo ga mới, giúp giảm đáng kể lượng chất thải phát sinh trong quá trình sản xuất.\n\nDù công ty sẵn sàng đón nhận công nghệ tiên tiến, họ không làm điều đó một cách xem nhẹ. Bộ phận đảm bảo chất lượng đã tiến hành một loạt thử nghiệm nghiêm ngặt với máy móc mới, và việc sản xuất chỉ được chuyển sang máy mới sau khi đạt các tiêu chuẩn kiểm soát chất lượng chặt chẽ. Theo bà Inga Hochstein, phó giám đốc vận hành của công ty, công ty đã cẩn thận để khách hàng không nhận ra bất kỳ khác biệt nào về hương vị. “Một phương pháp mới hiệu quả hơn thì rất tốt,” bà Hochstein nói, “nhưng sẽ chẳng phải ý hay nếu nó làm khách hàng kém thích sản phẩm cuối cùng.”\n\nNhững thay đổi ở Hinkle được kỳ vọng sẽ thúc đẩy công ty tăng trưởng trong năm tới. Dù thị trường châu Âu vẫn chiếm phần lớn nhất (60%) doanh số của công ty, các thị trường của Hinkle ở châu Á và Bắc Mỹ đã tăng mạnh trong hai năm qua. Hơn nữa, với các thị trường mới dự kiến phát triển ở Nam Mỹ và châu Phi trong vài năm tới, giới phân tích tin rằng Hinkle Industries sẽ đạt mục tiêu đã đề ra là tăng 10% doanh số toàn cầu mỗi năm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-18",
+          "no": 18,
+          "text": "In what region is the company’s largest market?",
+          "options": {
+            "A": "Asia",
+            "B": "Europe",
+            "C": "South America",
+            "D": "Africa"
+          },
+          "answer": "B",
+          "explain": "“The European market still accounts for the biggest share (60 percent) of the company’s sales” — thị trường lớn nhất là châu Âu.",
+          "passage": {
+            "text": "Hinkle Industries\n\nHinkle Industries, one of the world’s leading food companies, is overhauling the manufacturing process it uses to produce its soft drinks. Sophisticated new equipment for bottling and labeling beverages will enable the company to produce soft drinks faster and more efficiently. The company also has invested in a new carbonation system that will significantly reduce the amount of waste material that is generated during production.\n\nAlthough the company has shown a willingness to embrace cutting-edge technology, it has not done so lightly. The quality assurance department conducted a series of rigorous trials using the new machines, and production was moved to the new machines only after strict quality-control standards had been met. According to Inga Hochstein, the company’s assistant director of operations, care was taken to ensure that customers would not notice any difference in taste. “It’s all very well if a new method is more efficient,” remarked Ms. Hochstein, “but it is hardly a good idea if it affects the customer’s enjoyment of the final product.”\n\nThe changes at Hinkle are expected to bolster company growth over the next year. Although the European market still accounts for the biggest share (60 percent) of the company’s sales, Hinkle has seen its markets in Asia and North America increase dramatically over the last two years. Moreover, with new markets expected to develop in South America and Africa over the next several years, industry analysts believe Hinkle Industries will match its stated goal of a 10 percent annual increase in worldwide sales."
+          },
+          "vi": "Hinkle Industries\n\nHinkle Industries, một trong những công ty thực phẩm hàng đầu thế giới, đang cải tổ toàn bộ quy trình sản xuất nước ngọt. Thiết bị đóng chai và dán nhãn hiện đại mới sẽ giúp công ty sản xuất nước ngọt nhanh hơn và hiệu quả hơn. Công ty cũng đã đầu tư vào một hệ thống tạo ga mới, giúp giảm đáng kể lượng chất thải phát sinh trong quá trình sản xuất.\n\nDù công ty sẵn sàng đón nhận công nghệ tiên tiến, họ không làm điều đó một cách xem nhẹ. Bộ phận đảm bảo chất lượng đã tiến hành một loạt thử nghiệm nghiêm ngặt với máy móc mới, và việc sản xuất chỉ được chuyển sang máy mới sau khi đạt các tiêu chuẩn kiểm soát chất lượng chặt chẽ. Theo bà Inga Hochstein, phó giám đốc vận hành của công ty, công ty đã cẩn thận để khách hàng không nhận ra bất kỳ khác biệt nào về hương vị. “Một phương pháp mới hiệu quả hơn thì rất tốt,” bà Hochstein nói, “nhưng sẽ chẳng phải ý hay nếu nó làm khách hàng kém thích sản phẩm cuối cùng.”\n\nNhững thay đổi ở Hinkle được kỳ vọng sẽ thúc đẩy công ty tăng trưởng trong năm tới. Dù thị trường châu Âu vẫn chiếm phần lớn nhất (60%) doanh số của công ty, các thị trường của Hinkle ở châu Á và Bắc Mỹ đã tăng mạnh trong hai năm qua. Hơn nữa, với các thị trường mới dự kiến phát triển ở Nam Mỹ và châu Phi trong vài năm tới, giới phân tích tin rằng Hinkle Industries sẽ đạt mục tiêu đã đề ra là tăng 10% doanh số toàn cầu mỗi năm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d20-read-19",
+          "no": 19,
+          "text": "By how much are the company’s overall sales expected to grow next year?",
+          "options": {
+            "A": "10 percent",
+            "B": "20 percent",
+            "C": "30 percent",
+            "D": "60 percent"
+          },
+          "answer": "A",
+          "explain": "Giới phân tích tin công ty đạt mục tiêu “a 10 percent annual increase in worldwide sales”. 60% là thị phần châu Âu.",
+          "passage": {
+            "text": "Hinkle Industries\n\nHinkle Industries, one of the world’s leading food companies, is overhauling the manufacturing process it uses to produce its soft drinks. Sophisticated new equipment for bottling and labeling beverages will enable the company to produce soft drinks faster and more efficiently. The company also has invested in a new carbonation system that will significantly reduce the amount of waste material that is generated during production.\n\nAlthough the company has shown a willingness to embrace cutting-edge technology, it has not done so lightly. The quality assurance department conducted a series of rigorous trials using the new machines, and production was moved to the new machines only after strict quality-control standards had been met. According to Inga Hochstein, the company’s assistant director of operations, care was taken to ensure that customers would not notice any difference in taste. “It’s all very well if a new method is more efficient,” remarked Ms. Hochstein, “but it is hardly a good idea if it affects the customer’s enjoyment of the final product.”\n\nThe changes at Hinkle are expected to bolster company growth over the next year. Although the European market still accounts for the biggest share (60 percent) of the company’s sales, Hinkle has seen its markets in Asia and North America increase dramatically over the last two years. Moreover, with new markets expected to develop in South America and Africa over the next several years, industry analysts believe Hinkle Industries will match its stated goal of a 10 percent annual increase in worldwide sales."
+          },
+          "vi": "Hinkle Industries\n\nHinkle Industries, một trong những công ty thực phẩm hàng đầu thế giới, đang cải tổ toàn bộ quy trình sản xuất nước ngọt. Thiết bị đóng chai và dán nhãn hiện đại mới sẽ giúp công ty sản xuất nước ngọt nhanh hơn và hiệu quả hơn. Công ty cũng đã đầu tư vào một hệ thống tạo ga mới, giúp giảm đáng kể lượng chất thải phát sinh trong quá trình sản xuất.\n\nDù công ty sẵn sàng đón nhận công nghệ tiên tiến, họ không làm điều đó một cách xem nhẹ. Bộ phận đảm bảo chất lượng đã tiến hành một loạt thử nghiệm nghiêm ngặt với máy móc mới, và việc sản xuất chỉ được chuyển sang máy mới sau khi đạt các tiêu chuẩn kiểm soát chất lượng chặt chẽ. Theo bà Inga Hochstein, phó giám đốc vận hành của công ty, công ty đã cẩn thận để khách hàng không nhận ra bất kỳ khác biệt nào về hương vị. “Một phương pháp mới hiệu quả hơn thì rất tốt,” bà Hochstein nói, “nhưng sẽ chẳng phải ý hay nếu nó làm khách hàng kém thích sản phẩm cuối cùng.”\n\nNhững thay đổi ở Hinkle được kỳ vọng sẽ thúc đẩy công ty tăng trưởng trong năm tới. Dù thị trường châu Âu vẫn chiếm phần lớn nhất (60%) doanh số của công ty, các thị trường của Hinkle ở châu Á và Bắc Mỹ đã tăng mạnh trong hai năm qua. Hơn nữa, với các thị trường mới dự kiến phát triển ở Nam Mỹ và châu Phi trong vài năm tới, giới phân tích tin rằng Hinkle Industries sẽ đạt mục tiêu đã đề ra là tăng 10% doanh số toàn cầu mỗi năm.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

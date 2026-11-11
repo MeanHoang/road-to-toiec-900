@@ -1,0 +1,1985 @@
+{
+  "collection": "listening",
+  "day": "day-20",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d20-t3-p1",
+      "code": "t3-p1",
+      "title": "Test 3 — Part 1",
+      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-t3-p1-01",
+          "no": 1,
+          "audio": "/assets/day-20/test-3/audio/01.mp3",
+          "image": "/assets/day-20/test-3/images/01.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "She's eating some desserts.",
+            "B": "She's cleaning the glass.",
+            "C": "She's baking some pastries.",
+            "D": "She's looking at a display."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p1-02",
+          "no": 2,
+          "audio": "/assets/day-20/test-3/audio/02.mp3",
+          "image": "/assets/day-20/test-3/images/02.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "The presenter is standing behind a podium.",
+            "B": "A meeting room is being set up.",
+            "C": "People are seated on both sides of the table.",
+            "D": "A man is passing out some documents."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p1-03",
+          "no": 3,
+          "audio": "/assets/day-20/test-3/audio/03.mp3",
+          "image": "/assets/day-20/test-3/images/03.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "A lamp has been placed on the table.",
+            "B": "A shelf extends from wall to wall.",
+            "C": "The curtains have been pulled open.",
+            "D": "Four chairs are stacked in the corner."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p1-04",
+          "no": 4,
+          "audio": "/assets/day-20/test-3/audio/04.mp3",
+          "image": "/assets/day-20/test-3/images/04.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "Some boxes are being labeled by the man.",
+            "B": "Goods are being loaded into a truck.",
+            "C": "A man is repairing some equipment.",
+            "D": "A warehouse worker is taking a break."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p1-05",
+          "no": 5,
+          "audio": "/assets/day-20/test-3/audio/05.mp3",
+          "image": "/assets/day-20/test-3/images/05.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "They're organizing the tools.",
+            "B": "They're putting on some vests.",
+            "C": "They're plugging in a laptop.",
+            "D": "They're wearing protective headgear."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p1-06",
+          "no": 6,
+          "audio": "/assets/day-20/test-3/audio/06.mp3",
+          "image": "/assets/day-20/test-3/images/06.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "The people are gazing at some screens.",
+            "B": "The man is printing some information.",
+            "C": "The woman is sitting next to the man.",
+            "D": "The people are drawing some graphs."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-t3-p2",
+      "code": "t3-p2",
+      "title": "Test 3 — Part 2",
+      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-t3-p2-07",
+          "no": 7,
+          "audio": "/assets/day-20/test-3/audio/07.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When are you coming to work tomorrow?",
+            "A": "Not until 9:15.",
+            "B": "Organizing my files.",
+            "C": "I don't mind if you join."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-08",
+          "no": 8,
+          "audio": "/assets/day-20/test-3/audio/08.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Did you get my email about the conference?",
+            "A": "The post office was closed.",
+            "B": "No, I've been away.",
+            "C": "I haven't seen him."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-09",
+          "no": 9,
+          "audio": "/assets/day-20/test-3/audio/09.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where should we send the limousine to pick up the clients?",
+            "A": "We'd better send it by express mail.",
+            "B": "I'll pick it up after work.",
+            "C": "To the Grill Plaza Hotel."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-10",
+          "no": 10,
+          "audio": "/assets/day-20/test-3/audio/10.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Can't you take an earlier train on Friday afternoon?",
+            "A": "Because it's scheduled for Friday.",
+            "B": "All staff have attended the training.",
+            "C": "I'll need to check when I can leave work."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-11",
+          "no": 11,
+          "audio": "/assets/day-20/test-3/audio/11.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Will Miss Dillinger give us more details about the company trip soon?",
+            "A": "It's still a long way off.",
+            "B": "Try your confirmation code.",
+            "C": "It was very generous of her."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-12",
+          "no": 12,
+          "audio": "/assets/day-20/test-3/audio/12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Do you think you can repair the copy machine or will we need to buy a new one?",
+            "A": "I'll call him.",
+            "B": "Yes, it was very affordable.",
+            "C": "I'm certain it can be fixed."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-13",
+          "no": 13,
+          "audio": "/assets/day-20/test-3/audio/13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How long would it take to get to the airport from here?",
+            "A": "Only half an hour by taxi.",
+            "B": "There's one every 15 minutes.",
+            "C": "About $20."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-14",
+          "no": 14,
+          "audio": "/assets/day-20/test-3/audio/14.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who posted the notice in the break room?",
+            "A": "Sure, let's take a break.",
+            "B": "I'll post them after lunch.",
+            "C": "Someone from personnel."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-15",
+          "no": 15,
+          "audio": "/assets/day-20/test-3/audio/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where will this year's summer music festival be held?",
+            "A": "Usually in the middle of July.",
+            "B": "Tickets are on sale now.",
+            "C": "I heard it'll be in Baxter Park."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-16",
+          "no": 16,
+          "audio": "/assets/day-20/test-3/audio/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Which airline did you use when you flew to the Bahamas?",
+            "A": "I highly recommend it.",
+            "B": "It was only a short trip.",
+            "C": "I think it was Sunjet Air."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-17",
+          "no": 17,
+          "audio": "/assets/day-20/test-3/audio/17.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Would you like to order from the menu or take advantage of our buffet option?",
+            "A": "You should give the buffet a try.",
+            "B": "We'd like to look at the menu.",
+            "C": "Yes, that sounds perfect."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-18",
+          "no": 18,
+          "audio": "/assets/day-20/test-3/audio/18.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "It's not supposed to be stormy this weekend, is it?",
+            "A": "I haven't checked the forecast.",
+            "B": "It's held every weekend.",
+            "C": "I don't know the rules very well."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-19",
+          "no": 19,
+          "audio": "/assets/day-20/test-3/audio/19.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why was our plant in Taiwan closed down?",
+            "A": "No, I don't think so.",
+            "B": "The one near the coast.",
+            "C": "It failed an inspection."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-20",
+          "no": 20,
+          "audio": "/assets/day-20/test-3/audio/20.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "How often should we clean the staff refrigerator?",
+            "A": "At least once a month.",
+            "B": "I swept him up earlier.",
+            "C": "You should use a damp cloth."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-21",
+          "no": 21,
+          "audio": "/assets/day-20/test-3/audio/21.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Have all the ink cartridges been used up already?",
+            "A": "Put graphs on the next slide.",
+            "B": "Yes, but we've ordered more.",
+            "C": "It hasn't been decided yet."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-22",
+          "no": 22,
+          "audio": "/assets/day-20/test-3/audio/22.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Miss Swinton has been transferred to the Berlin branch, hasn't she?",
+            "A": "You can ask her for a transfer.",
+            "B": "She started working there yesterday.",
+            "C": "I think she'll be happy to help you."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-23",
+          "no": 23,
+          "audio": "/assets/day-20/test-3/audio/23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "I'll let you know when your table is ready.",
+            "A": "Thanks, we'll wait here.",
+            "B": "It was fantastic, thanks.",
+            "C": "I wanted darker brown wood."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-24",
+          "no": 24,
+          "audio": "/assets/day-20/test-3/audio/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't you assign some additional duties to our intern?",
+            "A": "I'll pull up a few more signs.",
+            "B": "I'm not sure he could handle the work.",
+            "C": "Yes, we bought some extra ones."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-25",
+          "no": 25,
+          "audio": "/assets/day-20/test-3/audio/25.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you want to buy my tickets for the film premiere this weekend?",
+            "A": "It's the best film I've seen in a while.",
+            "B": "I don't think I'd be able to go.",
+            "C": "Where can I purchase some?"
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-26",
+          "no": 26,
+          "audio": "/assets/day-20/test-3/audio/26.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "What forms of payment does this store accept?",
+            "A": "Your payment was declined.",
+            "B": "Everything except checks.",
+            "C": "There are a few forms to fill out."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-27",
+          "no": 27,
+          "audio": "/assets/day-20/test-3/audio/27.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who should I see about replacing my broken computer monitor?",
+            "A": "I'd really appreciate that.",
+            "B": "We can take a break afterwards.",
+            "C": "Miguel and tech support can help you with that."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-28",
+          "no": 28,
+          "audio": "/assets/day-20/test-3/audio/28.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "This set of keys belongs to you, doesn't it?",
+            "A": "No, not that long.",
+            "B": "Yes, where did you find them?",
+            "C": "There's a spare set at reception."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-29",
+          "no": 29,
+          "audio": "/assets/day-20/test-3/audio/29.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why did the delivery person come up the stairs?",
+            "A": "He'll arrive just before lunch.",
+            "B": "Please move them somewhere else.",
+            "C": "The elevator must be out of order."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-30",
+          "no": 30,
+          "audio": "/assets/day-20/test-3/audio/30.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How about meeting at the coffee shop to discuss the project?",
+            "A": "She said we've sold ten cups so far.",
+            "B": "We talked about several issues.",
+            "C": "I'd rather use the meeting room."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-t3-p2-31",
+          "no": 31,
+          "audio": "/assets/day-20/test-3/audio/31.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Have we found enough volunteers for the focus group?",
+            "A": "The findings will be released next week.",
+            "B": "I believe Chris is still searching.",
+            "C": "That should be more than enough room."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-ch3",
+      "code": "ch3",
+      "title": "ETS Chapter 3 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-ch3-01",
+          "no": 1,
+          "audio": "/assets/day-20/chapter-3/01-03.mp3",
+          "image": null,
+          "question": "What does the man say he has to do tomorrow?",
+          "options": {
+            "A": "Have his car fixed",
+            "B": "See a doctor",
+            "C": "Submit a report",
+            "D": "Plan an event"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-02",
+          "no": 2,
+          "audio": "/assets/day-20/chapter-3/01-03.mp3",
+          "image": null,
+          "question": "What do the speakers agree to do?",
+          "options": {
+            "A": "Collaborate on a project",
+            "B": "Meet at a restaurant",
+            "C": "Exchange contact information",
+            "D": "Trade work shifts"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-03",
+          "no": 3,
+          "audio": "/assets/day-20/chapter-3/01-03.mp3",
+          "image": null,
+          "question": "What will the man probably do next?",
+          "options": {
+            "A": "Notify a manager",
+            "B": "Cancel an appointment",
+            "C": "Train new staff",
+            "D": "Clean a work area"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-04",
+          "no": 4,
+          "audio": "/assets/day-20/chapter-3/04-06.mp3",
+          "image": null,
+          "question": "What are the speakers discussing?",
+          "options": {
+            "A": "Copy machines",
+            "B": "Printers",
+            "C": "Computers",
+            "D": "Fax machines"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-05",
+          "no": 5,
+          "audio": "/assets/day-20/chapter-3/04-06.mp3",
+          "image": null,
+          "question": "When do the speakers expect to receive the new equipment?",
+          "options": {
+            "A": "In one month",
+            "B": "In two months",
+            "C": "In three months",
+            "D": "In four months"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-06",
+          "no": 6,
+          "audio": "/assets/day-20/chapter-3/04-06.mp3",
+          "image": null,
+          "question": "What does the man say about the new equipment?",
+          "options": {
+            "A": "It will be more reliable.",
+            "B": "It will be smaller.",
+            "C": "It will be faster.",
+            "D": "It will be more economical."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-07",
+          "no": 7,
+          "audio": "/assets/day-20/chapter-3/07-09.mp3",
+          "image": null,
+          "question": "When is Anne leaving on her trip?",
+          "options": {
+            "A": "On Thursday",
+            "B": "On Friday",
+            "C": "On Saturday",
+            "D": "On Monday"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-08",
+          "no": 8,
+          "audio": "/assets/day-20/chapter-3/07-09.mp3",
+          "image": null,
+          "question": "What activity is Anne looking forward to?",
+          "options": {
+            "A": "Jogging",
+            "B": "Biking",
+            "C": "Swimming",
+            "D": "Sailing"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-09",
+          "no": 9,
+          "audio": "/assets/day-20/chapter-3/07-09.mp3",
+          "image": null,
+          "question": "What does the man say about Victoria City?",
+          "options": {
+            "A": "It has good sports facilities.",
+            "B": "Its scenery is attractive.",
+            "C": "It has good weather.",
+            "D": "It is an interesting old city."
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-10",
+          "no": 10,
+          "audio": "/assets/day-20/chapter-3/10-12.mp3",
+          "image": null,
+          "question": "What is the woman’s problem?",
+          "options": {
+            "A": "She is late for an appointment.",
+            "B": "Her computer is not working.",
+            "C": "She forgot an important meeting.",
+            "D": "Her assistant hasn’t finished a project."
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-11",
+          "no": 11,
+          "audio": "/assets/day-20/chapter-3/10-12.mp3",
+          "image": null,
+          "question": "What will the woman do at four o’clock tomorrow?",
+          "options": {
+            "A": "Talk to her supervisor",
+            "B": "Review a report",
+            "C": "Meet with a client",
+            "D": "Speak with technical support"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-12",
+          "no": 12,
+          "audio": "/assets/day-20/chapter-3/10-12.mp3",
+          "image": null,
+          "question": "What does Ted plan to do next?",
+          "options": {
+            "A": "Order a new computer",
+            "B": "Work on a presentation",
+            "C": "Postpone an appointment",
+            "D": "Make a telephone call"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-13",
+          "no": 13,
+          "audio": "/assets/day-20/chapter-3/13-15.mp3",
+          "image": null,
+          "question": "Where most likely are the speakers?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "At a cooking school",
+            "C": "At a conference banquet",
+            "D": "At a supermarket"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-14",
+          "no": 14,
+          "audio": "/assets/day-20/chapter-3/13-15.mp3",
+          "image": null,
+          "question": "What does the “V” symbol mean?",
+          "options": {
+            "A": "The recipe is available online.",
+            "B": "The dish is vegetarian.",
+            "C": "The dish is very spicy.",
+            "D": "The ingredients vary with the season."
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-15",
+          "no": 15,
+          "audio": "/assets/day-20/chapter-3/13-15.mp3",
+          "image": null,
+          "question": "What does the woman say happened last month?",
+          "options": {
+            "A": "They opened a new location.",
+            "B": "They hired an additional chef.",
+            "C": "They held an outdoor festival.",
+            "D": "They won a local award."
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-16",
+          "no": 16,
+          "audio": "/assets/day-20/chapter-3/16-18.mp3",
+          "image": null,
+          "question": "What has Mr. Moreno recently done?",
+          "options": {
+            "A": "Won a cooking competition",
+            "B": "Given a cooking demonstration",
+            "C": "Opened a restaurant",
+            "D": "Written a cookbook"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-17",
+          "no": 17,
+          "audio": "/assets/day-20/chapter-3/16-18.mp3",
+          "image": null,
+          "question": "What is special about Mr. Moreno’s recipes?",
+          "options": {
+            "A": "They are easy to prepare.",
+            "B": "They use healthy ingredients.",
+            "C": "They are mostly vegetarian.",
+            "D": "They are old family recipes."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-18",
+          "no": 18,
+          "audio": "/assets/day-20/chapter-3/16-18.mp3",
+          "image": null,
+          "question": "What does Mr. Moreno say about Madrid?",
+          "options": {
+            "A": "He was born there.",
+            "B": "He usually goes there on vacation.",
+            "C": "He has a restaurant there.",
+            "D": "He is on a television program there."
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-19",
+          "no": 19,
+          "audio": "/assets/day-20/chapter-3/19-21.mp3",
+          "image": null,
+          "question": "What does the woman say about Ellen?",
+          "options": {
+            "A": "She is in charge of the business center.",
+            "B": "She is planning to rent a car.",
+            "C": "She will be late for work today.",
+            "D": "She is waiting in the lobby."
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-ch3-20",
+          "no": 20,
+          "audio": "/assets/day-20/chapter-3/19-21.mp3",
+          "image": null,
+          "question": "What does the man ask the woman to help with?",
+          "options": {
+            "A": "Checking in some guests",
+            "B": "Performing an inspection",
+            "C": "Taking phone messages",
+            "D": "Training some employees"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-t3-p3",
+      "code": "t3-p3",
+      "title": "Test 3 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-t3-p3-41",
+          "no": 41,
+          "audio": "/assets/day-20/test-3-part-3/41-43.mp3",
+          "image": null,
+          "question": "Where did Flora stay in Valencia?",
+          "options": {
+            "A": "In a hotel",
+            "B": "At a friend’s house",
+            "C": "With relatives",
+            "D": "At a campsite"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-42",
+          "no": 42,
+          "audio": "/assets/day-20/test-3-part-3/41-43.mp3",
+          "image": null,
+          "question": "When did the man go to Valencia?",
+          "options": {
+            "A": "Last week",
+            "B": "Two weeks ago",
+            "C": "Last year",
+            "D": "Two years ago"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-43",
+          "no": 43,
+          "audio": "/assets/day-20/test-3-part-3/41-43.mp3",
+          "image": null,
+          "question": "How did Flora mainly spend her vacation?",
+          "options": {
+            "A": "Trying new restaurants",
+            "B": "Relaxing on a beach",
+            "C": "Shopping in stores",
+            "D": "Visiting her family"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-44",
+          "no": 44,
+          "audio": "/assets/day-20/test-3-part-3/44-46.mp3",
+          "image": null,
+          "question": "What is the woman looking for?",
+          "options": {
+            "A": "A book",
+            "B": "A set of shelves",
+            "C": "A new table",
+            "D": "A pair of glasses"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-45",
+          "no": 45,
+          "audio": "/assets/day-20/test-3-part-3/44-46.mp3",
+          "image": null,
+          "question": "What does the man say he will do?",
+          "options": {
+            "A": "Order the item",
+            "B": "Repair the item",
+            "C": "Look for the item",
+            "D": "Replace the item"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-46",
+          "no": 46,
+          "audio": "/assets/day-20/test-3-part-3/44-46.mp3",
+          "image": null,
+          "question": "Where does this conversation take place?",
+          "options": {
+            "A": "In a library",
+            "B": "In a furniture store",
+            "C": "In a classroom",
+            "D": "In a doctor’s office"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-47",
+          "no": 47,
+          "audio": "/assets/day-20/test-3-part-3/47-49.mp3",
+          "image": null,
+          "question": "How do the speakers know each other?",
+          "options": {
+            "A": "From the university",
+            "B": "From a conference",
+            "C": "From the office",
+            "D": "From a holiday party"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-48",
+          "no": 48,
+          "audio": "/assets/day-20/test-3-part-3/47-49.mp3",
+          "image": null,
+          "question": "How many years ago did the speakers last see each other?",
+          "options": {
+            "A": "Two",
+            "B": "Five",
+            "C": "Ten",
+            "D": "Fifteen"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-49",
+          "no": 49,
+          "audio": "/assets/day-20/test-3-part-3/47-49.mp3",
+          "image": null,
+          "question": "What does the woman say is one of her favorite memories?",
+          "options": {
+            "A": "Learning to play chess",
+            "B": "Attending a reunion",
+            "C": "Winning a prize",
+            "D": "Giving a presentation"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-50",
+          "no": 50,
+          "audio": "/assets/day-20/test-3-part-3/50-52.mp3",
+          "image": null,
+          "question": "Where does this conversation most likely take place?",
+          "options": {
+            "A": "In a theater",
+            "B": "At an auto repair shop",
+            "C": "In a parking garage",
+            "D": "At a car rental agency"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-51",
+          "no": 51,
+          "audio": "/assets/day-20/test-3-part-3/50-52.mp3",
+          "image": null,
+          "question": "When will the woman probably return?",
+          "options": {
+            "A": "At 2 o’clock",
+            "B": "At 4 o’clock",
+            "C": "At 5 o’clock",
+            "D": "At 10 o’clock"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-52",
+          "no": 52,
+          "audio": "/assets/day-20/test-3-part-3/50-52.mp3",
+          "image": null,
+          "question": "Where does the man direct the woman to go?",
+          "options": {
+            "A": "To a bus stop",
+            "B": "To an office building",
+            "C": "To a store",
+            "D": "To an apartment building"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-53",
+          "no": 53,
+          "audio": "/assets/day-20/test-3-part-3/53-55.mp3",
+          "image": null,
+          "question": "What kind of employee will the business hire?",
+          "options": {
+            "A": "A sales representative",
+            "B": "A secretary",
+            "C": "A scientific researcher",
+            "D": "A factory worker"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-54",
+          "no": 54,
+          "audio": "/assets/day-20/test-3-part-3/53-55.mp3",
+          "image": null,
+          "question": "Why must Ms. Lewis visit the human resources department?",
+          "options": {
+            "A": "To pick up an application",
+            "B": "To interview for a job",
+            "C": "To hand in a résumé",
+            "D": "To fill out some papers"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-55",
+          "no": 55,
+          "audio": "/assets/day-20/test-3-part-3/53-55.mp3",
+          "image": null,
+          "question": "When does Ms. Lewis say she could start working?",
+          "options": {
+            "A": "In a week",
+            "B": "In three weeks",
+            "C": "In two months",
+            "D": "In three months"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-56",
+          "no": 56,
+          "audio": "/assets/day-20/test-3-part-3/56-58.mp3",
+          "image": null,
+          "question": "What does the man want to know?",
+          "options": {
+            "A": "Julie’s travel schedule",
+            "B": "The date of a party",
+            "C": "Stephanie’s new address",
+            "D": "The location of a restaurant"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-57",
+          "no": 57,
+          "audio": "/assets/day-20/test-3-part-3/56-58.mp3",
+          "image": null,
+          "question": "What will take place next Wednesday?",
+          "options": {
+            "A": "A dinner with a client",
+            "B": "A farewell party for a coworker",
+            "C": "A reception for new employees",
+            "D": "A lunch with some friends"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-58",
+          "no": 58,
+          "audio": "/assets/day-20/test-3-part-3/56-58.mp3",
+          "image": null,
+          "question": "What is Julie planning to do before her trip?",
+          "options": {
+            "A": "Rearrange her travel plans",
+            "B": "Interview for a new job",
+            "C": "Meet with Stephanie",
+            "D": "Attend a party"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-59",
+          "no": 59,
+          "audio": "/assets/day-20/test-3-part-3/59-61.mp3",
+          "image": null,
+          "question": "What are the speakers discussing?",
+          "options": {
+            "A": "The menu for an event",
+            "B": "A dinner for guests",
+            "C": "The subject of a presentation",
+            "D": "A conference call"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-60",
+          "no": 60,
+          "audio": "/assets/day-20/test-3-part-3/59-61.mp3",
+          "image": null,
+          "question": "What will happen at 7:30?",
+          "options": {
+            "A": "Awards will be presented.",
+            "B": "The caterers will be notified.",
+            "C": "Food will be served.",
+            "D": "The guests will be seated."
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-61",
+          "no": 61,
+          "audio": "/assets/day-20/test-3-part-3/59-61.mp3",
+          "image": null,
+          "question": "What will the woman probably do next?",
+          "options": {
+            "A": "Cancel a presentation",
+            "B": "Change the seating arrangement",
+            "C": "Call a different catering service",
+            "D": "Tell the guests about a delay"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-62",
+          "no": 62,
+          "audio": "/assets/day-20/test-3-part-3/62-64.mp3",
+          "image": null,
+          "question": "What are the man and woman discussing?",
+          "options": {
+            "A": "An airline policy",
+            "B": "A company event",
+            "C": "An online business",
+            "D": "A proposed budget"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-63",
+          "no": 63,
+          "audio": "/assets/day-20/test-3-part-3/62-64.mp3",
+          "image": null,
+          "question": "What does Mark say about the Shanghai expenses?",
+          "options": {
+            "A": "The current costs seem low.",
+            "B": "The estimates look good.",
+            "C": "The amount is the same as last year’s.",
+            "D": "The living costs were not in the budget."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-64",
+          "no": 64,
+          "audio": "/assets/day-20/test-3-part-3/62-64.mp3",
+          "image": null,
+          "question": "What does Karen say she will do?",
+          "options": {
+            "A": "Read a brochure",
+            "B": "Call a travel agent",
+            "C": "Check last year’s records",
+            "D": "Find information on the Internet"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-65",
+          "no": 65,
+          "audio": "/assets/day-20/test-3-part-3/65-67.mp3",
+          "image": null,
+          "question": "Why did the man call?",
+          "options": {
+            "A": "To speak with a retail clerk",
+            "B": "To cancel an appointment",
+            "C": "To set up a job interview",
+            "D": "To renew a subscription"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-66",
+          "no": 66,
+          "audio": "/assets/day-20/test-3-part-3/65-67.mp3",
+          "image": null,
+          "question": "What does the woman offer to do for the caller?",
+          "options": {
+            "A": "Take him to his doctor’s office",
+            "B": "Reschedule his appointment",
+            "C": "Help him place an order",
+            "D": "Review his work"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-67",
+          "no": 67,
+          "audio": "/assets/day-20/test-3-part-3/65-67.mp3",
+          "image": null,
+          "question": "Why does the man decide to call back later?",
+          "options": {
+            "A": "He does not know when he will have free time.",
+            "B": "He has forgotten his subscription number.",
+            "C": "He wants directions to the doctor’s office.",
+            "D": "He needs information about a prescription."
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-68",
+          "no": 68,
+          "audio": "/assets/day-20/test-3-part-3/68-70.mp3",
+          "image": null,
+          "question": "Who is the woman probably talking to?",
+          "options": {
+            "A": "A store manager",
+            "B": "A delivery person",
+            "C": "A computer programmer",
+            "D": "A store clerk"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-69",
+          "no": 69,
+          "audio": "/assets/day-20/test-3-part-3/68-70.mp3",
+          "image": null,
+          "question": "When did the woman expect her computer and printer?",
+          "options": {
+            "A": "On April 1",
+            "B": "On April 2",
+            "C": "On April 4",
+            "D": "On April 10"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d20-t3-p3-70",
+          "no": 70,
+          "audio": "/assets/day-20/test-3-part-3/68-70.mp3",
+          "image": null,
+          "question": "What does the man say he will do this afternoon?",
+          "options": {
+            "A": "Make a phone call",
+            "B": "Repair a computer",
+            "C": "Deliver an order",
+            "D": "Check a printer"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-ets",
+      "code": "ets",
+      "title": "Class listening — ETS Test",
+      "subtitle": "Lecture · Part 3 conversations · listen and write what you hear",
+      "part": 3,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": "/assets/day-20/lecture/ets-test/full.mp3",
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-ets-01",
+          "no": 1,
+          "audio": "/assets/day-20/lecture/ets-test/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 1 through 3 refer to the following conversation. Excuse me. My mobile phone's been very slow and sometimes loses calls, so I'm interested in a new one. I'd be happy to help you find a new phone. Have you seen the latest smartphones we have on display? We have a few models at excellent prices I saw those, but I read on your company website that you have some phones for sale at half price. We do have several select phones available at half price. However, they're very basic phones. Smartphones like these, on the other hand, have features like Web browsing and road navigation that you wouldn't get from a basic mobile phone. Here, let me show you how they work.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-02",
+          "no": 2,
+          "audio": "/assets/day-20/lecture/ets-test/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 4 through 6 refer to the following conversation. I didn't expect to see you still here. Are you staying late to work on the Billows report? No actually, I'm just waiting for Sarah. Her car broke down, It's in the shop for repairs, so I'm giving her a ride home. I didn't know that you two lived near each other. Oh we don't. But I'm having dinner at my parents' house tonight, and Sarah lives near them.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-03",
+          "no": 3,
+          "audio": "/assets/day-20/lecture/ets-test/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 7 through 9 refer to the following conversation. Hello, my name is Melissa Stein. I'm calling because I'm planning to sell my house. I was referred to you by a coworker. You helped her sell a house a while ago, And she was very pleased with your agency. I'd be happy to help you with that, Ms. Stein. Are you ready to put the house on the market immediately? Well, before I sell the house, I'm considering doing some remodeling that might increase its value. Could you advise me on what would be the best improvements to make? Certainly. Why don't we set up a meeting at your property? We can walk through the house and I can make a few suggestions.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-04",
+          "no": 4,
+          "audio": "/assets/day-20/lecture/ets-test/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 10 through 12 refer to the following conversation. Brian, I'm having trouble with my computer. I can't open any of my account files. Can you help me? It sounds like your computer might have a virus. Let's run an antivirus program and then try to open them again. I hope it works. I need to print these documents to take to a meeting with a client. Don't worry, it should only take a couple of minutes.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-05",
+          "no": 5,
+          "audio": "/assets/day-20/lecture/ets-test/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 13 through 15 refer to the following conversation. Mr. Chen called to see if you were available to meet with him at 1 o'clock today. He wants to discuss plans for the new staff orientation. Well, I'm having lunch with a client from noon to 1:30, but I'll be available after that. I could see him at 2 o'clock. He said he'd be in a sales meeting most of the morning, and asked if you'd send him an email to let him know when you're available. OK, I'll do that. By the way, Wayne's faxing a copy of the new contract. Could you let me know when it arrives?",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-07",
+          "no": 7,
+          "audio": "/assets/day-20/lecture/ets-test/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 19 through 21 refer to the following conversation. James, I've just finished reviewing the financial report you've created for the upcoming meeting. The budget plan was written up, but some of the charts and graphs are missing. Oh no. I must have forgotten to add them in. And the finance meeting is scheduled for this Thursday. Well, that still leaves a little bit of time this week to get the report finished. Yes, and since it's my responsibility, I don't mind working late to make sure the report is ready on time.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-ets-08",
+          "no": 8,
+          "audio": "/assets/day-20/lecture/ets-test/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "Questions 22 through 24 refer to the following conversation. This traffic is unusually heavy tonight. Let's call Juliana and tell her we'll be a little late getting to the theater. Oh, we won't be able to reach her. She told me she's having dinner with some of her coworkers before she meets us at the theater. She always turns her mobile phone off when she goes out to eat. That makes sense. I guess we'll just see her at the theater. I'm glad I gave her a ticket yesterday. I'd feel terrible if she missed the beginning of the performance because we arrived a little late.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d20-class",
+      "code": "class",
+      "title": "Class listening — Lecture audio",
+      "subtitle": "Lecture · listen and write what you hear",
+      "part": 3,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d20-class-01",
+          "no": 1,
+          "audio": "/assets/day-20/lecture/class/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "I have an appointment with Dr. Wang, but something's come up and I won't be able to make it. Unfortunately, our company cannot afford to hire more workers. The problem is that she's not available until next Thursday. I've been having trouble with my computer all afternoon. I'm worried that we won't be able to meet the increasing demand. The air conditioner in the office does not always work so well. That part of the budget report is missing. The number you gave us doesn't seem accurate.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-class-02",
+          "no": 2,
+          "audio": "/assets/day-20/lecture/class/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ETS Check Up 1. Number 1. Could you please connect me to Susan Lam's room? Just a moment, please. I'm sorry. I can't find anyone by that name in our records. Are you sure she's staying here? Yes, I'm sure. I was just talking to her a minute ago. Oh, wait, I made a mistake. It's Susan Lim, not Susan Lam. Oh, yes, I see her name. Let me connect you to her room. Number 2. Hi, I'm going on a trip, and I'm interested in buying an electronic reader so I don't have to carry books with me. Well, we carry all major brands of e-readers here. I'm sure we can find the right one for you. Oh, good Are you looking for any special features? It has to be user-friendly I'm not very good with technology. I just want to read books not watch movies or play games. In that case, I'd suggest this one. It's very easy to download e-books onto it, and it holds up to 300 books. Here let me show you how it works.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d20-class-03",
+          "no": 3,
+          "audio": "/assets/day-20/lecture/class/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "I can't believe the ball game is cancelled. I've been looking forward to it for a long time. I'm sorry, but Ms. Chwe left for a last-minute business trip this morning. I'm afraid I couldn't attend the meeting because my connection to London arrived late. I'll call the maintenance department so I can find out if they are available to help you.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-class-04",
+          "no": 4,
+          "audio": "/assets/day-20/lecture/class/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "I was referred to you by a co-worker. We offer 20% off on large purchases of 10 or more computers. You can figure out how to use this machine on our website. All you have to do is click on the button that says apply on our website.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d20-class-05",
+          "no": 5,
+          "audio": "/assets/day-20/lecture/class/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "ETS Check Up 2. Number 1. Mr. Andrews, I'll have to leave the office early today so I can deliver the new design for our store posters to the printing company. OK. When did the printer say they would be finished? They're pretty fast. If we drop off the designs by 5 today, the posters will be ready by 1 tomorrow afternoon. Number 2. Ms. Han, we'd like to publish the Japanese edition of Building a Financial Portfolio by the end of next month. That would give me only a month to finish the translation. That's not enough time to translate a 250-page book. Hmm, we may be able to postpone the release date for another month. Would that work for you? If I make this my top priority, 2 months would be possible.",
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    }
+  ]
+}
