@@ -1,0 +1,718 @@
+{
+  "collection": "vocabulary",
+  "day": "day-21",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d21-v01",
+      "no": 1,
+      "word": "bid",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/bɪd/",
+        "us": "/bɪd/"
+      },
+      "meaningVi": "thầu, đấu thầu",
+      "image": null,
+      "example": {
+        "en": "The company submitted a bid for the contract to clean the hospital."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v01-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v02",
+      "no": 2,
+      "word": "abide by",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/əˈbaɪd baɪ/",
+        "us": "/əˈbaɪd baɪ/"
+      },
+      "meaningVi": "tuân thủ, tuân theo",
+      "image": null,
+      "example": {
+        "en": "We will abide by their decision."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v02-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v03",
+      "no": 3,
+      "word": "on behalf of",
+      "pos": "prep phrase",
+      "ipa": {
+        "uk": "/ɑːn bɪˈhæf əv/",
+        "us": "/ɑːn bɪˈhæf əv/"
+      },
+      "meaningVi": "thay mặt",
+      "image": null,
+      "example": {
+        "en": "On behalf of the department I would like to thank you all."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v03-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v04",
+      "no": 4,
+      "word": "breach of contract",
+      "pos": "phr",
+      "ipa": {
+        "uk": "/briːtʃ əv ˈkɑːntrækt/",
+        "us": "/briːtʃ əv ˈkɑːntrækt/"
+      },
+      "meaningVi": "vi phạm hợp đồng",
+      "image": null,
+      "example": {
+        "en": "He was sued for breach of contract."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v04-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v05",
+      "no": 5,
+      "word": "amend",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈmend/",
+        "us": "/əˈmend/"
+      },
+      "meaningVi": "sửa đổi, thay đổi (tài liệu pháp lý…)",
+      "image": null,
+      "example": {
+        "en": "We may amend our Legal Terms at any time without specific notice to you."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v05-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v06",
+      "no": 6,
+      "word": "attorney",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈtɜːrni/",
+        "us": "/əˈtɜːrni/"
+      },
+      "meaningVi": "luật sư, người được ủy quyền",
+      "image": null,
+      "example": {
+        "en": "He hired a high-profile defense attorney to represent him."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v06-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v07",
+      "no": 7,
+      "word": "evidence",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈevɪdəns/",
+        "us": "/ˈevɪdəns/"
+      },
+      "meaningVi": "bằng chứng",
+      "image": null,
+      "example": {
+        "en": "He was released when the judge ruled there was no evidence against him."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v07-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v08",
+      "no": 8,
+      "word": "lawsuit",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈlɔːsuːt/",
+        "us": "/ˈlɔːsuːt/"
+      },
+      "meaningVi": "việc kiện cáo",
+      "image": null,
+      "example": {
+        "en": "The company now faces several lawsuits over its failure to protect its employees."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v08-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v09",
+      "no": 9,
+      "word": "sue",
+      "pos": "v",
+      "ipa": {
+        "uk": "/suː/",
+        "us": "/suː/"
+      },
+      "meaningVi": "kiện",
+      "image": null,
+      "example": {
+        "en": "He threatened to sue the company for negligence."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v09-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v10",
+      "no": 10,
+      "word": "right",
+      "pos": "n",
+      "ipa": {
+        "uk": "/raɪt/",
+        "us": "/raɪt/"
+      },
+      "meaningVi": "quyền, quyền lợi",
+      "image": null,
+      "example": {
+        "en": "You have no right to stop me from going in there."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v10-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v11",
+      "no": 11,
+      "word": "counterfeit",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkaʊntərfɪt/",
+        "us": "/ˈkaʊntərfɪt/"
+      },
+      "meaningVi": "giả",
+      "image": null,
+      "example": {
+        "en": "If you get a bill you suspect is counterfeit, contact the local police station."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v11-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v12",
+      "no": 12,
+      "word": "violate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈvaɪəleɪt/",
+        "us": "/ˈvaɪəleɪt/"
+      },
+      "meaningVi": "vi phạm",
+      "image": null,
+      "example": {
+        "en": "She accused the press photographers of violating her privacy."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v12-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v13",
+      "no": 13,
+      "word": "accountable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈkaʊntəbl/",
+        "us": "/əˈkaʊntəbl/"
+      },
+      "meaningVi": "chịu trách nhiệm",
+      "image": null,
+      "example": {
+        "en": "Someone has to be held ultimately accountable for the accident."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v13-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v14",
+      "no": 14,
+      "word": "accuse",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈkjuːz/",
+        "us": "/əˈkjuːz/"
+      },
+      "meaningVi": "buộc tội",
+      "image": null,
+      "example": {
+        "en": "His critics accused his work of lacking in realism."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v14-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v15",
+      "no": 15,
+      "word": "code of conduct",
+      "pos": "phr",
+      "ipa": {
+        "uk": "/ˌkoʊd əv ˈkɑːn.dʌkt/",
+        "us": "/ˌkoʊd əv ˈkɑːn.dʌkt/"
+      },
+      "meaningVi": "chuẩn mực hành vi",
+      "image": null,
+      "example": {
+        "en": "A code of conduct relating to the use of software acquired for educational purposes has been adopted by the University."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v15-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v16",
+      "no": 16,
+      "word": "obey",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈbeɪ/",
+        "us": "/əˈbeɪ/"
+      },
+      "meaningVi": "tuân thủ, vâng lời",
+      "image": null,
+      "example": {
+        "en": "He refuses to obey the rules."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v16-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v17",
+      "no": 17,
+      "word": "wrongdoing",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈrɔːŋduːɪŋ/",
+        "us": "/ˈrɔːŋduːɪŋ/"
+      },
+      "meaningVi": "hành vi sai trái",
+      "image": null,
+      "example": {
+        "en": "She has strenuously denied any criminal wrongdoing."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v17-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v18",
+      "no": 18,
+      "word": "fraud",
+      "pos": "n",
+      "ipa": {
+        "uk": "/frɔːd/",
+        "us": "/frɔːd/"
+      },
+      "meaningVi": "sự gian lận, lừa lọc",
+      "image": null,
+      "example": {
+        "en": "He helped prevent a $100 million fraud."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v18-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v19",
+      "no": 19,
+      "word": "solicit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/səˈlɪsɪt/",
+        "us": "/səˈlɪsɪt/"
+      },
+      "meaningVi": "đề nghị, kêu gọi ai (cho điều gì)",
+      "image": null,
+      "example": {
+        "en": "They were planning to solicit funds from a number of organizations."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v19-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v20",
+      "no": 20,
+      "word": "reveal",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈviːl/",
+        "us": "/rɪˈviːl/"
+      },
+      "meaningVi": "tiết lộ, công khai",
+      "image": null,
+      "example": {
+        "en": "The report reveals that the company made a loss of £20 million last year."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v20-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v21",
+      "no": 21,
+      "word": "acquire",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈkwaɪər/",
+        "us": "/əˈkwaɪər/"
+      },
+      "meaningVi": "thâu tóm, đạt được",
+      "image": null,
+      "example": {
+        "en": "They acquired a chain of about 20 phone shops."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v21-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v22",
+      "no": 22,
+      "word": "compromise",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/ˈkɑːmprəmaɪz/",
+        "us": "/ˈkɑːmprəmaɪz/"
+      },
+      "meaningVi": "thỏa hiệp, dàn xếp",
+      "image": null,
+      "example": {
+        "en": "It is hoped that a compromise will be reached in today's talks."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v22-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v23",
+      "no": 23,
+      "word": "authorize",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈɔːθəraɪz/",
+        "us": "/ˈɔːθəraɪz/"
+      },
+      "meaningVi": "ủy quyền, cho phép",
+      "image": null,
+      "example": {
+        "en": "I have authorized him to act for me while I am away."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v23-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v24",
+      "no": 24,
+      "word": "restrict",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈstrɪkt/",
+        "us": "/rɪˈstrɪkt/"
+      },
+      "meaningVi": "giới hạn, hạn chế",
+      "image": null,
+      "example": {
+        "en": "He introduced new laws to restrict immigration."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v24-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d21-v25",
+      "no": 25,
+      "word": "refer to",
+      "pos": "phrasal verb",
+      "ipa": {
+        "uk": "/rɪˈfɜːr tuː/",
+        "us": "/rɪˈfɜːr tuː/"
+      },
+      "meaningVi": "tham khảo, đề cập",
+      "image": null,
+      "example": {
+        "en": "Please refer to the following documents for specific details of the programme."
+      },
+      "group": "Topic 06 — Contract Law",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view",
+      "voice": {
+        "us": "/assets/day-21/voice-neural/d21-v25-us.mp3",
+        "uk": "/assets/day-21/voice-neural/d21-v25-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "80e5036b4b3a9ff616f5577e5c43228d709dfd120ed92fef409ef0a09793ddcf"
+  }
+}

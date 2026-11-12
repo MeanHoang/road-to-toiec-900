@@ -93,6 +93,10 @@ export function ListenSetScreen({ slug, setId, day }) {
           ))}
 
         <div className={`stack stack-lg listening-panel ${!hasPhoto(set) ? 'listening-panel-wide' : ''}`}>
+          {/* Part 3–4 "Look at the graphic": the graphic sits above the player. */}
+          {!hasPhoto(set) && item.image && (
+            <img className="photo" src={item.image} alt={t('Illustration for the listening passage')} />
+          )}
           <div className="listening-controls stack">
           <AudioPlayer src={item.audio} />
 

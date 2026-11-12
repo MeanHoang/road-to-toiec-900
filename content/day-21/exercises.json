@@ -1,0 +1,1994 @@
+{
+  "collection": "exercises",
+  "day": "day-21",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d21-adj1",
+      "code": "adj1",
+      "part": 5,
+      "kind": "choice",
+      "title": "Part 5 — Adjectives 1–17",
+      "subtitle": "Choose the best answer, then read the note and translation.",
+      "sourceDocument": "Giải thích ADJ eco3.docx",
+      "questions": [
+        {
+          "id": "d21-adj-01",
+          "no": 1,
+          "text": "Some visitors to Dubrovnik feel that it is too ______ with tourists to be enjoyable during the summer.",
+          "options": {
+            "A": "crowd",
+            "B": "crowds",
+            "C": "crowding",
+            "D": "crowded"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) crowd(n): đám đông/ (v): tụ tập, xúm lại; (B) crowds (Ns/ Vs); (C) crowding; (D) crowded (adj): đông đúc. Ghi chú: Be crowed with: tràn đầy, đông cái gì; Cấu trúc be too adj (for sb) to do st: quá đến nỗi không thể.",
+          "vi": "Một số du khách tới Dubrovnik cảm thấy rằng nó quá đông khách du lịch để có thể tận hưởng trong mùa hè này.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-02",
+          "no": 2,
+          "text": "If you are planning to install the machine by yourself, then we recommend that you visit one of our ______ dealers that can give you additional installation assistance.",
+          "options": {
+            "A": "authorized",
+            "B": "authorization",
+            "C": "authority",
+            "D": "authorize"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) authorized (adj): được nhượng quyền; (B) authorization (n): sự cho phép/giấy phép; (C) authority(n): chính quyền, thẩm quyền; (D) authorize (v): cho quyền. Ghi chú: cần điền tính từ bổ nghĩa cho danh từ dealers; Authorize sb to do st: cho phép, cho quyền ai làm gì.",
+          "vi": "Nếu bạn đang có kế hoạch tự cài đặt máy của mình, chúng tôi khuyên bạn nên ghé thăm một trong những đại lý ủy quyền của chúng tôi nơi có thể cung cấp cho bạn sự hỗ trợ cài đặt bổ sung.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-03",
+          "no": 3,
+          "text": "With the signing of the ______ contract, we would like to welcome you as a supplier to our company.",
+          "options": {
+            "A": "enclosed",
+            "B": "shaped",
+            "C": "trained",
+            "D": "engaged"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) enclosed (adj): được gửi kèm theo; (B) shaped(adj): có hình dạng được chỉ rõ; (C) trained(adj): được huấn luyện; (D) engaged(adj): đã đính hôn, bận rộn. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Với việc ký kết hợp đồng được kèm theo, chúng tôi xin chào đón bạn như một nhà cung cấp cho công ty chúng tôi.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-04",
+          "no": 4,
+          "text": "In order to reduce costs, Busan Consulting’s ______ use of office space and equipment has been adopted by many local businesses.",
+          "options": {
+            "A": "economical",
+            "B": "economy",
+            "C": "economist",
+            "D": "economize"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) economical (adj): tính kinh tế, tiết kiệm; (B) economy (n): nền kinh tế; (C) economist (n): nhà kinh tế học; (D) economize(v) + on: tiết kiệm. Ghi chú: cần điền tính từ bổ nghĩa cho danh từ use; Ta có 2 tính từ của danh từ economy:; Economic(adj): thuộc về kinh tế; Economical(adj): tính kinh tế, tiết kiệm; In order to = so as to  =to do + V: để làm gì.",
+          "vi": "Để giảm chi phí, sự sử dụng tiết kiệm không gian văn phòng và thiết bị của Busan Consulting đã được áp dụng bởi nhiều doanh nghiệp địa phương.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-05",
+          "no": 5,
+          "text": "We are planning to implement a ______ paper recycling program for all branch offices effective next month",
+          "options": {
+            "A": "revising",
+            "B": "revision",
+            "C": "revise",
+            "D": "revised"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) revising (Ving); (B) revision (n): sự sửa lại, xem lại; (C) revise (v): sửa lại, xem lại; (D) revised (Adj): đã được sửa lại, duyệt lại. Ghi chú: Cần điền tính từ bổ nghĩa cho cụm danh từ paper recycling program; plan to do st: dự kiến, trù tính làm gì.",
+          "vi": "Chúng tôi đang có dự kiến thực hiện một chương trình tái chế giấy đã được sửa đổi cho tất cả các văn phòng chi nhánh vào tháng tới.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-06",
+          "no": 6,
+          "text": "Reservations are made on a first-come, first-served basis and are ______ to room availability.",
+          "options": {
+            "A": "plain",
+            "B": "public",
+            "C": "subject",
+            "D": "general"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) plain (adj): đơn giản, ngay thẳng; (B) public(adj):công cộng; (C) subject; (D) general (adj): chung, phổ biến. Ghi chú: be subject to  = look to = rely on = depend on: phụ thuộc vào.",
+          "vi": "Việc đặt phòng được thực hiện trên cơ sở ai đến trước được phục vụ trước và phụ thuộc vào tình trạng có sẵn phòng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-07",
+          "no": 7,
+          "text": "The Leighton Group is a service-based organization and our success is ______ on the quality of the service we offer",
+          "options": {
+            "A": "depend",
+            "B": "dependable",
+            "C": "dependent",
+            "D": "dependence"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) depend (v) + on: phụ thuộc vào; (B) dependable (adj): đáng tin cậy, có thể tin được; (C) dependent (adj) + on: dựa vào, phụ thuộc vào; (D) dependence(n) + on/upon sb/st: sự tin cậy, tín nhiệm/phụ thuộc, nghiện. Ghi chú: cần điền tính từ vào chỗ trống.",
+          "vi": "Leighton Group là một tổ chức dựa trên dịch vụ và sự thành công của chúng tôi phụ thuộc vào chất lượng của các dịch vụ chúng tôi cung cấp.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-08",
+          "no": 8,
+          "text": "The tree-lined trails and ______ slopes make Whistler Mountain a dangerous place to ride, even for experienced cyclists.",
+          "options": {
+            "A": "heavy",
+            "B": "forceful",
+            "C": "steep",
+            "D": "strict"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) heavy (adj): nặng nề; (B) forceful (adj): mạnh mẽ, sinh động; (C) steep (adj): dốc, dốc đứng; (D) strict (adj): nghiêm ngặt, khắt khe. Ghi chú: cần điền tính từ bổ nghĩa cho danh từ slopes; Make st + noun; Make st + adj.",
+          "vi": "Những con đường mòn rợp bóng cây và các sườn dốc làm cho Whistler Mountain là một nơi nguy hiểm để đi xe, ngay cả đối với người đi xe đạp có kinh nghiệm.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-09",
+          "no": 9,
+          "text": "All sales representatives should know ______ information about the product they are selling and be able to answer any questions.",
+          "options": {
+            "A": "approached",
+            "B": "detailed",
+            "C": "probable",
+            "D": "loyal"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) approached (Ved): đến gần, tiếp cận; (B) detailed (adj):cặn kẽ, tỉ mỉ, nhiều chi tiết; (C) probable (adj): có thể xảy ra, chắc hẳn; (D) loyal (adj): trung thành. Ghi chú: be able to do st = be capable of doing st: có thể làm gì.",
+          "vi": "Tất cả các đại diện bán hàng cần biết thông tin chi tiết về các sản phẩm mà họ đang bán và có thể trả lời bất kỳ câu hỏi nào.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-10",
+          "no": 10,
+          "text": "The office manager is ______ for supporting staff members and ensuring that their work is done efficiently.",
+          "options": {
+            "A": "responsibility",
+            "B": "responsibilities",
+            "C": "responsible",
+            "D": "responsibly"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) responsibility (n): trách nhiệm; (B) responsibilities (Ns); (C) responsible; (D) responsibly (adv): 1 cách có trách nhiệm. Ghi chú: be responsible for = be in charge of + st/doing st: chịu trách nhiệm về.",
+          "vi": "Quản lý văn phòng có trách nhiệm hỗ trợ các nhân viên và đảm bảo rằng công việc của họ được thực hiện một cách hiệu quả.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-11",
+          "no": 11,
+          "text": "As the largest dealer in the state, Auto Fair maintains an ______ inventory of new vehicles for immediate delivery",
+          "options": {
+            "A": "impress",
+            "B": "impressive",
+            "C": "impressively",
+            "D": "impressed"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) impress (v): gây ấn tượng; (B) impressive (adj): ấn tượng (thường đứng trước danh từ); (C) impressively (adv): 1 cách ấn tượng; (D) impressed (adj) + by/with bị ấn tượng.",
+          "vi": "Là đại lý lớn nhất trong tiểu bang, Auto Fair duy trì một kho ấn tượng các xe mới cho việc giao hàng ngay lập tức.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-12",
+          "no": 12,
+          "text": "To be considered for the position of marketing director, applicants must be creative and dynamic with a university degree in marketing or a ______ field.",
+          "options": {
+            "A": "probable",
+            "B": "mutual",
+            "C": "related",
+            "D": "frequent"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) probable (adj): có thể xảy ra; (B) mutual (adj): lẫn nhau; (C) related (adj): có liên quan; (D) frequent (adj): thường xuyên. Ghi chú: Cần điền tính từ cho nghĩa phù hợp; consider sb for a position: cân nhắc ai vào 1 vị trí.",
+          "vi": "Để được cân nhắc cho vị trí giám đốc marketing, ứng viên phải có tính sáng tạo và năng động với tấm bằng đại học về marketing hoặc một lĩnh vực liên quan.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-13",
+          "no": 13,
+          "text": "There are many small Indian companies, with potential, which are ______ to form partnerships with U.S. firms to jointly develop advanced technologies.",
+          "options": {
+            "A": "constructive",
+            "B": "eager",
+            "C": "relative",
+            "D": "delicious"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) constructive (adj):; (B) eager (adj): hăng hái, háo hức; (C) relative (adj): khá, tương đối; (D) delicious (adj): ngon. Ghi chú: be eager for st/ to do st: mong muốn, hăng hái làm gì.",
+          "vi": "Có rất nhiều công ty nhỏ ở Ấn Độ, với tiềm năng, những công ty mà mong muốn hình thành quan hệ đối tác với các công ty Mỹ để cùng phát triển các công nghệ tiên tiến.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-14",
+          "no": 14,
+          "text": "It is ______ that each department work closely with the MIS department, which coordinates all corporate data.",
+          "options": {
+            "A": "prone",
+            "B": "vital",
+            "C": "poised",
+            "D": "ready"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) prone (adj): ngả về, thiên về/dễ xảy ra; (B) vital (adj): quan trọng; (C) poised(adj): yên tĩnh, điềm đạm; (D) ready (Adj): sãn sàng. Ghi chú: điền tính từ cho nghĩa phù hợp.",
+          "vi": "Điều quan trọng là mỗi bộ phận làm việc chặt chẽ với các bộ phận MIS, cái mà tổ chức tất cả các dữ liệu của công ty.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-15",
+          "no": 15,
+          "text": "If, for any reason, you are not going to make your ______ travel plans, please call us at 800-347-5633.",
+          "options": {
+            "A": "scheduling",
+            "B": "scheduler",
+            "C": "scheduled",
+            "D": "schedule"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) scheduling (n): sự lập chương trình; (B) scheduler (n): người lập lịch trình; (C) scheduled (adj): được ghi trong lịch trình, được lên lịch; (D) schedule (n): lịch trình/ (v): lập lịch trình, sắp xếp. Ghi chú: cần điền tính từ trước danh từ travel plans.",
+          "vi": "Nếu vì lý do nào đó, bạn sẽ không lên kế hoạch du lịch theo lịch trình của bạn, xin vui lòng gọi cho chúng tôi tại 800-347-5633.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-16",
+          "no": 16,
+          "text": "We ordered the new office equipment on Tuesday, but it was not delivered until the ______ Saturday.",
+          "options": {
+            "A": "upcoming",
+            "B": "available",
+            "C": "frequent",
+            "D": "following"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) upcoming (adj): sắp tới; (B) available (adj): có sẵn; (C) frequent( adj): thường xuyên; (D) following (adj): sau đây, sau đó. Ghi chú: following (prep) = after = subsequent to: sau.",
+          "vi": "Chúng tôi đã ra đặt hàng thiết bị văn phòng mới vào hôm thứ 3, nhưng nó không được giao cho đến ngày thứ 7 sau đó.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-17",
+          "no": 17,
+          "text": "The seminar was especially ______ for newly-appointed managers since it provided a number of essential guidelines and strategies.",
+          "options": {
+            "A": "useful",
+            "B": "cooperative",
+            "C": "exact",
+            "D": "capable"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) useful (adj): hữu ích, hữu dụng; (B) cooperative (adj): có tính chất cộng tác; (C) exact (adj): đúng, chính xác; (D) capable (adj): có khả năng, năng lực. Ghi chú: be capable of doing st = be able to do st: có thể làm gì.",
+          "vi": "Hội thảo là đặc biệt hữu ích cho các nhà quản lý mới được bổ nhiệm vì nó cung cấp một số chủ trương và chiến lược cần thiết.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-adj2",
+      "code": "adj2",
+      "part": 5,
+      "kind": "choice",
+      "title": "Part 5 — Adjectives 18–34",
+      "subtitle": "Choose the best answer, then read the note and translation.",
+      "sourceDocument": "Giải thích ADJ eco3.docx",
+      "questions": [
+        {
+          "id": "d21-adj-18",
+          "no": 18,
+          "text": "Employees who wish to participate in the FSA Program must submit their ______ paperwork to the Human Resources Department by Dec. 16.",
+          "options": {
+            "A": "conclusive",
+            "B": "absolute",
+            "C": "completed",
+            "D": "exhausted"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) conclusive (adj): cuối cùng, để kết luận, xác định; (B) absolute (adj): hoàn toàn, tuyệt đối; (C) completed (adj): đã hoàn thành, làm xong; (D) exhausted (adj): kiệt sức. Ghi chú: cần điền tính từ cho nghĩa phù hợp; Participate in = join in = take part in: tham gia vào.",
+          "vi": "Nhân viên nào muốn tham gia vào Chương trình FSA phải nộp giấy tờ đã hoàn tất của họ tới Phòng Nhân sự trước ngày 16/12",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-19",
+          "no": 19,
+          "text": "Ms. Jespersen is ______ to accept your invitation to become a member of the Washington Community Reinvestment Association.",
+          "options": {
+            "A": "pleasure",
+            "B": "please",
+            "C": "pleasing",
+            "D": "pleased"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) pleasure (n): niềm vui thích, ý muốn; (B) please (v): làm hài lòng; (C) pleasing (adj): mang lại niềm vui thích; (D) pleased (adj) + with: hài lòng. Ghi chú: be pleased to do st: sẵn lòng, vui mừng làm gì.",
+          "vi": "Bà Jespersen vui mừng chấp nhận lời mời của bạn để trở thành một thành viên của Hiệp hội Washington Community Reinvestment",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-20",
+          "no": 20,
+          "text": "Pioneer Steel guarantees that all information gathered through this website is strictly ______ and used only by Pioneer Steel.",
+          "options": {
+            "A": "confide",
+            "B": "confides",
+            "C": "confidential",
+            "D": "confidentially"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) confide (v): tin cậy, phó thác; (B) confides (Vs); (C) confidential (adj): bí mật, kín; (D) confidentially (adv): 1 cách bí mật. Ghi chú: cần điền tính từ sau động từ is.",
+          "vi": "Pioneer Steel đảm bảo rằng tất cả các thông tin thu thập được thông qua trang web này là bí mật 1 cách nghiêm ngặt và chỉ được sử dụng bởi Pioneer Steel.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-21",
+          "no": 21,
+          "text": "The new spring menu at Outback Restaurant features fresh salads made with ______ blends of Asian and European ingredients.",
+          "options": {
+            "A": "presented",
+            "B": "healthy",
+            "C": "physical",
+            "D": "immediate"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) presented (Ved): được trình bày, trình diện; (B) healthy (adj): có lợi cho sức khỏe; (C) physical (adj):  thuốc vật chất; (D) immediate (adj): trực tiếp, lập tức. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Thực đơn mùa xuân mới tại Outback Restaurant có sa-lát tươi được làm bằng hỗn hợp tốt cho sức khỏe của các thành phần châu Á và châu Âu.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-22",
+          "no": 22,
+          "text": "The deadline for registration is rapidly ______ so contact our office immediately if you are interested in attending.",
+          "options": {
+            "A": "arranging",
+            "B": "approaching",
+            "C": "setting",
+            "D": "declaring"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) arranging (Ving): sắp xếp; (B) approaching (adj): đến gần, tới gần; (C) setting (Ving) thiết lập, cài đặt; (D) declaring (Ving): tuyên bố, công bố. Ghi chú: be interested in st/doing st: muốn, thích làm gì; Deadline for st: hạn cuối cho cái gì.",
+          "vi": "Thời hạn cuối cho việc đăng ký đang nhanh chóng tới gần vì vậy liên hệ với văn phòng của chúng tôi ngay lập tức nếu bạn muốn đến tham dự.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-23",
+          "no": 23,
+          "text": "Considering her ability, dedication, and expertise, I am ______ that Ms. Yoko will be the most suitable person for the position of marketing manager.",
+          "options": {
+            "A": "confident",
+            "B": "obvious",
+            "C": "noticeable",
+            "D": "intelligent"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) confident (adj): tự tin; (B) obvious (adj): rõ ràng, hiển nhiên; (C) noticeable (adj): đáng chú ý, dễ nhận thấy; (D) intelligent (adj): thông minh. Ghi chú: be confident that: tự tin rằng.",
+          "vi": "Xem xét khả năng, sự cống hiến, và chuyên môn của bà ấy, tôi tự tin rằng bà Yoko sẽ là người phù hợp nhất cho vị trí người quản lý tiếp thị.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-24",
+          "no": 24,
+          "text": "Temporary and part-time employees are not ______ for paid holidays; if they work on a holiday, such employees will receive their regular wages.",
+          "options": {
+            "A": "considerable",
+            "B": "tangible",
+            "C": "receivable",
+            "D": "eligible"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) considerable (adj): đáng kể, to tát; (B) tangible (adj): hữu hình, xác thực, hiển nhiên; (C) receivable (adj): đáng nhận, có thể nhận được; (D) eligible(adj): đủ tư cách, thích hợp. Ghi chú: be eligible for: đủ tư cách cho cái gì.",
+          "vi": "Nhân viên tạm thời và bán thời gian không đủ điều kiện cho các kì nghỉ có hưởng lương; nếu làm việc vào ngày nghỉ, nhân viên đó sẽ nhận được mức lương thường xuyên của họ.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-25",
+          "no": 25,
+          "text": "With more than 34 years of designing some of the most ______ buildings in Calgary, the reputation of the firm is well deserved.",
+          "options": {
+            "A": "impressively",
+            "B": "impressive",
+            "C": "impress",
+            "D": "impressiveness"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) impressively (adv): hùng vĩ, nguy nga; (B) impressive (adj): ấn tượng, hùng vĩ; (C) impress (v): gây ấn tượng/ đóng dấu; (D) impressiveness (n): sự gây ấn tượng sâu sắc. Ghi chú: cần điền tính từ đứng trước danh từ buildings.",
+          "vi": "Với hơn 34 năm thiết kế một số những tòa nhà ấn tượng nhất ở Calgary, danh tiếng của công ty này cũng xứng đáng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-26",
+          "no": 26,
+          "text": "The TIPH employees are ______ by their distinctive khaki uniforms and the special emblem on their uniforms and vehicles.",
+          "options": {
+            "A": "identify",
+            "B": "identifies",
+            "C": "identity",
+            "D": "identifiable"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) identify (V): nhận ra, nhận dạng; (B) identifies (Vs); (C) identity (n): tính đồng nhất, sự giống hệt; (D) identifiable (adj): có thể nhận ra, nhận biết. Ghi chú: cần điền tính từ sau động từ to be.",
+          "vi": "Các nhân viên TIPH có thể nhận biết bởi đồng phục màu kaki đặc biệt và biểu tượng đặc biệt trên đồng phục và các xe của họ.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-27",
+          "no": 27,
+          "text": "Ideal Safes & Solutions, with its seven years of experience, provides reliable and ______ safes and cabinets.",
+          "options": {
+            "A": "foreseeable",
+            "B": "enforceable",
+            "C": "durable",
+            "D": "comfortable"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) foreseeable (adj): thấy trước được; (B) enforceable (adj): có thể đem thi hành; (C) durable(adj): bền; (D) comfortable (adj): thoải mái. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Ideal Safes & Solutions, với bảy năm kinh nghiệm, cung cấp các loại két và tủ đáng tin cậy và bền",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-28",
+          "no": 28,
+          "text": "All rooms at the hotel have been designed in a classical style that is both ______ and comfortable.",
+          "options": {
+            "A": "elegance",
+            "B": "elegantly",
+            "C": "elegant",
+            "D": "more elegantly"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) elegance (n): sự thanh lịch, tao nhã; (B) elegantly (adv): 1 cách thanh lịch, tao nhã; (C) elegant (adj): thanh lịch, tao nhã; (D) more elegantly. Ghi chú: cần điền tính từ vào chỗ trống; Both... and....: cả .... và.",
+          "vi": "Tất cả các phòng tại khách sạn được thiết kế theo phong cách cổ điển cái mà cả thanh lịch và thoải mái.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-29",
+          "no": 29,
+          "text": "The instructor was ______ to receive a positive response from the participants at the end of the course when they were asked their opinions of the overall quality and structure of the training.",
+          "options": {
+            "A": "convenient",
+            "B": "steady",
+            "C": "pleased",
+            "D": "creative"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) convenient (adj) :thuận tiện; (B) steady (adj): đều đều, vững vàng; (C) pleased (adj): hài lòng; (D) creative (adj): sáng tạo. Ghi chú: be pleased to do st: sẵn lòng, vui mừng làm gì.",
+          "vi": "Người hướng dẫn hài lòng khi nhận được phản hồi tích cực từ những người tham gia vào cuối của khóa học khi họ được hỏi ý kiến của họ về chất lượng và cấu trúc của khóa đào tạo.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-30",
+          "no": 30,
+          "text": "For the agreement to be ______ , it is necessary to have a written document which explicitly lays down the terms.",
+          "options": {
+            "A": "validate",
+            "B": "validity",
+            "C": "valid",
+            "D": "validates"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) validate (v): phê chuẩn, thông qua, làm cho có hiệu lực; (B) validity (n): tính hiệu lực; (C) valid (adj): hợp lý, có hiệu lực; (D) validates (Vs). Ghi chú: cần điền tính từ vào chỗ trống; Be necessary to do st: cần thiết phải làm gì.",
+          "vi": "Để hợp đồng có hiệu lực, nó là cần thiết để có một tài liệu bằng văn bản quy định rõ ràng các điều khoản.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-31",
+          "no": 31,
+          "text": "Since he joined our company in 2006, Mr. Ogawa has proven himself to be a very ______ employee.",
+          "options": {
+            "A": "valuably",
+            "B": "valuable",
+            "C": "valuing",
+            "D": "value"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) valuably (adv): 1 cách có ích, đáng giá; (B) valuable (adj): đáng giá, có giá trị; (C) valuing (Ving); (D) value (v): ước tính, định giá/(n): giá trị. Ghi chú: cần điền tính từ bổ nghĩa cho danh từ employee.",
+          "vi": "Kể từ khi ông gia nhập công ty của chúng ta năm 2006, ông Ogawa đã chứng tỏ mình là một nhân viên rất có giá trị.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-32",
+          "no": 32,
+          "text": "In 2009, Mr. Haist and Ms. White dissolved their partnership by ______ consent and Ms. White became a sole owner.",
+          "options": {
+            "A": "actual",
+            "B": "punctual",
+            "C": "mutual",
+            "D": "crucial"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) actual (adj): thực tế; (B) punctual (adj): đúng giờ; (C) mutual (adj): tương hỗ, lẫn nhau, chung; (D) crucial (adj): quyết định, chủ yếu. Ghi chú: By mutual consent: do 2 bên bằng lòng.",
+          "vi": "Năm 2009, ông Haist và Ms. White hủy bỏ quan hệ đối tác theo thoả thuận chung và bà White trở thành chủ sở hữu duy nhất.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-33",
+          "no": 33,
+          "text": "In accordance with the municipal act, two members of the city council are appointed on a ______ basis for a one-year term.",
+          "options": {
+            "A": "rotating",
+            "B": "rotates",
+            "C": "rotations",
+            "D": "rotate"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) rotating (adj) luân phiên; (B) rotates (Vs); (C) rotations (Ns): sự luân phiên, quay vòng; (D) rotate (V) : làm xoay quanh, luân phiên nhau. Ghi chú: điền tính từ bổ nghĩa cho danh từ basis; In accordance with: phù hợp với.",
+          "vi": "Phù hợp với hành động thành phố, hai thành viên của hội đồng thành phố được chỉ định trên cơ sở luân phiên có thời hạn một năm.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-34",
+          "no": 34,
+          "text": "All sales reports for the ______ year must be submitted by January 31 of the following year.",
+          "options": {
+            "A": "late",
+            "B": "current",
+            "C": "closed",
+            "D": "direct"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) late (adj): chậm, muộn, gần đây; (B) current (adj): hiện tại, hiện nay; (C) closed (adj): kết thúc, khép kín; (D) direct (adj): thẳng, trực tiếp. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Tất cả các báo cáo bán hàng cho năm hiện hành phải được đệ trình trước 31/1 của năm sau.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-adj3",
+      "code": "adj3",
+      "part": 5,
+      "kind": "choice",
+      "title": "Part 5 — Adjectives 35–51",
+      "subtitle": "Choose the best answer, then read the note and translation.",
+      "sourceDocument": "Giải thích ADJ eco3.docx",
+      "questions": [
+        {
+          "id": "d21-adj-35",
+          "no": 35,
+          "text": "Elizabeth Farnsworth will lead a discussion with a ______ group of voters in Denver on their views of the upcoming presidential election.",
+          "options": {
+            "A": "diverse",
+            "B": "diversity",
+            "C": "diversely",
+            "D": "diversify"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) diverse (adj): đa dạng, khác nhau; (B) diversity (n): sự đa dạng; (C) diversely (adv): theo nhiều cách khác nhau; (D) diversify (v): đa dạng hóa. Ghi chú: cần điền tính từ đứng trước danh từ group.",
+          "vi": "Elizabeth Farnsworth sẽ chỉ đạo một cuộc thảo luận với một nhóm đa dạng các cử tri ở Denver về quan điểm của họ về cuộc bầu cử tổng thống sắp tới.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-36",
+          "no": 36,
+          "text": "We have ______ confidence in the products ability to provide unrivaled protection in an exposed blast environment.",
+          "options": {
+            "A": "productive",
+            "B": "eventual",
+            "C": "informative",
+            "D": "absolute"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) productive (adj): có hiệu quả, năng suất; (B) eventual (adj): cuối cùng; (C) informative (adj): cung cấp nhiều thông tin; (D) absolute (Adj): tuyệt đối, xác thực. Ghi chú: cần điền tính từ có nghĩa phù hợp; Ability to do st: khả năng làm gì.",
+          "vi": "Chúng tôi có niềm tin tuyệt đối vào khả năng của sản phẩm cung cấp sự bảo vệ vô song trong một môi trường tiếp xúc với gió.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-37",
+          "no": 37,
+          "text": "The details of the project will be made ______ as soon as the final version has been agreed upon by the board.",
+          "options": {
+            "A": "publicly",
+            "B": "publicize",
+            "C": "public",
+            "D": "publicized"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) publicly (adv): công khai, công cộng; (B) publicize (v): công khai, công bố; (C) public (adj): công khai, công cộng; (D) publicized (Ved). Ghi chú: make/leave/deem/find/think + sb/st + adj (câu trên là dạng bị động của cấu trúc này).",
+          "vi": "Các chi tiết của dự án sẽ được công bố ngay sau khi phiên bản cuối cùng đã được chấp thuận bởi hội đồng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-38",
+          "no": 38,
+          "text": "Weyburn Inland Terminal, the farmer-owned and managed grain company, recently paid out its ______ ever dividends to the shareholders.",
+          "options": {
+            "A": "highest",
+            "B": "high",
+            "C": "higher",
+            "D": "highly"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) highest: dạng so sánh cao nhất; (B) high; (C) higher: dạng so sánh hơn của tính từ; (D) highly (adv): hết sức, vô cùng, mức độ cao. Ghi chú: ever sử dụng với cấp so sánh hơn sau than hoặc so sánh tuyệt đối (hơn nhất) có nghĩa là vào bất cứ lúc nào (trước đây, cho đến bây giờ); VD: It ‘s raining harder than ever (trời chưa bao giờ mưa to đến như thế); This is the best ever work you have done.",
+          "vi": "Weyburn Inland Terminal, các công ty ngũ cốc nông dân sở hữu và quản lý, mới đây đã chi trả cổ tức cao nhất từ trước đến giờ cho các cổ đông.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-39",
+          "no": 39,
+          "text": "Our technical support will be ______ online throughout the day to aid our customers in using the T-Learning software.",
+          "options": {
+            "A": "probable",
+            "B": "eligible",
+            "C": "considerable",
+            "D": "available"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) probable (adj): có thể xay ra, chắc hẳn; (B) eligible (adj) for: đủ tư cách, thích hợp; (C) considerable (adj): đáng kể, to tát; (D) available (adj): có sẵn. Ghi chú: aid sb in st/doing st: giúp đỡ ai trong việc gì.",
+          "vi": "Hỗ trợ kỹ thuật của chúng tôi sẽ có sẵn trực tuyến trong suốt cả ngày để hỗ trợ khách hàng của chúng tôi trong việc sử dụng các phần mềm T-Learning.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-40",
+          "no": 40,
+          "text": "Even though most conference attendees reserved the rooms in the hotel where the conference is held, some others planned to stay at a ______ hotel instead.",
+          "options": {
+            "A": "next",
+            "B": "nearby",
+            "C": "closest",
+            "D": "brief"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) next (adj): sắp tới/ (adv): tiếp theo/ (prep): bên cạnh, sát bên; (B) nearby (adj) : ở vị trí gần, không xa/ (adv): không xa; (C) closest (adj): gần nhất; (D) brief (adj): ngắn gọn. Ghi chú: cần điền tính từ cho nghĩa phù hợp; Plan to do st: dự kiến làm gì.",
+          "vi": "Mặc dù hầu hết những người tham dự hội nghị đặt các phòng trong khách sạn nơi hội nghị được tổ chức, thay vào đó một số người khác lên dự định ở tại một khách sạn gần đó.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-41",
+          "no": 41,
+          "text": "The annual NCA Conference will be held at the newly ______ Hilton Wilmington Hotel located in the heart of Wilmington.",
+          "options": {
+            "A": "renovate",
+            "B": "renovated",
+            "C": "renovating",
+            "D": "renovation"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) renovate (v): nâng cấp, cải tiến; (B) renovated (adj): được nâng cấp, cải tiến; (C) renovating (Ving); (D) renovation (n): sự nâng cấp, cải tiến. Ghi chú: cần điền tính từ đứng trước danh từ và sau trạng từ.",
+          "vi": "Hội nghị NCA hàng năm sẽ được tổ chức tại khách sạn Hilton Wilmington vừa mới được cải tạo nằm ở trung tâm của Wilmington.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-42",
+          "no": 42,
+          "text": "Mr. Colin Johnston is a principal research scientist working on ______ techniques for the remediation of contaminated groundwater environments.",
+          "options": {
+            "A": "innovate",
+            "B": "innovative",
+            "C": "innovates",
+            "D": "innovatively"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) innovate (v): đổi mới, cách tân; (B) innovative (adj): có tích sáng kiến, đổi mới; (C) innovates (Vs); (D) innovatively (adv): 1 cách đổi mới, sáng tạo. Ghi chú: cần điền tính từ  đứng trước danh từ techniques.",
+          "vi": "Ông Colin Johnston là một nhà khoa học nghiên cứu chủ chốt, người mà cố gắng đạt được các kỹ thuật tiên tiến cho việc xử lý môi trường nước ngầm bị ô nhiễm.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-43",
+          "no": 43,
+          "text": "The loading dock entrance is accessible from the South Town Exposition Center’s parking lot and is ______ on the east side of the building.",
+          "options": {
+            "A": "locates",
+            "B": "located",
+            "C": "locating",
+            "D": "was locating"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) locates (Vs): định vị; (B) located (adj) có ở, được đặt ở; (C) locating (Ving); (D) was locating. Ghi chú: be located in/on: được đặt ở.",
+          "vi": "Lối vào vũng tàu đậu để chất hàng có thể truy cập từ bãi đậu xe của South Town Exposition Center và nằm ở phía đông của tòa nhà.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-44",
+          "no": 44,
+          "text": "Due to an increase in rents in Dubai, many people facing problems of high cost of living are moving to Aiman where rents are comparatively ______ .",
+          "options": {
+            "A": "affordable",
+            "B": "potential",
+            "C": "directed",
+            "D": "approximate"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) affordable (adj): phải chăng; (B) potential( adj): tiềm năng; (C) directed( adj):có hướng đi, có quản lý; (D) approximate (Adj):xấp xỉ. Ghi chú: cần điền tính từ cho nghĩa phù hợp; increase/decrease/rise/drop (n) in st; because of = due to = on account of = owning to: bởi vì.",
+          "vi": "Do sự gia tăng trong giá thuê tại Dubai, nhiều người đang đối mặt với các vấn đề về chi phí sinh hoạt đang di chuyển đến Aiman nơi mà giá thuê tương đối phải chăng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-45",
+          "no": 45,
+          "text": "It is ______ to store food items in a cool, dry place in order to prevent bacteria growth.",
+          "options": {
+            "A": "advisable",
+            "B": "advisory",
+            "C": "advisedly",
+            "D": "advise"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) advisable (adj): nên, thích hợp; (B) advisory(adj): tư vấn, cố vấn/(n):bản tin, sự báo trước; (C) advisedly (adv): thận trọng, có suy nghĩ chín chắn; (D) advise(v) sb to do st: khuyên ai làm gì. Ghi chú: be advisable to do st: nên làm gì.",
+          "vi": "Nên lưu trữ các mặt hàng thực phẩm ở nơi thoáng mát, khô để ngăn chặn vi khuẩn phát triển.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-46",
+          "no": 46,
+          "text": "______ shuttle service is available upon request between the hotel and the airport for those arriving by air.",
+          "options": {
+            "A": "Definite",
+            "B": "Traveling",
+            "C": "Spacious",
+            "D": "Complimentary"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) Definite (Adj): xác định, rõ ràng; (B) Traveling (Adj): thuộc sự đi đường/(n):sự đi du lịch; (C) Spacious (adj): rộng rãi; (D) Complimentary (adj): miễn phí. Ghi chú: cần điền tính từ cho nghĩa phù hợp; upon request: theo yêu cầu.",
+          "vi": "Dịch vụ đưa đón miễn phí có sẵn theo yêu cầu giữa các khách sạn và sân bay cho những người đến bằng đường hàng không.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-47",
+          "no": 47,
+          "text": "We recognize that regular technical training is ______ to maintaining creative, motivated, and knowledgeable employees",
+          "options": {
+            "A": "vital",
+            "B": "vitally",
+            "C": "vitality",
+            "D": "vitalize"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) vital (adj):cần thiết, quan trọng; (B) vitally(adv):cực kỳ, vô cùng; (C) vitality (n):sức sống, sức mạnh; (D) vitalize(v):tiếp sức sống, truyền sức sống cho. Ghi chú: be+ adj + to do st:.",
+          "vi": "Chúng tôi nhận ra rằng việc đào tạo kỹ thuật thường xuyên là rất quan trọng để duy trì các các nhân viên sáng tạo, năng động và có kiến thức.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-48",
+          "no": 48,
+          "text": "Our main office is conveniently located close to the city center and is easily ______ by all major bus routes.",
+          "options": {
+            "A": "retainable",
+            "B": "presentable",
+            "C": "accessible",
+            "D": "capable"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) retainable (adj): có thể giữ lại, ngăn lại; (B) presentable (adj):có thể giới thiệu được, trình bày được; (C) accessible(adj): có thể tiếp cận được; (D) capable (adj): có khả năng, năng lực. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Văn phòng chính của chúng tôi nằm thuận tiện gần trung tâm thành phố, dễ dàng có thể tiếp cận bằng tất cả các tuyến xe buýt lớn.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-49",
+          "no": 49,
+          "text": "Job security is often considered a ______ of public sector jobs, but substantial changes are under way.",
+          "options": {
+            "A": "character",
+            "B": "characterize",
+            "C": "characteristic",
+            "D": "characteristically"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) character (n): đặc điểm, tính cách; (B) characterize (v) sb/st as st: mô tả ai, cái gì như cái gì/tiêu biểu cho; (C) characteristic (adj): tiêu biểu/(n) nét đặc trưng; (D) characteristically (adv):theo tính cách đặng trưng. Ghi chú: cần điền danh từ sau mạo từ a, cho nghĩa phù hợp.",
+          "vi": "Đảm bảo công việc thường được coi là một nét đặc trưng của việc làm khu vực công cộng, nhưng những thay đổi đáng kể đang được tiến hành.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-50",
+          "no": 50,
+          "text": "Employers are expressing concerns regarding the availability of workers with the ______ skills and knowledge they need.",
+          "options": {
+            "A": "specialize",
+            "B": "specialized",
+            "C": "specializing",
+            "D": "specialization"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) specialize(v) in st/doing st: chuyên về; (B) specialized(adj): chuyên dụng, thuộc chuyên gia; (C) specializing (Ving); (D) specialization (n):sự chuyên môn hóa. Ghi chú: Cần điền tính từ đứng trước danh từ skills and knowledge.",
+          "vi": "Các ông chủ lao động đang bày tỏ quan ngại về sự sẵn có của công nhân với các kỹ năng và kiến thức chuyên môn họ cần.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-51",
+          "no": 51,
+          "text": "CLEO had an ______ year, growing by 105% over 2009, and showing a constant increase not only in advertising sales, but in newsstand numbers as well.",
+          "options": {
+            "A": "exception",
+            "B": "exceptions",
+            "C": "exceptional",
+            "D": "exceptionally"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) exception (n): biệt lệ, ngoại lệ/sự phải đối; (B) exceptions (Ns):; (C) exceptional(adj):khác thường, đặc biệt; (D) exceptionally (adv): 1 cách cá biệt, khác thường. Ghi chú: cần điền tính từ đứng trước danh từ year.",
+          "vi": "CLEO đã có một năm đặc biệt, tăng 105% so với năm 2009, và cho thấy một sự gia tăng liên tục không chỉ trong doanh thu quảng cáo, mà còn trong doanh số quầy báo.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-adj4",
+      "code": "adj4",
+      "part": 5,
+      "kind": "choice",
+      "title": "Part 5 — Adjectives 52–67",
+      "subtitle": "Choose the best answer, then read the note and translation.",
+      "sourceDocument": "Giải thích ADJ eco3.docx",
+      "questions": [
+        {
+          "id": "d21-adj-52",
+          "no": 52,
+          "text": "Considering the state of the motor and labor costs for the repair, a new motor would be ______ than repairing it.",
+          "options": {
+            "A": "cheaper",
+            "B": "cheapest",
+            "C": "more cheaply",
+            "D": "most cheaply"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) cheaper; (B) cheapest; (C) more cheaply; (D) most cheaply. Ghi chú: trong câu có giới từ than nên cần điền dạng so sánh hơn của tính từ sau động từ tobe.",
+          "vi": "Xem xét trạng thái của chiếc motor và chi phí nhân công cho việc sửa chữa, 1 chiếc motor mới sẽ rẻ hơn so với việc sửa chữa nó.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-53",
+          "no": 53,
+          "text": "The new business plan does not necessarily need to contain a ______ marketing plan.",
+          "options": {
+            "A": "detail",
+            "B": "details",
+            "C": "detailed",
+            "D": "detailing"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) detail (n): chi tiết/(v): kể chi tiết; (B) details (Ns/Vs); (C) detailed (adj): cặn kẽ, tỉ mỉ; (D) detailing (n): thiết kế chi tiết. Ghi chú: cần điền tính từ đứng trước danh từ marketing plan.",
+          "vi": "Kế hoạch kinh doanh mới không nhất thiết cần phải có một kế hoạch marketing chi tiết.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-54",
+          "no": 54,
+          "text": "Yeongdeok has extraordinary ______ for wind energy due to its strong and constant wind conditions.",
+          "options": {
+            "A": "potent",
+            "B": "potentiality",
+            "C": "potentially",
+            "D": "potential"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) potent (adj): có hiệu lực, sức thuyết phục; (B) potentiality (n) tiềm năng; (C) potentially (Adv): 1 cách tiềm năng, tiềm tàng; (D) potential (adj): tiềm năng, tiềm tàng/ (n): khả năng, tiềm lực. Ghi chú: Cần điền danh từ cho nghĩa phù hợp sau tính từ extraordinary; potential (n) for st/doing st: khả năng cho.",
+          "vi": "Yeongdeok có tiềm năng phi thường cho năng lượng gió do điều kiện gió mạnh mẽ và liên tục của nó.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-55",
+          "no": 55,
+          "text": "It is important that you not leave the coffee machine ______ for a long time with water loaded.",
+          "options": {
+            "A": "idle",
+            "B": "spare",
+            "C": "void",
+            "D": "null"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) idle (adj): nhàn rỗi, không làm gì cả; (B) spare (adj): thừa, dư, rỗi rãi; (C) void (adj): trống, bỏ không; (D) null (adj): vô hiệu, không có hiệu lực. Ghi chú: leave sb/st + adj : để ai, cái gì  như nào.",
+          "vi": "Điều quan trọng là bạn không để máy pha cà phê không làm gì trong một thời gian dài với nước được nạp.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-56",
+          "no": 56,
+          "text": "Whether you are a seasoned marathoner or a recreational jogger, it is important to take ______ steps to avoid common running injuries.",
+          "options": {
+            "A": "prevent",
+            "B": "prevents",
+            "C": "preventive",
+            "D": "prevented"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) prevent (v) sb/st from st/doing st: ngăn cản, ngăn chặn; (B) prevents (Vs); (C) preventive (adj): ngăn ngừa, phòng ngừa; (D) prevented (Ved). Ghi chú: cần điền tính từ đứng trước danh từ steps.",
+          "vi": "Cho dù bạn là một vận động viên marathon dày dạn hoặc một người chạy bộ giải trí, điều quan trọng là phải thực hiện các bước phòng ngừa để tránh các tổn thương  thường thấy.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-57",
+          "no": 57,
+          "text": "Upon retiring from the Board of Directors, a member must return or destroy all documents of a ______ nature received from the company.",
+          "options": {
+            "A": "limiting",
+            "B": "proportionate",
+            "C": "confidential",
+            "D": "surrounding"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) limiting(adj): định ra giới hạn; (B) proportionate(adj):cân xứng, tương ứng /(v): làm cho cân xứng, cân đối; (C) confidential (adj): kín, bí mật; (D) surrounding (adj): bao quanh, vây quanh. Ghi chú: cần điền tính từ cho nghĩa phù hợp.",
+          "vi": "Sau khi nghỉ hưu từ Hội đồng quản trị, thành viên phải trả lại hoặc hủy tất cả các tài liệu có tính chất bí mật nhận được từ công ty.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-58",
+          "no": 58,
+          "text": "The company picnic is ______ to all employees and their families, and will include free refreshments and family activities.",
+          "options": {
+            "A": "invited",
+            "B": "right",
+            "C": "open",
+            "D": "intended"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) invited (Ved): mời; (B) right (n): quyền; (C) open (adj): mở, công khai; (D) intended (adj): được dự định, mong đợi. Ghi chú: Invite sb to do st: mời ai làm gì; Right(n) to do st: quyền làm gì; Be open to: mở cửa cho/dễ bị; Be intended for sb/st: dành cho, dùng để.",
+          "vi": "Buổi dã ngoại công ty mở cho tất cả các nhân viên và gia đình của họ, và sẽ bao gồm đồ uống miễn phí và các hoạt động gia đình.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-59",
+          "no": 59,
+          "text": "The new vacuum cleaner by LC Electronics has been selling so well that they have decided to discontinue the ______ model.",
+          "options": {
+            "A": "previous",
+            "B": "forward",
+            "C": "away",
+            "D": "precise"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) previous (adj): trước đây; (B) forward(adj): ở phía trước, tiến bộ; (C) away (adv):xa, mất đi; (D) precise (Adj): chính xác. Ghi chú: cần điền tính từ cho nghĩa phù hợp đứng trước danh từ model.",
+          "vi": "Máy hút bụi mới của LC Electronics đã bán rất tốt đến nỗi họ đã quyết định ngừng mẫu trước đó.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-60",
+          "no": 60,
+          "text": "The Acclaim is ______ enough to meet the needs of the most demanding user and it is filled with a variety of features.",
+          "options": {
+            "A": "complete",
+            "B": "typical",
+            "C": "versatile",
+            "D": "assorted"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) complete (adj): hoàn toàn, trọn vẹn; (B) typical (Adj): tiêu biểu, điển hình; (C) versatile (adj):linh hoạt, nhiều tài; (D) assorted (Adj): hỗn hợp, đủ loại. Ghi chú: be adj enough for sb to do st:; Meet the needs/demand: đáp ứng nhu cầu; A variety/selection/range of + Ns.",
+          "vi": "Acclaim đủ linh hoạt để đáp ứng nhu cầu của người sử dụng đòi hỏi khắt khe nhất và nó được đáp ứng với một loạt các tính năng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-61",
+          "no": 61,
+          "text": "We provide outstanding support and ______ training opportunities for our employees.",
+          "options": {
+            "A": "excellently",
+            "B": "excellent",
+            "C": "excels",
+            "D": "excelled"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) excellently (adv): 1 cahcs xuất sắc, nổi trội; (B) excellent (adj): xuất sắc, nổi trội; (C) excels (Vs): trội hơn, xuất sắc hơn; (D) excelled (Ved). Ghi chú: cần điền tính từ đứng trước cụm danh từ training opportunities; provide st for sb: cung cấp cái gì cho ai.",
+          "vi": "Chúng tôi cung cấp sự hỗ trợ xuất sắc và cơ hội đào tạo tuyệt vời cho nhân viên của chúng tôi.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-62",
+          "no": 62,
+          "text": "Our ______ consultants make the effort to understand your business completely before recommending an appropriate solution for your needs.",
+          "options": {
+            "A": "conditional",
+            "B": "requisite",
+            "C": "secured",
+            "D": "qualified"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) conditional (adj) on/upon st: phụ thuộc vào, có điều kiện; (B) requisite (adj): cần thiết; (C) secured (Ved): siết chặt, bảo vệ; (D) qualified (adj): đủ tư cách, đủ trình độ chuyên môn. Ghi chú: cần điền tính từ cho nghĩa phù hợp, đứng trước danh từ consultants; make effort to do st: nỗ lực làm gì.",
+          "vi": "Chuyên gia tư vấn có trình độ của chúng tôi nỗ lực để hiểu doanh nghiệp của bạn hoàn toàn trước khi đề xuất một giải pháp thích hợp cho nhu cầu của bạn.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-63",
+          "no": 63,
+          "text": "Earlier this year, Automotive News named Mr. Sato its Person of the Year for his leadership during ______ contract negotiations with automakers.",
+          "options": {
+            "A": "noted",
+            "B": "delicate",
+            "C": "talented",
+            "D": "proficient"
+          },
+          "answer": "B",
+          "explain": "Nghĩa các phương án: (A) noted (adj): nổi tiếng, có danh tiếng; (B) delicate (adj) thanh tú, dễ vỡ/khéo léo, khéo tay; (C) talented (adj): có tài, có khiếu; (D) proficient (adj): tài giỏi, thành thạo. Ghi chú: name sb (as) st: chỉ định. Gọi tên.",
+          "vi": "Đầu năm nay, Automotive News đã bình chọn ông Sato Person là  Nhân viên của năm cho sự đàm phán hợp đồng khéo léo với các nhà sản xuất ô tô.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-64",
+          "no": 64,
+          "text": "To keep up with ______ operating costs, Miami-Dade Transit will increase Metrobus and Metrorail fares on May 1.",
+          "options": {
+            "A": "uplifting",
+            "B": "uprising",
+            "C": "lifting",
+            "D": "rising"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) uplifting (adj): nâng cao; (B) uprising (n): sự thức dậy, sự nâng cao; (C) lifting (Ving): nhấc lên, nâng lên; (D) rising (adj): đang lên. Ghi chú: cần điền tính từ cho nghĩa phù hợp trước cụm danh từ operating costs; keep up with: theo kịp.",
+          "vi": "Để theo kịp với chi phí hoạt động đang tăng cao, Miami-Dade Transit sẽ tăng giá vé Metrobus và Metrorail vào tháng 1.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-65",
+          "no": 65,
+          "text": "iSoft has seen its share price fall in recent months as a result of ______ problems with its $6-billion contract to upgrade NHS’s systems.",
+          "options": {
+            "A": "ongoing",
+            "B": "dissolved",
+            "C": "restrained",
+            "D": "considerate"
+          },
+          "answer": "A",
+          "explain": "Nghĩa các phương án: (A) ongoing (adj): đang xảy ra; (B) dissolved (adj): bị phân hủy, giải tán; (C) restrained (adj): dè dặt, thận trọng/giản dị; (D) considerate (Adj): thận trọng, ý tứ. Ghi chú: cần điền tính từ cho nghĩa phù hợp; as a result of: như là kết quả của.",
+          "vi": "iSoft đã thấy giá cổ phiếu giảm trong những tháng gần đây như là kết quả của các vấn đề đang diễn ra với hợp đồng $ 6 tỷ đồng để nâng cấp hệ thống NHS.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-66",
+          "no": 66,
+          "text": "Even though we spent millions of dollars on marketing and advertising, sales of our new product have been ______ .",
+          "options": {
+            "A": "disappoint",
+            "B": "disappointed",
+            "C": "disappointment",
+            "D": "disappointing"
+          },
+          "answer": "D",
+          "explain": "Nghĩa các phương án: (A) disappoint (v): làm thất vọng; (B) disappointed (adj): thất vọng; (C) disappointment (n): sự thất vọng; (D) disappointing (adj): làm chán nản, thất vọng. Ghi chú: cần điền tính từ cho nghĩa phù hợp; spend time/money on st/doing st:.",
+          "vi": "Mặc dù chúng tôi đã chi hàng triệu đô la cho marketing và quảng cáo, doanh số bán hàng của sản phẩm mới của chúng tôi đã gây thất vọng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        },
+        {
+          "id": "d21-adj-67",
+          "no": 67,
+          "text": "The CSU Career Fair is mutually ______ to both those seeking careers and those recruiting for prospective employees.",
+          "options": {
+            "A": "benefit",
+            "B": "benefited",
+            "C": "beneficial",
+            "D": "beneficence"
+          },
+          "answer": "C",
+          "explain": "Nghĩa các phương án: (A) benefit (V): làm lợi cho/(n): lợi ích; (B) benefited (Ved); (C) beneficial (adj):có ích, có lợi; (D) beneficence (n): tính hữu ích, việc làm từ thiện. Ghi chú: is/am/are + adv + adj; be beneficial to sb/st: có lợi cho.",
+          "vi": "CSU Career Fair là cùng có lợi cho cả những người tìm kiếm sự nghiệp và những người tuyển dụng các nhân viên tiềm năng.",
+          "source": {
+            "text": "drive",
+            "options": "drive",
+            "answer": "drive",
+            "explain": "drive",
+            "vi": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: Union Cross Stationery",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d21-read-01",
+          "no": 1,
+          "text": "For whom is the information intended?",
+          "options": {
+            "A": "Customers placing orders",
+            "B": "Employees responding to inquiries",
+            "C": "Postal workers processing packages",
+            "D": "Printers designing stationery"
+          },
+          "answer": "A",
+          "explain": "Trang web có mục PLACE ORDER, số điện thoại hỗ trợ, thời gian giao hàng — tất cả dành cho khách đặt hàng. B sai vì trang nói về nhân viên, không viết cho nhân viên.",
+          "passage": {
+            "text": "WELCOME TO UNION CROSS STATIONERY\nHOME | PRODUCTS | PLACE ORDER | FEEDBACK\n\nContact Information\nCustomer service representatives are available to help you by telephone from Monday to Friday, 8 A.M. to 6 P.M.\nPhone: 0845-555-0102\nPhone (outside UK): +44 (0) 131-555-1001\nE-mail: customerservice@unioncrossstationery.com\n(Our representatives respond to most inquiries within 48 hours.)\nMailing address: Union Cross Stationery, 119 Concordia Road, Edinburgh EH1 2LN\n\nShipping\nOrders of standard products usually ship within two business days. Orders of custom-printed or specially designed products require a processing time of seven to ten business days prior to shipping.\nGround shipping from our fulfillment center in Edinburgh takes two to six days. Orders shipped to destinations overseas usually arrive in two to four weeks."
+          },
+          "vi": "CHÀO MỪNG ĐẾN VỚI UNION CROSS STATIONERY\nTRANG CHỦ | SẢN PHẨM | ĐẶT HÀNG | GÓP Ý\n\nThông tin liên hệ\nNhân viên chăm sóc khách hàng sẵn sàng hỗ trợ bạn qua điện thoại từ thứ Hai đến thứ Sáu, 8 giờ sáng đến 6 giờ chiều.\nĐiện thoại: 0845-555-0102\nĐiện thoại (ngoài Vương quốc Anh): +44 (0) 131-555-1001\nE-mail: customerservice@unioncrossstationery.com\n(Nhân viên của chúng tôi trả lời hầu hết các yêu cầu trong vòng 48 giờ.)\nĐịa chỉ gửi thư: Union Cross Stationery, 119 Concordia Road, Edinburgh EH1 2LN\n\nVận chuyển\nĐơn hàng sản phẩm tiêu chuẩn thường được gửi đi trong hai ngày làm việc. Đơn hàng sản phẩm in theo yêu cầu hoặc thiết kế riêng cần thời gian xử lý bảy đến mười ngày làm việc trước khi gửi đi.\nVận chuyển đường bộ từ trung tâm xử lý đơn hàng ở Edinburgh mất hai đến sáu ngày. Đơn hàng gửi ra nước ngoài thường tới nơi sau hai đến bốn tuần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-02",
+          "no": 2,
+          "text": "What is indicated on the Web page?",
+          "options": {
+            "A": "Custom designs are not available.",
+            "B": "E-mail inquiries are not encouraged.",
+            "C": "International orders are accepted.",
+            "D": "All products are shipped within two days."
+          },
+          "answer": "C",
+          "explain": "Có số điện thoại “outside UK” và “Orders shipped to destinations overseas usually arrive in two to four weeks” → nhận đơn quốc tế. A sai (có custom-printed), D sai (hàng thiết kế riêng cần 7–10 ngày).",
+          "passage": {
+            "text": "WELCOME TO UNION CROSS STATIONERY\nHOME | PRODUCTS | PLACE ORDER | FEEDBACK\n\nContact Information\nCustomer service representatives are available to help you by telephone from Monday to Friday, 8 A.M. to 6 P.M.\nPhone: 0845-555-0102\nPhone (outside UK): +44 (0) 131-555-1001\nE-mail: customerservice@unioncrossstationery.com\n(Our representatives respond to most inquiries within 48 hours.)\nMailing address: Union Cross Stationery, 119 Concordia Road, Edinburgh EH1 2LN\n\nShipping\nOrders of standard products usually ship within two business days. Orders of custom-printed or specially designed products require a processing time of seven to ten business days prior to shipping.\nGround shipping from our fulfillment center in Edinburgh takes two to six days. Orders shipped to destinations overseas usually arrive in two to four weeks."
+          },
+          "vi": "CHÀO MỪNG ĐẾN VỚI UNION CROSS STATIONERY\nTRANG CHỦ | SẢN PHẨM | ĐẶT HÀNG | GÓP Ý\n\nThông tin liên hệ\nNhân viên chăm sóc khách hàng sẵn sàng hỗ trợ bạn qua điện thoại từ thứ Hai đến thứ Sáu, 8 giờ sáng đến 6 giờ chiều.\nĐiện thoại: 0845-555-0102\nĐiện thoại (ngoài Vương quốc Anh): +44 (0) 131-555-1001\nE-mail: customerservice@unioncrossstationery.com\n(Nhân viên của chúng tôi trả lời hầu hết các yêu cầu trong vòng 48 giờ.)\nĐịa chỉ gửi thư: Union Cross Stationery, 119 Concordia Road, Edinburgh EH1 2LN\n\nVận chuyển\nĐơn hàng sản phẩm tiêu chuẩn thường được gửi đi trong hai ngày làm việc. Đơn hàng sản phẩm in theo yêu cầu hoặc thiết kế riêng cần thời gian xử lý bảy đến mười ngày làm việc trước khi gửi đi.\nVận chuyển đường bộ từ trung tâm xử lý đơn hàng ở Edinburgh mất hai đến sáu ngày. Đơn hàng gửi ra nước ngoài thường tới nơi sau hai đến bốn tuần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: Villa Raval hotel",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d21-read-03",
+          "no": 3,
+          "text": "What is suggested about Villa Raval?",
+          "options": {
+            "A": "It no longer accepts reservations by phone.",
+            "B": "It is located in a historic area of the city.",
+            "C": "It includes space for business functions.",
+            "D": "It charges a small fee for Internet access."
+          },
+          "answer": "C",
+          "explain": "“Banquet and meeting rooms for up to 60 people” → có chỗ cho sự kiện công việc. A sai (vẫn có số gọi đặt phòng), D sai (Internet miễn phí), B không được nhắc.",
+          "passage": {
+            "text": "Villa Raval\nOur hotel offers:\n• Beautiful guest rooms with city views\n• Free wireless Internet access in each room\n• An award-winning restaurant, Café Azul, serving lunch and dinner\n• Banquet and meeting rooms for up to 60 people\n• Ten percent off your bill at the on-site spa and restaurant\n• Vouchers for reduced admission to the aquarium, the zoo, and nearby museums\nClick here to make your reservation or call +34 93 555 0142.\nVilla Raval • La Rambla, 555 • 08022 Barcelona"
+          },
+          "vi": "Villa Raval\nKhách sạn của chúng tôi cung cấp:\n• Phòng nghỉ đẹp nhìn ra thành phố\n• Internet không dây miễn phí trong mỗi phòng\n• Nhà hàng từng đoạt giải, Café Azul, phục vụ bữa trưa và bữa tối\n• Phòng tiệc và phòng họp cho tối đa 60 người\n• Giảm mười phần trăm hóa đơn tại spa và nhà hàng trong khách sạn\n• Phiếu giảm giá vé vào thủy cung, sở thú và các bảo tàng gần đó\nNhấn vào đây để đặt phòng hoặc gọi +34 93 555 0142.\nVilla Raval • La Rambla, 555 • 08022 Barcelona",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-04",
+          "no": 4,
+          "text": "According to the Web page, what is offered at a discount?",
+          "options": {
+            "A": "Transportation to area attractions",
+            "B": "Dinner at Café Azul",
+            "C": "Catering services",
+            "D": "Guest rooms"
+          },
+          "answer": "B",
+          "explain": "“Ten percent off your bill at the on-site spa and restaurant” — nhà hàng trong khách sạn là Café Azul, phục vụ bữa tối. Phiếu giảm giá là vé vào cửa, không phải phương tiện đi lại.",
+          "passage": {
+            "text": "Villa Raval\nOur hotel offers:\n• Beautiful guest rooms with city views\n• Free wireless Internet access in each room\n• An award-winning restaurant, Café Azul, serving lunch and dinner\n• Banquet and meeting rooms for up to 60 people\n• Ten percent off your bill at the on-site spa and restaurant\n• Vouchers for reduced admission to the aquarium, the zoo, and nearby museums\nClick here to make your reservation or call +34 93 555 0142.\nVilla Raval • La Rambla, 555 • 08022 Barcelona"
+          },
+          "vi": "Villa Raval\nKhách sạn của chúng tôi cung cấp:\n• Phòng nghỉ đẹp nhìn ra thành phố\n• Internet không dây miễn phí trong mỗi phòng\n• Nhà hàng từng đoạt giải, Café Azul, phục vụ bữa trưa và bữa tối\n• Phòng tiệc và phòng họp cho tối đa 60 người\n• Giảm mười phần trăm hóa đơn tại spa và nhà hàng trong khách sạn\n• Phiếu giảm giá vé vào thủy cung, sở thú và các bảo tàng gần đó\nNhấn vào đây để đặt phòng hoặc gọi +34 93 555 0142.\nVilla Raval • La Rambla, 555 • 08022 Barcelona",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: DNB Banking Online",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d21-read-05",
+          "no": 5,
+          "text": "What is NOT an advertised feature of DNB Banking Online?",
+          "options": {
+            "A": "Up-to-date account balances",
+            "B": "Monthly online newsletters",
+            "C": "Information on financial products",
+            "D": "Tools to help with financial decisions"
+          },
+          "answer": "B",
+          "explain": "Bài có số dư hiện tại (A), thông tin sản phẩm qua e-mail (C), công cụ tính toán tài chính (D). Không nhắc tới bản tin hằng tháng.",
+          "passage": {
+            "text": "DNB Banking Online\nThe Closest DNB Bank Branch Is at Your Fingertips\nTake a look at what you can do through DNB Banking Online, 24 hours a day, from anywhere you have access to a PC with an Internet connection.\n• See current balances of your DNB Bank accounts on one screen.\n• Review details of your transaction history.\n• Transfer funds between your DNB Bank accounts.\n• Make a payment on a DNB loan.\n\nSelf-Service Features That Will Save You Time\nDNB Banking Online also saves you time by providing online self-service resources.\n• Pay all of your bills with our powerful, free Web bill payment service.\n• Make address or telephone number changes online on your DNB accounts. Just fill out the online form; there's no need to call DNB for these changes.\n• Sign up to receive information on DNB products, services, and special offers by e-mail.\nVisit our Tools & Resources Web site to determine the best product options for you and your family with one of our many financial calculators and so much more.\n\nSign On Today!\nYou need only have an active DNB account to be eligible to access all these services."
+          },
+          "vi": "Ngân hàng trực tuyến DNB\nChi nhánh DNB gần nhất ngay trong tầm tay bạn\nHãy xem những gì bạn có thể làm với Ngân hàng trực tuyến DNB, 24 giờ mỗi ngày, ở bất cứ đâu bạn có máy tính kết nối Internet.\n• Xem số dư hiện tại của các tài khoản DNB trên một màn hình.\n• Xem chi tiết lịch sử giao dịch.\n• Chuyển tiền giữa các tài khoản DNB của bạn.\n• Thanh toán khoản vay DNB.\n\nTính năng tự phục vụ giúp bạn tiết kiệm thời gian\nNgân hàng trực tuyến DNB còn giúp bạn tiết kiệm thời gian nhờ các tiện ích tự phục vụ trực tuyến.\n• Thanh toán mọi hóa đơn bằng dịch vụ thanh toán hóa đơn qua web mạnh mẽ và miễn phí.\n• Thay đổi địa chỉ hoặc số điện thoại cho tài khoản DNB ngay trên mạng. Chỉ cần điền biểu mẫu trực tuyến; không cần gọi DNB để thay đổi.\n• Đăng ký nhận thông tin về sản phẩm, dịch vụ và ưu đãi đặc biệt của DNB qua e-mail.\nHãy vào trang Công cụ & Tài nguyên để chọn sản phẩm phù hợp nhất cho bạn và gia đình bằng một trong nhiều công cụ tính toán tài chính của chúng tôi, cùng nhiều tiện ích khác.\n\nĐăng nhập ngay hôm nay!\nBạn chỉ cần có một tài khoản DNB đang hoạt động là đủ điều kiện dùng tất cả các dịch vụ này.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-06",
+          "no": 6,
+          "text": "How are customers encouraged to report address changes?",
+          "options": {
+            "A": "By completing an online form",
+            "B": "By sending an e-mail",
+            "C": "By sending a letter to the customer service department",
+            "D": "By calling the nearest DNB branch"
+          },
+          "answer": "A",
+          "explain": "“Just fill out the online form; there's no need to call DNB for these changes.”",
+          "passage": {
+            "text": "DNB Banking Online\nThe Closest DNB Bank Branch Is at Your Fingertips\nTake a look at what you can do through DNB Banking Online, 24 hours a day, from anywhere you have access to a PC with an Internet connection.\n• See current balances of your DNB Bank accounts on one screen.\n• Review details of your transaction history.\n• Transfer funds between your DNB Bank accounts.\n• Make a payment on a DNB loan.\n\nSelf-Service Features That Will Save You Time\nDNB Banking Online also saves you time by providing online self-service resources.\n• Pay all of your bills with our powerful, free Web bill payment service.\n• Make address or telephone number changes online on your DNB accounts. Just fill out the online form; there's no need to call DNB for these changes.\n• Sign up to receive information on DNB products, services, and special offers by e-mail.\nVisit our Tools & Resources Web site to determine the best product options for you and your family with one of our many financial calculators and so much more.\n\nSign On Today!\nYou need only have an active DNB account to be eligible to access all these services."
+          },
+          "vi": "Ngân hàng trực tuyến DNB\nChi nhánh DNB gần nhất ngay trong tầm tay bạn\nHãy xem những gì bạn có thể làm với Ngân hàng trực tuyến DNB, 24 giờ mỗi ngày, ở bất cứ đâu bạn có máy tính kết nối Internet.\n• Xem số dư hiện tại của các tài khoản DNB trên một màn hình.\n• Xem chi tiết lịch sử giao dịch.\n• Chuyển tiền giữa các tài khoản DNB của bạn.\n• Thanh toán khoản vay DNB.\n\nTính năng tự phục vụ giúp bạn tiết kiệm thời gian\nNgân hàng trực tuyến DNB còn giúp bạn tiết kiệm thời gian nhờ các tiện ích tự phục vụ trực tuyến.\n• Thanh toán mọi hóa đơn bằng dịch vụ thanh toán hóa đơn qua web mạnh mẽ và miễn phí.\n• Thay đổi địa chỉ hoặc số điện thoại cho tài khoản DNB ngay trên mạng. Chỉ cần điền biểu mẫu trực tuyến; không cần gọi DNB để thay đổi.\n• Đăng ký nhận thông tin về sản phẩm, dịch vụ và ưu đãi đặc biệt của DNB qua e-mail.\nHãy vào trang Công cụ & Tài nguyên để chọn sản phẩm phù hợp nhất cho bạn và gia đình bằng một trong nhiều công cụ tính toán tài chính của chúng tôi, cùng nhiều tiện ích khác.\n\nĐăng nhập ngay hôm nay!\nBạn chỉ cần có một tài khoản DNB đang hoạt động là đủ điều kiện dùng tất cả các dịch vụ này.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-07",
+          "no": 7,
+          "text": "What is suggested as an important benefit of using online banking services?",
+          "options": {
+            "A": "Availability of special loan rates",
+            "B": "Access to customer service representatives",
+            "C": "Convenience of use",
+            "D": "Reduced banking fees"
+          },
+          "answer": "C",
+          "explain": "Bài nhấn mạnh “24 hours a day, from anywhere” và “saves you time” → sự tiện lợi.",
+          "passage": {
+            "text": "DNB Banking Online\nThe Closest DNB Bank Branch Is at Your Fingertips\nTake a look at what you can do through DNB Banking Online, 24 hours a day, from anywhere you have access to a PC with an Internet connection.\n• See current balances of your DNB Bank accounts on one screen.\n• Review details of your transaction history.\n• Transfer funds between your DNB Bank accounts.\n• Make a payment on a DNB loan.\n\nSelf-Service Features That Will Save You Time\nDNB Banking Online also saves you time by providing online self-service resources.\n• Pay all of your bills with our powerful, free Web bill payment service.\n• Make address or telephone number changes online on your DNB accounts. Just fill out the online form; there's no need to call DNB for these changes.\n• Sign up to receive information on DNB products, services, and special offers by e-mail.\nVisit our Tools & Resources Web site to determine the best product options for you and your family with one of our many financial calculators and so much more.\n\nSign On Today!\nYou need only have an active DNB account to be eligible to access all these services."
+          },
+          "vi": "Ngân hàng trực tuyến DNB\nChi nhánh DNB gần nhất ngay trong tầm tay bạn\nHãy xem những gì bạn có thể làm với Ngân hàng trực tuyến DNB, 24 giờ mỗi ngày, ở bất cứ đâu bạn có máy tính kết nối Internet.\n• Xem số dư hiện tại của các tài khoản DNB trên một màn hình.\n• Xem chi tiết lịch sử giao dịch.\n• Chuyển tiền giữa các tài khoản DNB của bạn.\n• Thanh toán khoản vay DNB.\n\nTính năng tự phục vụ giúp bạn tiết kiệm thời gian\nNgân hàng trực tuyến DNB còn giúp bạn tiết kiệm thời gian nhờ các tiện ích tự phục vụ trực tuyến.\n• Thanh toán mọi hóa đơn bằng dịch vụ thanh toán hóa đơn qua web mạnh mẽ và miễn phí.\n• Thay đổi địa chỉ hoặc số điện thoại cho tài khoản DNB ngay trên mạng. Chỉ cần điền biểu mẫu trực tuyến; không cần gọi DNB để thay đổi.\n• Đăng ký nhận thông tin về sản phẩm, dịch vụ và ưu đãi đặc biệt của DNB qua e-mail.\nHãy vào trang Công cụ & Tài nguyên để chọn sản phẩm phù hợp nhất cho bạn và gia đình bằng một trong nhiều công cụ tính toán tài chính của chúng tôi, cùng nhiều tiện ích khác.\n\nĐăng nhập ngay hôm nay!\nBạn chỉ cần có một tài khoản DNB đang hoạt động là đủ điều kiện dùng tất cả các dịch vụ này.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: Cardston Health & Fitness Club",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d21-read-08",
+          "no": 8,
+          "text": "For whom is the information most likely intended?",
+          "options": {
+            "A": "Gym members",
+            "B": "Health instructors",
+            "C": "People interested in joining a gym",
+            "D": "People visiting the town of Cardston"
+          },
+          "answer": "C",
+          "explain": "Bài giới thiệu phòng tập, liệt kê quyền lợi hội viên và mời “Come visit us for a tour” → viết cho người đang cân nhắc tham gia.",
+          "passage": {
+            "text": "CARDSTONHEALTHANDFITNESSCLUB.COM\nHOME | CLASS SCHEDULE | DIRECTIONS | CONTACT US\n\nLearn About Us\nCardston Health & Fitness Club is a unique gym designed to meet all of your needs. Our programs are personalized and suitable for all ages and lifestyles. No matter if you're younger, older, an accomplished athlete, or just seeking to get in shape, we have the perfect program to help you reach your goals. We offer our members many programs and services.\n\nIncluded with gym membership:\n• Exercise machines and weights\n• Group exercise classes\n• Indoor track\n• Tennis courts and basketball courts\n• Olympic-sized pool and wading pool\n\nAvailable for additional fee:\n• Certified personal trainers\n• Massage therapy\n• Nutritional counseling\n• Team sports programs\n• Child care\n\nCome visit us for a tour of our facilities!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5"
+          },
+          "vi": "CARDSTONHEALTHANDFITNESSCLUB.COM\nTRANG CHỦ | LỊCH LỚP | CHỈ ĐƯỜNG | LIÊN HỆ\n\nGiới thiệu\nCardston Health & Fitness Club là phòng tập độc đáo được thiết kế để đáp ứng mọi nhu cầu của bạn. Các chương trình của chúng tôi được cá nhân hóa và phù hợp với mọi lứa tuổi, mọi lối sống. Dù bạn trẻ hay lớn tuổi, là vận động viên giỏi hay chỉ muốn lấy lại vóc dáng, chúng tôi đều có chương trình phù hợp giúp bạn đạt mục tiêu. Chúng tôi cung cấp cho hội viên nhiều chương trình và dịch vụ.\n\nĐã bao gồm trong phí hội viên:\n• Máy tập và tạ\n• Lớp tập nhóm\n• Đường chạy trong nhà\n• Sân tennis và sân bóng rổ\n• Hồ bơi tiêu chuẩn Olympic và hồ bơi nông\n\nCó tính thêm phí:\n• Huấn luyện viên cá nhân có chứng chỉ\n• Trị liệu xoa bóp\n• Tư vấn dinh dưỡng\n• Chương trình thể thao đồng đội\n• Trông trẻ\n\nHãy đến tham quan cơ sở của chúng tôi!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-09",
+          "no": 9,
+          "text": "What is indicated about the gym?",
+          "options": {
+            "A": "It is going to change its hours soon.",
+            "B": "It is suited for people of all fitness levels.",
+            "C": "It has recently added classes on nutrition.",
+            "D": "It offers a free trial membership."
+          },
+          "answer": "B",
+          "explain": "“suitable for all ages and lifestyles … an accomplished athlete, or just seeking to get in shape” → phù hợp mọi trình độ.",
+          "passage": {
+            "text": "CARDSTONHEALTHANDFITNESSCLUB.COM\nHOME | CLASS SCHEDULE | DIRECTIONS | CONTACT US\n\nLearn About Us\nCardston Health & Fitness Club is a unique gym designed to meet all of your needs. Our programs are personalized and suitable for all ages and lifestyles. No matter if you're younger, older, an accomplished athlete, or just seeking to get in shape, we have the perfect program to help you reach your goals. We offer our members many programs and services.\n\nIncluded with gym membership:\n• Exercise machines and weights\n• Group exercise classes\n• Indoor track\n• Tennis courts and basketball courts\n• Olympic-sized pool and wading pool\n\nAvailable for additional fee:\n• Certified personal trainers\n• Massage therapy\n• Nutritional counseling\n• Team sports programs\n• Child care\n\nCome visit us for a tour of our facilities!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5"
+          },
+          "vi": "CARDSTONHEALTHANDFITNESSCLUB.COM\nTRANG CHỦ | LỊCH LỚP | CHỈ ĐƯỜNG | LIÊN HỆ\n\nGiới thiệu\nCardston Health & Fitness Club là phòng tập độc đáo được thiết kế để đáp ứng mọi nhu cầu của bạn. Các chương trình của chúng tôi được cá nhân hóa và phù hợp với mọi lứa tuổi, mọi lối sống. Dù bạn trẻ hay lớn tuổi, là vận động viên giỏi hay chỉ muốn lấy lại vóc dáng, chúng tôi đều có chương trình phù hợp giúp bạn đạt mục tiêu. Chúng tôi cung cấp cho hội viên nhiều chương trình và dịch vụ.\n\nĐã bao gồm trong phí hội viên:\n• Máy tập và tạ\n• Lớp tập nhóm\n• Đường chạy trong nhà\n• Sân tennis và sân bóng rổ\n• Hồ bơi tiêu chuẩn Olympic và hồ bơi nông\n\nCó tính thêm phí:\n• Huấn luyện viên cá nhân có chứng chỉ\n• Trị liệu xoa bóp\n• Tư vấn dinh dưỡng\n• Chương trình thể thao đồng đội\n• Trông trẻ\n\nHãy đến tham quan cơ sở của chúng tôi!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-10",
+          "no": 10,
+          "text": "What is NOT listed as a benefit of membership?",
+          "options": {
+            "A": "Fitness classes",
+            "B": "Use of tennis courts",
+            "C": "Access to a track",
+            "D": "Swimming lessons"
+          },
+          "answer": "D",
+          "explain": "Phí hội viên gồm lớp tập nhóm (A), sân tennis (B), đường chạy (C), hồ bơi — nhưng không có lớp dạy bơi.",
+          "passage": {
+            "text": "CARDSTONHEALTHANDFITNESSCLUB.COM\nHOME | CLASS SCHEDULE | DIRECTIONS | CONTACT US\n\nLearn About Us\nCardston Health & Fitness Club is a unique gym designed to meet all of your needs. Our programs are personalized and suitable for all ages and lifestyles. No matter if you're younger, older, an accomplished athlete, or just seeking to get in shape, we have the perfect program to help you reach your goals. We offer our members many programs and services.\n\nIncluded with gym membership:\n• Exercise machines and weights\n• Group exercise classes\n• Indoor track\n• Tennis courts and basketball courts\n• Olympic-sized pool and wading pool\n\nAvailable for additional fee:\n• Certified personal trainers\n• Massage therapy\n• Nutritional counseling\n• Team sports programs\n• Child care\n\nCome visit us for a tour of our facilities!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5"
+          },
+          "vi": "CARDSTONHEALTHANDFITNESSCLUB.COM\nTRANG CHỦ | LỊCH LỚP | CHỈ ĐƯỜNG | LIÊN HỆ\n\nGiới thiệu\nCardston Health & Fitness Club là phòng tập độc đáo được thiết kế để đáp ứng mọi nhu cầu của bạn. Các chương trình của chúng tôi được cá nhân hóa và phù hợp với mọi lứa tuổi, mọi lối sống. Dù bạn trẻ hay lớn tuổi, là vận động viên giỏi hay chỉ muốn lấy lại vóc dáng, chúng tôi đều có chương trình phù hợp giúp bạn đạt mục tiêu. Chúng tôi cung cấp cho hội viên nhiều chương trình và dịch vụ.\n\nĐã bao gồm trong phí hội viên:\n• Máy tập và tạ\n• Lớp tập nhóm\n• Đường chạy trong nhà\n• Sân tennis và sân bóng rổ\n• Hồ bơi tiêu chuẩn Olympic và hồ bơi nông\n\nCó tính thêm phí:\n• Huấn luyện viên cá nhân có chứng chỉ\n• Trị liệu xoa bóp\n• Tư vấn dinh dưỡng\n• Chương trình thể thao đồng đội\n• Trông trẻ\n\nHãy đến tham quan cơ sở của chúng tôi!\nCardston Health & Fitness Club, 329 8th Avenue West, Cardston, Alberta T1J 0J5",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: Washwave dishwasher",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d21-read-11",
+          "no": 11,
+          "text": "What is the information mainly about?",
+          "options": {
+            "A": "Choosing a dishwashing detergent",
+            "B": "Advances in ways to clean jewelry",
+            "C": "Using sound waves to clean dishes",
+            "D": "A new clothes washing machine"
+          },
+          "answer": "C",
+          "explain": "Cả bài nói về máy rửa bát Washwave dùng sóng siêu âm (“ultrasonic waves”) để làm sạch bát đĩa. Trang sức chỉ là ví dụ so sánh.",
+          "passage": {
+            "text": "TECHNOLOGY NEWS\nThe new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment. The Washwave removes debris from dishes using ultrasonic waves in the same way that they can be used to clean jewelry. The dishwasher contains a 100-liter tank with two metal converters that release high-frequency sound waves under water. The waves generate high-temperature, high-pressure bubbles that clean dishes using very little detergent. These micro-scrubbing bubbles can reach into small cracks and crevices that sponges or brushes cannot reach.\n\nA conventional machine consumes 200 to 300 liters of fresh water per use. The Washwave filters the water in its tank for reuse after each cycle. The water in its tank only needs to be changed every other week. This can save the average household 250,000 to 500,000 liters of water annually. The shorter run time of the machine also saves on electricity. The Washwave cleaning cycle lasts only five minutes where a conventional machine usually takes twenty minutes or longer.\n\nThe Washwave unit was introduced in Japan in September, and Dowell is planning to introduce it around the world over the next several years. Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries. For more information, visit www.dowell.com to see demonstration videos, order a brochure, or find a local retailer."
+          },
+          "vi": "TIN CÔNG NGHỆ\nMáy rửa bát siêu âm gia đình Washwave mới do Công ty Dowell phát triển là cách tuyệt vời để rửa bát và có lợi cho môi trường. Washwave loại bỏ cặn bẩn trên bát đĩa bằng sóng siêu âm, giống cách sóng siêu âm được dùng để làm sạch trang sức. Máy có một bồn 100 lít với hai bộ chuyển đổi kim loại phát ra sóng âm tần số cao dưới nước. Sóng tạo ra các bọt khí nhiệt độ cao, áp suất cao làm sạch bát đĩa mà chỉ dùng rất ít chất tẩy rửa. Những bọt chà rửa siêu nhỏ này len được vào các khe, kẽ nhỏ mà miếng bọt biển hay bàn chải không chạm tới.\n\nMột máy thông thường tiêu thụ 200 đến 300 lít nước sạch mỗi lần dùng. Washwave lọc nước trong bồn để dùng lại sau mỗi chu trình. Nước trong bồn chỉ cần thay hai tuần một lần. Điều này giúp một hộ gia đình trung bình tiết kiệm 250.000 đến 500.000 lít nước mỗi năm. Thời gian chạy ngắn hơn cũng giúp tiết kiệm điện. Một chu trình rửa của Washwave chỉ kéo dài năm phút, trong khi máy thông thường thường mất hai mươi phút trở lên.\n\nWashwave được ra mắt tại Nhật Bản vào tháng Chín, và Dowell dự định đưa sản phẩm ra khắp thế giới trong vài năm tới. Dowell cũng có thể tùy chỉnh máy rửa bát theo nhu cầu của khách hàng doanh nghiệp, chẳng hạn trong ngành y tế và khách sạn. Để biết thêm thông tin, hãy vào www.dowell.com để xem video trình diễn, đặt tờ giới thiệu hoặc tìm cửa hàng gần bạn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-12",
+          "no": 12,
+          "text": "According to the information, what is an advantage of the Washwave?",
+          "options": {
+            "A": "It eliminates the need for detergent.",
+            "B": "It uses high-powered brushes.",
+            "C": "It takes only 20 minutes to complete a cycle.",
+            "D": "It uses less energy than other machines."
+          },
+          "answer": "D",
+          "explain": "“The shorter run time of the machine also saves on electricity.” A sai (vẫn dùng “very little detergent”), C sai (chu trình 5 phút, 20 phút là máy thường).",
+          "passage": {
+            "text": "TECHNOLOGY NEWS\nThe new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment. The Washwave removes debris from dishes using ultrasonic waves in the same way that they can be used to clean jewelry. The dishwasher contains a 100-liter tank with two metal converters that release high-frequency sound waves under water. The waves generate high-temperature, high-pressure bubbles that clean dishes using very little detergent. These micro-scrubbing bubbles can reach into small cracks and crevices that sponges or brushes cannot reach.\n\nA conventional machine consumes 200 to 300 liters of fresh water per use. The Washwave filters the water in its tank for reuse after each cycle. The water in its tank only needs to be changed every other week. This can save the average household 250,000 to 500,000 liters of water annually. The shorter run time of the machine also saves on electricity. The Washwave cleaning cycle lasts only five minutes where a conventional machine usually takes twenty minutes or longer.\n\nThe Washwave unit was introduced in Japan in September, and Dowell is planning to introduce it around the world over the next several years. Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries. For more information, visit www.dowell.com to see demonstration videos, order a brochure, or find a local retailer."
+          },
+          "vi": "TIN CÔNG NGHỆ\nMáy rửa bát siêu âm gia đình Washwave mới do Công ty Dowell phát triển là cách tuyệt vời để rửa bát và có lợi cho môi trường. Washwave loại bỏ cặn bẩn trên bát đĩa bằng sóng siêu âm, giống cách sóng siêu âm được dùng để làm sạch trang sức. Máy có một bồn 100 lít với hai bộ chuyển đổi kim loại phát ra sóng âm tần số cao dưới nước. Sóng tạo ra các bọt khí nhiệt độ cao, áp suất cao làm sạch bát đĩa mà chỉ dùng rất ít chất tẩy rửa. Những bọt chà rửa siêu nhỏ này len được vào các khe, kẽ nhỏ mà miếng bọt biển hay bàn chải không chạm tới.\n\nMột máy thông thường tiêu thụ 200 đến 300 lít nước sạch mỗi lần dùng. Washwave lọc nước trong bồn để dùng lại sau mỗi chu trình. Nước trong bồn chỉ cần thay hai tuần một lần. Điều này giúp một hộ gia đình trung bình tiết kiệm 250.000 đến 500.000 lít nước mỗi năm. Thời gian chạy ngắn hơn cũng giúp tiết kiệm điện. Một chu trình rửa của Washwave chỉ kéo dài năm phút, trong khi máy thông thường thường mất hai mươi phút trở lên.\n\nWashwave được ra mắt tại Nhật Bản vào tháng Chín, và Dowell dự định đưa sản phẩm ra khắp thế giới trong vài năm tới. Dowell cũng có thể tùy chỉnh máy rửa bát theo nhu cầu của khách hàng doanh nghiệp, chẳng hạn trong ngành y tế và khách sạn. Để biết thêm thông tin, hãy vào www.dowell.com để xem video trình diễn, đặt tờ giới thiệu hoặc tìm cửa hàng gần bạn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-13",
+          "no": 13,
+          "text": "How often should the water in the Washwave be replaced?",
+          "options": {
+            "A": "Twice a week",
+            "B": "Once a week",
+            "C": "Once every two weeks",
+            "D": "Once a month"
+          },
+          "answer": "C",
+          "explain": "“only needs to be changed every other week” = hai tuần một lần.",
+          "passage": {
+            "text": "TECHNOLOGY NEWS\nThe new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment. The Washwave removes debris from dishes using ultrasonic waves in the same way that they can be used to clean jewelry. The dishwasher contains a 100-liter tank with two metal converters that release high-frequency sound waves under water. The waves generate high-temperature, high-pressure bubbles that clean dishes using very little detergent. These micro-scrubbing bubbles can reach into small cracks and crevices that sponges or brushes cannot reach.\n\nA conventional machine consumes 200 to 300 liters of fresh water per use. The Washwave filters the water in its tank for reuse after each cycle. The water in its tank only needs to be changed every other week. This can save the average household 250,000 to 500,000 liters of water annually. The shorter run time of the machine also saves on electricity. The Washwave cleaning cycle lasts only five minutes where a conventional machine usually takes twenty minutes or longer.\n\nThe Washwave unit was introduced in Japan in September, and Dowell is planning to introduce it around the world over the next several years. Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries. For more information, visit www.dowell.com to see demonstration videos, order a brochure, or find a local retailer."
+          },
+          "vi": "TIN CÔNG NGHỆ\nMáy rửa bát siêu âm gia đình Washwave mới do Công ty Dowell phát triển là cách tuyệt vời để rửa bát và có lợi cho môi trường. Washwave loại bỏ cặn bẩn trên bát đĩa bằng sóng siêu âm, giống cách sóng siêu âm được dùng để làm sạch trang sức. Máy có một bồn 100 lít với hai bộ chuyển đổi kim loại phát ra sóng âm tần số cao dưới nước. Sóng tạo ra các bọt khí nhiệt độ cao, áp suất cao làm sạch bát đĩa mà chỉ dùng rất ít chất tẩy rửa. Những bọt chà rửa siêu nhỏ này len được vào các khe, kẽ nhỏ mà miếng bọt biển hay bàn chải không chạm tới.\n\nMột máy thông thường tiêu thụ 200 đến 300 lít nước sạch mỗi lần dùng. Washwave lọc nước trong bồn để dùng lại sau mỗi chu trình. Nước trong bồn chỉ cần thay hai tuần một lần. Điều này giúp một hộ gia đình trung bình tiết kiệm 250.000 đến 500.000 lít nước mỗi năm. Thời gian chạy ngắn hơn cũng giúp tiết kiệm điện. Một chu trình rửa của Washwave chỉ kéo dài năm phút, trong khi máy thông thường thường mất hai mươi phút trở lên.\n\nWashwave được ra mắt tại Nhật Bản vào tháng Chín, và Dowell dự định đưa sản phẩm ra khắp thế giới trong vài năm tới. Dowell cũng có thể tùy chỉnh máy rửa bát theo nhu cầu của khách hàng doanh nghiệp, chẳng hạn trong ngành y tế và khách sạn. Để biết thêm thông tin, hãy vào www.dowell.com để xem video trình diễn, đặt tờ giới thiệu hoặc tìm cửa hàng gần bạn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-14",
+          "no": 14,
+          "text": "What is indicated about the Dowell Company?",
+          "options": {
+            "A": "It will sell the Washwave only in Japan.",
+            "B": "It is a leader in the hospitality industry.",
+            "C": "It plans to start selling the Washwave next year.",
+            "D": "It can adapt the Washwave to different uses."
+          },
+          "answer": "D",
+          "explain": "“Dowell is also able to customize dishwashers to meet the needs of commercial clients” → điều chỉnh cho nhiều mục đích. A sai (sẽ bán khắp thế giới).",
+          "passage": {
+            "text": "TECHNOLOGY NEWS\nThe new Washwave ultrasonic home dishwasher developed by the Dowell Company is a great way to clean dishes and benefit the environment. The Washwave removes debris from dishes using ultrasonic waves in the same way that they can be used to clean jewelry. The dishwasher contains a 100-liter tank with two metal converters that release high-frequency sound waves under water. The waves generate high-temperature, high-pressure bubbles that clean dishes using very little detergent. These micro-scrubbing bubbles can reach into small cracks and crevices that sponges or brushes cannot reach.\n\nA conventional machine consumes 200 to 300 liters of fresh water per use. The Washwave filters the water in its tank for reuse after each cycle. The water in its tank only needs to be changed every other week. This can save the average household 250,000 to 500,000 liters of water annually. The shorter run time of the machine also saves on electricity. The Washwave cleaning cycle lasts only five minutes where a conventional machine usually takes twenty minutes or longer.\n\nThe Washwave unit was introduced in Japan in September, and Dowell is planning to introduce it around the world over the next several years. Dowell is also able to customize dishwashers to meet the needs of commercial clients such as those in the healthcare and hospitality industries. For more information, visit www.dowell.com to see demonstration videos, order a brochure, or find a local retailer."
+          },
+          "vi": "TIN CÔNG NGHỆ\nMáy rửa bát siêu âm gia đình Washwave mới do Công ty Dowell phát triển là cách tuyệt vời để rửa bát và có lợi cho môi trường. Washwave loại bỏ cặn bẩn trên bát đĩa bằng sóng siêu âm, giống cách sóng siêu âm được dùng để làm sạch trang sức. Máy có một bồn 100 lít với hai bộ chuyển đổi kim loại phát ra sóng âm tần số cao dưới nước. Sóng tạo ra các bọt khí nhiệt độ cao, áp suất cao làm sạch bát đĩa mà chỉ dùng rất ít chất tẩy rửa. Những bọt chà rửa siêu nhỏ này len được vào các khe, kẽ nhỏ mà miếng bọt biển hay bàn chải không chạm tới.\n\nMột máy thông thường tiêu thụ 200 đến 300 lít nước sạch mỗi lần dùng. Washwave lọc nước trong bồn để dùng lại sau mỗi chu trình. Nước trong bồn chỉ cần thay hai tuần một lần. Điều này giúp một hộ gia đình trung bình tiết kiệm 250.000 đến 500.000 lít nước mỗi năm. Thời gian chạy ngắn hơn cũng giúp tiết kiệm điện. Một chu trình rửa của Washwave chỉ kéo dài năm phút, trong khi máy thông thường thường mất hai mươi phút trở lên.\n\nWashwave được ra mắt tại Nhật Bản vào tháng Chín, và Dowell dự định đưa sản phẩm ra khắp thế giới trong vài năm tới. Dowell cũng có thể tùy chỉnh máy rửa bát theo nhu cầu của khách hàng doanh nghiệp, chẳng hạn trong ngành y tế và khách sạn. Để biết thêm thông tin, hãy vào www.dowell.com để xem video trình diễn, đặt tờ giới thiệu hoặc tìm cửa hàng gần bạn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 7: Camera reviews",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D12 S2 UNIT7.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d21-read-15",
+          "no": 15,
+          "text": "What is indicated about Ms. Baek?",
+          "options": {
+            "A": "She regularly contributes to Amateur Photography Online.",
+            "B": "She is a prize-winning photographer.",
+            "C": "She takes only black-and-white photographs.",
+            "D": "She has authored only one book."
+          },
+          "answer": "A",
+          "explain": "“Amateur Photography Online's own Shin-Young Baek” và “This month … has selected” → cô là người viết của trang. D sai vì “most recent book” cho thấy có nhiều sách.",
+          "passage": {
+            "text": "www.amateurphotographyonline.com\nShin-Young Baek on Cameras\nThis month, Amateur Photography Online's own Shin-Young Baek has selected three new digital models to review for our readers. Be sure to check out Ms. Baek's most recent book, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — We recommend this model for amateurs who prefer a point-and-shoot camera. Though it does not have sophisticated settings, its straightforward, clear menu and large screen make it popular with novice photographers.\n\nHoshi Smartshot 3100R — This model is our all-around favorite due to its versatility. It is easy for newer photographers to use but allows a large amount of flexibility for seasoned photographers. Its balanced selection of features includes basic video recording.\n\nOmniver 6.0 — This new Omniver model has the capacity to produce beautiful shots for those who are highly skilled with cameras. It has the best lens of any of the selected cameras, but less experienced photographers may be put off by the lack of automatic focus. This camera also lacks video capabilities.\n\nThink you know cameras? Submit your own review and you could win a year of photo printing services!"
+          },
+          "vi": "www.amateurphotographyonline.com\nShin-Young Baek bàn về máy ảnh\nTháng này, Shin-Young Baek của chính Amateur Photography Online đã chọn ba mẫu máy ảnh kỹ thuật số mới để đánh giá cho độc giả. Đừng quên xem cuốn sách mới nhất của cô Baek, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — Chúng tôi giới thiệu mẫu này cho người nghiệp dư thích máy ảnh ngắm-và-chụp. Dù không có cài đặt phức tạp, menu đơn giản, rõ ràng và màn hình lớn khiến nó được người mới chụp ảnh ưa chuộng.\n\nHoshi Smartshot 3100R — Đây là mẫu chúng tôi thích nhất về mọi mặt nhờ tính linh hoạt. Người mới dễ sử dụng nhưng nó vẫn cho nhiều tùy biến với người chụp lâu năm. Bộ tính năng cân đối của máy có cả quay video cơ bản.\n\nOmniver 6.0 — Mẫu Omniver mới này có thể cho ra những bức ảnh đẹp với người rất thành thạo máy ảnh. Nó có ống kính tốt nhất trong các máy được chọn, nhưng người ít kinh nghiệm có thể ngại vì máy không có lấy nét tự động. Máy này cũng không quay được video.\n\nBạn nghĩ mình hiểu máy ảnh? Hãy gửi bài đánh giá của bạn và bạn có thể thắng một năm dịch vụ in ảnh!",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-16",
+          "no": 16,
+          "text": "According to the Web page, what is an advantage of the Whitehaven XPC?",
+          "options": {
+            "A": "It is easy to use.",
+            "B": "It has many options.",
+            "C": "It has a large memory.",
+            "D": "It is reasonably priced."
+          },
+          "answer": "A",
+          "explain": "“straightforward, clear menu … popular with novice photographers” → dễ dùng. B sai (“does not have sophisticated settings”).",
+          "passage": {
+            "text": "www.amateurphotographyonline.com\nShin-Young Baek on Cameras\nThis month, Amateur Photography Online's own Shin-Young Baek has selected three new digital models to review for our readers. Be sure to check out Ms. Baek's most recent book, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — We recommend this model for amateurs who prefer a point-and-shoot camera. Though it does not have sophisticated settings, its straightforward, clear menu and large screen make it popular with novice photographers.\n\nHoshi Smartshot 3100R — This model is our all-around favorite due to its versatility. It is easy for newer photographers to use but allows a large amount of flexibility for seasoned photographers. Its balanced selection of features includes basic video recording.\n\nOmniver 6.0 — This new Omniver model has the capacity to produce beautiful shots for those who are highly skilled with cameras. It has the best lens of any of the selected cameras, but less experienced photographers may be put off by the lack of automatic focus. This camera also lacks video capabilities.\n\nThink you know cameras? Submit your own review and you could win a year of photo printing services!"
+          },
+          "vi": "www.amateurphotographyonline.com\nShin-Young Baek bàn về máy ảnh\nTháng này, Shin-Young Baek của chính Amateur Photography Online đã chọn ba mẫu máy ảnh kỹ thuật số mới để đánh giá cho độc giả. Đừng quên xem cuốn sách mới nhất của cô Baek, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — Chúng tôi giới thiệu mẫu này cho người nghiệp dư thích máy ảnh ngắm-và-chụp. Dù không có cài đặt phức tạp, menu đơn giản, rõ ràng và màn hình lớn khiến nó được người mới chụp ảnh ưa chuộng.\n\nHoshi Smartshot 3100R — Đây là mẫu chúng tôi thích nhất về mọi mặt nhờ tính linh hoạt. Người mới dễ sử dụng nhưng nó vẫn cho nhiều tùy biến với người chụp lâu năm. Bộ tính năng cân đối của máy có cả quay video cơ bản.\n\nOmniver 6.0 — Mẫu Omniver mới này có thể cho ra những bức ảnh đẹp với người rất thành thạo máy ảnh. Nó có ống kính tốt nhất trong các máy được chọn, nhưng người ít kinh nghiệm có thể ngại vì máy không có lấy nét tự động. Máy này cũng không quay được video.\n\nBạn nghĩ mình hiểu máy ảnh? Hãy gửi bài đánh giá của bạn và bạn có thể thắng một năm dịch vụ in ảnh!",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-17",
+          "no": 17,
+          "text": "According to the Web page, how are the Omniver 6.0 and the Hoshi Smartshot similar?",
+          "options": {
+            "A": "They can record videos.",
+            "B": "They come with high-quality accessories.",
+            "C": "They were used by Ms. Baek for her latest book.",
+            "D": "They are recommended for experienced users."
+          },
+          "answer": "D",
+          "explain": "Hoshi “allows a large amount of flexibility for seasoned photographers”, Omniver dành cho “those who are highly skilled” → cả hai hợp người có kinh nghiệm. A sai vì Omniver không quay video.",
+          "passage": {
+            "text": "www.amateurphotographyonline.com\nShin-Young Baek on Cameras\nThis month, Amateur Photography Online's own Shin-Young Baek has selected three new digital models to review for our readers. Be sure to check out Ms. Baek's most recent book, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — We recommend this model for amateurs who prefer a point-and-shoot camera. Though it does not have sophisticated settings, its straightforward, clear menu and large screen make it popular with novice photographers.\n\nHoshi Smartshot 3100R — This model is our all-around favorite due to its versatility. It is easy for newer photographers to use but allows a large amount of flexibility for seasoned photographers. Its balanced selection of features includes basic video recording.\n\nOmniver 6.0 — This new Omniver model has the capacity to produce beautiful shots for those who are highly skilled with cameras. It has the best lens of any of the selected cameras, but less experienced photographers may be put off by the lack of automatic focus. This camera also lacks video capabilities.\n\nThink you know cameras? Submit your own review and you could win a year of photo printing services!"
+          },
+          "vi": "www.amateurphotographyonline.com\nShin-Young Baek bàn về máy ảnh\nTháng này, Shin-Young Baek của chính Amateur Photography Online đã chọn ba mẫu máy ảnh kỹ thuật số mới để đánh giá cho độc giả. Đừng quên xem cuốn sách mới nhất của cô Baek, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — Chúng tôi giới thiệu mẫu này cho người nghiệp dư thích máy ảnh ngắm-và-chụp. Dù không có cài đặt phức tạp, menu đơn giản, rõ ràng và màn hình lớn khiến nó được người mới chụp ảnh ưa chuộng.\n\nHoshi Smartshot 3100R — Đây là mẫu chúng tôi thích nhất về mọi mặt nhờ tính linh hoạt. Người mới dễ sử dụng nhưng nó vẫn cho nhiều tùy biến với người chụp lâu năm. Bộ tính năng cân đối của máy có cả quay video cơ bản.\n\nOmniver 6.0 — Mẫu Omniver mới này có thể cho ra những bức ảnh đẹp với người rất thành thạo máy ảnh. Nó có ống kính tốt nhất trong các máy được chọn, nhưng người ít kinh nghiệm có thể ngại vì máy không có lấy nét tự động. Máy này cũng không quay được video.\n\nBạn nghĩ mình hiểu máy ảnh? Hãy gửi bài đánh giá của bạn và bạn có thể thắng một năm dịch vụ in ảnh!",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d21-read-18",
+          "no": 18,
+          "text": "What are readers encouraged to do?",
+          "options": {
+            "A": "Apply for a job with the Web site",
+            "B": "Use an online discount code",
+            "C": "Write a review for the Web site",
+            "D": "Submit sample photographs"
+          },
+          "answer": "C",
+          "explain": "“Submit your own review and you could win a year of photo printing services!”",
+          "passage": {
+            "text": "www.amateurphotographyonline.com\nShin-Young Baek on Cameras\nThis month, Amateur Photography Online's own Shin-Young Baek has selected three new digital models to review for our readers. Be sure to check out Ms. Baek's most recent book, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — We recommend this model for amateurs who prefer a point-and-shoot camera. Though it does not have sophisticated settings, its straightforward, clear menu and large screen make it popular with novice photographers.\n\nHoshi Smartshot 3100R — This model is our all-around favorite due to its versatility. It is easy for newer photographers to use but allows a large amount of flexibility for seasoned photographers. Its balanced selection of features includes basic video recording.\n\nOmniver 6.0 — This new Omniver model has the capacity to produce beautiful shots for those who are highly skilled with cameras. It has the best lens of any of the selected cameras, but less experienced photographers may be put off by the lack of automatic focus. This camera also lacks video capabilities.\n\nThink you know cameras? Submit your own review and you could win a year of photo printing services!"
+          },
+          "vi": "www.amateurphotographyonline.com\nShin-Young Baek bàn về máy ảnh\nTháng này, Shin-Young Baek của chính Amateur Photography Online đã chọn ba mẫu máy ảnh kỹ thuật số mới để đánh giá cho độc giả. Đừng quên xem cuốn sách mới nhất của cô Baek, Wild Rainbow: The Rainforest in Color.\n\nWhitehaven XPC — Chúng tôi giới thiệu mẫu này cho người nghiệp dư thích máy ảnh ngắm-và-chụp. Dù không có cài đặt phức tạp, menu đơn giản, rõ ràng và màn hình lớn khiến nó được người mới chụp ảnh ưa chuộng.\n\nHoshi Smartshot 3100R — Đây là mẫu chúng tôi thích nhất về mọi mặt nhờ tính linh hoạt. Người mới dễ sử dụng nhưng nó vẫn cho nhiều tùy biến với người chụp lâu năm. Bộ tính năng cân đối của máy có cả quay video cơ bản.\n\nOmniver 6.0 — Mẫu Omniver mới này có thể cho ra những bức ảnh đẹp với người rất thành thạo máy ảnh. Nó có ống kính tốt nhất trong các máy được chọn, nhưng người ít kinh nghiệm có thể ngại vì máy không có lấy nét tự động. Máy này cũng không quay được video.\n\nBạn nghĩ mình hiểu máy ảnh? Hãy gửi bài đánh giá của bạn và bạn có thể thắng một năm dịch vụ in ảnh!",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

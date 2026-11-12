@@ -1,0 +1,64 @@
+{
+  "collection": "theory",
+  "day": "day-21",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d21-t-homework",
+      "type": "wordGroups",
+      "title": "Day 12 — homework",
+      "groups": {
+        "Online homework": [
+          "Làm bài tập Part 1 và Part 2 trên web lớp (study.thaylongtoeic.com): Đề 2020 Test 4.",
+          "App có đúng 2 bài đó: 2020 Test 4 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu), audio và ảnh lấy từ web lớp. Web không công bố đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép.",
+          "Web còn giao bài nghe chép chính tả D6 (WORD - DAY 6, 48 câu); app chưa có bài này."
+        ],
+        "Part 3 conversations": [
+          "Làm bài tập Part 3 trong tài liệu: ETS Chapter 8 và Chapter 9, mỗi chương 7 đoạn hội thoại, 21 câu.",
+          "Câu hỏi và phương án lấy từ file Word trong Drive. Drive không có đáp án, nên đáp án do AI suy luận từ audio; câu 19–21 có kèm bảng biểu (order form, coupon) để nhìn khi nghe."
+        ],
+        "Vocabulary": [
+          "Flashcard DAY 12: 25 từ tiếp theo của Topic 06 — Contract Law (từ số 25 đến 49 trong flashcard)."
+        ],
+        "Adjectives": [
+          "Ôn tính từ với 67 câu Part 5 trong file Giải thích ADJ eco3: mỗi câu có nghĩa từng phương án, ghi chú cấu trúc và bản dịch.",
+          "Đáp án suy ra từ chính bản dịch trong file (từ cần điền xuất hiện trong câu dịch)."
+        ],
+        "Reading practice": [
+          "Luyện thêm Part 7 — Unit 7: 6 bài đọc dạng trang web, 18 câu hỏi từ tài liệu D12 S2 UNIT7.pdf.",
+          "Drive không có đáp án cho Unit 7. Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d21-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 21 trong app tương ứng DAY 12 giai đoạn 2.",
+        "Thư mục Key homework của DAY 12 chứa tài liệu chữa bài DAY 11 (Day 20 trong app), không phải đáp án của DAY 12."
+      ],
+      "links": [
+        {
+          "label": "Day 12 flashcards — PDF",
+          "href": "/assets/day-21/flashcard.pdf"
+        },
+        {
+          "label": "Day 12 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1nn27uuFypob-ZoO35Dbxv9twxsWhZCXI/view?usp=sharing"
+        },
+        {
+          "label": "Day 12 adjectives and Part 7 — Unit 7",
+          "href": "/day/day-21/exercises"
+        },
+        {
+          "label": "Day 12 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1CwPXIJwK7DjRLtaHDx6kwvze1_HtkbTU?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

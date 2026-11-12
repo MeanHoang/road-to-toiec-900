@@ -1,0 +1,1627 @@
+{
+  "collection": "listening",
+  "day": "day-21",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d21-hw-2020-test-4-p1",
+      "code": "hw-2020-test-4-p1",
+      "title": "2020 Test 4 — Part 1",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "58cebf4a-9172-4a2f-ab84-43d858f26240",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d21-hw-2020-t4-p1-01",
+          "no": 1,
+          "audio": "/assets/day-21/web-2020-test-4/audio/01.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/01.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "He's cutting a piece of bread.",
+            "B": "He's looking down at some notes.",
+            "C": "He's taking off an apron.",
+            "D": "He's putting some food in a basket."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p1-02",
+          "no": 2,
+          "audio": "/assets/day-21/web-2020-test-4/audio/02.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/02.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "Some bicycles are parked outside.",
+            "B": "Some umbrellas are being installed.",
+            "C": "A building is being painted.",
+            "D": "A walkway is covered with leaves."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p1-03",
+          "no": 3,
+          "audio": "/assets/day-21/web-2020-test-4/audio/03.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/03.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "He's wiping a counter.",
+            "B": "He's washing some clothes.",
+            "C": "He's drying some dishes with a towel.",
+            "D": "He's leaning over a sink."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p1-04",
+          "no": 4,
+          "audio": "/assets/day-21/web-2020-test-4/audio/04.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/04.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "She's folding her uniform.",
+            "B": "She's standing next to her car.",
+            "C": "She's rolling up a poster.",
+            "D": "She's mailing some packages."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p1-05",
+          "no": 5,
+          "audio": "/assets/day-21/web-2020-test-4/audio/05.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/05.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "Some chairs are occupied.",
+            "B": "Some curtains are closed.",
+            "C": "A plant's being placed on top of a desk.",
+            "D": "A patterned rug's been placed over a floor."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p1-06",
+          "no": 6,
+          "audio": "/assets/day-21/web-2020-test-4/audio/06.mp3",
+          "image": "/assets/day-21/web-2020-test-4/images/06.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "There's a ladder leaning against the trunk of a tree.",
+            "B": "A man is standing on the roof of a building.",
+            "C": "Some potted plants are hanging from a pole.",
+            "D": "Some vegetables have been arranged on wooden platforms."
+          },
+          "source": {
+            "audio": "thaylong",
+            "image": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-hw-2020-test-4-p2",
+      "code": "hw-2020-test-4-p2",
+      "title": "2020 Test 4 — Part 2",
+      "subtitle": "Class homework · AI-generated answers · listen and choose",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExamId": "58cebf4a-9172-4a2f-ab84-43d858f26240",
+      "sourceUrl": "https://study.thaylongtoeic.com/my-classes/0f5e9109-c550-4c3c-a4e1-5fa95adc2f1b",
+      "questions": [
+        {
+          "id": "d21-hw-2020-t4-p2-07",
+          "no": 7,
+          "audio": "/assets/day-21/web-2020-test-4/audio/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Who's in charge of the storeroom inventory?",
+            "A": "Sure, sounds great.",
+            "B": "How much does it cost?",
+            "C": "Ms. Kim takes care of it."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-08",
+          "no": 8,
+          "audio": "/assets/day-21/web-2020-test-4/audio/08.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Where's the filing cabinet?",
+            "A": "We'll need 16 folders.",
+            "B": "The pile on the shelf.",
+            "C": "Next to the water cooler."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-09",
+          "no": 9,
+          "audio": "/assets/day-21/web-2020-test-4/audio/09.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "When does the train from Hamburg arrive?",
+            "A": "Early in the morning.",
+            "B": "Yes, I've been trained.",
+            "C": "There's room for four."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-10",
+          "no": 10,
+          "audio": "/assets/day-21/web-2020-test-4/audio/10.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Can you stop by my office later?",
+            "A": "No, last week.",
+            "B": "Yes, I'll come by after lunch.",
+            "C": "I started here last year."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-11",
+          "no": 11,
+          "audio": "/assets/day-21/web-2020-test-4/audio/11.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why was the meeting postponed?",
+            "A": "At 2 P.M.",
+            "B": "Because the report hasn't been finalised.",
+            "C": "Yes, I need to go to the post office."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-12",
+          "no": 12,
+          "audio": "/assets/day-21/web-2020-test-4/audio/12.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When are you going to the art gallery?",
+            "A": "By the park down the road.",
+            "B": "Photographs and paintings.",
+            "C": "Probably right after work."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-13",
+          "no": 13,
+          "audio": "/assets/day-21/web-2020-test-4/audio/13.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where are the loading dock supervisors?",
+            "A": "The downtown supermarket is the best.",
+            "B": "They're at a meeting now.",
+            "C": "No, not usually."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-14",
+          "no": 14,
+          "audio": "/assets/day-21/web-2020-test-4/audio/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "You haven't always worn glasses, have you?",
+            "A": "I didn't see the memo.",
+            "B": "No, only since last year.",
+            "C": "Two glasses of water, please."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-15",
+          "no": 15,
+          "audio": "/assets/day-21/web-2020-test-4/audio/15.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Isn't that apartment we looked at last week still available?",
+            "A": "I can order that part for you.",
+            "B": "Actually, it was rented yesterday.",
+            "C": "It's in the hallway."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-16",
+          "no": 16,
+          "audio": "/assets/day-21/web-2020-test-4/audio/16.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Why don't we go on vacation to London?",
+            "A": "It was good, thanks.",
+            "B": "At the travel agency.",
+            "C": "Yes, that sounds wonderful."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-17",
+          "no": 17,
+          "audio": "/assets/day-21/web-2020-test-4/audio/17.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How do I start a conference call on this system?",
+            "A": "It's usually held in November.",
+            "B": "We discussed the latest project.",
+            "C": "Just press the green button."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-18",
+          "no": 18,
+          "audio": "/assets/day-21/web-2020-test-4/audio/18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "The new printers are very popular.",
+            "A": "I'm writing a first draft.",
+            "B": "Yeah, they're selling quickly.",
+            "C": "Please print five copies."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-19",
+          "no": 19,
+          "audio": "/assets/day-21/web-2020-test-4/audio/19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "What's on the agenda for today's meeting?",
+            "A": "Didn't you get the memo from Julia?",
+            "B": "No, in the conference room.",
+            "C": "Generally, they do."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-20",
+          "no": 20,
+          "audio": "/assets/day-21/web-2020-test-4/audio/20.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Are you sure we'll be able to meet this deadline?",
+            "A": "Sorry, are you in line?",
+            "B": "The long table.",
+            "C": "Yes, I think so."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-21",
+          "no": 21,
+          "audio": "/assets/day-21/web-2020-test-4/audio/21.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why don't we make special t-shirts to sell at the music festival?",
+            "A": "Thanks. It was a gift.",
+            "B": "The event is in three days.",
+            "C": "Rock music is my favorite."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-22",
+          "no": 22,
+          "audio": "/assets/day-21/web-2020-test-4/audio/22.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "We should update our logo design, shouldn't we?",
+            "A": "A famous fashion designer.",
+            "B": "No, our customers like this one.",
+            "C": "He left yesterday."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-23",
+          "no": 23,
+          "audio": "/assets/day-21/web-2020-test-4/audio/23.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Was the research project approved?",
+            "A": "There isn't enough money in the budget.",
+            "B": "The survey results.",
+            "C": "I agree. There's room to improve."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-24",
+          "no": 24,
+          "audio": "/assets/day-21/web-2020-test-4/audio/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Do you need help setting up for the performance?",
+            "A": "The audience was delighted.",
+            "B": "My coworker will be here in a minute.",
+            "C": "I don't have a reservation."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-25",
+          "no": 25,
+          "audio": "/assets/day-21/web-2020-test-4/audio/25.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Fairway Motors just ordered another thousand extra large tyres.",
+            "A": "I enjoyed the retirement party too.",
+            "B": "No, they're in alphabetical order.",
+            "C": "Great, I'll check our inventory."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-26",
+          "no": 26,
+          "audio": "/assets/day-21/web-2020-test-4/audio/26.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "The labor costs will be itemized on the receipt, right?",
+            "A": "The main course was delicious.",
+            "B": "Our finance office handles billing.",
+            "C": "Approximately $200."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-27",
+          "no": 27,
+          "audio": "/assets/day-21/web-2020-test-4/audio/27.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "I don't think we'll have time to eat before the next conference session.",
+            "A": "I just left the file you requested on your desk.",
+            "B": "There's a cafe right around the corner.",
+            "C": "Yes, the session was really interesting."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-28",
+          "no": 28,
+          "audio": "/assets/day-21/web-2020-test-4/audio/28.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Are you in charge of supply chain management?",
+            "A": "I just joined the team.",
+            "B": "Where's the supply cabinet?",
+            "C": "For no extra charge."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-29",
+          "no": 29,
+          "audio": "/assets/day-21/web-2020-test-4/audio/29.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "I think we should ask Ms. Sato for her opinion.",
+            "A": "I have some extras in my desk.",
+            "B": "That clock is an hour ahead.",
+            "C": "All the supervisors are at a seminar."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-30",
+          "no": 30,
+          "audio": "/assets/day-21/web-2020-test-4/audio/30.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Would you like a table by the window or the buffet area?",
+            "A": "We requested a view of the city.",
+            "B": "I ordered that the last time.",
+            "C": "For the furniture delivery."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-hw-2020-t4-p2-31",
+          "no": 31,
+          "audio": "/assets/day-21/web-2020-test-4/audio/31.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Hasn't your parking permit expired?",
+            "A": "I'm signed up for automatic renewal.",
+            "B": "Pick me up at the station, please.",
+            "C": "You can transfer here."
+          },
+          "source": {
+            "audio": "thaylong",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-ch8",
+      "code": "ch8",
+      "title": "ETS Chapter 8 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d21-ch8-01",
+          "no": 1,
+          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "image": null,
+          "question": "Why does the woman call the man?",
+          "options": {
+            "A": "To ask his opinion about office furniture",
+            "B": "To complain about an assignment",
+            "C": "To ask when a new employee will start",
+            "D": "To discuss the company’s budget"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-02",
+          "no": 2,
+          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "image": null,
+          "question": "What is the problem with the man’s desk?",
+          "options": {
+            "A": "It is heavy",
+            "B": "It is old",
+            "C": "It is expensive",
+            "D": "It is small"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-03",
+          "no": 3,
+          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "image": null,
+          "question": "What does the man ask the woman to do?",
+          "options": {
+            "A": "Ask for a discount",
+            "B": "Cancel an order",
+            "C": "Check on the delivery date",
+            "D": "Ask Jane Wilson for her opinion"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-04",
+          "no": 4,
+          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "image": null,
+          "question": "What is the purpose of the woman’s call?",
+          "options": {
+            "A": "She wants to upgrade her heating system",
+            "B": "She wants to find out a price",
+            "C": "She wants to sell a product",
+            "D": "She wants to have a filter repaired"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-05",
+          "no": 5,
+          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "image": null,
+          "question": "What will be different for the next 90 days?",
+          "options": {
+            "A": "The cost of repair jobs",
+            "B": "The cost of some filters",
+            "C": "The time required for repairs",
+            "D": "The time required for delivering parts"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-06",
+          "no": 6,
+          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "image": null,
+          "question": "What does the man say he will do?",
+          "options": {
+            "A": "Provide an estimate of cost",
+            "B": "Read some information about filters",
+            "C": "Have another worker help the woman",
+            "D": "Speak with the maintenance staff"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-07",
+          "no": 7,
+          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "image": null,
+          "question": "What is in the information packet?",
+          "options": {
+            "A": "Company descriptions",
+            "B": "Booth regulations",
+            "C": "Conference schedules",
+            "D": "Product details"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-08",
+          "no": 8,
+          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "image": null,
+          "question": "What does the woman want to do?",
+          "options": {
+            "A": "Meet a writer",
+            "B": "Edit some information",
+            "C": "Send an email",
+            "D": "Design a brochure"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-09",
+          "no": 9,
+          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "image": null,
+          "question": "What is the woman impressed by?",
+          "options": {
+            "A": "The size of a banner",
+            "B": "The texture of a product sample",
+            "C": "The early completion of a project",
+            "D": "The light weight of a display"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-10",
+          "no": 10,
+          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "image": null,
+          "question": "What are the speakers discussing?",
+          "options": {
+            "A": "Drafting a contract",
+            "B": "Working extra hours",
+            "C": "Using a new time reporting system",
+            "D": "Revising a vacation policy"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-11",
+          "no": 11,
+          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "image": null,
+          "question": "What does the man imply when he says “A lot of people have been asking about it”?",
+          "options": {
+            "A": "Staff are confused about a procedure",
+            "B": "People have heard that a workshop is interesting",
+            "C": "Staff are waiting for a new assignment",
+            "D": "A vacation calendar has not been posted yet"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-12",
+          "no": 12,
+          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "image": null,
+          "question": "What does the woman plan to do?",
+          "options": {
+            "A": "Lead some training",
+            "B": "Ask for assistance",
+            "C": "Take some time off",
+            "D": "Author a manual"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-13",
+          "no": 13,
+          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "image": null,
+          "question": "What problem does the man call about?",
+          "options": {
+            "A": "The electrical outlets are not working",
+            "B": "The overhead projector is broken",
+            "C": "The conference room was not reserved",
+            "D": "The maintenance work is expensive"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-14",
+          "no": 14,
+          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "image": null,
+          "question": "When is the meeting?",
+          "options": {
+            "A": "Today",
+            "B": "Tomorrow",
+            "C": "Next week",
+            "D": "Next month"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-15",
+          "no": 15,
+          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "image": null,
+          "question": "What does the woman suggest?",
+          "options": {
+            "A": "Rescheduling the meeting",
+            "B": "Calling back at another time",
+            "C": "Using a different room in the building",
+            "D": "Retiring some different equipment"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-16",
+          "no": 16,
+          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "image": null,
+          "question": "What is the man concerned about?",
+          "options": {
+            "A": "Finding a parking place",
+            "B": "Arriving on time",
+            "C": "Paying an additional fee",
+            "D": "Having enough supplies"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-17",
+          "no": 17,
+          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "image": null,
+          "question": "What did the woman forget to do?",
+          "options": {
+            "A": "Arrange a meeting",
+            "B": "Make a reservation",
+            "C": "Notify some colleagues",
+            "D": "Bring some directions"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-18",
+          "no": 18,
+          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "image": null,
+          "question": "What does the man suggest?",
+          "options": {
+            "A": "Attending a workshop",
+            "B": "Buying a map",
+            "C": "Asking for assistance",
+            "D": "Calling a conference organizer"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch8-19",
+          "no": 19,
+          "audio": "/assets/day-21/chapter-8/19-21.mp3",
+          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "question": "Why is the woman calling?",
+          "options": {
+            "A": "To upgrade an account",
+            "B": "To advertise a product",
+            "C": "To report a problem",
+            "D": "To provide an estimate"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        },
+        {
+          "id": "d21-ch8-20",
+          "no": 20,
+          "audio": "/assets/day-21/chapter-8/19-21.mp3",
+          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "question": "Look at the graphic. What quantity on the original order form has to be changed?",
+          "options": {
+            "A": "10",
+            "B": "20",
+            "C": "50",
+            "D": "100"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        },
+        {
+          "id": "d21-ch8-21",
+          "no": 21,
+          "audio": "/assets/day-21/chapter-8/19-21.mp3",
+          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "question": "What has the woman’s manager instructed her to do?",
+          "options": {
+            "A": "Provide free shipping",
+            "B": "Send samples of new products",
+            "C": "Personally deliver an order",
+            "D": "Offer a discount on a future purchase"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d21-ch9",
+      "code": "ch9",
+      "title": "ETS Chapter 9 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d21-ch9-01",
+          "no": 1,
+          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "image": null,
+          "question": "Where does the conversation most likely take place?",
+          "options": {
+            "A": "In a bakery",
+            "B": "In a bookstore",
+            "C": "In a supermarket",
+            "D": "In a restaurant"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-02",
+          "no": 2,
+          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "image": null,
+          "question": "What does the woman want to know?",
+          "options": {
+            "A": "The location of a product",
+            "B": "The price of an item",
+            "C": "The ingredients of a recipe",
+            "D": "The hours of business"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-03",
+          "no": 3,
+          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "image": null,
+          "question": "What will the man probably do next?",
+          "options": {
+            "A": "He will ask the manager for help",
+            "B": "He will help the woman locate an item",
+            "C": "He will help the woman with her bags",
+            "D": "He will accept payment for the purchases"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-04",
+          "no": 4,
+          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "image": null,
+          "question": "Where does this conversation take place?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "At a clothing store",
+            "C": "At a bookstore",
+            "D": "At a flower shop"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-05",
+          "no": 5,
+          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "image": null,
+          "question": "What does the woman want to do with her purchase?",
+          "options": {
+            "A": "Pick it up later",
+            "B": "Use it immediately",
+            "C": "Have it giftwrapped",
+            "D": "Have it delivered to her home"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-06",
+          "no": 6,
+          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "image": null,
+          "question": "Why is the woman unable to use her credit card?",
+          "options": {
+            "A": "She left her card at home",
+            "B": "The business does not accept credit cards",
+            "C": "The cost of her purchase is not high enough",
+            "D": "The card is damaged"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-07",
+          "no": 7,
+          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "image": null,
+          "question": "Why have the speakers’ travel plans changed?",
+          "options": {
+            "A": "A flight was delayed",
+            "B": "A reservation was not made",
+            "C": "A meeting was rescheduled",
+            "D": "A project was canceled"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-08",
+          "no": 8,
+          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "image": null,
+          "question": "Where most likely are the speakers?",
+          "options": {
+            "A": "In a business office",
+            "B": "At a train station",
+            "C": "At an airport",
+            "D": "In a hotel"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-09",
+          "no": 9,
+          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "image": null,
+          "question": "What will the speakers most likely do next?",
+          "options": {
+            "A": "Go to a train station",
+            "B": "Reserve a bus seat",
+            "C": "Board an airplane",
+            "D": "Check in to a hotel"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-10",
+          "no": 10,
+          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "image": null,
+          "question": "What does the woman mean when she says “excuse me, do you work here”?",
+          "options": {
+            "A": "She would like the man to move",
+            "B": "She wants to get the man’s assistance",
+            "C": "She is requesting permission to leave early",
+            "D": "She wants to check the man’s identification"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-11",
+          "no": 11,
+          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "image": null,
+          "question": "Who most likely is the man?",
+          "options": {
+            "A": "A store clerk",
+            "B": "A magazine journalist",
+            "C": "A museum director",
+            "D": "A professional photographer"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-12",
+          "no": 12,
+          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "image": null,
+          "question": "What does the man say about the camera?",
+          "options": {
+            "A": "It is complicated to operate",
+            "B": "It comes with a carrying case",
+            "C": "It takes high-quality pictures",
+            "D": "Its battery has a short life span"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-13",
+          "no": 13,
+          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "image": null,
+          "question": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "Road repairs",
+            "B": "Car problems",
+            "C": "Flight reservations",
+            "D": "Popular beaches"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-14",
+          "no": 14,
+          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "image": null,
+          "question": "What is the man concerned about?",
+          "options": {
+            "A": "The schedule at work",
+            "B": "The length of his travel time",
+            "C": "The price of a hotel",
+            "D": "The weather during his vacation"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-15",
+          "no": 15,
+          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "image": null,
+          "question": "What will probably happen in 6 weeks?",
+          "options": {
+            "A": "The man will start a new job",
+            "B": "A new hotel will open",
+            "C": "The man will take a vacation",
+            "D": "A construction project will begin"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-16",
+          "no": 16,
+          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "image": null,
+          "question": "Why will the man be out of the office?",
+          "options": {
+            "A": "He will be visiting clients",
+            "B": "He will be on vacation",
+            "C": "He will be attending a conference",
+            "D": "He will be working at home"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-17",
+          "no": 17,
+          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "image": null,
+          "question": "What does the woman offer to do?",
+          "options": {
+            "A": "Finish a project",
+            "B": "Sign some documents",
+            "C": "Reassign a task",
+            "D": "Take notes at a meeting"
+          },
+          "answer": "C",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-18",
+          "no": 18,
+          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "image": null,
+          "question": "What does the man say he will do before he leaves?",
+          "options": {
+            "A": "Write a speech",
+            "B": "Talk with a team member",
+            "C": "Read a report",
+            "D": "Revise a budget"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d21-ch9-19",
+          "no": 19,
+          "audio": "/assets/day-21/chapter-9/19-21.mp3",
+          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "question": "What problem does the woman mention?",
+          "options": {
+            "A": "An item she purchased is defective",
+            "B": "She cannot locate a product",
+            "C": "A sale price seems incorrect",
+            "D": "An expiration date has passed"
+          },
+          "answer": "B",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        },
+        {
+          "id": "d21-ch9-20",
+          "no": 20,
+          "audio": "/assets/day-21/chapter-9/19-21.mp3",
+          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "question": "What does the man say recently happened?",
+          "options": {
+            "A": "Merchandise was rearranged",
+            "B": "Flyers were distributed",
+            "C": "An order was delayed",
+            "D": "A service was discontinued"
+          },
+          "answer": "A",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        },
+        {
+          "id": "d21-ch9-21",
+          "no": 21,
+          "audio": "/assets/day-21/chapter-9/19-21.mp3",
+          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "question": "Look at the graphic. What discount will the woman most likely receive?",
+          "options": {
+            "A": "$2",
+            "B": "$5",
+            "C": "$7",
+            "D": "$10"
+          },
+          "answer": "D",
+          "transcript": null,
+          "transcriptVi": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null,
+            "image": "drive"
+          }
+        }
+      ]
+    }
+  ]
+}
