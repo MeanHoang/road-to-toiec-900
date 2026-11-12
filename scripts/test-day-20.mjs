@@ -9,7 +9,7 @@ const day = assemble('day-20', { day: read('day'), theory: read('theory'), vocab
 assert.equal(day.no, 20); assert.equal(day.phase, 2); assert.equal(day.sourceDay, 11);
 assert.deepEqual(day.collections, ['theory', 'vocabulary', 'listening', 'exercises']);
 
-assert.deepEqual(day.listening.map((s) => s.questions.length), [6, 25, 20, 30, 7, 5]);
+assert.deepEqual(day.listening.map((s) => s.questions.length), [6, 25, 6, 25, 20, 30, 7, 5]);
 const ids = day.listening.flatMap((s) => s.questions.map((q) => q.id));
 assert.equal(new Set(ids).size, ids.length);
 for (const set of day.listening) {
@@ -27,6 +27,10 @@ for (const set of day.listening) {
     }
   }
 }
+// Class web homework (study.thaylongtoeic.com, exam 2020 Test 3) comes first and is a different test from Drive's Test 3.
+assert.deepEqual(day.listening.slice(0, 2).map((s) => s.code), ['hw-2020-test-3-p1', 'hw-2020-test-3-p2']);
+assert.ok(day.listening.slice(0, 2).every((s) => s.source === 'thaylong'));
+assert.notEqual(day.listening[1].questions[0].transcript.Q, day.listening[3].questions[0].transcript.Q);
 // Lecture ETS clips use the class key, not whisper; clip 6 (questions 16–18) is not on Drive.
 const ets = day.listening.find((s) => s.code === 'ets');
 assert.deepEqual(ets.questions.map((q) => q.no), [1, 2, 3, 4, 5, 7, 8]);
@@ -46,4 +50,4 @@ for (const label of [day.subtitle, ...day.theory.map((b) => b.title), ...day.the
   ...day.listening.map((s) => s.title), ...day.vocabulary.map((v) => v.group), ...day.exercises.map((s) => s.title)]) {
   for (const locale of ['vi', 'zh', 'ko']) assert.notEqual(translate(locale, label), label, `Missing ${locale}: ${label}`);
 }
-console.log('✓ Day 20: 93 listening questions (81 AI keys from Drive audio, 12 dictation clips), 19 Part 7 questions, 24 contract-law words with both voices');
+console.log('✓ Day 20: 124 listening questions (31 from the class web, 81 from Drive, 12 dictation clips), 19 Part 7 questions, 24 contract-law words with both voices');
