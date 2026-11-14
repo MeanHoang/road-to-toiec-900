@@ -1,0 +1,65 @@
+{
+  "collection": "theory",
+  "day": "day-22",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d22-t-homework",
+      "type": "wordGroups",
+      "title": "Day 13 — homework",
+      "groups": {
+        "Listening test": [
+          "Test 2 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu) từ thư mục part 1-2 trên Drive, ảnh cắt từ TEST 2.pdf.",
+          "Drive không có đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép."
+        ],
+        "Part 3 conversations": [
+          "Test 4 — Part 3: câu 41–70 (10 đoạn hội thoại). Test 5 — Part 3: câu 41–67 (9 đoạn).",
+          "Drive chỉ có audio Test 5 đến câu 67, nên câu 68–70 của Test 5 không đưa vào app.",
+          "Câu hỏi và phương án lấy từ file Word trong Drive. Drive chưa có đáp án, nên đáp án do AI suy luận từ audio."
+        ],
+        "Lecture": [
+          "Chapter 4 — hội thoại 3 người: phải đọc kỹ câu hỏi trước khi nghe để không bị rối.",
+          "ETS Chapter 4 — Part 3: 8 đoạn, 24 câu, đáp án và lời thoại lấy từ file Transcript chapter 4 của lớp.",
+          "For example 1–2 và ETS Check Up 1–2: 6 câu, lời thoại từ file của lớp; tài liệu không có đáp án nên đáp án do AI chọn."
+        ],
+        "Vocabulary": [
+          "Flashcard DAY 13: Topic 07 — Shopping, 24 từ."
+        ],
+        "Reading practice": [
+          "Part 7 — Unit 8: 6 bài báo/thông cáo, 20 câu hỏi từ tài liệu D13 S2 UNIT8.pdf.",
+          "Drive chưa có đáp án cho Unit 8. Đáp án, giải thích và bản dịch do AI biên soạn để tự luyện."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d22-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 22 trong app tương ứng DAY 13 giai đoạn 2.",
+        "Thư mục KEY HW của DAY 13 là đáp án bài DAY 12 (Day 21 trong app), đã cập nhật vào Day 21."
+      ],
+      "links": [
+        {
+          "label": "Day 13 flashcards — PDF",
+          "href": "/assets/day-22/flashcard.pdf"
+        },
+        {
+          "label": "Day 13 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view?usp=sharing"
+        },
+        {
+          "label": "Day 13 Part 7 — Unit 8",
+          "href": "/day/day-22/exercises"
+        },
+        {
+          "label": "Day 13 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/10HogevZNQyrLFM6hhlF2kHNIuPd5-6PF?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

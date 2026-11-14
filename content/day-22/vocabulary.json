@@ -1,0 +1,691 @@
+{
+  "collection": "vocabulary",
+  "day": "day-22",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d22-v01",
+      "no": 1,
+      "word": "checkout",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtʃekaʊt/",
+        "us": "/ˈtʃekaʊt/"
+      },
+      "meaningVi": "sự (quầy) thanh toán tiền",
+      "image": null,
+      "example": {
+        "en": "By entering the codes at the checkout while shopping online you receive a reduction in the price."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v01-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v02",
+      "no": 2,
+      "word": "warranty",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈwɔːrənti/",
+        "us": "/ˈwɔːrənti/"
+      },
+      "meaningVi": "bảo hành",
+      "image": null,
+      "example": {
+        "en": "The television comes with a full two-year warranty."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v02-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v03",
+      "no": 3,
+      "word": "refund",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈriːfʌnd/",
+        "us": "/ˈriːfʌnd/"
+      },
+      "meaningVi": "hoàn tiền",
+      "image": null,
+      "example": {
+        "en": "If there is a delay of 12 hours or more, you will receive a full refund of the price of your trip."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v03-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v04",
+      "no": 4,
+      "word": "discount",
+      "pos": "n, v",
+      "ipa": {
+        "uk": "/ˈdɪskaʊnt/",
+        "us": "/ˈdɪskaʊnt/"
+      },
+      "meaningVi": "chiết khấu, tiền chiết khấu",
+      "image": null,
+      "example": {
+        "en": "Tour prices are being discounted as much as 33%."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v04-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v05",
+      "no": 5,
+      "word": "clearance sale",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈklɪrəns seɪl/",
+        "us": "/ˈklɪrəns seɪl/"
+      },
+      "meaningVi": "bán hạ giá để giải phóng hàng tồn kho",
+      "image": null,
+      "example": {
+        "en": "Save up to 60% on appliances during our storewide clearance sale."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v05-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v06",
+      "no": 6,
+      "word": "quantity",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkwɑːntəti/",
+        "us": "/ˈkwɑːntəti/"
+      },
+      "meaningVi": "số lượng",
+      "image": null,
+      "example": {
+        "en": "A product that is cheap to produce in large quantities."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v06-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v07",
+      "no": 7,
+      "word": "price list",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpraɪs lɪst/",
+        "us": "/ˈpraɪs lɪst/"
+      },
+      "meaningVi": "danh sách giá (sản phẩm, dịch vụ…)",
+      "image": null,
+      "example": {
+        "en": "Could you send me a copy of your price list for new windows?"
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v07-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v08",
+      "no": 8,
+      "word": "discount coupon",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdɪskaʊnt ˈkjuːpɑːn/",
+        "us": "/ˈdɪskaʊnt ˈkjuːpɑːn/"
+      },
+      "meaningVi": "phiếu giảm giá",
+      "image": null,
+      "example": {
+        "en": "This discount coupon is valid until 31 January."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v08-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v09",
+      "no": 9,
+      "word": "loyalty card",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈlɔɪ.əl.ti ˌkɑːrd/",
+        "us": "/ˈlɔɪ.əl.ti ˌkɑːrd/"
+      },
+      "meaningVi": "thẻ khách hàng thường xuyên",
+      "image": null,
+      "example": {
+        "en": "A double room costs €79.99 per night, but less if you have a loyalty card."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v09-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v10",
+      "no": 10,
+      "word": "redeem",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈdiːm/",
+        "us": "/rɪˈdiːm/"
+      },
+      "meaningVi": "quy đổi, chuộc lại",
+      "image": null,
+      "example": {
+        "en": "She managed to save enough money to redeem her jewellery from the pawn shop."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v10-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v11",
+      "no": 11,
+      "word": "qualify",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈkwɑːlɪfaɪ/",
+        "us": "/ˈkwɑːlɪfaɪ/"
+      },
+      "meaningVi": "đủ tư cách, điều kiện",
+      "image": null,
+      "example": {
+        "en": "Do you qualify for a student discount?"
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts",
+        "pos": "ai"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v11-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v12",
+      "no": 12,
+      "word": "valid",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈvælɪd/",
+        "us": "/ˈvælɪd/"
+      },
+      "meaningVi": "có hiệu lực, hợp lệ, có giá trị",
+      "image": null,
+      "example": {
+        "en": "He bought a bus pass valid for one month."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v12-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v13",
+      "no": 13,
+      "word": "apparel",
+      "pos": "n",
+      "ipa": {
+        "uk": "/əˈpærəl/",
+        "us": "/əˈpærəl/"
+      },
+      "meaningVi": "trang phục, quần áo",
+      "image": null,
+      "example": {
+        "en": "The store sells women's and children's apparel."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v13-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v14",
+      "no": 14,
+      "word": "fabric",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfæbrɪk/",
+        "us": "/ˈfæbrɪk/"
+      },
+      "meaningVi": "chất liệu, vải vóc",
+      "image": null,
+      "example": {
+        "en": "They sell a wide variety of printed cotton fabric."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v14-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v15",
+      "no": 15,
+      "word": "department store",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈpɑːrtmənt stɔːr/",
+        "us": "/dɪˈpɑːrtmənt stɔːr/"
+      },
+      "meaningVi": "cửa hàng bách hóa",
+      "image": null,
+      "example": {
+        "en": "She took a job as a sales assistant in a department store."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v15-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v16",
+      "no": 16,
+      "word": "auction",
+      "pos": "v, n",
+      "ipa": {
+        "uk": "/ˈɔːkʃn/",
+        "us": "/ˈɔːkʃn/"
+      },
+      "meaningVi": "đấu giá",
+      "image": null,
+      "example": {
+        "en": "I try to buy furniture at auctions because it is cheaper that way."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v16-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v17",
+      "no": 17,
+      "word": "affordable",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈfɔːrdəbl/",
+        "us": "/əˈfɔːrdəbl/"
+      },
+      "meaningVi": "phải chăng, hợp lý",
+      "image": null,
+      "example": {
+        "en": "We sell good-quality food at reasonable prices."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v17-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v18",
+      "no": 18,
+      "word": "markdown",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmɑːrkdaʊn/",
+        "us": "/ˈmɑːrkdaʊn/"
+      },
+      "meaningVi": "sự giảm giá",
+      "image": null,
+      "example": {
+        "en": "A markdown of 20%"
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v18-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v19",
+      "no": 19,
+      "word": "giveaway",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡɪvəweɪ/",
+        "us": "/ˈɡɪvəweɪ/"
+      },
+      "meaningVi": "tặng phẩm, hàng tặng",
+      "image": null,
+      "example": {
+        "en": "There's lots of amazing giveaways, from cinema tickets to film posters."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v19-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v20",
+      "no": 20,
+      "word": "flat rate",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌflæt ˈreɪt/",
+        "us": "/ˌflæt ˈreɪt/"
+      },
+      "meaningVi": "giá bán đồng nhất, tỷ lệ (mức) cố định",
+      "image": null,
+      "example": {
+        "en": "Clients are charged at a flat monthly rate."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v20-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v21",
+      "no": 21,
+      "word": "promotion",
+      "pos": "n",
+      "ipa": {
+        "uk": "/prəˈməʊʃn/",
+        "us": "/prəˈməʊʃn/"
+      },
+      "meaningVi": "chương trình khuyến mãi, giảm giá",
+      "image": null,
+      "example": {
+        "en": "We're doing a major book promotion at Key bookshops this week."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v21-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v22",
+      "no": 22,
+      "word": "retail price",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌriːteɪl ˈpraɪs/",
+        "us": "/ˌriːteɪl ˈpraɪs/"
+      },
+      "meaningVi": "giá bán lẻ",
+      "image": null,
+      "example": {
+        "en": "Consumers respond to a lower retail price by switching their purchases of the manufacturer's product to the lower-priced retailer."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v22-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v23",
+      "no": 23,
+      "word": "sales clerk",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈseɪlz klɜːrk/",
+        "us": "/ˈseɪlz klɜːrk/"
+      },
+      "meaningVi": "nhân viên bán hàng",
+      "image": null,
+      "example": {
+        "en": "She was once a part-time sales clerk at a boutique, but later became a mercenary."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v23-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d22-v24",
+      "no": 24,
+      "word": "return policy",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈtɜːrn ˈpɑːləsi/",
+        "us": "/rɪˈtɜːrn ˈpɑːləsi/"
+      },
+      "meaningVi": "chính sách hoàn trả sản phẩm",
+      "image": null,
+      "example": {
+        "en": "Information about our return policy on watches, jewellery and watch straps."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1YZBsv0XWidbH1w4JUMnXBdzZvwczYQpR/view",
+      "voice": {
+        "us": "/assets/day-22/voice-neural/d22-v24-us.mp3",
+        "uk": "/assets/day-22/voice-neural/d22-v24-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "9b5207be89b1afad1cb266833c2b3bd844c745dd84c2143d7eff8d3b92b46983"
+  }
+}

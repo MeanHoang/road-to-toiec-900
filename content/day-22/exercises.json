@@ -1,0 +1,593 @@
+{
+  "collection": "exercises",
+  "day": "day-22",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d22-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: Sectorsys database",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d22-read-01",
+          "no": 1,
+          "text": "What product will Sectorsys offer?",
+          "options": {
+            "A": "Supplies for archaeological digs",
+            "B": "Antitheft alarm systems for museums",
+            "C": "Software that holds information about artifacts",
+            "D": "Equipment for detecting fake artifacts"
+          },
+          "answer": "C",
+          "explain": "“create an extensive database of artifacts” / “an electronic database” → phần mềm lưu thông tin hiện vật. A, B, D không được nhắc tới.",
+          "passage": {
+            "text": "New Database to Facilitate Tracking of Archaeological Finds\n\nSectorsys, Ltd., is pleased to announce that it will soon team up with museums and archaeological societies worldwide to create an extensive database of artifacts discovered at archaeological sites. Says Eric Johannesen, CEO of Sectorsys, “Much of the information about treasures of the ancient world is not well documented and is not readily available. We plan on organizing an electronic database that will enable museums and professionals working in the field to access complete descriptions of artifacts.” The database will initially contain information on 300,000 objects, and will be updated continually."
+          },
+          "vi": "Cơ sở dữ liệu mới giúp theo dõi các hiện vật khảo cổ\n\nCông ty Sectorsys vui mừng thông báo sẽ sớm hợp tác với các bảo tàng và hội khảo cổ trên toàn thế giới để xây dựng một cơ sở dữ liệu lớn về các hiện vật được tìm thấy tại các khu khảo cổ. Ông Eric Johannesen, giám đốc điều hành Sectorsys, cho biết: “Phần lớn thông tin về báu vật của thế giới cổ đại chưa được ghi chép đầy đủ và không dễ tìm. Chúng tôi dự định xây dựng một cơ sở dữ liệu điện tử giúp các bảo tàng và chuyên gia trong ngành tra cứu mô tả đầy đủ về hiện vật.” Ban đầu cơ sở dữ liệu sẽ có thông tin về 300.000 hiện vật và sẽ được cập nhật liên tục.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-02",
+          "no": 2,
+          "text": "According to the press release, who will use the product?",
+          "options": {
+            "A": "Dealers who buy and sell old objects",
+            "B": "Security guards at museums",
+            "C": "Companies that publish books on archaeology",
+            "D": "Museum employees and archaeologists"
+          },
+          "answer": "D",
+          "explain": "“enable museums and professionals working in the field to access…” → người làm ở bảo tàng và nhà khảo cổ.",
+          "passage": {
+            "text": "New Database to Facilitate Tracking of Archaeological Finds\n\nSectorsys, Ltd., is pleased to announce that it will soon team up with museums and archaeological societies worldwide to create an extensive database of artifacts discovered at archaeological sites. Says Eric Johannesen, CEO of Sectorsys, “Much of the information about treasures of the ancient world is not well documented and is not readily available. We plan on organizing an electronic database that will enable museums and professionals working in the field to access complete descriptions of artifacts.” The database will initially contain information on 300,000 objects, and will be updated continually."
+          },
+          "vi": "Cơ sở dữ liệu mới giúp theo dõi các hiện vật khảo cổ\n\nCông ty Sectorsys vui mừng thông báo sẽ sớm hợp tác với các bảo tàng và hội khảo cổ trên toàn thế giới để xây dựng một cơ sở dữ liệu lớn về các hiện vật được tìm thấy tại các khu khảo cổ. Ông Eric Johannesen, giám đốc điều hành Sectorsys, cho biết: “Phần lớn thông tin về báu vật của thế giới cổ đại chưa được ghi chép đầy đủ và không dễ tìm. Chúng tôi dự định xây dựng một cơ sở dữ liệu điện tử giúp các bảo tàng và chuyên gia trong ngành tra cứu mô tả đầy đủ về hiện vật.” Ban đầu cơ sở dữ liệu sẽ có thông tin về 300.000 hiện vật và sẽ được cập nhật liên tục.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: BAC welcomes Timothy Kang",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d22-read-03",
+          "no": 3,
+          "text": "According to the article, what is Kang best known for?",
+          "options": {
+            "A": "His experience as an educator",
+            "B": "His expertise in product marketing",
+            "C": "The software he has developed",
+            "D": "The work he has done overseas"
+          },
+          "answer": "B",
+          "explain": "“a successful track record in … developing successful marketing strategies”, từng làm trưởng phòng marketing → nổi tiếng về chuyên môn marketing. A sai: “education” là ngành của BAC, không phải nghề của ông.",
+          "passage": {
+            "text": "BAC Welcomes Timothy Kang\n\nKowloon, Dec. 16 — BAC, Inc., today announced that it has appointed Timothy Kang as senior vice president of marketing. In his new role, Kang will oversee the marketing department and be responsible for corporate strategy, market analysis, and market evaluation. As a seasoned executive, Kang has more than 20 years of experience and a successful track record in generating new sales partners and developing successful marketing strategies. He is expected to strengthen BAC’s market position as a leading provider of software applications in the education industry.\n\nPrior to joining BAC, Kang was with SAGE Software Company, where he was vice president of corporate sales, and at Tobbler Corporation, where he spent several years as head of the marketing department. At Tobbler, he was credited with earning record-high revenues for the company. After these highly successful endeavors, Kang started his own company, Greenwood Partners, Inc., where he developed and implemented new business strategies for large corporate clients."
+          },
+          "vi": "BAC chào đón Timothy Kang\n\nCửu Long, ngày 16/12 — Hôm nay công ty BAC thông báo đã bổ nhiệm Timothy Kang làm phó chủ tịch cấp cao phụ trách marketing. Ở vị trí mới, ông Kang sẽ giám sát phòng marketing và chịu trách nhiệm về chiến lược công ty, phân tích thị trường và đánh giá thị trường. Là một lãnh đạo dày dạn kinh nghiệm, ông Kang có hơn 20 năm kinh nghiệm và thành tích tốt trong việc tìm thêm đối tác bán hàng mới và xây dựng chiến lược marketing thành công. Ông được kỳ vọng sẽ củng cố vị thế của BAC là nhà cung cấp phần mềm hàng đầu trong ngành giáo dục.\n\nTrước khi về BAC, ông Kang làm ở công ty SAGE Software với vị trí phó chủ tịch phụ trách bán hàng doanh nghiệp, và ở tập đoàn Tobbler, nơi ông làm trưởng phòng marketing trong nhiều năm. Tại Tobbler, ông được ghi nhận đã giúp công ty đạt doanh thu cao kỷ lục. Sau những thành công đó, ông Kang thành lập công ty riêng, Greenwood Partners, nơi ông xây dựng và triển khai chiến lược kinh doanh mới cho các khách hàng doanh nghiệp lớn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-04",
+          "no": 4,
+          "text": "What type of business is BAC, Inc.?",
+          "options": {
+            "A": "A software provider",
+            "B": "A computer retailer",
+            "C": "An advertising agency",
+            "D": "A marketing consultant firm"
+          },
+          "answer": "A",
+          "explain": "“a leading provider of software applications in the education industry” → nhà cung cấp phần mềm.",
+          "passage": {
+            "text": "BAC Welcomes Timothy Kang\n\nKowloon, Dec. 16 — BAC, Inc., today announced that it has appointed Timothy Kang as senior vice president of marketing. In his new role, Kang will oversee the marketing department and be responsible for corporate strategy, market analysis, and market evaluation. As a seasoned executive, Kang has more than 20 years of experience and a successful track record in generating new sales partners and developing successful marketing strategies. He is expected to strengthen BAC’s market position as a leading provider of software applications in the education industry.\n\nPrior to joining BAC, Kang was with SAGE Software Company, where he was vice president of corporate sales, and at Tobbler Corporation, where he spent several years as head of the marketing department. At Tobbler, he was credited with earning record-high revenues for the company. After these highly successful endeavors, Kang started his own company, Greenwood Partners, Inc., where he developed and implemented new business strategies for large corporate clients."
+          },
+          "vi": "BAC chào đón Timothy Kang\n\nCửu Long, ngày 16/12 — Hôm nay công ty BAC thông báo đã bổ nhiệm Timothy Kang làm phó chủ tịch cấp cao phụ trách marketing. Ở vị trí mới, ông Kang sẽ giám sát phòng marketing và chịu trách nhiệm về chiến lược công ty, phân tích thị trường và đánh giá thị trường. Là một lãnh đạo dày dạn kinh nghiệm, ông Kang có hơn 20 năm kinh nghiệm và thành tích tốt trong việc tìm thêm đối tác bán hàng mới và xây dựng chiến lược marketing thành công. Ông được kỳ vọng sẽ củng cố vị thế của BAC là nhà cung cấp phần mềm hàng đầu trong ngành giáo dục.\n\nTrước khi về BAC, ông Kang làm ở công ty SAGE Software với vị trí phó chủ tịch phụ trách bán hàng doanh nghiệp, và ở tập đoàn Tobbler, nơi ông làm trưởng phòng marketing trong nhiều năm. Tại Tobbler, ông được ghi nhận đã giúp công ty đạt doanh thu cao kỷ lục. Sau những thành công đó, ông Kang thành lập công ty riêng, Greenwood Partners, nơi ông xây dựng và triển khai chiến lược kinh doanh mới cho các khách hàng doanh nghiệp lớn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-05",
+          "no": 5,
+          "text": "What is stated about Kang’s work at Tobbler Corporation?",
+          "options": {
+            "A": "He received an award.",
+            "B": "He left the company after only a few months.",
+            "C": "He increased revenues.",
+            "D": "He created advertisements for software."
+          },
+          "answer": "C",
+          "explain": "“At Tobbler, he was credited with earning record-high revenues” → tăng doanh thu. B sai: ông làm ở đó “several years”.",
+          "passage": {
+            "text": "BAC Welcomes Timothy Kang\n\nKowloon, Dec. 16 — BAC, Inc., today announced that it has appointed Timothy Kang as senior vice president of marketing. In his new role, Kang will oversee the marketing department and be responsible for corporate strategy, market analysis, and market evaluation. As a seasoned executive, Kang has more than 20 years of experience and a successful track record in generating new sales partners and developing successful marketing strategies. He is expected to strengthen BAC’s market position as a leading provider of software applications in the education industry.\n\nPrior to joining BAC, Kang was with SAGE Software Company, where he was vice president of corporate sales, and at Tobbler Corporation, where he spent several years as head of the marketing department. At Tobbler, he was credited with earning record-high revenues for the company. After these highly successful endeavors, Kang started his own company, Greenwood Partners, Inc., where he developed and implemented new business strategies for large corporate clients."
+          },
+          "vi": "BAC chào đón Timothy Kang\n\nCửu Long, ngày 16/12 — Hôm nay công ty BAC thông báo đã bổ nhiệm Timothy Kang làm phó chủ tịch cấp cao phụ trách marketing. Ở vị trí mới, ông Kang sẽ giám sát phòng marketing và chịu trách nhiệm về chiến lược công ty, phân tích thị trường và đánh giá thị trường. Là một lãnh đạo dày dạn kinh nghiệm, ông Kang có hơn 20 năm kinh nghiệm và thành tích tốt trong việc tìm thêm đối tác bán hàng mới và xây dựng chiến lược marketing thành công. Ông được kỳ vọng sẽ củng cố vị thế của BAC là nhà cung cấp phần mềm hàng đầu trong ngành giáo dục.\n\nTrước khi về BAC, ông Kang làm ở công ty SAGE Software với vị trí phó chủ tịch phụ trách bán hàng doanh nghiệp, và ở tập đoàn Tobbler, nơi ông làm trưởng phòng marketing trong nhiều năm. Tại Tobbler, ông được ghi nhận đã giúp công ty đạt doanh thu cao kỷ lục. Sau những thành công đó, ông Kang thành lập công ty riêng, Greenwood Partners, nơi ông xây dựng và triển khai chiến lược kinh doanh mới cho các khách hàng doanh nghiệp lớn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-06",
+          "no": 6,
+          "text": "What company did Kang start?",
+          "options": {
+            "A": "BAC, Inc.",
+            "B": "SAGE Software Company",
+            "C": "Tobbler Corporation",
+            "D": "Greenwood Partners, Inc."
+          },
+          "answer": "D",
+          "explain": "“Kang started his own company, Greenwood Partners, Inc.”",
+          "passage": {
+            "text": "BAC Welcomes Timothy Kang\n\nKowloon, Dec. 16 — BAC, Inc., today announced that it has appointed Timothy Kang as senior vice president of marketing. In his new role, Kang will oversee the marketing department and be responsible for corporate strategy, market analysis, and market evaluation. As a seasoned executive, Kang has more than 20 years of experience and a successful track record in generating new sales partners and developing successful marketing strategies. He is expected to strengthen BAC’s market position as a leading provider of software applications in the education industry.\n\nPrior to joining BAC, Kang was with SAGE Software Company, where he was vice president of corporate sales, and at Tobbler Corporation, where he spent several years as head of the marketing department. At Tobbler, he was credited with earning record-high revenues for the company. After these highly successful endeavors, Kang started his own company, Greenwood Partners, Inc., where he developed and implemented new business strategies for large corporate clients."
+          },
+          "vi": "BAC chào đón Timothy Kang\n\nCửu Long, ngày 16/12 — Hôm nay công ty BAC thông báo đã bổ nhiệm Timothy Kang làm phó chủ tịch cấp cao phụ trách marketing. Ở vị trí mới, ông Kang sẽ giám sát phòng marketing và chịu trách nhiệm về chiến lược công ty, phân tích thị trường và đánh giá thị trường. Là một lãnh đạo dày dạn kinh nghiệm, ông Kang có hơn 20 năm kinh nghiệm và thành tích tốt trong việc tìm thêm đối tác bán hàng mới và xây dựng chiến lược marketing thành công. Ông được kỳ vọng sẽ củng cố vị thế của BAC là nhà cung cấp phần mềm hàng đầu trong ngành giáo dục.\n\nTrước khi về BAC, ông Kang làm ở công ty SAGE Software với vị trí phó chủ tịch phụ trách bán hàng doanh nghiệp, và ở tập đoàn Tobbler, nơi ông làm trưởng phòng marketing trong nhiều năm. Tại Tobbler, ông được ghi nhận đã giúp công ty đạt doanh thu cao kỷ lục. Sau những thành công đó, ông Kang thành lập công ty riêng, Greenwood Partners, nơi ông xây dựng và triển khai chiến lược kinh doanh mới cho các khách hàng doanh nghiệp lớn.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: Rice crop forecast",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d22-read-07",
+          "no": 7,
+          "text": "What is expected for rice production this year?",
+          "options": {
+            "A": "It will be of better quality than last year’s crop.",
+            "B": "It will drop by 3 percent because of flooding.",
+            "C": "It will be higher than earlier forecasts.",
+            "D": "It will break records for the fourth year in a row."
+          },
+          "answer": "C",
+          "explain": "“4.3 billion bushels of rice, up more than 670 million bushels from last month’s estimate” → cao hơn dự báo trước. B sai: 3% là so với năm ngoái, không phải do lũ.",
+          "passage": {
+            "text": "Rice Crop Expected to Reach Near-Record Levels\n\nThe National Department of Agriculture has reported that the nation’s farms are on pace to produce their second-largest annual rice crop and fourth-largest annual soybean crop ever. As a result, grain prices are expected to drop across the nation over the next several months, according to the government’s economic advisory office.\n\nThe forecast is based on actual field visits and farmer surveys conducted by the department. Because of higher-than-average rainfall during the early summer planting season, previous estimates had been much lower than normal. But cooler, ideal weather since then has helped many of the nation’s farmers recover from June’s heavy rains. The department forecasts that farmers will harvest 4.3 billion bushels of rice, up more than 670 million bushels from last month’s estimate of 3.6 billion. The new estimate is only 3 percent lower than last year’s record crop of 4.5 billion bushels.\n\nThat recovery is expected to lead to lower prices for rice and soybeans, two of the nation’s most important agricultural exports. That may provide some relief to meat producers who use rice and soybeans for feed, as well as for regular citizens who had expected to pay higher prices for rice and rice products at the supermarket. The department has lowered its estimate for soybeans slightly, to 2.97 billion bushels from 3 billion last month.\n\nThe new estimate is welcome news for many other businesses as well. High rice prices had cut deeply into profits for restaurant chains, for instance, since they spend a significant portion of their budget on rice and rice products."
+          },
+          "vi": "Vụ lúa dự kiến đạt mức gần kỷ lục\n\nBộ Nông nghiệp Quốc gia cho biết các trang trại trong nước đang trên đà đạt vụ lúa lớn thứ hai và vụ đậu nành lớn thứ tư từ trước đến nay. Theo văn phòng tư vấn kinh tế của chính phủ, vì vậy giá ngũ cốc dự kiến sẽ giảm trên cả nước trong vài tháng tới.\n\nDự báo dựa trên các chuyến khảo sát thực địa và khảo sát nông dân do bộ thực hiện. Vì lượng mưa cao hơn trung bình trong mùa gieo trồng đầu hè, các ước tính trước đây thấp hơn nhiều so với bình thường. Nhưng thời tiết mát mẻ, lý tưởng từ đó đến nay đã giúp nhiều nông dân phục hồi sau những trận mưa lớn hồi tháng Sáu. Bộ dự báo nông dân sẽ thu hoạch 4,3 tỷ giạ lúa, tăng hơn 670 triệu giạ so với ước tính 3,6 tỷ của tháng trước. Ước tính mới chỉ thấp hơn 3% so với vụ kỷ lục 4,5 tỷ giạ của năm ngoái.\n\nSự phục hồi này dự kiến sẽ làm giảm giá lúa gạo và đậu nành, hai mặt hàng nông sản xuất khẩu quan trọng nhất của đất nước. Điều đó có thể giúp các nhà sản xuất thịt, những người dùng lúa và đậu nành làm thức ăn chăn nuôi, cũng như người dân vốn đã nghĩ sẽ phải trả giá cao hơn cho gạo và sản phẩm từ gạo ở siêu thị. Bộ đã hạ nhẹ ước tính cho đậu nành, từ 3 tỷ giạ của tháng trước xuống 2,97 tỷ giạ.\n\nƯớc tính mới cũng là tin vui cho nhiều doanh nghiệp khác. Ví dụ, giá gạo cao đã làm giảm mạnh lợi nhuận của các chuỗi nhà hàng, vì họ chi một phần lớn ngân sách cho gạo và sản phẩm từ gạo.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-08",
+          "no": 8,
+          "text": "Who is NOT mentioned as being affected by grain prices?",
+          "options": {
+            "A": "Meat producers",
+            "B": "Supermarket shoppers",
+            "C": "Soybean packagers",
+            "D": "Restaurant owners"
+          },
+          "answer": "C",
+          "explain": "Bài nhắc “meat producers” (A), “regular citizens … at the supermarket” (B), “restaurant chains” (D). Không nhắc người đóng gói đậu nành.",
+          "passage": {
+            "text": "Rice Crop Expected to Reach Near-Record Levels\n\nThe National Department of Agriculture has reported that the nation’s farms are on pace to produce their second-largest annual rice crop and fourth-largest annual soybean crop ever. As a result, grain prices are expected to drop across the nation over the next several months, according to the government’s economic advisory office.\n\nThe forecast is based on actual field visits and farmer surveys conducted by the department. Because of higher-than-average rainfall during the early summer planting season, previous estimates had been much lower than normal. But cooler, ideal weather since then has helped many of the nation’s farmers recover from June’s heavy rains. The department forecasts that farmers will harvest 4.3 billion bushels of rice, up more than 670 million bushels from last month’s estimate of 3.6 billion. The new estimate is only 3 percent lower than last year’s record crop of 4.5 billion bushels.\n\nThat recovery is expected to lead to lower prices for rice and soybeans, two of the nation’s most important agricultural exports. That may provide some relief to meat producers who use rice and soybeans for feed, as well as for regular citizens who had expected to pay higher prices for rice and rice products at the supermarket. The department has lowered its estimate for soybeans slightly, to 2.97 billion bushels from 3 billion last month.\n\nThe new estimate is welcome news for many other businesses as well. High rice prices had cut deeply into profits for restaurant chains, for instance, since they spend a significant portion of their budget on rice and rice products."
+          },
+          "vi": "Vụ lúa dự kiến đạt mức gần kỷ lục\n\nBộ Nông nghiệp Quốc gia cho biết các trang trại trong nước đang trên đà đạt vụ lúa lớn thứ hai và vụ đậu nành lớn thứ tư từ trước đến nay. Theo văn phòng tư vấn kinh tế của chính phủ, vì vậy giá ngũ cốc dự kiến sẽ giảm trên cả nước trong vài tháng tới.\n\nDự báo dựa trên các chuyến khảo sát thực địa và khảo sát nông dân do bộ thực hiện. Vì lượng mưa cao hơn trung bình trong mùa gieo trồng đầu hè, các ước tính trước đây thấp hơn nhiều so với bình thường. Nhưng thời tiết mát mẻ, lý tưởng từ đó đến nay đã giúp nhiều nông dân phục hồi sau những trận mưa lớn hồi tháng Sáu. Bộ dự báo nông dân sẽ thu hoạch 4,3 tỷ giạ lúa, tăng hơn 670 triệu giạ so với ước tính 3,6 tỷ của tháng trước. Ước tính mới chỉ thấp hơn 3% so với vụ kỷ lục 4,5 tỷ giạ của năm ngoái.\n\nSự phục hồi này dự kiến sẽ làm giảm giá lúa gạo và đậu nành, hai mặt hàng nông sản xuất khẩu quan trọng nhất của đất nước. Điều đó có thể giúp các nhà sản xuất thịt, những người dùng lúa và đậu nành làm thức ăn chăn nuôi, cũng như người dân vốn đã nghĩ sẽ phải trả giá cao hơn cho gạo và sản phẩm từ gạo ở siêu thị. Bộ đã hạ nhẹ ước tính cho đậu nành, từ 3 tỷ giạ của tháng trước xuống 2,97 tỷ giạ.\n\nƯớc tính mới cũng là tin vui cho nhiều doanh nghiệp khác. Ví dụ, giá gạo cao đã làm giảm mạnh lợi nhuận của các chuỗi nhà hàng, vì họ chi một phần lớn ngân sách cho gạo và sản phẩm từ gạo.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-09",
+          "no": 9,
+          "text": "When was rice production the highest?",
+          "options": {
+            "A": "This year",
+            "B": "Last year",
+            "C": "Two years ago",
+            "D": "Three years ago"
+          },
+          "answer": "B",
+          "explain": "“last year’s record crop of 4.5 billion bushels” → năm ngoái cao nhất; năm nay chỉ là “second-largest”.",
+          "passage": {
+            "text": "Rice Crop Expected to Reach Near-Record Levels\n\nThe National Department of Agriculture has reported that the nation’s farms are on pace to produce their second-largest annual rice crop and fourth-largest annual soybean crop ever. As a result, grain prices are expected to drop across the nation over the next several months, according to the government’s economic advisory office.\n\nThe forecast is based on actual field visits and farmer surveys conducted by the department. Because of higher-than-average rainfall during the early summer planting season, previous estimates had been much lower than normal. But cooler, ideal weather since then has helped many of the nation’s farmers recover from June’s heavy rains. The department forecasts that farmers will harvest 4.3 billion bushels of rice, up more than 670 million bushels from last month’s estimate of 3.6 billion. The new estimate is only 3 percent lower than last year’s record crop of 4.5 billion bushels.\n\nThat recovery is expected to lead to lower prices for rice and soybeans, two of the nation’s most important agricultural exports. That may provide some relief to meat producers who use rice and soybeans for feed, as well as for regular citizens who had expected to pay higher prices for rice and rice products at the supermarket. The department has lowered its estimate for soybeans slightly, to 2.97 billion bushels from 3 billion last month.\n\nThe new estimate is welcome news for many other businesses as well. High rice prices had cut deeply into profits for restaurant chains, for instance, since they spend a significant portion of their budget on rice and rice products."
+          },
+          "vi": "Vụ lúa dự kiến đạt mức gần kỷ lục\n\nBộ Nông nghiệp Quốc gia cho biết các trang trại trong nước đang trên đà đạt vụ lúa lớn thứ hai và vụ đậu nành lớn thứ tư từ trước đến nay. Theo văn phòng tư vấn kinh tế của chính phủ, vì vậy giá ngũ cốc dự kiến sẽ giảm trên cả nước trong vài tháng tới.\n\nDự báo dựa trên các chuyến khảo sát thực địa và khảo sát nông dân do bộ thực hiện. Vì lượng mưa cao hơn trung bình trong mùa gieo trồng đầu hè, các ước tính trước đây thấp hơn nhiều so với bình thường. Nhưng thời tiết mát mẻ, lý tưởng từ đó đến nay đã giúp nhiều nông dân phục hồi sau những trận mưa lớn hồi tháng Sáu. Bộ dự báo nông dân sẽ thu hoạch 4,3 tỷ giạ lúa, tăng hơn 670 triệu giạ so với ước tính 3,6 tỷ của tháng trước. Ước tính mới chỉ thấp hơn 3% so với vụ kỷ lục 4,5 tỷ giạ của năm ngoái.\n\nSự phục hồi này dự kiến sẽ làm giảm giá lúa gạo và đậu nành, hai mặt hàng nông sản xuất khẩu quan trọng nhất của đất nước. Điều đó có thể giúp các nhà sản xuất thịt, những người dùng lúa và đậu nành làm thức ăn chăn nuôi, cũng như người dân vốn đã nghĩ sẽ phải trả giá cao hơn cho gạo và sản phẩm từ gạo ở siêu thị. Bộ đã hạ nhẹ ước tính cho đậu nành, từ 3 tỷ giạ của tháng trước xuống 2,97 tỷ giạ.\n\nƯớc tính mới cũng là tin vui cho nhiều doanh nghiệp khác. Ví dụ, giá gạo cao đã làm giảm mạnh lợi nhuận của các chuỗi nhà hàng, vì họ chi một phần lớn ngân sách cho gạo và sản phẩm từ gạo.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: Bramwell Botanical Gardens",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d22-read-10",
+          "no": 10,
+          "text": "What does the article discuss?",
+          "options": {
+            "A": "A potential business partnership",
+            "B": "A change made to a graphic design",
+            "C": "Advertising for an upcoming exhibit",
+            "D": "New signs labeling the gardens’ plants"
+          },
+          "answer": "B",
+          "explain": "Cả bài nói về việc thay logo cũ bằng “a colorful new logo” → thay đổi một thiết kế đồ họa.",
+          "passage": {
+            "text": "News from Bramwell Botanical Gardens\n\nBRAMWELL (May 26)—Visitors to Bramwell Botanical Gardens are now greeted by a colorful new logo painted on the welcome sign at the entry gate. Most people say they are pleased with the new logo, which features a bright bouquet of wildflowers. —[1]—.\n\nThe management of the botanical gardens decided to replace the old logo based on input from the public. “We collected opinion cards deposited in boxes at the gardens and reviewed responses to an online survey. —[2]—. We found that receptiveness to the original logo was no longer positive,” said Jacob Harding, the director of the gardens, when he was interviewed by the Bramwell Morning Courier. The old logo displayed the name of the gardens above a drawing of an elaborate Victorian greenhouse.\n\nNew designs were submitted by O’Neall Graphics. —[3]—. Members were invited to choose which one would be the best logo. The board agreed that the members made an excellent choice.\n\nMarie Kim, the manager of the Botanical Gardens on-site visitors’ shop, is one of those happy with the new logo that members selected. —[4]—. The new logo is now featured on clothing and other merchandise, and she is sure it will help improve sales. “Previously, I was often disappointed. Even though a lot of visitors came into the store, many left without making a purchase. They didn’t think our imprinted items were attractive.”"
+          },
+          "vi": "Tin từ Vườn bách thảo Bramwell\n\nBRAMWELL (26/5) — Khách đến Vườn bách thảo Bramwell giờ được chào đón bằng một logo mới nhiều màu sắc, sơn trên biển chào ở cổng vào. Đa số mọi người nói họ thích logo mới, có hình một bó hoa dại rực rỡ. —[1]—.\n\nBan quản lý vườn quyết định thay logo cũ dựa trên ý kiến của công chúng. “Chúng tôi thu thập phiếu góp ý bỏ vào các hộp trong vườn và xem các câu trả lời của một khảo sát trực tuyến. —[2]—. Chúng tôi nhận thấy mọi người không còn đón nhận logo cũ một cách tích cực nữa,” ông Jacob Harding, giám đốc vườn, nói khi trả lời phỏng vấn tờ Bramwell Morning Courier. Logo cũ có tên khu vườn nằm phía trên hình vẽ một nhà kính kiểu Victoria cầu kỳ.\n\nCông ty O’Neall Graphics gửi các mẫu thiết kế mới. —[3]—. Các hội viên được mời chọn mẫu nào là logo đẹp nhất. Ban điều hành đồng ý rằng các hội viên đã chọn rất tốt.\n\nBà Marie Kim, quản lý cửa hàng dành cho khách tham quan trong vườn, là một trong những người hài lòng với logo mới mà các hội viên đã chọn. —[4]—. Logo mới giờ được in trên quần áo và các món hàng khác, và bà tin rằng nó sẽ giúp tăng doanh số. “Trước đây tôi thường thất vọng. Dù nhiều khách vào cửa hàng, nhiều người ra về mà không mua gì. Họ không thấy hàng in logo của chúng tôi hấp dẫn.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-11",
+          "no": 11,
+          "text": "Who made the final decision about the logo?",
+          "options": {
+            "A": "Employees of O’Neall Graphics",
+            "B": "The director of Bramwell Botanical Gardens",
+            "C": "The manager of the visitors shop",
+            "D": "Members of Bramwell Botanical Gardens"
+          },
+          "answer": "D",
+          "explain": "“Members were invited to choose which one would be the best logo” và “the new logo that members selected” → hội viên quyết định. A chỉ gửi mẫu.",
+          "passage": {
+            "text": "News from Bramwell Botanical Gardens\n\nBRAMWELL (May 26)—Visitors to Bramwell Botanical Gardens are now greeted by a colorful new logo painted on the welcome sign at the entry gate. Most people say they are pleased with the new logo, which features a bright bouquet of wildflowers. —[1]—.\n\nThe management of the botanical gardens decided to replace the old logo based on input from the public. “We collected opinion cards deposited in boxes at the gardens and reviewed responses to an online survey. —[2]—. We found that receptiveness to the original logo was no longer positive,” said Jacob Harding, the director of the gardens, when he was interviewed by the Bramwell Morning Courier. The old logo displayed the name of the gardens above a drawing of an elaborate Victorian greenhouse.\n\nNew designs were submitted by O’Neall Graphics. —[3]—. Members were invited to choose which one would be the best logo. The board agreed that the members made an excellent choice.\n\nMarie Kim, the manager of the Botanical Gardens on-site visitors’ shop, is one of those happy with the new logo that members selected. —[4]—. The new logo is now featured on clothing and other merchandise, and she is sure it will help improve sales. “Previously, I was often disappointed. Even though a lot of visitors came into the store, many left without making a purchase. They didn’t think our imprinted items were attractive.”"
+          },
+          "vi": "Tin từ Vườn bách thảo Bramwell\n\nBRAMWELL (26/5) — Khách đến Vườn bách thảo Bramwell giờ được chào đón bằng một logo mới nhiều màu sắc, sơn trên biển chào ở cổng vào. Đa số mọi người nói họ thích logo mới, có hình một bó hoa dại rực rỡ. —[1]—.\n\nBan quản lý vườn quyết định thay logo cũ dựa trên ý kiến của công chúng. “Chúng tôi thu thập phiếu góp ý bỏ vào các hộp trong vườn và xem các câu trả lời của một khảo sát trực tuyến. —[2]—. Chúng tôi nhận thấy mọi người không còn đón nhận logo cũ một cách tích cực nữa,” ông Jacob Harding, giám đốc vườn, nói khi trả lời phỏng vấn tờ Bramwell Morning Courier. Logo cũ có tên khu vườn nằm phía trên hình vẽ một nhà kính kiểu Victoria cầu kỳ.\n\nCông ty O’Neall Graphics gửi các mẫu thiết kế mới. —[3]—. Các hội viên được mời chọn mẫu nào là logo đẹp nhất. Ban điều hành đồng ý rằng các hội viên đã chọn rất tốt.\n\nBà Marie Kim, quản lý cửa hàng dành cho khách tham quan trong vườn, là một trong những người hài lòng với logo mới mà các hội viên đã chọn. —[4]—. Logo mới giờ được in trên quần áo và các món hàng khác, và bà tin rằng nó sẽ giúp tăng doanh số. “Trước đây tôi thường thất vọng. Dù nhiều khách vào cửa hàng, nhiều người ra về mà không mua gì. Họ không thấy hàng in logo của chúng tôi hấp dẫn.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-12",
+          "no": 12,
+          "text": "What did Ms. Kim imply about the visitors shop?",
+          "options": {
+            "A": "Too few people visited it.",
+            "B": "Its appearance needed to be updated.",
+            "C": "The location was not well marked.",
+            "D": "Business there was not very good."
+          },
+          "answer": "D",
+          "explain": "“many left without making a purchase” → bán không chạy. A sai: “a lot of visitors came into the store”.",
+          "passage": {
+            "text": "News from Bramwell Botanical Gardens\n\nBRAMWELL (May 26)—Visitors to Bramwell Botanical Gardens are now greeted by a colorful new logo painted on the welcome sign at the entry gate. Most people say they are pleased with the new logo, which features a bright bouquet of wildflowers. —[1]—.\n\nThe management of the botanical gardens decided to replace the old logo based on input from the public. “We collected opinion cards deposited in boxes at the gardens and reviewed responses to an online survey. —[2]—. We found that receptiveness to the original logo was no longer positive,” said Jacob Harding, the director of the gardens, when he was interviewed by the Bramwell Morning Courier. The old logo displayed the name of the gardens above a drawing of an elaborate Victorian greenhouse.\n\nNew designs were submitted by O’Neall Graphics. —[3]—. Members were invited to choose which one would be the best logo. The board agreed that the members made an excellent choice.\n\nMarie Kim, the manager of the Botanical Gardens on-site visitors’ shop, is one of those happy with the new logo that members selected. —[4]—. The new logo is now featured on clothing and other merchandise, and she is sure it will help improve sales. “Previously, I was often disappointed. Even though a lot of visitors came into the store, many left without making a purchase. They didn’t think our imprinted items were attractive.”"
+          },
+          "vi": "Tin từ Vườn bách thảo Bramwell\n\nBRAMWELL (26/5) — Khách đến Vườn bách thảo Bramwell giờ được chào đón bằng một logo mới nhiều màu sắc, sơn trên biển chào ở cổng vào. Đa số mọi người nói họ thích logo mới, có hình một bó hoa dại rực rỡ. —[1]—.\n\nBan quản lý vườn quyết định thay logo cũ dựa trên ý kiến của công chúng. “Chúng tôi thu thập phiếu góp ý bỏ vào các hộp trong vườn và xem các câu trả lời của một khảo sát trực tuyến. —[2]—. Chúng tôi nhận thấy mọi người không còn đón nhận logo cũ một cách tích cực nữa,” ông Jacob Harding, giám đốc vườn, nói khi trả lời phỏng vấn tờ Bramwell Morning Courier. Logo cũ có tên khu vườn nằm phía trên hình vẽ một nhà kính kiểu Victoria cầu kỳ.\n\nCông ty O’Neall Graphics gửi các mẫu thiết kế mới. —[3]—. Các hội viên được mời chọn mẫu nào là logo đẹp nhất. Ban điều hành đồng ý rằng các hội viên đã chọn rất tốt.\n\nBà Marie Kim, quản lý cửa hàng dành cho khách tham quan trong vườn, là một trong những người hài lòng với logo mới mà các hội viên đã chọn. —[4]—. Logo mới giờ được in trên quần áo và các món hàng khác, và bà tin rằng nó sẽ giúp tăng doanh số. “Trước đây tôi thường thất vọng. Dù nhiều khách vào cửa hàng, nhiều người ra về mà không mua gì. Họ không thấy hàng in logo của chúng tôi hấp dẫn.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-13",
+          "no": 13,
+          "text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “Four of them were posted on the Botanical Gardens Web site.”",
+          "options": {
+            "A": "[1]",
+            "B": "[2]",
+            "C": "[3]",
+            "D": "[4]"
+          },
+          "answer": "C",
+          "explain": "“them” chỉ “New designs” ở câu ngay trước [3]. Đăng 4 mẫu lên web rồi “Members were invited to choose” → nối mạch.",
+          "passage": {
+            "text": "News from Bramwell Botanical Gardens\n\nBRAMWELL (May 26)—Visitors to Bramwell Botanical Gardens are now greeted by a colorful new logo painted on the welcome sign at the entry gate. Most people say they are pleased with the new logo, which features a bright bouquet of wildflowers. —[1]—.\n\nThe management of the botanical gardens decided to replace the old logo based on input from the public. “We collected opinion cards deposited in boxes at the gardens and reviewed responses to an online survey. —[2]—. We found that receptiveness to the original logo was no longer positive,” said Jacob Harding, the director of the gardens, when he was interviewed by the Bramwell Morning Courier. The old logo displayed the name of the gardens above a drawing of an elaborate Victorian greenhouse.\n\nNew designs were submitted by O’Neall Graphics. —[3]—. Members were invited to choose which one would be the best logo. The board agreed that the members made an excellent choice.\n\nMarie Kim, the manager of the Botanical Gardens on-site visitors’ shop, is one of those happy with the new logo that members selected. —[4]—. The new logo is now featured on clothing and other merchandise, and she is sure it will help improve sales. “Previously, I was often disappointed. Even though a lot of visitors came into the store, many left without making a purchase. They didn’t think our imprinted items were attractive.”"
+          },
+          "vi": "Tin từ Vườn bách thảo Bramwell\n\nBRAMWELL (26/5) — Khách đến Vườn bách thảo Bramwell giờ được chào đón bằng một logo mới nhiều màu sắc, sơn trên biển chào ở cổng vào. Đa số mọi người nói họ thích logo mới, có hình một bó hoa dại rực rỡ. —[1]—.\n\nBan quản lý vườn quyết định thay logo cũ dựa trên ý kiến của công chúng. “Chúng tôi thu thập phiếu góp ý bỏ vào các hộp trong vườn và xem các câu trả lời của một khảo sát trực tuyến. —[2]—. Chúng tôi nhận thấy mọi người không còn đón nhận logo cũ một cách tích cực nữa,” ông Jacob Harding, giám đốc vườn, nói khi trả lời phỏng vấn tờ Bramwell Morning Courier. Logo cũ có tên khu vườn nằm phía trên hình vẽ một nhà kính kiểu Victoria cầu kỳ.\n\nCông ty O’Neall Graphics gửi các mẫu thiết kế mới. —[3]—. Các hội viên được mời chọn mẫu nào là logo đẹp nhất. Ban điều hành đồng ý rằng các hội viên đã chọn rất tốt.\n\nBà Marie Kim, quản lý cửa hàng dành cho khách tham quan trong vườn, là một trong những người hài lòng với logo mới mà các hội viên đã chọn. —[4]—. Logo mới giờ được in trên quần áo và các món hàng khác, và bà tin rằng nó sẽ giúp tăng doanh số. “Trước đây tôi thường thất vọng. Dù nhiều khách vào cửa hàng, nhiều người ra về mà không mua gì. Họ không thấy hàng in logo của chúng tôi hấp dẫn.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: Aucoin-Braud expansion",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d22-read-14",
+          "no": 14,
+          "text": "How does Aucoin-Braud plan to expand?",
+          "options": {
+            "A": "By increasing funding for research and development",
+            "B": "By enlarging its international presence",
+            "C": "By generating greater sales outside of Northern Europe",
+            "D": "By merging with another company"
+          },
+          "answer": "B",
+          "explain": "Mở rộng công ty con ở Ý, Bỉ và “establish an additional subsidiary in another international market” → tăng hiện diện quốc tế.",
+          "passage": {
+            "text": "Engineering Firm to Expand\n\nFebruary 15 — Aucoin-Braud, the French engineering firm best known for its energy-efficient power generators, unveiled today its plans for expansion.\n\nSpeaking in a press conference in Paris, Aucoin-Braud President Simone Roux announced plans for the construction of a new global headquarters there.\n\nConstruction projects are also slated for the firm’s foreign subsidiaries, Tecnologia, in Genoa, Italy, and Nonpareil, Inc., in Brussels, Belgium. At both companies, additional production facilities will be built and staff sizes increased.\n\nIn order to focus on alternative energy sources such as ocean power, Aucoin-Braud will establish an additional subsidiary in another international market. When pressed by reporters to specify which, Roux declined to say, stating only that “Northern Europe has much potential in this respect and is important to our long-term goals.”\n\nFor industry analyst Dieter Veidt, this comes as no surprise. “Aucoin-Braud has invested heavily in ocean power technology, so Northern European nations like Denmark or Finland are perfect venues for the firm’s expansion.”\n\nRoux’s final comment at the press conference will undoubtedly fuel speculation on this point. When asked what her short-term goals were, she replied that she is “planning a seaside vacation in Denmark.”"
+          },
+          "vi": "Công ty kỹ thuật sẽ mở rộng\n\nNgày 15/2 — Aucoin-Braud, công ty kỹ thuật của Pháp nổi tiếng với máy phát điện tiết kiệm năng lượng, hôm nay công bố kế hoạch mở rộng.\n\nPhát biểu tại buổi họp báo ở Paris, chủ tịch Aucoin-Braud, bà Simone Roux, công bố kế hoạch xây trụ sở toàn cầu mới tại đây.\n\nCác dự án xây dựng cũng được lên kế hoạch cho các công ty con ở nước ngoài: Tecnologia ở Genoa (Ý) và Nonpareil ở Brussels (Bỉ). Ở cả hai công ty, sẽ xây thêm cơ sở sản xuất và tăng số nhân viên.\n\nĐể tập trung vào các nguồn năng lượng thay thế như năng lượng biển, Aucoin-Braud sẽ lập thêm một công ty con ở một thị trường quốc tế khác. Khi phóng viên hỏi dồn đó là nước nào, bà Roux từ chối trả lời, chỉ nói rằng “Bắc Âu có nhiều tiềm năng về mặt này và quan trọng với các mục tiêu dài hạn của chúng tôi.”\n\nVới nhà phân tích ngành Dieter Veidt, điều này không có gì bất ngờ. “Aucoin-Braud đã đầu tư mạnh vào công nghệ năng lượng biển, nên các nước Bắc Âu như Đan Mạch hay Phần Lan là nơi lý tưởng để công ty mở rộng.”\n\nCâu nói cuối của bà Roux tại buổi họp báo chắc chắn sẽ khiến người ta đồn đoán thêm. Khi được hỏi về mục tiêu ngắn hạn, bà trả lời rằng mình đang “lên kế hoạch đi nghỉ ở biển tại Đan Mạch.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-15",
+          "no": 15,
+          "text": "What is stated as one of Aucoin-Braud’s goals?",
+          "options": {
+            "A": "To hire additional staff in Denmark",
+            "B": "To launch a new line of generators",
+            "C": "To rely exclusively on ocean power",
+            "D": "To add to its facilities in Brussels"
+          },
+          "answer": "D",
+          "explain": "Nonpareil ở Brussels: “additional production facilities will be built” → thêm cơ sở ở Brussels. A sai: Đan Mạch chỉ là suy đoán.",
+          "passage": {
+            "text": "Engineering Firm to Expand\n\nFebruary 15 — Aucoin-Braud, the French engineering firm best known for its energy-efficient power generators, unveiled today its plans for expansion.\n\nSpeaking in a press conference in Paris, Aucoin-Braud President Simone Roux announced plans for the construction of a new global headquarters there.\n\nConstruction projects are also slated for the firm’s foreign subsidiaries, Tecnologia, in Genoa, Italy, and Nonpareil, Inc., in Brussels, Belgium. At both companies, additional production facilities will be built and staff sizes increased.\n\nIn order to focus on alternative energy sources such as ocean power, Aucoin-Braud will establish an additional subsidiary in another international market. When pressed by reporters to specify which, Roux declined to say, stating only that “Northern Europe has much potential in this respect and is important to our long-term goals.”\n\nFor industry analyst Dieter Veidt, this comes as no surprise. “Aucoin-Braud has invested heavily in ocean power technology, so Northern European nations like Denmark or Finland are perfect venues for the firm’s expansion.”\n\nRoux’s final comment at the press conference will undoubtedly fuel speculation on this point. When asked what her short-term goals were, she replied that she is “planning a seaside vacation in Denmark.”"
+          },
+          "vi": "Công ty kỹ thuật sẽ mở rộng\n\nNgày 15/2 — Aucoin-Braud, công ty kỹ thuật của Pháp nổi tiếng với máy phát điện tiết kiệm năng lượng, hôm nay công bố kế hoạch mở rộng.\n\nPhát biểu tại buổi họp báo ở Paris, chủ tịch Aucoin-Braud, bà Simone Roux, công bố kế hoạch xây trụ sở toàn cầu mới tại đây.\n\nCác dự án xây dựng cũng được lên kế hoạch cho các công ty con ở nước ngoài: Tecnologia ở Genoa (Ý) và Nonpareil ở Brussels (Bỉ). Ở cả hai công ty, sẽ xây thêm cơ sở sản xuất và tăng số nhân viên.\n\nĐể tập trung vào các nguồn năng lượng thay thế như năng lượng biển, Aucoin-Braud sẽ lập thêm một công ty con ở một thị trường quốc tế khác. Khi phóng viên hỏi dồn đó là nước nào, bà Roux từ chối trả lời, chỉ nói rằng “Bắc Âu có nhiều tiềm năng về mặt này và quan trọng với các mục tiêu dài hạn của chúng tôi.”\n\nVới nhà phân tích ngành Dieter Veidt, điều này không có gì bất ngờ. “Aucoin-Braud đã đầu tư mạnh vào công nghệ năng lượng biển, nên các nước Bắc Âu như Đan Mạch hay Phần Lan là nơi lý tưởng để công ty mở rộng.”\n\nCâu nói cuối của bà Roux tại buổi họp báo chắc chắn sẽ khiến người ta đồn đoán thêm. Khi được hỏi về mục tiêu ngắn hạn, bà trả lời rằng mình đang “lên kế hoạch đi nghỉ ở biển tại Đan Mạch.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-16",
+          "no": 16,
+          "text": "What does Mr. Veidt suggest about Denmark?",
+          "options": {
+            "A": "It is an increasingly popular tourist destination.",
+            "B": "It possesses resources for alternative energy.",
+            "C": "Fuel costs are lower there than elsewhere.",
+            "D": "Aucoin-Braud might relocate its headquarters there."
+          },
+          "answer": "B",
+          "explain": "Ông Veidt nói công ty đầu tư vào “ocean power technology, so … Denmark or Finland are perfect venues” → Đan Mạch có điều kiện cho năng lượng thay thế. D sai: trụ sở mới xây ở Paris.",
+          "passage": {
+            "text": "Engineering Firm to Expand\n\nFebruary 15 — Aucoin-Braud, the French engineering firm best known for its energy-efficient power generators, unveiled today its plans for expansion.\n\nSpeaking in a press conference in Paris, Aucoin-Braud President Simone Roux announced plans for the construction of a new global headquarters there.\n\nConstruction projects are also slated for the firm’s foreign subsidiaries, Tecnologia, in Genoa, Italy, and Nonpareil, Inc., in Brussels, Belgium. At both companies, additional production facilities will be built and staff sizes increased.\n\nIn order to focus on alternative energy sources such as ocean power, Aucoin-Braud will establish an additional subsidiary in another international market. When pressed by reporters to specify which, Roux declined to say, stating only that “Northern Europe has much potential in this respect and is important to our long-term goals.”\n\nFor industry analyst Dieter Veidt, this comes as no surprise. “Aucoin-Braud has invested heavily in ocean power technology, so Northern European nations like Denmark or Finland are perfect venues for the firm’s expansion.”\n\nRoux’s final comment at the press conference will undoubtedly fuel speculation on this point. When asked what her short-term goals were, she replied that she is “planning a seaside vacation in Denmark.”"
+          },
+          "vi": "Công ty kỹ thuật sẽ mở rộng\n\nNgày 15/2 — Aucoin-Braud, công ty kỹ thuật của Pháp nổi tiếng với máy phát điện tiết kiệm năng lượng, hôm nay công bố kế hoạch mở rộng.\n\nPhát biểu tại buổi họp báo ở Paris, chủ tịch Aucoin-Braud, bà Simone Roux, công bố kế hoạch xây trụ sở toàn cầu mới tại đây.\n\nCác dự án xây dựng cũng được lên kế hoạch cho các công ty con ở nước ngoài: Tecnologia ở Genoa (Ý) và Nonpareil ở Brussels (Bỉ). Ở cả hai công ty, sẽ xây thêm cơ sở sản xuất và tăng số nhân viên.\n\nĐể tập trung vào các nguồn năng lượng thay thế như năng lượng biển, Aucoin-Braud sẽ lập thêm một công ty con ở một thị trường quốc tế khác. Khi phóng viên hỏi dồn đó là nước nào, bà Roux từ chối trả lời, chỉ nói rằng “Bắc Âu có nhiều tiềm năng về mặt này và quan trọng với các mục tiêu dài hạn của chúng tôi.”\n\nVới nhà phân tích ngành Dieter Veidt, điều này không có gì bất ngờ. “Aucoin-Braud đã đầu tư mạnh vào công nghệ năng lượng biển, nên các nước Bắc Âu như Đan Mạch hay Phần Lan là nơi lý tưởng để công ty mở rộng.”\n\nCâu nói cuối của bà Roux tại buổi họp báo chắc chắn sẽ khiến người ta đồn đoán thêm. Khi được hỏi về mục tiêu ngắn hạn, bà trả lời rằng mình đang “lên kế hoạch đi nghỉ ở biển tại Đan Mạch.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 8: Meadowscape builder",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D13 S2 UNIT8.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d22-read-17",
+          "no": 17,
+          "text": "What is the purpose of the article?",
+          "options": {
+            "A": "To advertise properties for rent",
+            "B": "To recommend an improved procedure",
+            "C": "To profile a local businessperson",
+            "D": "To describe a new public space"
+          },
+          "answer": "C",
+          "explain": "Phần lớn bài kể quá trình sự nghiệp của ông Kunchai → giới thiệu một doanh nhân địa phương. A sai: nhà để bán, không cho thuê.",
+          "passage": {
+            "text": "LOCAL NEWS\n\nOn Saturday, Chuan Kunchai observed with satisfaction the crowds of people who came to preview Meadowscape, a community of 60 two- and three-bedroom houses; in a way, this community brings his life full circle.\n\nWhen Kunchai was a teenager, he helped his father build the family’s home on East Elm Street, becoming involved in all aspects of the construction of the building. This experience eventually led to a job in the construction business, which in turn enabled Kunchai to pay for his architecture studies at Vanwick University. Soon after graduation, he joined the architecture firm, Morgan and Maynard, where he worked for eight years, mainly designing parks, playgrounds, and other public spaces. He next went on to teach architecture at the same university he graduated from.\n\nKunchai started his own company, Great West Builders, five years ago. Says Kunchai, “Many people who currently rent accommodations in the area are expressing interest in home ownership, but they can’t afford much of what’s available in Westburg. Or if they do find something, it often requires a lot of expensive repairs. Obviously, these people need some assistance.”\n\nNotes Jamie Santana, a real estate agent with Acton Real Estate, Inc., “Mr. Kunchai is perhaps the only builder in the Acton area who is genuinely committed to addressing the needs of people who want affordable housing.”\n\nBuyers who attended the preview were able to save money by purchasing homes before Meadowscape’s grand opening in May. Sang Gyun Kim, Great West’s sales director, remarked, “Preview attendees were able to buy homes at prices as much as 10 percent lower than the homes will later sell for. Also, since only a limited number of each house design will be built, buyers who purchase houses later might not get their first choice of design.”\n\nEvelyn Zhou was among the preview attendees on Saturday who decided to start the purchasing process that day. “I’ve been searching for an affordable home in Westburg for months,” said Ms. Zhou. “Thanks to Meadowscape, I’m about to realize a dream I’ve had for a long time.”"
+          },
+          "vi": "TIN ĐỊA PHƯƠNG\n\nThứ Bảy vừa rồi, ông Chuan Kunchai hài lòng nhìn đám đông đến xem trước Meadowscape, một khu dân cư gồm 60 ngôi nhà hai và ba phòng ngủ; theo một nghĩa nào đó, khu nhà này khép lại một vòng đời của ông.\n\nHồi còn thiếu niên, ông Kunchai giúp bố xây ngôi nhà của gia đình trên phố East Elm, tham gia mọi khâu xây dựng. Trải nghiệm đó dẫn ông tới một công việc trong ngành xây dựng, và công việc này giúp ông trả tiền học kiến trúc ở Đại học Vanwick. Ngay sau khi tốt nghiệp, ông vào công ty kiến trúc Morgan and Maynard, làm ở đó tám năm, chủ yếu thiết kế công viên, sân chơi và các không gian công cộng khác. Sau đó ông về dạy kiến trúc ở chính trường đại học mình đã tốt nghiệp.\n\nNăm năm trước, ông Kunchai thành lập công ty riêng, Great West Builders. Ông nói: “Nhiều người đang thuê nhà trong vùng muốn sở hữu nhà riêng, nhưng họ không mua nổi phần lớn nhà đang bán ở Westburg. Hoặc nếu tìm được thì căn nhà thường cần sửa chữa rất tốn kém. Rõ ràng những người này cần được giúp đỡ.”\n\nBà Jamie Santana, môi giới bất động sản của công ty Acton Real Estate, nhận xét: “Ông Kunchai có lẽ là nhà xây dựng duy nhất ở vùng Acton thật sự tận tâm đáp ứng nhu cầu của những người muốn có nhà giá phải chăng.”\n\nNgười mua đến buổi xem trước đã tiết kiệm được tiền nhờ mua nhà trước lễ khai trương Meadowscape vào tháng Năm. Ông Sang Gyun Kim, giám đốc kinh doanh của Great West, cho biết: “Người đến xem trước mua được nhà với giá thấp hơn tới 10% so với giá bán sau này. Ngoài ra, vì mỗi mẫu nhà chỉ xây số lượng có hạn, người mua sau có thể không chọn được mẫu mình thích nhất.”\n\nBà Evelyn Zhou là một trong những người đến xem trước hôm thứ Bảy và quyết định làm thủ tục mua nhà ngay hôm đó. “Tôi đã tìm một căn nhà giá phải chăng ở Westburg suốt mấy tháng,” bà Zhou nói. “Nhờ Meadowscape, tôi sắp thực hiện được giấc mơ ấp ủ bấy lâu.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-18",
+          "no": 18,
+          "text": "What is indicated about Mr. Kunchai?",
+          "options": {
+            "A": "He worked for his father’s company while attending university.",
+            "B": "He was recently promoted to sales director.",
+            "C": "He owns Acton Real Estate, Inc.",
+            "D": "He has taught architecture at Vanwick University."
+          },
+          "answer": "D",
+          "explain": "“He next went on to teach architecture at the same university he graduated from” = Vanwick University.",
+          "passage": {
+            "text": "LOCAL NEWS\n\nOn Saturday, Chuan Kunchai observed with satisfaction the crowds of people who came to preview Meadowscape, a community of 60 two- and three-bedroom houses; in a way, this community brings his life full circle.\n\nWhen Kunchai was a teenager, he helped his father build the family’s home on East Elm Street, becoming involved in all aspects of the construction of the building. This experience eventually led to a job in the construction business, which in turn enabled Kunchai to pay for his architecture studies at Vanwick University. Soon after graduation, he joined the architecture firm, Morgan and Maynard, where he worked for eight years, mainly designing parks, playgrounds, and other public spaces. He next went on to teach architecture at the same university he graduated from.\n\nKunchai started his own company, Great West Builders, five years ago. Says Kunchai, “Many people who currently rent accommodations in the area are expressing interest in home ownership, but they can’t afford much of what’s available in Westburg. Or if they do find something, it often requires a lot of expensive repairs. Obviously, these people need some assistance.”\n\nNotes Jamie Santana, a real estate agent with Acton Real Estate, Inc., “Mr. Kunchai is perhaps the only builder in the Acton area who is genuinely committed to addressing the needs of people who want affordable housing.”\n\nBuyers who attended the preview were able to save money by purchasing homes before Meadowscape’s grand opening in May. Sang Gyun Kim, Great West’s sales director, remarked, “Preview attendees were able to buy homes at prices as much as 10 percent lower than the homes will later sell for. Also, since only a limited number of each house design will be built, buyers who purchase houses later might not get their first choice of design.”\n\nEvelyn Zhou was among the preview attendees on Saturday who decided to start the purchasing process that day. “I’ve been searching for an affordable home in Westburg for months,” said Ms. Zhou. “Thanks to Meadowscape, I’m about to realize a dream I’ve had for a long time.”"
+          },
+          "vi": "TIN ĐỊA PHƯƠNG\n\nThứ Bảy vừa rồi, ông Chuan Kunchai hài lòng nhìn đám đông đến xem trước Meadowscape, một khu dân cư gồm 60 ngôi nhà hai và ba phòng ngủ; theo một nghĩa nào đó, khu nhà này khép lại một vòng đời của ông.\n\nHồi còn thiếu niên, ông Kunchai giúp bố xây ngôi nhà của gia đình trên phố East Elm, tham gia mọi khâu xây dựng. Trải nghiệm đó dẫn ông tới một công việc trong ngành xây dựng, và công việc này giúp ông trả tiền học kiến trúc ở Đại học Vanwick. Ngay sau khi tốt nghiệp, ông vào công ty kiến trúc Morgan and Maynard, làm ở đó tám năm, chủ yếu thiết kế công viên, sân chơi và các không gian công cộng khác. Sau đó ông về dạy kiến trúc ở chính trường đại học mình đã tốt nghiệp.\n\nNăm năm trước, ông Kunchai thành lập công ty riêng, Great West Builders. Ông nói: “Nhiều người đang thuê nhà trong vùng muốn sở hữu nhà riêng, nhưng họ không mua nổi phần lớn nhà đang bán ở Westburg. Hoặc nếu tìm được thì căn nhà thường cần sửa chữa rất tốn kém. Rõ ràng những người này cần được giúp đỡ.”\n\nBà Jamie Santana, môi giới bất động sản của công ty Acton Real Estate, nhận xét: “Ông Kunchai có lẽ là nhà xây dựng duy nhất ở vùng Acton thật sự tận tâm đáp ứng nhu cầu của những người muốn có nhà giá phải chăng.”\n\nNgười mua đến buổi xem trước đã tiết kiệm được tiền nhờ mua nhà trước lễ khai trương Meadowscape vào tháng Năm. Ông Sang Gyun Kim, giám đốc kinh doanh của Great West, cho biết: “Người đến xem trước mua được nhà với giá thấp hơn tới 10% so với giá bán sau này. Ngoài ra, vì mỗi mẫu nhà chỉ xây số lượng có hạn, người mua sau có thể không chọn được mẫu mình thích nhất.”\n\nBà Evelyn Zhou là một trong những người đến xem trước hôm thứ Bảy và quyết định làm thủ tục mua nhà ngay hôm đó. “Tôi đã tìm một căn nhà giá phải chăng ở Westburg suốt mấy tháng,” bà Zhou nói. “Nhờ Meadowscape, tôi sắp thực hiện được giấc mơ ấp ủ bấy lâu.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-19",
+          "no": 19,
+          "text": "What is indicated about Meadowscape?",
+          "options": {
+            "A": "It was completed last year.",
+            "B": "It has houses that are reasonably priced.",
+            "C": "It was designed by the architecture firm Morgan and Maynard.",
+            "D": "It is located on East Elm Street."
+          },
+          "answer": "B",
+          "explain": "Bà Santana nói ông Kunchai lo cho người cần “affordable housing”, bà Zhou tìm “an affordable home” và chọn Meadowscape → nhà giá hợp lý.",
+          "passage": {
+            "text": "LOCAL NEWS\n\nOn Saturday, Chuan Kunchai observed with satisfaction the crowds of people who came to preview Meadowscape, a community of 60 two- and three-bedroom houses; in a way, this community brings his life full circle.\n\nWhen Kunchai was a teenager, he helped his father build the family’s home on East Elm Street, becoming involved in all aspects of the construction of the building. This experience eventually led to a job in the construction business, which in turn enabled Kunchai to pay for his architecture studies at Vanwick University. Soon after graduation, he joined the architecture firm, Morgan and Maynard, where he worked for eight years, mainly designing parks, playgrounds, and other public spaces. He next went on to teach architecture at the same university he graduated from.\n\nKunchai started his own company, Great West Builders, five years ago. Says Kunchai, “Many people who currently rent accommodations in the area are expressing interest in home ownership, but they can’t afford much of what’s available in Westburg. Or if they do find something, it often requires a lot of expensive repairs. Obviously, these people need some assistance.”\n\nNotes Jamie Santana, a real estate agent with Acton Real Estate, Inc., “Mr. Kunchai is perhaps the only builder in the Acton area who is genuinely committed to addressing the needs of people who want affordable housing.”\n\nBuyers who attended the preview were able to save money by purchasing homes before Meadowscape’s grand opening in May. Sang Gyun Kim, Great West’s sales director, remarked, “Preview attendees were able to buy homes at prices as much as 10 percent lower than the homes will later sell for. Also, since only a limited number of each house design will be built, buyers who purchase houses later might not get their first choice of design.”\n\nEvelyn Zhou was among the preview attendees on Saturday who decided to start the purchasing process that day. “I’ve been searching for an affordable home in Westburg for months,” said Ms. Zhou. “Thanks to Meadowscape, I’m about to realize a dream I’ve had for a long time.”"
+          },
+          "vi": "TIN ĐỊA PHƯƠNG\n\nThứ Bảy vừa rồi, ông Chuan Kunchai hài lòng nhìn đám đông đến xem trước Meadowscape, một khu dân cư gồm 60 ngôi nhà hai và ba phòng ngủ; theo một nghĩa nào đó, khu nhà này khép lại một vòng đời của ông.\n\nHồi còn thiếu niên, ông Kunchai giúp bố xây ngôi nhà của gia đình trên phố East Elm, tham gia mọi khâu xây dựng. Trải nghiệm đó dẫn ông tới một công việc trong ngành xây dựng, và công việc này giúp ông trả tiền học kiến trúc ở Đại học Vanwick. Ngay sau khi tốt nghiệp, ông vào công ty kiến trúc Morgan and Maynard, làm ở đó tám năm, chủ yếu thiết kế công viên, sân chơi và các không gian công cộng khác. Sau đó ông về dạy kiến trúc ở chính trường đại học mình đã tốt nghiệp.\n\nNăm năm trước, ông Kunchai thành lập công ty riêng, Great West Builders. Ông nói: “Nhiều người đang thuê nhà trong vùng muốn sở hữu nhà riêng, nhưng họ không mua nổi phần lớn nhà đang bán ở Westburg. Hoặc nếu tìm được thì căn nhà thường cần sửa chữa rất tốn kém. Rõ ràng những người này cần được giúp đỡ.”\n\nBà Jamie Santana, môi giới bất động sản của công ty Acton Real Estate, nhận xét: “Ông Kunchai có lẽ là nhà xây dựng duy nhất ở vùng Acton thật sự tận tâm đáp ứng nhu cầu của những người muốn có nhà giá phải chăng.”\n\nNgười mua đến buổi xem trước đã tiết kiệm được tiền nhờ mua nhà trước lễ khai trương Meadowscape vào tháng Năm. Ông Sang Gyun Kim, giám đốc kinh doanh của Great West, cho biết: “Người đến xem trước mua được nhà với giá thấp hơn tới 10% so với giá bán sau này. Ngoài ra, vì mỗi mẫu nhà chỉ xây số lượng có hạn, người mua sau có thể không chọn được mẫu mình thích nhất.”\n\nBà Evelyn Zhou là một trong những người đến xem trước hôm thứ Bảy và quyết định làm thủ tục mua nhà ngay hôm đó. “Tôi đã tìm một căn nhà giá phải chăng ở Westburg suốt mấy tháng,” bà Zhou nói. “Nhờ Meadowscape, tôi sắp thực hiện được giấc mơ ấp ủ bấy lâu.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d22-read-20",
+          "no": 20,
+          "text": "Who is buying a house in Meadowscape?",
+          "options": {
+            "A": "Evelyn Zhou",
+            "B": "Chuan Kunchai",
+            "C": "Sang Gyun Kim",
+            "D": "Jamie Santana"
+          },
+          "answer": "A",
+          "explain": "“Evelyn Zhou … decided to start the purchasing process that day.”",
+          "passage": {
+            "text": "LOCAL NEWS\n\nOn Saturday, Chuan Kunchai observed with satisfaction the crowds of people who came to preview Meadowscape, a community of 60 two- and three-bedroom houses; in a way, this community brings his life full circle.\n\nWhen Kunchai was a teenager, he helped his father build the family’s home on East Elm Street, becoming involved in all aspects of the construction of the building. This experience eventually led to a job in the construction business, which in turn enabled Kunchai to pay for his architecture studies at Vanwick University. Soon after graduation, he joined the architecture firm, Morgan and Maynard, where he worked for eight years, mainly designing parks, playgrounds, and other public spaces. He next went on to teach architecture at the same university he graduated from.\n\nKunchai started his own company, Great West Builders, five years ago. Says Kunchai, “Many people who currently rent accommodations in the area are expressing interest in home ownership, but they can’t afford much of what’s available in Westburg. Or if they do find something, it often requires a lot of expensive repairs. Obviously, these people need some assistance.”\n\nNotes Jamie Santana, a real estate agent with Acton Real Estate, Inc., “Mr. Kunchai is perhaps the only builder in the Acton area who is genuinely committed to addressing the needs of people who want affordable housing.”\n\nBuyers who attended the preview were able to save money by purchasing homes before Meadowscape’s grand opening in May. Sang Gyun Kim, Great West’s sales director, remarked, “Preview attendees were able to buy homes at prices as much as 10 percent lower than the homes will later sell for. Also, since only a limited number of each house design will be built, buyers who purchase houses later might not get their first choice of design.”\n\nEvelyn Zhou was among the preview attendees on Saturday who decided to start the purchasing process that day. “I’ve been searching for an affordable home in Westburg for months,” said Ms. Zhou. “Thanks to Meadowscape, I’m about to realize a dream I’ve had for a long time.”"
+          },
+          "vi": "TIN ĐỊA PHƯƠNG\n\nThứ Bảy vừa rồi, ông Chuan Kunchai hài lòng nhìn đám đông đến xem trước Meadowscape, một khu dân cư gồm 60 ngôi nhà hai và ba phòng ngủ; theo một nghĩa nào đó, khu nhà này khép lại một vòng đời của ông.\n\nHồi còn thiếu niên, ông Kunchai giúp bố xây ngôi nhà của gia đình trên phố East Elm, tham gia mọi khâu xây dựng. Trải nghiệm đó dẫn ông tới một công việc trong ngành xây dựng, và công việc này giúp ông trả tiền học kiến trúc ở Đại học Vanwick. Ngay sau khi tốt nghiệp, ông vào công ty kiến trúc Morgan and Maynard, làm ở đó tám năm, chủ yếu thiết kế công viên, sân chơi và các không gian công cộng khác. Sau đó ông về dạy kiến trúc ở chính trường đại học mình đã tốt nghiệp.\n\nNăm năm trước, ông Kunchai thành lập công ty riêng, Great West Builders. Ông nói: “Nhiều người đang thuê nhà trong vùng muốn sở hữu nhà riêng, nhưng họ không mua nổi phần lớn nhà đang bán ở Westburg. Hoặc nếu tìm được thì căn nhà thường cần sửa chữa rất tốn kém. Rõ ràng những người này cần được giúp đỡ.”\n\nBà Jamie Santana, môi giới bất động sản của công ty Acton Real Estate, nhận xét: “Ông Kunchai có lẽ là nhà xây dựng duy nhất ở vùng Acton thật sự tận tâm đáp ứng nhu cầu của những người muốn có nhà giá phải chăng.”\n\nNgười mua đến buổi xem trước đã tiết kiệm được tiền nhờ mua nhà trước lễ khai trương Meadowscape vào tháng Năm. Ông Sang Gyun Kim, giám đốc kinh doanh của Great West, cho biết: “Người đến xem trước mua được nhà với giá thấp hơn tới 10% so với giá bán sau này. Ngoài ra, vì mỗi mẫu nhà chỉ xây số lượng có hạn, người mua sau có thể không chọn được mẫu mình thích nhất.”\n\nBà Evelyn Zhou là một trong những người đến xem trước hôm thứ Bảy và quyết định làm thủ tục mua nhà ngay hôm đó. “Tôi đã tìm một căn nhà giá phải chăng ở Westburg suốt mấy tháng,” bà Zhou nói. “Nhờ Meadowscape, tôi sắp thực hiện được giấc mơ ấp ủ bấy lâu.”",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

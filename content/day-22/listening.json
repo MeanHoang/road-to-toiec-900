@@ -1,0 +1,2605 @@
+{
+  "collection": "listening",
+  "day": "day-22",
+  "title": "Listening",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d22-t2-p1",
+      "code": "t2-p1",
+      "title": "Test 2 — Part 1",
+      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "part": 1,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": true,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-t2-p1-01",
+          "no": 1,
+          "audio": "/assets/day-22/test-2/audio/01.mp3",
+          "image": "/assets/day-22/test-2/images/01.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "He's drinking some coffee.",
+            "B": "He's preparing a beverage.",
+            "C": "He's putting on an apron.",
+            "D": "He's wiping off the counter."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p1-02",
+          "no": 2,
+          "audio": "/assets/day-22/test-2/audio/02.mp3",
+          "image": "/assets/day-22/test-2/images/02.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "A woman is leaving a meeting.",
+            "B": "A man is cleaning his glasses.",
+            "C": "A woman is holding a pen.",
+            "D": "A man is signing a document."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p1-03",
+          "no": 3,
+          "audio": "/assets/day-22/test-2/audio/03.mp3",
+          "image": "/assets/day-22/test-2/images/03.jpg",
+          "answer": "D",
+          "transcript": {
+            "A": "A sidewalk is crowded with runners.",
+            "B": "Some people are working out in a gym.",
+            "C": "Some skyscrapers are reflected on the water.",
+            "D": "The women are jogging in the same direction."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p1-04",
+          "no": 4,
+          "audio": "/assets/day-22/test-2/audio/04.mp3",
+          "image": "/assets/day-22/test-2/images/04.jpg",
+          "answer": "C",
+          "transcript": {
+            "A": "Some people are exiting an airplane.",
+            "B": "A woman is tying a scarf.",
+            "C": "A suitcase is being stowed away.",
+            "D": "All of the overhead bins are closed."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p1-05",
+          "no": 5,
+          "audio": "/assets/day-22/test-2/audio/05.mp3",
+          "image": "/assets/day-22/test-2/images/05.jpg",
+          "answer": "A",
+          "transcript": {
+            "A": "Trees are lined up along a walkway.",
+            "B": "Some people are swimming in the water.",
+            "C": "Boats are being pulled from a canal.",
+            "D": "A waterway is being constructed."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p1-06",
+          "no": 6,
+          "audio": "/assets/day-22/test-2/audio/06.mp3",
+          "image": "/assets/day-22/test-2/images/06.jpg",
+          "answer": "B",
+          "transcript": {
+            "A": "One of the machines is towing the other.",
+            "B": "A cliff overlooks some construction equipment.",
+            "C": "Rocks are being piled up near a building.",
+            "D": "Some construction vehicles are being repaired."
+          },
+          "source": {
+            "audio": "drive",
+            "image": "pdf",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-t2-p2",
+      "code": "t2-p2",
+      "title": "Test 2 — Part 2",
+      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "part": 2,
+      "choices": [
+        "A",
+        "B",
+        "C"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-t2-p2-07",
+          "no": 7,
+          "audio": "/assets/day-22/test-2/audio/07.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "How many crates will be delivered?",
+            "A": "I'll wait for you.",
+            "B": "In the warehouse.",
+            "C": "At least 15."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-08",
+          "no": 8,
+          "audio": "/assets/day-22/test-2/audio/08.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Where is the best place to park near the stadium?",
+            "A": "Usually on weekdays.",
+            "B": "On 16th Avenue.",
+            "C": "A soccer tournament."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-09",
+          "no": 9,
+          "audio": "/assets/day-22/test-2/audio/09.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "These file cabinets are for the sales department, aren't they?",
+            "A": "A computer file.",
+            "B": "No, they're for marketing.",
+            "C": "Yes, we were."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-10",
+          "no": 10,
+          "audio": "/assets/day-22/test-2/audio/10.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Could you help me set up my online account?",
+            "A": "I just visit in person.",
+            "B": "I'd be happy to.",
+            "C": "Yes, she's an accountant."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-11",
+          "no": 11,
+          "audio": "/assets/day-22/test-2/audio/11.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "You watched Brian's news report, didn't you?",
+            "A": "He's a reporter.",
+            "B": "I'll watch them now.",
+            "C": "Sadly, I missed it."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-12",
+          "no": 12,
+          "audio": "/assets/day-22/test-2/audio/12.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Why did you leave your briefcase on the table?",
+            "A": "I wish that I could.",
+            "B": "Because I'm coming right back.",
+            "C": "Mostly business contracts."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-13",
+          "no": 13,
+          "audio": "/assets/day-22/test-2/audio/13.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Has the construction firm applied for the building permit?",
+            "A": "No, but they'll do it today.",
+            "B": "I work in another building.",
+            "C": "The renovations look fantastic."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-14",
+          "no": 14,
+          "audio": "/assets/day-22/test-2/audio/14.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How much damage was caused by last night's storm?",
+            "A": "If you think that's best.",
+            "B": "It's too early to tell.",
+            "C": "A few times a year."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-15",
+          "no": 15,
+          "audio": "/assets/day-22/test-2/audio/15.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "When does the next issue of the magazine come out?",
+            "A": "A variety of articles.",
+            "B": "We're completely sold out.",
+            "C": "Not until next week."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-16",
+          "no": 16,
+          "audio": "/assets/day-22/test-2/audio/16.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Which of these drawers holds employee records?",
+            "A": "Yes, and schedules too.",
+            "B": "The top one.",
+            "C": "I'll hold it for you."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-17",
+          "no": 17,
+          "audio": "/assets/day-22/test-2/audio/17.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "You cannot enter this restricted area.",
+            "A": "Sorry, I didn't know.",
+            "B": "I'd really enjoy that.",
+            "C": "Near the entrance."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-18",
+          "no": 18,
+          "audio": "/assets/day-22/test-2/audio/18.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "How can I find the fastest route to the museum?",
+            "A": "That seems reasonable.",
+            "B": "Try searching for maps online.",
+            "C": "We're going to an art exhibition."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-19",
+          "no": 19,
+          "audio": "/assets/day-22/test-2/audio/19.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Where can I buy stationery like this?",
+            "A": "It's custom printed.",
+            "B": "I appreciate that.",
+            "C": "No, I don't have time."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-20",
+          "no": 20,
+          "audio": "/assets/day-22/test-2/audio/20.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Could we add labels to the sections of the storage room?",
+            "A": "Unfortunately, he's absent.",
+            "B": "Yes, my favorite store.",
+            "C": "I don't see why not."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-21",
+          "no": 21,
+          "audio": "/assets/day-22/test-2/audio/21.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Would you inform the faculty of the change?",
+            "A": "A copy of this form.",
+            "B": "Can Paul handle that?",
+            "C": "I'm a full-time member."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-22",
+          "no": 22,
+          "audio": "/assets/day-22/test-2/audio/22.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Are these ingredients still fresh?",
+            "A": "On the countertop.",
+            "B": "The farmer's market.",
+            "C": "Ask the head chef."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-23",
+          "no": 23,
+          "audio": "/assets/day-22/test-2/audio/23.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "I have to pay the enrollment fee in advance, don't I?",
+            "A": "You can choose any spot.",
+            "B": "That's correct.",
+            "C": "Delivery is free."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-24",
+          "no": 24,
+          "audio": "/assets/day-22/test-2/audio/24.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Did Ms. Holbert accept any of our suggestions?",
+            "A": "Yes, I agree.",
+            "B": "She's still considering them.",
+            "C": "You have a point."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-25",
+          "no": 25,
+          "audio": "/assets/day-22/test-2/audio/25.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Who's making the speech before the achievement awards?",
+            "A": "The sales manager works here.",
+            "B": "It's the founder of the company.",
+            "C": "Congratulations, you deserve it."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-26",
+          "no": 26,
+          "audio": "/assets/day-22/test-2/audio/26.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "This thermostat controls the entire building's temperature, doesn't it?",
+            "A": "No, we couldn't find it.",
+            "B": "No, just this floor.",
+            "C": "I'm warm enough."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-27",
+          "no": 27,
+          "audio": "/assets/day-22/test-2/audio/27.mp3",
+          "image": null,
+          "answer": "A",
+          "transcript": {
+            "Q": "Should I send the invoice by mail or by e-mail?",
+            "A": "What's the client's preference?",
+            "B": "The total is 200 euros.",
+            "C": "That's more than enough."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-28",
+          "no": 28,
+          "audio": "/assets/day-22/test-2/audio/28.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "Are you going to Sunday's orchestra concert?",
+            "A": "She plays the violin.",
+            "B": "How was it?",
+            "C": "Only if I can get a ticket."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-29",
+          "no": 29,
+          "audio": "/assets/day-22/test-2/audio/29.mp3",
+          "image": null,
+          "answer": "C",
+          "transcript": {
+            "Q": "We need a professional to make these repairs.",
+            "A": "Water is leaking from the sink.",
+            "B": "Yes, I have experience.",
+            "C": "That might be rather expensive."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-30",
+          "no": 30,
+          "audio": "/assets/day-22/test-2/audio/30.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "Didn't you apply for a home loan?",
+            "A": "This neighborhood has a lot of good ones.",
+            "B": "Yes, but I was rejected.",
+            "C": "You can borrow one from me."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d22-t2-p2-31",
+          "no": 31,
+          "audio": "/assets/day-22/test-2/audio/31.mp3",
+          "image": null,
+          "answer": "B",
+          "transcript": {
+            "Q": "I'm not sure if this layout looks good for the cover.",
+            "A": "Actually, Jen is covering for me.",
+            "B": "Why don't you try something else?",
+            "C": "Because it appeals to readers."
+          },
+          "source": {
+            "audio": "drive",
+            "answer": "ai",
+            "transcript": "whisper"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-t4-p3",
+      "code": "t4-p3",
+      "title": "Test 4 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-t4-p3-41",
+          "no": 41,
+          "audio": "/assets/day-22/test-4-part-3/41-43.mp3",
+          "image": null,
+          "question": "What does the man want to do?",
+          "options": {
+            "A": "Buy a newspaper",
+            "B": "Have a car repaired",
+            "C": "Advertise a business",
+            "D": "Start a new business"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-42",
+          "no": 42,
+          "audio": "/assets/day-22/test-4-part-3/41-43.mp3",
+          "image": null,
+          "question": "What does the woman suggest?",
+          "options": {
+            "A": "Buying a new car",
+            "B": "Reading a newspaper",
+            "C": "Surprising a friend",
+            "D": "Creating a Web site"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-43",
+          "no": 43,
+          "audio": "/assets/day-22/test-4-part-3/41-43.mp3",
+          "image": null,
+          "question": "Who does the man plan to contact?",
+          "options": {
+            "A": "A friend",
+            "B": "A car repair shop",
+            "C": "A newspaper office",
+            "D": "A government agency"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-44",
+          "no": 44,
+          "audio": "/assets/day-22/test-4-part-3/44-46.mp3",
+          "image": null,
+          "question": "Where does the woman want to work?",
+          "options": {
+            "A": "At a restaurant",
+            "B": "At a beach",
+            "C": "At a health club",
+            "D": "At a resort"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-45",
+          "no": 45,
+          "audio": "/assets/day-22/test-4-part-3/44-46.mp3",
+          "image": null,
+          "question": "What kind of employment experience has the woman had?",
+          "options": {
+            "A": "Fitness instructor",
+            "B": "Lifeguard",
+            "C": "Gardener",
+            "D": "Restaurant server"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-46",
+          "no": 46,
+          "audio": "/assets/day-22/test-4-part-3/44-46.mp3",
+          "image": null,
+          "question": "What is the woman asked to bring to her interview?",
+          "options": {
+            "A": "A résumé",
+            "B": "An application",
+            "C": "Proof of certification",
+            "D": "Proof of insurance"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-47",
+          "no": 47,
+          "audio": "/assets/day-22/test-4-part-3/47-49.mp3",
+          "image": null,
+          "question": "What is the general topic of the conversation?",
+          "options": {
+            "A": "Housing",
+            "B": "Employment",
+            "C": "Entertainment",
+            "D": "Transportation"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-48",
+          "no": 48,
+          "audio": "/assets/day-22/test-4-part-3/47-49.mp3",
+          "image": null,
+          "question": "What does the man say about living in the city?",
+          "options": {
+            "A": "There is too much traffic.",
+            "B": "It is too expensive.",
+            "C": "It is easy to find a job.",
+            "D": "There are many apartments for rent."
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-49",
+          "no": 49,
+          "audio": "/assets/day-22/test-4-part-3/47-49.mp3",
+          "image": null,
+          "question": "What does the woman suggest that the man do?",
+          "options": {
+            "A": "Look for a roommate",
+            "B": "Find a new job",
+            "C": "Check the newspaper",
+            "D": "Sign a contract"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-50",
+          "no": 50,
+          "audio": "/assets/day-22/test-4-part-3/50-52.mp3",
+          "image": null,
+          "question": "Who is the man shopping for?",
+          "options": {
+            "A": "A coworker",
+            "B": "A friend",
+            "C": "His child",
+            "D": "His wife"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-51",
+          "no": 51,
+          "audio": "/assets/day-22/test-4-part-3/50-52.mp3",
+          "image": null,
+          "question": "What time does the store close?",
+          "options": {
+            "A": "At 5:00",
+            "B": "At 6:00",
+            "C": "At 7:00",
+            "D": "At 8:00"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-52",
+          "no": 52,
+          "audio": "/assets/day-22/test-4-part-3/50-52.mp3",
+          "image": null,
+          "question": "What does the customer ask the salesperson to do?",
+          "options": {
+            "A": "Return a phone call",
+            "B": "Reserve an item at the store",
+            "C": "Keep the store open late",
+            "D": "Provide a cash refund"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-53",
+          "no": 53,
+          "audio": "/assets/day-22/test-4-part-3/53-55.mp3",
+          "image": null,
+          "question": "What does the woman want?",
+          "options": {
+            "A": "Some bread",
+            "B": "A larger table",
+            "C": "Something to drink",
+            "D": "A dessert"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-54",
+          "no": 54,
+          "audio": "/assets/day-22/test-4-part-3/53-55.mp3",
+          "image": null,
+          "question": "What does the man offer to do?",
+          "options": {
+            "A": "Get some water",
+            "B": "Go to a store",
+            "C": "Bring a menu",
+            "D": "Find a waiter"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-55",
+          "no": 55,
+          "audio": "/assets/day-22/test-4-part-3/53-55.mp3",
+          "image": null,
+          "question": "How long has the woman been waiting?",
+          "options": {
+            "A": "2 minutes",
+            "B": "5 minutes",
+            "C": "10 minutes",
+            "D": "15 minutes"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-56",
+          "no": 56,
+          "audio": "/assets/day-22/test-4-part-3/56-58.mp3",
+          "image": null,
+          "question": "What type of business do the speakers probably work for?",
+          "options": {
+            "A": "A construction company",
+            "B": "A shipping company",
+            "C": "A delivery service",
+            "D": "A supply store"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-57",
+          "no": 57,
+          "audio": "/assets/day-22/test-4-part-3/56-58.mp3",
+          "image": null,
+          "question": "What problem are the workers discussing?",
+          "options": {
+            "A": "Some wood is damaged.",
+            "B": "Some roads are closed.",
+            "C": "Some workers will be late.",
+            "D": "Some supplies will not arrive today."
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-58",
+          "no": 58,
+          "audio": "/assets/day-22/test-4-part-3/56-58.mp3",
+          "image": null,
+          "question": "What will the workers probably do next?",
+          "options": {
+            "A": "Hold a meeting",
+            "B": "Work on a different project",
+            "C": "Call the lumber company",
+            "D": "Deliver a shipment"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-59",
+          "no": 59,
+          "audio": "/assets/day-22/test-4-part-3/59-61.mp3",
+          "image": null,
+          "question": "Where does this conversation most likely take place?",
+          "options": {
+            "A": "At an office",
+            "B": "At a bakery",
+            "C": "At a newsstand",
+            "D": "At a restaurant"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-60",
+          "no": 60,
+          "audio": "/assets/day-22/test-4-part-3/59-61.mp3",
+          "image": null,
+          "question": "How did the man get to work?",
+          "options": {
+            "A": "By car",
+            "B": "By bus",
+            "C": "By train",
+            "D": "On foot"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-61",
+          "no": 61,
+          "audio": "/assets/day-22/test-4-part-3/59-61.mp3",
+          "image": null,
+          "question": "When is the meeting scheduled to begin?",
+          "options": {
+            "A": "In 5 minutes",
+            "B": "In 10 minutes",
+            "C": "In 20 minutes",
+            "D": "In 30 minutes"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-62",
+          "no": 62,
+          "audio": "/assets/day-22/test-4-part-3/62-64.mp3",
+          "image": null,
+          "question": "Who is the woman?",
+          "options": {
+            "A": "A chef",
+            "B": "A server",
+            "C": "A restaurant owner",
+            "D": "A restaurant cashier"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-63",
+          "no": 63,
+          "audio": "/assets/day-22/test-4-part-3/62-64.mp3",
+          "image": null,
+          "question": "What does the woman say about the restaurant?",
+          "options": {
+            "A": "It is expensive.",
+            "B": "It is busy at lunchtime.",
+            "C": "It is located in a hotel.",
+            "D": "It has a few open positions."
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-64",
+          "no": 64,
+          "audio": "/assets/day-22/test-4-part-3/62-64.mp3",
+          "image": null,
+          "question": "What happened last week?",
+          "options": {
+            "A": "The woman hired a new employee.",
+            "B": "The restaurant moved to another location.",
+            "C": "The man went to Italy.",
+            "D": "The man started a new job."
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-65",
+          "no": 65,
+          "audio": "/assets/day-22/test-4-part-3/65-67.mp3",
+          "image": null,
+          "question": "What are the speakers discussing?",
+          "options": {
+            "A": "A movie",
+            "B": "A mountain hike",
+            "C": "A letter of recommendation",
+            "D": "A job opening"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-66",
+          "no": 66,
+          "audio": "/assets/day-22/test-4-part-3/65-67.mp3",
+          "image": null,
+          "question": "What does the man say he will do on Friday?",
+          "options": {
+            "A": "Call the human resource office",
+            "B": "Set up a meeting with Martha",
+            "C": "Buy a book about Colorado",
+            "D": "Go to see a film"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-67",
+          "no": 67,
+          "audio": "/assets/day-22/test-4-part-3/65-67.mp3",
+          "image": null,
+          "question": "What does the woman say about the man?",
+          "options": {
+            "A": "He is the best candidate for a job.",
+            "B": "He enjoys the outdoors.",
+            "C": "He should go to Colorado.",
+            "D": "He should take an extra day off."
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-68",
+          "no": 68,
+          "audio": "/assets/day-22/test-4-part-3/68-70.mp3",
+          "image": null,
+          "question": "Where does this conversation probably take place?",
+          "options": {
+            "A": "At a coffee shop",
+            "B": "At a train station",
+            "C": "At a theater",
+            "D": "At a hotel"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-69",
+          "no": 69,
+          "audio": "/assets/day-22/test-4-part-3/68-70.mp3",
+          "image": null,
+          "question": "What does the man suggest they do?",
+          "options": {
+            "A": "Eat a meal",
+            "B": "Buy a program",
+            "C": "Make some copies",
+            "D": "Review the schedule"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t4-p3-70",
+          "no": 70,
+          "audio": "/assets/day-22/test-4-part-3/68-70.mp3",
+          "image": null,
+          "question": "When does the woman say she will meet the man?",
+          "options": {
+            "A": "In 2 minutes",
+            "B": "In 5 minutes",
+            "C": "In 10 minutes",
+            "D": "In 30 minute"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-t5-p3",
+      "code": "t5-p3",
+      "title": "Test 5 — Part 3",
+      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-t5-p3-41",
+          "no": 41,
+          "audio": "/assets/day-22/test-5-part-3/41-43.mp3",
+          "image": null,
+          "question": "Where does this conversation probably take place?",
+          "options": {
+            "A": "At a reception desk",
+            "B": "On a factory floor",
+            "C": "At a technology conference",
+            "D": "In an elevator"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-42",
+          "no": 42,
+          "audio": "/assets/day-22/test-5-part-3/41-43.mp3",
+          "image": null,
+          "question": "What floor does Ms. Evans work on?",
+          "options": {
+            "A": "First",
+            "B": "Second",
+            "C": "Third",
+            "D": "Fourth"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-43",
+          "no": 43,
+          "audio": "/assets/day-22/test-5-part-3/41-43.mp3",
+          "image": null,
+          "question": "Why does the man want to speak with Ms. Evans?",
+          "options": {
+            "A": "He is trying to sell some equipment.",
+            "B": "He needs to review a procedure.",
+            "C": "He is looking for employment.",
+            "D": "He wants to make a purchase."
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-44",
+          "no": 44,
+          "audio": "/assets/day-22/test-5-part-3/44-46.mp3",
+          "image": null,
+          "question": "Who is Mr. Park talking to?",
+          "options": {
+            "A": "A friend",
+            "B": "His assistant",
+            "C": "A client",
+            "D": "A travel agent"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-45",
+          "no": 45,
+          "audio": "/assets/day-22/test-5-part-3/44-46.mp3",
+          "image": null,
+          "question": "Why does the woman call Mr. Park?",
+          "options": {
+            "A": "To remind him of a special offer",
+            "B": "To arrange to meet with him",
+            "C": "To confirm his schedule",
+            "D": "To request a document from him"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-46",
+          "no": 46,
+          "audio": "/assets/day-22/test-5-part-3/44-46.mp3",
+          "image": null,
+          "question": "When does Mr. Park say he will call the woman back?",
+          "options": {
+            "A": "This morning",
+            "B": "This afternoon",
+            "C": "Tomorrow morning",
+            "D": "Tomorrow afternoon"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-47",
+          "no": 47,
+          "audio": "/assets/day-22/test-5-part-3/47-49.mp3",
+          "image": null,
+          "question": "Where most likely are the speakers?",
+          "options": {
+            "A": "At a grocery store",
+            "B": "At a restaurant",
+            "C": "At a furniture store",
+            "D": "At a movie theater"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-48",
+          "no": 48,
+          "audio": "/assets/day-22/test-5-part-3/47-49.mp3",
+          "image": null,
+          "question": "Why was the woman concerned?",
+          "options": {
+            "A": "The door will not close properly.",
+            "B": "The staff did not have enough to do.",
+            "C": "There were too many tables.",
+            "D": "There were not enough clean dishes."
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-49",
+          "no": 49,
+          "audio": "/assets/day-22/test-5-part-3/47-49.mp3",
+          "image": null,
+          "question": "What will the man probably do next?",
+          "options": {
+            "A": "Help a customer",
+            "B": "Load the dishwasher",
+            "C": "Clean some utensils",
+            "D": "Find some more chairs"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-50",
+          "no": 50,
+          "audio": "/assets/day-22/test-5-part-3/50-52.mp3",
+          "image": null,
+          "question": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "How they will get to the airport",
+            "B": "What they will do in the evening",
+            "C": "What they will have to eat",
+            "D": "What movie they will see"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-51",
+          "no": 51,
+          "audio": "/assets/day-22/test-5-part-3/50-52.mp3",
+          "image": null,
+          "question": "Who is Kathy expecting from New York?",
+          "options": {
+            "A": "A relative",
+            "B": "A co-worker",
+            "C": "A friend",
+            "D": "A classmate"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-52",
+          "no": 52,
+          "audio": "/assets/day-22/test-5-part-3/50-52.mp3",
+          "image": null,
+          "question": "What will Kathy do next?",
+          "options": {
+            "A": "Visit Susan",
+            "B": "Buy some tickets",
+            "C": "Make a reservation",
+            "D": "Get some money"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-53",
+          "no": 53,
+          "audio": "/assets/day-22/test-5-part-3/53-55.mp3",
+          "image": null,
+          "question": "When did the man receive the book?",
+          "options": {
+            "A": "Today",
+            "B": "Yesterday",
+            "C": "Two weeks ago",
+            "D": "A month ago"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-54",
+          "no": 54,
+          "audio": "/assets/day-22/test-5-part-3/53-55.mp3",
+          "image": null,
+          "question": "What is suggested about the book?",
+          "options": {
+            "A": "It is expensive.",
+            "B": "It is popular.",
+            "C": "It has a defect.",
+            "D": "It has color pictures."
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-55",
+          "no": 55,
+          "audio": "/assets/day-22/test-5-part-3/53-55.mp3",
+          "image": null,
+          "question": "What does the woman ask for?",
+          "options": {
+            "A": "A credit card number",
+            "B": "A receipt",
+            "C": "A billing address",
+            "D": "A delivery date"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-56",
+          "no": 56,
+          "audio": "/assets/day-22/test-5-part-3/56-58.mp3",
+          "image": null,
+          "question": "What is this conversation about?",
+          "options": {
+            "A": "The location of a package",
+            "B": "A new assistant",
+            "C": "The shortage of boxes",
+            "D": "A printing problem"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-57",
+          "no": 57,
+          "audio": "/assets/day-22/test-5-part-3/56-58.mp3",
+          "image": null,
+          "question": "Who is Ms. Meyers?",
+          "options": {
+            "A": "A mail room employee",
+            "B": "An office supply salesperson",
+            "C": "A co-worker of Ms. Bingman",
+            "D": "A shipping company representative"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-58",
+          "no": 58,
+          "audio": "/assets/day-22/test-5-part-3/56-58.mp3",
+          "image": null,
+          "question": "What will the man probably do next?",
+          "options": {
+            "A": "Mail some letters",
+            "B": "Order some ink cartridges",
+            "C": "Deliver a package to Lisa Bingman",
+            "D": "Write Ms. Bingman’s name on a package"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-59",
+          "no": 59,
+          "audio": "/assets/day-22/test-5-part-3/59-61.mp3",
+          "image": null,
+          "question": "Where is the newspaper?",
+          "options": {
+            "A": "By a window",
+            "B": "In a coffee-break room",
+            "C": "In a computer lab",
+            "D": "At a newsstand"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-60",
+          "no": 60,
+          "audio": "/assets/day-22/test-5-part-3/59-61.mp3",
+          "image": null,
+          "question": "What kind of offer did the man read about?",
+          "options": {
+            "A": "A free newspaper subscription",
+            "B": "A discount on laptop computers",
+            "C": "Fast Internet access",
+            "D": "Cheap coffee"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-61",
+          "no": 61,
+          "audio": "/assets/day-22/test-5-part-3/59-61.mp3",
+          "image": null,
+          "question": "What does the woman suggest?",
+          "options": {
+            "A": "Taking a short break",
+            "B": "Reading a different newspaper",
+            "C": "Looking at a Web site",
+            "D": "Going to a computer store"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-62",
+          "no": 62,
+          "audio": "/assets/day-22/test-5-part-3/62-64.mp3",
+          "image": null,
+          "question": "Where does the woman work?",
+          "options": {
+            "A": "At a department store",
+            "B": "At a telephone company",
+            "C": "At a shipping company",
+            "D": "At a financial institution"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-63",
+          "no": 63,
+          "audio": "/assets/day-22/test-5-part-3/62-64.mp3",
+          "image": null,
+          "question": "Why is the man calling?",
+          "options": {
+            "A": "To transfer money between accounts",
+            "B": "To request payment of a bill",
+            "C": "To order electronic equipment",
+            "D": "To schedule a job interview"
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-64",
+          "no": 64,
+          "audio": "/assets/day-22/test-5-part-3/62-64.mp3",
+          "image": null,
+          "question": "What does the woman ask for?",
+          "options": {
+            "A": "An address",
+            "B": "A password",
+            "C": "A phone number",
+            "D": "An account number"
+          },
+          "answer": "D",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-65",
+          "no": 65,
+          "audio": "/assets/day-22/test-5-part-3/65-67.mp3",
+          "image": null,
+          "question": "Who is the woman?",
+          "options": {
+            "A": "A builder",
+            "B": "A weather forecaster",
+            "C": "A shop owner",
+            "D": "An event planner"
+          },
+          "answer": "C",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-66",
+          "no": 66,
+          "audio": "/assets/day-22/test-5-part-3/65-67.mp3",
+          "image": null,
+          "question": "Why has construction been delayed?",
+          "options": {
+            "A": "The weather has been bad.",
+            "B": "The building supplies were delivered late.",
+            "C": "The crew has been working on another project.",
+            "D": "The building design was changed."
+          },
+          "answer": "A",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        },
+        {
+          "id": "d22-t5-p3-67",
+          "no": 67,
+          "audio": "/assets/day-22/test-5-part-3/65-67.mp3",
+          "image": null,
+          "question": "What does the woman expect to do in June?",
+          "options": {
+            "A": "Schedule a party",
+            "B": "Open a store",
+            "C": "Receive some shipments",
+            "D": "Finish a construction project"
+          },
+          "answer": "B",
+          "transcript": null,
+          "source": {
+            "audio": "drive",
+            "question": "drive",
+            "options": "drive",
+            "answer": "ai",
+            "transcript": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-ets",
+      "code": "ets",
+      "title": "ETS Chapter 4 — Part 3",
+      "subtitle": "Lecture · Part 3 · official answer key · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-ets-01",
+          "no": 1,
+          "audio": "/assets/day-22/lecture/ets-test/01.mp3",
+          "image": null,
+          "question": "What is the woman concerned about?",
+          "options": {
+            "A": "The rate of production",
+            "B": "The availability of staff",
+            "C": "The temperature of a room",
+            "D": "The cost of shipping"
+          },
+          "answer": "A",
+          "transcript": "W: I’m worried about the production rate on assembly line number three. The machine that seals the mobile phone boxes isn’t running as fast as it should, and it’s slowing down the whole process.\nM: Oh, we’ve had trouble with that machine in the past. Instead of having it repaired again, I think we’d better just replace it.\nM: I agree. But we should try to get a new one put in as soon as possible, or we might have to shut down that assembly line.\nW: Ok, I’ll call the company that supplies that equipment.\nM: Yes, see how soon we can get it installed.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-02",
+          "no": 2,
+          "audio": "/assets/day-22/lecture/ets-test/01.mp3",
+          "image": null,
+          "question": "What does the man suggest?",
+          "options": {
+            "A": "Adjusting some controls",
+            "B": "Hiring a technician",
+            "C": "Replacing some equipment",
+            "D": "Using different packaging"
+          },
+          "answer": "C",
+          "transcript": "W: I’m worried about the production rate on assembly line number three. The machine that seals the mobile phone boxes isn’t running as fast as it should, and it’s slowing down the whole process.\nM: Oh, we’ve had trouble with that machine in the past. Instead of having it repaired again, I think we’d better just replace it.\nM: I agree. But we should try to get a new one put in as soon as possible, or we might have to shut down that assembly line.\nW: Ok, I’ll call the company that supplies that equipment.\nM: Yes, see how soon we can get it installed.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-03",
+          "no": 3,
+          "audio": "/assets/day-22/lecture/ets-test/01.mp3",
+          "image": null,
+          "question": "What does the woman say she will do?",
+          "options": {
+            "A": "Check with a supplier",
+            "B": "Place an advertisement",
+            "C": "Conduct an inspection",
+            "D": "Revise a production schedule"
+          },
+          "answer": "A",
+          "transcript": "W: I’m worried about the production rate on assembly line number three. The machine that seals the mobile phone boxes isn’t running as fast as it should, and it’s slowing down the whole process.\nM: Oh, we’ve had trouble with that machine in the past. Instead of having it repaired again, I think we’d better just replace it.\nM: I agree. But we should try to get a new one put in as soon as possible, or we might have to shut down that assembly line.\nW: Ok, I’ll call the company that supplies that equipment.\nM: Yes, see how soon we can get it installed.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-04",
+          "no": 4,
+          "audio": "/assets/day-22/lecture/ets-test/02.mp3",
+          "image": null,
+          "question": "Why is the man calling AFD Services?",
+          "options": {
+            "A": "To cancel an order",
+            "B": "To postpone a delivery",
+            "C": "To update an address",
+            "D": "To leave a message"
+          },
+          "answer": "B",
+          "transcript": "W: AFD Services. How may I help you?\nM: Hi. I’m expecting a package this afternoon, but I won’t be home. Can you reschedule that delivery for tomorrow?\nW: Sure. If you’d like, we can also leave it with a neighbor or put it by your door.\nM: Hmm ... The parcel contains expensive electronics, so I’d rather wait until I can receive it in person.\nW: No problem. Then we can deliver it first thing the next morning.\nM: Oh, if it’s possible, just after lunch would be even better for me.\nW: Certainly. I just need your phone number to give to the driver. He’ll phone you before he arrives.\nM: Great. My number is 390-7731 (*three nine oh, double-seven three one*)",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-05",
+          "no": 5,
+          "audio": "/assets/day-22/lecture/ets-test/02.mp3",
+          "image": null,
+          "question": "What does the man mention about a shipment?",
+          "options": {
+            "A": "It cannot be rescheduled.",
+            "B": "It was damaged.",
+            "C": "It contains valuables.",
+            "D": "It will be left by a door."
+          },
+          "answer": "C",
+          "transcript": "W: AFD Services. How may I help you?\nM: Hi. I’m expecting a package this afternoon, but I won’t be home. Can you reschedule that delivery for tomorrow?\nW: Sure. If you’d like, we can also leave it with a neighbor or put it by your door.\nM: Hmm ... The parcel contains expensive electronics, so I’d rather wait until I can receive it in person.\nW: No problem. Then we can deliver it first thing the next morning.\nM: Oh, if it’s possible, just after lunch would be even better for me.\nW: Certainly. I just need your phone number to give to the driver. He’ll phone you before he arrives.\nM: Great. My number is 390-7731 (*three nine oh, double-seven three one*)",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-06",
+          "no": 6,
+          "audio": "/assets/day-22/lecture/ets-test/02.mp3",
+          "image": null,
+          "question": "What does the woman say she needs?",
+          "options": {
+            "A": "Some contact information",
+            "B": "Proof of purchase",
+            "C": "A tracking number",
+            "D": "A signature"
+          },
+          "answer": "A",
+          "transcript": "W: AFD Services. How may I help you?\nM: Hi. I’m expecting a package this afternoon, but I won’t be home. Can you reschedule that delivery for tomorrow?\nW: Sure. If you’d like, we can also leave it with a neighbor or put it by your door.\nM: Hmm ... The parcel contains expensive electronics, so I’d rather wait until I can receive it in person.\nW: No problem. Then we can deliver it first thing the next morning.\nM: Oh, if it’s possible, just after lunch would be even better for me.\nW: Certainly. I just need your phone number to give to the driver. He’ll phone you before he arrives.\nM: Great. My number is 390-7731 (*three nine oh, double-seven three one*)",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-07",
+          "no": 7,
+          "audio": "/assets/day-22/lecture/ets-test/03.mp3",
+          "image": null,
+          "question": "What are the speakers planning to advertise?",
+          "options": {
+            "A": "Evening classes",
+            "B": "Job opportunities",
+            "C": "An online store",
+            "D": "A printing demonstration"
+          },
+          "answer": "A",
+          "transcript": "W: Thabo and Michiko, I need help designing some pamphlets for our evening business courses. I’d like to have them ready before the end of April.\nW: Sure. Should we take a look at the ones from last year or make them different?\nM: You know, I think the pamphlets last year had too many details. People can get dates and times from the Web site.\nW: I agree. Let’s focus on the skills that people will learn in each class.\nM: OK. I’ll come up with a rough version of the text for the pamphlets by tomorrow and e-mail it to you. Then, next week we can start working on the design.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-08",
+          "no": 8,
+          "audio": "/assets/day-22/lecture/ets-test/03.mp3",
+          "image": null,
+          "question": "According to the man, what was the problem with last year's pamphlets?",
+          "options": {
+            "A": "They were not ready on time.",
+            "B": "They were the wrong size.",
+            "C": "The information was too specific.",
+            "D": "The contact number was missing."
+          },
+          "answer": "C",
+          "transcript": "W: Thabo and Michiko, I need help designing some pamphlets for our evening business courses. I’d like to have them ready before the end of April.\nW: Sure. Should we take a look at the ones from last year or make them different?\nM: You know, I think the pamphlets last year had too many details. People can get dates and times from the Web site.\nW: I agree. Let’s focus on the skills that people will learn in each class.\nM: OK. I’ll come up with a rough version of the text for the pamphlets by tomorrow and e-mail it to you. Then, next week we can start working on the design.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-09",
+          "no": 9,
+          "audio": "/assets/day-22/lecture/ets-test/03.mp3",
+          "image": null,
+          "question": "What does the man say he will send the woman?",
+          "options": {
+            "A": "Free product samples",
+            "B": "A list of participants",
+            "C": "A draft of a document",
+            "D": "A revised schedule"
+          },
+          "answer": "C",
+          "transcript": "W: Thabo and Michiko, I need help designing some pamphlets for our evening business courses. I’d like to have them ready before the end of April.\nW: Sure. Should we take a look at the ones from last year or make them different?\nM: You know, I think the pamphlets last year had too many details. People can get dates and times from the Web site.\nW: I agree. Let’s focus on the skills that people will learn in each class.\nM: OK. I’ll come up with a rough version of the text for the pamphlets by tomorrow and e-mail it to you. Then, next week we can start working on the design.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-10",
+          "no": 10,
+          "audio": "/assets/day-22/lecture/ets-test/04.mp3",
+          "image": null,
+          "question": "What were the men doing last weekend?",
+          "options": {
+            "A": "Conducting a tour",
+            "B": "Training new employees",
+            "C": "Attending a gallery opening",
+            "D": "Designing a building"
+          },
+          "answer": "C",
+          "transcript": "W: Hi Ken, hi Julio! How did the art gallery opening go last weekend? Was the client happy with the marketing materials?\nM: Alfredo? He was very pleased. He said he thought the brochures we designed were one of the main reasons for such a great turnout. (doanh thu)\nM: And it’s worth checking out the gallery when you have some time. I’m sure Alfredo would be happy to give you a tour.\nM: Yes, the place is so bright and modern, with a fantastic collection of local works of art.\nW: you know, I’m taking a vacation in that area in February, I’ll make a point of visiting him.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-11",
+          "no": 11,
+          "audio": "/assets/day-22/lecture/ets-test/04.mp3",
+          "image": null,
+          "question": "What type of work did the speakers do for Alfredo?",
+          "options": {
+            "A": "They created marketing materials.",
+            "B": "They furnished an office space.",
+            "C": "They revised a workflow procedure.",
+            "D": "They made a financial investment."
+          },
+          "answer": "A",
+          "transcript": "W: Hi Ken, hi Julio! How did the art gallery opening go last weekend? Was the client happy with the marketing materials?\nM: Alfredo? He was very pleased. He said he thought the brochures we designed were one of the main reasons for such a great turnout. (doanh thu)\nM: And it’s worth checking out the gallery when you have some time. I’m sure Alfredo would be happy to give you a tour.\nM: Yes, the place is so bright and modern, with a fantastic collection of local works of art.\nW: you know, I’m taking a vacation in that area in February, I’ll make a point of visiting him.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-12",
+          "no": 12,
+          "audio": "/assets/day-22/lecture/ets-test/04.mp3",
+          "image": null,
+          "question": "What does the woman plan to do in February?",
+          "options": {
+            "A": "Hire new staff",
+            "B": "Relocate to another city",
+            "C": "Attend a conference",
+            "D": "Take a vacation"
+          },
+          "answer": "D",
+          "transcript": "W: Hi Ken, hi Julio! How did the art gallery opening go last weekend? Was the client happy with the marketing materials?\nM: Alfredo? He was very pleased. He said he thought the brochures we designed were one of the main reasons for such a great turnout. (doanh thu)\nM: And it’s worth checking out the gallery when you have some time. I’m sure Alfredo would be happy to give you a tour.\nM: Yes, the place is so bright and modern, with a fantastic collection of local works of art.\nW: you know, I’m taking a vacation in that area in February, I’ll make a point of visiting him.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-13",
+          "no": 13,
+          "audio": "/assets/day-22/lecture/ets-test/05.mp3",
+          "image": null,
+          "question": "Where most likely are the speakers?",
+          "options": {
+            "A": "At an office",
+            "B": "At a hardware store",
+            "C": "At a rental property",
+            "D": "At a law firm"
+          },
+          "answer": "C",
+          "transcript": "W: So this is the two-bedroom unit that you saw advertised on our Web site. What do you think?\nM: I like these  big windows.\nW: Mmm. They really brighten up the room.\nM: But I see some paint chipping around this door frame.\nW: Oh, the landlord is going to repaint the walls before a new tenant moves in. If you take the apartment, you can even choose what color you’d like.\nM: Ah, that’s fine then. And this unit opens up next week?\nW: That’s right. You could move in as early as Monday.\nM: Yeah?\nW: If you like it, you can have a contract ready to sign by this afternoon.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-14",
+          "no": 14,
+          "audio": "/assets/day-22/lecture/ets-test/05.mp3",
+          "image": null,
+          "question": "What does the woman say the man can choose?",
+          "options": {
+            "A": "A color of paint",
+            "B": "A type of lighting",
+            "C": "An apartment floor",
+            "D": "A moving company"
+          },
+          "answer": "A",
+          "transcript": "W: So this is the two-bedroom unit that you saw advertised on our Web site. What do you think?\nM: I like these  big windows.\nW: Mmm. They really brighten up the room.\nM: But I see some paint chipping around this door frame.\nW: Oh, the landlord is going to repaint the walls before a new tenant moves in. If you take the apartment, you can even choose what color you’d like.\nM: Ah, that’s fine then. And this unit opens up next week?\nW: That’s right. You could move in as early as Monday.\nM: Yeah?\nW: If you like it, you can have a contract ready to sign by this afternoon.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-15",
+          "no": 15,
+          "audio": "/assets/day-22/lecture/ets-test/05.mp3",
+          "image": null,
+          "question": "What does the woman offer to do?",
+          "options": {
+            "A": "Open a window",
+            "B": "Prepare a document",
+            "C": "Decorate an apartment",
+            "D": "Give a discount"
+          },
+          "answer": "B",
+          "transcript": "W: So this is the two-bedroom unit that you saw advertised on our Web site. What do you think?\nM: I like these  big windows.\nW: Mmm. They really brighten up the room.\nM: But I see some paint chipping around this door frame.\nW: Oh, the landlord is going to repaint the walls before a new tenant moves in. If you take the apartment, you can even choose what color you’d like.\nM: Ah, that’s fine then. And this unit opens up next week?\nW: That’s right. You could move in as early as Monday.\nM: Yeah?\nW: If you like it, you can have a contract ready to sign by this afternoon.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-16",
+          "no": 16,
+          "audio": "/assets/day-22/lecture/ets-test/06.mp3",
+          "image": null,
+          "question": "What are the speakers mainly discussing?",
+          "options": {
+            "A": "Ways to reduce a travel budget",
+            "B": "Places to visit in Vancouver",
+            "C": "Possible locations for a conference",
+            "D": "Plans for an upcoming business trip"
+          },
+          "answer": "D",
+          "transcript": "M: I can’t believe the Vancouver convention’s so soon!\nW: I know. It should be great, with all those big-name speakers. Are we all set for transportation?\nM: Uh – the plane tickets are already taken care of, and you arranged for the rental car while we’re there – right, Mike?\nM: Uh-oh. I completely forgot to make the car reservation! I’ve been so busy getting my workshop materials ready!\nM: All ...right... We’re only two days away from leaving – it might be hard to get a car now!\nW: Let’s not stress out about it. I saw something about a bus service to and from the hotel. Let’s talk to the hotel receptionist and see.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-17",
+          "no": 17,
+          "audio": "/assets/day-22/lecture/ets-test/06.mp3",
+          "image": null,
+          "question": "What problem do the speakers have?",
+          "options": {
+            "A": "Their business cards have not arrived.",
+            "B": "Their reservations are for the wrong dates.",
+            "C": "Their transportation arrangements are not complete.",
+            "D": "Their client in Vancouver is unavailable."
+          },
+          "answer": "C",
+          "transcript": "M: I can’t believe the Vancouver convention’s so soon!\nW: I know. It should be great, with all those big-name speakers. Are we all set for transportation?\nM: Uh – the plane tickets are already taken care of, and you arranged for the rental car while we’re there – right, Mike?\nM: Uh-oh. I completely forgot to make the car reservation! I’ve been so busy getting my workshop materials ready!\nM: All ...right... We’re only two days away from leaving – it might be hard to get a car now!\nW: Let’s not stress out about it. I saw something about a bus service to and from the hotel. Let’s talk to the hotel receptionist and see.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-18",
+          "no": 18,
+          "audio": "/assets/day-22/lecture/ets-test/06.mp3",
+          "image": null,
+          "question": "What does the woman suggest they do?",
+          "options": {
+            "A": "Cancel an order",
+            "B": "Contact a hotel",
+            "C": "Prepare a speech",
+            "D": "Postpone a decision"
+          },
+          "answer": "B",
+          "transcript": "M: I can’t believe the Vancouver convention’s so soon!\nW: I know. It should be great, with all those big-name speakers. Are we all set for transportation?\nM: Uh – the plane tickets are already taken care of, and you arranged for the rental car while we’re there – right, Mike?\nM: Uh-oh. I completely forgot to make the car reservation! I’ve been so busy getting my workshop materials ready!\nM: All ...right... We’re only two days away from leaving – it might be hard to get a car now!\nW: Let’s not stress out about it. I saw something about a bus service to and from the hotel. Let’s talk to the hotel receptionist and see.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-19",
+          "no": 19,
+          "audio": "/assets/day-22/lecture/ets-test/07.mp3",
+          "image": null,
+          "question": "Who is Mr. Park?",
+          "options": {
+            "A": "A bank cashier",
+            "B": "A construction worker",
+            "C": "A journalist",
+            "D": "An architect"
+          },
+          "answer": "D",
+          "transcript": "W: Hello, may I speak to Min-Jae Park? It’s about the renovations to Comet Bank. He’s the architect, right?\nW: Yes. But may I ask who’s calling?\nW: This is Sheryl Reed, the project manager for the Comet Bank renovations. I’m missing the drawings with the measurements for the main entrance, and I’m ordering the doors today.\nW: OK. I’ll put you through to Mr. Park. Please hold.\nW: Thanks.\nM: Hello? Ms. Reed?\nW: Hello, Mr. Park. Could you possibly get me another blueprint? I can’t find the drawings for the front entrance.\nM: Certainly, Ms. Reed. It’ll take some time to print the plan, though. If you come by my office around three oclock, I’ll have it ready for you by then.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-20",
+          "no": 20,
+          "audio": "/assets/day-22/lecture/ets-test/07.mp3",
+          "image": null,
+          "question": "What problem does Ms. Reed mention?",
+          "options": {
+            "A": "An invoice is incomplete.",
+            "B": "An office has closed.",
+            "C": "A document is missing.",
+            "D": "A measurement is incorrect."
+          },
+          "answer": "C",
+          "transcript": "W: Hello, may I speak to Min-Jae Park? It’s about the renovations to Comet Bank. He’s the architect, right?\nW: Yes. But may I ask who’s calling?\nW: This is Sheryl Reed, the project manager for the Comet Bank renovations. I’m missing the drawings with the measurements for the main entrance, and I’m ordering the doors today.\nW: OK. I’ll put you through to Mr. Park. Please hold.\nW: Thanks.\nM: Hello? Ms. Reed?\nW: Hello, Mr. Park. Could you possibly get me another blueprint? I can’t find the drawings for the front entrance.\nM: Certainly, Ms. Reed. It’ll take some time to print the plan, though. If you come by my office around three oclock, I’ll have it ready for you by then.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-21",
+          "no": 21,
+          "audio": "/assets/day-22/lecture/ets-test/07.mp3",
+          "image": null,
+          "question": "What does Mr. Park ask Ms. Reed to do?",
+          "options": {
+            "A": "Review a recommendation",
+            "B": "Visit an office",
+            "C": "Read a proposal",
+            "D": "Approve a project"
+          },
+          "answer": "B",
+          "transcript": "W: Hello, may I speak to Min-Jae Park? It’s about the renovations to Comet Bank. He’s the architect, right?\nW: Yes. But may I ask who’s calling?\nW: This is Sheryl Reed, the project manager for the Comet Bank renovations. I’m missing the drawings with the measurements for the main entrance, and I’m ordering the doors today.\nW: OK. I’ll put you through to Mr. Park. Please hold.\nW: Thanks.\nM: Hello? Ms. Reed?\nW: Hello, Mr. Park. Could you possibly get me another blueprint? I can’t find the drawings for the front entrance.\nM: Certainly, Ms. Reed. It’ll take some time to print the plan, though. If you come by my office around three oclock, I’ll have it ready for you by then.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-22",
+          "no": 22,
+          "audio": "/assets/day-22/lecture/ets-test/08.mp3",
+          "image": null,
+          "question": "Why most likely is the man calling?",
+          "options": {
+            "A": "To negotiate a rental price",
+            "B": "To describe a moving procedure",
+            "C": "To respond to a previous inquiry",
+            "D": "To seek feedback about a service"
+          },
+          "answer": "C",
+          "transcript": "M: Hi, Ms. Nelson? It’s Kevin Fielder, from City Apartments Plus.\nW: Oh, hi. Were you able to find out if the Hapdale Building has any units for rent?\nM: Yes, that’s why I’m calling. The answer is “yes” but ...\nW: Great!\nM: ...There’s one thing. Some renovations are being done in the building’s lobby and fitness center, so I don’t know if you want to move in while the construction is underway. It should take about four months.\nW: I see ...\nM: But there are some similar vacant units in the Tilbury Building – just two blocks away. Why don’t you check out the video tour on their Web site, www.tilbury.com? If you see anything promising, we could show you a unit this week.\nW: sure, I’ll do that. Thank you.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-23",
+          "no": 23,
+          "audio": "/assets/day-22/lecture/ets-test/08.mp3",
+          "image": null,
+          "question": "What does the man say about the Hapdale Building?",
+          "options": {
+            "A": "It has two fitness centers.",
+            "B": "It is currently being renovated.",
+            "C": "It opened less than one year ago.",
+            "D": "It is located next to a restaurant."
+          },
+          "answer": "B",
+          "transcript": "M: Hi, Ms. Nelson? It’s Kevin Fielder, from City Apartments Plus.\nW: Oh, hi. Were you able to find out if the Hapdale Building has any units for rent?\nM: Yes, that’s why I’m calling. The answer is “yes” but ...\nW: Great!\nM: ...There’s one thing. Some renovations are being done in the building’s lobby and fitness center, so I don’t know if you want to move in while the construction is underway. It should take about four months.\nW: I see ...\nM: But there are some similar vacant units in the Tilbury Building – just two blocks away. Why don’t you check out the video tour on their Web site, www.tilbury.com? If you see anything promising, we could show you a unit this week.\nW: sure, I’ll do that. Thank you.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-ets-24",
+          "no": 24,
+          "audio": "/assets/day-22/lecture/ets-test/08.mp3",
+          "image": null,
+          "question": "What does the man suggest that the woman do?",
+          "options": {
+            "A": "Extend a rental contract",
+            "B": "Lease a smaller space",
+            "C": "Watch an online video",
+            "D": "Phone a supervisor"
+          },
+          "answer": "C",
+          "transcript": "M: Hi, Ms. Nelson? It’s Kevin Fielder, from City Apartments Plus.\nW: Oh, hi. Were you able to find out if the Hapdale Building has any units for rent?\nM: Yes, that’s why I’m calling. The answer is “yes” but ...\nW: Great!\nM: ...There’s one thing. Some renovations are being done in the building’s lobby and fitness center, so I don’t know if you want to move in while the construction is underway. It should take about four months.\nW: I see ...\nM: But there are some similar vacant units in the Tilbury Building – just two blocks away. Why don’t you check out the video tour on their Web site, www.tilbury.com? If you see anything promising, we could show you a unit this week.\nW: sure, I’ll do that. Thank you.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "drive",
+            "transcript": "drive"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22-class",
+      "code": "class",
+      "title": "Chapter 4 — Examples and ETS Check Up",
+      "subtitle": "Lecture · Part 3 · AI-generated answers · listen and choose",
+      "part": 3,
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "mode": "choice",
+      "hasKey": true,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "drive",
+      "questions": [
+        {
+          "id": "d22-class-01",
+          "no": 1,
+          "audio": "/assets/day-22/lecture/class/01.mp3",
+          "image": null,
+          "question": "What are the speakers discussing?",
+          "options": {
+            "A": "A real estate loan",
+            "B": "A ride-sharing initiative",
+            "C": "A company budget",
+            "D": "A hiring plan"
+          },
+          "answer": "C",
+          "transcript": "M: Thanks for meeting with me to revise the company budget, Georgia.\nW: No problem.\nM: With the increase in rent for office space this year, we’re definitely over budget right now.\nW: Yes, we’ll have to find areas to cut back on. What about parking ?\nM: Mmm\nW: It’s nice that we provide free passes to the nearest parking garage, but that does cost us a lot.\nM: Good point. We could split the cost and have employees pay half. That’d nearly cover the difference in rent.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-class-02",
+          "no": 2,
+          "audio": "/assets/day-22/lecture/class/02.mp3",
+          "image": null,
+          "question": "What does Tom suggest about the company?",
+          "options": {
+            "A": "It needs to hire more people.",
+            "B": "It treats its employees well.",
+            "C": "It will soon be renovated.",
+            "D": "It is buying some new equipment."
+          },
+          "answer": "B",
+          "transcript": "W: Tom, can I get past you to the fridge ? I need some milk.\nM1: Sure, have you tried this tea ?\nW: No, I’m not big on tea. I like coffee they give us, through.\nM1: Yeah, I love working here, There are so many great benefits. Did you hear about the  new vacation policy ?\nW: Yes, it’s great, isn’t it ? Oh, Hello Anil. Have you met Tom .? Anil just started this week.\nM2: Nice to meet you, Tom\nM1: You too, Anil. Glad to have you with us.\nM2: thanks, oh, we’re out of coffee ?\nW: No, there’s some here.Oops. I’m running late. Anil, I’ll stop by later to show you how to use the time entry system.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-class-03",
+          "no": 3,
+          "audio": "/assets/day-22/lecture/class/03.mp3",
+          "image": null,
+          "question": "What kind of event is the woman organizing?",
+          "options": {
+            "A": "A staff recruitment fair",
+            "B": "A grand-opening celebration",
+            "C": "A company sports day",
+            "D": "An annual press conference"
+          },
+          "answer": "C",
+          "transcript": "M: Hi Carol, I heard you’re putting together our company-wide sports day for this year.\nW: That’s right. Our slogan is “ A Day of sports and Team building “\nM: Great. And don’t forget to check out Dexmax Supply’s Web site. We could use them to make custom baseball shirts for the day.\nTheir shipping costs are quite reasonable.\nW: Oh, I saw their site- briefly-uh, they specialize in recreating old, historical baseball uniforms, right ?\nM: Absolutely, all of their apparel has a unique, vintage look to it.\nW: Hmm. That could really work for us\nM: Yeah, I’d recommend scrolling through their online image gallery. You’ll see photos of shirts they’ve made for other companies.\nW: Good. I’ll take a look.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-class-04",
+          "no": 4,
+          "audio": "/assets/day-22/lecture/class/03.mp3",
+          "image": null,
+          "question": "According to the man, what is special about Dexmax Supply?",
+          "options": {
+            "A": "Their free shipping policy",
+            "B": "Their products' appearance",
+            "C": "Their interactive store displays",
+            "D": "Their event consulting services"
+          },
+          "answer": "B",
+          "transcript": "M: Hi Carol, I heard you’re putting together our company-wide sports day for this year.\nW: That’s right. Our slogan is “ A Day of sports and Team building “\nM: Great. And don’t forget to check out Dexmax Supply’s Web site. We could use them to make custom baseball shirts for the day.\nTheir shipping costs are quite reasonable.\nW: Oh, I saw their site- briefly-uh, they specialize in recreating old, historical baseball uniforms, right ?\nM: Absolutely, all of their apparel has a unique, vintage look to it.\nW: Hmm. That could really work for us\nM: Yeah, I’d recommend scrolling through their online image gallery. You’ll see photos of shirts they’ve made for other companies.\nW: Good. I’ll take a look.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-class-05",
+          "no": 5,
+          "audio": "/assets/day-22/lecture/class/04.mp3",
+          "image": null,
+          "question": "What department does the woman work in?",
+          "options": {
+            "A": "HR",
+            "B": "Product development",
+            "C": "Marketing",
+            "D": "Accounting"
+          },
+          "answer": "A",
+          "transcript": "M: Hello. My marketing team plans to hire a new graphic designer. Could your team in HR start looking for candidates.\nW: Our recruiters will just need a job description for the position .\nM: Got it. First I’ll brainstorm the designer’s exact job duties….\nW: Yes,….and talk to Jill Mathews. The designers often work with her product development team.\nM: OK, Ah. Here she is. Hi hJill\nW: Hi, what’s up.\nM: good news, we’re recruiting one more graphic designer. Could you help me make a list of job duties for that position ?\nW: Sure, lets’ work on that now.\nETS TEST\n1/A    2/C   3/A   4/B    5/C    6/A    7/A    8/C     9/C     10/C    11/A    12/D\n13/C    14/A     15/B    16/D   17/C      18/B      19/D    20/C      21/B      22/C\n23/B    24/C\nW: I’m worried about the production rate on assembly line number three. The machine that seals the mobile phone boxes isn’t running as fast as it should, and it’s slowing down the whole process.\nM: Oh, we’ve had trouble with that machine in the past. Instead of having it repaired again, I think we’d better just replace it.\nM: I agree. But we should try to get a new one put in as soon as possible, or we might have to shut down that assembly line.\nW: Ok, I’ll call the company that supplies that equipment.\nM: Yes, see how soon we can get it installed.\nQ 4-6\nW: AFD Services. How may I help you?\nM: Hi. I’m expecting a package this afternoon, but I won’t be home. Can you reschedule that delivery for tomorrow?\nW: Sure. If you’d like, we can also leave it with a neighbor or put it by your door.\nM: Hmm ... The parcel contains expensive electronics, so I’d rather wait until I can receive it in person.\nW: No problem. Then we can deliver it first thing the next morning.\nM: Oh, if it’s possible, just after lunch would be even better for me.\nW: Certainly. I just need your phone number to give to the driver. He’ll phone you before he arrives.\nM: Great. My number is 390-7731 (*three nine oh, double-seven three one*)\nQ 7-9\nW: Thabo and Michiko, I need help designing some pamphlets for our evening business courses. I’d like to have them ready before the end of April.\nW: Sure. Should we take a look at the ones from last year or make them different?\nM: You know, I think the pamphlets last year had too many details. People can get dates and times from the Web site.\nW: I agree. Let’s focus on the skills that people will learn in each class.\nM: OK. I’ll come up with a rough version of the text for the pamphlets by tomorrow and e-mail it to you. Then, next week we can start working on the design.\nQ10-12\nW: Hi Ken, hi Julio! How did the art gallery opening go last weekend? Was the client happy with the marketing materials?\nM: Alfredo? He was very pleased. He said he thought the brochures we designed were one of the main reasons for such a great turnout. (doanh thu)\nM: And it’s worth checking out the gallery when you have some time. I’m sure Alfredo would be happy to give you a tour.\nM: Yes, the place is so bright and modern, with a fantastic collection of local works of art.\nW: you know, I’m taking a vacation in that area in February, I’ll make a point of visiting him.\nQ13-15\nW: So this is the two-bedroom unit that you saw advertised on our Web site. What do you think?\nM: I like these  big windows.\nW: Mmm. They really brighten up the room.\nM: But I see some paint chipping around this door frame.\nW: Oh, the landlord is going to repaint the walls before a new tenant moves in. If you take the apartment, you can even choose what color you’d like.\nM: Ah, that’s fine then. And this unit opens up next week?\nW: That’s right. You could move in as early as Monday.\nM: Yeah?\nW: If you like it, you can have a contract ready to sign by this afternoon.\nQ16-18\nM: I can’t believe the Vancouver convention’s so soon!\nW: I know. It should be great, with all those big-name speakers. Are we all set for transportation?\nM: Uh – the plane tickets are already taken care of, and you arranged for the rental car while we’re there – right, Mike?\nM: Uh-oh. I completely forgot to make the car reservation! I’ve been so busy getting my workshop materials ready!\nM: All ...right... We’re only two days away from leaving – it might be hard to get a car now!\nW: Let’s not stress out about it. I saw something about a bus service to and from the hotel. Let’s talk to the hotel receptionist and see.\nQ19-21\nW: Hello, may I speak to Min-Jae Park? It’s about the renovations to Comet Bank. He’s the architect, right?\nW: Yes. But may I ask who’s calling?\nW: This is Sheryl Reed, the project manager for the Comet Bank renovations. I’m missing the drawings with the measurements for the main entrance, and I’m ordering the doors today.\nW: OK. I’ll put you through to Mr. Park. Please hold.\nW: Thanks.\nM: Hello? Ms. Reed?\nW: Hello, Mr. Park. Could you possibly get me another blueprint? I can’t find the drawings for the front entrance.\nM: Certainly, Ms. Reed. It’ll take some time to print the plan, though. If you come by my office around three oclock, I’ll have it ready for you by then.\nQ 22-24\nM: Hi, Ms. Nelson? It’s Kevin Fielder, from City Apartments Plus.\nW: Oh, hi. Were you able to find out if the Hapdale Building has any units for rent?\nM: Yes, that’s why I’m calling. The answer is “yes” but ...\nW: Great!\nM: ...There’s one thing. Some renovations are being done in the building’s lobby and fitness center, so I don’t know if you want to move in while the construction is underway. It should take about four months.\nW: I see ...\nM: But there are some similar vacant units in the Tilbury Building – just two blocks away. Why don’t you check out the video tour on their Web site, www.tilbury.com? If you see anything promising, we could show you a unit this week.\nW: sure, I’ll do that. Thank you.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        },
+        {
+          "id": "d22-class-06",
+          "no": 6,
+          "audio": "/assets/day-22/lecture/class/04.mp3",
+          "image": null,
+          "question": "What will Ms. Mathews help the man with?",
+          "options": {
+            "A": "Listing a job's duties",
+            "B": "Designing a package's label",
+            "C": "Interviewing job candidates",
+            "D": "Conducting market surveys"
+          },
+          "answer": "A",
+          "transcript": "M: Hello. My marketing team plans to hire a new graphic designer. Could your team in HR start looking for candidates.\nW: Our recruiters will just need a job description for the position .\nM: Got it. First I’ll brainstorm the designer’s exact job duties….\nW: Yes,….and talk to Jill Mathews. The designers often work with her product development team.\nM: OK, Ah. Here she is. Hi hJill\nW: Hi, what’s up.\nM: good news, we’re recruiting one more graphic designer. Could you help me make a list of job duties for that position ?\nW: Sure, lets’ work on that now.\nETS TEST\n1/A    2/C   3/A   4/B    5/C    6/A    7/A    8/C     9/C     10/C    11/A    12/D\n13/C    14/A     15/B    16/D   17/C      18/B      19/D    20/C      21/B      22/C\n23/B    24/C\nW: I’m worried about the production rate on assembly line number three. The machine that seals the mobile phone boxes isn’t running as fast as it should, and it’s slowing down the whole process.\nM: Oh, we’ve had trouble with that machine in the past. Instead of having it repaired again, I think we’d better just replace it.\nM: I agree. But we should try to get a new one put in as soon as possible, or we might have to shut down that assembly line.\nW: Ok, I’ll call the company that supplies that equipment.\nM: Yes, see how soon we can get it installed.\nQ 4-6\nW: AFD Services. How may I help you?\nM: Hi. I’m expecting a package this afternoon, but I won’t be home. Can you reschedule that delivery for tomorrow?\nW: Sure. If you’d like, we can also leave it with a neighbor or put it by your door.\nM: Hmm ... The parcel contains expensive electronics, so I’d rather wait until I can receive it in person.\nW: No problem. Then we can deliver it first thing the next morning.\nM: Oh, if it’s possible, just after lunch would be even better for me.\nW: Certainly. I just need your phone number to give to the driver. He’ll phone you before he arrives.\nM: Great. My number is 390-7731 (*three nine oh, double-seven three one*)\nQ 7-9\nW: Thabo and Michiko, I need help designing some pamphlets for our evening business courses. I’d like to have them ready before the end of April.\nW: Sure. Should we take a look at the ones from last year or make them different?\nM: You know, I think the pamphlets last year had too many details. People can get dates and times from the Web site.\nW: I agree. Let’s focus on the skills that people will learn in each class.\nM: OK. I’ll come up with a rough version of the text for the pamphlets by tomorrow and e-mail it to you. Then, next week we can start working on the design.\nQ10-12\nW: Hi Ken, hi Julio! How did the art gallery opening go last weekend? Was the client happy with the marketing materials?\nM: Alfredo? He was very pleased. He said he thought the brochures we designed were one of the main reasons for such a great turnout. (doanh thu)\nM: And it’s worth checking out the gallery when you have some time. I’m sure Alfredo would be happy to give you a tour.\nM: Yes, the place is so bright and modern, with a fantastic collection of local works of art.\nW: you know, I’m taking a vacation in that area in February, I’ll make a point of visiting him.\nQ13-15\nW: So this is the two-bedroom unit that you saw advertised on our Web site. What do you think?\nM: I like these  big windows.\nW: Mmm. They really brighten up the room.\nM: But I see some paint chipping around this door frame.\nW: Oh, the landlord is going to repaint the walls before a new tenant moves in. If you take the apartment, you can even choose what color you’d like.\nM: Ah, that’s fine then. And this unit opens up next week?\nW: That’s right. You could move in as early as Monday.\nM: Yeah?\nW: If you like it, you can have a contract ready to sign by this afternoon.\nQ16-18\nM: I can’t believe the Vancouver convention’s so soon!\nW: I know. It should be great, with all those big-name speakers. Are we all set for transportation?\nM: Uh – the plane tickets are already taken care of, and you arranged for the rental car while we’re there – right, Mike?\nM: Uh-oh. I completely forgot to make the car reservation! I’ve been so busy getting my workshop materials ready!\nM: All ...right... We’re only two days away from leaving – it might be hard to get a car now!\nW: Let’s not stress out about it. I saw something about a bus service to and from the hotel. Let’s talk to the hotel receptionist and see.\nQ19-21\nW: Hello, may I speak to Min-Jae Park? It’s about the renovations to Comet Bank. He’s the architect, right?\nW: Yes. But may I ask who’s calling?\nW: This is Sheryl Reed, the project manager for the Comet Bank renovations. I’m missing the drawings with the measurements for the main entrance, and I’m ordering the doors today.\nW: OK. I’ll put you through to Mr. Park. Please hold.\nW: Thanks.\nM: Hello? Ms. Reed?\nW: Hello, Mr. Park. Could you possibly get me another blueprint? I can’t find the drawings for the front entrance.\nM: Certainly, Ms. Reed. It’ll take some time to print the plan, though. If you come by my office around three oclock, I’ll have it ready for you by then.\nQ 22-24\nM: Hi, Ms. Nelson? It’s Kevin Fielder, from City Apartments Plus.\nW: Oh, hi. Were you able to find out if the Hapdale Building has any units for rent?\nM: Yes, that’s why I’m calling. The answer is “yes” but ...\nW: Great!\nM: ...There’s one thing. Some renovations are being done in the building’s lobby and fitness center, so I don’t know if you want to move in while the construction is underway. It should take about four months.\nW: I see ...\nM: But there are some similar vacant units in the Tilbury Building – just two blocks away. Why don’t you check out the video tour on their Web site, www.tilbury.com? If you see anything promising, we could show you a unit this week.\nW: sure, I’ll do that. Thank you.",
+          "source": {
+            "audio": "drive",
+            "question": "pdf",
+            "options": "pdf",
+            "answer": "ai",
+            "transcript": "drive"
+          }
+        }
+      ]
+    }
+  ]
+}
