@@ -16,7 +16,7 @@
         ],
         "Part 3 conversations": [
           "Làm bài tập Part 3 trong tài liệu: ETS Chapter 8 và Chapter 9, mỗi chương 7 đoạn hội thoại, 21 câu.",
-          "Câu hỏi và phương án lấy từ file Word trong Drive. Drive không có đáp án, nên đáp án do AI suy luận từ audio; câu 19–21 có kèm bảng biểu (order form, coupon) để nhìn khi nghe."
+          "Câu hỏi và phương án lấy từ file Word trong Drive. Đáp án và lời thoại lấy từ thư mục KEY HW của DAY 13 (key.txt, Transcript 8, Transcript 9); câu 19–21 có kèm bảng biểu (order form, coupon) để nhìn khi nghe."
         ],
         "Vocabulary": [
           "Flashcard DAY 12: 25 từ tiếp theo của Topic 06 — Contract Law (từ số 25 đến 49 trong flashcard)."
@@ -27,7 +27,7 @@
         ],
         "Reading practice": [
           "Luyện thêm Part 7 — Unit 7: 6 bài đọc dạng trang web, 18 câu hỏi từ tài liệu D12 S2 UNIT7.pdf.",
-          "Drive không có đáp án cho Unit 7. Đáp án, giải thích và bản dịch Reading do AI biên soạn để tự luyện."
+          "Đáp án lấy từ file đáp án tô màu D12 S2 UNIT7.pdf trong thư mục KEY HW của DAY 13. Giải thích và bản dịch Reading do AI biên soạn."
         ]
       },
       "source": "user"
@@ -38,7 +38,8 @@
       "title": "Lesson resources",
       "lines": [
         "Day 21 trong app tương ứng DAY 12 giai đoạn 2.",
-        "Thư mục Key homework của DAY 12 chứa tài liệu chữa bài DAY 11 (Day 20 trong app), không phải đáp án của DAY 12."
+        "Thư mục Key homework của DAY 12 chứa tài liệu chữa bài DAY 11 (Day 20 trong app), không phải đáp án của DAY 12.",
+        "Thư mục KEY HW của DAY 13 chứa đáp án Chapter 8, Chapter 9 và Part 7 — Unit 7 của DAY 12."
       ],
       "links": [
         {

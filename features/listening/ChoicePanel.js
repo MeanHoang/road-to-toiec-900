@@ -11,6 +11,14 @@ import { choiceText } from './transcript';
 /** Các câu audio đọc, bày trong hộp thoại — không chiếm chỗ trong trang. */
 function ChoiceScript({ item, letters }) {
   const t = useTranslation();
+  // Part 3: the transcript is the whole conversation, one speaker turn per line.
+  if (typeof item.transcript === 'string') {
+    return (
+      <div className="script-list">
+        {item.transcript.split('\n').map((line, i) => <p key={i}>{line}</p>)}
+      </div>
+    );
+  }
   return (
     <>
       <div className="script-list">

@@ -615,7 +615,7 @@
       "id": "d21-ch8",
       "code": "ch8",
       "title": "ETS Chapter 8 — Part 3",
-      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "subtitle": "Homework · Part 3 · official answer key · listen and choose",
       "part": 3,
       "choices": [
         "A",
@@ -642,14 +642,14 @@
             "D": "To discuss the company’s budget"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Hi, Bill. I need to order a desk for Jane Wilson, who's starting in the sales department next Wednesday. What do you think about ordering the model that you and I have?\nM: Actually, I think you should try a different one. My desk isn't big enough, and there isn't enough storage space.\nW: Yes, I think you're right. In the catalog there's a nice desk that's a little bigger, but it's the same price as the ones we have. It looks like it has more storage, too.\nM: That sounds good. When you place the order. Don’t forget to ask if it can deliver before Jane’s first day at work.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -665,14 +665,14 @@
             "D": "It is small"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Hi, Bill. I need to order a desk for Jane Wilson, who's starting in the sales department next Wednesday. What do you think about ordering the model that you and I have?\nM: Actually, I think you should try a different one. My desk isn't big enough, and there isn't enough storage space.\nW: Yes, I think you're right. In the catalog there's a nice desk that's a little bigger, but it's the same price as the ones we have. It looks like it has more storage, too.\nM: That sounds good. When you place the order. Don’t forget to ask if it can deliver before Jane’s first day at work.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -688,14 +688,14 @@
             "D": "Ask Jane Wilson for her opinion"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hi, Bill. I need to order a desk for Jane Wilson, who's starting in the sales department next Wednesday. What do you think about ordering the model that you and I have?\nM: Actually, I think you should try a different one. My desk isn't big enough, and there isn't enough storage space.\nW: Yes, I think you're right. In the catalog there's a nice desk that's a little bigger, but it's the same price as the ones we have. It looks like it has more storage, too.\nM: That sounds good. When you place the order. Don’t forget to ask if it can deliver before Jane’s first day at work.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -711,14 +711,14 @@
             "D": "She wants to have a filter repaired"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hello, Juan. This is Helen Luna at Magnum Heating Supplies. I've been going over our customer records, and I see that you currently use our Model 200 filters for your heating systems. I'm just calling to ask: have you considered upgrading to the Model 201 filters?\nM: I guess it's a possibility, but the 200's seem to be doing the job just fine for us.\nW: Well, the reason I ask is that for the next 90 days the Model 201 filters will be on sale for the same price as the Model 200's you're using now, so this would be a good time to change to the newer model.\nM: Hmmm. Let me talk about it with our maintenance staff and see what they think.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -734,14 +734,14 @@
             "D": "The time required for delivering parts"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Hello, Juan. This is Helen Luna at Magnum Heating Supplies. I've been going over our customer records, and I see that you currently use our Model 200 filters for your heating systems. I'm just calling to ask: have you considered upgrading to the Model 201 filters?\nM: I guess it's a possibility, but the 200's seem to be doing the job just fine for us.\nW: Well, the reason I ask is that for the next 90 days the Model 201 filters will be on sale for the same price as the Model 200's you're using now, so this would be a good time to change to the newer model.\nM: Hmmm. Let me talk about it with our maintenance staff and see what they think.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -757,14 +757,14 @@
             "D": "Speak with the maintenance staff"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Hello, Juan. This is Helen Luna at Magnum Heating Supplies. I've been going over our customer records, and I see that you currently use our Model 200 filters for your heating systems. I'm just calling to ask: have you considered upgrading to the Model 201 filters?\nM: I guess it's a possibility, but the 200's seem to be doing the job just fine for us.\nW: Well, the reason I ask is that for the next 90 days the Model 201 filters will be on sale for the same price as the Model 200's you're using now, so this would be a good time to change to the newer model.\nM: Hmmm. Let me talk about it with our maintenance staff and see what they think.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -780,14 +780,14 @@
             "D": "Product details"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Hi, Ken. Hi, Taylor. How are the preparations for the conference going?\nM: Good. I just finished writing a draft of the information packet describing the products we’ll showcase at our booth.\nW: That's great. Can you e-mail me a copy? I'd like to proofread it.\nM: Right away.\nW: Perfect. And Taylor, I hope the booth signs and banners weren't too difficult to design. I know there are a lot of rules to follow, like size limitations.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -803,14 +803,14 @@
             "D": "Design a brochure"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Hi, Ken. Hi, Taylor. How are the preparations for the conference going?\nM: Good. I just finished writing a draft of the information packet describing the products we’ll showcase at our booth.\nW: That's great. Can you e-mail me a copy? I'd like to proofread it.\nM: Right away.\nW: Perfect. And Taylor, I hope the booth signs and banners weren't too difficult to design. I know there are a lot of rules to follow, like size limitations.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -826,14 +826,14 @@
             "D": "The light weight of a display"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hi, Ken. Hi, Taylor. How are the preparations for the conference going?\nM: Good. I just finished writing a draft of the information packet describing the products we’ll showcase at our booth.\nW: That's great. Can you e-mail me a copy? I'd like to proofread it.\nM: Right away.\nW: Perfect. And Taylor, I hope the booth signs and banners weren't too difficult to design. I know there are a lot of rules to follow, like size limitations.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -849,14 +849,14 @@
             "D": "Revising a vacation policy"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Hi, Gabriella. I wanted to talk to you about using the new online time reporting system... A lot of people have been asking about it.\nW: Yes, well, I've been very busy. But I am planning the training session for early next week. That should make it quite clear to everyone.\nM: OK. But isn't there any written documentation?\nW: What do you mean?\nM: You know, a guide that staff can follow in the meantime?\nW: I don't think that's necessary. I'll have everyone go through the steps with me in the computer lab. Then they'll know exactly what to do. It's very simple.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -872,14 +872,14 @@
             "D": "A vacation calendar has not been posted yet"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Hi, Gabriella. I wanted to talk to you about using the new online time reporting system... A lot of people have been asking about it.\nW: Yes, well, I've been very busy. But I am planning the training session for early next week. That should make it quite clear to everyone.\nM: OK. But isn't there any written documentation?\nW: What do you mean?\nM: You know, a guide that staff can follow in the meantime?\nW: I don't think that's necessary. I'll have everyone go through the steps with me in the computer lab. Then they'll know exactly what to do. It's very simple.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -895,14 +895,14 @@
             "D": "Author a manual"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Hi, Gabriella. I wanted to talk to you about using the new online time reporting system... A lot of people have been asking about it.\nW: Yes, well, I've been very busy. But I am planning the training session for early next week. That should make it quite clear to everyone.\nM: OK. But isn't there any written documentation?\nW: What do you mean?\nM: You know, a guide that staff can follow in the meantime?\nW: I don't think that's necessary. I'll have everyone go through the steps with me in the computer lab. Then they'll know exactly what to do. It's very simple.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -918,14 +918,14 @@
             "D": "The maintenance work is expensive"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Hello. I'm calling from the CPY company on the fifth floor. There's a problem with the electrical outlets in our conference room. They're not working. Could you please send somebody over to see what's wrong with them?\nW: I'm sorry—all our maintenance workers are out on other calls right now. They may not be available until tomorrow morning.\nM: Tomorrow morning? We have a very important meeting this afternoon and we need to plug in a projector.\nW: Well, I'll see if I can find someone to come over sooner. But if the outlets can't be fixed in time, maybe you can use the conference room on the first floor.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -941,14 +941,14 @@
             "D": "Next month"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Hello. I'm calling from the CPY company on the fifth floor. There's a problem with the electrical outlets in our conference room. They're not working. Could you please send somebody over to see what's wrong with them?\nW: I'm sorry—all our maintenance workers are out on other calls right now. They may not be available until tomorrow morning.\nM: Tomorrow morning? We have a very important meeting this afternoon and we need to plug in a projector.\nW: Well, I'll see if I can find someone to come over sooner. But if the outlets can't be fixed in time, maybe you can use the conference room on the first floor.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -964,14 +964,14 @@
             "D": "Retiring some different equipment"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Hello. I'm calling from the CPY company on the fifth floor. There's a problem with the electrical outlets in our conference room. They're not working. Could you please send somebody over to see what's wrong with them?\nW: I'm sorry—all our maintenance workers are out on other calls right now. They may not be available until tomorrow morning.\nM: Tomorrow morning? We have a very important meeting this afternoon and we need to plug in a projector.\nW: Well, I'll see if I can find someone to come over sooner. But if the outlets can't be fixed in time, maybe you can use the conference room on the first floor.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -987,14 +987,14 @@
             "D": "Having enough supplies"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Are you sure you're going the right way to the conference center? It's taking longer than I expected, and I'm worried we're not going to get there on time.\nW: I thought this was the right way, but now I'm not sure. I did have driving directions that came with the conference materials—too bad I forgot to bring them with me.\nM: I say we'd better stop and find somebody who can help us out. I see a store up ahead. Maybe someone there can tell us which way to go.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1010,14 +1010,14 @@
             "D": "Bring some directions"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "M: Are you sure you're going the right way to the conference center? It's taking longer than I expected, and I'm worried we're not going to get there on time.\nW: I thought this was the right way, but now I'm not sure. I did have driving directions that came with the conference materials—too bad I forgot to bring them with me.\nM: I say we'd better stop and find somebody who can help us out. I see a store up ahead. Maybe someone there can tell us which way to go.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1033,14 +1033,14 @@
             "D": "Calling a conference organizer"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Are you sure you're going the right way to the conference center? It's taking longer than I expected, and I'm worried we're not going to get there on time.\nW: I thought this was the right way, but now I'm not sure. I did have driving directions that came with the conference materials—too bad I forgot to bring them with me.\nM: I say we'd better stop and find somebody who can help us out. I see a store up ahead. Maybe someone there can tell us which way to go.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1056,14 +1056,14 @@
             "D": "To provide an estimate"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hi, Mr. Olson? I'm Eun-hee Sohn from Circle Optical Supplies. I'm calling about the order you placed yesterday.\nM: Oh, yes—I ordered supplies for my eyeglass store. Is there an issue?\nW: Well, we only have 25 of the eyeglass cases you ordered. Unfortunately, we won't have any more in stock for another two weeks.\nM: Oh, no—we have a promotional event starting next Friday, and we usually provide a case with each pair of eyeglasses our customers purchase. Hmmm ... I guess I'll take the 25 cases you have, but I'll have to order the rest from another company.\nW: OK—I'll update your order. And as an apology, my manager told me to waive your delivery charge. So, we'll cover the twenty dollar shipping fee.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         },
@@ -1080,14 +1080,14 @@
             "D": "100"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Hi, Mr. Olson? I'm Eun-hee Sohn from Circle Optical Supplies. I'm calling about the order you placed yesterday.\nM: Oh, yes—I ordered supplies for my eyeglass store. Is there an issue?\nW: Well, we only have 25 of the eyeglass cases you ordered. Unfortunately, we won't have any more in stock for another two weeks.\nM: Oh, no—we have a promotional event starting next Friday, and we usually provide a case with each pair of eyeglasses our customers purchase. Hmmm ... I guess I'll take the 25 cases you have, but I'll have to order the rest from another company.\nW: OK—I'll update your order. And as an apology, my manager told me to waive your delivery charge. So, we'll cover the twenty dollar shipping fee.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         },
@@ -1104,14 +1104,14 @@
             "D": "Offer a discount on a future purchase"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Hi, Mr. Olson? I'm Eun-hee Sohn from Circle Optical Supplies. I'm calling about the order you placed yesterday.\nM: Oh, yes—I ordered supplies for my eyeglass store. Is there an issue?\nW: Well, we only have 25 of the eyeglass cases you ordered. Unfortunately, we won't have any more in stock for another two weeks.\nM: Oh, no—we have a promotional event starting next Friday, and we usually provide a case with each pair of eyeglasses our customers purchase. Hmmm ... I guess I'll take the 25 cases you have, but I'll have to order the rest from another company.\nW: OK—I'll update your order. And as an apology, my manager told me to waive your delivery charge. So, we'll cover the twenty dollar shipping fee.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         }
@@ -1121,7 +1121,7 @@
       "id": "d21-ch9",
       "code": "ch9",
       "title": "ETS Chapter 9 — Part 3",
-      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "subtitle": "Homework · Part 3 · official answer key · listen and choose",
       "part": 3,
       "choices": [
         "A",
@@ -1148,14 +1148,14 @@
             "D": "In a restaurant"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Excuse me. Can you tell me which aisle spaghetti is in?\nM: I believe that it's in either aisle ten or eleven.\nW: I just looked in both of those places, but I didn't see it\nM: Then it must be near the rice and bread. That'll be the last aisle, by the dairy products. If you'll come with me, I'll show you.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1171,14 +1171,14 @@
             "D": "The hours of business"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Excuse me. Can you tell me which aisle spaghetti is in?\nM: I believe that it's in either aisle ten or eleven.\nW: I just looked in both of those places, but I didn't see it\nM: Then it must be near the rice and bread. That'll be the last aisle, by the dairy products. If you'll come with me, I'll show you.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1194,14 +1194,14 @@
             "D": "He will accept payment for the purchases"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Excuse me. Can you tell me which aisle spaghetti is in?\nM: I believe that it's in either aisle ten or eleven.\nW: I just looked in both of those places, but I didn't see it\nM: Then it must be near the rice and bread. That'll be the last aisle, by the dairy products. If you'll come with me, I'll show you.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1217,14 +1217,14 @@
             "D": "At a flower shop"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: That'll be 27 dollars. Would you like these gloves gift wrapped?\nW: Oh, I'm buying them for myself. You know, I think I'll wear them home. It's kind of cold outside. Do you accept credit cards?\nM: Yes, but only for amounts over 30 dollars. Your total is less than that.\nW: OK, then I'll pay with cash.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1240,14 +1240,14 @@
             "D": "Have it delivered to her home"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: That'll be 27 dollars. Would you like these gloves gift wrapped?\nW: Oh, I'm buying them for myself. You know, I think I'll wear them home. It's kind of cold outside. Do you accept credit cards?\nM: Yes, but only for amounts over 30 dollars. Your total is less than that.\nW: OK, then I'll pay with cash.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1263,14 +1263,14 @@
             "D": "The card is damaged"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: That'll be 27 dollars. Would you like these gloves gift wrapped?\nW: Oh, I'm buying them for myself. You know, I think I'll wear them home. It's kind of cold outside. Do you accept credit cards?\nM: Yes, but only for amounts over 30 dollars. Your total is less than that.\nW: OK, then I'll pay with cash.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1286,14 +1286,14 @@
             "D": "A project was canceled"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: I've just been on the phone with the airline. They've moved our reservation to 8:15 tonight so we can attend the meeting back at the office tomorrow morning.\nW: That's a relief. I can't believe the client changed the meeting date at the last minute. So what's the best way to get to the airport? Does this hotel offer shuttle service?\nW: There is a shuttle bus, but it doesn't leave for another hour... But the new airport train goes straight to the airport, and leaves the station every fifteen minutes.\nW: Let’s get the train, then. If we leave the hotel now, we'll get to the airport in plenty of time, and we won't have to rush to check in.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1309,14 +1309,14 @@
             "D": "In a hotel"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: I've just been on the phone with the airline. They've moved our reservation to 8:15 tonight so we can attend the meeting back at the office tomorrow morning.\nW: That's a relief. I can't believe the client changed the meeting date at the last minute. So what's the best way to get to the airport? Does this hotel offer shuttle service?\nW: There is a shuttle bus, but it doesn't leave for another hour... But the new airport train goes straight to the airport, and leaves the station every fifteen minutes.\nW: Let’s get the train, then. If we leave the hotel now, we'll get to the airport in plenty of time, and we won't have to rush to check in.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1332,14 +1332,14 @@
             "D": "Check in to a hotel"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: I've just been on the phone with the airline. They've moved our reservation to 8:15 tonight so we can attend the meeting back at the office tomorrow morning.\nW: That's a relief. I can't believe the client changed the meeting date at the last minute. So what's the best way to get to the airport? Does this hotel offer shuttle service?\nW: There is a shuttle bus, but it doesn't leave for another hour... But the new airport train goes straight to the airport, and leaves the station every fifteen minutes.\nW: Let’s get the train, then. If we leave the hotel now, we'll get to the airport in plenty of time, and we won't have to rush to check in.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1355,14 +1355,14 @@
             "D": "She wants to check the man’s identification"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: - Br: Excuse me, do you work here ? I’m interested in one of the cameras on display behind the counter ? -It’s on your right.\nM: Oh, you mean this one- the Balani X13 ?\nW: Yes, that’s it.\nM: Just so you know, the battery that’s included doesn’t last very long- You might want to buy an extra one if you’re planning to use the camera a lot. A rechargeable batter only costs about 15$.\nW: Thanks, but I’m on a tight budget, so.I’ll just use the one that’s included.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1378,14 +1378,14 @@
             "D": "A professional photographer"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: - Br: Excuse me, do you work here ? I’m interested in one of the cameras on display behind the counter ? -It’s on your right.\nM: Oh, you mean this one- the Balani X13 ?\nW: Yes, that’s it.\nM: Just so you know, the battery that’s included doesn’t last very long- You might want to buy an extra one if you’re planning to use the camera a lot. A rechargeable batter only costs about 15$.\nW: Thanks, but I’m on a tight budget, so.I’ll just use the one that’s included.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1401,14 +1401,14 @@
             "D": "Its battery has a short life span"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: - Br: Excuse me, do you work here ? I’m interested in one of the cameras on display behind the counter ? -It’s on your right.\nM: Oh, you mean this one- the Balani X13 ?\nW: Yes, that’s it.\nM: Just so you know, the battery that’s included doesn’t last very long- You might want to buy an extra one if you’re planning to use the camera a lot. A rechargeable batter only costs about 15$.\nW: Thanks, but I’m on a tight budget, so.I’ll just use the one that’s included.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1424,14 +1424,14 @@
             "D": "Popular beaches"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Did you hear they started repairing the main road to the beach?\nM: I know. It already takes two hours to drive there; it'll take much longer if I have to take another route.\nW: Well, maybe the work will be done by the time you go on vacation.\nM: I hope so. I have a reservation at a hotel near the beach in six weeks.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1447,14 +1447,14 @@
             "D": "The weather during his vacation"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Did you hear they started repairing the main road to the beach?\nM: I know. It already takes two hours to drive there; it'll take much longer if I have to take another route.\nW: Well, maybe the work will be done by the time you go on vacation.\nM: I hope so. I have a reservation at a hotel near the beach in six weeks.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1470,14 +1470,14 @@
             "D": "A construction project will begin"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Did you hear they started repairing the main road to the beach?\nM: I know. It already takes two hours to drive there; it'll take much longer if I have to take another route.\nW: Well, maybe the work will be done by the time you go on vacation.\nM: I hope so. I have a reservation at a hotel near the beach in six weeks.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1493,14 +1493,14 @@
             "D": "He will be working at home"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Hi, Pablo. I see you won't be in the office next week; are you going on holiday?\nM: Yes, I'm leaving on Monday to spend a week in Buenos Aires with my parents. I haven't seen them in a long time, so I'm really looking forward to the trip.\nW: Will you have enough time to prepare the opening speech for the shareholders' meeting? Remember, the meeting is two days after you get back. If you're too busy, I can ask Tom to do it.\nM: Don't worry — I'll be ready. I plan to finish writing it before I leave work tomorrow.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1516,14 +1516,14 @@
             "D": "Take notes at a meeting"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hi, Pablo. I see you won't be in the office next week; are you going on holiday?\nM: Yes, I'm leaving on Monday to spend a week in Buenos Aires with my parents. I haven't seen them in a long time, so I'm really looking forward to the trip.\nW: Will you have enough time to prepare the opening speech for the shareholders' meeting? Remember, the meeting is two days after you get back. If you're too busy, I can ask Tom to do it.\nM: Don't worry — I'll be ready. I plan to finish writing it before I leave work tomorrow.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1539,14 +1539,14 @@
             "D": "Revise a budget"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Hi, Pablo. I see you won't be in the office next week; are you going on holiday?\nM: Yes, I'm leaving on Monday to spend a week in Buenos Aires with my parents. I haven't seen them in a long time, so I'm really looking forward to the trip.\nW: Will you have enough time to prepare the opening speech for the shareholders' meeting? Remember, the meeting is two days after you get back. If you're too busy, I can ask Tom to do it.\nM: Don't worry — I'll be ready. I plan to finish writing it before I leave work tomorrow.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1562,14 +1562,14 @@
             "D": "An expiration date has passed"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Excuse me, I need to replace the color ink in my printer, but I see only black ink cartridges on the shelf. Do you have color cartridges?\nM: Oh, we just reorganized that part of the store. You'll find the color ink on the other side of the aisle. I'll show you.\nW: OK, great. And I brought this discount coupon with me. It's valid for Hinton printer cartridges too, right?\nM: Yes, we accept those coupons. Just make sure you give it to the cashier when you get to the checkout counter.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         },
@@ -1586,14 +1586,14 @@
             "D": "A service was discontinued"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Excuse me, I need to replace the color ink in my printer, but I see only black ink cartridges on the shelf. Do you have color cartridges?\nM: Oh, we just reorganized that part of the store. You'll find the color ink on the other side of the aisle. I'll show you.\nW: OK, great. And I brought this discount coupon with me. It's valid for Hinton printer cartridges too, right?\nM: Yes, we accept those coupons. Just make sure you give it to the cashier when you get to the checkout counter.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         },
@@ -1610,14 +1610,14 @@
             "D": "$10"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Excuse me, I need to replace the color ink in my printer, but I see only black ink cartridges on the shelf. Do you have color cartridges?\nM: Oh, we just reorganized that part of the store. You'll find the color ink on the other side of the aisle. I'll show you.\nW: OK, great. And I brought this discount coupon with me. It's valid for Hinton printer cartridges too, right?\nM: Yes, we accept those coupons. Just make sure you give it to the cashier when you get to the checkout counter.",
           "transcriptVi": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null,
+            "answer": "drive",
+            "transcript": "drive",
             "image": "drive"
           }
         }

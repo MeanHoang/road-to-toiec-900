@@ -24,7 +24,11 @@ for (const set of day.listening.filter((s) => s.mode !== 'dictation')) {
   for (const q of set.questions) {
     assert.ok(existsSync(`public${q.audio}`), q.audio);
     assert.ok(set.choices.includes(q.answer), q.id);
-    assert.equal(q.source.answer, 'ai');
+    // Chapter 8/9 keys and conversations come from the DAY 13 KEY HW folder; the web sets stay AI-answered.
+    if (set.part === 3) {
+      assert.equal(q.source.answer, 'drive', q.id); assert.equal(q.source.transcript, 'drive', q.id);
+      assert.ok(/^(W|M\d?): /m.test(q.transcript), q.id);
+    } else assert.equal(q.source.answer, 'ai', q.id);
     if (q.image) assert.ok(existsSync(`public${q.image}`), q.image);
     if (set.part === 1) assert.ok(q.image, q.id);
     if (set.part === 2) assert.ok(q.transcript.Q, q.id);
@@ -33,8 +37,10 @@ for (const set of day.listening.filter((s) => s.mode !== 'dictation')) {
   }
 }
 // "Look at the graphic" conversations (19–21) carry the order form / coupon.
+const KEYS = { ch8: 'ADCCBDDBCCAAAACBDCCDA', ch9: 'CABBBCCDABADABCBCABAD' };
 for (const code of ['ch8', 'ch9']) {
   const set = day.listening.find((s) => s.code === code);
+  assert.equal(set.questions.map((q) => q.answer).join(''), KEYS[code]);
   assert.deepEqual(set.questions.filter((q) => q.image).map((q) => q.no), [19, 20, 21]);
 }
 
@@ -47,7 +53,7 @@ for (const q of day.exercises.filter((s) => s.part === 5).flatMap((s) => s.quest
   assert.equal(q.source.answer, 'drive'); assert.ok(q.text.includes('______'), q.id);
 }
 for (const q of day.exercises.filter((s) => s.part === 7).flatMap((s) => s.questions)) {
-  assert.equal(q.source.answer, 'ai'); assert.ok(q.passage.text, q.id);
+  assert.equal(q.source.answer, 'drive'); assert.ok(q.passage.text, q.id);
 }
 
 assert.equal(day.vocabulary.length, 25);
