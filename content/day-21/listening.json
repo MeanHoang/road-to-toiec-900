@@ -1622,6 +1622,739 @@
           }
         }
       ]
+    },
+    {
+      "id": "d21-words",
+      "code": "words",
+      "title": "Vocabulary dictation",
+      "subtitle": "Class homework · transcribe each word and check the transcript",
+      "part": 1,
+      "mode": "dictation",
+      "hasKey": false,
+      "showPhoto": false,
+      "fullAudio": null,
+      "source": "thaylong",
+      "sourceExerciseId": "e9a2585e-0222-47d7-9770-7380bc78fa47",
+      "sourceName": "WORD - DAY 6",
+      "sourceUrl": "https://study.thaylongtoeic.com/dictation/4778de76-6f15-4780-9346-d1e2bab87861/exercises/e9a2585e-0222-47d7-9770-7380bc78fa47",
+      "questions": [
+        {
+          "id": "d21-word-01",
+          "no": 1,
+          "audio": "/assets/day-21/online-homework/dictation/01.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "accommodate",
+          "transcriptVi": "(động từ) cung cấp phòng hoặc nơi ở cho ai,\nđiều tiết, làm cho thích nghi, làm cho phù hợ",
+          "sourceSentenceId": "f56fd367-fe13-411e-a350-8c21b298c957",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-02",
+          "no": 2,
+          "audio": "/assets/day-21/online-homework/dictation/02.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "advantage",
+          "transcriptVi": "(danh từ) sự thuận lợi, hoàn cảnh thuận lợi, lợi thế",
+          "sourceSentenceId": "46c11483-ec41-4000-b0ef-b580cda3ab90",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-03",
+          "no": 3,
+          "audio": "/assets/day-21/online-homework/dictation/03.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "annual",
+          "transcriptVi": "(tính từ) thường niên, hàng năm",
+          "sourceSentenceId": "48f6efa1-5450-4a92-b0bf-dc4e6c852170",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-04",
+          "no": 4,
+          "audio": "/assets/day-21/online-homework/dictation/04.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "application",
+          "transcriptVi": "(danh từ) hồ sơ, ứng dụng",
+          "sourceSentenceId": "7ff3f9b4-3693-4c95-a598-c9e44c32fa92",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-05",
+          "no": 5,
+          "audio": "/assets/day-21/online-homework/dictation/05.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "author",
+          "transcriptVi": "(danh từ) tác giả",
+          "sourceSentenceId": "586b78d7-4e3c-43c9-b6e9-ab727bbf8361",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-06",
+          "no": 6,
+          "audio": "/assets/day-21/online-homework/dictation/06.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "away",
+          "transcriptVi": "(trạng từ) xa, xa cách, rời xa, xa ra, đi (xa)",
+          "sourceSentenceId": "ec4e4065-f3a6-4b88-b630-f35d08af354d",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-07",
+          "no": 7,
+          "audio": "/assets/day-21/online-homework/dictation/07.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "background",
+          "transcriptVi": "(danh từ) nền, phông nền, nền tảng",
+          "sourceSentenceId": "61e7f3ff-2dcb-455c-aabb-5e196050c8e6",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-08",
+          "no": 8,
+          "audio": "/assets/day-21/online-homework/dictation/08.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "block",
+          "transcriptVi": "(động từ)làm trở ngại (sự đi lại); ngăn chận\n(danh từ)khuôn nhà lớn, nhà khối (ở giữa bốn con đường)",
+          "sourceSentenceId": "cca01541-abe0-4f70-ae06-744d18bcaa13",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-09",
+          "no": 9,
+          "audio": "/assets/day-21/online-homework/dictation/09.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "broken",
+          "transcriptVi": "(tính từ)  bị gãy, bị vỡ hoặc tuyệt vọng, đau khổ",
+          "sourceSentenceId": "74ccfd85-3476-4c55-9b2f-f94b92315e9d",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-10",
+          "no": 10,
+          "audio": "/assets/day-21/online-homework/dictation/10.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "budget",
+          "transcriptVi": "(danh từ) ngân sách",
+          "sourceSentenceId": "92cfaae0-6981-4ff3-a083-6af072aa61a4",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-11",
+          "no": 11,
+          "audio": "/assets/day-21/online-homework/dictation/11.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "connect",
+          "transcriptVi": "(động từ) kết nối",
+          "sourceSentenceId": "9fab29b1-af2b-41c2-a960-baa092127b30",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-12",
+          "no": 12,
+          "audio": "/assets/day-21/online-homework/dictation/12.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "correct",
+          "transcriptVi": "(tính từ) chính xác\n(động từ) sửa, sửa chữa, sửa chữa đúng, hiệu chỉnh",
+          "sourceSentenceId": "2d3082ad-998b-451c-b998-160e21ccc91a",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-13",
+          "no": 13,
+          "audio": "/assets/day-21/online-homework/dictation/13.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "correction",
+          "transcriptVi": "(danh từ) sự sửa, sự sửa chữa, sự hiệu chỉnh",
+          "sourceSentenceId": "84f4d6e9-1f7d-4230-8d83-9b6d582034cd",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-14",
+          "no": 14,
+          "audio": "/assets/day-21/online-homework/dictation/14.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "crowded",
+          "transcriptVi": "(tính từ) đông đúc",
+          "sourceSentenceId": "08423292-192f-413e-9daa-f806550886ec",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-15",
+          "no": 15,
+          "audio": "/assets/day-21/online-homework/dictation/15.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "cut back",
+          "transcriptVi": "(động từ) căt giảm (chi tiêu....)",
+          "sourceSentenceId": "cf7e44d4-4d90-45ad-bf84-e5e1ac83a8cd",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-16",
+          "no": 16,
+          "audio": "/assets/day-21/online-homework/dictation/16.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "damaged",
+          "transcriptVi": "(tính từ) bị phá hủy, hư hại",
+          "sourceSentenceId": "7167141e-ebfd-414b-8191-5cc18a5fa341",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-17",
+          "no": 17,
+          "audio": "/assets/day-21/online-homework/dictation/17.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "evaluation",
+          "transcriptVi": "(danh từ) sự đánh giá, định giá, bản đánh giá",
+          "sourceSentenceId": "c987f220-3161-4e42-b76f-d06bde9b863b",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-18",
+          "no": 18,
+          "audio": "/assets/day-21/online-homework/dictation/18.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "expand",
+          "transcriptVi": "(động từ) mở rộng",
+          "sourceSentenceId": "a85bca5b-c30f-42cc-aa0a-975bffb66964",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-19",
+          "no": 19,
+          "audio": "/assets/day-21/online-homework/dictation/19.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "expense",
+          "transcriptVi": "(danh từ) chi phí,chi tiêu",
+          "sourceSentenceId": "01f6e05c-df60-4c4e-b1ee-44b2da123271",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-20",
+          "no": 20,
+          "audio": "/assets/day-21/online-homework/dictation/20.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "fill out",
+          "transcriptVi": "(động từ) Fill out có thể hiểu theo các nghĩa sau: Điền vào hoặc hoàn thành (biểu mẫu, tài liệu, phiếu…). Ví dụ: √ Please fill out this application form for the job.",
+          "sourceSentenceId": "51766344-6bed-4272-b28d-8da637728bc7",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-21",
+          "no": 21,
+          "audio": "/assets/day-21/online-homework/dictation/21.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "hand out",
+          "transcriptVi": "(danh từ) Bản phát tay, Bản thông cáo chưa đăng báo; bản tin phân phát đi.",
+          "sourceSentenceId": "840f65a3-274e-435d-97b2-1b90f15d2e40",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-22",
+          "no": 22,
+          "audio": "/assets/day-21/online-homework/dictation/22.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "in time",
+          "transcriptVi": "In time” trong tiếng Anh mang nghĩa là vừa kịp giờ, vừa kịp lúc, vừa đúng lúc, được sử dụng để chỉ một sự việc được diễn ra ngay sát thời điểm cuối cùng, cụ thể hơn là hành động này xảy ra kịp thời trước khi quá muộn hay sự việc khác sẽ xảy ra",
+          "sourceSentenceId": "7477760e-f401-4f6e-905d-aecbc1d8c572",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-23",
+          "no": 23,
+          "audio": "/assets/day-21/online-homework/dictation/23.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "inconvenience",
+          "transcriptVi": "(danh từ) sự bất tiện",
+          "sourceSentenceId": "a4b7d237-7248-449e-812a-7c3e1c0f0191",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-24",
+          "no": 24,
+          "audio": "/assets/day-21/online-homework/dictation/24.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "injure",
+          "transcriptVi": "(động từ) làm tổn thương, làm hại, làm bị thương",
+          "sourceSentenceId": "fe8fe886-0dba-4f15-9b41-9dec1a9f1b92",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-25",
+          "no": 25,
+          "audio": "/assets/day-21/online-homework/dictation/25.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "landscaping",
+          "transcriptVi": "(danh từ) Làm đẹp phong cảnh. Làm nghề xây dựng vườn hoa và công viên.",
+          "sourceSentenceId": "b1ba1f35-6d33-4f0f-a1f0-fd2bc4931d31",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-26",
+          "no": 26,
+          "audio": "/assets/day-21/online-homework/dictation/26.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "misplace",
+          "transcriptVi": "(động từ) để không đúng chỗ ((nghĩa đen) & (nghĩa bóng))\nto misplace one's love\ngửi gấm tình yêu không đúng chỗ\na misplaced remark\nmột lời phê bình không đúng lúc",
+          "sourceSentenceId": "4ae59f99-6193-4a9b-a0c4-2f4b4aa97e8e",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-27",
+          "no": 27,
+          "audio": "/assets/day-21/online-homework/dictation/27.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "neighborhood",
+          "transcriptVi": "(danh từ) hàng xóm; vùng lân cận",
+          "sourceSentenceId": "f4fca5b1-446b-4928-b6c2-fc33e64988b3",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-28",
+          "no": 28,
+          "audio": "/assets/day-21/online-homework/dictation/28.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "own",
+          "transcriptVi": "(tính  từ) của chính mình, của riêng mình\n(động từ) có, là chủ của, sở hữu",
+          "sourceSentenceId": "56885d30-cffb-4a85-829e-80ef4fa5ca11",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-29",
+          "no": 29,
+          "audio": "/assets/day-21/online-homework/dictation/29.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "policy",
+          "transcriptVi": "(danh từ) chính sách",
+          "sourceSentenceId": "27476052-4845-4e95-a8d9-798a9c6b6cbb",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-30",
+          "no": 30,
+          "audio": "/assets/day-21/online-homework/dictation/30.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "popular",
+          "transcriptVi": "(tính từ) được yêu thích",
+          "sourceSentenceId": "cd160169-d057-4c06-a9b9-e2767aa125e9",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-31",
+          "no": 31,
+          "audio": "/assets/day-21/online-homework/dictation/31.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "postpone",
+          "transcriptVi": "(động từ) trì hoãn",
+          "sourceSentenceId": "b3ea331d-1aeb-4c46-8ecd-83a7dc8e454f",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-32",
+          "no": 32,
+          "audio": "/assets/day-21/online-homework/dictation/32.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "project",
+          "transcriptVi": "(danh từ) dự án",
+          "sourceSentenceId": "65e8530d-6826-429c-a770-af58bda9b47b",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-33",
+          "no": 33,
+          "audio": "/assets/day-21/online-homework/dictation/33.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "public",
+          "transcriptVi": "(tính từ) chung, công, công cộng, công khai",
+          "sourceSentenceId": "25ba2da0-fc88-42c6-b612-167398e7ed62",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-34",
+          "no": 34,
+          "audio": "/assets/day-21/online-homework/dictation/34.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "qualified",
+          "transcriptVi": "(tính từ) đạt tiêu chuẩn",
+          "sourceSentenceId": "754cdb12-a2a8-42f4-ab03-8155030dcf06",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-35",
+          "no": 35,
+          "audio": "/assets/day-21/online-homework/dictation/35.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "reasonable",
+          "transcriptVi": "(tính từ) hợp lý, phải chăng",
+          "sourceSentenceId": "839e816c-7c62-4578-8a97-43e8a1c1ee69",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-36",
+          "no": 36,
+          "audio": "/assets/day-21/online-homework/dictation/36.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "regional",
+          "transcriptVi": "(tính từ) (thuộc) vùng, (thuộc) miền",
+          "sourceSentenceId": "ad700e24-1c83-4f24-bb57-ea971caa5ad4",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-37",
+          "no": 37,
+          "audio": "/assets/day-21/online-homework/dictation/37.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "release",
+          "transcriptVi": "(danh từ) sự phát hành (cuốn sách, bản tin); sự đưa ra bàn (một loại ô tô mới...)\n(động từ) phát hành (cuốn phim, bản tin...); đăng (tin); đưa ra bán (một loại ô tô mới...)",
+          "sourceSentenceId": "9affc8e6-44b0-477d-a048-4ee730d5698e",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-38",
+          "no": 38,
+          "audio": "/assets/day-21/online-homework/dictation/38.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "rent",
+          "transcriptVi": "(danh từ) tiền thuê, sự thuê\n(động từ) cho thuê, thuê (nhà đất)",
+          "sourceSentenceId": "b08cc774-f4ff-4cc5-82e6-fdb2e57a6b19",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-39",
+          "no": 39,
+          "audio": "/assets/day-21/online-homework/dictation/39.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "see if",
+          "sourceSentenceId": "11924b03-6802-45cc-ae7f-ebc2d6e4fa96",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-word-40",
+          "no": 40,
+          "audio": "/assets/day-21/online-homework/dictation/40.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "set aside",
+          "transcriptVi": "(động từ) để qua một bên, dành ra",
+          "sourceSentenceId": "d6b7d9c2-571c-4b2d-91c3-ba525620d37f",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-41",
+          "no": 41,
+          "audio": "/assets/day-21/online-homework/dictation/41.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "shape",
+          "transcriptVi": "(danh từ) hình, hình dạng, hình thù\n(động từ) hình thành, thành hình",
+          "sourceSentenceId": "2e5840f6-49b6-485c-81e6-1826a48ddfd7",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-42",
+          "no": 42,
+          "audio": "/assets/day-21/online-homework/dictation/42.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "sound",
+          "transcriptVi": "(tính từ)đúng đắn, có cơ sở, vững; lôgic, hợp lý\n(động  từ)  nghe như, nghe có vẻ",
+          "sourceSentenceId": "790ccb51-a4a1-4b51-999d-8ef0aac96df6",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-43",
+          "no": 43,
+          "audio": "/assets/day-21/online-homework/dictation/43.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "space",
+          "transcriptVi": "(danh từ) không gian",
+          "sourceSentenceId": "d78637e4-1a70-4ca8-a2fc-919bd0362786",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-44",
+          "no": 44,
+          "audio": "/assets/day-21/online-homework/dictation/44.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "specialize",
+          "transcriptVi": "(động từ) chuyên môn hoá về, trở thành chuyên về (một việc gì)",
+          "sourceSentenceId": "38d09771-1624-46a5-b936-c7fc50f1b0b9",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-45",
+          "no": 45,
+          "audio": "/assets/day-21/online-homework/dictation/45.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "suspend",
+          "transcriptVi": "(động từ) đình chỉ, hoãn; treo giò (ai)",
+          "sourceSentenceId": "deef20fb-7e5d-4cd1-bc5f-81a6e39cf663",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-46",
+          "no": 46,
+          "audio": "/assets/day-21/online-homework/dictation/46.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "that way",
+          "sourceSentenceId": "f7cae3f9-6af1-469d-a7ff-8119d868dd88",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper"
+          }
+        },
+        {
+          "id": "d21-word-47",
+          "no": 47,
+          "audio": "/assets/day-21/online-homework/dictation/47.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "turn out",
+          "transcriptVi": "Turn out\n\nSynonym (Từ đồng nghĩa)\n\nMeaning (Nghĩa)\n\nDevelop\n\nPhát triển\n\nTake part in\n\nTham gia\n\nAppear\n\nXuất hiện\n\nHappen\n\nXảy ra",
+          "sourceSentenceId": "47854eb5-e4b8-48b9-aaf2-d67a77a8ca84",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        },
+        {
+          "id": "d21-word-48",
+          "no": 48,
+          "audio": "/assets/day-21/online-homework/dictation/48.mp3",
+          "image": null,
+          "answer": null,
+          "transcript": "workload",
+          "transcriptVi": "(danh từ) khối lượng công việc",
+          "sourceSentenceId": "fe02af9b-6a3f-4968-a70f-d4fb0a01cc86",
+          "source": {
+            "audio": "thaylong",
+            "transcript": "whisper",
+            "transcriptVi": "thaylong"
+          }
+        }
+      ]
     }
   ]
 }

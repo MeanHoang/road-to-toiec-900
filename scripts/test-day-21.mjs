@@ -1,4 +1,4 @@
-import assert from 'node:assert/strict';
+﻿import assert from 'node:assert/strict';
 import { readFileSync, existsSync } from 'node:fs';
 import { assemble } from '../features/lesson/schema.js';
 import { translate } from '../features/language/translate.js';
@@ -9,12 +9,18 @@ const day = assemble('day-21', { day: read('day'), theory: read('theory'), vocab
 assert.equal(day.no, 21); assert.equal(day.phase, 2); assert.equal(day.sourceDay, 12);
 assert.deepEqual(day.collections, ['theory', 'vocabulary', 'listening', 'exercises']);
 
-// Class web homework (2020 Test 4 Part 1/2) first, then the Drive Part 3 chapters.
+// Class web homework (2020 Test 4 Part 1/2) first, then the Drive Part 3 chapters, then the web's D6 dictation.
 assert.deepEqual(day.listening.map((s) => [s.code, s.questions.length]),
-  [['hw-2020-test-4-p1', 6], ['hw-2020-test-4-p2', 25], ['ch8', 21], ['ch9', 21]]);
+  [['hw-2020-test-4-p1', 6], ['hw-2020-test-4-p2', 25], ['ch8', 21], ['ch9', 21], ['words', 48]]);
 const ids = day.listening.flatMap((s) => s.questions.map((q) => q.id));
 assert.equal(new Set(ids).size, ids.length);
-for (const set of day.listening) {
+const words = day.listening.find((s) => s.code === 'words');
+assert.equal(words.mode, 'dictation'); assert.equal(words.source, 'thaylong');
+for (const q of words.questions) {
+  assert.ok(existsSync(`public${q.audio}`), q.audio);
+  assert.ok(q.transcript && q.transcript === q.transcript.trim(), q.id);
+}
+for (const set of day.listening.filter((s) => s.mode !== 'dictation')) {
   for (const q of set.questions) {
     assert.ok(existsSync(`public${q.audio}`), q.audio);
     assert.ok(set.choices.includes(q.answer), q.id);
@@ -53,4 +59,4 @@ for (const label of [day.subtitle, day.exerciseLabel, ...day.theory.map((b) => b
   ...day.listening.flatMap((s) => [s.title, s.subtitle]), ...day.vocabulary.map((v) => v.group), ...day.exercises.flatMap((s) => [s.title, s.subtitle])]) {
   for (const locale of ['vi', 'zh', 'ko']) assert.notEqual(translate(locale, label), label, `Missing ${locale}: ${label}`);
 }
-console.log('✓ Day 21: 73 listening questions (31 class web, 42 ETS Part 3), 67 adjective + 18 Part 7 questions, 25 contract-law words with both voices');
+console.log('✓ Day 21: 121 listening questions (31 class web, 42 ETS Part 3, 48 web dictation words), 67 adjective + 18 Part 7 questions, 25 contract-law words with both voices');
