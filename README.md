@@ -34,7 +34,8 @@ Google Drive folder
       │
       ▼
   content/<day>/*.json        source of truth — plain JSON, readable, hand-editable
-  public/assets/<day>/        images extracted from the PDFs + audio files
+  public/assets/<day>/        images + audio, local staging only (gitignored)
+  npm run push-assets         upload media to the Hugging Face CDN, rewrite refs to CDN URLs
       │
       │  PUSH — upload content to Firestore
       ▼
@@ -73,11 +74,16 @@ Requirements: Node 20+, and for the import pipeline `poppler`, `ffmpeg` and `whi
 
 ```bash
 npm install
-cp .env.example .env.local     # fill in your Firebase web config
+cp .env.example .env.local     # Firebase web config, plus HF_TOKEN for push-assets
 npm run dev
 ```
 
-`.env.local` is optional. With no Firebase configuration the app falls back to the JSON
+Lesson media is not in git: it lives on the Hugging Face dataset `mhoang0000/toeic900-assets`
+and content stores its URLs. Only `npm run push-assets` needs `HF_TOKEN` — a fine-grained token
+with write access to that dataset only (huggingface.co/settings/tokens). It expires after a year
+unused; on a 401, refresh it there and replace the value in `.env.local`.
+
+`.env.local` is otherwise optional. With no Firebase configuration the app falls back to the JSON
 bundled in the repo and stores progress in `localStorage` only — useful for local work.
 
 Two switches in Firebase Console → Authentication → Sign-in method have to be on: **Anonymous**,
@@ -128,7 +134,7 @@ python3 -m venv .cache/voice-env
 npm run voice-vocab -- day-10
 ```
 
-Files live in `public/assets/<day>/voice-neural/`; content records the provider,
+Files are written to `public/assets/<day>/voice-neural/`, then go to the CDN with `npm run push-assets`; content records the provider,
 voice names and rate. Generation is cached, resumable, and updates lesson metadata
 only after all recordings for that lesson succeed. Use `--force` to regenerate.
 The website plays these files directly; it does not call a TTS service at runtime.
@@ -168,7 +174,7 @@ features/               DOMAIN — state, data access, and the UI tied to them
 lib/
   firebase.js           infrastructure: client init, anonymous + Google auth
 content/<day>/*.json    lesson content
-public/assets/<day>/    images and audio
+public/assets/<day>/    media staging before push-assets (gitignored; served from Hugging Face)
 scripts/                import, transcribe, validate, push
 styles/                 tokens → base → components
 .claude/skills/         importing a lesson, and reviewing a diff against this layout

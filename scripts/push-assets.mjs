@@ -4,7 +4,7 @@
 //   npm run push-assets
 //
 // Run after an import / voice script. Only new or changed files are uploaded, one file
-// at a time is fine — nothing else has to be on this machine. Needs `hf auth login` once.
+// at a time is fine — nothing else has to be on this machine. Needs HF_TOKEN in .env.local.
 // After this, run `npm run push-content <day>` so Firestore gets the CDN URLs too.
 
 import { spawnSync } from 'node:child_process';
@@ -72,7 +72,7 @@ function uploadFolder() {
   const excludes = NEVER_UPLOAD.flatMap((pattern) => ['--exclude', pattern]);
   const upload = spawnSync('hf', ['upload', MEDIA_REPO, LOCAL_MEDIA_DIR, '.', '--repo-type', 'dataset',
     ...excludes, '--commit-message', 'Upload lesson media'], { stdio: 'inherit' });
-  if (upload.status !== 0) throw new Error(`hf upload failed (exit ${upload.status}). Run \`hf auth login\` if not logged in.`);
+  if (upload.status !== 0) throw new Error(`hf upload failed (exit ${upload.status}). On 401, refresh HF_TOKEN at huggingface.co/settings/tokens and update .env.local.`);
 }
 
 async function listFiles(dir, prefix = '') {
