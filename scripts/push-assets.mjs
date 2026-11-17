@@ -16,8 +16,12 @@ import { LOCAL_MEDIA_DIR, MEDIA_REPO, ROOT, loadMediaManifest, mediaPathOf, medi
 // Loose images downloaded from Drive (raw answer keys, album art) are never published.
 const NEVER_UPLOAD = ['*/extra/*', '_headers', '.cache/*', '.DS_Store', '**/.DS_Store'];
 const DELETE_LOCAL_AFTER_UPLOAD = true;
+// HF_TOKEN (fine-grained, write to MEDIA_REPO only) lives here; `hf` reads it from the env.
+const ENV_FILE = path.join(ROOT, '.env.local');
 
 async function run() {
+  if (existsSync(ENV_FILE)) process.loadEnvFile(ENV_FILE);
+
   // Step 1: upload whatever is staged locally.
   const staged = existsSync(LOCAL_MEDIA_DIR) ? await listFiles(LOCAL_MEDIA_DIR) : [];
   const publishable = staged.filter((relPath) => !/(^|\/)extra\//.test(relPath) && !relPath.endsWith('.DS_Store') && relPath !== '_headers');
