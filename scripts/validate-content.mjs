@@ -8,6 +8,7 @@
 // CẢNH BÁO = còn dữ liệu do máy sinh chưa ai soát, hoặc còn chỗ trống.
 
 import { readFile } from 'node:fs/promises';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { mediaChecker } from './lib/media.mjs';
 
@@ -26,6 +27,18 @@ const hasMedia = await mediaChecker();
 async function assetExists(url) {
   if (!url) return true;
   return hasMedia(url);
+}
+
+/**
+ * Media phải nằm trên CDN. Còn ref "/assets/..." trỏ tới file chỉ có ở public/assets
+ * nghĩa là quên `npm run push-assets`: trên production file đó không tồn tại.
+ */
+function checkNoLocalOnlyMediaRefs(file, data) {
+  for (const ref of new Set(JSON.stringify(data).match(/"\/assets\/[^"]+"/g) || [])) {
+    const url = JSON.parse(ref);
+    if (existsSync(path.join(ROOT, 'public', url))) err(file, `chưa đẩy lên CDN: ${url} — chạy npm run push-assets rồi push-content`);
+    else warn(file, `ref không có file ở đâu cả: ${url}`);
+  }
 }
 
 function checkEnvelope(file, data, slug, expectedCollection) {
@@ -93,6 +106,7 @@ async function validateDay(slug) {
     }
 
     checkEnvelope(file, data, slug, name);
+    checkNoLocalOnlyMediaRefs(file, data);
     if (!Array.isArray(data.items)) continue;
     checkIds(file, data.items, seen);
 

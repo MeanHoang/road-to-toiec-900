@@ -33,7 +33,7 @@ If you are not sure, leave it `null` and tell the user. **Never guess and then l
 
 **Do not commit source material.** PDFs and loose images (answer keys) are already in `.gitignore`. Leave them there.
 
-**Media is not in git.** Audio, images and PDFs live on the Hugging Face dataset `mhoang0000/toeic900-assets` (`scripts/lib/media.mjs`). Scripts write new media to `public/assets/` (gitignored staging) with `/assets/...` refs; `npm run push-assets` uploads only those files, rewrites the refs in `content/` to CDN URLs and deletes the local copies. Then `npm run push-content <day>` so Firestore stores the CDN URLs. Run both before pushing the content commit.
+**Media is not in git.** Audio, images and PDFs live on the Hugging Face dataset `mhoang0000/toeic900-assets` (`scripts/lib/media.mjs`). Scripts write new media to `public/assets/` (gitignored staging) with `/assets/...` refs; `npm run push-assets` uploads only those files, rewrites the refs in `content/` to CDN URLs and deletes the local copies. Then `npm run push-content <day>` so Firestore stores the CDN URLs. Run both before pushing the content commit. `validate-content` fails with "chưa đẩy lên CDN" while any ref still points at a local-only file. Upload auth is the owner's `hf auth login` (OAuth, 30-day token the CLI refreshes itself); on 401 / "Not logged in", run `hf auth login` in the background and give the owner the device code from its output (it expires in 5 minutes).
 
 **Never store Drive links or author names in any file.** Take the content only, not its provenance.
 

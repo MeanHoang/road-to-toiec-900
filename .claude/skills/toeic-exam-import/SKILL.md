@@ -18,7 +18,7 @@ lesson exercises (`content/day-*`) — two papers must never share a question.
 | 3. Verify | `npm run test:exam` | asserts 200 q, 7 Parts, every file on disk, Part 3/4 = 13/10 talks of 3 |
 | 4. Bundle | add the import line in `features/exam/examContent.js` → `BUNDLED` | paper shows offline / without Firebase |
 | 5. Push | `npm run push-exam -- --dry`, then `npm run push-exam` | `exam/<form>` on Firestore; deletes docs no longer in the repo |
-| 6. Media | `npm run push-assets`, then `npm run push-exam <form>` again | uploads new files in `public/assets/` (gitignored staging) to the Hugging Face CDN, rewrites refs to CDN URLs, deletes local copies |
+| 6. Media | `npm run push-assets`, then `npm run push-exam <form>` again | uploads new files in `public/assets/` (gitignored staging) to the Hugging Face CDN, rewrites refs to CDN URLs, deletes local copies. On 401 / "Not logged in": `hf auth login`, hand the owner the device code |
 
 Re-running step 1 overwrites the JSON and drops `audio` fields → always re-run step 2
 afterwards (it skips mp3 files that already exist, only re-measures).
