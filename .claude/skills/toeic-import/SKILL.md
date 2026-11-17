@@ -33,6 +33,8 @@ If you are not sure, leave it `null` and tell the user. **Never guess and then l
 
 **Do not commit source material.** PDFs and loose images (answer keys) are already in `.gitignore`. Leave them there.
 
+**Media is not in git.** `public/assets/` is gitignored; audio, images and PDFs are served from Cloudflare Pages (`toeic900-assets.pages.dev`). After building a day, run `npm run push-assets` before pushing the content commit, or production plays nothing.
+
 **Never store Drive links or author names in any file.** Take the content only, not its provenance.
 
 ---
@@ -112,6 +114,7 @@ Two places; miss either one and the app will not see the new session:
 ```bash
 node scripts/validate-content.mjs <slug>
 npm run build
+npm run push-assets   # upload the new media; Vercel redirects /assets/... to the CDN
 ```
 
 The validator checks: schemaVersion, `day` matching the folder, duplicate `id`s, asset paths that actually exist, `tokens`/`key` length mismatches, `hasKey` contradicting `answer`, and it counts fields still marked `source: ai/whisper`.

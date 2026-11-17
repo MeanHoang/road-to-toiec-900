@@ -15,10 +15,13 @@ node_modules/
 # content/*/listening.json rồi nên app không cần ảnh này để chạy.
 public/assets/*/extra/
 
+# Audio, ảnh, PDF của bài học nằm trên Cloudflare Pages (toeic900-assets.pages.dev),
+# không nằm trong git. Tạo bài xong chạy `npm run push-assets`; trên Vercel app tự
+# chuyển hướng /assets/... sang đó (next.config.mjs).
+public/assets/
+
 # --- CÓ commit, vì deploy cần ---
 # content/**/*.json        nội dung bài học
-# public/assets/*/images/  ảnh đề bài đã bóc từ PDF
-# public/assets/*/audio/   file nghe
 
 # WebStorm
 .idea/

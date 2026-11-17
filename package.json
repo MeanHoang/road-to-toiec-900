@@ -22,6 +22,7 @@
     "transcribe": "node scripts/transcribe.mjs",
     "push-content": "node scripts/push-content.mjs",
     "push-exam": "node scripts/push-exam.mjs",
+    "push-assets": "node scripts/push-assets.mjs",
     "test:practice": "node scripts/test-practice.mjs",
     "test:blocks": "node scripts/test-block-puzzle.mjs",
     "test:blast-motion": "node scripts/test-blast-motion.mjs"
