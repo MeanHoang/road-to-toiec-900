@@ -12,9 +12,13 @@ const day = assemble('day-22', { day: read('day'), theory: read('theory'), vocab
 assert.equal(day.no, 22); assert.equal(day.phase, 2); assert.equal(day.sourceDay, 13);
 assert.deepEqual(day.collections, ['theory', 'vocabulary', 'listening', 'exercises']);
 
-// Test 2 Part 1/2, Test 4/5 Part 3 homework, then the Chapter 4 lecture audio.
+// Class web homework (2023 Test 6 Part 1/2) first, then Drive's Test 2 Part 1/2, Test 4/5 Part 3 homework and the Chapter 4 lecture audio.
 assert.deepEqual(day.listening.map((s) => [s.code, s.questions.length]),
-  [['t2-p1', 6], ['t2-p2', 25], ['t4-p3', 30], ['t5-p3', 27], ['ets', 24], ['class', 6]]);
+  [['hw-2023-test-6-p1', 6], ['hw-2023-test-6-p2', 25], ['t2-p1', 6], ['t2-p2', 25], ['t4-p3', 30], ['t5-p3', 27], ['ets', 24], ['class', 6]]);
+for (const set of day.listening.slice(0, 2)) {
+  assert.equal(set.source, 'thaylong'); assert.equal(set.sourceExamId, '7d8c2a08-4724-4975-b665-7eb652001346');
+  for (const q of set.questions) assert.equal(q.source.audio, 'thaylong', q.id);
+}
 const ids = day.listening.flatMap((s) => s.questions.map((q) => q.id));
 assert.equal(new Set(ids).size, ids.length);
 for (const set of day.listening) {
@@ -54,4 +58,4 @@ for (const label of [day.subtitle, day.exerciseLabel, ...day.theory.map((b) => b
   ...day.theory.flatMap((b) => (b.links || []).map((l) => l.label))]) {
   for (const locale of ['vi', 'zh', 'ko']) assert.notEqual(translate(locale, label), label, `Missing ${locale}: ${label}`);
 }
-console.log('✓ Day 22: 118 listening questions (31 Test 2, 57 Part 3 homework, 30 lecture), 20 Part 7 questions, 24 shopping words with both voices');
+console.log('✓ Day 22: 149 listening questions (31 web 2023 Test 6, 31 Test 2, 57 Part 3 homework, 30 lecture), 20 Part 7 questions, 24 shopping words with both voices');
