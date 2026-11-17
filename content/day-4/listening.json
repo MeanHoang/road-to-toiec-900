@@ -12,14 +12,14 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-4/audio/0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/0%20-%20full.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d4-hw1-01",
           "no": 1,
-          "audio": "/assets/day-4/audio/1.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p13-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "The man's holding a wallet.",
@@ -38,8 +38,8 @@
         {
           "id": "d4-hw1-02",
           "no": 2,
-          "audio": "/assets/day-4/audio/2.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p13-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p13-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "The woman's picking up a bag.",
@@ -58,8 +58,8 @@
         {
           "id": "d4-hw1-03",
           "no": 3,
-          "audio": "/assets/day-4/audio/3.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p14-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "The men are passing a plate of food.",
@@ -78,8 +78,8 @@
         {
           "id": "d4-hw1-04",
           "no": 4,
-          "audio": "/assets/day-4/audio/4.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p14-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p14-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "Artwork is being taken off the wall.",
@@ -98,8 +98,8 @@
         {
           "id": "d4-hw1-05",
           "no": 5,
-          "audio": "/assets/day-4/audio/5.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p15-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "They're entering separate offices.",
@@ -118,8 +118,8 @@
         {
           "id": "d4-hw1-06",
           "no": 6,
-          "audio": "/assets/day-4/audio/6.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p15-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p15-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some hikers are climbing a hill.",
@@ -138,8 +138,8 @@
         {
           "id": "d4-hw1-07",
           "no": 7,
-          "audio": "/assets/day-4/audio/7.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-7.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p16-7.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some tents are being assembled.",
@@ -158,8 +158,8 @@
         {
           "id": "d4-hw1-08",
           "no": 8,
-          "audio": "/assets/day-4/audio/8.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p16-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p16-3.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some performers are on a stage.",
@@ -178,8 +178,8 @@
         {
           "id": "d4-hw1-09",
           "no": 9,
-          "audio": "/assets/day-4/audio/9.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p17-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "The man is removing his coat.",
@@ -198,8 +198,8 @@
         {
           "id": "d4-hw1-10",
           "no": 10,
-          "audio": "/assets/day-4/audio/10.mp3",
-          "image": "/assets/day-4/images/day-4-t-i-li-u-in/p17-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/images/day-4-t-i-li-u-in/p17-2.jpg",
           "answer": "A",
           "transcript": {
             "A": "Spectators have gathered along the street.",
@@ -231,7 +231,7 @@
         {
           "id": "d4-hw2-01",
           "no": 1,
-          "audio": "/assets/day-4/audio/32-34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/32-34.mp3",
           "image": null,
           "question": "M-Au: Hello, I’m a ________ here at the ________. I plan to do some _______________ today, and I have a question.\nW-Br: Certainly. What can I help you with?\nM-Au: I’m __________ in __________ a couple of _________ neighborhoods. What would be a ________ ________ to ________ ________ to see them?\nW-Br: Well, you could ________ a ________. There’s a shop just down the street where you can get one.\nM-Au: Oh, that’s perfect if it’s not too ___________.\nW-Br: I ________ ________ what they _________, but I’d be happy to _______ them and _______ ______.",
           "answer": null,
@@ -247,7 +247,7 @@
         {
           "id": "d4-hw2-02",
           "no": 2,
-          "audio": "/assets/day-4/audio/35-37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/35-37.mp3",
           "image": null,
           "question": "W-Am: The ________ of our ____________ is supposed to be in today’s _______________. Have you seen it yet?\nM-Au: I ________ it before I came in to ________. It’s the ________ ________ in the Entertainment section!\nW-Am: Really? I hope it had a lot of good things to say about us.\nM-Au: It did. In fact, I think we’ll have a lot of ________ ________ this week, thanks to the ________ ________. Especially since the reviewers really ________ our specialty _________!\nW-Am: Well, then we’d better ________ ________ ________. I’ll ________ more ______________ right away.",
           "answer": null,
@@ -263,7 +263,7 @@
         {
           "id": "d4-hw2-03",
           "no": 3,
-          "audio": "/assets/day-4/audio/38-40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/38-40.mp3",
           "image": null,
           "question": "M-Cn: Welcome to Pavilion ____________ ________. How can I help you?\nW-Am: Well, the ________ on the ________ of my refrigerator ________ ________.\nM-Cn: Oh, that’s not good. If you bought it ________ ________ a year ago, it’s not going to be ________ by the warranty.\nW-Am: I know — I bought it three years ago. But I can ________ it myself... I just need to ________ the handle.\nM-Cn: I’m sorry, but we don’t sell _______________ parts.\nW-Am: So, do you know of a store that does sell them?\nM-Cn: Well, there is a ____________ that sells appliance parts at good prices. You could see if they have what you’re ________ ________. It’s called AppliancePartsForYou.com.",
           "answer": null,
@@ -279,7 +279,7 @@
         {
           "id": "d4-hw2-04",
           "no": 4,
-          "audio": "/assets/day-4/audio/41-43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/41-43.mp3",
           "image": null,
           "question": "M-Au: Hi. I’m calling about your ________ ___________ ________. According to your Web site, it’s one of three _________ required for your Professional Certificate in Management. I’m not _________ in the ______________, so can I just take the _________ _________?\nW-Am: Yes, but it’s probably worth it to get the ___________. Have you seen our ________ ________? Most people who ___________ the certificate program are very _________.\nM-Au: Yes, I have a ________ who got the management certificate through your program. It’s really ________ her in her ________.\nW-Am: Well, if you’re worried about the ________, you might qualify for a ________ ________ ________. Would you like me to look into that for you?",
           "answer": null,
@@ -295,7 +295,7 @@
         {
           "id": "d4-hw2-05",
           "no": 5,
-          "audio": "/assets/day-4/audio/44-46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/44-46.mp3",
           "image": null,
           "question": "W-Br: Hi, Carlos. Did you see the ________ from the _________? Our ________ ________ is going to stay ________ ________ ________!\nM-Au: Yes, I read it. The e-mail said the ________ ________ will start ________ ________. I think it’ll make our members very happy. They’ve wanted later hours for a while.\nW-Br: Definitely. The __________ also asked us to ________ ________ ________ and ________ them around the ________ so members are aware of this _________.\nM-Au: I have some time now. I’ll get started _________ those ________ right away.",
           "answer": null,
@@ -311,7 +311,7 @@
         {
           "id": "d4-hw2-06",
           "no": 6,
-          "audio": "/assets/day-4/audio/47-49.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/47-49.mp3",
           "image": null,
           "question": "(Cuộc hội thoại ba người)\nM-Cn: Adam, I just got a ___________ to come to the ________ floor.\nM-Cn: Is something wrong?\nM-Au: There’s a problem with the last ________ ________ that came off the ___________ _________. Look at this one — the top surface of the ________ is ________ because no glue was applied from the __________.\nM-Cn: Carol — could you join us for a minute? Can you check the glue machines on your team’s part of the assembly line? They probably need a refill.\nW-Am: OK. I’ll ________ them ________ and take a look. We should be ________ in ________ within an hour.\nM-Cn: Good. This ____________ at ________ ________, some prospective __________ will be __________. Everything needs to be running smoothly by then.",
           "answer": null,
@@ -327,7 +327,7 @@
         {
           "id": "d4-hw2-07",
           "no": 7,
-          "audio": "/assets/day-4/audio/50-52.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/50-52.mp3",
           "image": null,
           "question": "W-Br: Hi, Gerard. Just a reminder, all ___________ for this year’s ___________ ___________ have to be submitted by tomorrow.\nM-Cn: Yes, I know. I actually __________ my ___________ earlier today, but I haven’t been able to upload it yet… I think the Web site’s ________ for _____________.\nW-Br: Oh, I had the same problem — the __________ is really ________. You just have to keep trying.\nM-Cn: In that case, I think I’ll ______ ______ ________ first and try again when I get back. Would you like to join me?\nW-Br: Sure — let’s go now.",
           "answer": null,
@@ -343,7 +343,7 @@
         {
           "id": "d4-hw2-08",
           "no": 8,
-          "audio": "/assets/day-4/audio/53-55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/53-55.mp3",
           "image": null,
           "question": "M-Au: Hi, Emiko. (53) Welcome to Essen Accounting. I’m Amal Hassan, from __________ ____________. I’ll _______ you around the ________ and introduce you to the rest of the _____________ ___________.\nW-Am: Nice to meet you, Amal. Do you know if I’ll get my permanent ID badge soon? (54) I just have this temporary ID card, and this isn’t the correct spelling of my ________.\nM-Au: Well, you can ________ that ID to _________ through the ____________ today, but we’ll ask at the security desk later. Do you ________ any other _____________ before we _________ ________ _________?\nW-Am: Um, (55) I thought I’d get ___________ of my employee _____________, but I haven’t received anything yet. Is there something I should do?\nM-Au: Oh, it normally takes a few days.",
           "answer": null,
@@ -372,7 +372,7 @@
         {
           "id": "d4-hw3-32",
           "no": 32,
-          "audio": "/assets/day-4/audio/32-34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/32-34.mp3",
           "image": null,
           "question": "What does the man say he plans to do today?",
           "options": {
@@ -395,7 +395,7 @@
         {
           "id": "d4-hw3-33",
           "no": 33,
-          "audio": "/assets/day-4/audio/32-34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/32-34.mp3",
           "image": null,
           "question": "What does the man ask about?",
           "options": {
@@ -418,7 +418,7 @@
         {
           "id": "d4-hw3-34",
           "no": 34,
-          "audio": "/assets/day-4/audio/32-34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/32-34.mp3",
           "image": null,
           "question": "What does the woman offer to do?",
           "options": {
@@ -441,7 +441,7 @@
         {
           "id": "d4-hw3-35",
           "no": 35,
-          "audio": "/assets/day-4/audio/35-37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/35-37.mp3",
           "image": null,
           "question": "What did the man do before coming in to work?",
           "options": {
@@ -464,7 +464,7 @@
         {
           "id": "d4-hw3-36",
           "no": 36,
-          "audio": "/assets/day-4/audio/35-37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/35-37.mp3",
           "image": null,
           "question": "What does the man think will happen this week?",
           "options": {
@@ -487,7 +487,7 @@
         {
           "id": "d4-hw3-37",
           "no": 37,
-          "audio": "/assets/day-4/audio/35-37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/35-37.mp3",
           "image": null,
           "question": "What will the woman most likely do next?",
           "options": {
@@ -510,7 +510,7 @@
         {
           "id": "d4-hw3-38",
           "no": 38,
-          "audio": "/assets/day-4/audio/38-40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/38-40.mp3",
           "image": null,
           "question": "Who most likely is the man?",
           "options": {
@@ -533,7 +533,7 @@
         {
           "id": "d4-hw3-39",
           "no": 39,
-          "audio": "/assets/day-4/audio/38-40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/38-40.mp3",
           "image": null,
           "question": "What problem does the woman mention?",
           "options": {
@@ -556,7 +556,7 @@
         {
           "id": "d4-hw3-40",
           "no": 40,
-          "audio": "/assets/day-4/audio/38-40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/38-40.mp3",
           "image": null,
           "question": "What does the man suggest the woman do?",
           "options": {
@@ -579,7 +579,7 @@
         {
           "id": "d4-hw3-41",
           "no": 41,
-          "audio": "/assets/day-4/audio/41-43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/41-43.mp3",
           "image": null,
           "question": "Why is the man calling?",
           "options": {
@@ -602,7 +602,7 @@
         {
           "id": "d4-hw3-42",
           "no": 42,
-          "audio": "/assets/day-4/audio/41-43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/41-43.mp3",
           "image": null,
           "question": "What does the man say about his friend?",
           "options": {
@@ -625,7 +625,7 @@
         {
           "id": "d4-hw3-43",
           "no": 43,
-          "audio": "/assets/day-4/audio/41-43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/41-43.mp3",
           "image": null,
           "question": "What does the woman say the man might be eligible for?",
           "options": {
@@ -648,7 +648,7 @@
         {
           "id": "d4-hw3-44",
           "no": 44,
-          "audio": "/assets/day-4/audio/44-46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/44-46.mp3",
           "image": null,
           "question": "Where do the speakers work?",
           "options": {
@@ -671,7 +671,7 @@
         {
           "id": "d4-hw3-45",
           "no": 45,
-          "audio": "/assets/day-4/audio/44-46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/44-46.mp3",
           "image": null,
           "question": "According to the speakers, what will happen next month?",
           "options": {
@@ -694,7 +694,7 @@
         {
           "id": "d4-hw3-46",
           "no": 46,
-          "audio": "/assets/day-4/audio/44-46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/44-46.mp3",
           "image": null,
           "question": "What does the man offer to do?",
           "options": {
@@ -717,7 +717,7 @@
         {
           "id": "d4-hw3-47",
           "no": 47,
-          "audio": "/assets/day-4/audio/47-49.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/47-49.mp3",
           "image": null,
           "question": "Where most likely are the speakers?",
           "options": {
@@ -740,7 +740,7 @@
         {
           "id": "d4-hw3-48",
           "no": 48,
-          "audio": "/assets/day-4/audio/47-49.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/47-49.mp3",
           "image": null,
           "question": "What problem do the men describe?",
           "options": {
@@ -763,7 +763,7 @@
         {
           "id": "d4-hw3-49",
           "no": 49,
-          "audio": "/assets/day-4/audio/47-49.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/47-49.mp3",
           "image": null,
           "question": "What is scheduled to happen at one o’clock?",
           "options": {
@@ -786,7 +786,7 @@
         {
           "id": "d4-hw3-50",
           "no": 50,
-          "audio": "/assets/day-4/audio/50-52.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/50-52.mp3",
           "image": null,
           "question": "What did the man recently finish?",
           "options": {
@@ -809,7 +809,7 @@
         {
           "id": "d4-hw3-51",
           "no": 51,
-          "audio": "/assets/day-4/audio/50-52.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/50-52.mp3",
           "image": null,
           "question": "What problem does the man mention?",
           "options": {
@@ -832,7 +832,7 @@
         {
           "id": "d4-hw3-52",
           "no": 52,
-          "audio": "/assets/day-4/audio/50-52.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/50-52.mp3",
           "image": null,
           "question": "What will the speakers do next?",
           "options": {
@@ -855,7 +855,7 @@
         {
           "id": "d4-hw3-53",
           "no": 53,
-          "audio": "/assets/day-4/audio/53-55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/53-55.mp3",
           "image": null,
           "question": "Who most likely is the woman?",
           "options": {
@@ -878,7 +878,7 @@
         {
           "id": "d4-hw3-54",
           "no": 54,
-          "audio": "/assets/day-4/audio/53-55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/53-55.mp3",
           "image": null,
           "question": "What does the woman tell the man about her ID card?",
           "options": {
@@ -901,7 +901,7 @@
         {
           "id": "d4-hw3-55",
           "no": 55,
-          "audio": "/assets/day-4/audio/53-55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-4/audio/53-55.mp3",
           "image": null,
           "question": "Why does the man say, “it normally takes a few days”?",
           "options": {

@@ -23,7 +23,7 @@
         {
           "id": "d5-ex1-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/01.mp3",
           "image": null,
           "question": "_______ did you meet at the seminar?",
           "options": {
@@ -51,7 +51,7 @@
         {
           "id": "d5-ex1-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/02.mp3",
           "image": null,
           "question": "_______ is in charge of the Accounting Department?",
           "options": {
@@ -79,7 +79,7 @@
         {
           "id": "d5-ex1-03",
           "no": 3,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/03.mp3",
           "image": null,
           "question": "_______ seems to be wrong with this photocopier?",
           "options": {
@@ -107,7 +107,7 @@
         {
           "id": "d5-ex1-04",
           "no": 4,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/04.mp3",
           "image": null,
           "question": "_______ _______ should we meet?",
           "options": {
@@ -135,7 +135,7 @@
         {
           "id": "d5-ex1-05",
           "no": 5,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/05.mp3",
           "image": null,
           "question": "_______ computers is yours?",
           "options": {
@@ -163,7 +163,7 @@
         {
           "id": "d5-ex1-06",
           "no": 6,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/06.mp3",
           "image": null,
           "question": "_______ of the monitors would you like to purchase?",
           "options": {
@@ -191,7 +191,7 @@
         {
           "id": "d5-ex1-07",
           "no": 7,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/07.mp3",
           "image": null,
           "question": "_______ is the deadline for the project?",
           "options": {
@@ -219,7 +219,7 @@
         {
           "id": "d5-ex1-08",
           "no": 8,
-          "audio": "/assets/day-5/audio/exercise-1/1-8/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/1-8/08.mp3",
           "image": null,
           "question": "_______ will the closing ceremony be held?",
           "options": {
@@ -247,7 +247,7 @@
         {
           "id": "d5-ex1-09",
           "no": 9,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/01.mp3",
           "image": null,
           "question": "_______ can I find the quarterly report?",
           "options": {
@@ -275,7 +275,7 @@
         {
           "id": "d5-ex1-10",
           "no": 10,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/02.mp3",
           "image": null,
           "question": "_______ are we heading?",
           "options": {
@@ -303,7 +303,7 @@
         {
           "id": "d5-ex1-11",
           "no": 11,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/03.mp3",
           "image": null,
           "question": "_______ did you quit your job?",
           "options": {
@@ -331,7 +331,7 @@
         {
           "id": "d5-ex1-12",
           "no": 12,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/04.mp3",
           "image": null,
           "question": "_______ don’t you postpone the meeting?",
           "options": {
@@ -359,7 +359,7 @@
         {
           "id": "d5-ex1-13",
           "no": 13,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/05.mp3",
           "image": null,
           "question": "_______ were you able to contact him?",
           "options": {
@@ -387,7 +387,7 @@
         {
           "id": "d5-ex1-14",
           "no": 14,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/06.mp3",
           "image": null,
           "question": "______ ______ do we have those computers checked?",
           "options": {
@@ -415,7 +415,7 @@
         {
           "id": "d5-ex1-15",
           "no": 15,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/07.mp3",
           "image": null,
           "question": "______ Mr. Ito in charge of customer service?",
           "options": {
@@ -443,7 +443,7 @@
         {
           "id": "d5-ex1-16",
           "no": 16,
-          "audio": "/assets/day-5/audio/exercise-1/9-16/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/9-16/08.mp3",
           "image": null,
           "question": "______ Tim call someone to repair the copy machine?",
           "options": {
@@ -471,7 +471,7 @@
         {
           "id": "d5-ex1-17",
           "no": 17,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/01.mp3",
           "image": null,
           "question": "______ you help Lisa organize the client files?",
           "options": {
@@ -499,7 +499,7 @@
         {
           "id": "d5-ex1-18",
           "no": 18,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/02.mp3",
           "image": null,
           "question": "______ we make a new company logo?",
           "options": {
@@ -527,7 +527,7 @@
         {
           "id": "d5-ex1-19",
           "no": 19,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/03.mp3",
           "image": null,
           "question": "______ you seen my laptop anywhere?",
           "options": {
@@ -555,7 +555,7 @@
         {
           "id": "d5-ex1-20",
           "no": 20,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/04.mp3",
           "image": null,
           "question": "______ the meeting agenda printed out yesterday?",
           "options": {
@@ -583,7 +583,7 @@
         {
           "id": "d5-ex1-21",
           "no": 21,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/05.mp3",
           "image": null,
           "question": "_______ you already booked a flight ticker?",
           "options": {
@@ -611,7 +611,7 @@
         {
           "id": "d5-ex1-22",
           "no": 22,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/06.mp3",
           "image": null,
           "question": "The dental clinic is open on Saturdays, ______ ______?",
           "options": {
@@ -639,7 +639,7 @@
         {
           "id": "d5-ex1-23",
           "no": 23,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/07.mp3",
           "image": null,
           "question": "_______ you like to lead the marketing seminar next week?",
           "options": {
@@ -667,7 +667,7 @@
         {
           "id": "d5-ex1-24",
           "no": 24,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/08.mp3",
           "image": null,
           "question": "_______ you know who this briefcase belongs to?",
           "options": {
@@ -695,7 +695,7 @@
         {
           "id": "d5-ex1-25",
           "no": 25,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/09.mp3",
           "image": null,
           "question": "_______ you like the blue jacket or the brown one?",
           "options": {
@@ -723,7 +723,7 @@
         {
           "id": "d5-ex1-26",
           "no": 26,
-          "audio": "/assets/day-5/audio/exercise-1/17-26/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-1/17-26/10.mp3",
           "image": null,
           "question": "The quarterly business report will be released this week.",
           "options": {
@@ -763,13 +763,13 @@
       ],
       "mode": "dictation",
       "hasKey": false,
-      "fullAudio": "/assets/day-5/audio/exercise-2/A - 03_02.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/A%20-%2003_02.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex2a-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-2/a-03-02/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/a-03-02/01.mp3",
           "image": null,
           "question": "Q: _____ will be _____ the _____ _____? A: Mr. Cooper, _____ of the Accounting Department.",
           "answer": null,
@@ -787,7 +787,7 @@
         {
           "id": "d5-ex2a-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-2/a-03-02/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/a-03-02/02.mp3",
           "image": null,
           "question": "Q: _____ should I _____ the problem? A: You should _____.",
           "answer": null,
@@ -805,7 +805,7 @@
         {
           "id": "d5-ex2a-03",
           "no": 3,
-          "audio": "/assets/day-5/audio/exercise-2/a-03-02/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/a-03-02/03.mp3",
           "image": null,
           "question": "Q: _____ will _____? A: _____ will do that.",
           "answer": null,
@@ -823,7 +823,7 @@
         {
           "id": "d5-ex2a-04",
           "no": 4,
-          "audio": "/assets/day-5/audio/exercise-2/a-03-02/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/a-03-02/04.mp3",
           "image": null,
           "question": "Q: _____ did you _____ from? A: The _____.",
           "answer": null,
@@ -853,13 +853,13 @@
       ],
       "mode": "choice",
       "hasKey": true,
-      "fullAudio": "/assets/day-5/audio/exercise-2/B - 03_03.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/B%20-%2003_03.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex2b-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-2/b-03-03/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/b-03-03/01.mp3",
           "image": null,
           "question": "_____ the news first?",
           "options": {
@@ -887,7 +887,7 @@
         {
           "id": "d5-ex2b-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-2/b-03-03/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-2/b-03-03/02.mp3",
           "image": null,
           "question": "_____ did you decide to _____?",
           "options": {
@@ -927,13 +927,13 @@
       ],
       "mode": "dictation",
       "hasKey": false,
-      "fullAudio": "/assets/day-5/audio/exercise-3/A - 04_02.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/A%20-%2004_02.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex3a-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-3/a-04-02/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/a-04-02/01.mp3",
           "image": null,
           "question": "Q: _____ do you _____ leave? A: _____.",
           "answer": null,
@@ -951,7 +951,7 @@
         {
           "id": "d5-ex3a-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-3/a-04-02/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/a-04-02/02.mp3",
           "image": null,
           "question": "Q: _____ you _____ the laundry? A: _____.",
           "answer": null,
@@ -969,7 +969,7 @@
         {
           "id": "d5-ex3a-03",
           "no": 3,
-          "audio": "/assets/day-5/audio/exercise-3/a-04-02/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/a-04-02/03.mp3",
           "image": null,
           "question": "Q: When do we _____ the supplier? A: After the _____ the purchase.",
           "answer": null,
@@ -987,7 +987,7 @@
         {
           "id": "d5-ex3a-04",
           "no": 4,
-          "audio": "/assets/day-5/audio/exercise-3/a-04-02/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/a-04-02/04.mp3",
           "image": null,
           "question": "Q: _____ do you think Jennifer _____? A: _____ this Saturday.",
           "answer": null,
@@ -1017,13 +1017,13 @@
       ],
       "mode": "choice",
       "hasKey": true,
-      "fullAudio": "/assets/day-5/audio/exercise-3/B - 04_03.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/B%20-%2004_03.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex3b-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-3/b-04-03/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/b-04-03/01.mp3",
           "image": null,
           "question": "_____ is the _____?",
           "options": {
@@ -1051,7 +1051,7 @@
         {
           "id": "d5-ex3b-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-3/b-04-03/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-3/b-04-03/02.mp3",
           "image": null,
           "question": "_____ do you think you can _____ _____?",
           "options": {
@@ -1091,13 +1091,13 @@
       ],
       "mode": "dictation",
       "hasKey": false,
-      "fullAudio": "/assets/day-5/audio/exercise-4/A - 04_05.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/A%20-%2004_05.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex4a-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-4/a-04-05/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/a-04-05/01.mp3",
           "image": null,
           "question": "Q: _____ I _____ for more information? A: Go to the _____.",
           "answer": null,
@@ -1115,7 +1115,7 @@
         {
           "id": "d5-ex4a-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-4/a-04-05/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/a-04-05/02.mp3",
           "image": null,
           "question": "Q: _____ you _____ to stay? A: I _____ near here.",
           "answer": null,
@@ -1133,7 +1133,7 @@
         {
           "id": "d5-ex4a-03",
           "no": 3,
-          "audio": "/assets/day-5/audio/exercise-4/a-04-05/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/a-04-05/03.mp3",
           "image": null,
           "question": "Q: _____ Mr. Hampton _____? A: He is _____ Boston _____.",
           "answer": null,
@@ -1151,7 +1151,7 @@
         {
           "id": "d5-ex4a-04",
           "no": 4,
-          "audio": "/assets/day-5/audio/exercise-4/a-04-05/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/a-04-05/04.mp3",
           "image": null,
           "question": "Q: _____ the brochure? A: Tom _____.",
           "answer": null,
@@ -1181,13 +1181,13 @@
       ],
       "mode": "choice",
       "hasKey": true,
-      "fullAudio": "/assets/day-5/audio/exercise-4/B - 04_06.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/B%20-%2004_06.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d5-ex4b-01",
           "no": 1,
-          "audio": "/assets/day-5/audio/exercise-4/b-04-06/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/b-04-06/01.mp3",
           "image": null,
           "question": "_____ I _____ this printer?",
           "options": {
@@ -1215,7 +1215,7 @@
         {
           "id": "d5-ex4b-02",
           "no": 2,
-          "audio": "/assets/day-5/audio/exercise-4/b-04-06/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-5/audio/exercise-4/b-04-06/02.mp3",
           "image": null,
           "question": "_____ are we _____?",
           "options": {

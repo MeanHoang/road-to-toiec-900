@@ -16,8 +16,8 @@
         {
           "id": "d2-p31-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/practice-file-3-1/1.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p02-1.jpg",
           "answer": null,
           "transcript": "Unit 3. A small table has been placed in the corner of a room. A chest of drawers is against a wall. A picture has been hung near a lamp.",
           "transcriptVi": null,
@@ -43,8 +43,8 @@
         {
           "id": "d2-p31-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/practice-file-3-1/2.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p02-2.jpg",
           "answer": null,
           "transcript": "The house is reflected in the water. A tree has been planted near the water. The house has a pointed roof.",
           "transcriptVi": null,
@@ -70,8 +70,8 @@
         {
           "id": "d2-p31-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/practice-file-3-1/3.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p02-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p02-3.jpg",
           "answer": null,
           "transcript": "There are buildings along the shore. Some buildings are larger than others. Skyscrapers overlook the water.",
           "transcriptVi": null,
@@ -97,8 +97,8 @@
         {
           "id": "d2-p31-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/practice-file-3-1/4.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p03-1.jpg",
           "answer": null,
           "transcript": "Tables and chairs are set up outdoors. Some chairs have been placed around the tables. There are umbrellas at some of the tables.",
           "transcriptVi": null,
@@ -124,8 +124,8 @@
         {
           "id": "d2-p31-05",
           "no": 5,
-          "audio": "/assets/day-2/audio/practice-file-3-1/5.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p03-2.jpg",
           "answer": null,
           "transcript": "Some cars are parked along the street. A building is covered with vines. Windows face a city street.",
           "transcriptVi": null,
@@ -151,8 +151,8 @@
         {
           "id": "d2-p31-06",
           "no": 6,
-          "audio": "/assets/day-2/audio/practice-file-3-1/6.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p03-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-1/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p03-3.jpg",
           "answer": null,
           "transcript": "Some jackets are on display in a store. Some merchandise has been hung outside the store. Some clothes have been piled into baskets.",
           "transcriptVi": null,
@@ -191,8 +191,8 @@
         {
           "id": "d2-p32-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/practice-file-3-2/1.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-2/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p04-1.jpg",
           "answer": null,
           "lines": [
             "A. The _________ is _________ ________ a bridge.",
@@ -214,8 +214,8 @@
         {
           "id": "d2-p32-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/practice-file-3-2/2.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-2/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p04-2.jpg",
           "answer": null,
           "lines": [
             "A. Some ________ are on _________ in a ________.",
@@ -237,8 +237,8 @@
         {
           "id": "d2-p32-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/practice-file-3-2/3.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-2/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p04-3.jpg",
           "answer": null,
           "lines": [
             "A. The _________ has been _________ on the _________.",
@@ -264,8 +264,8 @@
         {
           "id": "d2-p32-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/practice-file-3-2/4.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p04-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-3-2/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p04-4.jpg",
           "answer": null,
           "lines": [
             "A. The __________ is __________ by a ___________ tree.",
@@ -303,8 +303,8 @@
         {
           "id": "d2-p41-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/practice-file-4-1/1.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p05-1.jpg",
           "answer": null,
           "transcript": "Unit 4. A woman is standing with her arms crossed. Some paintings have been hung on the walls. A sculpture has been positioned in the middle of the room.",
           "transcriptVi": null,
@@ -331,8 +331,8 @@
         {
           "id": "d2-p41-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/practice-file-4-1/2.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p05-2.jpg",
           "answer": null,
           "transcript": "People are browsing in a bookstore. The shelves are filled with books. Some books are displayed against a wall.",
           "transcriptVi": null,
@@ -358,8 +358,8 @@
         {
           "id": "d2-p41-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/practice-file-4-1/3.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p05-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p05-3.jpg",
           "answer": null,
           "transcript": "A man is riding a bicycle. A cyclist is heading towards some trees. A path winds through some trees.",
           "transcriptVi": null,
@@ -385,8 +385,8 @@
         {
           "id": "d2-p41-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/practice-file-4-1/4.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p06-1.jpg",
           "answer": null,
           "transcript": "A pedestrian is crossing the street. A man is in the middle of the street. Different kinds of vehicles are sharing the road.",
           "transcriptVi": null,
@@ -412,8 +412,8 @@
         {
           "id": "d2-p41-05",
           "no": 5,
-          "audio": "/assets/day-2/audio/practice-file-4-1/5.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p06-2.jpg",
           "answer": null,
           "transcript": "The workers are building a house. A house is being constructed. Some ladders are leaning against a building.",
           "transcriptVi": null,
@@ -439,8 +439,8 @@
         {
           "id": "d2-p41-06",
           "no": 6,
-          "audio": "/assets/day-2/audio/practice-file-4-1/6.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p06-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-1/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p06-3.jpg",
           "answer": null,
           "transcript": "A man is reaching for the box at the top. One man is bending over a box. Some boxes have been stacked several rows high.",
           "transcriptVi": null,
@@ -478,8 +478,8 @@
         {
           "id": "d2-p42-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/practice-file-4-2/1.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-1a.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p07-1a.jpg",
           "answer": null,
           "lines": [
             "__________ kinds of __________ are __________ the road."
@@ -497,8 +497,8 @@
         {
           "id": "d2-p42-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/practice-file-4-2/2.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-1b.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p07-1b.jpg",
           "answer": null,
           "lines": [
             "The publications are __________ __________ a __________."
@@ -516,8 +516,8 @@
         {
           "id": "d2-p42-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/practice-file-4-2/3.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-2a.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p07-2a.jpg",
           "answer": null,
           "lines": [
             "A. A series of __________ has been __________ on the __________.",
@@ -539,8 +539,8 @@
         {
           "id": "d2-p42-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/practice-file-4-2/4.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p07-2b.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p07-2b.jpg",
           "answer": null,
           "lines": [
             "A. __________ are __________ the __________.",
@@ -562,8 +562,8 @@
         {
           "id": "d2-p42-05",
           "no": 5,
-          "audio": "/assets/day-2/audio/practice-file-4-2/5.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p08-1.jpg",
           "answer": null,
           "lines": [
             "A. They’re ______________ the ___________.",
@@ -589,8 +589,8 @@
         {
           "id": "d2-p42-06",
           "no": 6,
-          "audio": "/assets/day-2/audio/practice-file-4-2/6.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p08-2.jpg",
           "answer": null,
           "lines": [
             "A. The man is ___________ a _____________.",
@@ -616,8 +616,8 @@
         {
           "id": "d2-p42-07",
           "no": 7,
-          "audio": "/assets/day-2/audio/practice-file-4-2/7.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p08-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/practice-file-4-2/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p08-3.jpg",
           "answer": null,
           "lines": [
             "A. There are ______ on ______ sides of the _______.",
@@ -650,13 +650,13 @@
       "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
       "mode": "choice",
       "hasKey": true,
-      "fullAudio": "/assets/day-2/audio/homework-homework-1/0 - Full - HOMEWORK 1.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/0%20-%20Full%20-%20HOMEWORK%201.mp3",
       "questions": [
         {
           "id": "d2-hw1-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/homework-homework-1/1.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p09-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p09-1.jpg",
           "answer": "D",
           "lines": [
             "A. The __________ are being _______________.",
@@ -682,8 +682,8 @@
         {
           "id": "d2-hw1-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/homework-homework-1/2.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p09-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p09-2.jpg",
           "answer": "B",
           "lines": [
             "A. They’re ___________ in line ___________.",
@@ -709,8 +709,8 @@
         {
           "id": "d2-hw1-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/homework-homework-1/3.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p10-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p10-1.jpg",
           "answer": "A",
           "lines": [
             "A. A man is ______________ from the _____________.",
@@ -736,8 +736,8 @@
         {
           "id": "d2-hw1-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/homework-homework-1/4.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p10-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p10-2.jpg",
           "answer": "C",
           "lines": [
             "A. The woman has __________________________.",
@@ -763,8 +763,8 @@
         {
           "id": "d2-hw1-05",
           "no": 5,
-          "audio": "/assets/day-2/audio/homework-homework-1/5.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p11-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p11-1.jpg",
           "answer": "D",
           "lines": [
             "A. There’s a chair __________________________.",
@@ -790,8 +790,8 @@
         {
           "id": "d2-hw1-06",
           "no": 6,
-          "audio": "/assets/day-2/audio/homework-homework-1/6.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p11-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p11-2.jpg",
           "answer": "C",
           "lines": [
             "A. The ___________ are being ________________.",
@@ -817,8 +817,8 @@
         {
           "id": "d2-hw1-07",
           "no": 7,
-          "audio": "/assets/day-2/audio/homework-homework-1/7.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p12-12.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p12-12.jpg",
           "answer": "D",
           "lines": [
             "A. The man is ________________ some ___________.",
@@ -844,8 +844,8 @@
         {
           "id": "d2-hw1-08",
           "no": 8,
-          "audio": "/assets/day-2/audio/homework-homework-1/8.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p12-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p12-3.jpg",
           "answer": "B",
           "lines": [
             "A. She’s ___________ some ____________ together.",
@@ -871,8 +871,8 @@
         {
           "id": "d2-hw1-09",
           "no": 9,
-          "audio": "/assets/day-2/audio/homework-homework-1/9.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p13-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p13-1.jpg",
           "answer": "A",
           "lines": [
             "A. The taller ______ is propped up against the _______.",
@@ -898,8 +898,8 @@
         {
           "id": "d2-hw1-10",
           "no": 10,
-          "audio": "/assets/day-2/audio/homework-homework-1/10.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p13-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-1/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p13-2.jpg",
           "answer": "B",
           "lines": [
             "A. The _______ is setting up some ______ at each table.",
@@ -932,13 +932,13 @@
       "subtitle": "Nghe 1 lần chọn đáp án, nghe lại điền chỗ trống",
       "mode": "choice",
       "hasKey": true,
-      "fullAudio": "/assets/day-2/audio/homework-homework-2/Test03 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03%20-%20full.mp3",
       "questions": [
         {
           "id": "d2-hw2-01",
           "no": 1,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_01.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p15-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p15-1.jpg",
           "answer": "B",
           "lines": [
             "A. He’s _______________ a briefcase.",
@@ -964,8 +964,8 @@
         {
           "id": "d2-hw2-02",
           "no": 2,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_02.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p15-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p15-2.jpg",
           "answer": "A",
           "lines": [
             "A. The man is ____________________ of paper.",
@@ -991,8 +991,8 @@
         {
           "id": "d2-hw2-03",
           "no": 3,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_03.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p16-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p16-1.jpg",
           "answer": "D",
           "lines": [
             "A. She’s ______________________________.",
@@ -1018,8 +1018,8 @@
         {
           "id": "d2-hw2-04",
           "no": 4,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_04.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p16-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p16-2.jpg",
           "answer": "C",
           "lines": [
             "A. They’re _____________________________.",
@@ -1045,8 +1045,8 @@
         {
           "id": "d2-hw2-05",
           "no": 5,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_05.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p17-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p17-1.jpg",
           "answer": "B",
           "lines": [
             "A. The people are ______________________.",
@@ -1072,8 +1072,8 @@
         {
           "id": "d2-hw2-06",
           "no": 6,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_06.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p17-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p17-2.jpg",
           "answer": "D",
           "lines": [
             "A. A man is __________________________.",
@@ -1099,8 +1099,8 @@
         {
           "id": "d2-hw2-07",
           "no": 7,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_07.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p18-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_07.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p18-1.jpg",
           "answer": "D",
           "lines": [
             "A. The man is _________________________.",
@@ -1126,8 +1126,8 @@
         {
           "id": "d2-hw2-08",
           "no": 8,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_08.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p18-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_08.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p18-2.jpg",
           "answer": "B",
           "lines": [
             "A. The woman’s hand ___________________.",
@@ -1153,8 +1153,8 @@
         {
           "id": "d2-hw2-09",
           "no": 9,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_09.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p19-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_09.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p19-1.jpg",
           "answer": "C",
           "lines": [
             "A. He’s ______________________________.",
@@ -1180,8 +1180,8 @@
         {
           "id": "d2-hw2-10",
           "no": 10,
-          "audio": "/assets/day-2/audio/homework-homework-2/Test03_10.mp3",
-          "image": "/assets/day-2/images/day-2-t-i-li-u/p19-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/audio/homework-homework-2/Test03_10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-2/images/day-2-t-i-li-u/p19-2.jpg",
           "answer": "C",
           "lines": [
             "A. The woman is _______________________.",

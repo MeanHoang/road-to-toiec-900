@@ -13,11 +13,11 @@
 // source 'whisper' = bản nháp chờ người soát, KHÔNG phải đáp án chính thức.
 
 import { readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
-import { existsSync } from 'node:fs';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
+import { getLocalMediaFilePath } from './lib/media.mjs';
 
 const run = promisify(execFile);
 const ROOT = path.resolve(import.meta.dirname, '..');
@@ -115,8 +115,9 @@ async function main() {
       for (const q of set.questions) {
         if (q.transcript && !force) continue;
 
-        const mp3 = path.join(ROOT, 'public', q.audio.replace(/^\//, ''));
-        if (!existsSync(mp3)) {
+        // Staged in public/assets, or downloaded from the CDN into .cache/media.
+        const mp3 = await getLocalMediaFilePath(q.audio);
+        if (!mp3) {
           console.log(`  ✖ ${q.id}: không thấy file ${q.audio}`);
           failed++;
           continue;

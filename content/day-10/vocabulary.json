@@ -14,7 +14,7 @@
         "us": "/ˈrezəmeɪ/"
       },
       "meaningVi": "sơ yếu lý lịch",
-      "image": "/assets/day-10/images/vocabulary/v01.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v01.jpg",
       "example": {
         "en": "You can post your résumé on the website free of charge."
       },
@@ -28,8 +28,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v01-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v01-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v01-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v01-uk.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "us": "/prəˈfeʃənl/"
       },
       "meaningVi": "chuyên gia; người chuyên nghiệp",
-      "image": "/assets/day-10/images/vocabulary/v02.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v02.jpg",
       "example": {
         "en": "Our officers are all highly trained professionals."
       },
@@ -56,8 +56,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v02-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v02-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v02-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v02-uk.mp3"
       }
     },
     {
@@ -70,7 +70,7 @@
         "us": "/ˈɪntəvjuː/"
       },
       "meaningVi": "cuộc phỏng vấn; phỏng vấn",
-      "image": "/assets/day-10/images/vocabulary/v03.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v03.jpg",
       "example": {
         "en": "The questions are the central point of the whole interview procedure and should be planned in advance."
       },
@@ -84,8 +84,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v03-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v03-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v03-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v03-uk.mp3"
       }
     },
     {
@@ -98,7 +98,7 @@
         "us": "/əˈtʃiːvmənt/"
       },
       "meaningVi": "thành tựu; thành tích",
-      "image": "/assets/day-10/images/vocabulary/v04.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v04.jpg",
       "example": {
         "en": "She was given a prize for her achievements in textile design."
       },
@@ -112,8 +112,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v04-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v04-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v04-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v04-uk.mp3"
       }
     },
     {
@@ -126,7 +126,7 @@
         "us": "/ˈelɪdʒəbl/"
       },
       "meaningVi": "đủ điều kiện; đủ tư cách",
-      "image": "/assets/day-10/images/vocabulary/v05.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v05.jpg",
       "example": {
         "en": "Only those over 70 are eligible for the special payment."
       },
@@ -140,8 +140,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v05-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v05-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v05-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v05-uk.mp3"
       }
     },
     {
@@ -154,7 +154,7 @@
         "us": "/əˈsəʊsieɪtɪd wɪð/"
       },
       "meaningVi": "liên quan đến; kết hợp với",
-      "image": "/assets/day-10/images/vocabulary/v06.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v06.jpg",
       "example": {
         "en": "The conference will address the issues associated with E-commerce."
       },
@@ -168,8 +168,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v06-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v06-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v06-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v06-uk.mp3"
       }
     },
     {
@@ -182,7 +182,7 @@
         "us": "/prəˈfɪʃnt/"
       },
       "meaningVi": "thành thạo",
-      "image": "/assets/day-10/images/vocabulary/v07.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v07.jpg",
       "example": {
         "en": "With practice, you should become proficient within six months."
       },
@@ -196,8 +196,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v07-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v07-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v07-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v07-uk.mp3"
       }
     },
     {
@@ -210,7 +210,7 @@
         "us": "/ˈspeʃəlaɪz/"
       },
       "meaningVi": "chuyên về",
-      "image": "/assets/day-10/images/vocabulary/v08.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v08.jpg",
       "example": {
         "en": "Most designers in the company specialize in women’s apparel."
       },
@@ -224,8 +224,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v08-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v08-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v08-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v08-uk.mp3"
       }
     },
     {
@@ -238,7 +238,7 @@
         "us": "/ˌɒkjuˈpeɪʃn/"
       },
       "meaningVi": "nghề nghiệp",
-      "image": "/assets/day-10/images/vocabulary/v09.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v09.jpg",
       "example": {
         "en": "He gave up his occupation as a farmer and became a teacher."
       },
@@ -252,8 +252,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v09-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v09-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v09-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v09-uk.mp3"
       }
     },
     {
@@ -266,7 +266,7 @@
         "us": "/weɪdʒ/"
       },
       "meaningVi": "tiền lương; tiền thù lao",
-      "image": "/assets/day-10/images/vocabulary/v10.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v10.jpg",
       "example": {
         "en": "He earned a good wage at the convenience store."
       },
@@ -280,8 +280,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v10-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v10-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v10-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v10-uk.mp3"
       }
     },
     {
@@ -294,7 +294,7 @@
         "us": "/rɪˈkruːt/"
       },
       "meaningVi": "tuyển dụng",
-      "image": "/assets/day-10/images/vocabulary/v11.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v11.jpg",
       "example": {
         "en": "Peter Watson has been recruited as Sales Manager."
       },
@@ -308,8 +308,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v11-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v11-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v11-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v11-uk.mp3"
       }
     },
     {
@@ -322,7 +322,7 @@
         "us": "/prəˈspektɪv/"
       },
       "meaningVi": "tiềm năng; có triển vọng",
-      "image": "/assets/day-10/images/vocabulary/v12.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v12.jpg",
       "example": {
         "en": "I had a phone call from a prospective client today."
       },
@@ -336,8 +336,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v12-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v12-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v12-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v12-uk.mp3"
       }
     },
     {
@@ -350,7 +350,7 @@
         "us": "/ˈdɪlɪdʒəntli/"
       },
       "meaningVi": "siêng năng; cần mẫn",
-      "image": "/assets/day-10/images/vocabulary/v13.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v13.jpg",
       "example": {
         "en": "They worked diligently on the task they had been given."
       },
@@ -364,8 +364,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v13-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v13-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v13-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v13-uk.mp3"
       }
     },
     {
@@ -378,7 +378,7 @@
         "us": "/ˈtreɪnɪŋ/"
       },
       "meaningVi": "đào tạo; huấn luyện",
-      "image": "/assets/day-10/images/vocabulary/v14.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v14.jpg",
       "example": {
         "en": "Various training activities will take place throughout the weekend."
       },
@@ -392,8 +392,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v14-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v14-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v14-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v14-uk.mp3"
       }
     },
     {
@@ -406,7 +406,7 @@
         "us": "/ˈrefrəns/"
       },
       "meaningVi": "sự tham khảo; tài liệu tham khảo",
-      "image": "/assets/day-10/images/vocabulary/v15.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v15.jpg",
       "example": {
         "en": "Retain a copy of the form for future reference."
       },
@@ -420,8 +420,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v15-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v15-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v15-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v15-uk.mp3"
       }
     },
     {
@@ -434,7 +434,7 @@
         "us": "/əˈpɔɪntmənt/"
       },
       "meaningVi": "cuộc hẹn; sự bổ nhiệm",
-      "image": "/assets/day-10/images/vocabulary/v16.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v16.jpg",
       "example": {
         "en": "The board has confirmed the appointment of Howard Kendall as Sales Manager."
       },
@@ -448,8 +448,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v16-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v16-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v16-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v16-uk.mp3"
       }
     },
     {
@@ -462,7 +462,7 @@
         "us": "/ˈwɜːkɪŋ kənˈdɪʃn/"
       },
       "meaningVi": "điều kiện làm việc",
-      "image": "/assets/day-10/images/vocabulary/v17.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v17.jpg",
       "example": {
         "en": "Working conditions are the demands, environment and terms of a job that influence the satisfaction of employees."
       },
@@ -476,8 +476,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v17-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v17-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v17-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v17-uk.mp3"
       }
     },
     {
@@ -490,7 +490,7 @@
         "us": "/məˈtɜːnəti liːv/"
       },
       "meaningVi": "nghỉ thai sản",
-      "image": "/assets/day-10/images/vocabulary/v18.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v18.jpg",
       "example": {
         "en": "Elizabeth is now on maternity leave."
       },
@@ -504,8 +504,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v18-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v18-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v18-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v18-uk.mp3"
       }
     },
     {
@@ -518,7 +518,7 @@
         "us": "/ˈpeɪrəʊl/"
       },
       "meaningVi": "bảng lương; tổng quỹ lương",
-      "image": "/assets/day-10/images/vocabulary/v19.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v19.jpg",
       "example": {
         "en": "The firm is growing fast with a monthly payroll of $1 million."
       },
@@ -532,8 +532,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v19-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v19-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v19-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v19-uk.mp3"
       }
     },
     {
@@ -546,7 +546,7 @@
         "us": "/dɪˈɡriː/"
       },
       "meaningVi": "bằng cấp",
-      "image": "/assets/day-10/images/vocabulary/v20.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v20.jpg",
       "example": {
         "en": "Candidates must hold a professional degree in architecture."
       },
@@ -560,8 +560,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v20-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v20-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v20-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v20-uk.mp3"
       }
     },
     {
@@ -574,7 +574,7 @@
         "us": "/rɪˈzaɪn/"
       },
       "meaningVi": "từ chức; xin thôi việc",
-      "image": "/assets/day-10/images/vocabulary/v21.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v21.jpg",
       "example": {
         "en": "He resigned as manager after eight years."
       },
@@ -588,8 +588,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v21-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v21-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v21-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v21-uk.mp3"
       }
     },
     {
@@ -602,7 +602,7 @@
         "us": "/dɪsˈmɪs/"
       },
       "meaningVi": "sa thải; gạt bỏ",
-      "image": "/assets/day-10/images/vocabulary/v22.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v22.jpg",
       "example": {
         "en": "He was summarily dismissed from his job."
       },
@@ -616,8 +616,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v22-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v22-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v22-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v22-uk.mp3"
       }
     },
     {
@@ -630,7 +630,7 @@
         "us": "/ʃɪft/"
       },
       "meaningVi": "ca làm việc",
-      "image": "/assets/day-10/images/vocabulary/v23.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v23.jpg",
       "example": {
         "en": "He works the night shift."
       },
@@ -644,8 +644,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v23-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v23-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v23-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v23-uk.mp3"
       }
     },
     {
@@ -658,7 +658,7 @@
         "us": "/ˈfleksəbl/"
       },
       "meaningVi": "linh hoạt",
-      "image": "/assets/day-10/images/vocabulary/v24.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/images/vocabulary/v24.jpg",
       "example": {
         "en": "We can offer you flexible working hours."
       },
@@ -672,8 +672,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v24-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v24-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v24-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v24-uk.mp3"
       }
     },
     {
@@ -699,8 +699,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v25-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v25-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v25-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v25-uk.mp3"
       }
     },
     {
@@ -726,8 +726,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v26-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v26-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v26-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v26-uk.mp3"
       }
     },
     {
@@ -753,8 +753,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v27-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v27-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v27-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v27-uk.mp3"
       }
     },
     {
@@ -780,8 +780,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v28-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v28-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v28-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v28-uk.mp3"
       }
     },
     {
@@ -807,8 +807,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v29-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v29-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v29-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v29-uk.mp3"
       }
     },
     {
@@ -834,8 +834,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v30-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v30-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v30-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v30-uk.mp3"
       }
     },
     {
@@ -861,8 +861,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v31-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v31-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v31-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v31-uk.mp3"
       }
     },
     {
@@ -888,8 +888,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v32-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v32-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v32-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v32-uk.mp3"
       }
     },
     {
@@ -915,8 +915,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v33-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v33-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v33-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v33-uk.mp3"
       }
     },
     {
@@ -942,8 +942,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v34-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v34-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v34-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v34-uk.mp3"
       }
     },
     {
@@ -969,8 +969,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v35-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v35-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v35-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v35-uk.mp3"
       }
     },
     {
@@ -996,8 +996,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v36-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v36-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v36-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v36-uk.mp3"
       }
     },
     {
@@ -1023,8 +1023,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v37-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v37-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v37-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v37-uk.mp3"
       }
     },
     {
@@ -1050,8 +1050,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v38-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v38-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v38-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v38-uk.mp3"
       }
     },
     {
@@ -1077,8 +1077,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v39-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v39-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v39-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v39-uk.mp3"
       }
     },
     {
@@ -1104,8 +1104,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v40-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v40-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v40-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v40-uk.mp3"
       }
     },
     {
@@ -1131,8 +1131,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v41-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v41-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v41-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v41-uk.mp3"
       }
     },
     {
@@ -1158,8 +1158,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v42-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v42-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v42-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v42-uk.mp3"
       }
     },
     {
@@ -1185,8 +1185,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v43-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v43-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v43-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v43-uk.mp3"
       }
     },
     {
@@ -1212,8 +1212,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v44-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v44-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v44-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v44-uk.mp3"
       }
     },
     {
@@ -1239,8 +1239,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v45-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v45-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v45-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v45-uk.mp3"
       }
     },
     {
@@ -1266,8 +1266,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v46-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v46-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v46-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v46-uk.mp3"
       }
     },
     {
@@ -1293,8 +1293,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v47-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v47-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v47-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v47-uk.mp3"
       }
     },
     {
@@ -1320,8 +1320,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v48-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v48-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v48-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v48-uk.mp3"
       }
     },
     {
@@ -1347,8 +1347,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v49-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v49-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v49-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v49-uk.mp3"
       }
     },
     {
@@ -1374,8 +1374,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v50-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v50-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v50-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v50-uk.mp3"
       }
     },
     {
@@ -1401,8 +1401,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v51-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v51-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v51-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v51-uk.mp3"
       }
     },
     {
@@ -1428,8 +1428,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v52-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v52-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v52-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v52-uk.mp3"
       }
     },
     {
@@ -1455,8 +1455,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v53-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v53-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v53-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v53-uk.mp3"
       }
     },
     {
@@ -1482,8 +1482,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v54-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v54-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v54-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v54-uk.mp3"
       }
     },
     {
@@ -1509,8 +1509,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v55-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v55-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v55-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v55-uk.mp3"
       }
     },
     {
@@ -1536,8 +1536,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v56-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v56-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v56-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v56-uk.mp3"
       }
     },
     {
@@ -1563,8 +1563,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v57-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v57-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v57-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v57-uk.mp3"
       }
     },
     {
@@ -1590,8 +1590,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v58-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v58-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v58-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v58-uk.mp3"
       }
     },
     {
@@ -1617,8 +1617,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v59-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v59-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v59-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v59-uk.mp3"
       }
     },
     {
@@ -1644,8 +1644,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v60-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v60-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v60-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v60-uk.mp3"
       }
     },
     {
@@ -1671,8 +1671,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v61-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v61-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v61-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v61-uk.mp3"
       }
     },
     {
@@ -1699,8 +1699,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v62-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v62-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v62-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v62-uk.mp3"
       }
     },
     {
@@ -1727,8 +1727,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v63-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v63-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v63-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v63-uk.mp3"
       }
     },
     {
@@ -1755,8 +1755,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v64-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v64-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v64-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v64-uk.mp3"
       }
     },
     {
@@ -1783,8 +1783,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v65-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v65-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v65-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v65-uk.mp3"
       }
     },
     {
@@ -1811,8 +1811,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v66-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v66-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v66-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v66-uk.mp3"
       }
     },
     {
@@ -1839,8 +1839,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v67-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v67-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v67-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v67-uk.mp3"
       }
     },
     {
@@ -1867,8 +1867,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v68-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v68-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v68-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v68-uk.mp3"
       }
     },
     {
@@ -1895,8 +1895,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v69-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v69-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v69-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v69-uk.mp3"
       }
     },
     {
@@ -1923,8 +1923,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v70-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v70-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v70-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v70-uk.mp3"
       }
     },
     {
@@ -1951,8 +1951,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v71-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v71-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v71-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v71-uk.mp3"
       }
     },
     {
@@ -1979,8 +1979,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v72-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v72-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v72-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v72-uk.mp3"
       }
     },
     {
@@ -2007,8 +2007,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v73-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v73-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v73-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v73-uk.mp3"
       }
     },
     {
@@ -2035,8 +2035,8 @@
       },
       "sourceUrl": "https://quizlet.com/vn/1005400765/day-1-p7-flash-cards/",
       "voice": {
-        "us": "/assets/day-10/voice-neural/d10-v74-us.mp3",
-        "uk": "/assets/day-10/voice-neural/d10-v74-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v74-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-10/voice-neural/d10-v74-uk.mp3"
       }
     }
   ],

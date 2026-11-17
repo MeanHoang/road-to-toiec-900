@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
-import { existsSync, readFileSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { lessonPhases, phaseOf } from '../features/lesson/phases.js';
 import { hasPhoto } from '../features/listening/rules.js';
+import { mediaChecker } from './lib/media.mjs';
+
+const hasMedia = await mediaChecker();
 
 const read = (path) => JSON.parse(readFileSync(path, 'utf8'));
 const days = read('content/days.json').days.map((slug) => read(`content/${slug}/day.json`));
@@ -38,7 +41,7 @@ for (const set of listening) {
     }
   }
 }
-for (const asset of assets) assert.ok(existsSync(`public${asset}`), `Missing asset ${asset}`);
+for (const asset of assets) assert.ok(hasMedia(asset), `Missing asset ${asset}`);
 assert.equal([...assets].filter((asset) => asset.endsWith('.mp3')).length, 50);
 assert.equal([...assets].filter((asset) => asset.endsWith('.jpg')).length, 54);
 for (const question of exercises.flatMap((set) => set.questions)) {
@@ -57,21 +60,21 @@ assert.equal(new Set(nextVocab.map((word) => word.word.toLowerCase())).size, nex
 for (const word of nextVocab) {
   for (const accent of ['uk', 'us']) {
     assert.ok(word.ipa[accent], `${word.id}: missing ${accent} pronunciation`);
-    assert.ok(existsSync(`public${word.voice[accent]}`), `${word.id}: missing ${accent} recording`);
+    assert.ok(hasMedia(word.voice[accent]), `${word.id}: missing ${accent} recording`);
   }
 }
 assert.equal(nextListening.flatMap((set) => set.questions).length, 47);
 assert.equal(nextListening.filter(hasPhoto).flatMap((set) => set.questions).length, 30);
 for (const set of nextListening) {
   assert.equal(set.hasKey, false, 'Previous homework keys must not become new official answers');
-  if (set.fullAudio) assert.ok(existsSync(`public${set.fullAudio}`));
+  if (set.fullAudio) assert.ok(hasMedia(set.fullAudio));
   for (const question of set.questions) {
     assert.equal(question.answer, null);
     assert.ok(question.transcript && !question.transcript.raw);
     assert.equal(question.source.transcript, 'whisper');
-    assert.ok(existsSync(`public${question.audio}`));
+    assert.ok(hasMedia(question.audio));
     if (hasPhoto(set)) {
-      assert.ok(existsSync(`public${question.image}`));
+      assert.ok(hasMedia(question.image));
       assert.deepEqual(Object.keys(question.transcript), ['A', 'B', 'C', 'D']);
     }
   }

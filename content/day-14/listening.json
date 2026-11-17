@@ -19,14 +19,14 @@
       "mode": "dictation",
       "hasKey": true,
       "showPhoto": true,
-      "fullAudio": "/assets/day-14/audio/part 1.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/part%201.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d14-photos-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/photos/01.mp3",
-          "image": "/assets/day-14/images/photos/01.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/01.jpg",
           "answer": "D",
           "transcript": {
             "A": "He is reading a book.",
@@ -45,8 +45,8 @@
         {
           "id": "d14-photos-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/photos/02.mp3",
-          "image": "/assets/day-14/images/photos/02.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/02.jpg",
           "answer": "A",
           "transcript": {
             "A": "People are walking up some steps.",
@@ -65,8 +65,8 @@
         {
           "id": "d14-photos-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/photos/03.mp3",
-          "image": "/assets/day-14/images/photos/03.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/03.jpg",
           "answer": "B",
           "transcript": {
             "A": "They are discarding some trash.",
@@ -85,8 +85,8 @@
         {
           "id": "d14-photos-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/photos/04.mp3",
-          "image": "/assets/day-14/images/photos/04.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/04.jpg",
           "answer": "A",
           "transcript": {
             "A": "Some people are talking in groups.",
@@ -105,8 +105,8 @@
         {
           "id": "d14-photos-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/photos/05.mp3",
-          "image": "/assets/day-14/images/photos/05.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/05.jpg",
           "answer": "C",
           "transcript": {
             "A": "The man is swimming in the water.",
@@ -125,8 +125,8 @@
         {
           "id": "d14-photos-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/photos/06.mp3",
-          "image": "/assets/day-14/images/photos/06.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/06.jpg",
           "answer": "C",
           "transcript": {
             "A": "A map is posted on the bulletin board.",
@@ -145,8 +145,8 @@
         {
           "id": "d14-photos-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/photos/07.mp3",
-          "image": "/assets/day-14/images/photos/07.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/07.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/07.jpg",
           "answer": "D",
           "transcript": {
             "A": "The man is looking at the computer.",
@@ -165,8 +165,8 @@
         {
           "id": "d14-photos-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/photos/08.mp3",
-          "image": "/assets/day-14/images/photos/08.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/08.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/08.jpg",
           "answer": "C",
           "transcript": {
             "A": "The clothing has drawn a woman's attention.",
@@ -185,8 +185,8 @@
         {
           "id": "d14-photos-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/photos/09.mp3",
-          "image": "/assets/day-14/images/photos/09.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/09.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/09.jpg",
           "answer": "C",
           "transcript": {
             "A": "Some pedestrians are waiting at the crosswalk.",
@@ -205,8 +205,8 @@
         {
           "id": "d14-photos-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/photos/10.mp3",
-          "image": "/assets/day-14/images/photos/10.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/photos/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/images/photos/10.jpg",
           "answer": "A",
           "transcript": {
             "A": "Paint is being applied to the wall.",
@@ -242,7 +242,7 @@
         {
           "id": "d14-who-e-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/who-e/n1e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n1e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -261,7 +261,7 @@
         {
           "id": "d14-who-e-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/who-e/n2e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n2e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -280,7 +280,7 @@
         {
           "id": "d14-who-e-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/who-e/n3e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n3e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -299,7 +299,7 @@
         {
           "id": "d14-who-e-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/who-e/n4e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n4e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -318,7 +318,7 @@
         {
           "id": "d14-who-e-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/who-e/n5e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n5e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -337,7 +337,7 @@
         {
           "id": "d14-who-e-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/who-e/n6e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n6e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -356,7 +356,7 @@
         {
           "id": "d14-who-e-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/who-e/n7e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n7e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -375,7 +375,7 @@
         {
           "id": "d14-who-e-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/who-e/n8e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n8e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -394,7 +394,7 @@
         {
           "id": "d14-who-e-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/who-e/n9e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n9e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -413,7 +413,7 @@
         {
           "id": "d14-who-e-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/who-e/n10e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-e/n10e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -450,7 +450,7 @@
         {
           "id": "d14-who-f-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/who-f/n1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n1.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -469,7 +469,7 @@
         {
           "id": "d14-who-f-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/who-f/n2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n2.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -488,7 +488,7 @@
         {
           "id": "d14-who-f-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/who-f/n3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n3.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -507,7 +507,7 @@
         {
           "id": "d14-who-f-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/who-f/n4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n4.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -526,7 +526,7 @@
         {
           "id": "d14-who-f-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/who-f/n5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n5.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -545,7 +545,7 @@
         {
           "id": "d14-who-f-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/who-f/n6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n6.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -564,7 +564,7 @@
         {
           "id": "d14-who-f-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/who-f/n7 lo_i.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n7%20lo_i.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -583,7 +583,7 @@
         {
           "id": "d14-who-f-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/who-f/n8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -602,7 +602,7 @@
         {
           "id": "d14-who-f-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/who-f/n9 lo_i.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n9%20lo_i.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -621,7 +621,7 @@
         {
           "id": "d14-who-f-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/who-f/n10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-f/n10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -658,7 +658,7 @@
         {
           "id": "d14-what-e-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/what-e/n1e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n1e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -677,7 +677,7 @@
         {
           "id": "d14-what-e-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/what-e/n2e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n2e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -696,7 +696,7 @@
         {
           "id": "d14-what-e-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/what-e/n3e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n3e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -715,7 +715,7 @@
         {
           "id": "d14-what-e-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/what-e/n4e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n4e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -734,7 +734,7 @@
         {
           "id": "d14-what-e-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/what-e/n5e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n5e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -753,7 +753,7 @@
         {
           "id": "d14-what-e-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/what-e/n6e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n6e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -772,7 +772,7 @@
         {
           "id": "d14-what-e-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/what-e/n7e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n7e.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -791,7 +791,7 @@
         {
           "id": "d14-what-e-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/what-e/n8e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n8e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -810,7 +810,7 @@
         {
           "id": "d14-what-e-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/what-e/n9e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n9e.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -829,7 +829,7 @@
         {
           "id": "d14-what-e-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/what-e/n10e.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-e/n10e.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -866,7 +866,7 @@
         {
           "id": "d14-what-f-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/what-f/n1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n1.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -885,7 +885,7 @@
         {
           "id": "d14-what-f-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/what-f/n2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n2.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -904,7 +904,7 @@
         {
           "id": "d14-what-f-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/what-f/n3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n3.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -923,7 +923,7 @@
         {
           "id": "d14-what-f-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/what-f/n4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n4.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -942,7 +942,7 @@
         {
           "id": "d14-what-f-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/what-f/n5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -961,7 +961,7 @@
         {
           "id": "d14-what-f-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/what-f/n6 lo_i.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n6%20lo_i.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -980,7 +980,7 @@
         {
           "id": "d14-what-f-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/what-f/n7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n7.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -999,7 +999,7 @@
         {
           "id": "d14-what-f-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/what-f/n8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n8.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1018,7 +1018,7 @@
         {
           "id": "d14-what-f-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/what-f/n9 lo_i.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n9%20lo_i.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1037,7 +1037,7 @@
         {
           "id": "d14-what-f-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/what-f/n10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what-f/n10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1070,13 +1070,13 @@
       "mode": "dictation",
       "hasKey": true,
       "showPhoto": false,
-      "fullAudio": "/assets/day-14/audio/whowhatwhich.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/whowhatwhich.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d14-who-what-which-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/who-what-which/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/01.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1095,7 +1095,7 @@
         {
           "id": "d14-who-what-which-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/who-what-which/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/02.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1114,7 +1114,7 @@
         {
           "id": "d14-who-what-which-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/who-what-which/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/03.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1133,7 +1133,7 @@
         {
           "id": "d14-who-what-which-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/who-what-which/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/04.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1152,7 +1152,7 @@
         {
           "id": "d14-who-what-which-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/who-what-which/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/05.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1171,7 +1171,7 @@
         {
           "id": "d14-who-what-which-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/who-what-which/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/06.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1190,7 +1190,7 @@
         {
           "id": "d14-who-what-which-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/who-what-which/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1209,7 +1209,7 @@
         {
           "id": "d14-who-what-which-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/who-what-which/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/08.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1228,7 +1228,7 @@
         {
           "id": "d14-who-what-which-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/who-what-which/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/09.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1247,7 +1247,7 @@
         {
           "id": "d14-who-what-which-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/who-what-which/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/10.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1266,7 +1266,7 @@
         {
           "id": "d14-who-what-which-11",
           "no": 11,
-          "audio": "/assets/day-14/audio/who-what-which/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/11.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1285,7 +1285,7 @@
         {
           "id": "d14-who-what-which-12",
           "no": 12,
-          "audio": "/assets/day-14/audio/who-what-which/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/12.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1304,7 +1304,7 @@
         {
           "id": "d14-who-what-which-13",
           "no": 13,
-          "audio": "/assets/day-14/audio/who-what-which/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1323,7 +1323,7 @@
         {
           "id": "d14-who-what-which-14",
           "no": 14,
-          "audio": "/assets/day-14/audio/who-what-which/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1342,7 +1342,7 @@
         {
           "id": "d14-who-what-which-15",
           "no": 15,
-          "audio": "/assets/day-14/audio/who-what-which/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/15.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1361,7 +1361,7 @@
         {
           "id": "d14-who-what-which-16",
           "no": 16,
-          "audio": "/assets/day-14/audio/who-what-which/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/16.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1380,7 +1380,7 @@
         {
           "id": "d14-who-what-which-17",
           "no": 17,
-          "audio": "/assets/day-14/audio/who-what-which/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/17.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1399,7 +1399,7 @@
         {
           "id": "d14-who-what-which-18",
           "no": 18,
-          "audio": "/assets/day-14/audio/who-what-which/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/18.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1418,7 +1418,7 @@
         {
           "id": "d14-who-what-which-19",
           "no": 19,
-          "audio": "/assets/day-14/audio/who-what-which/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/19.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1437,7 +1437,7 @@
         {
           "id": "d14-who-what-which-20",
           "no": 20,
-          "audio": "/assets/day-14/audio/who-what-which/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/20.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1456,7 +1456,7 @@
         {
           "id": "d14-who-what-which-21",
           "no": 21,
-          "audio": "/assets/day-14/audio/who-what-which/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/21.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1475,7 +1475,7 @@
         {
           "id": "d14-who-what-which-22",
           "no": 22,
-          "audio": "/assets/day-14/audio/who-what-which/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/22.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1494,7 +1494,7 @@
         {
           "id": "d14-who-what-which-23",
           "no": 23,
-          "audio": "/assets/day-14/audio/who-what-which/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/23.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1513,7 +1513,7 @@
         {
           "id": "d14-who-what-which-24",
           "no": 24,
-          "audio": "/assets/day-14/audio/who-what-which/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/24.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1532,7 +1532,7 @@
         {
           "id": "d14-who-what-which-25",
           "no": 25,
-          "audio": "/assets/day-14/audio/who-what-which/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who-what-which/25.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1569,7 +1569,7 @@
         {
           "id": "d14-who-homework-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/who/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/01.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1588,7 +1588,7 @@
         {
           "id": "d14-who-homework-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/who/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/02.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1607,7 +1607,7 @@
         {
           "id": "d14-who-homework-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/who/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/03.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1626,7 +1626,7 @@
         {
           "id": "d14-who-homework-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/who/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/04.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1645,7 +1645,7 @@
         {
           "id": "d14-who-homework-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/who/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/05.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1664,7 +1664,7 @@
         {
           "id": "d14-who-homework-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/who/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/06.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1683,7 +1683,7 @@
         {
           "id": "d14-who-homework-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/who/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1702,7 +1702,7 @@
         {
           "id": "d14-who-homework-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/who/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/08.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1721,7 +1721,7 @@
         {
           "id": "d14-who-homework-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/who/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/09.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1740,7 +1740,7 @@
         {
           "id": "d14-who-homework-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/who/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1759,7 +1759,7 @@
         {
           "id": "d14-who-homework-11",
           "no": 11,
-          "audio": "/assets/day-14/audio/who/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/11.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1778,7 +1778,7 @@
         {
           "id": "d14-who-homework-12",
           "no": 12,
-          "audio": "/assets/day-14/audio/who/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/12.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1797,7 +1797,7 @@
         {
           "id": "d14-who-homework-13",
           "no": 13,
-          "audio": "/assets/day-14/audio/who/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1816,7 +1816,7 @@
         {
           "id": "d14-who-homework-14",
           "no": 14,
-          "audio": "/assets/day-14/audio/who/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1835,7 +1835,7 @@
         {
           "id": "d14-who-homework-15",
           "no": 15,
-          "audio": "/assets/day-14/audio/who/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/15.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1854,7 +1854,7 @@
         {
           "id": "d14-who-homework-16",
           "no": 16,
-          "audio": "/assets/day-14/audio/who/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/16.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1873,7 +1873,7 @@
         {
           "id": "d14-who-homework-17",
           "no": 17,
-          "audio": "/assets/day-14/audio/who/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/17.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1892,7 +1892,7 @@
         {
           "id": "d14-who-homework-18",
           "no": 18,
-          "audio": "/assets/day-14/audio/who/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/18.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1911,7 +1911,7 @@
         {
           "id": "d14-who-homework-19",
           "no": 19,
-          "audio": "/assets/day-14/audio/who/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/19.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1930,7 +1930,7 @@
         {
           "id": "d14-who-homework-20",
           "no": 20,
-          "audio": "/assets/day-14/audio/who/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/who/20.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1967,7 +1967,7 @@
         {
           "id": "d14-what-homework-01",
           "no": 1,
-          "audio": "/assets/day-14/audio/what/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/01.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1986,7 +1986,7 @@
         {
           "id": "d14-what-homework-02",
           "no": 2,
-          "audio": "/assets/day-14/audio/what/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/02.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2005,7 +2005,7 @@
         {
           "id": "d14-what-homework-03",
           "no": 3,
-          "audio": "/assets/day-14/audio/what/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/03.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2024,7 +2024,7 @@
         {
           "id": "d14-what-homework-04",
           "no": 4,
-          "audio": "/assets/day-14/audio/what/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/04.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2043,7 +2043,7 @@
         {
           "id": "d14-what-homework-05",
           "no": 5,
-          "audio": "/assets/day-14/audio/what/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/05.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2062,7 +2062,7 @@
         {
           "id": "d14-what-homework-06",
           "no": 6,
-          "audio": "/assets/day-14/audio/what/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/06.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2081,7 +2081,7 @@
         {
           "id": "d14-what-homework-07",
           "no": 7,
-          "audio": "/assets/day-14/audio/what/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2100,7 +2100,7 @@
         {
           "id": "d14-what-homework-08",
           "no": 8,
-          "audio": "/assets/day-14/audio/what/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/08.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2119,7 +2119,7 @@
         {
           "id": "d14-what-homework-09",
           "no": 9,
-          "audio": "/assets/day-14/audio/what/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/09.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2138,7 +2138,7 @@
         {
           "id": "d14-what-homework-10",
           "no": 10,
-          "audio": "/assets/day-14/audio/what/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/10.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2157,7 +2157,7 @@
         {
           "id": "d14-what-homework-11",
           "no": 11,
-          "audio": "/assets/day-14/audio/what/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/11.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2176,7 +2176,7 @@
         {
           "id": "d14-what-homework-12",
           "no": 12,
-          "audio": "/assets/day-14/audio/what/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/12.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2195,7 +2195,7 @@
         {
           "id": "d14-what-homework-13",
           "no": 13,
-          "audio": "/assets/day-14/audio/what/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/13.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2214,7 +2214,7 @@
         {
           "id": "d14-what-homework-14",
           "no": 14,
-          "audio": "/assets/day-14/audio/what/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2233,7 +2233,7 @@
         {
           "id": "d14-what-homework-15",
           "no": 15,
-          "audio": "/assets/day-14/audio/what/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/15.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2252,7 +2252,7 @@
         {
           "id": "d14-what-homework-16",
           "no": 16,
-          "audio": "/assets/day-14/audio/what/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/16.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2271,7 +2271,7 @@
         {
           "id": "d14-what-homework-17",
           "no": 17,
-          "audio": "/assets/day-14/audio/what/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/17.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2290,7 +2290,7 @@
         {
           "id": "d14-what-homework-18",
           "no": 18,
-          "audio": "/assets/day-14/audio/what/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/18.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2309,7 +2309,7 @@
         {
           "id": "d14-what-homework-19",
           "no": 19,
-          "audio": "/assets/day-14/audio/what/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/19.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2328,7 +2328,7 @@
         {
           "id": "d14-what-homework-20",
           "no": 20,
-          "audio": "/assets/day-14/audio/what/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-14/audio/what/20.mp3",
           "image": null,
           "answer": "A",
           "transcript": {

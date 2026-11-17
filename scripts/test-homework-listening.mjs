@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { choicesOf, hasPhoto, usesDictation, countCorrect } from '../features/listening/rules.js';
 import { assemble } from '../features/lesson/schema.js';
+import { mediaChecker } from './lib/media.mjs';
+
+const hasMedia = await mediaChecker();
 
 const read = (name) => JSON.parse(readFileSync(`content/day-17/${name}.json`, 'utf8'));
 const day = assemble('day-17', { day: read('day'), listening: read('listening'), exercises: read('exercises') });
@@ -14,9 +17,9 @@ for (const set of day.listening) {
   assert.equal(choicesOf(set).join(''), set.part === 1 ? 'ABCD' : 'ABC');
   assert.equal(hasPhoto(set), set.part === 1);
   for (const question of set.questions) {
-    assert.ok(existsSync(`public${question.audio}`));
+    assert.ok(hasMedia(question.audio));
     assert.equal(Boolean(question.image), set.part === 1);
-    if (question.image) assert.ok(existsSync(`public${question.image}`));
+    if (question.image) assert.ok(hasMedia(question.image));
     assert.ok(set.choices.includes(question.answer), `${question.id}: missing or invalid answer`);
     assert.equal(question.source.answer, 'ai', 'derived answers must be labeled AI, not official');
     assert.equal(question.source.transcript, 'whisper');
@@ -51,7 +54,7 @@ for (const set of day.exercises) {
 }
 const bus = day.exercises.at(-1);
 assert.deepEqual(bus.sourcePages, [6, 7], 'Keep the advertisement and its questions across the page break');
-assert.ok(existsSync(`public${bus.questions[0].passage.image}`));
+assert.ok(hasMedia(bus.questions[0].passage.image));
 assert.ok(bus.questions[0].passage.imageAlt);
 assert.ok(bus.questions[0].passage.text.includes('September 1'));
 console.log('✓ Day 17: 6 Part 7 advertisements, all 17 questions, AI provenance, translations, and original map');

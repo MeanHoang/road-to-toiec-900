@@ -4,14 +4,15 @@
 //   npm run test:exam
 
 import assert from 'node:assert/strict';
-import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import { readFileSync, readdirSync } from 'node:fs';
 import { PARTS, READING_SECONDS_PER_QUESTION, isCompleteForm } from '../features/exam/rules.js';
+import { mediaChecker } from './lib/media.mjs';
 import { buildPaper, formQuestions, newAttempt, paperSummary, tapeOf } from '../features/exam/buildExam.js';
 
 const forms = readdirSync('content/exam')
   .filter((f) => f.endsWith('.json'))
   .map((f) => JSON.parse(readFileSync(`content/exam/${f}`, 'utf8')));
-const onDisk = (url) => existsSync(`public${url}`);
+const onDisk = await mediaChecker();
 
 // --- 1. Cấu trúc đề thật: 200 câu, 7 Part, Listening 100 + Reading 100 -------
 {

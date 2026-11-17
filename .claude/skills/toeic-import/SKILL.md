@@ -33,7 +33,7 @@ If you are not sure, leave it `null` and tell the user. **Never guess and then l
 
 **Do not commit source material.** PDFs and loose images (answer keys) are already in `.gitignore`. Leave them there.
 
-**Media is not in git.** `public/assets/` is gitignored; audio, images and PDFs are served from Cloudflare Pages (`toeic900-assets.pages.dev`). After building a day, run `npm run push-assets` before pushing the content commit, or production plays nothing.
+**Media is not in git.** Audio, images and PDFs live on the Hugging Face dataset `mhoang0000/toeic900-assets` (`scripts/lib/media.mjs`). Scripts write new media to `public/assets/` (gitignored staging) with `/assets/...` refs; `npm run push-assets` uploads only those files, rewrites the refs in `content/` to CDN URLs and deletes the local copies. Then `npm run push-content <day>` so Firestore stores the CDN URLs. Run both before pushing the content commit.
 
 **Never store Drive links or author names in any file.** Take the content only, not its provenance.
 
@@ -114,7 +114,8 @@ Two places; miss either one and the app will not see the new session:
 ```bash
 node scripts/validate-content.mjs <slug>
 npm run build
-npm run push-assets   # upload the new media; Vercel redirects /assets/... to the CDN
+npm run push-assets   # upload new media, rewrite refs to CDN URLs, delete local copies
+npm run push-content <slug>
 ```
 
 The validator checks: schemaVersion, `day` matching the folder, duplicate `id`s, asset paths that actually exist, `tokens`/`key` length mismatches, `hasKey` contradicting `answer`, and it counts fields still marked `source: ai/whisper`.

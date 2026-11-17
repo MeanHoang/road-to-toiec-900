@@ -12,13 +12,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-3/audio/1-practice-test-1-file-5-1/0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/0%20-%20full.mp3",
       "questions": [
         {
           "id": "d3-t1-01",
           "no": 1,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.1.mp3",
-          "image": "/assets/day-3/images/day-3-new/p01-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p01-1.jpg",
           "answer": "B",
           "prompts": [
             {
@@ -59,8 +59,8 @@
         {
           "id": "d3-t1-02",
           "no": 2,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.2.mp3",
-          "image": "/assets/day-3/images/day-3-new/p01-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p01-2.jpg",
           "answer": "D",
           "prompts": [
             {
@@ -101,8 +101,8 @@
         {
           "id": "d3-t1-03",
           "no": 3,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.3.mp3",
-          "image": "/assets/day-3/images/day-3-new/p02-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p02-1.jpg",
           "answer": "D",
           "prompts": [
             {
@@ -143,8 +143,8 @@
         {
           "id": "d3-t1-04",
           "no": 4,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.4.mp3",
-          "image": "/assets/day-3/images/day-3-new/p02-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p02-2.jpg",
           "answer": "B",
           "prompts": [
             {
@@ -185,8 +185,8 @@
         {
           "id": "d3-t1-05",
           "no": 5,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.5.mp3",
-          "image": "/assets/day-3/images/day-3-new/p02-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p02-3.jpg",
           "answer": "D",
           "prompts": [
             {
@@ -227,8 +227,8 @@
         {
           "id": "d3-t1-06",
           "no": 6,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.6.mp3",
-          "image": "/assets/day-3/images/day-3-new/p03-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p03-1.jpg",
           "answer": "C",
           "prompts": [
             {
@@ -269,8 +269,8 @@
         {
           "id": "d3-t1-07",
           "no": 7,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.7.mp3",
-          "image": "/assets/day-3/images/day-3-new/p03-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p03-2.jpg",
           "answer": "D",
           "prompts": [
             {
@@ -311,8 +311,8 @@
         {
           "id": "d3-t1-08",
           "no": 8,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.8.mp3",
-          "image": "/assets/day-3/images/day-3-new/p04-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p04-1.jpg",
           "answer": "B",
           "prompts": [
             {
@@ -353,8 +353,8 @@
         {
           "id": "d3-t1-09",
           "no": 9,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.9.mp3",
-          "image": "/assets/day-3/images/day-3-new/p04-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p04-2.jpg",
           "answer": "D",
           "prompts": [
             {
@@ -395,8 +395,8 @@
         {
           "id": "d3-t1-10",
           "no": 10,
-          "audio": "/assets/day-3/audio/1-practice-test-1-file-5-1/1.10.mp3",
-          "image": "/assets/day-3/images/day-3-new/p04-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-1-file-5-1/1.10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p04-3.jpg",
           "answer": "A",
           "prompts": [
             {
@@ -445,13 +445,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-3/audio/1-practice-test-2-file-5-2/0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/0%20-%20full.mp3",
       "questions": [
         {
           "id": "d3-t2-01",
           "no": 1,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/1.mp3",
-          "image": "/assets/day-3/images/day-3-new/p05-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p05-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "He's writing a letter.",
@@ -470,8 +470,8 @@
         {
           "id": "d3-t2-02",
           "no": 2,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/2.mp3",
-          "image": "/assets/day-3/images/day-3-new/p05-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p05-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "A woman is arranging the shelves.",
@@ -490,8 +490,8 @@
         {
           "id": "d3-t2-03",
           "no": 3,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/3.mp3",
-          "image": "/assets/day-3/images/day-3-new/p05-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p05-3.jpg",
           "answer": "B",
           "transcript": {
             "A": "He's looking at his watch",
@@ -510,8 +510,8 @@
         {
           "id": "d3-t2-04",
           "no": 4,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/4.mp3",
-          "image": "/assets/day-3/images/day-3-new/p06-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p06-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "She's tidying her room.",
@@ -530,8 +530,8 @@
         {
           "id": "d3-t2-05",
           "no": 5,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/5.mp3",
-          "image": "/assets/day-3/images/day-3-new/p06-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p06-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "The women are in a parking lot.",
@@ -550,8 +550,8 @@
         {
           "id": "d3-t2-06",
           "no": 6,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/6.mp3",
-          "image": "/assets/day-3/images/day-3-new/p06-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p06-3.jpg",
           "answer": "A",
           "transcript": {
             "A": "They're resting in a waiting area.",
@@ -570,8 +570,8 @@
         {
           "id": "d3-t2-07",
           "no": 7,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/7.mp3",
-          "image": "/assets/day-3/images/day-3-new/p07-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p07-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "A painting is hanging on the wall.",
@@ -590,8 +590,8 @@
         {
           "id": "d3-t2-08",
           "no": 8,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/8.mp3",
-          "image": "/assets/day-3/images/day-3-new/p07-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p07-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "The woman is taking a picture.",
@@ -610,8 +610,8 @@
         {
           "id": "d3-t2-09",
           "no": 9,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/9.mp3",
-          "image": "/assets/day-3/images/day-3-new/p08-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p08-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "The motorcycle has been parked.",
@@ -630,8 +630,8 @@
         {
           "id": "d3-t2-10",
           "no": 10,
-          "audio": "/assets/day-3/audio/1-practice-test-2-file-5-2/10.mp3",
-          "image": "/assets/day-3/images/day-3-new/p08-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/1-practice-test-2-file-5-2/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p08-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "They're delivering a presentation.",
@@ -658,13 +658,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-3/audio/2-homework-test-3-file-5-3/0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/0%20-%20full.mp3",
       "questions": [
         {
           "id": "d3-t3-01",
           "no": 1,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/1.mp3",
-          "image": "/assets/day-3/images/day-3-new/p09-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p09-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "There is a plant on the table.",
@@ -683,8 +683,8 @@
         {
           "id": "d3-t3-02",
           "no": 2,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/2.mp3",
-          "image": "/assets/day-3/images/day-3-new/p09-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p09-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "A hat has been placed on the railing.",
@@ -703,8 +703,8 @@
         {
           "id": "d3-t3-03",
           "no": 3,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/3.mp3",
-          "image": "/assets/day-3/images/day-3-new/p09-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p09-3.jpg",
           "answer": "B",
           "transcript": {
             "A": "The cart has nothing in it.",
@@ -723,8 +723,8 @@
         {
           "id": "d3-t3-04",
           "no": 4,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/4.mp3",
-          "image": "/assets/day-3/images/day-3-new/p09-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p09-4.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some scarves have been set on the counter.",
@@ -743,8 +743,8 @@
         {
           "id": "d3-t3-05",
           "no": 5,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/5.mp3",
-          "image": "/assets/day-3/images/day-3-new/p10-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p10-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "There is a statue behind the tree.",
@@ -763,8 +763,8 @@
         {
           "id": "d3-t3-06",
           "no": 6,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/6.mp3",
-          "image": "/assets/day-3/images/day-3-new/p10-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p10-2.jpg",
           "answer": "A",
           "transcript": {
             "A": "There are lines painted on the roadway.",
@@ -783,8 +783,8 @@
         {
           "id": "d3-t3-07",
           "no": 7,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/7.mp3",
-          "image": "/assets/day-3/images/day-3-new/p10-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p10-3.jpg",
           "answer": "D",
           "transcript": {
             "A": "There are flowers on the bench.",
@@ -803,8 +803,8 @@
         {
           "id": "d3-t3-08",
           "no": 8,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/8.mp3",
-          "image": "/assets/day-3/images/day-3-new/p10-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p10-4.jpg",
           "answer": "B",
           "transcript": {
             "A": "People are shopping indoors.",
@@ -823,8 +823,8 @@
         {
           "id": "d3-t3-09",
           "no": 9,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/9.mp3",
-          "image": "/assets/day-3/images/day-3-new/p11-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p11-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some pictures are being framed.",
@@ -843,8 +843,8 @@
         {
           "id": "d3-t3-10",
           "no": 10,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/10.mp3",
-          "image": "/assets/day-3/images/day-3-new/p11-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p11-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "A bicycle has been parked by a doorway.",
@@ -863,8 +863,8 @@
         {
           "id": "d3-t3-11",
           "no": 11,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/11.mp3",
-          "image": "/assets/day-3/images/day-3-new/p11-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/11.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p11-3.jpg",
           "answer": "C",
           "transcript": {
             "A": "Some bicycle tires are displayed for sale.",
@@ -883,8 +883,8 @@
         {
           "id": "d3-t3-12",
           "no": 12,
-          "audio": "/assets/day-3/audio/2-homework-test-3-file-5-3/12.mp3",
-          "image": "/assets/day-3/images/day-3-new/p11-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-3-file-5-3/12.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p11-4.jpg",
           "answer": "C",
           "transcript": {
             "A": "Equipment is being loaded onto a truck.",
@@ -911,13 +911,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-3/audio/2-homework-test-4-file-5-4/0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/0%20-%20full.mp3",
       "questions": [
         {
           "id": "d3-t4-01",
           "no": 1,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/1.mp3",
-          "image": "/assets/day-3/images/day-3-new/p12-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p12-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "He's carrying a box.",
@@ -936,8 +936,8 @@
         {
           "id": "d3-t4-02",
           "no": 2,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/2.mp3",
-          "image": "/assets/day-3/images/day-3-new/p12-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p12-2.jpg",
           "answer": "A",
           "transcript": {
             "A": "People are standing behind a railing.",
@@ -956,8 +956,8 @@
         {
           "id": "d3-t4-03",
           "no": 3,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/3.mp3",
-          "image": "/assets/day-3/images/day-3-new/p12-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p12-3.jpg",
           "answer": "C",
           "transcript": {
             "A": "The women are holding a scarf.",
@@ -976,8 +976,8 @@
         {
           "id": "d3-t4-04",
           "no": 4,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/4.mp3",
-          "image": "/assets/day-3/images/day-3-new/p12-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p12-4.jpg",
           "answer": "B",
           "transcript": {
             "A": "A man's building a fence.",
@@ -996,8 +996,8 @@
         {
           "id": "d3-t4-05",
           "no": 5,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/5.mp3",
-          "image": "/assets/day-3/images/day-3-new/p13-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p13-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "A woman's showing a man something on the screen.",
@@ -1016,8 +1016,8 @@
         {
           "id": "d3-t4-06",
           "no": 6,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/6.mp3",
-          "image": "/assets/day-3/images/day-3-new/p13-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p13-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "Plates have been set in the sink.",
@@ -1036,8 +1036,8 @@
         {
           "id": "d3-t4-07",
           "no": 7,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/7.mp3",
-          "image": "/assets/day-3/images/day-3-new/p13-3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/7.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p13-3.jpg",
           "answer": "D",
           "transcript": {
             "A": "All of the seats are stacked up against the wall.",
@@ -1056,8 +1056,8 @@
         {
           "id": "d3-t4-08",
           "no": 8,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/8.mp3",
-          "image": "/assets/day-3/images/day-3-new/p13-4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/8.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p13-4.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some wires are coiled on the ground.",
@@ -1076,8 +1076,8 @@
         {
           "id": "d3-t4-09",
           "no": 9,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/9.mp3",
-          "image": "/assets/day-3/images/day-3-new/p14-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/9.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p14-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "Waves are crashing against the deck.",
@@ -1096,8 +1096,8 @@
         {
           "id": "d3-t4-10",
           "no": 10,
-          "audio": "/assets/day-3/audio/2-homework-test-4-file-5-4/10.mp3",
-          "image": "/assets/day-3/images/day-3-new/p14-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/audio/2-homework-test-4-file-5-4/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-3/images/day-3-new/p14-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "They're installing some light fixtures.",

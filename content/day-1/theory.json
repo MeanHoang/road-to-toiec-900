@@ -163,7 +163,7 @@
           "en": "A woman is wearing a jacket.",
           "vi": "Một người phụ nữ đang mặc áo khoác."
         },
-        "image": "/assets/day-1/images/day-1/p03-1.jpg"
+        "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-1/images/day-1/p03-1.jpg"
       },
       "right": {
         "word": "put on",
@@ -173,7 +173,7 @@
           "en": "A woman is putting on a jacket.",
           "vi": "Một người phụ nữ đang mặc áo khoác lên."
         },
-        "image": "/assets/day-1/images/day-1/p03-2.jpg"
+        "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-1/images/day-1/p03-2.jpg"
       },
       "source": "pdf"
     }

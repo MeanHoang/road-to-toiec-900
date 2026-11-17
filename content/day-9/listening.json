@@ -23,7 +23,7 @@
         {
           "id": "d9-p1-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/1.mp3",
           "image": null,
           "answer": null,
           "transcript": "Do you know who has an eraser? Ask Tom. I have one in my drawer.",
@@ -38,7 +38,7 @@
         {
           "id": "d9-p1-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/2.mp3",
           "image": null,
           "answer": null,
           "transcript": "Do you know when Susan will come in? On Friday, I think. Yes, next Monday.",
@@ -53,7 +53,7 @@
         {
           "id": "d9-p1-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/3.mp3",
           "image": null,
           "answer": null,
           "transcript": "Do you happen to know why Tom hasn't come yet? Because of bad weather. Yes, he needs to meet a client.",
@@ -68,7 +68,7 @@
         {
           "id": "d9-p1-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/4.mp3",
           "image": null,
           "answer": null,
           "transcript": "Can you tell me how to operate this machine? Sorry, I don't know. Okay, I'll be right there. Sure, let me show you.",
@@ -83,7 +83,7 @@
         {
           "id": "d9-p1-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/5.mp3",
           "image": null,
           "answer": null,
           "transcript": "May I ask which room the computer training is in? Go to the end of the hall. It's just next door.",
@@ -98,7 +98,7 @@
         {
           "id": "d9-p1-06",
           "no": 6,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/6.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -118,7 +118,7 @@
         {
           "id": "d9-p1-07",
           "no": 7,
-          "audio": "/assets/day-9/audio/practice-1-embedded-question/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-1-embedded-question/7.mp3",
           "image": null,
           "question": "____________________ Ms.Jones ___________________?",
           "options": {
@@ -164,7 +164,7 @@
         {
           "id": "d9-p2-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _1_.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-2-statement/STATEMENT%20I%20_1_.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -184,7 +184,7 @@
         {
           "id": "d9-p2-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _2_.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-2-statement/STATEMENT%20I%20_2_.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -204,7 +204,7 @@
         {
           "id": "d9-p2-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _3_.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-2-statement/STATEMENT%20I%20_3_.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -224,7 +224,7 @@
         {
           "id": "d9-p2-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _4_.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-2-statement/STATEMENT%20I%20_4_.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -244,7 +244,7 @@
         {
           "id": "d9-p2-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/practice-2-statement/STATEMENT I _5_.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-2-statement/STATEMENT%20I%20_5_.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -282,7 +282,7 @@
         {
           "id": "d9-p3-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/1.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -302,7 +302,7 @@
         {
           "id": "d9-p3-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/2.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -322,7 +322,7 @@
         {
           "id": "d9-p3-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/3.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -342,7 +342,7 @@
         {
           "id": "d9-p3-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/4.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -362,7 +362,7 @@
         {
           "id": "d9-p3-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -382,7 +382,7 @@
         {
           "id": "d9-p3-06",
           "no": 6,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/6.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -402,7 +402,7 @@
         {
           "id": "d9-p3-07",
           "no": 7,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -422,7 +422,7 @@
         {
           "id": "d9-p3-08",
           "no": 8,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/8.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -442,7 +442,7 @@
         {
           "id": "d9-p3-09",
           "no": 9,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/9.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -462,7 +462,7 @@
         {
           "id": "d9-p3-10",
           "no": 10,
-          "audio": "/assets/day-9/audio/practice-3-indirect-questions/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/practice-3-indirect-questions/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -500,7 +500,7 @@
         {
           "id": "d9-hw1-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/1.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -520,7 +520,7 @@
         {
           "id": "d9-hw1-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/2.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -540,7 +540,7 @@
         {
           "id": "d9-hw1-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/3.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -560,7 +560,7 @@
         {
           "id": "d9-hw1-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/4.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -580,7 +580,7 @@
         {
           "id": "d9-hw1-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -600,7 +600,7 @@
         {
           "id": "d9-hw1-06",
           "no": 6,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/6.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -620,7 +620,7 @@
         {
           "id": "d9-hw1-07",
           "no": 7,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/7.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -640,7 +640,7 @@
         {
           "id": "d9-hw1-08",
           "no": 8,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -660,7 +660,7 @@
         {
           "id": "d9-hw1-09",
           "no": 9,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/9.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -680,7 +680,7 @@
         {
           "id": "d9-hw1-10",
           "no": 10,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -700,7 +700,7 @@
         {
           "id": "d9-hw1-11",
           "no": 11,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/11.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -720,7 +720,7 @@
         {
           "id": "d9-hw1-12",
           "no": 12,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/12.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -740,7 +740,7 @@
         {
           "id": "d9-hw1-13",
           "no": 13,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -760,7 +760,7 @@
         {
           "id": "d9-hw1-14",
           "no": 14,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -780,7 +780,7 @@
         {
           "id": "d9-hw1-15",
           "no": 15,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/15.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -800,7 +800,7 @@
         {
           "id": "d9-hw1-16",
           "no": 16,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/16.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -820,7 +820,7 @@
         {
           "id": "d9-hw1-17",
           "no": 17,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -840,7 +840,7 @@
         {
           "id": "d9-hw1-18",
           "no": 18,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/18.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -860,7 +860,7 @@
         {
           "id": "d9-hw1-19",
           "no": 19,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/19.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -880,7 +880,7 @@
         {
           "id": "d9-hw1-20",
           "no": 20,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/20.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -900,7 +900,7 @@
         {
           "id": "d9-hw1-21",
           "no": 21,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/21.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -920,7 +920,7 @@
         {
           "id": "d9-hw1-22",
           "no": 22,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/22.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -940,7 +940,7 @@
         {
           "id": "d9-hw1-23",
           "no": 23,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/23.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -960,7 +960,7 @@
         {
           "id": "d9-hw1-24",
           "no": 24,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/24.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -980,7 +980,7 @@
         {
           "id": "d9-hw1-25",
           "no": 25,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/25.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1000,7 +1000,7 @@
         {
           "id": "d9-hw1-26",
           "no": 26,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/26.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1020,7 +1020,7 @@
         {
           "id": "d9-hw1-27",
           "no": 27,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/27.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1040,7 +1040,7 @@
         {
           "id": "d9-hw1-28",
           "no": 28,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/28.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1060,7 +1060,7 @@
         {
           "id": "d9-hw1-29",
           "no": 29,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/29.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1080,7 +1080,7 @@
         {
           "id": "d9-hw1-30",
           "no": 30,
-          "audio": "/assets/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-1-30-cau-part-2-file-nghe-le/30.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1107,14 +1107,14 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 07 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%2007%20-%20full.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d9-t7-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 1.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p07-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p07-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "He's watering some flowers.",
@@ -1133,8 +1133,8 @@
         {
           "id": "d9-t7-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 2.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p07-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p07-2.jpg",
           "answer": "A",
           "transcript": {
             "A": "They're installing a photocopier.",
@@ -1153,8 +1153,8 @@
         {
           "id": "d9-t7-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 3.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p08-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p08-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "The woman is using a broom.",
@@ -1173,8 +1173,8 @@
         {
           "id": "d9-t7-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 4.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p08-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p08-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "She's drying her hands with a paper towel.",
@@ -1193,8 +1193,8 @@
         {
           "id": "d9-t7-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 5.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p09-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p09-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "One of the men is holding a briefcase.",
@@ -1213,8 +1213,8 @@
         {
           "id": "d9-t7-06",
           "no": 6,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 7 - 6.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p09-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%207%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p09-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "A kayak is being paddled down a river.",
@@ -1240,14 +1240,14 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 08 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%2008%20-%20full.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d9-t8-01",
           "no": 1,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 1.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p10-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p10-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "He's talking on a phone.",
@@ -1266,8 +1266,8 @@
         {
           "id": "d9-t8-02",
           "no": 2,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 2.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p10-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p10-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "They're swimming in a lake.",
@@ -1286,8 +1286,8 @@
         {
           "id": "d9-t8-03",
           "no": 3,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 3.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p11-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p11-1.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some women are crossing the street.",
@@ -1306,8 +1306,8 @@
         {
           "id": "d9-t8-04",
           "no": 4,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 4.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p11-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p11-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "The man is building a fence.",
@@ -1326,8 +1326,8 @@
         {
           "id": "d9-t8-05",
           "no": 5,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 5.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p12-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p12-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "The woman is closing the curtains.",
@@ -1346,8 +1346,8 @@
         {
           "id": "d9-t8-06",
           "no": 6,
-          "audio": "/assets/day-9/audio/homework-exercise-2-tranh/TEST 8 - 6.mp3",
-          "image": "/assets/day-9/images/day-9-advanced-questions-part-2/p12-2-full.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/audio/homework-exercise-2-tranh/TEST%208%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-9/images/day-9-advanced-questions-part-2/p12-2-full.jpg",
           "answer": "A",
           "transcript": {
             "A": "Some tools have been left on a cart.",

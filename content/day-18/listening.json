@@ -28,8 +28,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-01",
           "no": 1,
-          "audio": "/assets/day-18/online-homework/test-7/audio/01.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/01.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/01.webp",
           "answer": "D",
           "transcript": {
             "A": "He's digging in a garden.",
@@ -47,8 +47,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-02",
           "no": 2,
-          "audio": "/assets/day-18/online-homework/test-7/audio/02.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/02.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/02.webp",
           "answer": "D",
           "transcript": {
             "A": "One of the women is pushing a cart towards an exit.",
@@ -66,8 +66,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-03",
           "no": 3,
-          "audio": "/assets/day-18/online-homework/test-7/audio/03.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/03.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/03.webp",
           "answer": "A",
           "transcript": {
             "A": "The man is resting his arm on a counter.",
@@ -85,8 +85,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-04",
           "no": 4,
-          "audio": "/assets/day-18/online-homework/test-7/audio/04.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/04.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/04.webp",
           "answer": "B",
           "transcript": {
             "A": "Some balconies are decorated with banners.",
@@ -104,8 +104,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-05",
           "no": 5,
-          "audio": "/assets/day-18/online-homework/test-7/audio/05.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/05.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/05.webp",
           "answer": "C",
           "transcript": {
             "A": "Some people are waiting at a bus stop.",
@@ -123,8 +123,8 @@
         {
           "id": "d18-hw-2024-test-7-p1-06",
           "no": 6,
-          "audio": "/assets/day-18/online-homework/test-7/audio/06.mp3",
-          "image": "/assets/day-18/online-homework/test-7/images/06.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/images/06.webp",
           "answer": "C",
           "transcript": {
             "A": "The sun is being blocked by some curtains.",
@@ -165,8 +165,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-01",
           "no": 1,
-          "audio": "/assets/day-18/online-homework/test-8/audio/01.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/01.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/01.webp",
           "answer": "D",
           "transcript": {
             "A": "She's taking off her badge.",
@@ -184,8 +184,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-02",
           "no": 2,
-          "audio": "/assets/day-18/online-homework/test-8/audio/02.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/02.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/02.webp",
           "answer": "B",
           "transcript": {
             "A": "A man is repairing a railing.",
@@ -203,8 +203,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-03",
           "no": 3,
-          "audio": "/assets/day-18/online-homework/test-8/audio/03.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/03.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/03.webp",
           "answer": "D",
           "transcript": {
             "A": "A person is swimming in a lake.",
@@ -222,8 +222,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-04",
           "no": 4,
-          "audio": "/assets/day-18/online-homework/test-8/audio/04.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/04.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/04.webp",
           "answer": "C",
           "transcript": {
             "A": "One of the workers is opening a display case.",
@@ -241,8 +241,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-05",
           "no": 5,
-          "audio": "/assets/day-18/online-homework/test-8/audio/05.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/05.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/05.webp",
           "answer": "B",
           "transcript": {
             "A": "Some rocks are piled in a wheelbarrow.",
@@ -260,8 +260,8 @@
         {
           "id": "d18-hw-2024-test-8-p1-06",
           "no": 6,
-          "audio": "/assets/day-18/online-homework/test-8/audio/06.mp3",
-          "image": "/assets/day-18/online-homework/test-8/images/06.webp",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/images/06.webp",
           "answer": "A",
           "transcript": {
             "A": "Some papers have been pinned to a bulletin board.",
@@ -301,7 +301,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-07",
           "no": 7,
-          "audio": "/assets/day-18/online-homework/test-8/audio/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/07.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -320,7 +320,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-08",
           "no": 8,
-          "audio": "/assets/day-18/online-homework/test-8/audio/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/08.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -339,7 +339,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-09",
           "no": 9,
-          "audio": "/assets/day-18/online-homework/test-8/audio/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/09.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -358,7 +358,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-10",
           "no": 10,
-          "audio": "/assets/day-18/online-homework/test-8/audio/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/10.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -377,7 +377,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-11",
           "no": 11,
-          "audio": "/assets/day-18/online-homework/test-8/audio/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/11.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -396,7 +396,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-12",
           "no": 12,
-          "audio": "/assets/day-18/online-homework/test-8/audio/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/12.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -415,7 +415,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-13",
           "no": 13,
-          "audio": "/assets/day-18/online-homework/test-8/audio/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/13.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -434,7 +434,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-14",
           "no": 14,
-          "audio": "/assets/day-18/online-homework/test-8/audio/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -453,7 +453,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-15",
           "no": 15,
-          "audio": "/assets/day-18/online-homework/test-8/audio/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/15.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -472,7 +472,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-16",
           "no": 16,
-          "audio": "/assets/day-18/online-homework/test-8/audio/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/16.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -491,7 +491,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-17",
           "no": 17,
-          "audio": "/assets/day-18/online-homework/test-8/audio/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -510,7 +510,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-18",
           "no": 18,
-          "audio": "/assets/day-18/online-homework/test-8/audio/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/18.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -529,7 +529,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-19",
           "no": 19,
-          "audio": "/assets/day-18/online-homework/test-8/audio/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/19.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -548,7 +548,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-20",
           "no": 20,
-          "audio": "/assets/day-18/online-homework/test-8/audio/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/20.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -567,7 +567,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-21",
           "no": 21,
-          "audio": "/assets/day-18/online-homework/test-8/audio/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/21.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -586,7 +586,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-22",
           "no": 22,
-          "audio": "/assets/day-18/online-homework/test-8/audio/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/22.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -605,7 +605,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-23",
           "no": 23,
-          "audio": "/assets/day-18/online-homework/test-8/audio/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/23.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -624,7 +624,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-24",
           "no": 24,
-          "audio": "/assets/day-18/online-homework/test-8/audio/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/24.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -643,7 +643,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-25",
           "no": 25,
-          "audio": "/assets/day-18/online-homework/test-8/audio/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/25.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -662,7 +662,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-26",
           "no": 26,
-          "audio": "/assets/day-18/online-homework/test-8/audio/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/26.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -681,7 +681,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-27",
           "no": 27,
-          "audio": "/assets/day-18/online-homework/test-8/audio/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/27.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -700,7 +700,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-28",
           "no": 28,
-          "audio": "/assets/day-18/online-homework/test-8/audio/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/28.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -719,7 +719,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-29",
           "no": 29,
-          "audio": "/assets/day-18/online-homework/test-8/audio/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/29.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -738,7 +738,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-30",
           "no": 30,
-          "audio": "/assets/day-18/online-homework/test-8/audio/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/30.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -757,7 +757,7 @@
         {
           "id": "d18-hw-2024-test-8-p2-31",
           "no": 31,
-          "audio": "/assets/day-18/online-homework/test-8/audio/31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-8/audio/31.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -798,7 +798,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-07",
           "no": 7,
-          "audio": "/assets/day-18/online-homework/test-7/audio/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/07.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -817,7 +817,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-08",
           "no": 8,
-          "audio": "/assets/day-18/online-homework/test-7/audio/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/08.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -836,7 +836,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-09",
           "no": 9,
-          "audio": "/assets/day-18/online-homework/test-7/audio/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/09.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -855,7 +855,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-10",
           "no": 10,
-          "audio": "/assets/day-18/online-homework/test-7/audio/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/10.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -874,7 +874,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-11",
           "no": 11,
-          "audio": "/assets/day-18/online-homework/test-7/audio/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/11.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -893,7 +893,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-12",
           "no": 12,
-          "audio": "/assets/day-18/online-homework/test-7/audio/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/12.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -912,7 +912,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-13",
           "no": 13,
-          "audio": "/assets/day-18/online-homework/test-7/audio/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -931,7 +931,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-14",
           "no": 14,
-          "audio": "/assets/day-18/online-homework/test-7/audio/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -950,7 +950,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-15",
           "no": 15,
-          "audio": "/assets/day-18/online-homework/test-7/audio/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/15.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -969,7 +969,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-16",
           "no": 16,
-          "audio": "/assets/day-18/online-homework/test-7/audio/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/16.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -988,7 +988,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-17",
           "no": 17,
-          "audio": "/assets/day-18/online-homework/test-7/audio/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1007,7 +1007,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-18",
           "no": 18,
-          "audio": "/assets/day-18/online-homework/test-7/audio/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/18.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1026,7 +1026,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-19",
           "no": 19,
-          "audio": "/assets/day-18/online-homework/test-7/audio/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/19.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1045,7 +1045,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-20",
           "no": 20,
-          "audio": "/assets/day-18/online-homework/test-7/audio/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/20.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1064,7 +1064,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-21",
           "no": 21,
-          "audio": "/assets/day-18/online-homework/test-7/audio/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/21.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1083,7 +1083,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-22",
           "no": 22,
-          "audio": "/assets/day-18/online-homework/test-7/audio/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/22.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1102,7 +1102,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-23",
           "no": 23,
-          "audio": "/assets/day-18/online-homework/test-7/audio/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/23.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1121,7 +1121,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-24",
           "no": 24,
-          "audio": "/assets/day-18/online-homework/test-7/audio/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/24.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1140,7 +1140,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-25",
           "no": 25,
-          "audio": "/assets/day-18/online-homework/test-7/audio/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/25.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1159,7 +1159,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-26",
           "no": 26,
-          "audio": "/assets/day-18/online-homework/test-7/audio/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/26.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1178,7 +1178,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-27",
           "no": 27,
-          "audio": "/assets/day-18/online-homework/test-7/audio/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/27.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1197,7 +1197,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-28",
           "no": 28,
-          "audio": "/assets/day-18/online-homework/test-7/audio/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/28.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1216,7 +1216,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-29",
           "no": 29,
-          "audio": "/assets/day-18/online-homework/test-7/audio/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/29.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1235,7 +1235,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-30",
           "no": 30,
-          "audio": "/assets/day-18/online-homework/test-7/audio/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/30.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1254,7 +1254,7 @@
         {
           "id": "d18-hw-2024-test-7-p2-31",
           "no": 31,
-          "audio": "/assets/day-18/online-homework/test-7/audio/31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/test-7/audio/31.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1290,7 +1290,7 @@
         {
           "id": "d18-word-01",
           "no": 1,
-          "audio": "/assets/day-18/online-homework/dictation/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/01.mp3",
           "image": null,
           "answer": null,
           "transcript": "aisle",
@@ -1305,7 +1305,7 @@
         {
           "id": "d18-word-02",
           "no": 2,
-          "audio": "/assets/day-18/online-homework/dictation/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/02.mp3",
           "image": null,
           "answer": null,
           "transcript": "ask for",
@@ -1320,7 +1320,7 @@
         {
           "id": "d18-word-03",
           "no": 3,
-          "audio": "/assets/day-18/online-homework/dictation/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/03.mp3",
           "image": null,
           "answer": null,
           "transcript": "be supposed to",
@@ -1335,7 +1335,7 @@
         {
           "id": "d18-word-04",
           "no": 4,
-          "audio": "/assets/day-18/online-homework/dictation/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/04.mp3",
           "image": null,
           "answer": null,
           "transcript": "belong to",
@@ -1350,7 +1350,7 @@
         {
           "id": "d18-word-05",
           "no": 5,
-          "audio": "/assets/day-18/online-homework/dictation/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/05.mp3",
           "image": null,
           "answer": null,
           "transcript": "bottom",
@@ -1365,7 +1365,7 @@
         {
           "id": "d18-word-06",
           "no": 6,
-          "audio": "/assets/day-18/online-homework/dictation/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/06.mp3",
           "image": null,
           "answer": null,
           "transcript": "branch",
@@ -1380,7 +1380,7 @@
         {
           "id": "d18-word-07",
           "no": 7,
-          "audio": "/assets/day-18/online-homework/dictation/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/07.mp3",
           "image": null,
           "answer": null,
           "transcript": "celebrate",
@@ -1395,7 +1395,7 @@
         {
           "id": "d18-word-08",
           "no": 8,
-          "audio": "/assets/day-18/online-homework/dictation/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/08.mp3",
           "image": null,
           "answer": null,
           "transcript": "consult",
@@ -1410,7 +1410,7 @@
         {
           "id": "d18-word-09",
           "no": 9,
-          "audio": "/assets/day-18/online-homework/dictation/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/09.mp3",
           "image": null,
           "answer": null,
           "transcript": "deliver",
@@ -1425,7 +1425,7 @@
         {
           "id": "d18-word-10",
           "no": 10,
-          "audio": "/assets/day-18/online-homework/dictation/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/10.mp3",
           "image": null,
           "answer": null,
           "transcript": "deserve",
@@ -1440,7 +1440,7 @@
         {
           "id": "d18-word-11",
           "no": 11,
-          "audio": "/assets/day-18/online-homework/dictation/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/11.mp3",
           "image": null,
           "answer": null,
           "transcript": "document",
@@ -1455,7 +1455,7 @@
         {
           "id": "d18-word-12",
           "no": 12,
-          "audio": "/assets/day-18/online-homework/dictation/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/12.mp3",
           "image": null,
           "answer": null,
           "transcript": "donate",
@@ -1470,7 +1470,7 @@
         {
           "id": "d18-word-13",
           "no": 13,
-          "audio": "/assets/day-18/online-homework/dictation/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/13.mp3",
           "image": null,
           "answer": null,
           "transcript": "downtown",
@@ -1485,7 +1485,7 @@
         {
           "id": "d18-word-14",
           "no": 14,
-          "audio": "/assets/day-18/online-homework/dictation/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/14.mp3",
           "image": null,
           "answer": null,
           "transcript": "employee",
@@ -1500,7 +1500,7 @@
         {
           "id": "d18-word-15",
           "no": 15,
-          "audio": "/assets/day-18/online-homework/dictation/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/15.mp3",
           "image": null,
           "answer": null,
           "transcript": "except",
@@ -1515,7 +1515,7 @@
         {
           "id": "d18-word-16",
           "no": 16,
-          "audio": "/assets/day-18/online-homework/dictation/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/16.mp3",
           "image": null,
           "answer": null,
           "transcript": "flyer",
@@ -1530,7 +1530,7 @@
         {
           "id": "d18-word-17",
           "no": 17,
-          "audio": "/assets/day-18/online-homework/dictation/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/17.mp3",
           "image": null,
           "answer": null,
           "transcript": "go ahead",
@@ -1545,7 +1545,7 @@
         {
           "id": "d18-word-18",
           "no": 18,
-          "audio": "/assets/day-18/online-homework/dictation/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/18.mp3",
           "image": null,
           "answer": null,
           "transcript": "holiday",
@@ -1560,7 +1560,7 @@
         {
           "id": "d18-word-19",
           "no": 19,
-          "audio": "/assets/day-18/online-homework/dictation/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/19.mp3",
           "image": null,
           "answer": null,
           "transcript": "identification",
@@ -1575,7 +1575,7 @@
         {
           "id": "d18-word-20",
           "no": 20,
-          "audio": "/assets/day-18/online-homework/dictation/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/20.mp3",
           "image": null,
           "answer": null,
           "transcript": "improve",
@@ -1590,7 +1590,7 @@
         {
           "id": "d18-word-21",
           "no": 21,
-          "audio": "/assets/day-18/online-homework/dictation/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/21.mp3",
           "image": null,
           "answer": null,
           "transcript": "invoice",
@@ -1605,7 +1605,7 @@
         {
           "id": "d18-word-22",
           "no": 22,
-          "audio": "/assets/day-18/online-homework/dictation/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/22.mp3",
           "image": null,
           "answer": null,
           "transcript": "know if",
@@ -1620,7 +1620,7 @@
         {
           "id": "d18-word-23",
           "no": 23,
-          "audio": "/assets/day-18/online-homework/dictation/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/23.mp3",
           "image": null,
           "answer": null,
           "transcript": "label",
@@ -1635,7 +1635,7 @@
         {
           "id": "d18-word-24",
           "no": 24,
-          "audio": "/assets/day-18/online-homework/dictation/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/24.mp3",
           "image": null,
           "answer": null,
           "transcript": "lead",
@@ -1650,7 +1650,7 @@
         {
           "id": "d18-word-25",
           "no": 25,
-          "audio": "/assets/day-18/online-homework/dictation/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/25.mp3",
           "image": null,
           "answer": null,
           "transcript": "lend",
@@ -1665,7 +1665,7 @@
         {
           "id": "d18-word-26",
           "no": 26,
-          "audio": "/assets/day-18/online-homework/dictation/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/26.mp3",
           "image": null,
           "answer": null,
           "transcript": "lower",
@@ -1680,7 +1680,7 @@
         {
           "id": "d18-word-27",
           "no": 27,
-          "audio": "/assets/day-18/online-homework/dictation/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/27.mp3",
           "image": null,
           "answer": null,
           "transcript": "mail",
@@ -1695,7 +1695,7 @@
         {
           "id": "d18-word-28",
           "no": 28,
-          "audio": "/assets/day-18/online-homework/dictation/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/28.mp3",
           "image": null,
           "answer": null,
           "transcript": "make sure",
@@ -1710,7 +1710,7 @@
         {
           "id": "d18-word-29",
           "no": 29,
-          "audio": "/assets/day-18/online-homework/dictation/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/29.mp3",
           "image": null,
           "answer": null,
           "transcript": "manual",
@@ -1725,7 +1725,7 @@
         {
           "id": "d18-word-30",
           "no": 30,
-          "audio": "/assets/day-18/online-homework/dictation/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/30.mp3",
           "image": null,
           "answer": null,
           "transcript": "monitor",
@@ -1740,7 +1740,7 @@
         {
           "id": "d18-word-31",
           "no": 31,
-          "audio": "/assets/day-18/online-homework/dictation/31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/31.mp3",
           "image": null,
           "answer": null,
           "transcript": "negotiation",
@@ -1755,7 +1755,7 @@
         {
           "id": "d18-word-32",
           "no": 32,
-          "audio": "/assets/day-18/online-homework/dictation/32.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/32.mp3",
           "image": null,
           "answer": null,
           "transcript": "no later than",
@@ -1770,7 +1770,7 @@
         {
           "id": "d18-word-33",
           "no": 33,
-          "audio": "/assets/day-18/online-homework/dictation/33.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/33.mp3",
           "image": null,
           "answer": null,
           "transcript": "process",
@@ -1785,7 +1785,7 @@
         {
           "id": "d18-word-34",
           "no": 34,
-          "audio": "/assets/day-18/online-homework/dictation/34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/34.mp3",
           "image": null,
           "answer": null,
           "transcript": "proofread",
@@ -1800,7 +1800,7 @@
         {
           "id": "d18-word-35",
           "no": 35,
-          "audio": "/assets/day-18/online-homework/dictation/35.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/35.mp3",
           "image": null,
           "answer": null,
           "transcript": "purchase",
@@ -1815,7 +1815,7 @@
         {
           "id": "d18-word-36",
           "no": 36,
-          "audio": "/assets/day-18/online-homework/dictation/36.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/36.mp3",
           "image": null,
           "answer": null,
           "transcript": "reception",
@@ -1830,7 +1830,7 @@
         {
           "id": "d18-word-37",
           "no": 37,
-          "audio": "/assets/day-18/online-homework/dictation/37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/37.mp3",
           "image": null,
           "answer": null,
           "transcript": "reimburse",
@@ -1845,7 +1845,7 @@
         {
           "id": "d18-word-38",
           "no": 38,
-          "audio": "/assets/day-18/online-homework/dictation/38.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/38.mp3",
           "image": null,
           "answer": null,
           "transcript": "renew",
@@ -1860,7 +1860,7 @@
         {
           "id": "d18-word-39",
           "no": 39,
-          "audio": "/assets/day-18/online-homework/dictation/39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/39.mp3",
           "image": null,
           "answer": null,
           "transcript": "ride",
@@ -1875,7 +1875,7 @@
         {
           "id": "d18-word-40",
           "no": 40,
-          "audio": "/assets/day-18/online-homework/dictation/40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/40.mp3",
           "image": null,
           "answer": null,
           "transcript": "run out",
@@ -1890,7 +1890,7 @@
         {
           "id": "d18-word-41",
           "no": 41,
-          "audio": "/assets/day-18/online-homework/dictation/41.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/41.mp3",
           "image": null,
           "answer": null,
           "transcript": "suggest",
@@ -1905,7 +1905,7 @@
         {
           "id": "d18-word-42",
           "no": 42,
-          "audio": "/assets/day-18/online-homework/dictation/42.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/42.mp3",
           "image": null,
           "answer": null,
           "transcript": "supervisor",
@@ -1920,7 +1920,7 @@
         {
           "id": "d18-word-43",
           "no": 43,
-          "audio": "/assets/day-18/online-homework/dictation/43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/43.mp3",
           "image": null,
           "answer": null,
           "transcript": "survey",
@@ -1935,7 +1935,7 @@
         {
           "id": "d18-word-44",
           "no": 44,
-          "audio": "/assets/day-18/online-homework/dictation/44.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/44.mp3",
           "image": null,
           "answer": null,
           "transcript": "transfer",
@@ -1950,7 +1950,7 @@
         {
           "id": "d18-word-45",
           "no": 45,
-          "audio": "/assets/day-18/online-homework/dictation/45.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/45.mp3",
           "image": null,
           "answer": null,
           "transcript": "upstairs",
@@ -1965,7 +1965,7 @@
         {
           "id": "d18-word-46",
           "no": 46,
-          "audio": "/assets/day-18/online-homework/dictation/46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/46.mp3",
           "image": null,
           "answer": null,
           "transcript": "weight",
@@ -1980,7 +1980,7 @@
         {
           "id": "d18-word-47",
           "no": 47,
-          "audio": "/assets/day-18/online-homework/dictation/47.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-18/online-homework/dictation/47.mp3",
           "image": null,
           "answer": null,
           "transcript": "wonder",

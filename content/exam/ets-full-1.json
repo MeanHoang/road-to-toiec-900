@@ -16,8 +16,8 @@
           "no": 1,
           "part": 1,
           "answer": "D",
-          "image": "/assets/exam/ets-full-1/images/p1-q1.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q1.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q1.mp3",
           "script": [
             {
               "voice": "N",
@@ -52,8 +52,8 @@
           "no": 2,
           "part": 1,
           "answer": "B",
-          "image": "/assets/exam/ets-full-1/images/p1-q2.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q2.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q2.mp3",
           "script": [
             {
               "voice": "N",
@@ -88,8 +88,8 @@
           "no": 3,
           "part": 1,
           "answer": "C",
-          "image": "/assets/exam/ets-full-1/images/p1-q3.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q3.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q3.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q3.mp3",
           "script": [
             {
               "voice": "N",
@@ -124,8 +124,8 @@
           "no": 4,
           "part": 1,
           "answer": "A",
-          "image": "/assets/exam/ets-full-1/images/p1-q4.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q4.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q4.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q4.mp3",
           "script": [
             {
               "voice": "N",
@@ -160,8 +160,8 @@
           "no": 5,
           "part": 1,
           "answer": "A",
-          "image": "/assets/exam/ets-full-1/images/p1-q5.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q5.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q5.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q5.mp3",
           "script": [
             {
               "voice": "N",
@@ -196,8 +196,8 @@
           "no": 6,
           "part": 1,
           "answer": "B",
-          "image": "/assets/exam/ets-full-1/images/p1-q6.jpg",
-          "audio": "/assets/exam/ets-full-1/audio/q6.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p1-q6.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q6.mp3",
           "script": [
             {
               "voice": "N",
@@ -243,7 +243,7 @@
           "no": 7,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q7.mp3",
           "script": [
             {
               "voice": "N",
@@ -278,7 +278,7 @@
           "no": 8,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q8.mp3",
           "script": [
             {
               "voice": "N",
@@ -313,7 +313,7 @@
           "no": 9,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q9.mp3",
           "script": [
             {
               "voice": "N",
@@ -348,7 +348,7 @@
           "no": 10,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q10.mp3",
           "script": [
             {
               "voice": "N",
@@ -383,7 +383,7 @@
           "no": 11,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q11.mp3",
           "script": [
             {
               "voice": "N",
@@ -418,7 +418,7 @@
           "no": 12,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q12.mp3",
           "script": [
             {
               "voice": "N",
@@ -453,7 +453,7 @@
           "no": 13,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q13.mp3",
           "script": [
             {
               "voice": "N",
@@ -488,7 +488,7 @@
           "no": 14,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q14.mp3",
           "script": [
             {
               "voice": "N",
@@ -523,7 +523,7 @@
           "no": 15,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q15.mp3",
           "script": [
             {
               "voice": "N",
@@ -558,7 +558,7 @@
           "no": 16,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q16.mp3",
           "script": [
             {
               "voice": "N",
@@ -593,7 +593,7 @@
           "no": 17,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q17.mp3",
           "script": [
             {
               "voice": "N",
@@ -628,7 +628,7 @@
           "no": 18,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q18.mp3",
           "script": [
             {
               "voice": "N",
@@ -663,7 +663,7 @@
           "no": 19,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q19.mp3",
           "script": [
             {
               "voice": "N",
@@ -698,7 +698,7 @@
           "no": 20,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q20.mp3",
           "script": [
             {
               "voice": "N",
@@ -733,7 +733,7 @@
           "no": 21,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q21.mp3",
           "script": [
             {
               "voice": "N",
@@ -768,7 +768,7 @@
           "no": 22,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q22.mp3",
           "script": [
             {
               "voice": "N",
@@ -803,7 +803,7 @@
           "no": 23,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q23.mp3",
           "script": [
             {
               "voice": "N",
@@ -838,7 +838,7 @@
           "no": 24,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q24.mp3",
           "script": [
             {
               "voice": "N",
@@ -873,7 +873,7 @@
           "no": 25,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q25.mp3",
           "script": [
             {
               "voice": "N",
@@ -908,7 +908,7 @@
           "no": 26,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q26.mp3",
           "script": [
             {
               "voice": "N",
@@ -943,7 +943,7 @@
           "no": 27,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q27.mp3",
           "script": [
             {
               "voice": "N",
@@ -978,7 +978,7 @@
           "no": 28,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q28.mp3",
           "script": [
             {
               "voice": "N",
@@ -1013,7 +1013,7 @@
           "no": 29,
           "part": 2,
           "answer": "B",
-          "audio": "/assets/exam/ets-full-1/audio/q29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q29.mp3",
           "script": [
             {
               "voice": "N",
@@ -1048,7 +1048,7 @@
           "no": 30,
           "part": 2,
           "answer": "A",
-          "audio": "/assets/exam/ets-full-1/audio/q30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q30.mp3",
           "script": [
             {
               "voice": "N",
@@ -1083,7 +1083,7 @@
           "no": 31,
           "part": 2,
           "answer": "C",
-          "audio": "/assets/exam/ets-full-1/audio/q31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/q31.mp3",
           "script": [
             {
               "voice": "N",
@@ -1119,7 +1119,7 @@
       "id": "ets-full-1-p3-32",
       "part": 3,
       "title": "Questions 32 through 34 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-32.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-32.mp3",
       "graphic": null,
       "script": [
         {
@@ -1210,7 +1210,7 @@
       "id": "ets-full-1-p3-35",
       "part": 3,
       "title": "Questions 35 through 37 refer to the following conversation with three speakers.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-35.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-35.mp3",
       "graphic": null,
       "script": [
         {
@@ -1306,7 +1306,7 @@
       "id": "ets-full-1-p3-38",
       "part": 3,
       "title": "Questions 38 through 40 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-38.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-38.mp3",
       "graphic": null,
       "script": [
         {
@@ -1397,7 +1397,7 @@
       "id": "ets-full-1-p3-41",
       "part": 3,
       "title": "Questions 41 through 43 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-41.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-41.mp3",
       "graphic": null,
       "script": [
         {
@@ -1493,7 +1493,7 @@
       "id": "ets-full-1-p3-44",
       "part": 3,
       "title": "Questions 44 through 46 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-44.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-44.mp3",
       "graphic": null,
       "script": [
         {
@@ -1584,7 +1584,7 @@
       "id": "ets-full-1-p3-47",
       "part": 3,
       "title": "Questions 47 through 49 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-47.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-47.mp3",
       "graphic": null,
       "script": [
         {
@@ -1685,7 +1685,7 @@
       "id": "ets-full-1-p3-50",
       "part": 3,
       "title": "Questions 50 through 52 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-50.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-50.mp3",
       "graphic": null,
       "script": [
         {
@@ -1776,7 +1776,7 @@
       "id": "ets-full-1-p3-53",
       "part": 3,
       "title": "Questions 53 through 55 refer to the following conversation with three speakers.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-53.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-53.mp3",
       "graphic": null,
       "script": [
         {
@@ -1882,7 +1882,7 @@
       "id": "ets-full-1-p3-56",
       "part": 3,
       "title": "Questions 56 through 58 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-56.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-56.mp3",
       "graphic": null,
       "script": [
         {
@@ -1993,7 +1993,7 @@
       "id": "ets-full-1-p3-59",
       "part": 3,
       "title": "Questions 59 through 61 refer to the following conversation.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-59.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-59.mp3",
       "graphic": null,
       "script": [
         {
@@ -2094,8 +2094,8 @@
       "id": "ets-full-1-p3-62",
       "part": 3,
       "title": "Questions 62 through 64 refer to the following conversation and price list.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-62.mp3",
-      "graphic": "/assets/exam/ets-full-1/images/p3-62-graphic.png",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-62.mp3",
+      "graphic": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p3-62-graphic.png",
       "script": [
         {
           "voice": "N",
@@ -2185,8 +2185,8 @@
       "id": "ets-full-1-p3-65",
       "part": 3,
       "title": "Questions 65 through 67 refer to the following conversation and schedule.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-65.mp3",
-      "graphic": "/assets/exam/ets-full-1/images/p3-65-graphic.png",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-65.mp3",
+      "graphic": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p3-65-graphic.png",
       "script": [
         {
           "voice": "N",
@@ -2291,8 +2291,8 @@
       "id": "ets-full-1-p3-68",
       "part": 3,
       "title": "Questions 68 through 70 refer to the following conversation and map.",
-      "audio": "/assets/exam/ets-full-1/audio/p3-68.mp3",
-      "graphic": "/assets/exam/ets-full-1/images/p3-68-graphic.png",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p3-68.mp3",
+      "graphic": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p3-68-graphic.png",
       "script": [
         {
           "voice": "N",
@@ -2382,7 +2382,7 @@
       "id": "ets-full-1-p4-71",
       "part": 4,
       "title": "Questions 71 through 73 refer to the following recorded message.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-71.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-71.mp3",
       "graphic": null,
       "script": [
         {
@@ -2458,7 +2458,7 @@
       "id": "ets-full-1-p4-74",
       "part": 4,
       "title": "Questions 74 through 76 refer to the following announcement.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-74.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-74.mp3",
       "graphic": null,
       "script": [
         {
@@ -2534,7 +2534,7 @@
       "id": "ets-full-1-p4-77",
       "part": 4,
       "title": "Questions 77 through 79 refer to the following telephone message.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-77.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-77.mp3",
       "graphic": null,
       "script": [
         {
@@ -2610,7 +2610,7 @@
       "id": "ets-full-1-p4-80",
       "part": 4,
       "title": "Questions 80 through 82 refer to the following announcement.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-80.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-80.mp3",
       "graphic": null,
       "script": [
         {
@@ -2686,7 +2686,7 @@
       "id": "ets-full-1-p4-83",
       "part": 4,
       "title": "Questions 83 through 85 refer to the following announcement.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-83.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-83.mp3",
       "graphic": null,
       "script": [
         {
@@ -2762,7 +2762,7 @@
       "id": "ets-full-1-p4-86",
       "part": 4,
       "title": "Questions 86 through 88 refer to the following advertisement.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-86.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-86.mp3",
       "graphic": null,
       "script": [
         {
@@ -2838,7 +2838,7 @@
       "id": "ets-full-1-p4-89",
       "part": 4,
       "title": "Questions 89 through 91 refer to the following telephone message.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-89.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-89.mp3",
       "graphic": null,
       "script": [
         {
@@ -2914,7 +2914,7 @@
       "id": "ets-full-1-p4-92",
       "part": 4,
       "title": "Questions 92 through 94 refer to the following announcement.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-92.mp3",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-92.mp3",
       "graphic": null,
       "script": [
         {
@@ -2990,8 +2990,8 @@
       "id": "ets-full-1-p4-95",
       "part": 4,
       "title": "Questions 95 through 97 refer to the following talk and list.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-95.mp3",
-      "graphic": "/assets/exam/ets-full-1/images/p4-95-graphic.png",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-95.mp3",
+      "graphic": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p4-95-graphic.png",
       "script": [
         {
           "voice": "N",
@@ -3066,8 +3066,8 @@
       "id": "ets-full-1-p4-98",
       "part": 4,
       "title": "Questions 98 through 100 refer to the following telephone message and picture.",
-      "audio": "/assets/exam/ets-full-1/audio/p4-98.mp3",
-      "graphic": "/assets/exam/ets-full-1/images/p4-98-graphic.png",
+      "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/audio/p4-98.mp3",
+      "graphic": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p4-98-graphic.png",
       "script": [
         {
           "voice": "N",
@@ -3542,7 +3542,7 @@
         "kind": "letter",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p6-131-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p6-131-1.png"
         ]
       },
       "questions": [
@@ -3608,7 +3608,7 @@
         "kind": "e-mail",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p6-135-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p6-135-1.png"
         ]
       },
       "questions": [
@@ -3674,7 +3674,7 @@
         "kind": "memo",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p6-139-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p6-139-1.png"
         ]
       },
       "questions": [
@@ -3740,7 +3740,7 @@
         "kind": "letter",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p6-143-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p6-143-1.png"
         ]
       },
       "questions": [
@@ -3806,7 +3806,7 @@
         "kind": "text-message chain",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-147-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-147-1.png"
         ]
       },
       "questions": [
@@ -3846,7 +3846,7 @@
         "kind": "advertisement",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-149-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-149-1.png"
         ]
       },
       "questions": [
@@ -3886,7 +3886,7 @@
         "kind": "message",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-151-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-151-1.png"
         ]
       },
       "questions": [
@@ -3926,7 +3926,7 @@
         "kind": "advertisement",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-153-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-153-1.png"
         ]
       },
       "questions": [
@@ -3979,7 +3979,7 @@
         "kind": "letter",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-156-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-156-1.png"
         ]
       },
       "questions": [
@@ -4019,7 +4019,7 @@
         "kind": "book review",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-158-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-158-1.png"
         ]
       },
       "questions": [
@@ -4072,7 +4072,7 @@
         "kind": "news article",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-161-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-161-1.png"
         ]
       },
       "questions": [
@@ -4125,7 +4125,7 @@
         "kind": "e-mail",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-164-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-164-1.png"
         ]
       },
       "questions": [
@@ -4191,7 +4191,7 @@
         "kind": "article",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-168-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-168-1.png"
         ]
       },
       "questions": [
@@ -4257,7 +4257,7 @@
         "kind": "online chat discussion",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-172-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-172-1.png"
         ]
       },
       "questions": [
@@ -4323,7 +4323,7 @@
         "kind": "e-mail and article",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-176-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-176-1.png"
         ]
       },
       "questions": [
@@ -4402,7 +4402,7 @@
         "kind": "press release and e-mail",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-181-1.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-181-1.png"
         ]
       },
       "questions": [
@@ -4481,8 +4481,8 @@
         "kind": "e-mails and survey",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-186-1.png",
-          "/assets/exam/ets-full-1/images/p7-186-2.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-186-1.png",
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-186-2.png"
         ]
       },
       "questions": [
@@ -4561,8 +4561,8 @@
         "kind": "e-mails and schedule",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-191-1.png",
-          "/assets/exam/ets-full-1/images/p7-191-2.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-191-1.png",
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-191-2.png"
         ]
       },
       "questions": [
@@ -4641,8 +4641,8 @@
         "kind": "letter, price list, and order form",
         "text": null,
         "images": [
-          "/assets/exam/ets-full-1/images/p7-196-1.png",
-          "/assets/exam/ets-full-1/images/p7-196-2.png"
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-196-1.png",
+          "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/exam/ets-full-1/images/p7-196-2.png"
         ]
       },
       "questions": [

@@ -23,7 +23,7 @@
         {
           "id": "d7-p71-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/1.mp3",
           "image": null,
           "answer": null,
           "transcript": "What papers should I send? The ones I gave you yesterday. The construction project files.",
@@ -38,7 +38,7 @@
         {
           "id": "d7-p71-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/2.mp3",
           "image": null,
           "answer": null,
           "transcript": "What time is the meeting? At one o'clock. Right after lunch.",
@@ -53,7 +53,7 @@
         {
           "id": "d7-p71-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/3.mp3",
           "image": null,
           "answer": null,
           "transcript": "What is the cost for this? Ten dollars. It's free.",
@@ -68,7 +68,7 @@
         {
           "id": "d7-p71-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/4.mp3",
           "image": null,
           "answer": null,
           "transcript": "What is the best way to the airport? Take the subway. I'll drive you there.",
@@ -83,7 +83,7 @@
         {
           "id": "d7-p71-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/5.mp3",
           "image": null,
           "answer": null,
           "transcript": "What will you do this evening? I'm going shopping. I'll just go home and relax.",
@@ -98,7 +98,7 @@
         {
           "id": "d7-p71-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/6.mp3",
           "image": null,
           "answer": null,
           "transcript": "What do you think of my suggestion? I was impressed. I think it's reasonable.",
@@ -113,7 +113,7 @@
         {
           "id": "d7-p71-07",
           "no": 7,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/7.mp3",
           "image": null,
           "answer": null,
           "transcript": "What is the size of the warehouse? I don't remember. I haven't checked.",
@@ -128,7 +128,7 @@
         {
           "id": "d7-p71-08",
           "no": 8,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/8.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -148,7 +148,7 @@
         {
           "id": "d7-p71-09",
           "no": 9,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/9.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -168,7 +168,7 @@
         {
           "id": "d7-p71-10",
           "no": 10,
-          "audio": "/assets/day-7/audio/practice-file-7-1-what/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-1-what/10.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -206,7 +206,7 @@
         {
           "id": "d7-p72-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/1.mp3",
           "image": null,
           "answer": null,
           "transcript": "How should we send the package? By mail. Use the post office. We'd better use a courier.",
@@ -221,7 +221,7 @@
         {
           "id": "d7-p72-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/2.mp3",
           "image": null,
           "answer": null,
           "transcript": "How many people will go to the seminar? About ten. Only a few in the division.",
@@ -236,7 +236,7 @@
         {
           "id": "d7-p72-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/3.mp3",
           "image": null,
           "answer": null,
           "transcript": "How much is this chair? Only twenty dollars. It comes to thirty euros.",
@@ -251,7 +251,7 @@
         {
           "id": "d7-p72-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/4.mp3",
           "image": null,
           "answer": null,
           "transcript": "How long have you been here? Almost a year. For nearly five months.",
@@ -266,7 +266,7 @@
         {
           "id": "d7-p72-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/5.mp3",
           "image": null,
           "answer": null,
           "transcript": "How often do you call the client? Once a month. Every two weeks.",
@@ -281,7 +281,7 @@
         {
           "id": "d7-p72-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/6.mp3",
           "image": null,
           "answer": null,
           "transcript": "How is the new computer? It's very good. It's much faster than the old one.",
@@ -296,7 +296,7 @@
         {
           "id": "d7-p72-07",
           "no": 7,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/7.mp3",
           "image": null,
           "answer": null,
           "transcript": "How do you like your coffee? Without sugar, please. I'll have mine black.",
@@ -311,7 +311,7 @@
         {
           "id": "d7-p72-08",
           "no": 8,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/8.mp3",
           "image": null,
           "answer": null,
           "transcript": "number one how long is this letter? a the letter is two pages long b she's five feet tall c it took two hours",
@@ -326,7 +326,7 @@
         {
           "id": "d7-p72-09",
           "no": 9,
-          "audio": "/assets/day-7/audio/practice-file-7-2-how/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-2-how/9.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -364,7 +364,7 @@
         {
           "id": "d7-p73-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/1.mp3",
           "image": null,
           "answer": null,
           "transcript": "Why did you contact the warehouse? Because we needed to get instructions. Because of a missing item.",
@@ -379,7 +379,7 @@
         {
           "id": "d7-p73-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/2.mp3",
           "image": null,
           "answer": null,
           "transcript": "Why was the meeting cancelled? In order to handle an urgent matter for personal business.",
@@ -394,7 +394,7 @@
         {
           "id": "d7-p73-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/3.mp3",
           "image": null,
           "answer": null,
           "transcript": "Why did you call Peter this morning? I needed directions. I needed to ask about the project.",
@@ -409,7 +409,7 @@
         {
           "id": "d7-p73-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/4.mp3",
           "image": null,
           "answer": null,
           "transcript": "Why were you late to the party? My car broke down. I was really busy.",
@@ -424,7 +424,7 @@
         {
           "id": "d7-p73-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/5.mp3",
           "image": null,
           "answer": null,
           "transcript": "Why isn't the printer working? I'm not sure. I have no idea.",
@@ -439,7 +439,7 @@
         {
           "id": "d7-p73-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/6.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -459,7 +459,7 @@
         {
           "id": "d7-p73-07",
           "no": 7,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/7.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -479,7 +479,7 @@
         {
           "id": "d7-p73-08",
           "no": 8,
-          "audio": "/assets/day-7/audio/practice-file-7-3-why/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/practice-file-7-3-why/8.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -517,7 +517,7 @@
         {
           "id": "d7-hw1-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/1.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -537,7 +537,7 @@
         {
           "id": "d7-hw1-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/2.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -557,7 +557,7 @@
         {
           "id": "d7-hw1-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/3.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -577,7 +577,7 @@
         {
           "id": "d7-hw1-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/4.mp3",
           "image": null,
           "question": "_____ Central Station?",
           "answer": "B",
@@ -599,7 +599,7 @@
         {
           "id": "d7-hw1-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -619,7 +619,7 @@
         {
           "id": "d7-hw1-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/6.mp3",
           "image": null,
           "question": "_____ did Ms. Johnson _____?",
           "answer": "A",
@@ -641,7 +641,7 @@
         {
           "id": "d7-hw1-07",
           "no": 7,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/7.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -661,7 +661,7 @@
         {
           "id": "d7-hw1-08",
           "no": 8,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/8.mp3",
           "image": null,
           "question": "_____ isn’t Amy _____?",
           "answer": "C",
@@ -683,7 +683,7 @@
         {
           "id": "d7-hw1-09",
           "no": 9,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/9.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -703,7 +703,7 @@
         {
           "id": "d7-hw1-10",
           "no": 10,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/10.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -723,7 +723,7 @@
         {
           "id": "d7-hw1-11",
           "no": 11,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/11.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -743,7 +743,7 @@
         {
           "id": "d7-hw1-12",
           "no": 12,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/12.mp3",
           "image": null,
           "question": "_____ did Marrion _____ the Thompson’s _____?",
           "answer": "A",
@@ -765,7 +765,7 @@
         {
           "id": "d7-hw1-13",
           "no": 13,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/13.mp3",
           "image": null,
           "question": "_____ Ms.Yi arrives?",
           "answer": "B",
@@ -787,7 +787,7 @@
         {
           "id": "d7-hw1-14",
           "no": 14,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -807,7 +807,7 @@
         {
           "id": "d7-hw1-15",
           "no": 15,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/15.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -827,7 +827,7 @@
         {
           "id": "d7-hw1-16",
           "no": 16,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/16.mp3",
           "image": null,
           "question": "_____ Milan _____?",
           "answer": "C",
@@ -849,7 +849,7 @@
         {
           "id": "d7-hw1-17",
           "no": 17,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -869,7 +869,7 @@
         {
           "id": "d7-hw1-18",
           "no": 18,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/18.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -889,7 +889,7 @@
         {
           "id": "d7-hw1-19",
           "no": 19,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/19.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -909,7 +909,7 @@
         {
           "id": "d7-hw1-20",
           "no": 20,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/20.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -929,7 +929,7 @@
         {
           "id": "d7-hw1-21",
           "no": 21,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/21.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -949,7 +949,7 @@
         {
           "id": "d7-hw1-22",
           "no": 22,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/22.mp3",
           "image": null,
           "question": "_____ with Dr. Feinstein?",
           "answer": "A",
@@ -971,7 +971,7 @@
         {
           "id": "d7-hw1-23",
           "no": 23,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/23.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -991,7 +991,7 @@
         {
           "id": "d7-hw1-24",
           "no": 24,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/24.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1011,7 +1011,7 @@
         {
           "id": "d7-hw1-25",
           "no": 25,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/25.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1031,7 +1031,7 @@
         {
           "id": "d7-hw1-26",
           "no": 26,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/26.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1051,7 +1051,7 @@
         {
           "id": "d7-hw1-27",
           "no": 27,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/27.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1071,7 +1071,7 @@
         {
           "id": "d7-hw1-28",
           "no": 28,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/28.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1091,7 +1091,7 @@
         {
           "id": "d7-hw1-29",
           "no": 29,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/29.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1111,7 +1111,7 @@
         {
           "id": "d7-hw1-30",
           "no": 30,
-          "audio": "/assets/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-1-30-cau-what-why-how-file-nghe-le/30.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1138,14 +1138,14 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-7/audio/homework-exercise-2-tranh/TEST 3.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh/TEST%203.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d7-hw2t3-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 1.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p10-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p10-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "he's looking in a file drawer.",
@@ -1164,8 +1164,8 @@
         {
           "id": "d7-hw2t3-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 2.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p10-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p10-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some people are sitting in a car.",
@@ -1184,8 +1184,8 @@
         {
           "id": "d7-hw2t3-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 3.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p11-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p11-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "Clothing is hanging on racks.",
@@ -1204,8 +1204,8 @@
         {
           "id": "d7-hw2t3-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 4.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p11-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p11-2.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some armchairs are occupied.",
@@ -1224,8 +1224,8 @@
         {
           "id": "d7-hw2t3-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 5.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p12-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p12-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "A flag is being raised on a pole.",
@@ -1244,8 +1244,8 @@
         {
           "id": "d7-hw2t3-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 3 - 6.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p12-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%203%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p12-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "A man is putting up a metal barrier.",
@@ -1271,14 +1271,14 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-7/audio/homework-exercise-2-tranh/TEST 4.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh/TEST%204.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d7-hw2t4-01",
           "no": 1,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 1.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p13-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p13-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "He's talking on a phone.",
@@ -1297,8 +1297,8 @@
         {
           "id": "d7-hw2t4-02",
           "no": 2,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 2.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p13-2full.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p13-2full.jpg",
           "answer": "C",
           "transcript": {
             "A": "One of the men is placing branches into a container.",
@@ -1317,8 +1317,8 @@
         {
           "id": "d7-hw2t4-03",
           "no": 3,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 3.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p14-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p14-1.jpg",
           "answer": "A",
           "transcript": {
             "A": "They're looking into a copy machine.",
@@ -1337,8 +1337,8 @@
         {
           "id": "d7-hw2t4-04",
           "no": 4,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 4.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p14-2full.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p14-2full.jpg",
           "answer": "A",
           "transcript": {
             "A": "Bags of merchandise are on display.",
@@ -1357,8 +1357,8 @@
         {
           "id": "d7-hw2t4-05",
           "no": 5,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 5.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p15-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p15-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "A man is unpacking a suitcase.",
@@ -1377,8 +1377,8 @@
         {
           "id": "d7-hw2t4-06",
           "no": 6,
-          "audio": "/assets/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST 4 - 6.mp3",
-          "image": "/assets/day-7/images/day-7-what-how-why/p15-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/audio/homework-exercise-2-tranh-file-nghe-le-tung-cau/TEST%204%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-7/images/day-7-what-how-why/p15-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some artwork is being framed.",

@@ -27,8 +27,8 @@
         {
           "id": "d21-hw-2020-t4-p1-01",
           "no": 1,
-          "audio": "/assets/day-21/web-2020-test-4/audio/01.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/01.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/01.jpg",
           "answer": "B",
           "transcript": {
             "A": "He's cutting a piece of bread.",
@@ -46,8 +46,8 @@
         {
           "id": "d21-hw-2020-t4-p1-02",
           "no": 2,
-          "audio": "/assets/day-21/web-2020-test-4/audio/02.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/02.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/02.jpg",
           "answer": "A",
           "transcript": {
             "A": "Some bicycles are parked outside.",
@@ -65,8 +65,8 @@
         {
           "id": "d21-hw-2020-t4-p1-03",
           "no": 3,
-          "audio": "/assets/day-21/web-2020-test-4/audio/03.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/03.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/03.jpg",
           "answer": "D",
           "transcript": {
             "A": "He's wiping a counter.",
@@ -84,8 +84,8 @@
         {
           "id": "d21-hw-2020-t4-p1-04",
           "no": 4,
-          "audio": "/assets/day-21/web-2020-test-4/audio/04.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/04.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/04.jpg",
           "answer": "C",
           "transcript": {
             "A": "She's folding her uniform.",
@@ -103,8 +103,8 @@
         {
           "id": "d21-hw-2020-t4-p1-05",
           "no": 5,
-          "audio": "/assets/day-21/web-2020-test-4/audio/05.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/05.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/05.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some chairs are occupied.",
@@ -122,8 +122,8 @@
         {
           "id": "d21-hw-2020-t4-p1-06",
           "no": 6,
-          "audio": "/assets/day-21/web-2020-test-4/audio/06.mp3",
-          "image": "/assets/day-21/web-2020-test-4/images/06.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/images/06.jpg",
           "answer": "D",
           "transcript": {
             "A": "There's a ladder leaning against the trunk of a tree.",
@@ -162,7 +162,7 @@
         {
           "id": "d21-hw-2020-t4-p2-07",
           "no": 7,
-          "audio": "/assets/day-21/web-2020-test-4/audio/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -180,7 +180,7 @@
         {
           "id": "d21-hw-2020-t4-p2-08",
           "no": 8,
-          "audio": "/assets/day-21/web-2020-test-4/audio/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/08.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -198,7 +198,7 @@
         {
           "id": "d21-hw-2020-t4-p2-09",
           "no": 9,
-          "audio": "/assets/day-21/web-2020-test-4/audio/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/09.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -216,7 +216,7 @@
         {
           "id": "d21-hw-2020-t4-p2-10",
           "no": 10,
-          "audio": "/assets/day-21/web-2020-test-4/audio/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/10.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -234,7 +234,7 @@
         {
           "id": "d21-hw-2020-t4-p2-11",
           "no": 11,
-          "audio": "/assets/day-21/web-2020-test-4/audio/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/11.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -252,7 +252,7 @@
         {
           "id": "d21-hw-2020-t4-p2-12",
           "no": 12,
-          "audio": "/assets/day-21/web-2020-test-4/audio/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/12.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -270,7 +270,7 @@
         {
           "id": "d21-hw-2020-t4-p2-13",
           "no": 13,
-          "audio": "/assets/day-21/web-2020-test-4/audio/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/13.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -288,7 +288,7 @@
         {
           "id": "d21-hw-2020-t4-p2-14",
           "no": 14,
-          "audio": "/assets/day-21/web-2020-test-4/audio/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -306,7 +306,7 @@
         {
           "id": "d21-hw-2020-t4-p2-15",
           "no": 15,
-          "audio": "/assets/day-21/web-2020-test-4/audio/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/15.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -324,7 +324,7 @@
         {
           "id": "d21-hw-2020-t4-p2-16",
           "no": 16,
-          "audio": "/assets/day-21/web-2020-test-4/audio/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/16.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -342,7 +342,7 @@
         {
           "id": "d21-hw-2020-t4-p2-17",
           "no": 17,
-          "audio": "/assets/day-21/web-2020-test-4/audio/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/17.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -360,7 +360,7 @@
         {
           "id": "d21-hw-2020-t4-p2-18",
           "no": 18,
-          "audio": "/assets/day-21/web-2020-test-4/audio/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/18.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -378,7 +378,7 @@
         {
           "id": "d21-hw-2020-t4-p2-19",
           "no": 19,
-          "audio": "/assets/day-21/web-2020-test-4/audio/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/19.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -396,7 +396,7 @@
         {
           "id": "d21-hw-2020-t4-p2-20",
           "no": 20,
-          "audio": "/assets/day-21/web-2020-test-4/audio/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/20.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -414,7 +414,7 @@
         {
           "id": "d21-hw-2020-t4-p2-21",
           "no": 21,
-          "audio": "/assets/day-21/web-2020-test-4/audio/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/21.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -432,7 +432,7 @@
         {
           "id": "d21-hw-2020-t4-p2-22",
           "no": 22,
-          "audio": "/assets/day-21/web-2020-test-4/audio/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/22.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -450,7 +450,7 @@
         {
           "id": "d21-hw-2020-t4-p2-23",
           "no": 23,
-          "audio": "/assets/day-21/web-2020-test-4/audio/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/23.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -468,7 +468,7 @@
         {
           "id": "d21-hw-2020-t4-p2-24",
           "no": 24,
-          "audio": "/assets/day-21/web-2020-test-4/audio/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/24.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -486,7 +486,7 @@
         {
           "id": "d21-hw-2020-t4-p2-25",
           "no": 25,
-          "audio": "/assets/day-21/web-2020-test-4/audio/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/25.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -504,7 +504,7 @@
         {
           "id": "d21-hw-2020-t4-p2-26",
           "no": 26,
-          "audio": "/assets/day-21/web-2020-test-4/audio/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/26.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -522,7 +522,7 @@
         {
           "id": "d21-hw-2020-t4-p2-27",
           "no": 27,
-          "audio": "/assets/day-21/web-2020-test-4/audio/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/27.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -540,7 +540,7 @@
         {
           "id": "d21-hw-2020-t4-p2-28",
           "no": 28,
-          "audio": "/assets/day-21/web-2020-test-4/audio/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/28.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -558,7 +558,7 @@
         {
           "id": "d21-hw-2020-t4-p2-29",
           "no": 29,
-          "audio": "/assets/day-21/web-2020-test-4/audio/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/29.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -576,7 +576,7 @@
         {
           "id": "d21-hw-2020-t4-p2-30",
           "no": 30,
-          "audio": "/assets/day-21/web-2020-test-4/audio/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/30.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -594,7 +594,7 @@
         {
           "id": "d21-hw-2020-t4-p2-31",
           "no": 31,
-          "audio": "/assets/day-21/web-2020-test-4/audio/31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/web-2020-test-4/audio/31.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -632,7 +632,7 @@
         {
           "id": "d21-ch8-01",
           "no": 1,
-          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/01-03.mp3",
           "image": null,
           "question": "Why does the woman call the man?",
           "options": {
@@ -655,7 +655,7 @@
         {
           "id": "d21-ch8-02",
           "no": 2,
-          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/01-03.mp3",
           "image": null,
           "question": "What is the problem with the man’s desk?",
           "options": {
@@ -678,7 +678,7 @@
         {
           "id": "d21-ch8-03",
           "no": 3,
-          "audio": "/assets/day-21/chapter-8/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/01-03.mp3",
           "image": null,
           "question": "What does the man ask the woman to do?",
           "options": {
@@ -701,7 +701,7 @@
         {
           "id": "d21-ch8-04",
           "no": 4,
-          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/04-06.mp3",
           "image": null,
           "question": "What is the purpose of the woman’s call?",
           "options": {
@@ -724,7 +724,7 @@
         {
           "id": "d21-ch8-05",
           "no": 5,
-          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/04-06.mp3",
           "image": null,
           "question": "What will be different for the next 90 days?",
           "options": {
@@ -747,7 +747,7 @@
         {
           "id": "d21-ch8-06",
           "no": 6,
-          "audio": "/assets/day-21/chapter-8/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/04-06.mp3",
           "image": null,
           "question": "What does the man say he will do?",
           "options": {
@@ -770,7 +770,7 @@
         {
           "id": "d21-ch8-07",
           "no": 7,
-          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/07-09.mp3",
           "image": null,
           "question": "What is in the information packet?",
           "options": {
@@ -793,7 +793,7 @@
         {
           "id": "d21-ch8-08",
           "no": 8,
-          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/07-09.mp3",
           "image": null,
           "question": "What does the woman want to do?",
           "options": {
@@ -816,7 +816,7 @@
         {
           "id": "d21-ch8-09",
           "no": 9,
-          "audio": "/assets/day-21/chapter-8/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/07-09.mp3",
           "image": null,
           "question": "What is the woman impressed by?",
           "options": {
@@ -839,7 +839,7 @@
         {
           "id": "d21-ch8-10",
           "no": 10,
-          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/10-12.mp3",
           "image": null,
           "question": "What are the speakers discussing?",
           "options": {
@@ -862,7 +862,7 @@
         {
           "id": "d21-ch8-11",
           "no": 11,
-          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/10-12.mp3",
           "image": null,
           "question": "What does the man imply when he says “A lot of people have been asking about it”?",
           "options": {
@@ -885,7 +885,7 @@
         {
           "id": "d21-ch8-12",
           "no": 12,
-          "audio": "/assets/day-21/chapter-8/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/10-12.mp3",
           "image": null,
           "question": "What does the woman plan to do?",
           "options": {
@@ -908,7 +908,7 @@
         {
           "id": "d21-ch8-13",
           "no": 13,
-          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/13-15.mp3",
           "image": null,
           "question": "What problem does the man call about?",
           "options": {
@@ -931,7 +931,7 @@
         {
           "id": "d21-ch8-14",
           "no": 14,
-          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/13-15.mp3",
           "image": null,
           "question": "When is the meeting?",
           "options": {
@@ -954,7 +954,7 @@
         {
           "id": "d21-ch8-15",
           "no": 15,
-          "audio": "/assets/day-21/chapter-8/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/13-15.mp3",
           "image": null,
           "question": "What does the woman suggest?",
           "options": {
@@ -977,7 +977,7 @@
         {
           "id": "d21-ch8-16",
           "no": 16,
-          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/16-18.mp3",
           "image": null,
           "question": "What is the man concerned about?",
           "options": {
@@ -1000,7 +1000,7 @@
         {
           "id": "d21-ch8-17",
           "no": 17,
-          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/16-18.mp3",
           "image": null,
           "question": "What did the woman forget to do?",
           "options": {
@@ -1023,7 +1023,7 @@
         {
           "id": "d21-ch8-18",
           "no": 18,
-          "audio": "/assets/day-21/chapter-8/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/16-18.mp3",
           "image": null,
           "question": "What does the man suggest?",
           "options": {
@@ -1046,8 +1046,8 @@
         {
           "id": "d21-ch8-19",
           "no": 19,
-          "audio": "/assets/day-21/chapter-8/19-21.mp3",
-          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/graphic.jpg",
           "question": "Why is the woman calling?",
           "options": {
             "A": "To upgrade an account",
@@ -1070,8 +1070,8 @@
         {
           "id": "d21-ch8-20",
           "no": 20,
-          "audio": "/assets/day-21/chapter-8/19-21.mp3",
-          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/graphic.jpg",
           "question": "Look at the graphic. What quantity on the original order form has to be changed?",
           "options": {
             "A": "10",
@@ -1094,8 +1094,8 @@
         {
           "id": "d21-ch8-21",
           "no": 21,
-          "audio": "/assets/day-21/chapter-8/19-21.mp3",
-          "image": "/assets/day-21/chapter-8/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-8/graphic.jpg",
           "question": "What has the woman’s manager instructed her to do?",
           "options": {
             "A": "Provide free shipping",
@@ -1138,7 +1138,7 @@
         {
           "id": "d21-ch9-01",
           "no": 1,
-          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/01-03.mp3",
           "image": null,
           "question": "Where does the conversation most likely take place?",
           "options": {
@@ -1161,7 +1161,7 @@
         {
           "id": "d21-ch9-02",
           "no": 2,
-          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/01-03.mp3",
           "image": null,
           "question": "What does the woman want to know?",
           "options": {
@@ -1184,7 +1184,7 @@
         {
           "id": "d21-ch9-03",
           "no": 3,
-          "audio": "/assets/day-21/chapter-9/01-03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/01-03.mp3",
           "image": null,
           "question": "What will the man probably do next?",
           "options": {
@@ -1207,7 +1207,7 @@
         {
           "id": "d21-ch9-04",
           "no": 4,
-          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/04-06.mp3",
           "image": null,
           "question": "Where does this conversation take place?",
           "options": {
@@ -1230,7 +1230,7 @@
         {
           "id": "d21-ch9-05",
           "no": 5,
-          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/04-06.mp3",
           "image": null,
           "question": "What does the woman want to do with her purchase?",
           "options": {
@@ -1253,7 +1253,7 @@
         {
           "id": "d21-ch9-06",
           "no": 6,
-          "audio": "/assets/day-21/chapter-9/04-06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/04-06.mp3",
           "image": null,
           "question": "Why is the woman unable to use her credit card?",
           "options": {
@@ -1276,7 +1276,7 @@
         {
           "id": "d21-ch9-07",
           "no": 7,
-          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/07-09.mp3",
           "image": null,
           "question": "Why have the speakers’ travel plans changed?",
           "options": {
@@ -1299,7 +1299,7 @@
         {
           "id": "d21-ch9-08",
           "no": 8,
-          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/07-09.mp3",
           "image": null,
           "question": "Where most likely are the speakers?",
           "options": {
@@ -1322,7 +1322,7 @@
         {
           "id": "d21-ch9-09",
           "no": 9,
-          "audio": "/assets/day-21/chapter-9/07-09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/07-09.mp3",
           "image": null,
           "question": "What will the speakers most likely do next?",
           "options": {
@@ -1345,7 +1345,7 @@
         {
           "id": "d21-ch9-10",
           "no": 10,
-          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/10-12.mp3",
           "image": null,
           "question": "What does the woman mean when she says “excuse me, do you work here”?",
           "options": {
@@ -1368,7 +1368,7 @@
         {
           "id": "d21-ch9-11",
           "no": 11,
-          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/10-12.mp3",
           "image": null,
           "question": "Who most likely is the man?",
           "options": {
@@ -1391,7 +1391,7 @@
         {
           "id": "d21-ch9-12",
           "no": 12,
-          "audio": "/assets/day-21/chapter-9/10-12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/10-12.mp3",
           "image": null,
           "question": "What does the man say about the camera?",
           "options": {
@@ -1414,7 +1414,7 @@
         {
           "id": "d21-ch9-13",
           "no": 13,
-          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/13-15.mp3",
           "image": null,
           "question": "What are the speakers mainly discussing?",
           "options": {
@@ -1437,7 +1437,7 @@
         {
           "id": "d21-ch9-14",
           "no": 14,
-          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/13-15.mp3",
           "image": null,
           "question": "What is the man concerned about?",
           "options": {
@@ -1460,7 +1460,7 @@
         {
           "id": "d21-ch9-15",
           "no": 15,
-          "audio": "/assets/day-21/chapter-9/13-15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/13-15.mp3",
           "image": null,
           "question": "What will probably happen in 6 weeks?",
           "options": {
@@ -1483,7 +1483,7 @@
         {
           "id": "d21-ch9-16",
           "no": 16,
-          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/16-18.mp3",
           "image": null,
           "question": "Why will the man be out of the office?",
           "options": {
@@ -1506,7 +1506,7 @@
         {
           "id": "d21-ch9-17",
           "no": 17,
-          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/16-18.mp3",
           "image": null,
           "question": "What does the woman offer to do?",
           "options": {
@@ -1529,7 +1529,7 @@
         {
           "id": "d21-ch9-18",
           "no": 18,
-          "audio": "/assets/day-21/chapter-9/16-18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/16-18.mp3",
           "image": null,
           "question": "What does the man say he will do before he leaves?",
           "options": {
@@ -1552,8 +1552,8 @@
         {
           "id": "d21-ch9-19",
           "no": 19,
-          "audio": "/assets/day-21/chapter-9/19-21.mp3",
-          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/graphic.jpg",
           "question": "What problem does the woman mention?",
           "options": {
             "A": "An item she purchased is defective",
@@ -1576,8 +1576,8 @@
         {
           "id": "d21-ch9-20",
           "no": 20,
-          "audio": "/assets/day-21/chapter-9/19-21.mp3",
-          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/graphic.jpg",
           "question": "What does the man say recently happened?",
           "options": {
             "A": "Merchandise was rearranged",
@@ -1600,8 +1600,8 @@
         {
           "id": "d21-ch9-21",
           "no": 21,
-          "audio": "/assets/day-21/chapter-9/19-21.mp3",
-          "image": "/assets/day-21/chapter-9/graphic.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/19-21.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/chapter-9/graphic.jpg",
           "question": "Look at the graphic. What discount will the woman most likely receive?",
           "options": {
             "A": "$2",
@@ -1641,7 +1641,7 @@
         {
           "id": "d21-word-01",
           "no": 1,
-          "audio": "/assets/day-21/online-homework/dictation/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/01.mp3",
           "image": null,
           "answer": null,
           "transcript": "accommodate",
@@ -1656,7 +1656,7 @@
         {
           "id": "d21-word-02",
           "no": 2,
-          "audio": "/assets/day-21/online-homework/dictation/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/02.mp3",
           "image": null,
           "answer": null,
           "transcript": "advantage",
@@ -1671,7 +1671,7 @@
         {
           "id": "d21-word-03",
           "no": 3,
-          "audio": "/assets/day-21/online-homework/dictation/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/03.mp3",
           "image": null,
           "answer": null,
           "transcript": "annual",
@@ -1686,7 +1686,7 @@
         {
           "id": "d21-word-04",
           "no": 4,
-          "audio": "/assets/day-21/online-homework/dictation/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/04.mp3",
           "image": null,
           "answer": null,
           "transcript": "application",
@@ -1701,7 +1701,7 @@
         {
           "id": "d21-word-05",
           "no": 5,
-          "audio": "/assets/day-21/online-homework/dictation/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/05.mp3",
           "image": null,
           "answer": null,
           "transcript": "author",
@@ -1716,7 +1716,7 @@
         {
           "id": "d21-word-06",
           "no": 6,
-          "audio": "/assets/day-21/online-homework/dictation/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/06.mp3",
           "image": null,
           "answer": null,
           "transcript": "away",
@@ -1731,7 +1731,7 @@
         {
           "id": "d21-word-07",
           "no": 7,
-          "audio": "/assets/day-21/online-homework/dictation/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/07.mp3",
           "image": null,
           "answer": null,
           "transcript": "background",
@@ -1746,7 +1746,7 @@
         {
           "id": "d21-word-08",
           "no": 8,
-          "audio": "/assets/day-21/online-homework/dictation/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/08.mp3",
           "image": null,
           "answer": null,
           "transcript": "block",
@@ -1761,7 +1761,7 @@
         {
           "id": "d21-word-09",
           "no": 9,
-          "audio": "/assets/day-21/online-homework/dictation/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/09.mp3",
           "image": null,
           "answer": null,
           "transcript": "broken",
@@ -1776,7 +1776,7 @@
         {
           "id": "d21-word-10",
           "no": 10,
-          "audio": "/assets/day-21/online-homework/dictation/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/10.mp3",
           "image": null,
           "answer": null,
           "transcript": "budget",
@@ -1791,7 +1791,7 @@
         {
           "id": "d21-word-11",
           "no": 11,
-          "audio": "/assets/day-21/online-homework/dictation/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/11.mp3",
           "image": null,
           "answer": null,
           "transcript": "connect",
@@ -1806,7 +1806,7 @@
         {
           "id": "d21-word-12",
           "no": 12,
-          "audio": "/assets/day-21/online-homework/dictation/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/12.mp3",
           "image": null,
           "answer": null,
           "transcript": "correct",
@@ -1821,7 +1821,7 @@
         {
           "id": "d21-word-13",
           "no": 13,
-          "audio": "/assets/day-21/online-homework/dictation/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/13.mp3",
           "image": null,
           "answer": null,
           "transcript": "correction",
@@ -1836,7 +1836,7 @@
         {
           "id": "d21-word-14",
           "no": 14,
-          "audio": "/assets/day-21/online-homework/dictation/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/14.mp3",
           "image": null,
           "answer": null,
           "transcript": "crowded",
@@ -1851,7 +1851,7 @@
         {
           "id": "d21-word-15",
           "no": 15,
-          "audio": "/assets/day-21/online-homework/dictation/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/15.mp3",
           "image": null,
           "answer": null,
           "transcript": "cut back",
@@ -1866,7 +1866,7 @@
         {
           "id": "d21-word-16",
           "no": 16,
-          "audio": "/assets/day-21/online-homework/dictation/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/16.mp3",
           "image": null,
           "answer": null,
           "transcript": "damaged",
@@ -1881,7 +1881,7 @@
         {
           "id": "d21-word-17",
           "no": 17,
-          "audio": "/assets/day-21/online-homework/dictation/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/17.mp3",
           "image": null,
           "answer": null,
           "transcript": "evaluation",
@@ -1896,7 +1896,7 @@
         {
           "id": "d21-word-18",
           "no": 18,
-          "audio": "/assets/day-21/online-homework/dictation/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/18.mp3",
           "image": null,
           "answer": null,
           "transcript": "expand",
@@ -1911,7 +1911,7 @@
         {
           "id": "d21-word-19",
           "no": 19,
-          "audio": "/assets/day-21/online-homework/dictation/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/19.mp3",
           "image": null,
           "answer": null,
           "transcript": "expense",
@@ -1926,7 +1926,7 @@
         {
           "id": "d21-word-20",
           "no": 20,
-          "audio": "/assets/day-21/online-homework/dictation/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/20.mp3",
           "image": null,
           "answer": null,
           "transcript": "fill out",
@@ -1941,7 +1941,7 @@
         {
           "id": "d21-word-21",
           "no": 21,
-          "audio": "/assets/day-21/online-homework/dictation/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/21.mp3",
           "image": null,
           "answer": null,
           "transcript": "hand out",
@@ -1956,7 +1956,7 @@
         {
           "id": "d21-word-22",
           "no": 22,
-          "audio": "/assets/day-21/online-homework/dictation/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/22.mp3",
           "image": null,
           "answer": null,
           "transcript": "in time",
@@ -1971,7 +1971,7 @@
         {
           "id": "d21-word-23",
           "no": 23,
-          "audio": "/assets/day-21/online-homework/dictation/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/23.mp3",
           "image": null,
           "answer": null,
           "transcript": "inconvenience",
@@ -1986,7 +1986,7 @@
         {
           "id": "d21-word-24",
           "no": 24,
-          "audio": "/assets/day-21/online-homework/dictation/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/24.mp3",
           "image": null,
           "answer": null,
           "transcript": "injure",
@@ -2001,7 +2001,7 @@
         {
           "id": "d21-word-25",
           "no": 25,
-          "audio": "/assets/day-21/online-homework/dictation/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/25.mp3",
           "image": null,
           "answer": null,
           "transcript": "landscaping",
@@ -2016,7 +2016,7 @@
         {
           "id": "d21-word-26",
           "no": 26,
-          "audio": "/assets/day-21/online-homework/dictation/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/26.mp3",
           "image": null,
           "answer": null,
           "transcript": "misplace",
@@ -2031,7 +2031,7 @@
         {
           "id": "d21-word-27",
           "no": 27,
-          "audio": "/assets/day-21/online-homework/dictation/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/27.mp3",
           "image": null,
           "answer": null,
           "transcript": "neighborhood",
@@ -2046,7 +2046,7 @@
         {
           "id": "d21-word-28",
           "no": 28,
-          "audio": "/assets/day-21/online-homework/dictation/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/28.mp3",
           "image": null,
           "answer": null,
           "transcript": "own",
@@ -2061,7 +2061,7 @@
         {
           "id": "d21-word-29",
           "no": 29,
-          "audio": "/assets/day-21/online-homework/dictation/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/29.mp3",
           "image": null,
           "answer": null,
           "transcript": "policy",
@@ -2076,7 +2076,7 @@
         {
           "id": "d21-word-30",
           "no": 30,
-          "audio": "/assets/day-21/online-homework/dictation/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/30.mp3",
           "image": null,
           "answer": null,
           "transcript": "popular",
@@ -2091,7 +2091,7 @@
         {
           "id": "d21-word-31",
           "no": 31,
-          "audio": "/assets/day-21/online-homework/dictation/31.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/31.mp3",
           "image": null,
           "answer": null,
           "transcript": "postpone",
@@ -2106,7 +2106,7 @@
         {
           "id": "d21-word-32",
           "no": 32,
-          "audio": "/assets/day-21/online-homework/dictation/32.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/32.mp3",
           "image": null,
           "answer": null,
           "transcript": "project",
@@ -2121,7 +2121,7 @@
         {
           "id": "d21-word-33",
           "no": 33,
-          "audio": "/assets/day-21/online-homework/dictation/33.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/33.mp3",
           "image": null,
           "answer": null,
           "transcript": "public",
@@ -2136,7 +2136,7 @@
         {
           "id": "d21-word-34",
           "no": 34,
-          "audio": "/assets/day-21/online-homework/dictation/34.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/34.mp3",
           "image": null,
           "answer": null,
           "transcript": "qualified",
@@ -2151,7 +2151,7 @@
         {
           "id": "d21-word-35",
           "no": 35,
-          "audio": "/assets/day-21/online-homework/dictation/35.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/35.mp3",
           "image": null,
           "answer": null,
           "transcript": "reasonable",
@@ -2166,7 +2166,7 @@
         {
           "id": "d21-word-36",
           "no": 36,
-          "audio": "/assets/day-21/online-homework/dictation/36.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/36.mp3",
           "image": null,
           "answer": null,
           "transcript": "regional",
@@ -2181,7 +2181,7 @@
         {
           "id": "d21-word-37",
           "no": 37,
-          "audio": "/assets/day-21/online-homework/dictation/37.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/37.mp3",
           "image": null,
           "answer": null,
           "transcript": "release",
@@ -2196,7 +2196,7 @@
         {
           "id": "d21-word-38",
           "no": 38,
-          "audio": "/assets/day-21/online-homework/dictation/38.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/38.mp3",
           "image": null,
           "answer": null,
           "transcript": "rent",
@@ -2211,7 +2211,7 @@
         {
           "id": "d21-word-39",
           "no": 39,
-          "audio": "/assets/day-21/online-homework/dictation/39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/39.mp3",
           "image": null,
           "answer": null,
           "transcript": "see if",
@@ -2224,7 +2224,7 @@
         {
           "id": "d21-word-40",
           "no": 40,
-          "audio": "/assets/day-21/online-homework/dictation/40.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/40.mp3",
           "image": null,
           "answer": null,
           "transcript": "set aside",
@@ -2239,7 +2239,7 @@
         {
           "id": "d21-word-41",
           "no": 41,
-          "audio": "/assets/day-21/online-homework/dictation/41.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/41.mp3",
           "image": null,
           "answer": null,
           "transcript": "shape",
@@ -2254,7 +2254,7 @@
         {
           "id": "d21-word-42",
           "no": 42,
-          "audio": "/assets/day-21/online-homework/dictation/42.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/42.mp3",
           "image": null,
           "answer": null,
           "transcript": "sound",
@@ -2269,7 +2269,7 @@
         {
           "id": "d21-word-43",
           "no": 43,
-          "audio": "/assets/day-21/online-homework/dictation/43.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/43.mp3",
           "image": null,
           "answer": null,
           "transcript": "space",
@@ -2284,7 +2284,7 @@
         {
           "id": "d21-word-44",
           "no": 44,
-          "audio": "/assets/day-21/online-homework/dictation/44.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/44.mp3",
           "image": null,
           "answer": null,
           "transcript": "specialize",
@@ -2299,7 +2299,7 @@
         {
           "id": "d21-word-45",
           "no": 45,
-          "audio": "/assets/day-21/online-homework/dictation/45.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/45.mp3",
           "image": null,
           "answer": null,
           "transcript": "suspend",
@@ -2314,7 +2314,7 @@
         {
           "id": "d21-word-46",
           "no": 46,
-          "audio": "/assets/day-21/online-homework/dictation/46.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/46.mp3",
           "image": null,
           "answer": null,
           "transcript": "that way",
@@ -2327,7 +2327,7 @@
         {
           "id": "d21-word-47",
           "no": 47,
-          "audio": "/assets/day-21/online-homework/dictation/47.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/47.mp3",
           "image": null,
           "answer": null,
           "transcript": "turn out",
@@ -2342,7 +2342,7 @@
         {
           "id": "d21-word-48",
           "no": 48,
-          "audio": "/assets/day-21/online-homework/dictation/48.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-21/online-homework/dictation/48.mp3",
           "image": null,
           "answer": null,
           "transcript": "workload",

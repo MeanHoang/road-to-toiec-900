@@ -28,8 +28,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v01-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v01-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v01-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v01-uk.mp3"
       }
     },
     {
@@ -56,8 +56,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v02-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v02-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v02-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v02-uk.mp3"
       }
     },
     {
@@ -84,8 +84,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v03-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v03-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v03-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v03-uk.mp3"
       }
     },
     {
@@ -112,8 +112,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v04-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v04-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v04-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v04-uk.mp3"
       }
     },
     {
@@ -140,8 +140,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v05-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v05-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v05-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v05-uk.mp3"
       }
     },
     {
@@ -168,8 +168,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v06-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v06-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v06-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v06-uk.mp3"
       }
     },
     {
@@ -196,8 +196,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v07-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v07-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v07-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v07-uk.mp3"
       }
     },
     {
@@ -224,8 +224,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v08-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v08-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v08-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v08-uk.mp3"
       }
     },
     {
@@ -252,8 +252,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v09-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v09-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v09-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v09-uk.mp3"
       }
     },
     {
@@ -280,8 +280,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v10-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v10-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v10-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v10-uk.mp3"
       }
     },
     {
@@ -308,8 +308,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v11-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v11-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v11-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v11-uk.mp3"
       }
     },
     {
@@ -336,8 +336,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v12-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v12-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v12-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v12-uk.mp3"
       }
     },
     {
@@ -364,8 +364,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v13-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v13-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v13-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v13-uk.mp3"
       }
     },
     {
@@ -392,8 +392,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v14-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v14-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v14-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v14-uk.mp3"
       }
     },
     {
@@ -420,8 +420,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v15-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v15-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v15-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v15-uk.mp3"
       }
     },
     {
@@ -448,8 +448,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v16-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v16-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v16-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v16-uk.mp3"
       }
     },
     {
@@ -476,8 +476,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v17-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v17-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v17-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v17-uk.mp3"
       }
     },
     {
@@ -504,8 +504,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v18-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v18-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v18-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v18-uk.mp3"
       }
     },
     {
@@ -532,8 +532,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v19-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v19-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v19-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v19-uk.mp3"
       }
     },
     {
@@ -560,8 +560,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v20-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v20-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v20-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v20-uk.mp3"
       }
     },
     {
@@ -586,8 +586,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v21-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v21-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v21-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v21-uk.mp3"
       }
     },
     {
@@ -612,8 +612,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v22-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v22-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v22-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v22-uk.mp3"
       }
     },
     {
@@ -638,8 +638,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v23-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v23-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v23-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v23-uk.mp3"
       }
     },
     {
@@ -664,8 +664,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v24-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v24-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v24-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v24-uk.mp3"
       }
     },
     {
@@ -690,8 +690,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v25-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v25-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v25-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v25-uk.mp3"
       }
     },
     {
@@ -716,8 +716,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v26-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v26-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v26-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v26-uk.mp3"
       }
     },
     {
@@ -742,8 +742,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v27-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v27-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v27-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v27-uk.mp3"
       }
     },
     {
@@ -768,8 +768,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v28-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v28-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v28-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v28-uk.mp3"
       }
     },
     {
@@ -794,8 +794,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v29-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v29-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v29-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v29-uk.mp3"
       }
     },
     {
@@ -820,8 +820,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v30-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v30-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v30-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v30-uk.mp3"
       }
     },
     {
@@ -846,8 +846,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v31-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v31-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v31-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v31-uk.mp3"
       }
     },
     {
@@ -872,8 +872,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v32-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v32-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v32-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v32-uk.mp3"
       }
     },
     {
@@ -898,8 +898,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v33-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v33-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v33-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v33-uk.mp3"
       }
     },
     {
@@ -924,8 +924,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v34-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v34-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v34-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v34-uk.mp3"
       }
     },
     {
@@ -950,8 +950,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v35-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v35-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v35-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v35-uk.mp3"
       }
     },
     {
@@ -976,8 +976,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v36-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v36-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v36-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v36-uk.mp3"
       }
     },
     {
@@ -1002,8 +1002,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v37-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v37-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v37-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v37-uk.mp3"
       }
     },
     {
@@ -1028,8 +1028,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v38-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v38-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v38-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v38-uk.mp3"
       }
     },
     {
@@ -1054,8 +1054,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v39-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v39-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v39-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v39-uk.mp3"
       }
     },
     {
@@ -1080,8 +1080,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v40-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v40-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v40-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v40-uk.mp3"
       }
     },
     {
@@ -1106,8 +1106,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v41-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v41-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v41-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v41-uk.mp3"
       }
     },
     {
@@ -1132,8 +1132,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v42-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v42-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v42-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v42-uk.mp3"
       }
     },
     {
@@ -1158,8 +1158,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v43-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v43-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v43-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v43-uk.mp3"
       }
     },
     {
@@ -1184,8 +1184,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v44-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v44-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v44-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v44-uk.mp3"
       }
     },
     {
@@ -1210,8 +1210,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v45-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v45-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v45-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v45-uk.mp3"
       }
     },
     {
@@ -1236,8 +1236,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v46-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v46-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v46-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v46-uk.mp3"
       }
     },
     {
@@ -1262,8 +1262,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v47-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v47-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v47-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v47-uk.mp3"
       }
     },
     {
@@ -1288,8 +1288,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v48-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v48-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v48-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v48-uk.mp3"
       }
     },
     {
@@ -1314,8 +1314,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v49-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v49-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v49-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v49-uk.mp3"
       }
     },
     {
@@ -1340,8 +1340,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v50-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v50-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v50-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v50-uk.mp3"
       }
     },
     {
@@ -1366,8 +1366,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v51-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v51-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v51-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v51-uk.mp3"
       }
     },
     {
@@ -1392,8 +1392,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v52-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v52-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v52-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v52-uk.mp3"
       }
     },
     {
@@ -1418,8 +1418,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v53-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v53-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v53-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v53-uk.mp3"
       }
     },
     {
@@ -1444,8 +1444,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v54-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v54-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v54-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v54-uk.mp3"
       }
     },
     {
@@ -1470,8 +1470,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v55-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v55-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v55-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v55-uk.mp3"
       }
     },
     {
@@ -1496,8 +1496,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v56-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v56-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v56-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v56-uk.mp3"
       }
     },
     {
@@ -1522,8 +1522,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v57-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v57-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v57-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v57-uk.mp3"
       }
     },
     {
@@ -1536,7 +1536,7 @@
         "us": "/ˈdaɪnɪŋ ət ə ˈrestərɑːnt/"
       },
       "meaningVi": "dùng bữa tại nhà hàng",
-      "image": "/assets/day-11/images/hw4/03.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/images/hw4/03.jpg",
       "example": null,
       "group": "Kitchen and dining",
       "source": {
@@ -1548,8 +1548,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v58-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v58-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v58-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v58-uk.mp3"
       }
     },
     {
@@ -1574,8 +1574,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v59-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v59-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v59-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v59-uk.mp3"
       }
     },
     {
@@ -1600,8 +1600,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v60-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v60-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v60-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v60-uk.mp3"
       }
     },
     {
@@ -1626,8 +1626,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v61-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v61-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v61-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v61-uk.mp3"
       }
     },
     {
@@ -1652,8 +1652,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v62-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v62-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v62-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v62-uk.mp3"
       }
     },
     {
@@ -1678,8 +1678,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v63-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v63-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v63-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v63-uk.mp3"
       }
     },
     {
@@ -1704,8 +1704,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v64-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v64-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v64-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v64-uk.mp3"
       }
     },
     {
@@ -1730,8 +1730,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v65-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v65-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v65-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v65-uk.mp3"
       }
     },
     {
@@ -1756,8 +1756,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v66-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v66-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v66-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v66-uk.mp3"
       }
     },
     {
@@ -1782,8 +1782,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v67-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v67-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v67-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v67-uk.mp3"
       }
     },
     {
@@ -1808,8 +1808,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v68-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v68-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v68-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v68-uk.mp3"
       }
     },
     {
@@ -1834,8 +1834,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v69-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v69-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v69-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v69-uk.mp3"
       }
     },
     {
@@ -1860,8 +1860,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v70-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v70-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v70-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v70-uk.mp3"
       }
     },
     {
@@ -1886,8 +1886,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v71-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v71-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v71-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v71-uk.mp3"
       }
     },
     {
@@ -1912,8 +1912,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v72-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v72-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v72-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v72-uk.mp3"
       }
     },
     {
@@ -1938,8 +1938,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v73-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v73-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v73-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v73-uk.mp3"
       }
     },
     {
@@ -1964,8 +1964,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v74-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v74-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v74-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v74-uk.mp3"
       }
     },
     {
@@ -1990,8 +1990,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v75-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v75-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v75-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v75-uk.mp3"
       }
     },
     {
@@ -2016,8 +2016,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v76-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v76-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v76-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v76-uk.mp3"
       }
     },
     {
@@ -2042,8 +2042,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v77-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v77-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v77-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v77-uk.mp3"
       }
     },
     {
@@ -2068,8 +2068,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v78-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v78-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v78-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v78-uk.mp3"
       }
     },
     {
@@ -2094,8 +2094,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v79-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v79-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v79-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v79-uk.mp3"
       }
     },
     {
@@ -2120,8 +2120,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v80-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v80-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v80-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v80-uk.mp3"
       }
     },
     {
@@ -2146,8 +2146,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v81-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v81-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v81-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v81-uk.mp3"
       }
     },
     {
@@ -2172,8 +2172,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v82-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v82-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v82-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v82-uk.mp3"
       }
     },
     {
@@ -2198,8 +2198,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v83-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v83-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v83-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v83-uk.mp3"
       }
     },
     {
@@ -2224,8 +2224,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v84-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v84-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v84-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v84-uk.mp3"
       }
     },
     {
@@ -2250,8 +2250,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v85-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v85-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v85-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v85-uk.mp3"
       }
     },
     {
@@ -2276,8 +2276,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v86-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v86-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v86-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v86-uk.mp3"
       }
     },
     {
@@ -2302,8 +2302,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v87-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v87-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v87-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v87-uk.mp3"
       }
     },
     {
@@ -2328,8 +2328,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v88-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v88-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v88-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v88-uk.mp3"
       }
     },
     {
@@ -2354,8 +2354,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v89-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v89-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v89-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v89-uk.mp3"
       }
     },
     {
@@ -2380,8 +2380,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v90-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v90-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v90-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v90-uk.mp3"
       }
     },
     {
@@ -2406,8 +2406,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v91-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v91-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v91-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v91-uk.mp3"
       }
     },
     {
@@ -2432,8 +2432,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v92-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v92-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v92-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v92-uk.mp3"
       }
     },
     {
@@ -2458,8 +2458,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v93-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v93-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v93-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v93-uk.mp3"
       }
     },
     {
@@ -2484,8 +2484,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v94-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v94-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v94-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v94-uk.mp3"
       }
     },
     {
@@ -2510,8 +2510,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v95-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v95-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v95-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v95-uk.mp3"
       }
     },
     {
@@ -2536,8 +2536,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v96-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v96-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v96-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v96-uk.mp3"
       }
     },
     {
@@ -2562,8 +2562,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v97-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v97-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v97-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v97-uk.mp3"
       }
     },
     {
@@ -2588,8 +2588,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v98-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v98-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v98-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v98-uk.mp3"
       }
     },
     {
@@ -2614,8 +2614,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v99-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v99-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v99-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v99-uk.mp3"
       }
     },
     {
@@ -2640,8 +2640,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v100-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v100-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v100-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v100-uk.mp3"
       }
     },
     {
@@ -2666,8 +2666,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v101-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v101-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v101-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v101-uk.mp3"
       }
     },
     {
@@ -2692,8 +2692,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v102-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v102-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v102-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v102-uk.mp3"
       }
     },
     {
@@ -2718,8 +2718,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v103-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v103-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v103-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v103-uk.mp3"
       }
     },
     {
@@ -2744,8 +2744,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v104-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v104-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v104-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v104-uk.mp3"
       }
     },
     {
@@ -2770,8 +2770,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v105-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v105-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v105-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v105-uk.mp3"
       }
     },
     {
@@ -2796,8 +2796,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v106-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v106-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v106-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v106-uk.mp3"
       }
     },
     {
@@ -2822,8 +2822,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v107-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v107-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v107-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v107-uk.mp3"
       }
     },
     {
@@ -2848,8 +2848,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v108-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v108-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v108-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v108-uk.mp3"
       }
     },
     {
@@ -2874,8 +2874,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v109-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v109-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v109-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v109-uk.mp3"
       }
     },
     {
@@ -2900,8 +2900,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v110-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v110-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v110-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v110-uk.mp3"
       }
     },
     {
@@ -2926,8 +2926,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v111-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v111-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v111-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v111-uk.mp3"
       }
     },
     {
@@ -2940,7 +2940,7 @@
         "us": "/rɪˈperɪŋ ə ˈviːəkl/"
       },
       "meaningVi": "sửa một phương tiện",
-      "image": "/assets/day-11/images/hw6/02.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/images/hw6/02.jpg",
       "example": null,
       "group": "Construction and repairs",
       "source": {
@@ -2952,8 +2952,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v112-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v112-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v112-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v112-uk.mp3"
       }
     },
     {
@@ -2966,7 +2966,7 @@
         "us": "/ˈwɜːrkɪŋ ɑːn ə ˈməʊtərbaɪk/"
       },
       "meaningVi": "sửa chữa xe máy",
-      "image": "/assets/day-11/images/hw6/02.jpg",
+      "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/images/hw6/02.jpg",
       "example": null,
       "group": "Construction and repairs",
       "source": {
@@ -2978,8 +2978,8 @@
         "voice": "tts"
       },
       "voice": {
-        "us": "/assets/day-11/voice-neural/d11-v113-us.mp3",
-        "uk": "/assets/day-11/voice-neural/d11-v113-uk.mp3"
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v113-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-11/voice-neural/d11-v113-uk.mp3"
       }
     },
     {

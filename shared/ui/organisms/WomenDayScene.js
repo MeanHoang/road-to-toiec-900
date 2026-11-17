@@ -15,9 +15,10 @@
 // Trang trí thuần: không đọc tiến độ, không fetch nội dung bài học, không biết
 // TOEIC là gì — nên nó ở `shared/`.
 
+import { MEDIA_BASE } from '@/shared/lib/media';
 import { LottiePiece } from '@/shared/ui/molecules/LottiePiece';
 
-const A = '/assets/event/women-day';
+const A = `${MEDIA_BASE}event/women-day`;
 
 /**
  * Cánh hoa rơi kín màn.

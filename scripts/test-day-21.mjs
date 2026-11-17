@@ -1,7 +1,10 @@
 ﻿import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { assemble } from '../features/lesson/schema.js';
 import { translate } from '../features/language/translate.js';
+import { mediaChecker } from './lib/media.mjs';
+
+const hasMedia = await mediaChecker();
 
 const read = (name) => JSON.parse(readFileSync(`content/day-21/${name}.json`, 'utf8'));
 const day = assemble('day-21', { day: read('day'), theory: read('theory'), vocabulary: read('vocabulary'), listening: read('listening'), exercises: read('exercises') });
@@ -17,19 +20,19 @@ assert.equal(new Set(ids).size, ids.length);
 const words = day.listening.find((s) => s.code === 'words');
 assert.equal(words.mode, 'dictation'); assert.equal(words.source, 'thaylong');
 for (const q of words.questions) {
-  assert.ok(existsSync(`public${q.audio}`), q.audio);
+  assert.ok(hasMedia(q.audio), q.audio);
   assert.ok(q.transcript && q.transcript === q.transcript.trim(), q.id);
 }
 for (const set of day.listening.filter((s) => s.mode !== 'dictation')) {
   for (const q of set.questions) {
-    assert.ok(existsSync(`public${q.audio}`), q.audio);
+    assert.ok(hasMedia(q.audio), q.audio);
     assert.ok(set.choices.includes(q.answer), q.id);
     // Chapter 8/9 keys and conversations come from the DAY 13 KEY HW folder; the web sets stay AI-answered.
     if (set.part === 3) {
       assert.equal(q.source.answer, 'drive', q.id); assert.equal(q.source.transcript, 'drive', q.id);
       assert.ok(/^(W|M\d?): /m.test(q.transcript), q.id);
     } else assert.equal(q.source.answer, 'ai', q.id);
-    if (q.image) assert.ok(existsSync(`public${q.image}`), q.image);
+    if (q.image) assert.ok(hasMedia(q.image), q.image);
     if (set.part === 1) assert.ok(q.image, q.id);
     if (set.part === 2) assert.ok(q.transcript.Q, q.id);
     if (set.part === 3) for (const letter of set.choices) assert.ok(q.options[letter], q.id);
@@ -58,8 +61,8 @@ for (const q of day.exercises.filter((s) => s.part === 7).flatMap((s) => s.quest
 
 assert.equal(day.vocabulary.length, 25);
 assert.equal(new Set(day.vocabulary.map((v) => v.word)).size, 25);
-for (const v of day.vocabulary) for (const accent of ['uk', 'us']) assert.ok(existsSync(`public${v.voice[accent]}`));
-assert.ok(existsSync('public/assets/day-21/flashcard.pdf'));
+for (const v of day.vocabulary) for (const accent of ['uk', 'us']) assert.ok(hasMedia(v.voice[accent]));
+assert.ok(hasMedia('/assets/day-21/flashcard.pdf'));
 
 for (const label of [day.subtitle, day.exerciseLabel, ...day.theory.map((b) => b.title), ...day.theory.flatMap((b) => Object.keys(b.groups || {})),
   ...day.listening.flatMap((s) => [s.title, s.subtitle]), ...day.vocabulary.map((v) => v.group), ...day.exercises.flatMap((s) => [s.title, s.subtitle])]) {

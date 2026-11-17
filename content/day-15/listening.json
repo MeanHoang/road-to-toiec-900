@@ -19,14 +19,14 @@
       "mode": "dictation",
       "hasKey": true,
       "showPhoto": true,
-      "fullAudio": "/assets/day-15/audio/part 1.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/part%201.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d15-photos-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/photos/01.mp3",
-          "image": "/assets/day-15/images/photos/01.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/01.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/01.jpg",
           "answer": "D",
           "transcript": {
             "A": "They're eating in a cafe.",
@@ -45,8 +45,8 @@
         {
           "id": "d15-photos-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/photos/02.mp3",
-          "image": "/assets/day-15/images/photos/02.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/02.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/02.jpg",
           "answer": "A",
           "transcript": {
             "A": "He's watering the plants.",
@@ -65,8 +65,8 @@
         {
           "id": "d15-photos-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/photos/03.mp3",
-          "image": "/assets/day-15/images/photos/03.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/03.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/03.jpg",
           "answer": "A",
           "transcript": {
             "A": "They're using some computers.",
@@ -85,8 +85,8 @@
         {
           "id": "d15-photos-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/photos/04.mp3",
-          "image": "/assets/day-15/images/photos/04.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/04.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/04.jpg",
           "answer": "C",
           "transcript": {
             "A": "She's carrying some books.",
@@ -105,8 +105,8 @@
         {
           "id": "d15-photos-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/photos/05.mp3",
-          "image": "/assets/day-15/images/photos/05.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/05.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/05.jpg",
           "answer": "B",
           "transcript": {
             "A": "They're taking off their glasses.",
@@ -125,8 +125,8 @@
         {
           "id": "d15-photos-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/photos/06.mp3",
-          "image": "/assets/day-15/images/photos/06.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/06.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/06.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some people are building benches.",
@@ -145,8 +145,8 @@
         {
           "id": "d15-photos-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/photos/07.mp3",
-          "image": "/assets/day-15/images/photos/07.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/07.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/07.jpg",
           "answer": "D",
           "transcript": {
             "A": "The man's placing some food in an oven.",
@@ -165,8 +165,8 @@
         {
           "id": "d15-photos-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/photos/08.mp3",
-          "image": "/assets/day-15/images/photos/08.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/08.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/08.jpg",
           "answer": "B",
           "transcript": {
             "A": "Vehicles are passing over a bridge.",
@@ -185,8 +185,8 @@
         {
           "id": "d15-photos-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/photos/09.mp3",
-          "image": "/assets/day-15/images/photos/09.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/09.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/09.jpg",
           "answer": "B",
           "transcript": {
             "A": "A worker's laying floor tiles.",
@@ -205,8 +205,8 @@
         {
           "id": "d15-photos-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/photos/10.mp3",
-          "image": "/assets/day-15/images/photos/10.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/photos/10.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/images/photos/10.jpg",
           "answer": "C",
           "transcript": {
             "A": "Some tables are stacked in a pile.",
@@ -242,7 +242,7 @@
         {
           "id": "d15-how-e-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/how-how-e/n1.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n1.7.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -261,7 +261,7 @@
         {
           "id": "d15-how-e-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/how-how-e/n2.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n2.7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -280,7 +280,7 @@
         {
           "id": "d15-how-e-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/how-how-e/n3.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n3.7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -299,7 +299,7 @@
         {
           "id": "d15-how-e-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/how-how-e/n4.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n4.7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -318,7 +318,7 @@
         {
           "id": "d15-how-e-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/how-how-e/n5.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n5.7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -337,7 +337,7 @@
         {
           "id": "d15-how-e-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/how-how-e/n6.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n6.7.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -356,7 +356,7 @@
         {
           "id": "d15-how-e-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/how-how-e/n7.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n7.7.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -375,7 +375,7 @@
         {
           "id": "d15-how-e-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/how-how-e/n8.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n8.7.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -394,7 +394,7 @@
         {
           "id": "d15-how-e-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/how-how-e/n9.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n9.7.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -413,7 +413,7 @@
         {
           "id": "d15-how-e-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/how-how-e/n10.7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-e/n10.7.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -450,7 +450,7 @@
         {
           "id": "d15-how-f-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/how-how-f/n1.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n1.8.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -469,7 +469,7 @@
         {
           "id": "d15-how-f-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/how-how-f/n2.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n2.8.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -488,7 +488,7 @@
         {
           "id": "d15-how-f-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/how-how-f/n3.8 loi.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n3.8%20loi.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -507,7 +507,7 @@
         {
           "id": "d15-how-f-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/how-how-f/n4.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n4.8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -526,7 +526,7 @@
         {
           "id": "d15-how-f-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/how-how-f/n5.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n5.8.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -545,7 +545,7 @@
         {
           "id": "d15-how-f-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/how-how-f/n6.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n6.8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -564,7 +564,7 @@
         {
           "id": "d15-how-f-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/how-how-f/n7.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n7.8.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -583,7 +583,7 @@
         {
           "id": "d15-how-f-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/how-how-f/n8.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n8.8.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -602,7 +602,7 @@
         {
           "id": "d15-how-f-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/how-how-f/n9.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n9.8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -621,7 +621,7 @@
         {
           "id": "d15-how-f-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/how-how-f/n10.8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-how-f/n10.8.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -658,7 +658,7 @@
         {
           "id": "d15-why-e-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/why-why-e/n1.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n1.5.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -677,7 +677,7 @@
         {
           "id": "d15-why-e-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/why-why-e/n2.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n2.5.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -696,7 +696,7 @@
         {
           "id": "d15-why-e-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/why-why-e/n3.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n3.5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -715,7 +715,7 @@
         {
           "id": "d15-why-e-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/why-why-e/n4.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n4.5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -734,7 +734,7 @@
         {
           "id": "d15-why-e-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/why-why-e/n5.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n5.5.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -753,7 +753,7 @@
         {
           "id": "d15-why-e-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/why-why-e/n6.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n6.5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -772,7 +772,7 @@
         {
           "id": "d15-why-e-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/why-why-e/n7.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n7.5.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -791,7 +791,7 @@
         {
           "id": "d15-why-e-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/why-why-e/n8.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n8.5.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -810,7 +810,7 @@
         {
           "id": "d15-why-e-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/why-why-e/n9.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n9.5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -829,7 +829,7 @@
         {
           "id": "d15-why-e-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/why-why-e/n10.5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-e/n10.5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -866,7 +866,7 @@
         {
           "id": "d15-why-f-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/why-why-f/n1.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n1.6.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -885,7 +885,7 @@
         {
           "id": "d15-why-f-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/why-why-f/n2.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n2.6.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -904,7 +904,7 @@
         {
           "id": "d15-why-f-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/why-why-f/n3.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n3.6.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -923,7 +923,7 @@
         {
           "id": "d15-why-f-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/why-why-f/n4.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n4.6.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -942,7 +942,7 @@
         {
           "id": "d15-why-f-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/why-why-f/n5.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n5.6.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -961,7 +961,7 @@
         {
           "id": "d15-why-f-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/why-why-f/n6.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n6.6.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -980,7 +980,7 @@
         {
           "id": "d15-why-f-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/why-why-f/n7.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n7.6.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -999,7 +999,7 @@
         {
           "id": "d15-why-f-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/why-why-f/n8.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n8.6.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1018,7 +1018,7 @@
         {
           "id": "d15-why-f-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/why-why-f/n9.6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n9.6.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1037,7 +1037,7 @@
         {
           "id": "d15-why-f-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/why-why-f/n10.6 loi.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why-why-f/n10.6%20loi.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1070,13 +1070,13 @@
       "mode": "dictation",
       "hasKey": true,
       "showPhoto": false,
-      "fullAudio": "/assets/day-15/audio/howwhy.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/howwhy.mp3",
       "source": "drive",
       "questions": [
         {
           "id": "d15-how-why-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/how-why/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/01.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1095,7 +1095,7 @@
         {
           "id": "d15-how-why-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/how-why/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/02.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1114,7 +1114,7 @@
         {
           "id": "d15-how-why-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/how-why/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/03.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1133,7 +1133,7 @@
         {
           "id": "d15-how-why-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/how-why/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/04.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1152,7 +1152,7 @@
         {
           "id": "d15-how-why-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/how-why/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/05.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1171,7 +1171,7 @@
         {
           "id": "d15-how-why-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/how-why/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/06.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1190,7 +1190,7 @@
         {
           "id": "d15-how-why-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/how-why/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1209,7 +1209,7 @@
         {
           "id": "d15-how-why-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/how-why/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/08.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1228,7 +1228,7 @@
         {
           "id": "d15-how-why-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/how-why/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/09.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1247,7 +1247,7 @@
         {
           "id": "d15-how-why-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/how-why/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/10.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1266,7 +1266,7 @@
         {
           "id": "d15-how-why-11",
           "no": 11,
-          "audio": "/assets/day-15/audio/how-why/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/11.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1285,7 +1285,7 @@
         {
           "id": "d15-how-why-12",
           "no": 12,
-          "audio": "/assets/day-15/audio/how-why/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/12.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1304,7 +1304,7 @@
         {
           "id": "d15-how-why-13",
           "no": 13,
-          "audio": "/assets/day-15/audio/how-why/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/13.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1323,7 +1323,7 @@
         {
           "id": "d15-how-why-14",
           "no": 14,
-          "audio": "/assets/day-15/audio/how-why/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/14.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1342,7 +1342,7 @@
         {
           "id": "d15-how-why-15",
           "no": 15,
-          "audio": "/assets/day-15/audio/how-why/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/15.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1361,7 +1361,7 @@
         {
           "id": "d15-how-why-16",
           "no": 16,
-          "audio": "/assets/day-15/audio/how-why/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/16.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1380,7 +1380,7 @@
         {
           "id": "d15-how-why-17",
           "no": 17,
-          "audio": "/assets/day-15/audio/how-why/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1399,7 +1399,7 @@
         {
           "id": "d15-how-why-18",
           "no": 18,
-          "audio": "/assets/day-15/audio/how-why/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/18.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1418,7 +1418,7 @@
         {
           "id": "d15-how-why-19",
           "no": 19,
-          "audio": "/assets/day-15/audio/how-why/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/19.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1437,7 +1437,7 @@
         {
           "id": "d15-how-why-20",
           "no": 20,
-          "audio": "/assets/day-15/audio/how-why/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/20.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1456,7 +1456,7 @@
         {
           "id": "d15-how-why-21",
           "no": 21,
-          "audio": "/assets/day-15/audio/how-why/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/21.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1475,7 +1475,7 @@
         {
           "id": "d15-how-why-22",
           "no": 22,
-          "audio": "/assets/day-15/audio/how-why/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/22.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1494,7 +1494,7 @@
         {
           "id": "d15-how-why-23",
           "no": 23,
-          "audio": "/assets/day-15/audio/how-why/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/23.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1513,7 +1513,7 @@
         {
           "id": "d15-how-why-24",
           "no": 24,
-          "audio": "/assets/day-15/audio/how-why/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/24.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1532,7 +1532,7 @@
         {
           "id": "d15-how-why-25",
           "no": 25,
-          "audio": "/assets/day-15/audio/how-why/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how-why/25.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1569,7 +1569,7 @@
         {
           "id": "d15-how-homework-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/how/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/01.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1588,7 +1588,7 @@
         {
           "id": "d15-how-homework-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/how/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/02.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1607,7 +1607,7 @@
         {
           "id": "d15-how-homework-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/how/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/03.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1626,7 +1626,7 @@
         {
           "id": "d15-how-homework-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/how/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/04.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1645,7 +1645,7 @@
         {
           "id": "d15-how-homework-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/how/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/05.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1664,7 +1664,7 @@
         {
           "id": "d15-how-homework-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/how/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/06.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1683,7 +1683,7 @@
         {
           "id": "d15-how-homework-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/how/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/07.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1702,7 +1702,7 @@
         {
           "id": "d15-how-homework-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/how/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/08.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1721,7 +1721,7 @@
         {
           "id": "d15-how-homework-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/how/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/09.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1740,7 +1740,7 @@
         {
           "id": "d15-how-homework-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/how/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1759,7 +1759,7 @@
         {
           "id": "d15-how-homework-11",
           "no": 11,
-          "audio": "/assets/day-15/audio/how/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/11.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1778,7 +1778,7 @@
         {
           "id": "d15-how-homework-12",
           "no": 12,
-          "audio": "/assets/day-15/audio/how/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/12.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1797,7 +1797,7 @@
         {
           "id": "d15-how-homework-13",
           "no": 13,
-          "audio": "/assets/day-15/audio/how/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1816,7 +1816,7 @@
         {
           "id": "d15-how-homework-14",
           "no": 14,
-          "audio": "/assets/day-15/audio/how/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/14.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1835,7 +1835,7 @@
         {
           "id": "d15-how-homework-15",
           "no": 15,
-          "audio": "/assets/day-15/audio/how/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/15.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1854,7 +1854,7 @@
         {
           "id": "d15-how-homework-16",
           "no": 16,
-          "audio": "/assets/day-15/audio/how/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/16.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1873,7 +1873,7 @@
         {
           "id": "d15-how-homework-17",
           "no": 17,
-          "audio": "/assets/day-15/audio/how/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -1892,7 +1892,7 @@
         {
           "id": "d15-how-homework-18",
           "no": 18,
-          "audio": "/assets/day-15/audio/how/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/18.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1911,7 +1911,7 @@
         {
           "id": "d15-how-homework-19",
           "no": 19,
-          "audio": "/assets/day-15/audio/how/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/19.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1930,7 +1930,7 @@
         {
           "id": "d15-how-homework-20",
           "no": 20,
-          "audio": "/assets/day-15/audio/how/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/20.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1949,7 +1949,7 @@
         {
           "id": "d15-how-homework-21",
           "no": 21,
-          "audio": "/assets/day-15/audio/how/21 20.59.39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/21%2020.59.39.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -1968,7 +1968,7 @@
         {
           "id": "d15-how-homework-22",
           "no": 22,
-          "audio": "/assets/day-15/audio/how/22 20.59.39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/22%2020.59.39.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -1987,7 +1987,7 @@
         {
           "id": "d15-how-homework-23",
           "no": 23,
-          "audio": "/assets/day-15/audio/how/23 20.59.39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/23%2020.59.39.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2006,7 +2006,7 @@
         {
           "id": "d15-how-homework-24",
           "no": 24,
-          "audio": "/assets/day-15/audio/how/24 20.59.39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/24%2020.59.39.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2025,7 +2025,7 @@
         {
           "id": "d15-how-homework-25",
           "no": 25,
-          "audio": "/assets/day-15/audio/how/25 20.59.39.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/how/25%2020.59.39.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2062,7 +2062,7 @@
         {
           "id": "d15-why-homework-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/why/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/01.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2081,7 +2081,7 @@
         {
           "id": "d15-why-homework-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/why/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/02.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2100,7 +2100,7 @@
         {
           "id": "d15-why-homework-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/why/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/03.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2119,7 +2119,7 @@
         {
           "id": "d15-why-homework-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/why/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/04.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2138,7 +2138,7 @@
         {
           "id": "d15-why-homework-05",
           "no": 5,
-          "audio": "/assets/day-15/audio/why/05.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/05.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2157,7 +2157,7 @@
         {
           "id": "d15-why-homework-06",
           "no": 6,
-          "audio": "/assets/day-15/audio/why/06.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/06.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2176,7 +2176,7 @@
         {
           "id": "d15-why-homework-07",
           "no": 7,
-          "audio": "/assets/day-15/audio/why/07.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/07.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2195,7 +2195,7 @@
         {
           "id": "d15-why-homework-08",
           "no": 8,
-          "audio": "/assets/day-15/audio/why/08.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/08.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2214,7 +2214,7 @@
         {
           "id": "d15-why-homework-09",
           "no": 9,
-          "audio": "/assets/day-15/audio/why/09.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/09.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2233,7 +2233,7 @@
         {
           "id": "d15-why-homework-10",
           "no": 10,
-          "audio": "/assets/day-15/audio/why/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2252,7 +2252,7 @@
         {
           "id": "d15-why-homework-11",
           "no": 11,
-          "audio": "/assets/day-15/audio/why/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/11.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2271,7 +2271,7 @@
         {
           "id": "d15-why-homework-12",
           "no": 12,
-          "audio": "/assets/day-15/audio/why/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/12.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2290,7 +2290,7 @@
         {
           "id": "d15-why-homework-13",
           "no": 13,
-          "audio": "/assets/day-15/audio/why/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/13.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2309,7 +2309,7 @@
         {
           "id": "d15-why-homework-14",
           "no": 14,
-          "audio": "/assets/day-15/audio/why/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/14.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2328,7 +2328,7 @@
         {
           "id": "d15-why-homework-15",
           "no": 15,
-          "audio": "/assets/day-15/audio/why/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/15.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2347,7 +2347,7 @@
         {
           "id": "d15-why-homework-16",
           "no": 16,
-          "audio": "/assets/day-15/audio/why/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/16.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2366,7 +2366,7 @@
         {
           "id": "d15-why-homework-17",
           "no": 17,
-          "audio": "/assets/day-15/audio/why/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/17.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2385,7 +2385,7 @@
         {
           "id": "d15-why-homework-18",
           "no": 18,
-          "audio": "/assets/day-15/audio/why/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/18.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2404,7 +2404,7 @@
         {
           "id": "d15-why-homework-19",
           "no": 19,
-          "audio": "/assets/day-15/audio/why/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/19.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2423,7 +2423,7 @@
         {
           "id": "d15-why-homework-20",
           "no": 20,
-          "audio": "/assets/day-15/audio/why/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/20.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2442,7 +2442,7 @@
         {
           "id": "d15-why-homework-21",
           "no": 21,
-          "audio": "/assets/day-15/audio/why/21 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/21%2020.59.55.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2461,7 +2461,7 @@
         {
           "id": "d15-why-homework-22",
           "no": 22,
-          "audio": "/assets/day-15/audio/why/22 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/22%2020.59.55.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2480,7 +2480,7 @@
         {
           "id": "d15-why-homework-23",
           "no": 23,
-          "audio": "/assets/day-15/audio/why/23 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/23%2020.59.55.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2499,7 +2499,7 @@
         {
           "id": "d15-why-homework-24",
           "no": 24,
-          "audio": "/assets/day-15/audio/why/24 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/24%2020.59.55.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2518,7 +2518,7 @@
         {
           "id": "d15-why-homework-25",
           "no": 25,
-          "audio": "/assets/day-15/audio/why/25 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/25%2020.59.55.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2537,7 +2537,7 @@
         {
           "id": "d15-why-homework-26",
           "no": 26,
-          "audio": "/assets/day-15/audio/why/26 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/26%2020.59.55.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -2556,7 +2556,7 @@
         {
           "id": "d15-why-homework-27",
           "no": 27,
-          "audio": "/assets/day-15/audio/why/27 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/27%2020.59.55.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2575,7 +2575,7 @@
         {
           "id": "d15-why-homework-28",
           "no": 28,
-          "audio": "/assets/day-15/audio/why/28 20.59.55.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/why/28%2020.59.55.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2612,7 +2612,7 @@
         {
           "id": "d15-which-homework-01",
           "no": 1,
-          "audio": "/assets/day-15/audio/which/01.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/which/01.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2631,7 +2631,7 @@
         {
           "id": "d15-which-homework-02",
           "no": 2,
-          "audio": "/assets/day-15/audio/which/02.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/which/02.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -2650,7 +2650,7 @@
         {
           "id": "d15-which-homework-03",
           "no": 3,
-          "audio": "/assets/day-15/audio/which/03.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/which/03.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -2669,7 +2669,7 @@
         {
           "id": "d15-which-homework-04",
           "no": 4,
-          "audio": "/assets/day-15/audio/which/04.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-15/audio/which/04.mp3",
           "image": null,
           "answer": "C",
           "transcript": {

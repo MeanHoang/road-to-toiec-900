@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { assemble } from '../features/lesson/schema.js';
 import { translate } from '../features/language/translate.js';
+import { mediaChecker } from './lib/media.mjs';
+
+const hasMedia = await mediaChecker();
 
 const read = (name) => JSON.parse(readFileSync(`content/day-20/${name}.json`, 'utf8'));
 const day = assemble('day-20', { day: read('day'), theory: read('theory'), vocabulary: read('vocabulary'), listening: read('listening'), exercises: read('exercises') });
@@ -14,11 +17,11 @@ const ids = day.listening.flatMap((s) => s.questions.map((q) => q.id));
 assert.equal(new Set(ids).size, ids.length);
 for (const set of day.listening) {
   for (const q of set.questions) {
-    assert.ok(existsSync(`public${q.audio}`), q.audio);
+    assert.ok(hasMedia(q.audio), q.audio);
     if (set.mode === 'choice') {
       assert.ok(set.choices.includes(q.answer), q.id);
       assert.equal(q.source.answer, 'ai');
-      if (set.part === 1) assert.ok(existsSync(`public${q.image}`));
+      if (set.part === 1) assert.ok(hasMedia(q.image));
       if (set.part === 2) assert.ok(q.transcript.Q, q.id);
       if (set.part === 3) for (const letter of set.choices) assert.ok(q.options[letter], q.id);
       else for (const letter of set.choices) assert.ok(q.transcript[letter], q.id);
@@ -43,8 +46,8 @@ for (const q of day.exercises.flatMap((s) => s.questions)) {
 
 assert.equal(day.vocabulary.length, 24);
 assert.equal(new Set(day.vocabulary.map((v) => v.word)).size, 24);
-for (const v of day.vocabulary) for (const accent of ['uk', 'us']) assert.ok(existsSync(`public${v.voice[accent]}`));
-assert.ok(existsSync('public/assets/day-20/flashcard.pdf'));
+for (const v of day.vocabulary) for (const accent of ['uk', 'us']) assert.ok(hasMedia(v.voice[accent]));
+assert.ok(hasMedia('/assets/day-20/flashcard.pdf'));
 
 for (const label of [day.subtitle, ...day.theory.map((b) => b.title), ...day.theory.flatMap((b) => Object.keys(b.groups || {})),
   ...day.listening.map((s) => s.title), ...day.vocabulary.map((v) => v.group), ...day.exercises.map((s) => s.title)]) {

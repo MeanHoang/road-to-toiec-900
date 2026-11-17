@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { assemble } from '../features/lesson/schema.js';
 import { translate } from '../features/language/translate.js';
+import { mediaChecker } from './lib/media.mjs';
+
+const hasMedia = await mediaChecker();
 const read=name=>JSON.parse(readFileSync(`content/day-18/${name}.json`,'utf8'));
 const day=assemble('day-18',{day:read('day'),theory:read('theory'),vocabulary:read('vocabulary'),listening:read('listening'),exercises:read('exercises')});
 assert.equal(day.no,18);assert.equal(day.phase,2);assert.equal(day.sourceDay,9);
@@ -14,12 +17,12 @@ assert.equal(questions.length,109);assert.equal(new Set(questions.map(q=>q.id)).
 for(const set of day.listening){
  assert.ok(set.sourceUrl.startsWith('https://study.thaylongtoeic.com/'));
  for(const q of set.questions){
-  assert.equal(q.source.audio,'thaylong');assert.ok(existsSync(`public${q.audio}`));
+  assert.equal(q.source.audio,'thaylong');assert.ok(hasMedia(q.audio));
   assert.ok(q.transcript && !q.transcript.raw);
   if(set.hasKey){
    assert.equal(q.source.answer,'ai');assert.ok(set.choices.includes(q.answer));
    for(const letter of set.choices)assert.ok(q.transcript[letter]);
-   if(set.part===1)assert.ok(existsSync(`public${q.image}`));
+   if(set.part===1)assert.ok(hasMedia(q.image));
    else assert.ok(q.transcript.Q);
   }
  }
@@ -31,8 +34,8 @@ for(const q of words.questions){assert.equal(typeof q.transcript,'string');asser
 assert.equal(words.questions[0].transcript,'aisle');assert.equal(words.questions[26].transcript,'mail');assert.equal(words.questions[45].transcript,'weight');
 assert.equal(day.vocabulary.length,57);assert.equal(new Set(day.vocabulary.map(q=>q.word)).size,57);
 const artificial=day.vocabulary.find(q=>q.word==='artificial');assert.equal(artificial.sourceUrls.length,2,'Keep both vocabulary sources without a duplicate artificial card');
-for(const v of day.vocabulary){for(const accent of ['uk','us'])assert.ok(existsSync(`public${v.voice[accent]}`));}
-assert.ok(existsSync('public/assets/day-18/flashcard.pdf'));
+for(const v of day.vocabulary){for(const accent of ['uk','us'])assert.ok(hasMedia(v.voice[accent]));}
+assert.ok(hasMedia('/assets/day-18/flashcard.pdf'));
 assert.equal(day.theory.length,8);
 for(const label of [day.subtitle,...day.theory.map(b=>b.title),...day.theory.flatMap(b=>Object.keys(b.groups||{})),...day.listening.flatMap(s=>[s.title,s.subtitle]),...day.exercises.map(s=>s.title),...day.vocabulary.map(v=>v.group)]){
  for(const locale of ['vi','zh','ko'])assert.notEqual(translate(locale,label),label,`Missing ${locale}: ${label}`);

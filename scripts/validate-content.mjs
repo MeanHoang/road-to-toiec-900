@@ -7,8 +7,9 @@
 // LỖI  = sai cấu trúc, app sẽ vỡ. Phải sửa.
 // CẢNH BÁO = còn dữ liệu do máy sinh chưa ai soát, hoặc còn chỗ trống.
 
-import { readFile, access } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { mediaChecker } from './lib/media.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const SCHEMA_VERSION = 1;
@@ -20,15 +21,11 @@ const warn = (where, msg) => warns.push(`${where}: ${msg}`);
 
 const readJson = async (p) => JSON.parse(await readFile(path.join(ROOT, p), 'utf8'));
 
-/** Đường dẫn asset trong JSON phải trỏ tới file có thật trong public/. */
+/** Đường dẫn asset trong JSON phải trỏ tới file có thật: trên CDN, hoặc đang chờ đẩy ở public/assets. */
+const hasMedia = await mediaChecker();
 async function assetExists(url) {
   if (!url) return true;
-  try {
-    await access(path.join(ROOT, 'public', url.replace(/^\//, '')));
-    return true;
-  } catch {
-    return false;
-  }
+  return hasMedia(url);
 }
 
 function checkEnvelope(file, data, slug, expectedCollection) {

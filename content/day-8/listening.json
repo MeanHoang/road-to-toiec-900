@@ -22,7 +22,7 @@
         {
           "id": "d8-pwc-01",
           "no": 1,
-          "audio": "/assets/day-8/audio/which-choice/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/1.mp3",
           "image": null,
           "answer": null,
           "transcript": "Which room is the conference room? The one on your right. The big one.",
@@ -37,7 +37,7 @@
         {
           "id": "d8-pwc-02",
           "no": 2,
-          "audio": "/assets/day-8/audio/which-choice/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/2.mp3",
           "image": null,
           "answer": null,
           "transcript": "Which bag is yours? This one is mine. Neither one belongs to me. It's the last one.",
@@ -52,7 +52,7 @@
         {
           "id": "d8-pwc-03",
           "no": 3,
-          "audio": "/assets/day-8/audio/which-choice/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/3.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -72,7 +72,7 @@
         {
           "id": "d8-pwc-04",
           "no": 4,
-          "audio": "/assets/day-8/audio/which-choice/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/4.mp3",
           "image": null,
           "answer": null,
           "transcript": "Which of you can work late tonight? None of us except Susan. None of us can stay late.",
@@ -87,7 +87,7 @@
         {
           "id": "d8-pwc-05",
           "no": 5,
-          "audio": "/assets/day-8/audio/which-choice/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/5.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -107,7 +107,7 @@
         {
           "id": "d8-pwc-06",
           "no": 6,
-          "audio": "/assets/day-8/audio/which-choice/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/6.mp3",
           "image": null,
           "answer": null,
           "transcript": {
@@ -127,7 +127,7 @@
         {
           "id": "d8-pwc-07",
           "no": 7,
-          "audio": "/assets/day-8/audio/which-choice/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/7.mp3",
           "image": null,
           "answer": null,
           "transcript": "Can I pay by credit card, or do I have to pay cash? No, it's not on sale. Yes, that's the right price. Either is fine.",
@@ -142,7 +142,7 @@
         {
           "id": "d8-pwc-08",
           "no": 8,
-          "audio": "/assets/day-8/audio/which-choice/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/8.mp3",
           "image": null,
           "answer": null,
           "transcript": "Which restaurant did you book for tonight?",
@@ -157,7 +157,7 @@
         {
           "id": "d8-pwc-09",
           "no": 9,
-          "audio": "/assets/day-8/audio/which-choice/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/which-choice/9.mp3",
           "image": null,
           "answer": null,
           "transcript": "Would you like me to bring your soup now or later? She'll meet us later. Now would be fine. Let's try another restaurant.",
@@ -189,7 +189,7 @@
         {
           "id": "d8-pyn-01",
           "no": 1,
-          "audio": "/assets/day-8/audio/yesno/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/1.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -209,7 +209,7 @@
         {
           "id": "d8-pyn-02",
           "no": 2,
-          "audio": "/assets/day-8/audio/yesno/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/2.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -229,7 +229,7 @@
         {
           "id": "d8-pyn-03",
           "no": 3,
-          "audio": "/assets/day-8/audio/yesno/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/3.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -249,7 +249,7 @@
         {
           "id": "d8-pyn-04",
           "no": 4,
-          "audio": "/assets/day-8/audio/yesno/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/4.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -269,7 +269,7 @@
         {
           "id": "d8-pyn-05",
           "no": 5,
-          "audio": "/assets/day-8/audio/yesno/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -289,7 +289,7 @@
         {
           "id": "d8-pyn-06",
           "no": 6,
-          "audio": "/assets/day-8/audio/yesno/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/6.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -309,7 +309,7 @@
         {
           "id": "d8-pyn-07",
           "no": 7,
-          "audio": "/assets/day-8/audio/yesno/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/yesno/7.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -341,12 +341,12 @@
       ],
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no/1-15 - Choice Yes No.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no/1-15%20-%20Choice%20Yes%20No.mp3",
       "questions": [
         {
           "id": "d8-hw1a-01",
           "no": 1,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/1.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/1.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -366,7 +366,7 @@
         {
           "id": "d8-hw1a-02",
           "no": 2,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/2.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/2.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -386,7 +386,7 @@
         {
           "id": "d8-hw1a-03",
           "no": 3,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/3.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/3.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -406,7 +406,7 @@
         {
           "id": "d8-hw1a-04",
           "no": 4,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/4.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/4.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -426,7 +426,7 @@
         {
           "id": "d8-hw1a-05",
           "no": 5,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/5.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/5.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -446,7 +446,7 @@
         {
           "id": "d8-hw1a-06",
           "no": 6,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/6.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/6.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -466,7 +466,7 @@
         {
           "id": "d8-hw1a-07",
           "no": 7,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/7.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/7.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -486,7 +486,7 @@
         {
           "id": "d8-hw1a-08",
           "no": 8,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/8.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/8.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -506,7 +506,7 @@
         {
           "id": "d8-hw1a-09",
           "no": 9,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/9.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/9.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -526,7 +526,7 @@
         {
           "id": "d8-hw1a-10",
           "no": 10,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/10.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/10.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -546,7 +546,7 @@
         {
           "id": "d8-hw1a-11",
           "no": 11,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/11.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/11.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -566,7 +566,7 @@
         {
           "id": "d8-hw1a-12",
           "no": 12,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/12.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/12.mp3",
           "image": null,
           "question": "________ to Alan ________?",
           "answer": "B",
@@ -588,7 +588,7 @@
         {
           "id": "d8-hw1a-13",
           "no": 13,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/13.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/13.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -608,7 +608,7 @@
         {
           "id": "d8-hw1a-14",
           "no": 14,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/14.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/14.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -628,7 +628,7 @@
         {
           "id": "d8-hw1a-15",
           "no": 15,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/15.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/15.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -660,12 +660,12 @@
       ],
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no/16-30 - Choice Yes No.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no/16-30%20-%20Choice%20Yes%20No.mp3",
       "questions": [
         {
           "id": "d8-hw1b-16",
           "no": 16,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/16.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/16.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -685,7 +685,7 @@
         {
           "id": "d8-hw1b-17",
           "no": 17,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/17.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/17.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -705,7 +705,7 @@
         {
           "id": "d8-hw1b-18",
           "no": 18,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/18.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/18.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -725,7 +725,7 @@
         {
           "id": "d8-hw1b-19",
           "no": 19,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/19.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/19.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -745,7 +745,7 @@
         {
           "id": "d8-hw1b-20",
           "no": 20,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/20.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/20.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -765,7 +765,7 @@
         {
           "id": "d8-hw1b-21",
           "no": 21,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/21.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/21.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -785,7 +785,7 @@
         {
           "id": "d8-hw1b-22",
           "no": 22,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/22.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/22.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -805,7 +805,7 @@
         {
           "id": "d8-hw1b-23",
           "no": 23,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/23.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/23.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -825,7 +825,7 @@
         {
           "id": "d8-hw1b-24",
           "no": 24,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/24.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/24.mp3",
           "image": null,
           "answer": "A",
           "transcript": {
@@ -845,7 +845,7 @@
         {
           "id": "d8-hw1b-25",
           "no": 25,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/25.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/25.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -865,7 +865,7 @@
         {
           "id": "d8-hw1b-26",
           "no": 26,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/26.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/26.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -885,7 +885,7 @@
         {
           "id": "d8-hw1b-27",
           "no": 27,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/27.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/27.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -905,7 +905,7 @@
         {
           "id": "d8-hw1b-28",
           "no": 28,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/28.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/28.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -925,7 +925,7 @@
         {
           "id": "d8-hw1b-29",
           "no": 29,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/29.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/29.mp3",
           "image": null,
           "answer": "C",
           "transcript": {
@@ -945,7 +945,7 @@
         {
           "id": "d8-hw1b-30",
           "no": 30,
-          "audio": "/assets/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/30.mp3",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-1-30-cau-choice-va-yes-no-file-nghe-le/30.mp3",
           "image": null,
           "answer": "B",
           "transcript": {
@@ -972,13 +972,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-8/audio/exercise-2-tranh/Test 05 - 0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%2005%20-%200%20-%20full.mp3",
       "questions": [
         {
           "id": "d8-hw2t5-01",
           "no": 1,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 1.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p08-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p08-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "A man is opening a drawer.",
@@ -997,8 +997,8 @@
         {
           "id": "d8-hw2t5-02",
           "no": 2,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 2.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p08-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p08-2.jpg",
           "answer": "A",
           "transcript": {
             "A": "A bicycle has been loaded onto a truck.",
@@ -1017,8 +1017,8 @@
         {
           "id": "d8-hw2t5-03",
           "no": 3,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 3.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p09-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p09-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "A woman is hanging up a sign.",
@@ -1037,8 +1037,8 @@
         {
           "id": "d8-hw2t5-04",
           "no": 4,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 4.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p09-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p09-2.jpg",
           "answer": "D",
           "transcript": {
             "A": "Some people are entering a building.",
@@ -1057,8 +1057,8 @@
         {
           "id": "d8-hw2t5-05",
           "no": 5,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 5.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p10-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p10-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "A projector is being repositioned on a desk.",
@@ -1077,8 +1077,8 @@
         {
           "id": "d8-hw2t5-06",
           "no": 6,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 5 - 6.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p10-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%205%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p10-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "A lamp has been attached to the wall.",
@@ -1104,13 +1104,13 @@
       "part": 1,
       "mode": "dictation",
       "hasKey": true,
-      "fullAudio": "/assets/day-8/audio/exercise-2-tranh/Test 06 - 0 - full.mp3",
+      "fullAudio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%2006%20-%200%20-%20full.mp3",
       "questions": [
         {
           "id": "d8-hw2t6-01",
           "no": 1,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 1.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p11-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%201.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p11-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "Some people are carrying bags.",
@@ -1129,8 +1129,8 @@
         {
           "id": "d8-hw2t6-02",
           "no": 2,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 2.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p11-2-full.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%202.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p11-2-full.jpg",
           "answer": "D",
           "transcript": {
             "A": "She's fixing some broken tiles with a tool.",
@@ -1149,8 +1149,8 @@
         {
           "id": "d8-hw2t6-03",
           "no": 3,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 3.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p12-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%203.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p12-1.jpg",
           "answer": "B",
           "transcript": {
             "A": "The man is plugging in a computer.",
@@ -1169,8 +1169,8 @@
         {
           "id": "d8-hw2t6-04",
           "no": 4,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 4.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p12-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%204.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p12-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "A man is writing on a chart.",
@@ -1189,8 +1189,8 @@
         {
           "id": "d8-hw2t6-05",
           "no": 5,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 5.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p13-1.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%205.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p13-1.jpg",
           "answer": "C",
           "transcript": {
             "A": "Cars are lined up at a toll booth.",
@@ -1209,8 +1209,8 @@
         {
           "id": "d8-hw2t6-06",
           "no": 6,
-          "audio": "/assets/day-8/audio/exercise-2-tranh/Test 6 - 6.mp3",
-          "image": "/assets/day-8/images/day-8-which-choice-yesno/p13-2.jpg",
+          "audio": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/audio/exercise-2-tranh/Test%206%20-%206.mp3",
+          "image": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-8/images/day-8-which-choice-yesno/p13-2.jpg",
           "answer": "C",
           "transcript": {
             "A": "He's walking on a path.",
