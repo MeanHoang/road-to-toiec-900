@@ -15,12 +15,12 @@
         ],
         "Listening test": [
           "Test 2 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu) từ thư mục part 1-2 trên Drive, ảnh cắt từ TEST 2.pdf.",
-          "Drive không có đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép."
+          "Đáp án lấy từ file Part 1-2.docx (phương án in đậm) trong thư mục Key homework của DAY 14. Lời thoại vẫn do máy chép."
         ],
         "Part 3 conversations": [
           "Test 4 — Part 3: câu 41–70 (10 đoạn hội thoại). Test 5 — Part 3: câu 41–67 (9 đoạn).",
           "Drive chỉ có audio Test 5 đến câu 67, nên câu 68–70 của Test 5 không đưa vào app.",
-          "Câu hỏi và phương án lấy từ file Word trong Drive. Drive chưa có đáp án, nên đáp án do AI suy luận từ audio."
+          "Câu hỏi và phương án lấy từ file Word trong Drive. Đáp án lấy từ file 4.docx, 5.docx (phương án tô đỏ) trong thư mục Key homework của DAY 14; lời thoại từ ảnh transcript cùng thư mục (Test 4 thiếu đoạn 56–58)."
         ],
         "Lecture": [
           "Chapter 4 — hội thoại 3 người: phải đọc kỹ câu hỏi trước khi nghe để không bị rối.",
@@ -32,7 +32,7 @@
         ],
         "Reading practice": [
           "Part 7 — Unit 8: 6 bài báo/thông cáo, 20 câu hỏi từ tài liệu D13 S2 UNIT8.pdf.",
-          "Drive chưa có đáp án cho Unit 8. Đáp án, giải thích và bản dịch do AI biên soạn để tự luyện."
+          "Đáp án lấy từ file EX S2.8.pdf (phương án in đậm) trong thư mục Key homework của DAY 14. Giải thích và bản dịch do AI biên soạn."
         ]
       },
       "source": "user"
@@ -43,7 +43,8 @@
       "title": "Lesson resources",
       "lines": [
         "Day 22 trong app tương ứng DAY 13 giai đoạn 2.",
-        "Thư mục KEY HW của DAY 13 là đáp án bài DAY 12 (Day 21 trong app), đã cập nhật vào Day 21."
+        "Thư mục KEY HW của DAY 13 là đáp án bài DAY 12 (Day 21 trong app), đã cập nhật vào Day 21.",
+        "Thư mục Key homework của DAY 14 là đáp án Test 2 Part 1–2, Test 4/5 Part 3 và Part 7 — Unit 8 của DAY 13, đã cập nhật vào đây."
       ],
       "links": [
         {

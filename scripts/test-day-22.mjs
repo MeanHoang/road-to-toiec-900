@@ -32,10 +32,20 @@ for (const set of day.listening) {
     else for (const letter of set.choices) assert.ok(q.transcript[letter], q.id);
   }
 }
-// Only the lecture ETS test has an official key; its conversations come from the class transcript.
-const ets = day.listening.find((s) => s.code === 'ets');
-assert.equal(ets.questions.map((q) => q.answer).join(''), 'ACABCAACCCADCABDCBDCBCBC');
-for (const set of day.listening) for (const q of set.questions) assert.equal(q.source.answer, set.code === 'ets' ? 'drive' : 'ai', q.id);
+// The lecture ETS test and the Drive homework (keys from the DAY 14 Key homework folder) have official keys; web sets and the class examples stay AI-answered.
+const KEYS = { ets: 'ACABCAACCCADCABDCBDCBCBC', 't2-p1': 'BCDCAB', 't2-p2': 'CBBBCBABCBABACBCBBBBACCBB',
+  't4-p3': 'CDADBCABCDCBADCCDBACDCBAADCDAB', 't5-p3': 'ADCDABBDABACBCBACCBBCDADCAB' };
+for (const set of day.listening) {
+  if (KEYS[set.code]) assert.equal(set.questions.map((q) => q.answer).join(''), KEYS[set.code], set.code);
+  for (const q of set.questions) assert.equal(q.source.answer, KEYS[set.code] ? 'drive' : 'ai', q.id);
+}
+// Part 3 homework conversations come from the key's transcript images; Test 4 has none for 56-58.
+for (const code of ['t4-p3', 't5-p3']) {
+  for (const q of day.listening.find((s) => s.code === code).questions) {
+    if (code === 't4-p3' && q.no >= 56 && q.no <= 58) { assert.equal(q.transcript, null, q.id); continue; }
+    assert.equal(q.source.transcript, 'drive', q.id); assert.ok(/^(W|M): /m.test(q.transcript), q.id);
+  }
+}
 for (const code of ['ets', 'class']) {
   for (const q of day.listening.find((s) => s.code === code).questions) {
     assert.equal(q.source.transcript, 'drive'); assert.ok(/^(W|M\d?): /m.test(q.transcript), q.id);
@@ -43,9 +53,10 @@ for (const code of ['ets', 'class']) {
 }
 
 assert.deepEqual(day.exercises.map((s) => s.questions.length), [2, 4, 3, 4, 3, 4]);
+assert.equal(day.exercises.flatMap((s) => s.questions).map((q) => q.answer).join(''), 'CDBACDCCBBDDCBDBCDBA');
 for (const q of day.exercises.flatMap((s) => s.questions)) {
   assert.ok(['A', 'B', 'C', 'D'].includes(q.answer), q.id); assert.ok(q.vi && q.explain && q.passage.text, q.id);
-  assert.equal(q.source.answer, 'ai');
+  assert.equal(q.source.answer, 'drive');
 }
 
 assert.equal(day.vocabulary.length, 24);

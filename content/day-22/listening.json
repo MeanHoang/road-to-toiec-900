@@ -615,7 +615,7 @@
       "id": "d22-t2-p1",
       "code": "t2-p1",
       "title": "Test 2 — Part 1",
-      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "subtitle": "Homework · official answer key · listen and choose",
       "part": 1,
       "choices": [
         "A",
@@ -644,7 +644,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -663,7 +663,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -682,7 +682,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -701,7 +701,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -720,7 +720,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -739,7 +739,7 @@
           "source": {
             "audio": "drive",
             "image": "pdf",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
@@ -749,7 +749,7 @@
       "id": "d22-t2-p2",
       "code": "t2-p2",
       "title": "Test 2 — Part 2",
-      "subtitle": "Homework · AI-generated answers · listen and choose",
+      "subtitle": "Homework · official answer key · listen and choose",
       "part": 2,
       "choices": [
         "A",
@@ -776,7 +776,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -794,7 +794,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -812,7 +812,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -830,7 +830,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -848,7 +848,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -866,7 +866,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -884,7 +884,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -902,7 +902,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -920,7 +920,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -938,7 +938,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -956,7 +956,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -974,7 +974,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -992,7 +992,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1010,7 +1010,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1028,7 +1028,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1046,7 +1046,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1064,7 +1064,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1082,7 +1082,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1100,7 +1100,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1118,7 +1118,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1136,7 +1136,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1154,7 +1154,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1172,7 +1172,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1190,7 +1190,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         },
@@ -1208,7 +1208,7 @@
           },
           "source": {
             "audio": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": "whisper"
           }
         }
@@ -1218,7 +1218,7 @@
       "id": "d22-t4-p3",
       "code": "t4-p3",
       "title": "Test 4 — Part 3",
-      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "subtitle": "Homework · Part 3 · official answer key · listen and choose",
       "part": 3,
       "choices": [
         "A",
@@ -1245,13 +1245,13 @@
             "D": "Start a new business"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: I think it's time I advertised my car repair garage more aggressively. Do you think a newspaper advertisement would be effective?\nW: Maybe, but I really think you should set up a Web site. I'm actually surprised you don't have one yet.\nM: Hey, that's a great idea. My friend Ming designs Internet sites. I think I'll give him a call.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1267,13 +1267,13 @@
             "D": "Creating a Web site"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "M: I think it's time I advertised my car repair garage more aggressively. Do you think a newspaper advertisement would be effective?\nW: Maybe, but I really think you should set up a Web site. I'm actually surprised you don't have one yet.\nM: Hey, that's a great idea. My friend Ming designs Internet sites. I think I'll give him a call.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1289,13 +1289,13 @@
             "D": "A government agency"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: I think it's time I advertised my car repair garage more aggressively. Do you think a newspaper advertisement would be effective?\nW: Maybe, but I really think you should set up a Web site. I'm actually surprised you don't have one yet.\nM: Hey, that's a great idea. My friend Ming designs Internet sites. I think I'll give him a call.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1311,13 +1311,13 @@
             "D": "At a resort"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Hello, I'd like to inquire if your resort has any positions for summer workers.\nM: Yes, we're looking for lifeguards for the swimming pool, servers for the restaurant, and gardening personnel for the grounds.\nW: I have experience as a lifeguard; can I come down this afternoon to fill out an application?\nM: Sure, we'll schedule an interview for you today, too; make sure you bring copies of your lifeguard certificate.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1333,13 +1333,13 @@
             "D": "Restaurant server"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Hello, I'd like to inquire if your resort has any positions for summer workers.\nM: Yes, we're looking for lifeguards for the swimming pool, servers for the restaurant, and gardening personnel for the grounds.\nW: I have experience as a lifeguard; can I come down this afternoon to fill out an application?\nM: Sure, we'll schedule an interview for you today, too; make sure you bring copies of your lifeguard certificate.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1355,13 +1355,13 @@
             "D": "Proof of insurance"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hello, I'd like to inquire if your resort has any positions for summer workers.\nM: Yes, we're looking for lifeguards for the swimming pool, servers for the restaurant, and gardening personnel for the grounds.\nW: I have experience as a lifeguard; can I come down this afternoon to fill out an application?\nM: Sure, we'll schedule an interview for you today, too; make sure you bring copies of your lifeguard certificate.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1377,13 +1377,13 @@
             "D": "Transportation"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Mark, I was surprised to hear that you're planning to move. Don't you like living in the city?\nM: Actually, I do. The problem is that it's very expensive to rent an apartment here. If I live outside the city, it'll be more affordable.\nW: Well, there are always a lot of advertisements for apartments in the newspaper. You should take a look at them.\nM: That's a good idea. My rental contract ends next month, so I need to find a new place to live soon.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1399,13 +1399,13 @@
             "D": "There are many apartments for rent."
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Mark, I was surprised to hear that you're planning to move. Don't you like living in the city?\nM: Actually, I do. The problem is that it's very expensive to rent an apartment here. If I live outside the city, it'll be more affordable.\nW: Well, there are always a lot of advertisements for apartments in the newspaper. You should take a look at them.\nM: That's a good idea. My rental contract ends next month, so I need to find a new place to live soon.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1421,13 +1421,13 @@
             "D": "Sign a contract"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Mark, I was surprised to hear that you're planning to move. Don't you like living in the city?\nM: Actually, I do. The problem is that it's very expensive to rent an apartment here. If I live outside the city, it'll be more affordable.\nW: Well, there are always a lot of advertisements for apartments in the newspaper. You should take a look at them.\nM: That's a good idea. My rental contract ends next month, so I need to find a new place to live soon.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1443,13 +1443,13 @@
             "D": "His wife"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "M: Hi, what time does your store close tonight? I need to get a birthday gift for my wife.\nW: We're open until seven P.M., and if you can't get to us today, we'll be open at eight o'clock tomorrow morning.\nM: I should be able to get there by seven—but in case I don't, could you set aside an item for me? I can give you the item number.\nW: No, I'm very sorry. We can't accept reserve requests over the phone because a cash deposit is required.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1465,13 +1465,13 @@
             "D": "At 8:00"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Hi, what time does your store close tonight? I need to get a birthday gift for my wife.\nW: We're open until seven P.M., and if you can't get to us today, we'll be open at eight o'clock tomorrow morning.\nM: I should be able to get there by seven—but in case I don't, could you set aside an item for me? I can give you the item number.\nW: No, I'm very sorry. We can't accept reserve requests over the phone because a cash deposit is required.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1487,13 +1487,13 @@
             "D": "Provide a cash refund"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Hi, what time does your store close tonight? I need to get a birthday gift for my wife.\nW: We're open until seven P.M., and if you can't get to us today, we'll be open at eight o'clock tomorrow morning.\nM: I should be able to get there by seven—but in case I don't, could you set aside an item for me? I can give you the item number.\nW: No, I'm very sorry. We can't accept reserve requests over the phone because a cash deposit is required.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1509,13 +1509,13 @@
             "D": "A dessert"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Excuse me, do you know where our waiter is? I'd like to order some bread.\nM: No, I'm sorry. I'll see if I can find him for you. Have you been waiting long?\nW: Ten minutes. But I can see the restaurant is busy.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1531,13 +1531,13 @@
             "D": "Find a waiter"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Excuse me, do you know where our waiter is? I'd like to order some bread.\nM: No, I'm sorry. I'll see if I can find him for you. Have you been waiting long?\nW: Ten minutes. But I can see the restaurant is busy.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1553,13 +1553,13 @@
             "D": "15 minutes"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Excuse me, do you know where our waiter is? I'd like to order some bread.\nM: No, I'm sorry. I'll see if I can find him for you. Have you been waiting long?\nW: Ten minutes. But I can see the restaurant is busy.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1574,13 +1574,13 @@
             "C": "A delivery service",
             "D": "A supply store"
           },
-          "answer": "A",
+          "answer": "C",
           "transcript": null,
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": null
           }
         },
@@ -1602,7 +1602,7 @@
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": null
           }
         },
@@ -1624,7 +1624,7 @@
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
+            "answer": "drive",
             "transcript": null
           }
         },
@@ -1641,13 +1641,13 @@
             "D": "At a restaurant"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: I can't believe I'm here on time! My car wouldn't start this morning and I had to take the train, which usually takes about twenty minutes longer.\nW: It's a good thing you made it in. The meeting is in half an hour. I'm wondering if we should use the conference room instead of this office...\nM: You're right. Let's take the coffee and doughnuts and all the handouts over there.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1663,13 +1663,13 @@
             "D": "On foot"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: I can't believe I'm here on time! My car wouldn't start this morning and I had to take the train, which usually takes about twenty minutes longer.\nW: It's a good thing you made it in. The meeting is in half an hour. I'm wondering if we should use the conference room instead of this office...\nM: You're right. Let's take the coffee and doughnuts and all the handouts over there.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1685,13 +1685,13 @@
             "D": "In 30 minutes"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "M: I can't believe I'm here on time! My car wouldn't start this morning and I had to take the train, which usually takes about twenty minutes longer.\nW: It's a good thing you made it in. The meeting is in half an hour. I'm wondering if we should use the conference room instead of this office...\nM: You're right. Let's take the coffee and doughnuts and all the handouts over there.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1707,13 +1707,13 @@
             "D": "A restaurant cashier"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Jennifer, how's your business going? I heard your restaurant moved to a new location a couple of months ago.\nW: Oh, Mike, hi. Yes, it's near several hotels and businesses in the city, so we get a lot of customers at lunchtime.\nM: Oh, that's great. I should stop by sometime.\nW: Please do! I just hired a new chef from Italy last week, and he's been doing a great job so far.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1729,13 +1729,13 @@
             "D": "It has a few open positions."
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Jennifer, how's your business going? I heard your restaurant moved to a new location a couple of months ago.\nW: Oh, Mike, hi. Yes, it's near several hotels and businesses in the city, so we get a lot of customers at lunchtime.\nM: Oh, that's great. I should stop by sometime.\nW: Please do! I just hired a new chef from Italy last week, and he's been doing a great job so far.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1751,13 +1751,13 @@
             "D": "The man started a new job."
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Jennifer, how's your business going? I heard your restaurant moved to a new location a couple of months ago.\nW: Oh, Mike, hi. Yes, it's near several hotels and businesses in the city, so we get a lot of customers at lunchtime.\nM: Oh, that's great. I should stop by sometime.\nW: Please do! I just hired a new chef from Italy last week, and he's been doing a great job so far.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1773,13 +1773,13 @@
             "D": "A job opening"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: I hear that you saw Mountain Wild last weekend. How did you like it?\nW: It was wonderful — I went with Martha from the human resource office, and we both thought it was the best movie we'd seen in a while.\nM: So you would recommend it? I'm going on my day off this Friday.\nW: You should. As someone who loves hiking in the mountains, you would just love the breathtaking shots of Colorado.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1795,13 +1795,13 @@
             "D": "Go to see a film"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "M: I hear that you saw Mountain Wild last weekend. How did you like it?\nW: It was wonderful — I went with Martha from the human resource office, and we both thought it was the best movie we'd seen in a while.\nM: So you would recommend it? I'm going on my day off this Friday.\nW: You should. As someone who loves hiking in the mountains, you would just love the breathtaking shots of Colorado.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1816,14 +1816,14 @@
             "C": "He should go to Colorado.",
             "D": "He should take an extra day off."
           },
-          "answer": "B",
-          "transcript": null,
+          "answer": "C",
+          "transcript": "M: I hear that you saw Mountain Wild last weekend. How did you like it?\nW: It was wonderful — I went with Martha from the human resource office, and we both thought it was the best movie we'd seen in a while.\nM: So you would recommend it? I'm going on my day off this Friday.\nW: You should. As someone who loves hiking in the mountains, you would just love the breathtaking shots of Colorado.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1839,13 +1839,13 @@
             "D": "At a hotel"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: I think I left my conference program upstairs in my room. Do you know when the first session starts?\nM: It doesn't start until nine-thirty, so we still have time to go to the coffee shop and get some breakfast with the rest of the group.\nW: That sounds like a good idea. Let me go up to my room and get my program, and I'll meet you back here in the lobby in five minutes.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1861,13 +1861,13 @@
             "D": "Review the schedule"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: I think I left my conference program upstairs in my room. Do you know when the first session starts?\nM: It doesn't start until nine-thirty, so we still have time to go to the coffee shop and get some breakfast with the rest of the group.\nW: That sounds like a good idea. Let me go up to my room and get my program, and I'll meet you back here in the lobby in five minutes.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1883,13 +1883,13 @@
             "D": "In 30 minute"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: I think I left my conference program upstairs in my room. Do you know when the first session starts?\nM: It doesn't start until nine-thirty, so we still have time to go to the coffee shop and get some breakfast with the rest of the group.\nW: That sounds like a good idea. Let me go up to my room and get my program, and I'll meet you back here in the lobby in five minutes.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         }
       ]
@@ -1898,7 +1898,7 @@
       "id": "d22-t5-p3",
       "code": "t5-p3",
       "title": "Test 5 — Part 3",
-      "subtitle": "Homework · Part 3 · AI-generated answers · listen and choose",
+      "subtitle": "Homework · Part 3 · official answer key · listen and choose",
       "part": 3,
       "choices": [
         "A",
@@ -1925,13 +1925,13 @@
             "D": "In an elevator"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Welcome to the Alliance Technology Corporation. How may I help you?\nM: I have a two o'clock appointment with Elizabeth Evans.\nW: Wait just one moment while I call up to the fourth floor for Ms. Evans. May I tell her who's here, please?\nM: Yes. My name is Bill Johnson. I'm here for a job interview.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1947,13 +1947,13 @@
             "D": "Fourth"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Welcome to the Alliance Technology Corporation. How may I help you?\nM: I have a two o'clock appointment with Elizabeth Evans.\nW: Wait just one moment while I call up to the fourth floor for Ms. Evans. May I tell her who's here, please?\nM: Yes. My name is Bill Johnson. I'm here for a job interview.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1969,13 +1969,13 @@
             "D": "He wants to make a purchase."
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Welcome to the Alliance Technology Corporation. How may I help you?\nM: I have a two o'clock appointment with Elizabeth Evans.\nW: Wait just one moment while I call up to the fourth floor for Ms. Evans. May I tell her who's here, please?\nM: Yes. My name is Bill Johnson. I'm here for a job interview.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -1991,13 +1991,13 @@
             "D": "A travel agent"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Mr. Park, this is Jenny Kim from Best Travel. I'm calling to see if you're still interested in the discounted package tour to South Korea. Remember that today is the last day it's available.\nM: Oh yes. Thanks for reminding me, Ms. Kim. Listen, I'm really busy this morning. Can I call you back a bit later to talk about the tour?\nW: Sure. I'll be here until five. Make sure it's today, though. Tomorrow will be too late.\nM: All right. I'll call at around two. And I am interested.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2013,13 +2013,13 @@
             "D": "To request a document from him"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Mr. Park, this is Jenny Kim from Best Travel. I'm calling to see if you're still interested in the discounted package tour to South Korea. Remember that today is the last day it's available.\nM: Oh yes. Thanks for reminding me, Ms. Kim. Listen, I'm really busy this morning. Can I call you back a bit later to talk about the tour?\nW: Sure. I'll be here until five. Make sure it's today, though. Tomorrow will be too late.\nM: All right. I'll call at around two. And I am interested.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2035,13 +2035,13 @@
             "D": "Tomorrow afternoon"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Mr. Park, this is Jenny Kim from Best Travel. I'm calling to see if you're still interested in the discounted package tour to South Korea. Remember that today is the last day it's available.\nM: Oh yes. Thanks for reminding me, Ms. Kim. Listen, I'm really busy this morning. Can I call you back a bit later to talk about the tour?\nW: Sure. I'll be here until five. Make sure it's today, though. Tomorrow will be too late.\nM: All right. I'll call at around two. And I am interested.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2057,13 +2057,13 @@
             "D": "At a movie theater"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: We're running out of plates and silverware, and there's still a line of customers waiting to be seated. Where have you been?\nM: In the kitchen, unloading the dishwasher. We've got enough clean plates now.\nW: Oh, that's good, thanks. Can you do me a favor? A customer at that table over there asked for more water.\nM: No problem. I'll take some over to her right away.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2079,13 +2079,13 @@
             "D": "There were not enough clean dishes."
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: We're running out of plates and silverware, and there's still a line of customers waiting to be seated. Where have you been?\nM: In the kitchen, unloading the dishwasher. We've got enough clean plates now.\nW: Oh, that's good, thanks. Can you do me a favor? A customer at that table over there asked for more water.\nM: No problem. I'll take some over to her right away.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2101,13 +2101,13 @@
             "D": "Find some more chairs"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: We're running out of plates and silverware, and there's still a line of customers waiting to be seated. Where have you been?\nM: In the kitchen, unloading the dishwasher. We've got enough clean plates now.\nW: Oh, that's good, thanks. Can you do me a favor? A customer at that table over there asked for more water.\nM: No problem. I'll take some over to her right away.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2123,13 +2123,13 @@
             "D": "What movie they will see"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Hi, Kathy. We talked about going to a movie tonight. Do you still want to go?\nW: Oh no, I forgot. I'm sorry, I can't make it to the movies tonight. My cousin Susan is flying in from New York, and we're planning to go out to dinner at Piazza. It's a new restaurant near my house. Why don't you come with us?\nM: Dinner sounds great! And I'd love to meet your cousin. Have you already made a reservation?\nW: You know, I should do that right now. It's not an expensive restaurant, but it's very popular.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2145,13 +2145,13 @@
             "D": "A classmate"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "M: Hi, Kathy. We talked about going to a movie tonight. Do you still want to go?\nW: Oh no, I forgot. I'm sorry, I can't make it to the movies tonight. My cousin Susan is flying in from New York, and we're planning to go out to dinner at Piazza. It's a new restaurant near my house. Why don't you come with us?\nM: Dinner sounds great! And I'd love to meet your cousin. Have you already made a reservation?\nW: You know, I should do that right now. It's not an expensive restaurant, but it's very popular.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2167,13 +2167,13 @@
             "D": "Get some money"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Hi, Kathy. We talked about going to a movie tonight. Do you still want to go?\nW: Oh no, I forgot. I'm sorry, I can't make it to the movies tonight. My cousin Susan is flying in from New York, and we're planning to go out to dinner at Piazza. It's a new restaurant near my house. Why don't you come with us?\nM: Dinner sounds great! And I'd love to meet your cousin. Have you already made a reservation?\nW: You know, I should do that right now. It's not an expensive restaurant, but it's very popular.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2189,13 +2189,13 @@
             "D": "A month ago"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Excuse me, I got this Chinese cookbook for my birthday yesterday, and it seems to be missing several pages in the middle. Could I exchange it for another copy?\nW: You certainly can, as long as it was purchased less than a month ago. Do you have the original receipt? I'll need to see proof of purchase.\nM: No, I'm afraid I don't have the receipt. It's a gift from a friend. I just got it yesterday, though, so I'm sure he didn't purchase it long ago.\nW: Oh, I'm terribly sorry for the inconvenience, but I'm afraid I really can't exchange it without a receipt.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2211,13 +2211,13 @@
             "D": "It has color pictures."
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Excuse me, I got this Chinese cookbook for my birthday yesterday, and it seems to be missing several pages in the middle. Could I exchange it for another copy?\nW: You certainly can, as long as it was purchased less than a month ago. Do you have the original receipt? I'll need to see proof of purchase.\nM: No, I'm afraid I don't have the receipt. It's a gift from a friend. I just got it yesterday, though, so I'm sure he didn't purchase it long ago.\nW: Oh, I'm terribly sorry for the inconvenience, but I'm afraid I really can't exchange it without a receipt.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2233,13 +2233,13 @@
             "D": "A delivery date"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Excuse me, I got this Chinese cookbook for my birthday yesterday, and it seems to be missing several pages in the middle. Could I exchange it for another copy?\nW: You certainly can, as long as it was purchased less than a month ago. Do you have the original receipt? I'll need to see proof of purchase.\nM: No, I'm afraid I don't have the receipt. It's a gift from a friend. I just got it yesterday, though, so I'm sure he didn't purchase it long ago.\nW: Oh, I'm terribly sorry for the inconvenience, but I'm afraid I really can't exchange it without a receipt.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2255,13 +2255,13 @@
             "D": "A printing problem"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Hello, mail room? This is Lisa Bingman. I'm expecting a package. It might have been delivered this morning, in fact.\nM: I'll check for you, Ms. Bingman. Wait a moment, please. No, I don't see anything here for you.\nW: Could you also look under M? It may be addressed to Ms. Meyers, my administrative assistant. It should be a big box—I ordered some ink cartridges and file folders.\nM: Yes, I see a package here for Ms. Meyers. I was just on my way to distribute the morning mail. I'll bring the package to you shortly.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2277,13 +2277,13 @@
             "D": "A shipping company representative"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hello, mail room? This is Lisa Bingman. I'm expecting a package. It might have been delivered this morning, in fact.\nM: I'll check for you, Ms. Bingman. Wait a moment, please. No, I don't see anything here for you.\nW: Could you also look under M? It may be addressed to Ms. Meyers, my administrative assistant. It should be a big box—I ordered some ink cartridges and file folders.\nM: Yes, I see a package here for Ms. Meyers. I was just on my way to distribute the morning mail. I'll bring the package to you shortly.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2299,13 +2299,13 @@
             "D": "Write Ms. Bingman’s name on a package"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Hello, mail room? This is Lisa Bingman. I'm expecting a package. It might have been delivered this morning, in fact.\nM: I'll check for you, Ms. Bingman. Wait a moment, please. No, I don't see anything here for you.\nW: Could you also look under M? It may be addressed to Ms. Meyers, my administrative assistant. It should be a big box—I ordered some ink cartridges and file folders.\nM: Yes, I see a package here for Ms. Meyers. I was just on my way to distribute the morning mail. I'll bring the package to you shortly.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2321,13 +2321,13 @@
             "D": "At a newsstand"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Harriet, have you seen the newspaper that was here on the windowsill this morning? I wanted to have another look at an advertisement I saw.\nW: I saw Phil take it into the coffee-break room. Why, what exactly were you looking for?\nM: I need a new laptop computer, and I thought I saw that Sherrigan's was offering laptops for 35 percent off.\nW: Yeah, I saw that too, but it was for 35 euros off, not 35 percent. Here, I can show you a Web site where you can get a much better deal.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2343,13 +2343,13 @@
             "D": "Cheap coffee"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "M: Harriet, have you seen the newspaper that was here on the windowsill this morning? I wanted to have another look at an advertisement I saw.\nW: I saw Phil take it into the coffee-break room. Why, what exactly were you looking for?\nM: I need a new laptop computer, and I thought I saw that Sherrigan's was offering laptops for 35 percent off.\nW: Yeah, I saw that too, but it was for 35 euros off, not 35 percent. Here, I can show you a Web site where you can get a much better deal.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2365,13 +2365,13 @@
             "D": "Going to a computer store"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "M: Harriet, have you seen the newspaper that was here on the windowsill this morning? I wanted to have another look at an advertisement I saw.\nW: I saw Phil take it into the coffee-break room. Why, what exactly were you looking for?\nM: I need a new laptop computer, and I thought I saw that Sherrigan's was offering laptops for 35 percent off.\nW: Yeah, I saw that too, but it was for 35 euros off, not 35 percent. Here, I can show you a Web site where you can get a much better deal.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2387,13 +2387,13 @@
             "D": "At a financial institution"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Thank you for calling the Kim Investment Group. This is Clara Jones. How may I help you?\nM: Hello, my name is Fred Kane, and I'm calling from the Clearsea Electronics Company. I'd like to transfer ten thousand dollars from our short-term savings account to our long-term account.\nW: No problem, sir. What's the account number that you're transferring from?\nM: The account number is 67843. Oh, before I forget—we don't want this transaction to happen right away. We'd like to schedule it for March 31.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2409,13 +2409,13 @@
             "D": "To schedule a job interview"
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Thank you for calling the Kim Investment Group. This is Clara Jones. How may I help you?\nM: Hello, my name is Fred Kane, and I'm calling from the Clearsea Electronics Company. I'd like to transfer ten thousand dollars from our short-term savings account to our long-term account.\nW: No problem, sir. What's the account number that you're transferring from?\nM: The account number is 67843. Oh, before I forget—we don't want this transaction to happen right away. We'd like to schedule it for March 31.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2431,13 +2431,13 @@
             "D": "An account number"
           },
           "answer": "D",
-          "transcript": null,
+          "transcript": "W: Thank you for calling the Kim Investment Group. This is Clara Jones. How may I help you?\nM: Hello, my name is Fred Kane, and I'm calling from the Clearsea Electronics Company. I'd like to transfer ten thousand dollars from our short-term savings account to our long-term account.\nW: No problem, sir. What's the account number that you're transferring from?\nM: The account number is 67843. Oh, before I forget—we don't want this transaction to happen right away. We'd like to schedule it for March 31.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2453,13 +2453,13 @@
             "D": "An event planner"
           },
           "answer": "C",
-          "transcript": null,
+          "transcript": "W: Brian, I stopped by the construction site this morning. I'm kind of worried. It doesn't look like your work crew has made much progress on my store.\nM: We're a little behind schedule because of all the rain we've had. But we still expect to be done on time.\nW: Well, the grand opening is scheduled for June 13th. So I was planning to have suppliers deliver the first shipments of clothing before the end of May.\nM: That should be no problem. Even if we get more rain, we'll have your store ready by the beginning of May at the latest.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2475,13 +2475,13 @@
             "D": "The building design was changed."
           },
           "answer": "A",
-          "transcript": null,
+          "transcript": "W: Brian, I stopped by the construction site this morning. I'm kind of worried. It doesn't look like your work crew has made much progress on my store.\nM: We're a little behind schedule because of all the rain we've had. But we still expect to be done on time.\nW: Well, the grand opening is scheduled for June 13th. So I was planning to have suppliers deliver the first shipments of clothing before the end of May.\nM: That should be no problem. Even if we get more rain, we'll have your store ready by the beginning of May at the latest.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         },
         {
@@ -2497,13 +2497,13 @@
             "D": "Finish a construction project"
           },
           "answer": "B",
-          "transcript": null,
+          "transcript": "W: Brian, I stopped by the construction site this morning. I'm kind of worried. It doesn't look like your work crew has made much progress on my store.\nM: We're a little behind schedule because of all the rain we've had. But we still expect to be done on time.\nW: Well, the grand opening is scheduled for June 13th. So I was planning to have suppliers deliver the first shipments of clothing before the end of May.\nM: That should be no problem. Even if we get more rain, we'll have your store ready by the beginning of May at the latest.",
           "source": {
             "audio": "drive",
             "question": "drive",
             "options": "drive",
-            "answer": "ai",
-            "transcript": null
+            "answer": "drive",
+            "transcript": "drive"
           }
         }
       ]
