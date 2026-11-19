@@ -1,0 +1,618 @@
+{
+  "collection": "exercises",
+  "day": "day-23",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d23-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: Henri's International Café menu",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d23-read-01",
+          "no": 1,
+          "text": "What is indicated about the lunch special?",
+          "options": {
+            "A": "It provides a choice for the main dish.",
+            "B": "It is not offered on Sundays.",
+            "C": "Its price has not been determined.",
+            "D": "It is offered starting at 10:00 A.M."
+          },
+          "answer": "A",
+          "explain": "“Tofu or tuna” → khách được chọn món chính (đậu phụ hoặc cá ngừ). Giá đã ghi R 120.00 (C sai), giờ phục vụ từ 11:00 (D sai), không nhắc Chủ nhật (B sai).",
+          "passage": {
+            "text": "Henri's International Café\nCasual Dining in the Heart of Pretoria\n\nLunch Menu\nServed from 11:00 A.M. to 3:00 P.M.\n\nLunch Special\nMixed green salad\nTofu or tuna\nFruit tart\nR 120.00\n\nMain Courses\nGreen split pea soup — R 34.00\nFrench onion soup — R 34.00\nMixed green salad with peppers, tomatoes, olives, and tuna — R 32.00\nPan-seared salmon with salad or fries — R 68.00\nSteamed mussels with garlic and parsley and fries — R 72.00\nGrilled cheese sandwich with salad or fries — R 64.00\nHerbed roasted chicken breast with assorted vegetables — R 68.00\n\nDesserts\nFresh fruit tart of the day with vanilla ice cream — R 32.00\nChocolate cake with caramel sauce — R 34.00\nBaked caramel custard — R 36.00\nTwo scoops of vanilla ice cream with chocolate sauce — R 30.00"
+          },
+          "vi": "Quán cà phê quốc tế Henri\nĂn uống thoải mái giữa lòng Pretoria\n\nThực đơn bữa trưa\nPhục vụ từ 11 giờ sáng đến 3 giờ chiều.\n\nSuất trưa đặc biệt\nSalad rau xanh trộn\nĐậu phụ hoặc cá ngừ\nBánh tart trái cây\n120 rand\n\nMón chính\nSúp đậu Hà Lan tách hạt — 34 rand\nSúp hành kiểu Pháp — 34 rand\nSalad rau xanh trộn với ớt chuông, cà chua, ô liu và cá ngừ — 32 rand\nCá hồi áp chảo kèm salad hoặc khoai tây chiên — 68 rand\nVẹm hấp tỏi, mùi tây kèm khoai tây chiên — 72 rand\nBánh mì kẹp phô mai nướng kèm salad hoặc khoai tây chiên — 64 rand\nỨc gà nướng thảo mộc kèm rau củ các loại — 68 rand\n\nTráng miệng\nBánh tart trái cây tươi trong ngày kèm kem vani — 32 rand\nBánh sô-cô-la sốt caramel — 34 rand\nBánh flan caramel nướng — 36 rand\nHai viên kem vani sốt sô-cô-la — 30 rand",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-02",
+          "no": 2,
+          "text": "What dish is offered with a choice of salad or fries?",
+          "options": {
+            "A": "Mussels",
+            "B": "Salmon",
+            "C": "Chicken",
+            "D": "Tofu"
+          },
+          "answer": "B",
+          "explain": "“Pan-seared salmon with salad or fries” → cá hồi. Vẹm chỉ kèm khoai chiên (“and fries”), gà kèm rau củ.",
+          "passage": {
+            "text": "Henri's International Café\nCasual Dining in the Heart of Pretoria\n\nLunch Menu\nServed from 11:00 A.M. to 3:00 P.M.\n\nLunch Special\nMixed green salad\nTofu or tuna\nFruit tart\nR 120.00\n\nMain Courses\nGreen split pea soup — R 34.00\nFrench onion soup — R 34.00\nMixed green salad with peppers, tomatoes, olives, and tuna — R 32.00\nPan-seared salmon with salad or fries — R 68.00\nSteamed mussels with garlic and parsley and fries — R 72.00\nGrilled cheese sandwich with salad or fries — R 64.00\nHerbed roasted chicken breast with assorted vegetables — R 68.00\n\nDesserts\nFresh fruit tart of the day with vanilla ice cream — R 32.00\nChocolate cake with caramel sauce — R 34.00\nBaked caramel custard — R 36.00\nTwo scoops of vanilla ice cream with chocolate sauce — R 30.00"
+          },
+          "vi": "Quán cà phê quốc tế Henri\nĂn uống thoải mái giữa lòng Pretoria\n\nThực đơn bữa trưa\nPhục vụ từ 11 giờ sáng đến 3 giờ chiều.\n\nSuất trưa đặc biệt\nSalad rau xanh trộn\nĐậu phụ hoặc cá ngừ\nBánh tart trái cây\n120 rand\n\nMón chính\nSúp đậu Hà Lan tách hạt — 34 rand\nSúp hành kiểu Pháp — 34 rand\nSalad rau xanh trộn với ớt chuông, cà chua, ô liu và cá ngừ — 32 rand\nCá hồi áp chảo kèm salad hoặc khoai tây chiên — 68 rand\nVẹm hấp tỏi, mùi tây kèm khoai tây chiên — 72 rand\nBánh mì kẹp phô mai nướng kèm salad hoặc khoai tây chiên — 64 rand\nỨc gà nướng thảo mộc kèm rau củ các loại — 68 rand\n\nTráng miệng\nBánh tart trái cây tươi trong ngày kèm kem vani — 32 rand\nBánh sô-cô-la sốt caramel — 34 rand\nBánh flan caramel nướng — 36 rand\nHai viên kem vani sốt sô-cô-la — 30 rand",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-03",
+          "no": 3,
+          "text": "What dessert has ingredients that might change daily?",
+          "options": {
+            "A": "The fruit tart",
+            "B": "The chocolate cake",
+            "C": "The caramel custard",
+            "D": "The ice cream"
+          },
+          "answer": "A",
+          "explain": "“Fresh fruit tart of the day” → trái cây thay đổi theo ngày.",
+          "passage": {
+            "text": "Henri's International Café\nCasual Dining in the Heart of Pretoria\n\nLunch Menu\nServed from 11:00 A.M. to 3:00 P.M.\n\nLunch Special\nMixed green salad\nTofu or tuna\nFruit tart\nR 120.00\n\nMain Courses\nGreen split pea soup — R 34.00\nFrench onion soup — R 34.00\nMixed green salad with peppers, tomatoes, olives, and tuna — R 32.00\nPan-seared salmon with salad or fries — R 68.00\nSteamed mussels with garlic and parsley and fries — R 72.00\nGrilled cheese sandwich with salad or fries — R 64.00\nHerbed roasted chicken breast with assorted vegetables — R 68.00\n\nDesserts\nFresh fruit tart of the day with vanilla ice cream — R 32.00\nChocolate cake with caramel sauce — R 34.00\nBaked caramel custard — R 36.00\nTwo scoops of vanilla ice cream with chocolate sauce — R 30.00"
+          },
+          "vi": "Quán cà phê quốc tế Henri\nĂn uống thoải mái giữa lòng Pretoria\n\nThực đơn bữa trưa\nPhục vụ từ 11 giờ sáng đến 3 giờ chiều.\n\nSuất trưa đặc biệt\nSalad rau xanh trộn\nĐậu phụ hoặc cá ngừ\nBánh tart trái cây\n120 rand\n\nMón chính\nSúp đậu Hà Lan tách hạt — 34 rand\nSúp hành kiểu Pháp — 34 rand\nSalad rau xanh trộn với ớt chuông, cà chua, ô liu và cá ngừ — 32 rand\nCá hồi áp chảo kèm salad hoặc khoai tây chiên — 68 rand\nVẹm hấp tỏi, mùi tây kèm khoai tây chiên — 72 rand\nBánh mì kẹp phô mai nướng kèm salad hoặc khoai tây chiên — 64 rand\nỨc gà nướng thảo mộc kèm rau củ các loại — 68 rand\n\nTráng miệng\nBánh tart trái cây tươi trong ngày kèm kem vani — 32 rand\nBánh sô-cô-la sốt caramel — 34 rand\nBánh flan caramel nướng — 36 rand\nHai viên kem vani sốt sô-cô-la — 30 rand",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d23-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: Frank's Auto Repair feedback",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        2
+      ],
+      "questions": [
+        {
+          "id": "d23-read-04",
+          "no": 4,
+          "text": "What does the customer consider unimportant when choosing a repair service?",
+          "options": {
+            "A": "The location of the company",
+            "B": "The respect shown by the employees",
+            "C": "The experience of the company's mechanics",
+            "D": "The price of the company's services"
+          },
+          "answer": "A",
+          "explain": "“Convenient Location” khoanh số 2 (gần “Not important”) → địa điểm không quan trọng. Thợ có kinh nghiệm khoanh 6, giá khoanh 5.",
+          "passage": {
+            "text": "Frank's Auto Repair\n112 Central Avenue\nCustomer Feedback Form\n\nYour opinions are important to us. We will use the information collected in this survey to help improve our service. Please tell us how important each of the following factors is to you when you choose a business for automotive repair. Circle a number from 1-6.\n\n(1 = Not important … 6 = Very important; the customer's circled number is shown in brackets)\nPrice: 1 2 3 4 (5) 6\nConvenient Location: 1 (2) 3 4 5 6\nExperienced Mechanics: 1 2 3 4 5 (6)\nCourteous Office Staff: 1 2 3 (4) 5 6\n\nDid our staff:\nClearly explain the work your vehicle needed? — No: X\nTreat you politely and with respect? — Yes: X\nAccurately estimate the amount of time the work would take? — Yes: X\nTell you the cost before repairing your vehicle? — Yes: X\n\nComments\nI'm not sure I understand what was wrong with the car, but the mechanics were able to fix it quickly and easily. The price was reasonable, too. But it would be helpful next if I could get more information about the repair."
+          },
+          "vi": "Tiệm sửa ô tô Frank\nSố 112 đại lộ Central\nPhiếu ý kiến khách hàng\n\nÝ kiến của quý khách rất quan trọng với chúng tôi. Chúng tôi sẽ dùng thông tin thu được từ khảo sát này để cải thiện dịch vụ. Vui lòng cho biết mỗi yếu tố sau quan trọng thế nào với quý khách khi chọn nơi sửa ô tô. Khoanh một số từ 1 đến 6.\n\n(1 = Không quan trọng … 6 = Rất quan trọng; số khách khoanh nằm trong ngoặc)\nGiá cả: 1 2 3 4 (5) 6\nĐịa điểm thuận tiện: 1 (2) 3 4 5 6\nThợ máy có kinh nghiệm: 1 2 3 4 5 (6)\nNhân viên văn phòng lịch sự: 1 2 3 (4) 5 6\n\nNhân viên của chúng tôi có:\nGiải thích rõ xe của quý khách cần sửa gì không? — Không: X\nĐối xử lịch sự và tôn trọng với quý khách không? — Có: X\nƯớc tính chính xác thời gian sửa không? — Có: X\nBáo giá trước khi sửa xe không? — Có: X\n\nNhận xét\nTôi không chắc mình hiểu xe bị hỏng gì, nhưng các thợ đã sửa nhanh và dễ dàng. Giá cũng hợp lý. Nhưng lần sau sẽ hữu ích hơn nếu tôi được biết thêm thông tin về việc sửa chữa.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-05",
+          "no": 5,
+          "text": "With which aspect of the service was the customer NOT satisfied?",
+          "options": {
+            "A": "The cost of the necessary parts",
+            "B": "The amount of information given about the repair work",
+            "C": "The amount of time needed to make the repairs",
+            "D": "The politeness of the employees"
+          },
+          "answer": "B",
+          "explain": "“Clearly explain the work your vehicle needed? No X” và “it would be helpful next if I could get more information about the repair” → không hài lòng về lượng thông tin.",
+          "passage": {
+            "text": "Frank's Auto Repair\n112 Central Avenue\nCustomer Feedback Form\n\nYour opinions are important to us. We will use the information collected in this survey to help improve our service. Please tell us how important each of the following factors is to you when you choose a business for automotive repair. Circle a number from 1-6.\n\n(1 = Not important … 6 = Very important; the customer's circled number is shown in brackets)\nPrice: 1 2 3 4 (5) 6\nConvenient Location: 1 (2) 3 4 5 6\nExperienced Mechanics: 1 2 3 4 5 (6)\nCourteous Office Staff: 1 2 3 (4) 5 6\n\nDid our staff:\nClearly explain the work your vehicle needed? — No: X\nTreat you politely and with respect? — Yes: X\nAccurately estimate the amount of time the work would take? — Yes: X\nTell you the cost before repairing your vehicle? — Yes: X\n\nComments\nI'm not sure I understand what was wrong with the car, but the mechanics were able to fix it quickly and easily. The price was reasonable, too. But it would be helpful next if I could get more information about the repair."
+          },
+          "vi": "Tiệm sửa ô tô Frank\nSố 112 đại lộ Central\nPhiếu ý kiến khách hàng\n\nÝ kiến của quý khách rất quan trọng với chúng tôi. Chúng tôi sẽ dùng thông tin thu được từ khảo sát này để cải thiện dịch vụ. Vui lòng cho biết mỗi yếu tố sau quan trọng thế nào với quý khách khi chọn nơi sửa ô tô. Khoanh một số từ 1 đến 6.\n\n(1 = Không quan trọng … 6 = Rất quan trọng; số khách khoanh nằm trong ngoặc)\nGiá cả: 1 2 3 4 (5) 6\nĐịa điểm thuận tiện: 1 (2) 3 4 5 6\nThợ máy có kinh nghiệm: 1 2 3 4 5 (6)\nNhân viên văn phòng lịch sự: 1 2 3 (4) 5 6\n\nNhân viên của chúng tôi có:\nGiải thích rõ xe của quý khách cần sửa gì không? — Không: X\nĐối xử lịch sự và tôn trọng với quý khách không? — Có: X\nƯớc tính chính xác thời gian sửa không? — Có: X\nBáo giá trước khi sửa xe không? — Có: X\n\nNhận xét\nTôi không chắc mình hiểu xe bị hỏng gì, nhưng các thợ đã sửa nhanh và dễ dàng. Giá cũng hợp lý. Nhưng lần sau sẽ hữu ích hơn nếu tôi được biết thêm thông tin về việc sửa chữa.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-06",
+          "no": 6,
+          "text": "What is suggested about the customer?",
+          "options": {
+            "A": "The customer has been to the repair service more than once.",
+            "B": "The customer will not do business with Frank's Auto Repair again.",
+            "C": "The customer was satisfied with the repair costs.",
+            "D": "The customer knew what the problem was with the car."
+          },
+          "answer": "C",
+          "explain": "“The price was reasonable, too.” → hài lòng về chi phí. D sai vì “I'm not sure I understand what was wrong with the car”; B ngược với “next time”; A không được nhắc.",
+          "passage": {
+            "text": "Frank's Auto Repair\n112 Central Avenue\nCustomer Feedback Form\n\nYour opinions are important to us. We will use the information collected in this survey to help improve our service. Please tell us how important each of the following factors is to you when you choose a business for automotive repair. Circle a number from 1-6.\n\n(1 = Not important … 6 = Very important; the customer's circled number is shown in brackets)\nPrice: 1 2 3 4 (5) 6\nConvenient Location: 1 (2) 3 4 5 6\nExperienced Mechanics: 1 2 3 4 5 (6)\nCourteous Office Staff: 1 2 3 (4) 5 6\n\nDid our staff:\nClearly explain the work your vehicle needed? — No: X\nTreat you politely and with respect? — Yes: X\nAccurately estimate the amount of time the work would take? — Yes: X\nTell you the cost before repairing your vehicle? — Yes: X\n\nComments\nI'm not sure I understand what was wrong with the car, but the mechanics were able to fix it quickly and easily. The price was reasonable, too. But it would be helpful next if I could get more information about the repair."
+          },
+          "vi": "Tiệm sửa ô tô Frank\nSố 112 đại lộ Central\nPhiếu ý kiến khách hàng\n\nÝ kiến của quý khách rất quan trọng với chúng tôi. Chúng tôi sẽ dùng thông tin thu được từ khảo sát này để cải thiện dịch vụ. Vui lòng cho biết mỗi yếu tố sau quan trọng thế nào với quý khách khi chọn nơi sửa ô tô. Khoanh một số từ 1 đến 6.\n\n(1 = Không quan trọng … 6 = Rất quan trọng; số khách khoanh nằm trong ngoặc)\nGiá cả: 1 2 3 4 (5) 6\nĐịa điểm thuận tiện: 1 (2) 3 4 5 6\nThợ máy có kinh nghiệm: 1 2 3 4 5 (6)\nNhân viên văn phòng lịch sự: 1 2 3 (4) 5 6\n\nNhân viên của chúng tôi có:\nGiải thích rõ xe của quý khách cần sửa gì không? — Không: X\nĐối xử lịch sự và tôn trọng với quý khách không? — Có: X\nƯớc tính chính xác thời gian sửa không? — Có: X\nBáo giá trước khi sửa xe không? — Có: X\n\nNhận xét\nTôi không chắc mình hiểu xe bị hỏng gì, nhưng các thợ đã sửa nhanh và dễ dàng. Giá cũng hợp lý. Nhưng lần sau sẽ hữu ích hơn nếu tôi được biết thêm thông tin về việc sửa chữa.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d23-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: Greenville road closures",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "id": "d23-read-07",
+          "no": 7,
+          "text": "What is the main reason for the road closures?",
+          "options": {
+            "A": "Bad weather conditions",
+            "B": "Local street fairs",
+            "C": "Construction of new buildings",
+            "D": "Planned maintenance work"
+          },
+          "answer": "D",
+          "explain": "Cột Reason: “Ditch grading”, “Railroad crossing repair”, “Repave”, “Road improvements” → đều là công việc bảo trì/sửa đường theo kế hoạch.",
+          "passage": {
+            "text": "The Greenville Department of Transportation\nReported Road Closures For County Roads in Greenville\nAugust 4-18\n\nRoute 5 — From/To: South Avenue / Park Lane — Reason: Ditch grading & median expansion — Date: Aug. 4-10 — Alternate route: Martin Street to Maltby Road to Park Lane\nVirginia Road — From/To: Valley Boulevard / Lakewood Drive — Reason: Railroad crossing repair — Date: Aug. 6-11 — Alternate route: Valley Boulevard to Baxter Street to Lakewood Drive\nSerlin Boulevard (only northbound lanes unavailable) — From/To: Commerce Drive / Main Street — Reason: Repave northbound lanes — Date: Aug. 8-16 — Alternate route: Hartley Drive to Caxsen Way to Main Street\nAdams Street — From/To: Ocean Road / Exchange Street — Reason: Road improvements (curb & gutter installation) — Date: Aug. 10-18 — Alternate route: Ocean Road to River Drive to Exchange Street"
+          },
+          "vi": "Sở Giao thông Greenville\nThông báo đóng đường các tuyến đường hạt ở Greenville\nTừ 4 đến 18 tháng 8\n\nRoute 5 — Đoạn: đại lộ South / Park Lane — Lý do: san mương và mở rộng dải phân cách — Thời gian: 4–10/8 — Đường thay thế: phố Martin sang đường Maltby sang Park Lane\nĐường Virginia — Đoạn: đại lộ Valley / Lakewood Drive — Lý do: sửa chỗ giao cắt đường sắt — Thời gian: 6–11/8 — Đường thay thế: đại lộ Valley sang phố Baxter sang Lakewood Drive\nĐại lộ Serlin (chỉ đóng các làn chiều đi lên phía bắc) — Đoạn: Commerce Drive / phố Main — Lý do: trải lại mặt các làn đi lên phía bắc — Thời gian: 8–16/8 — Đường thay thế: Hartley Drive sang Caxsen Way sang phố Main\nPhố Adams — Đoạn: đường Ocean / phố Exchange — Lý do: nâng cấp đường (lắp bó vỉa và rãnh thoát nước) — Thời gian: 10–18/8 — Đường thay thế: đường Ocean sang River Drive sang phố Exchange",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-08",
+          "no": 8,
+          "text": "Which road will be closed in just one direction?",
+          "options": {
+            "A": "Route 5",
+            "B": "Virginia Road",
+            "C": "Serlin Boulevard",
+            "D": "Adams Street"
+          },
+          "answer": "C",
+          "explain": "“Serlin Boulevard (only northbound lanes unavailable)” → chỉ đóng chiều đi lên phía bắc.",
+          "passage": {
+            "text": "The Greenville Department of Transportation\nReported Road Closures For County Roads in Greenville\nAugust 4-18\n\nRoute 5 — From/To: South Avenue / Park Lane — Reason: Ditch grading & median expansion — Date: Aug. 4-10 — Alternate route: Martin Street to Maltby Road to Park Lane\nVirginia Road — From/To: Valley Boulevard / Lakewood Drive — Reason: Railroad crossing repair — Date: Aug. 6-11 — Alternate route: Valley Boulevard to Baxter Street to Lakewood Drive\nSerlin Boulevard (only northbound lanes unavailable) — From/To: Commerce Drive / Main Street — Reason: Repave northbound lanes — Date: Aug. 8-16 — Alternate route: Hartley Drive to Caxsen Way to Main Street\nAdams Street — From/To: Ocean Road / Exchange Street — Reason: Road improvements (curb & gutter installation) — Date: Aug. 10-18 — Alternate route: Ocean Road to River Drive to Exchange Street"
+          },
+          "vi": "Sở Giao thông Greenville\nThông báo đóng đường các tuyến đường hạt ở Greenville\nTừ 4 đến 18 tháng 8\n\nRoute 5 — Đoạn: đại lộ South / Park Lane — Lý do: san mương và mở rộng dải phân cách — Thời gian: 4–10/8 — Đường thay thế: phố Martin sang đường Maltby sang Park Lane\nĐường Virginia — Đoạn: đại lộ Valley / Lakewood Drive — Lý do: sửa chỗ giao cắt đường sắt — Thời gian: 6–11/8 — Đường thay thế: đại lộ Valley sang phố Baxter sang Lakewood Drive\nĐại lộ Serlin (chỉ đóng các làn chiều đi lên phía bắc) — Đoạn: Commerce Drive / phố Main — Lý do: trải lại mặt các làn đi lên phía bắc — Thời gian: 8–16/8 — Đường thay thế: Hartley Drive sang Caxsen Way sang phố Main\nPhố Adams — Đoạn: đường Ocean / phố Exchange — Lý do: nâng cấp đường (lắp bó vỉa và rãnh thoát nước) — Thời gian: 10–18/8 — Đường thay thế: đường Ocean sang River Drive sang phố Exchange",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-09",
+          "no": 9,
+          "text": "When is the work on Virginia Road scheduled to begin?",
+          "options": {
+            "A": "On August 4",
+            "B": "On August 6",
+            "C": "On August 8",
+            "D": "On August 10"
+          },
+          "answer": "B",
+          "explain": "Dòng Virginia Road, cột Date: “Aug. 6-11” → bắt đầu 6/8.",
+          "passage": {
+            "text": "The Greenville Department of Transportation\nReported Road Closures For County Roads in Greenville\nAugust 4-18\n\nRoute 5 — From/To: South Avenue / Park Lane — Reason: Ditch grading & median expansion — Date: Aug. 4-10 — Alternate route: Martin Street to Maltby Road to Park Lane\nVirginia Road — From/To: Valley Boulevard / Lakewood Drive — Reason: Railroad crossing repair — Date: Aug. 6-11 — Alternate route: Valley Boulevard to Baxter Street to Lakewood Drive\nSerlin Boulevard (only northbound lanes unavailable) — From/To: Commerce Drive / Main Street — Reason: Repave northbound lanes — Date: Aug. 8-16 — Alternate route: Hartley Drive to Caxsen Way to Main Street\nAdams Street — From/To: Ocean Road / Exchange Street — Reason: Road improvements (curb & gutter installation) — Date: Aug. 10-18 — Alternate route: Ocean Road to River Drive to Exchange Street"
+          },
+          "vi": "Sở Giao thông Greenville\nThông báo đóng đường các tuyến đường hạt ở Greenville\nTừ 4 đến 18 tháng 8\n\nRoute 5 — Đoạn: đại lộ South / Park Lane — Lý do: san mương và mở rộng dải phân cách — Thời gian: 4–10/8 — Đường thay thế: phố Martin sang đường Maltby sang Park Lane\nĐường Virginia — Đoạn: đại lộ Valley / Lakewood Drive — Lý do: sửa chỗ giao cắt đường sắt — Thời gian: 6–11/8 — Đường thay thế: đại lộ Valley sang phố Baxter sang Lakewood Drive\nĐại lộ Serlin (chỉ đóng các làn chiều đi lên phía bắc) — Đoạn: Commerce Drive / phố Main — Lý do: trải lại mặt các làn đi lên phía bắc — Thời gian: 8–16/8 — Đường thay thế: Hartley Drive sang Caxsen Way sang phố Main\nPhố Adams — Đoạn: đường Ocean / phố Exchange — Lý do: nâng cấp đường (lắp bó vỉa và rãnh thoát nước) — Thời gian: 10–18/8 — Đường thay thế: đường Ocean sang River Drive sang phố Exchange",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-10",
+          "no": 10,
+          "text": "According to the schedule, what road can be used to get from Ocean Road to Exchange Street?",
+          "options": {
+            "A": "Caxsen Way",
+            "B": "River Drive",
+            "C": "Park Lane",
+            "D": "Lakewood Drive"
+          },
+          "answer": "B",
+          "explain": "Dòng Adams Street, Alternate Route: “Ocean Road to River Drive to Exchange Street”.",
+          "passage": {
+            "text": "The Greenville Department of Transportation\nReported Road Closures For County Roads in Greenville\nAugust 4-18\n\nRoute 5 — From/To: South Avenue / Park Lane — Reason: Ditch grading & median expansion — Date: Aug. 4-10 — Alternate route: Martin Street to Maltby Road to Park Lane\nVirginia Road — From/To: Valley Boulevard / Lakewood Drive — Reason: Railroad crossing repair — Date: Aug. 6-11 — Alternate route: Valley Boulevard to Baxter Street to Lakewood Drive\nSerlin Boulevard (only northbound lanes unavailable) — From/To: Commerce Drive / Main Street — Reason: Repave northbound lanes — Date: Aug. 8-16 — Alternate route: Hartley Drive to Caxsen Way to Main Street\nAdams Street — From/To: Ocean Road / Exchange Street — Reason: Road improvements (curb & gutter installation) — Date: Aug. 10-18 — Alternate route: Ocean Road to River Drive to Exchange Street"
+          },
+          "vi": "Sở Giao thông Greenville\nThông báo đóng đường các tuyến đường hạt ở Greenville\nTừ 4 đến 18 tháng 8\n\nRoute 5 — Đoạn: đại lộ South / Park Lane — Lý do: san mương và mở rộng dải phân cách — Thời gian: 4–10/8 — Đường thay thế: phố Martin sang đường Maltby sang Park Lane\nĐường Virginia — Đoạn: đại lộ Valley / Lakewood Drive — Lý do: sửa chỗ giao cắt đường sắt — Thời gian: 6–11/8 — Đường thay thế: đại lộ Valley sang phố Baxter sang Lakewood Drive\nĐại lộ Serlin (chỉ đóng các làn chiều đi lên phía bắc) — Đoạn: Commerce Drive / phố Main — Lý do: trải lại mặt các làn đi lên phía bắc — Thời gian: 8–16/8 — Đường thay thế: Hartley Drive sang Caxsen Way sang phố Main\nPhố Adams — Đoạn: đường Ocean / phố Exchange — Lý do: nâng cấp đường (lắp bó vỉa và rãnh thoát nước) — Thời gian: 10–18/8 — Đường thay thế: đường Ocean sang River Drive sang phố Exchange",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d23-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: Passages Hotel questionnaire",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "id": "d23-read-11",
+          "no": 11,
+          "text": "What is NOT indicated about Passages Hotel?",
+          "options": {
+            "A": "It provides meeting space.",
+            "B": "It has hired additional staff.",
+            "C": "It seeks the opinions of its customers.",
+            "D": "It was busy in April."
+          },
+          "answer": "B",
+          "explain": "A: “premier hotel and conference center”; C: “We greatly value your opinion”; D: “this was a busy month” (ở 15–18/4). Không có chỗ nào nói khách sạn đã thuê thêm người — khách còn phàn nàn thiếu nhân viên → B.",
+          "passage": {
+            "text": "Thank you for choosing Passages Hotel, Kuala Lumpur's premier hotel and conference center. We greatly value your opinion. Please take a moment to fill out the questionnaire and either leave it in your room or place it in the box located in the hotel's lobby.\n\nRate the following. (Excellent / Good / Fair / Poor / Not Used)\nFront desk service — Poor\nConcierge service — Excellent\nLotus restaurant — Excellent\nRoom service — Not Used\nHousekeeping — Good\nBusiness center — Good\nOverall appearance of hotel — Excellent\n\nI have stayed at this hotel a number of times on business and am usually very satisfied. However, this time it seemed that the front desk was understaffed the entire time I stayed here. I had to wait for 20 minutes to check in, and it took over 30 minutes to check out. In addition, it was difficult to contact the front desk from my room. Twice the phone rang without anyone picking up. I realize this was a busy month for the hotel, but enough staff should have been put on duty to accommodate guests.\n\nName (optional): Bindi Shah\nContact information (optional): bshah@svpnet.com\nDate of stay: April 15-18\nPassages Hotel"
+          },
+          "vi": "Cảm ơn quý khách đã chọn khách sạn Passages, khách sạn và trung tâm hội nghị hàng đầu của Kuala Lumpur. Chúng tôi rất trân trọng ý kiến của quý khách. Xin dành chút thời gian điền phiếu khảo sát này rồi để lại trong phòng hoặc bỏ vào hộp đặt ở sảnh khách sạn.\n\nĐánh giá các mục sau. (Xuất sắc / Tốt / Khá / Kém / Không dùng)\nDịch vụ lễ tân — Kém\nDịch vụ hỗ trợ khách (concierge) — Xuất sắc\nNhà hàng Lotus — Xuất sắc\nDịch vụ phục vụ tại phòng — Không dùng\nDọn phòng — Tốt\nTrung tâm dịch vụ văn phòng — Tốt\nDiện mạo chung của khách sạn — Xuất sắc\n\nTôi đã ở khách sạn này nhiều lần khi đi công tác và thường rất hài lòng. Tuy nhiên, lần này có vẻ quầy lễ tân thiếu người suốt thời gian tôi ở. Tôi phải chờ 20 phút để nhận phòng và mất hơn 30 phút để trả phòng. Ngoài ra, rất khó gọi xuống lễ tân từ phòng. Hai lần điện thoại đổ chuông mà không ai nhấc máy. Tôi hiểu đây là tháng cao điểm của khách sạn, nhưng lẽ ra phải bố trí đủ nhân viên trực để phục vụ khách.\n\nTên (không bắt buộc): Bindi Shah\nThông tin liên hệ (không bắt buộc): bshah@svpnet.com\nThời gian lưu trú: 15–18 tháng 4\nKhách sạn Passages",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-12",
+          "no": 12,
+          "text": "What did Ms. Shah find unsatisfactory?",
+          "options": {
+            "A": "Room service",
+            "B": "The restaurant",
+            "C": "The business center",
+            "D": "Front-desk service"
+          },
+          "answer": "D",
+          "explain": "“Front desk service” đánh dấu Poor, và “the front desk was understaffed”.",
+          "passage": {
+            "text": "Thank you for choosing Passages Hotel, Kuala Lumpur's premier hotel and conference center. We greatly value your opinion. Please take a moment to fill out the questionnaire and either leave it in your room or place it in the box located in the hotel's lobby.\n\nRate the following. (Excellent / Good / Fair / Poor / Not Used)\nFront desk service — Poor\nConcierge service — Excellent\nLotus restaurant — Excellent\nRoom service — Not Used\nHousekeeping — Good\nBusiness center — Good\nOverall appearance of hotel — Excellent\n\nI have stayed at this hotel a number of times on business and am usually very satisfied. However, this time it seemed that the front desk was understaffed the entire time I stayed here. I had to wait for 20 minutes to check in, and it took over 30 minutes to check out. In addition, it was difficult to contact the front desk from my room. Twice the phone rang without anyone picking up. I realize this was a busy month for the hotel, but enough staff should have been put on duty to accommodate guests.\n\nName (optional): Bindi Shah\nContact information (optional): bshah@svpnet.com\nDate of stay: April 15-18\nPassages Hotel"
+          },
+          "vi": "Cảm ơn quý khách đã chọn khách sạn Passages, khách sạn và trung tâm hội nghị hàng đầu của Kuala Lumpur. Chúng tôi rất trân trọng ý kiến của quý khách. Xin dành chút thời gian điền phiếu khảo sát này rồi để lại trong phòng hoặc bỏ vào hộp đặt ở sảnh khách sạn.\n\nĐánh giá các mục sau. (Xuất sắc / Tốt / Khá / Kém / Không dùng)\nDịch vụ lễ tân — Kém\nDịch vụ hỗ trợ khách (concierge) — Xuất sắc\nNhà hàng Lotus — Xuất sắc\nDịch vụ phục vụ tại phòng — Không dùng\nDọn phòng — Tốt\nTrung tâm dịch vụ văn phòng — Tốt\nDiện mạo chung của khách sạn — Xuất sắc\n\nTôi đã ở khách sạn này nhiều lần khi đi công tác và thường rất hài lòng. Tuy nhiên, lần này có vẻ quầy lễ tân thiếu người suốt thời gian tôi ở. Tôi phải chờ 20 phút để nhận phòng và mất hơn 30 phút để trả phòng. Ngoài ra, rất khó gọi xuống lễ tân từ phòng. Hai lần điện thoại đổ chuông mà không ai nhấc máy. Tôi hiểu đây là tháng cao điểm của khách sạn, nhưng lẽ ra phải bố trí đủ nhân viên trực để phục vụ khách.\n\nTên (không bắt buộc): Bindi Shah\nThông tin liên hệ (không bắt buộc): bshah@svpnet.com\nThời gian lưu trú: 15–18 tháng 4\nKhách sạn Passages",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-13",
+          "no": 13,
+          "text": "What is suggested about Ms. Shah?",
+          "options": {
+            "A": "She was in Kuala Lumpur on business.",
+            "B": "She stayed at Passages Hotel for the first time in April.",
+            "C": "She was unhappy with the housekeeping service.",
+            "D": "She received a discount because of the hotel's poor service."
+          },
+          "answer": "A",
+          "explain": "“I have stayed at this hotel a number of times on business” → bà ấy đến Kuala Lumpur để công tác. B sai (“a number of times”), C sai (Housekeeping: Good), D không được nhắc.",
+          "passage": {
+            "text": "Thank you for choosing Passages Hotel, Kuala Lumpur's premier hotel and conference center. We greatly value your opinion. Please take a moment to fill out the questionnaire and either leave it in your room or place it in the box located in the hotel's lobby.\n\nRate the following. (Excellent / Good / Fair / Poor / Not Used)\nFront desk service — Poor\nConcierge service — Excellent\nLotus restaurant — Excellent\nRoom service — Not Used\nHousekeeping — Good\nBusiness center — Good\nOverall appearance of hotel — Excellent\n\nI have stayed at this hotel a number of times on business and am usually very satisfied. However, this time it seemed that the front desk was understaffed the entire time I stayed here. I had to wait for 20 minutes to check in, and it took over 30 minutes to check out. In addition, it was difficult to contact the front desk from my room. Twice the phone rang without anyone picking up. I realize this was a busy month for the hotel, but enough staff should have been put on duty to accommodate guests.\n\nName (optional): Bindi Shah\nContact information (optional): bshah@svpnet.com\nDate of stay: April 15-18\nPassages Hotel"
+          },
+          "vi": "Cảm ơn quý khách đã chọn khách sạn Passages, khách sạn và trung tâm hội nghị hàng đầu của Kuala Lumpur. Chúng tôi rất trân trọng ý kiến của quý khách. Xin dành chút thời gian điền phiếu khảo sát này rồi để lại trong phòng hoặc bỏ vào hộp đặt ở sảnh khách sạn.\n\nĐánh giá các mục sau. (Xuất sắc / Tốt / Khá / Kém / Không dùng)\nDịch vụ lễ tân — Kém\nDịch vụ hỗ trợ khách (concierge) — Xuất sắc\nNhà hàng Lotus — Xuất sắc\nDịch vụ phục vụ tại phòng — Không dùng\nDọn phòng — Tốt\nTrung tâm dịch vụ văn phòng — Tốt\nDiện mạo chung của khách sạn — Xuất sắc\n\nTôi đã ở khách sạn này nhiều lần khi đi công tác và thường rất hài lòng. Tuy nhiên, lần này có vẻ quầy lễ tân thiếu người suốt thời gian tôi ở. Tôi phải chờ 20 phút để nhận phòng và mất hơn 30 phút để trả phòng. Ngoài ra, rất khó gọi xuống lễ tân từ phòng. Hai lần điện thoại đổ chuông mà không ai nhấc máy. Tôi hiểu đây là tháng cao điểm của khách sạn, nhưng lẽ ra phải bố trí đủ nhân viên trực để phục vụ khách.\n\nTên (không bắt buộc): Bindi Shah\nThông tin liên hệ (không bắt buộc): bshah@svpnet.com\nThời gian lưu trú: 15–18 tháng 4\nKhách sạn Passages",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d23-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: AEE membership form",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "id": "d23-read-14",
+          "no": 14,
+          "text": "What is the purpose of the form?",
+          "options": {
+            "A": "To sign up for a class",
+            "B": "To join an organization",
+            "C": "To register for a conference",
+            "D": "To request an electronics catalog"
+          },
+          "answer": "B",
+          "explain": "“Membership Registration Form”, “Join today!” → đăng ký làm hội viên của hiệp hội.",
+          "passage": {
+            "text": "The Association of Electronics Engineers\nMembership Registration Form\n\nThe Association of Electronics Engineers (AEE) is a worldwide organization for people who work with advanced electronic technology. Members represent a variety of fields ranging from transportation systems to telecommunication.\n\nAEE members enjoy these benefits:\n• Reduced registration fees for AEE-sponsored conferences\n• A discount on AEE's series of engineering reference guides\n• A free subscription to AEE Quarterly journal\n\nJoin today!\nLast name ____ First name ____\nEmployer ____\nMailing address ____\nE-mail address ____\nCredit card number ____ Expiration date ____\n\nCheck your interest(s)\n____ Information technology\n____ Optical communication\n____ Power electronics\n____ Robot technology\n____ Wireless technology\n\nYearly membership fees\nProfessional engineers - $75\nUniversity faculty - $65\nPeople taking engineering classes - Free"
+          },
+          "vi": "Hiệp hội Kỹ sư Điện tử\nPhiếu đăng ký hội viên\n\nHiệp hội Kỹ sư Điện tử (AEE) là một tổ chức toàn cầu dành cho những người làm việc với công nghệ điện tử tiên tiến. Hội viên đến từ nhiều lĩnh vực, từ hệ thống giao thông đến viễn thông.\n\nHội viên AEE được hưởng các quyền lợi sau:\n• Giảm phí đăng ký các hội nghị do AEE tài trợ\n• Giảm giá bộ sách hướng dẫn tham khảo kỹ thuật của AEE\n• Miễn phí đặt tạp chí AEE Quarterly (ra hàng quý)\n\nHãy tham gia ngay hôm nay!\nHọ ____ Tên ____\nNơi làm việc ____\nĐịa chỉ gửi thư ____\nĐịa chỉ e-mail ____\nSố thẻ tín dụng ____ Ngày hết hạn ____\n\nĐánh dấu lĩnh vực quan tâm\n____ Công nghệ thông tin\n____ Truyền thông quang học\n____ Điện tử công suất\n____ Công nghệ rô-bốt\n____ Công nghệ không dây\n\nPhí hội viên hằng năm\nKỹ sư chuyên nghiệp – 75 đô la\nGiảng viên đại học – 65 đô la\nNgười đang học các lớp kỹ thuật – Miễn phí",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-15",
+          "no": 15,
+          "text": "What is offered at a discount?",
+          "options": {
+            "A": "Internet access",
+            "B": "Office supplies",
+            "C": "Computer equipment",
+            "D": "Reference books"
+          },
+          "answer": "D",
+          "explain": "“A discount on AEE's series of engineering reference guides” → sách hướng dẫn tham khảo.",
+          "passage": {
+            "text": "The Association of Electronics Engineers\nMembership Registration Form\n\nThe Association of Electronics Engineers (AEE) is a worldwide organization for people who work with advanced electronic technology. Members represent a variety of fields ranging from transportation systems to telecommunication.\n\nAEE members enjoy these benefits:\n• Reduced registration fees for AEE-sponsored conferences\n• A discount on AEE's series of engineering reference guides\n• A free subscription to AEE Quarterly journal\n\nJoin today!\nLast name ____ First name ____\nEmployer ____\nMailing address ____\nE-mail address ____\nCredit card number ____ Expiration date ____\n\nCheck your interest(s)\n____ Information technology\n____ Optical communication\n____ Power electronics\n____ Robot technology\n____ Wireless technology\n\nYearly membership fees\nProfessional engineers - $75\nUniversity faculty - $65\nPeople taking engineering classes - Free"
+          },
+          "vi": "Hiệp hội Kỹ sư Điện tử\nPhiếu đăng ký hội viên\n\nHiệp hội Kỹ sư Điện tử (AEE) là một tổ chức toàn cầu dành cho những người làm việc với công nghệ điện tử tiên tiến. Hội viên đến từ nhiều lĩnh vực, từ hệ thống giao thông đến viễn thông.\n\nHội viên AEE được hưởng các quyền lợi sau:\n• Giảm phí đăng ký các hội nghị do AEE tài trợ\n• Giảm giá bộ sách hướng dẫn tham khảo kỹ thuật của AEE\n• Miễn phí đặt tạp chí AEE Quarterly (ra hàng quý)\n\nHãy tham gia ngay hôm nay!\nHọ ____ Tên ____\nNơi làm việc ____\nĐịa chỉ gửi thư ____\nĐịa chỉ e-mail ____\nSố thẻ tín dụng ____ Ngày hết hạn ____\n\nĐánh dấu lĩnh vực quan tâm\n____ Công nghệ thông tin\n____ Truyền thông quang học\n____ Điện tử công suất\n____ Công nghệ rô-bốt\n____ Công nghệ không dây\n\nPhí hội viên hằng năm\nKỹ sư chuyên nghiệp – 75 đô la\nGiảng viên đại học – 65 đô la\nNgười đang học các lớp kỹ thuật – Miễn phí",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-16",
+          "no": 16,
+          "text": "What is NOT implied about the AEE?",
+          "options": {
+            "A": "It organizes conferences.",
+            "B": "It is an international organization.",
+            "C": "It offers job search services.",
+            "D": "It publishes a journal."
+          },
+          "answer": "C",
+          "explain": "A: “AEE-sponsored conferences”; B: “a worldwide organization”; D: “AEE Quarterly journal”. Không nhắc dịch vụ tìm việc → C.",
+          "passage": {
+            "text": "The Association of Electronics Engineers\nMembership Registration Form\n\nThe Association of Electronics Engineers (AEE) is a worldwide organization for people who work with advanced electronic technology. Members represent a variety of fields ranging from transportation systems to telecommunication.\n\nAEE members enjoy these benefits:\n• Reduced registration fees for AEE-sponsored conferences\n• A discount on AEE's series of engineering reference guides\n• A free subscription to AEE Quarterly journal\n\nJoin today!\nLast name ____ First name ____\nEmployer ____\nMailing address ____\nE-mail address ____\nCredit card number ____ Expiration date ____\n\nCheck your interest(s)\n____ Information technology\n____ Optical communication\n____ Power electronics\n____ Robot technology\n____ Wireless technology\n\nYearly membership fees\nProfessional engineers - $75\nUniversity faculty - $65\nPeople taking engineering classes - Free"
+          },
+          "vi": "Hiệp hội Kỹ sư Điện tử\nPhiếu đăng ký hội viên\n\nHiệp hội Kỹ sư Điện tử (AEE) là một tổ chức toàn cầu dành cho những người làm việc với công nghệ điện tử tiên tiến. Hội viên đến từ nhiều lĩnh vực, từ hệ thống giao thông đến viễn thông.\n\nHội viên AEE được hưởng các quyền lợi sau:\n• Giảm phí đăng ký các hội nghị do AEE tài trợ\n• Giảm giá bộ sách hướng dẫn tham khảo kỹ thuật của AEE\n• Miễn phí đặt tạp chí AEE Quarterly (ra hàng quý)\n\nHãy tham gia ngay hôm nay!\nHọ ____ Tên ____\nNơi làm việc ____\nĐịa chỉ gửi thư ____\nĐịa chỉ e-mail ____\nSố thẻ tín dụng ____ Ngày hết hạn ____\n\nĐánh dấu lĩnh vực quan tâm\n____ Công nghệ thông tin\n____ Truyền thông quang học\n____ Điện tử công suất\n____ Công nghệ rô-bốt\n____ Công nghệ không dây\n\nPhí hội viên hằng năm\nKỹ sư chuyên nghiệp – 75 đô la\nGiảng viên đại học – 65 đô la\nNgười đang học các lớp kỹ thuật – Miễn phí",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-17",
+          "no": 17,
+          "text": "Who can receive AEE benefits for free?",
+          "options": {
+            "A": "Working engineers",
+            "B": "Professors",
+            "C": "Students",
+            "D": "Retired engineers"
+          },
+          "answer": "C",
+          "explain": "“People taking engineering classes - Free” → người đang học = sinh viên. Kỹ sư $75, giảng viên $65.",
+          "passage": {
+            "text": "The Association of Electronics Engineers\nMembership Registration Form\n\nThe Association of Electronics Engineers (AEE) is a worldwide organization for people who work with advanced electronic technology. Members represent a variety of fields ranging from transportation systems to telecommunication.\n\nAEE members enjoy these benefits:\n• Reduced registration fees for AEE-sponsored conferences\n• A discount on AEE's series of engineering reference guides\n• A free subscription to AEE Quarterly journal\n\nJoin today!\nLast name ____ First name ____\nEmployer ____\nMailing address ____\nE-mail address ____\nCredit card number ____ Expiration date ____\n\nCheck your interest(s)\n____ Information technology\n____ Optical communication\n____ Power electronics\n____ Robot technology\n____ Wireless technology\n\nYearly membership fees\nProfessional engineers - $75\nUniversity faculty - $65\nPeople taking engineering classes - Free"
+          },
+          "vi": "Hiệp hội Kỹ sư Điện tử\nPhiếu đăng ký hội viên\n\nHiệp hội Kỹ sư Điện tử (AEE) là một tổ chức toàn cầu dành cho những người làm việc với công nghệ điện tử tiên tiến. Hội viên đến từ nhiều lĩnh vực, từ hệ thống giao thông đến viễn thông.\n\nHội viên AEE được hưởng các quyền lợi sau:\n• Giảm phí đăng ký các hội nghị do AEE tài trợ\n• Giảm giá bộ sách hướng dẫn tham khảo kỹ thuật của AEE\n• Miễn phí đặt tạp chí AEE Quarterly (ra hàng quý)\n\nHãy tham gia ngay hôm nay!\nHọ ____ Tên ____\nNơi làm việc ____\nĐịa chỉ gửi thư ____\nĐịa chỉ e-mail ____\nSố thẻ tín dụng ____ Ngày hết hạn ____\n\nĐánh dấu lĩnh vực quan tâm\n____ Công nghệ thông tin\n____ Truyền thông quang học\n____ Điện tử công suất\n____ Công nghệ rô-bốt\n____ Công nghệ không dây\n\nPhí hội viên hằng năm\nKỹ sư chuyên nghiệp – 75 đô la\nGiảng viên đại học – 65 đô la\nNgười đang học các lớp kỹ thuật – Miễn phí",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d23-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Unit 9: Pillai digital camera review",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D14 S2 UNIT9.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d23-read-18",
+          "no": 18,
+          "text": "Where would the table probably be found?",
+          "options": {
+            "A": "In the catalog of a camera shop",
+            "B": "In a camera instruction manual",
+            "C": "In a photography textbook",
+            "D": "In a magazine that reviews products"
+          },
+          "answer": "D",
+          "explain": "“Consumer Corner Monthly's Editor Review” và “published in every issue of the magazine are independent reviews” → tạp chí đánh giá sản phẩm.",
+          "passage": {
+            "text": "Consumer Corner Monthly's Editor Review of 4 Selected Models of PILLAI digital cameras\n\nPillai GQ320\nComments: Very user-friendly with an intuitive menu. Comes with extra memory cards and a free set of rechargeable batteries.\nNegatives: Very heavy for a camera this size.\nPrice: $250*\n\nPillai GG210\nComments: Essentially a GQ320 with fewer features. Strictly for use in interior spaces; does not handle outdoor photography well. Tolerates increased humidity.\nBuilt-in: Built-in flash activates automatically in darkness.\nNegatives: Picture quality compromised by low memory space.\nPrice: $150*\n\nPillai FZ200\nComments: Lightweight. Waterproof, for use at depths of up to 60 m.\nBuilt-in: Features a Scubasonic sound system audible in submersed environments.\nNegatives: Picture quality inferior to FV240.\nPrice: $650*\n\nPillai FV240\nComments: Record-high resolution, excellent image sharpness and clarity. The best in the under-$500 price range.\nPrice: $430*\n\n* Prices shown are available at HY Stores. Because prices tend to vary from retailer to retailer, they may be different at Galactronic and Bisco Q, as well as in online stores such as PO Comp. Consumer Corner product tables published in every issue of the magazine are independent reviews by Consumer Corner's editors and are not part of the advertising supplements included every two months in Consumer Corner."
+          },
+          "vi": "Bài đánh giá của biên tập viên tạp chí Consumer Corner Monthly về 4 mẫu máy ảnh kỹ thuật số PILLAI được chọn\n\nPillai GQ320\nNhận xét: Rất dễ dùng, menu trực quan. Đi kèm thẻ nhớ dự phòng và một bộ pin sạc miễn phí.\nNhược điểm: Rất nặng so với một máy ảnh cỡ này.\nGiá: 250 đô la*\n\nPillai GG210\nNhận xét: Về cơ bản là một chiếc GQ320 với ít tính năng hơn. Chỉ dùng trong nhà; chụp ngoài trời không tốt. Chịu được độ ẩm cao.\nTích hợp: Đèn flash tích hợp tự bật khi trời tối.\nNhược điểm: Chất lượng ảnh bị ảnh hưởng do bộ nhớ ít.\nGiá: 150 đô la*\n\nPillai FZ200\nNhận xét: Nhẹ. Chống nước, dùng được ở độ sâu tới 60 m.\nTích hợp: Có hệ thống âm thanh Scubasonic nghe được khi ở dưới nước.\nNhược điểm: Chất lượng ảnh kém hơn FV240.\nGiá: 650 đô la*\n\nPillai FV240\nNhận xét: Độ phân giải cao kỷ lục, ảnh sắc nét và rõ ràng xuất sắc. Tốt nhất trong tầm giá dưới 500 đô la.\nGiá: 430 đô la*\n\n* Giá ghi ở đây là giá tại cửa hàng HY Stores. Vì giá thường khác nhau giữa các nhà bán lẻ, giá có thể khác tại Galactronic và Bisco Q, cũng như tại các cửa hàng trực tuyến như PO Comp. Các bảng sản phẩm của Consumer Corner đăng trong mỗi số tạp chí là đánh giá độc lập của biên tập viên Consumer Corner, không thuộc các phụ trương quảng cáo kèm theo tạp chí hai tháng một lần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-19",
+          "no": 19,
+          "text": "How is the FZ200 different from the GQ320?",
+          "options": {
+            "A": "It is available by mail order.",
+            "B": "It is a newer model.",
+            "C": "It is cheaper.",
+            "D": "It is relatively light."
+          },
+          "answer": "D",
+          "explain": "FZ200: “Lightweight.”; GQ320: “Very heavy for a camera this size.” C sai vì FZ200 ($650) đắt hơn GQ320 ($250).",
+          "passage": {
+            "text": "Consumer Corner Monthly's Editor Review of 4 Selected Models of PILLAI digital cameras\n\nPillai GQ320\nComments: Very user-friendly with an intuitive menu. Comes with extra memory cards and a free set of rechargeable batteries.\nNegatives: Very heavy for a camera this size.\nPrice: $250*\n\nPillai GG210\nComments: Essentially a GQ320 with fewer features. Strictly for use in interior spaces; does not handle outdoor photography well. Tolerates increased humidity.\nBuilt-in: Built-in flash activates automatically in darkness.\nNegatives: Picture quality compromised by low memory space.\nPrice: $150*\n\nPillai FZ200\nComments: Lightweight. Waterproof, for use at depths of up to 60 m.\nBuilt-in: Features a Scubasonic sound system audible in submersed environments.\nNegatives: Picture quality inferior to FV240.\nPrice: $650*\n\nPillai FV240\nComments: Record-high resolution, excellent image sharpness and clarity. The best in the under-$500 price range.\nPrice: $430*\n\n* Prices shown are available at HY Stores. Because prices tend to vary from retailer to retailer, they may be different at Galactronic and Bisco Q, as well as in online stores such as PO Comp. Consumer Corner product tables published in every issue of the magazine are independent reviews by Consumer Corner's editors and are not part of the advertising supplements included every two months in Consumer Corner."
+          },
+          "vi": "Bài đánh giá của biên tập viên tạp chí Consumer Corner Monthly về 4 mẫu máy ảnh kỹ thuật số PILLAI được chọn\n\nPillai GQ320\nNhận xét: Rất dễ dùng, menu trực quan. Đi kèm thẻ nhớ dự phòng và một bộ pin sạc miễn phí.\nNhược điểm: Rất nặng so với một máy ảnh cỡ này.\nGiá: 250 đô la*\n\nPillai GG210\nNhận xét: Về cơ bản là một chiếc GQ320 với ít tính năng hơn. Chỉ dùng trong nhà; chụp ngoài trời không tốt. Chịu được độ ẩm cao.\nTích hợp: Đèn flash tích hợp tự bật khi trời tối.\nNhược điểm: Chất lượng ảnh bị ảnh hưởng do bộ nhớ ít.\nGiá: 150 đô la*\n\nPillai FZ200\nNhận xét: Nhẹ. Chống nước, dùng được ở độ sâu tới 60 m.\nTích hợp: Có hệ thống âm thanh Scubasonic nghe được khi ở dưới nước.\nNhược điểm: Chất lượng ảnh kém hơn FV240.\nGiá: 650 đô la*\n\nPillai FV240\nNhận xét: Độ phân giải cao kỷ lục, ảnh sắc nét và rõ ràng xuất sắc. Tốt nhất trong tầm giá dưới 500 đô la.\nGiá: 430 đô la*\n\n* Giá ghi ở đây là giá tại cửa hàng HY Stores. Vì giá thường khác nhau giữa các nhà bán lẻ, giá có thể khác tại Galactronic và Bisco Q, cũng như tại các cửa hàng trực tuyến như PO Comp. Các bảng sản phẩm của Consumer Corner đăng trong mỗi số tạp chí là đánh giá độc lập của biên tập viên Consumer Corner, không thuộc các phụ trương quảng cáo kèm theo tạp chí hai tháng một lần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-20",
+          "no": 20,
+          "text": "What is suggested about the FV240?",
+          "options": {
+            "A": "It is the largest of the models reviewed.",
+            "B": "It takes clearer images than more expensive models.",
+            "C": "It does not operate well indoors.",
+            "D": "The memory cards it uses are hard to find."
+          },
+          "answer": "B",
+          "explain": "FZ200 giá $650 nhưng “Picture quality inferior to FV240” ($430) → FV240 chụp rõ hơn mẫu đắt tiền hơn.",
+          "passage": {
+            "text": "Consumer Corner Monthly's Editor Review of 4 Selected Models of PILLAI digital cameras\n\nPillai GQ320\nComments: Very user-friendly with an intuitive menu. Comes with extra memory cards and a free set of rechargeable batteries.\nNegatives: Very heavy for a camera this size.\nPrice: $250*\n\nPillai GG210\nComments: Essentially a GQ320 with fewer features. Strictly for use in interior spaces; does not handle outdoor photography well. Tolerates increased humidity.\nBuilt-in: Built-in flash activates automatically in darkness.\nNegatives: Picture quality compromised by low memory space.\nPrice: $150*\n\nPillai FZ200\nComments: Lightweight. Waterproof, for use at depths of up to 60 m.\nBuilt-in: Features a Scubasonic sound system audible in submersed environments.\nNegatives: Picture quality inferior to FV240.\nPrice: $650*\n\nPillai FV240\nComments: Record-high resolution, excellent image sharpness and clarity. The best in the under-$500 price range.\nPrice: $430*\n\n* Prices shown are available at HY Stores. Because prices tend to vary from retailer to retailer, they may be different at Galactronic and Bisco Q, as well as in online stores such as PO Comp. Consumer Corner product tables published in every issue of the magazine are independent reviews by Consumer Corner's editors and are not part of the advertising supplements included every two months in Consumer Corner."
+          },
+          "vi": "Bài đánh giá của biên tập viên tạp chí Consumer Corner Monthly về 4 mẫu máy ảnh kỹ thuật số PILLAI được chọn\n\nPillai GQ320\nNhận xét: Rất dễ dùng, menu trực quan. Đi kèm thẻ nhớ dự phòng và một bộ pin sạc miễn phí.\nNhược điểm: Rất nặng so với một máy ảnh cỡ này.\nGiá: 250 đô la*\n\nPillai GG210\nNhận xét: Về cơ bản là một chiếc GQ320 với ít tính năng hơn. Chỉ dùng trong nhà; chụp ngoài trời không tốt. Chịu được độ ẩm cao.\nTích hợp: Đèn flash tích hợp tự bật khi trời tối.\nNhược điểm: Chất lượng ảnh bị ảnh hưởng do bộ nhớ ít.\nGiá: 150 đô la*\n\nPillai FZ200\nNhận xét: Nhẹ. Chống nước, dùng được ở độ sâu tới 60 m.\nTích hợp: Có hệ thống âm thanh Scubasonic nghe được khi ở dưới nước.\nNhược điểm: Chất lượng ảnh kém hơn FV240.\nGiá: 650 đô la*\n\nPillai FV240\nNhận xét: Độ phân giải cao kỷ lục, ảnh sắc nét và rõ ràng xuất sắc. Tốt nhất trong tầm giá dưới 500 đô la.\nGiá: 430 đô la*\n\n* Giá ghi ở đây là giá tại cửa hàng HY Stores. Vì giá thường khác nhau giữa các nhà bán lẻ, giá có thể khác tại Galactronic và Bisco Q, cũng như tại các cửa hàng trực tuyến như PO Comp. Các bảng sản phẩm của Consumer Corner đăng trong mỗi số tạp chí là đánh giá độc lập của biên tập viên Consumer Corner, không thuộc các phụ trương quảng cáo kèm theo tạp chí hai tháng một lần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d23-read-21",
+          "no": 21,
+          "text": "How often do Consumer Corner's product tables appear?",
+          "options": {
+            "A": "Every week",
+            "B": "Twice a month",
+            "C": "Every month",
+            "D": "Every two months"
+          },
+          "answer": "C",
+          "explain": "“product tables published in every issue of the magazine” + tên tạp chí “Consumer Corner Monthly” → mỗi tháng. “every two months” là phụ trương quảng cáo (bẫy D).",
+          "passage": {
+            "text": "Consumer Corner Monthly's Editor Review of 4 Selected Models of PILLAI digital cameras\n\nPillai GQ320\nComments: Very user-friendly with an intuitive menu. Comes with extra memory cards and a free set of rechargeable batteries.\nNegatives: Very heavy for a camera this size.\nPrice: $250*\n\nPillai GG210\nComments: Essentially a GQ320 with fewer features. Strictly for use in interior spaces; does not handle outdoor photography well. Tolerates increased humidity.\nBuilt-in: Built-in flash activates automatically in darkness.\nNegatives: Picture quality compromised by low memory space.\nPrice: $150*\n\nPillai FZ200\nComments: Lightweight. Waterproof, for use at depths of up to 60 m.\nBuilt-in: Features a Scubasonic sound system audible in submersed environments.\nNegatives: Picture quality inferior to FV240.\nPrice: $650*\n\nPillai FV240\nComments: Record-high resolution, excellent image sharpness and clarity. The best in the under-$500 price range.\nPrice: $430*\n\n* Prices shown are available at HY Stores. Because prices tend to vary from retailer to retailer, they may be different at Galactronic and Bisco Q, as well as in online stores such as PO Comp. Consumer Corner product tables published in every issue of the magazine are independent reviews by Consumer Corner's editors and are not part of the advertising supplements included every two months in Consumer Corner."
+          },
+          "vi": "Bài đánh giá của biên tập viên tạp chí Consumer Corner Monthly về 4 mẫu máy ảnh kỹ thuật số PILLAI được chọn\n\nPillai GQ320\nNhận xét: Rất dễ dùng, menu trực quan. Đi kèm thẻ nhớ dự phòng và một bộ pin sạc miễn phí.\nNhược điểm: Rất nặng so với một máy ảnh cỡ này.\nGiá: 250 đô la*\n\nPillai GG210\nNhận xét: Về cơ bản là một chiếc GQ320 với ít tính năng hơn. Chỉ dùng trong nhà; chụp ngoài trời không tốt. Chịu được độ ẩm cao.\nTích hợp: Đèn flash tích hợp tự bật khi trời tối.\nNhược điểm: Chất lượng ảnh bị ảnh hưởng do bộ nhớ ít.\nGiá: 150 đô la*\n\nPillai FZ200\nNhận xét: Nhẹ. Chống nước, dùng được ở độ sâu tới 60 m.\nTích hợp: Có hệ thống âm thanh Scubasonic nghe được khi ở dưới nước.\nNhược điểm: Chất lượng ảnh kém hơn FV240.\nGiá: 650 đô la*\n\nPillai FV240\nNhận xét: Độ phân giải cao kỷ lục, ảnh sắc nét và rõ ràng xuất sắc. Tốt nhất trong tầm giá dưới 500 đô la.\nGiá: 430 đô la*\n\n* Giá ghi ở đây là giá tại cửa hàng HY Stores. Vì giá thường khác nhau giữa các nhà bán lẻ, giá có thể khác tại Galactronic và Bisco Q, cũng như tại các cửa hàng trực tuyến như PO Comp. Các bảng sản phẩm của Consumer Corner đăng trong mỗi số tạp chí là đánh giá độc lập của biên tập viên Consumer Corner, không thuộc các phụ trương quảng cáo kèm theo tạp chí hai tháng một lần.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

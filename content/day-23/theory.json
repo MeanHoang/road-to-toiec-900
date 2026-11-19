@@ -1,0 +1,68 @@
+{
+  "collection": "theory",
+  "day": "day-23",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d23-t-homework",
+      "type": "wordGroups",
+      "title": "Day 14 — homework",
+      "groups": {
+        "Online homework": [
+          "Bài nghe trên web lớp (study.thaylongtoeic.com), yêu cầu đúng ít nhất 80%: Đề 2023 Test 7 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu), Đề 2023 Test 6 — Part 3 (39 câu), Đề 2020 Test 1 — Part 3 (39 câu), và nghe-chép WORD - DAY 7 (50 từ).",
+          "Audio, ảnh, câu hỏi Part 3 và nghĩa tiếng Việt của từ lấy từ web lớp. Web không công bố đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại Part 1–2 và từ nghe-chép do máy chép."
+        ],
+        "Listening test": [
+          "Test 4 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu) từ thư mục Part 1-2 trên Drive, ảnh cắt từ TEST 4.pdf.",
+          "Drive không có đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép."
+        ],
+        "Part 3 conversations": [
+          "Test 3 — Part 3 (thư mục TEST 6) và Test 4 — Part 3 (thư mục TEST 7): mỗi đề câu 32–70, 13 đoạn hội thoại. Câu hỏi và phương án lấy từ PDF đề, câu có hình (graphic) kèm ảnh cắt từ đề.",
+          "Drive chưa có đáp án, nên đáp án do AI suy luận từ audio."
+        ],
+        "Lecture": [
+          "ETS Test: 8 đoạn hội thoại (câu 1–24), nghe rồi chép. Lời thoại lấy từ file Key day 14 của lớp.",
+          "Đáp án chính thức ETS Test: 1–3 B A C · 4–6 C A B · 7–9 C B A · 10–12 C C A · 13–15 D B B · 16–18 B C D · 19–21 B C D · 22–24 B C A.",
+          "For example 1–3 và ETS Check Up (2 đoạn): nghe rồi chép, lời thoại từ file Key day 14."
+        ],
+        "Vocabulary": [
+          "Flashcard DAY 14: Topic 07 — Shopping, từ số 25–50 (26 từ)."
+        ],
+        "Reading practice": [
+          "Part 7 — Unit 9: 6 bài (thực đơn, phiếu góp ý, lịch đóng đường, phiếu khảo sát, phiếu đăng ký, bài đánh giá), 21 câu hỏi từ tài liệu D14 S2 UNIT9.pdf.",
+          "Drive chưa có đáp án cho Unit 9. Đáp án, giải thích và bản dịch do AI biên soạn để tự luyện."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d23-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 23 trong app tương ứng DAY 14 giai đoạn 2.",
+        "Thư mục Key homework của DAY 14 là đáp án bài DAY 13 (Day 22 trong app), đã cập nhật vào Day 22."
+      ],
+      "links": [
+        {
+          "label": "Day 14 flashcards — PDF",
+          "href": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/flashcard.pdf"
+        },
+        {
+          "label": "Day 14 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view?usp=sharing"
+        },
+        {
+          "label": "Day 14 Part 7 — Unit 9",
+          "href": "/day/day-23/exercises"
+        },
+        {
+          "label": "Day 14 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1ejxO4_q6zDE3BNAJ8biCOJ5tNi_4lTx0?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "collection": "vocabulary",
+  "day": "day-23",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d23-v01",
+      "no": 1,
+      "word": "furnishings",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈfɜːrnɪʃɪŋz/",
+        "us": "/ˈfɜːrnɪʃɪŋz/"
+      },
+      "meaningVi": "đồ đạc, đồ dùng trong nhà",
+      "image": null,
+      "example": {
+        "en": "The furnishings of a room or house are the furniture, curtains, carpets, and decorations such as pictures."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v01-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v02",
+      "no": 2,
+      "word": "time-consuming",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈtaɪm kənsuːmɪŋ/",
+        "us": "/ˈtaɪm kənsuːmɪŋ/"
+      },
+      "meaningVi": "tốn thời gian",
+      "image": null,
+      "example": {
+        "en": "It's quite time-consuming having to check all the labels individually."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v02-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v03",
+      "no": 3,
+      "word": "garment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈɡɑːrmənt/",
+        "us": "/ˈɡɑːrmənt/"
+      },
+      "meaningVi": "hàng may mặc, quần áo",
+      "image": null,
+      "example": {
+        "en": "They removed their outer garments and sat down in the reception area."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v03-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v04",
+      "no": 4,
+      "word": "luxury goods",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌlʌk.ʃɚ.i ˈɡʊdz/",
+        "us": "/ˌlʌk.ʃɚ.i ˈɡʊdz/"
+      },
+      "meaningVi": "hàng xa xỉ (cao cấp)",
+      "image": null,
+      "example": {
+        "en": "The government will pay for the new schools by increasing the tax on luxury goods."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v04-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v05",
+      "no": 5,
+      "word": "outlet",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈaʊtlet/",
+        "us": "/ˈaʊtlet/"
+      },
+      "meaningVi": "cửa hàng",
+      "image": null,
+      "example": {
+        "en": "The business has 34 retail outlets in this state alone."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v05-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v06",
+      "no": 6,
+      "word": "brick-and-mortar shop",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌbrɪk ən ˈmɔːrtər ʃɑːp/",
+        "us": "/ˌbrɪk ən ˈmɔːrtər ʃɑːp/"
+      },
+      "meaningVi": "cửa hàng vật lý (tại đó hàng hóa và dịch vụ được cung cấp trực tiếp cho khách hàng)",
+      "image": null,
+      "example": {
+        "en": "Online retailers try to lure customers away from their brick-and-mortar competitors."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v06-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v07",
+      "no": 7,
+      "word": "door-to-door",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌdɔːr.təˈdɔːr/",
+        "us": "/ˌdɔːr.təˈdɔːr/"
+      },
+      "meaningVi": "trực tiếp (tới tận cửa)",
+      "image": null,
+      "example": {
+        "en": "He was a door-to-door salesman before he became an actor."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v07-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v08",
+      "no": 8,
+      "word": "one-stop shop",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌwʌn.stɑːp ˈʃɑːp/",
+        "us": "/ˌwʌn.stɑːp ˈʃɑːp/"
+      },
+      "meaningVi": "cửa hàng một cửa",
+      "image": null,
+      "example": {
+        "en": "We are a one-stop shop for all your marketing needs."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v08-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v09",
+      "no": 9,
+      "word": "credit card",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkredɪt kɑːrd/",
+        "us": "/ˈkredɪt kɑːrd/"
+      },
+      "meaningVi": "thẻ tín dụng",
+      "image": null,
+      "example": {
+        "en": "All major credit cards are accepted at our hotels."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v09-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v10",
+      "no": 10,
+      "word": "debit card",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdebɪt kɑːrd/",
+        "us": "/ˈdebɪt kɑːrd/"
+      },
+      "meaningVi": "thẻ ghi nợ",
+      "image": null,
+      "example": {
+        "en": "You need a credit or debit card to pay."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v10-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v11",
+      "no": 11,
+      "word": "money order",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈmʌni ɔːrdər/",
+        "us": "/ˈmʌni ɔːrdər/"
+      },
+      "meaningVi": "lệnh chi tiền, phiếu chuyển tiền",
+      "image": null,
+      "example": {
+        "en": "Wages can be paid by cash, cheque, draft or money order."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v11-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v12",
+      "no": 12,
+      "word": "points card",
+      "pos": "n",
+      "ipa": {
+        "uk": "/pɔɪnts kɑːrd/",
+        "us": "/pɔɪnts kɑːrd/"
+      },
+      "meaningVi": "thẻ tích điểm (= loyalty card)",
+      "image": null,
+      "example": {
+        "en": "A loyalty/points card is a card issued by a supermarket or chain store to a customer and used to record credit points awarded for money spent in the store."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v12-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v13",
+      "no": 13,
+      "word": "installment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ɪnˈstɔːlmənt/",
+        "us": "/ɪnˈstɔːlmənt/"
+      },
+      "meaningVi": "trả góp",
+      "image": null,
+      "example": {
+        "en": "She sold the car before she had paid the instalments."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v13-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v14",
+      "no": 14,
+      "word": "partial payment",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈpɑːrʃl ˈpeɪmənt/",
+        "us": "/ˈpɑːrʃl ˈpeɪmənt/"
+      },
+      "meaningVi": "trả (thanh toán) từng phần, một phần (= part payment)",
+      "image": null,
+      "example": {
+        "en": "We are unable to repay the debt, but have offered to make a partial payment."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v14-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v15",
+      "no": 15,
+      "word": "deduct",
+      "pos": "v",
+      "ipa": {
+        "uk": "/dɪˈdʌkt/",
+        "us": "/dɪˈdʌkt/"
+      },
+      "meaningVi": "khấu trừ (deduction (n): sự khấu trừ)",
+      "image": null,
+      "example": {
+        "en": "The cost of your uniform will be deducted from your wages."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v15-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v16",
+      "no": 16,
+      "word": "reduction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/rɪˈdʌkʃn/",
+        "us": "/rɪˈdʌkʃn/"
+      },
+      "meaningVi": "sự cắt giảm (giá, lương…) (reduce (v): cắt giảm)",
+      "image": null,
+      "example": {
+        "en": "Business is improving following the reduction in interest rates."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v16-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v17",
+      "no": 17,
+      "word": "customer satisfaction",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkʌstəmər ˌsætɪsˈfækʃn/",
+        "us": "/ˈkʌstəmər ˌsætɪsˈfækʃn/"
+      },
+      "meaningVi": "sự hài lòng khách hàng",
+      "image": null,
+      "example": {
+        "en": "The car manufacturer receives consistently high customer satisfaction ratings."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v17-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v18",
+      "no": 18,
+      "word": "price range",
+      "pos": "n",
+      "ipa": {
+        "uk": "/praɪs reɪndʒ/",
+        "us": "/praɪs reɪndʒ/"
+      },
+      "meaningVi": "khung giá, mức giá",
+      "image": null,
+      "example": {
+        "en": "On the website you can browse our products by price range."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v18-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v19",
+      "no": 19,
+      "word": "back order",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈbæk ˌɔːr.dɚ/",
+        "us": "/ˈbæk ˌɔːr.dɚ/"
+      },
+      "meaningVi": "đơn hàng dự trữ",
+      "image": null,
+      "example": {
+        "en": "Until the shipment arrives, you can place a back order and your credit card will be charged just prior to shipping."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v19-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v20",
+      "no": 20,
+      "word": "in stock",
+      "pos": "phrase",
+      "ipa": {
+        "uk": "/ɪn ˈstɑːk/",
+        "us": "/ɪn ˈstɑːk/"
+      },
+      "meaningVi": "còn hàng (trong kho)",
+      "image": null,
+      "example": {
+        "en": "We can order the book if we don't have it in stock."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v20-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v21",
+      "no": 21,
+      "word": "dimension",
+      "pos": "n",
+      "ipa": {
+        "uk": "/dɪˈmenʃn/",
+        "us": "/dɪˈmenʃn/"
+      },
+      "meaningVi": "chiều, cạnh, kích thước",
+      "image": null,
+      "example": {
+        "en": "The dimensions of the room are 26 feet by 15 feet."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v21-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v22",
+      "no": 22,
+      "word": "expedite",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈekspədaɪt/",
+        "us": "/ˈekspədaɪt/"
+      },
+      "meaningVi": "xúc tiến, đẩy nhanh",
+      "image": null,
+      "example": {
+        "en": "We have developed rapid order processing to expedite deliveries to customers."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v22-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v23",
+      "no": 23,
+      "word": "remit",
+      "pos": "v",
+      "ipa": {
+        "uk": "/rɪˈmɪt/",
+        "us": "/rɪˈmɪt/"
+      },
+      "meaningVi": "gửi tiền cho ai (remittance (n): sự thanh toán, gửi tiền)",
+      "image": null,
+      "example": {
+        "en": "Many immigrants regularly remit money to their families."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v23-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v24",
+      "no": 24,
+      "word": "afford",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈfɔːrd/",
+        "us": "/əˈfɔːrd/"
+      },
+      "meaningVi": "có khả năng chi trả (mua) cái gì",
+      "image": null,
+      "example": {
+        "en": "I couldn't possibly afford to eat in that restaurant."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v24-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v25",
+      "no": 25,
+      "word": "clarify",
+      "pos": "v",
+      "ipa": {
+        "uk": "/ˈklærəfaɪ/",
+        "us": "/ˈklærəfaɪ/"
+      },
+      "meaningVi": "làm sáng tỏ, rõ ràng (clarity (n): sự làm sáng tỏ, rõ ràng)",
+      "image": null,
+      "example": {
+        "en": "I am happy to clarify any points regarding the price range that are still unclear."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v25-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d23-v26",
+      "no": 26,
+      "word": "accumulate",
+      "pos": "v",
+      "ipa": {
+        "uk": "/əˈkjuːmjəleɪt/",
+        "us": "/əˈkjuːmjəleɪt/"
+      },
+      "meaningVi": "tích lũy (accumulation (n): sự tích lũy)",
+      "image": null,
+      "example": {
+        "en": "Many of us accumulate points but never spend them."
+      },
+      "group": "Topic 07 — Shopping",
+      "source": {
+        "word": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1AHyRikyV9ynsE1s3TsXC_y5wrxrOLjtq/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v26-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-23/voice-neural/d23-v26-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "0f5d9c0699fcc8336ff1523cdd00b40a03e3a0f3c2224f5bb281fdea15b443c8"
+  }
+}
