@@ -140,8 +140,14 @@ import d23vocabulary from '@/content/day-23/vocabulary.json';
 import d23theory from '@/content/day-23/theory.json';
 import d23listening from '@/content/day-23/listening.json';
 import d23exercises from '@/content/day-23/exercises.json';
+import d25day from '@/content/day-25/day.json';
+import d25vocabulary from '@/content/day-25/vocabulary.json';
+import d25theory from '@/content/day-25/theory.json';
+import d25listening from '@/content/day-25/listening.json';
+import d25exercises from '@/content/day-25/exercises.json';
 
 const REGISTRY = {
+  'day-25': { day: d25day, vocabulary: d25vocabulary, theory: d25theory, listening: d25listening, exercises: d25exercises },
   'day-23': { day: d23day, vocabulary: d23vocabulary, theory: d23theory, listening: d23listening, exercises: d23exercises },
   'day-21': { day: d21day, vocabulary: d21vocabulary, theory: d21theory, listening: d21listening, exercises: d21exercises },
   'day-22': { day: d22day, vocabulary: d22vocabulary, theory: d22theory, listening: d22listening, exercises: d22exercises },

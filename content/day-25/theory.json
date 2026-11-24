@@ -1,0 +1,68 @@
+{
+  "collection": "theory",
+  "day": "day-25",
+  "title": "Theory",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d25-t-homework",
+      "type": "wordGroups",
+      "title": "Day 16 — homework",
+      "groups": {
+        "Online homework": [
+          "Bài nghe trên web lớp (study.thaylongtoeic.com): Đề 2024 Test 6 — Part 1 (6 câu, có ảnh), Part 2 (25 câu) và Part 3 (39 câu), Đề 2020 Test 4 — Part 3 (39 câu), và nghe-chép WORD - DAY 3 (49 từ).",
+          "Audio, ảnh, câu hỏi Part 3 và nghĩa tiếng Việt của từ lấy từ web lớp. Web không công bố đáp án, nên đáp án do AI suy luận từ audio và ảnh; lời thoại Part 1–2 và từ nghe-chép do máy chép."
+        ],
+        "Listening test": [
+          "Test 5 — Part 1 (6 câu, có ảnh) và Part 2 (25 câu) từ thư mục Part 1-2 trên Drive, ảnh cắt từ TEST 5.pdf.",
+          "Drive không có đáp án, nên đáp án do AI suy luận từ audio và ảnh, lời thoại do máy chép."
+        ],
+        "Part 3 conversations": [
+          "YBM Test 1 và YBM Test 2 — Part 3: mỗi đề câu 32–70, 13 đoạn hội thoại. Câu hỏi và phương án lấy từ PDF đề, câu có hình (graphic) kèm ảnh cắt từ đề.",
+          "Drive chưa có đáp án, nên đáp án do AI suy luận từ audio."
+        ],
+        "Lecture": [
+          "Chapter 6 — câu hỏi có hình: 6 dạng (List, Coupon, Map, Ticket, Chart, Label) và ETS Check Up 1–3, nghe rồi chép. Lời thoại lấy từ file Transcript và Key day 15 của lớp.",
+          "ETS Test: 8 đoạn hội thoại (câu 1–24), nghe rồi chép.",
+          "Đáp án chính thức ETS Test: 1–3 B D B · 4–6 A D A · 7–9 A A D · 10–12 A C D · 13–15 B B C · 16–18 C B D · 19–21 C C A · 22–24 B C A."
+        ],
+        "Vocabulary": [
+          "Flashcard DAY 16: 26 từ chủ đề du lịch (thẻ số 25–50). Ghi chú của lớp: ôn từ vựng topic 5, 6, 7."
+        ],
+        "Reading practice": [
+          "Part 7 — Session 3 Unit 1: 1 bài luyện (2 câu) và ETS Test 5 bài đọc nhiều đoạn (25 câu) từ tài liệu D16 S3 UNIT1.pdf.",
+          "Drive chưa có đáp án cho Unit 1. Đáp án, giải thích và bản dịch do AI biên soạn để tự luyện."
+        ]
+      },
+      "source": "user"
+    },
+    {
+      "id": "d25-t-resources",
+      "type": "notes",
+      "title": "Lesson resources",
+      "lines": [
+        "Day 25 trong app tương ứng DAY 16 giai đoạn 2.",
+        "Thư mục Key homework của DAY 16 là đáp án bài Drive của DAY 15 (Test 7, Test 8 Part 3, Part 7 Unit 10). App chưa có các bài này nên chưa dùng."
+      ],
+      "links": [
+        {
+          "label": "Day 16 flashcards — PDF",
+          "href": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/flashcard.pdf"
+        },
+        {
+          "label": "Day 16 flashcards — Google Drive",
+          "href": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view?usp=sharing"
+        },
+        {
+          "label": "Day 16 Part 7 — Session 3 Unit 1",
+          "href": "/day/day-25/exercises"
+        },
+        {
+          "label": "Day 16 homework — Google Drive",
+          "href": "https://drive.google.com/drive/folders/1yC33tevmKdsSOIEPClHSuM7SV-nrZ_Ob?usp=sharing"
+        }
+      ],
+      "source": "user"
+    }
+  ]
+}

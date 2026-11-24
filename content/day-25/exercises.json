@@ -1,0 +1,768 @@
+{
+  "collection": "exercises",
+  "day": "day-25",
+  "title": "Reading practice",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d25-read1",
+      "code": "read1",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: WHKK Radio letter and schedule",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "id": "d25-read-01",
+          "no": 1,
+          "text": "What is suggested about Mr. Bernard in the letter?",
+          "options": {
+            "A": "He enjoys listening to the news.",
+            "B": "He commutes to work by car."
+          },
+          "answer": "B",
+          "explain": "“I heard a wonderful symphony on my car radio … Unfortunately I got to work before the host announced …” → ông nghe radio trên ô tô trên đường đi làm, tức là đi làm bằng xe hơi. Thư không nói ông thích nghe tin tức (A sai).",
+          "passage": {
+            "text": "Dear WHKK Radio,\n\nI heard a wonderful symphony on my car radio last Tuesday morning around 10 A.M. Unfortunately I got to work before the host announced the composer and name of the piece. I would like to have this information because I think a recording of this music would make an excellent birthday present for my wife.\n\nAs long as I am writing, let me add that I moved to the area recently and have been delighted by the variety of types of music that your station plays. Also, is it possible to get a list of your programs and the times they are broadcast?\n\nYours,\nJoseph Bernard\n\n———\n\nWHKK Radio Broadcast Schedule for July\n\nMonday-Friday\n8 A.M.–11 A.M. — Morning Classical with Todd Hampton\n11 A.M.–1 P.M. — Classic Jazz with Roger Freed\n1 P.M.–5 P.M. — Rock (host varies)\n5 P.M.–7 P.M. — National News\n\nSaturday & Sunday\n8 A.M.–11 A.M. — Local and National News\n11 A.M.–1 P.M. — Latin Rhythms with José Campo\n1 P.M.–5 P.M. — Oldies\n5 P.M.–7 P.M. — Night Talk with Randall Tyler\n\nFor more information about the music played on any program, call station at 555-9765 and ask to speak to the host of the program. Subscribe to our newsletter for advance notice of concerts and other events by calling 555-9766."
+          },
+          "vi": "Kính gửi Đài phát thanh WHKK,\n\nSáng thứ Ba tuần trước, khoảng 10 giờ, tôi nghe được một bản giao hưởng tuyệt vời trên radio ô tô. Đáng tiếc là tôi đã đến chỗ làm trước khi người dẫn chương trình giới thiệu tên nhà soạn nhạc và tên tác phẩm. Tôi muốn biết thông tin này vì tôi nghĩ một bản thu âm của bản nhạc ấy sẽ là món quà sinh nhật tuyệt vời cho vợ tôi.\n\nNhân tiện viết thư, tôi xin nói thêm rằng tôi mới chuyển đến khu vực này và rất thích sự đa dạng các thể loại nhạc mà đài của quý vị phát. Ngoài ra, tôi có thể xin danh sách các chương trình và giờ phát sóng của chúng không?\n\nTrân trọng,\nJoseph Bernard\n\n———\n\nLịch phát sóng tháng Bảy của Đài WHKK\n\nThứ Hai – thứ Sáu\n8–11 giờ sáng — Nhạc cổ điển buổi sáng cùng Todd Hampton\n11 giờ sáng–1 giờ chiều — Jazz kinh điển cùng Roger Freed\n1–5 giờ chiều — Nhạc rock (người dẫn thay đổi)\n5–7 giờ tối — Tin tức quốc gia\n\nThứ Bảy & Chủ nhật\n8–11 giờ sáng — Tin tức địa phương và quốc gia\n11 giờ sáng–1 giờ chiều — Nhịp điệu Latin cùng José Campo\n1–5 giờ chiều — Nhạc xưa\n5–7 giờ tối — Trò chuyện đêm cùng Randall Tyler\n\nĐể biết thêm thông tin về nhạc được phát trong bất kỳ chương trình nào, hãy gọi cho đài theo số 555-9765 và xin nói chuyện với người dẫn chương trình đó. Đăng ký nhận bản tin để được báo trước về các buổi hòa nhạc và sự kiện khác bằng cách gọi số 555-9766.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-02",
+          "no": 2,
+          "text": "To whom should Mr. Bernard probably speak for more information?",
+          "options": {
+            "A": "Todd Hampton",
+            "B": "Randall Tyler"
+          },
+          "answer": "A",
+          "explain": "Ông nghe nhạc “last Tuesday morning around 10 A.M.” → thứ Ba, 8–11 giờ sáng là “Morning Classical with Todd Hampton”. Lịch ghi “call station … and ask to speak to the host of the program” → hỏi Todd Hampton. Randall Tyler dẫn chương trình cuối tuần buổi tối (B sai).",
+          "passage": {
+            "text": "Dear WHKK Radio,\n\nI heard a wonderful symphony on my car radio last Tuesday morning around 10 A.M. Unfortunately I got to work before the host announced the composer and name of the piece. I would like to have this information because I think a recording of this music would make an excellent birthday present for my wife.\n\nAs long as I am writing, let me add that I moved to the area recently and have been delighted by the variety of types of music that your station plays. Also, is it possible to get a list of your programs and the times they are broadcast?\n\nYours,\nJoseph Bernard\n\n———\n\nWHKK Radio Broadcast Schedule for July\n\nMonday-Friday\n8 A.M.–11 A.M. — Morning Classical with Todd Hampton\n11 A.M.–1 P.M. — Classic Jazz with Roger Freed\n1 P.M.–5 P.M. — Rock (host varies)\n5 P.M.–7 P.M. — National News\n\nSaturday & Sunday\n8 A.M.–11 A.M. — Local and National News\n11 A.M.–1 P.M. — Latin Rhythms with José Campo\n1 P.M.–5 P.M. — Oldies\n5 P.M.–7 P.M. — Night Talk with Randall Tyler\n\nFor more information about the music played on any program, call station at 555-9765 and ask to speak to the host of the program. Subscribe to our newsletter for advance notice of concerts and other events by calling 555-9766."
+          },
+          "vi": "Kính gửi Đài phát thanh WHKK,\n\nSáng thứ Ba tuần trước, khoảng 10 giờ, tôi nghe được một bản giao hưởng tuyệt vời trên radio ô tô. Đáng tiếc là tôi đã đến chỗ làm trước khi người dẫn chương trình giới thiệu tên nhà soạn nhạc và tên tác phẩm. Tôi muốn biết thông tin này vì tôi nghĩ một bản thu âm của bản nhạc ấy sẽ là món quà sinh nhật tuyệt vời cho vợ tôi.\n\nNhân tiện viết thư, tôi xin nói thêm rằng tôi mới chuyển đến khu vực này và rất thích sự đa dạng các thể loại nhạc mà đài của quý vị phát. Ngoài ra, tôi có thể xin danh sách các chương trình và giờ phát sóng của chúng không?\n\nTrân trọng,\nJoseph Bernard\n\n———\n\nLịch phát sóng tháng Bảy của Đài WHKK\n\nThứ Hai – thứ Sáu\n8–11 giờ sáng — Nhạc cổ điển buổi sáng cùng Todd Hampton\n11 giờ sáng–1 giờ chiều — Jazz kinh điển cùng Roger Freed\n1–5 giờ chiều — Nhạc rock (người dẫn thay đổi)\n5–7 giờ tối — Tin tức quốc gia\n\nThứ Bảy & Chủ nhật\n8–11 giờ sáng — Tin tức địa phương và quốc gia\n11 giờ sáng–1 giờ chiều — Nhịp điệu Latin cùng José Campo\n1–5 giờ chiều — Nhạc xưa\n5–7 giờ tối — Trò chuyện đêm cùng Randall Tyler\n\nĐể biết thêm thông tin về nhạc được phát trong bất kỳ chương trình nào, hãy gọi cho đài theo số 555-9765 và xin nói chuyện với người dẫn chương trình đó. Đăng ký nhận bản tin để được báo trước về các buổi hòa nhạc và sự kiện khác bằng cách gọi số 555-9766.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d25-read2",
+      "code": "read2",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: PRP Global News job application e-mails",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        2,
+        3
+      ],
+      "questions": [
+        {
+          "id": "d25-read-03",
+          "no": 1,
+          "text": "For what job position is Ms. Johnson being considered?",
+          "options": {
+            "A": "Administrative assistant",
+            "B": "Photo editor",
+            "C": "Chief editor",
+            "D": "Graphics designer"
+          },
+          "answer": "B",
+          "explain": "“you are more than qualified for our open position of photo editor” → vị trí biên tập viên ảnh. “Chief Editor” là chức danh của bà Cataulin (C sai).",
+          "passage": {
+            "text": "To: Emily Johnson <ejohnson@grays.com>\nFrom: Margaret Cataulin <mcataulin@prp.com>\nSubject: Job Application\n\nDear Emily,\n\nThank you for applying to work at PRP Global News. After examining your application form, résumé, and portfolio, I believe that you are more than qualified for our open position of photo editor. We were all impressed with your experience in the field.\n\nWe would like to schedule an interview with you during the upcoming week. I will be out of the office on a business trip with the newspaper's publisher, Karen Danaher, until Tuesday afternoon. Therefore, I could meet with you personally on Wednesday, Thursday, or Friday morning. If it is not possible to meet on those days, Fred Mendoza, our press officer, is available to conduct an interview on Monday. Phillip Razon, my assistant, can interview you on Tuesday. Please bring with you a list of three references who can verify your work history.\n\nSincerely,\n\nMargaret Cataulin\nChief Editor\nPRP Global News\n\n———\n\nTo: Margaret Cataulin <mcataulin@prp.com>\nFrom: Emily Johnson <ejohnson@grays.com>\nSubject: Re: Job Application\n\nDear Margaret,\n\nThank you for contacting me about the position. I would very much like to interview with PRP. Unfortunately, I will be leaving the country for a week next Tuesday. I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M. Thank you; I look forward to meeting with your colleague.\n\nSincerely,\nEmily Johnson"
+          },
+          "vi": "Đến: Emily Johnson\nTừ: Margaret Cataulin\nTiêu đề: Đơn xin việc\n\nEmily thân mến,\n\nCảm ơn bạn đã ứng tuyển vào PRP Global News. Sau khi xem xét đơn ứng tuyển, sơ yếu lý lịch và hồ sơ năng lực (portfolio) của bạn, tôi tin rằng bạn thừa khả năng đảm nhận vị trí biên tập viên ảnh đang tuyển của chúng tôi. Tất cả chúng tôi đều ấn tượng với kinh nghiệm của bạn trong lĩnh vực này.\n\nChúng tôi muốn lên lịch phỏng vấn bạn trong tuần tới. Tôi sẽ đi công tác cùng nhà xuất bản của tờ báo, bà Karen Danaher, đến chiều thứ Ba. Vì vậy, tôi có thể gặp trực tiếp bạn vào sáng thứ Tư, thứ Năm hoặc thứ Sáu. Nếu không thể gặp vào những ngày đó, Fred Mendoza, nhân viên phụ trách báo chí của chúng tôi, có thể phỏng vấn bạn vào thứ Hai. Phillip Razon, trợ lý của tôi, có thể phỏng vấn bạn vào thứ Ba. Vui lòng mang theo danh sách ba người tham chiếu có thể xác nhận quá trình làm việc của bạn.\n\nTrân trọng,\n\nMargaret Cataulin\nTổng biên tập\nPRP Global News\n\n———\n\nĐến: Margaret Cataulin\nTừ: Emily Johnson\nTiêu đề: Trả lời: Đơn xin việc\n\nMargaret thân mến,\n\nCảm ơn chị đã liên hệ với tôi về vị trí này. Tôi rất muốn được phỏng vấn tại PRP. Đáng tiếc là tôi sẽ ra nước ngoài một tuần kể từ thứ Ba tới. Tôi có thể đến phỏng vấn vào thứ Hai sắp tới, bất kỳ lúc nào sau 10 giờ sáng. Cảm ơn chị; tôi mong được gặp đồng nghiệp của chị.\n\nTrân trọng,\nEmily Johnson",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-04",
+          "no": 2,
+          "text": "What is NOT indicated in the first e-mail?",
+          "options": {
+            "A": "Ms. Cataulin has examined Ms. Johnson's application.",
+            "B": "Ms. Johnson has submitted a portfolio.",
+            "C": "Ms. Johnson has met Ms. Cataulin before.",
+            "D": "Ms. Cataulin is going on a business trip."
+          },
+          "answer": "C",
+          "explain": "A và B: “After examining your application form, résumé, and portfolio”. D: “I will be out of the office on a business trip”. Thư không hề nói hai người từng gặp nhau → C.",
+          "passage": {
+            "text": "To: Emily Johnson <ejohnson@grays.com>\nFrom: Margaret Cataulin <mcataulin@prp.com>\nSubject: Job Application\n\nDear Emily,\n\nThank you for applying to work at PRP Global News. After examining your application form, résumé, and portfolio, I believe that you are more than qualified for our open position of photo editor. We were all impressed with your experience in the field.\n\nWe would like to schedule an interview with you during the upcoming week. I will be out of the office on a business trip with the newspaper's publisher, Karen Danaher, until Tuesday afternoon. Therefore, I could meet with you personally on Wednesday, Thursday, or Friday morning. If it is not possible to meet on those days, Fred Mendoza, our press officer, is available to conduct an interview on Monday. Phillip Razon, my assistant, can interview you on Tuesday. Please bring with you a list of three references who can verify your work history.\n\nSincerely,\n\nMargaret Cataulin\nChief Editor\nPRP Global News\n\n———\n\nTo: Margaret Cataulin <mcataulin@prp.com>\nFrom: Emily Johnson <ejohnson@grays.com>\nSubject: Re: Job Application\n\nDear Margaret,\n\nThank you for contacting me about the position. I would very much like to interview with PRP. Unfortunately, I will be leaving the country for a week next Tuesday. I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M. Thank you; I look forward to meeting with your colleague.\n\nSincerely,\nEmily Johnson"
+          },
+          "vi": "Đến: Emily Johnson\nTừ: Margaret Cataulin\nTiêu đề: Đơn xin việc\n\nEmily thân mến,\n\nCảm ơn bạn đã ứng tuyển vào PRP Global News. Sau khi xem xét đơn ứng tuyển, sơ yếu lý lịch và hồ sơ năng lực (portfolio) của bạn, tôi tin rằng bạn thừa khả năng đảm nhận vị trí biên tập viên ảnh đang tuyển của chúng tôi. Tất cả chúng tôi đều ấn tượng với kinh nghiệm của bạn trong lĩnh vực này.\n\nChúng tôi muốn lên lịch phỏng vấn bạn trong tuần tới. Tôi sẽ đi công tác cùng nhà xuất bản của tờ báo, bà Karen Danaher, đến chiều thứ Ba. Vì vậy, tôi có thể gặp trực tiếp bạn vào sáng thứ Tư, thứ Năm hoặc thứ Sáu. Nếu không thể gặp vào những ngày đó, Fred Mendoza, nhân viên phụ trách báo chí của chúng tôi, có thể phỏng vấn bạn vào thứ Hai. Phillip Razon, trợ lý của tôi, có thể phỏng vấn bạn vào thứ Ba. Vui lòng mang theo danh sách ba người tham chiếu có thể xác nhận quá trình làm việc của bạn.\n\nTrân trọng,\n\nMargaret Cataulin\nTổng biên tập\nPRP Global News\n\n———\n\nĐến: Margaret Cataulin\nTừ: Emily Johnson\nTiêu đề: Trả lời: Đơn xin việc\n\nMargaret thân mến,\n\nCảm ơn chị đã liên hệ với tôi về vị trí này. Tôi rất muốn được phỏng vấn tại PRP. Đáng tiếc là tôi sẽ ra nước ngoài một tuần kể từ thứ Ba tới. Tôi có thể đến phỏng vấn vào thứ Hai sắp tới, bất kỳ lúc nào sau 10 giờ sáng. Cảm ơn chị; tôi mong được gặp đồng nghiệp của chị.\n\nTrân trọng,\nEmily Johnson",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-05",
+          "no": 3,
+          "text": "What is Ms. Johnson asked to provide?",
+          "options": {
+            "A": "A travel itinerary",
+            "B": "A work history",
+            "C": "A writing sample",
+            "D": "A list of references"
+          },
+          "answer": "D",
+          "explain": "“Please bring with you a list of three references who can verify your work history” → mang danh sách người tham chiếu. “work history” chỉ là thứ những người đó xác nhận (B là bẫy).",
+          "passage": {
+            "text": "To: Emily Johnson <ejohnson@grays.com>\nFrom: Margaret Cataulin <mcataulin@prp.com>\nSubject: Job Application\n\nDear Emily,\n\nThank you for applying to work at PRP Global News. After examining your application form, résumé, and portfolio, I believe that you are more than qualified for our open position of photo editor. We were all impressed with your experience in the field.\n\nWe would like to schedule an interview with you during the upcoming week. I will be out of the office on a business trip with the newspaper's publisher, Karen Danaher, until Tuesday afternoon. Therefore, I could meet with you personally on Wednesday, Thursday, or Friday morning. If it is not possible to meet on those days, Fred Mendoza, our press officer, is available to conduct an interview on Monday. Phillip Razon, my assistant, can interview you on Tuesday. Please bring with you a list of three references who can verify your work history.\n\nSincerely,\n\nMargaret Cataulin\nChief Editor\nPRP Global News\n\n———\n\nTo: Margaret Cataulin <mcataulin@prp.com>\nFrom: Emily Johnson <ejohnson@grays.com>\nSubject: Re: Job Application\n\nDear Margaret,\n\nThank you for contacting me about the position. I would very much like to interview with PRP. Unfortunately, I will be leaving the country for a week next Tuesday. I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M. Thank you; I look forward to meeting with your colleague.\n\nSincerely,\nEmily Johnson"
+          },
+          "vi": "Đến: Emily Johnson\nTừ: Margaret Cataulin\nTiêu đề: Đơn xin việc\n\nEmily thân mến,\n\nCảm ơn bạn đã ứng tuyển vào PRP Global News. Sau khi xem xét đơn ứng tuyển, sơ yếu lý lịch và hồ sơ năng lực (portfolio) của bạn, tôi tin rằng bạn thừa khả năng đảm nhận vị trí biên tập viên ảnh đang tuyển của chúng tôi. Tất cả chúng tôi đều ấn tượng với kinh nghiệm của bạn trong lĩnh vực này.\n\nChúng tôi muốn lên lịch phỏng vấn bạn trong tuần tới. Tôi sẽ đi công tác cùng nhà xuất bản của tờ báo, bà Karen Danaher, đến chiều thứ Ba. Vì vậy, tôi có thể gặp trực tiếp bạn vào sáng thứ Tư, thứ Năm hoặc thứ Sáu. Nếu không thể gặp vào những ngày đó, Fred Mendoza, nhân viên phụ trách báo chí của chúng tôi, có thể phỏng vấn bạn vào thứ Hai. Phillip Razon, trợ lý của tôi, có thể phỏng vấn bạn vào thứ Ba. Vui lòng mang theo danh sách ba người tham chiếu có thể xác nhận quá trình làm việc của bạn.\n\nTrân trọng,\n\nMargaret Cataulin\nTổng biên tập\nPRP Global News\n\n———\n\nĐến: Margaret Cataulin\nTừ: Emily Johnson\nTiêu đề: Trả lời: Đơn xin việc\n\nMargaret thân mến,\n\nCảm ơn chị đã liên hệ với tôi về vị trí này. Tôi rất muốn được phỏng vấn tại PRP. Đáng tiếc là tôi sẽ ra nước ngoài một tuần kể từ thứ Ba tới. Tôi có thể đến phỏng vấn vào thứ Hai sắp tới, bất kỳ lúc nào sau 10 giờ sáng. Cảm ơn chị; tôi mong được gặp đồng nghiệp của chị.\n\nTrân trọng,\nEmily Johnson",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-06",
+          "no": 4,
+          "text": "Why was the second e-mail written?",
+          "options": {
+            "A": "To schedule a photography session",
+            "B": "To provide a job reference",
+            "C": "To decline a job offer from PRP",
+            "D": "To schedule an interview appointment"
+          },
+          "answer": "D",
+          "explain": "“I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M.” → hẹn lịch phỏng vấn. Cô “would very much like to interview” nên không từ chối (C sai).",
+          "passage": {
+            "text": "To: Emily Johnson <ejohnson@grays.com>\nFrom: Margaret Cataulin <mcataulin@prp.com>\nSubject: Job Application\n\nDear Emily,\n\nThank you for applying to work at PRP Global News. After examining your application form, résumé, and portfolio, I believe that you are more than qualified for our open position of photo editor. We were all impressed with your experience in the field.\n\nWe would like to schedule an interview with you during the upcoming week. I will be out of the office on a business trip with the newspaper's publisher, Karen Danaher, until Tuesday afternoon. Therefore, I could meet with you personally on Wednesday, Thursday, or Friday morning. If it is not possible to meet on those days, Fred Mendoza, our press officer, is available to conduct an interview on Monday. Phillip Razon, my assistant, can interview you on Tuesday. Please bring with you a list of three references who can verify your work history.\n\nSincerely,\n\nMargaret Cataulin\nChief Editor\nPRP Global News\n\n———\n\nTo: Margaret Cataulin <mcataulin@prp.com>\nFrom: Emily Johnson <ejohnson@grays.com>\nSubject: Re: Job Application\n\nDear Margaret,\n\nThank you for contacting me about the position. I would very much like to interview with PRP. Unfortunately, I will be leaving the country for a week next Tuesday. I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M. Thank you; I look forward to meeting with your colleague.\n\nSincerely,\nEmily Johnson"
+          },
+          "vi": "Đến: Emily Johnson\nTừ: Margaret Cataulin\nTiêu đề: Đơn xin việc\n\nEmily thân mến,\n\nCảm ơn bạn đã ứng tuyển vào PRP Global News. Sau khi xem xét đơn ứng tuyển, sơ yếu lý lịch và hồ sơ năng lực (portfolio) của bạn, tôi tin rằng bạn thừa khả năng đảm nhận vị trí biên tập viên ảnh đang tuyển của chúng tôi. Tất cả chúng tôi đều ấn tượng với kinh nghiệm của bạn trong lĩnh vực này.\n\nChúng tôi muốn lên lịch phỏng vấn bạn trong tuần tới. Tôi sẽ đi công tác cùng nhà xuất bản của tờ báo, bà Karen Danaher, đến chiều thứ Ba. Vì vậy, tôi có thể gặp trực tiếp bạn vào sáng thứ Tư, thứ Năm hoặc thứ Sáu. Nếu không thể gặp vào những ngày đó, Fred Mendoza, nhân viên phụ trách báo chí của chúng tôi, có thể phỏng vấn bạn vào thứ Hai. Phillip Razon, trợ lý của tôi, có thể phỏng vấn bạn vào thứ Ba. Vui lòng mang theo danh sách ba người tham chiếu có thể xác nhận quá trình làm việc của bạn.\n\nTrân trọng,\n\nMargaret Cataulin\nTổng biên tập\nPRP Global News\n\n———\n\nĐến: Margaret Cataulin\nTừ: Emily Johnson\nTiêu đề: Trả lời: Đơn xin việc\n\nMargaret thân mến,\n\nCảm ơn chị đã liên hệ với tôi về vị trí này. Tôi rất muốn được phỏng vấn tại PRP. Đáng tiếc là tôi sẽ ra nước ngoài một tuần kể từ thứ Ba tới. Tôi có thể đến phỏng vấn vào thứ Hai sắp tới, bất kỳ lúc nào sau 10 giờ sáng. Cảm ơn chị; tôi mong được gặp đồng nghiệp của chị.\n\nTrân trọng,\nEmily Johnson",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-07",
+          "no": 5,
+          "text": "With whom will Ms. Johnson most likely meet?",
+          "options": {
+            "A": "Margaret Cataulin",
+            "B": "Fred Mendoza",
+            "C": "Phillip Razon",
+            "D": "Karen Danaher"
+          },
+          "answer": "B",
+          "explain": "Thư 2: cô đến phỏng vấn “on this upcoming Monday”. Thư 1: “Fred Mendoza, our press officer, is available to conduct an interview on Monday” → gặp Fred Mendoza. Cô cũng viết “meeting with your colleague”, không phải chính bà Cataulin (A sai).",
+          "passage": {
+            "text": "To: Emily Johnson <ejohnson@grays.com>\nFrom: Margaret Cataulin <mcataulin@prp.com>\nSubject: Job Application\n\nDear Emily,\n\nThank you for applying to work at PRP Global News. After examining your application form, résumé, and portfolio, I believe that you are more than qualified for our open position of photo editor. We were all impressed with your experience in the field.\n\nWe would like to schedule an interview with you during the upcoming week. I will be out of the office on a business trip with the newspaper's publisher, Karen Danaher, until Tuesday afternoon. Therefore, I could meet with you personally on Wednesday, Thursday, or Friday morning. If it is not possible to meet on those days, Fred Mendoza, our press officer, is available to conduct an interview on Monday. Phillip Razon, my assistant, can interview you on Tuesday. Please bring with you a list of three references who can verify your work history.\n\nSincerely,\n\nMargaret Cataulin\nChief Editor\nPRP Global News\n\n———\n\nTo: Margaret Cataulin <mcataulin@prp.com>\nFrom: Emily Johnson <ejohnson@grays.com>\nSubject: Re: Job Application\n\nDear Margaret,\n\nThank you for contacting me about the position. I would very much like to interview with PRP. Unfortunately, I will be leaving the country for a week next Tuesday. I could come in for an interview on this upcoming Monday. I am available any time after 10 A.M. Thank you; I look forward to meeting with your colleague.\n\nSincerely,\nEmily Johnson"
+          },
+          "vi": "Đến: Emily Johnson\nTừ: Margaret Cataulin\nTiêu đề: Đơn xin việc\n\nEmily thân mến,\n\nCảm ơn bạn đã ứng tuyển vào PRP Global News. Sau khi xem xét đơn ứng tuyển, sơ yếu lý lịch và hồ sơ năng lực (portfolio) của bạn, tôi tin rằng bạn thừa khả năng đảm nhận vị trí biên tập viên ảnh đang tuyển của chúng tôi. Tất cả chúng tôi đều ấn tượng với kinh nghiệm của bạn trong lĩnh vực này.\n\nChúng tôi muốn lên lịch phỏng vấn bạn trong tuần tới. Tôi sẽ đi công tác cùng nhà xuất bản của tờ báo, bà Karen Danaher, đến chiều thứ Ba. Vì vậy, tôi có thể gặp trực tiếp bạn vào sáng thứ Tư, thứ Năm hoặc thứ Sáu. Nếu không thể gặp vào những ngày đó, Fred Mendoza, nhân viên phụ trách báo chí của chúng tôi, có thể phỏng vấn bạn vào thứ Hai. Phillip Razon, trợ lý của tôi, có thể phỏng vấn bạn vào thứ Ba. Vui lòng mang theo danh sách ba người tham chiếu có thể xác nhận quá trình làm việc của bạn.\n\nTrân trọng,\n\nMargaret Cataulin\nTổng biên tập\nPRP Global News\n\n———\n\nĐến: Margaret Cataulin\nTừ: Emily Johnson\nTiêu đề: Trả lời: Đơn xin việc\n\nMargaret thân mến,\n\nCảm ơn chị đã liên hệ với tôi về vị trí này. Tôi rất muốn được phỏng vấn tại PRP. Đáng tiếc là tôi sẽ ra nước ngoài một tuần kể từ thứ Ba tới. Tôi có thể đến phỏng vấn vào thứ Hai sắp tới, bất kỳ lúc nào sau 10 giờ sáng. Cảm ơn chị; tôi mong được gặp đồng nghiệp của chị.\n\nTrân trọng,\nEmily Johnson",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d25-read3",
+      "code": "read3",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: OID membership letter and form",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        4,
+        5
+      ],
+      "questions": [
+        {
+          "id": "d25-read-08",
+          "no": 6,
+          "text": "Why did Mr. Oduya write to Ms. Tang?",
+          "options": {
+            "A": "To ask her to make an online donation",
+            "B": "To remind her of her membership status",
+            "C": "To invite her to subscribe to a magazine",
+            "D": "To tell her about an upcoming meeting"
+          },
+          "answer": "B",
+          "explain": "“Our records show that your … membership is about to expire … we would like to encourage you to renew” → nhắc bà về tình trạng hội viên sắp hết hạn.",
+          "passage": {
+            "text": "February 1\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nDear Ms. Tang:\n\nOur records show that your Organization of Industrial Designers membership is about to expire. We hope that you simply forgot, and we would like to encourage you to renew your membership before it lapses.\n\nLast year was an exciting time for the OID as we launched our new magazine, Light and Form. This year we will begin making improvements to our Web site. When these changes are completed, you will be able to update your contact information, register for meetings, and pay membership dues online.\n\nTo renew your membership now, please fill out the enclosed form and mail it in the envelope provided. We have your current membership status recorded as at Level A; please indicate if your membership level has changed. If you have recently renewed your membership, please disregard this notice.\n\nSincerely,\nOlujimi Oduya\nMembership Director\n\n———\n\nORGANIZATION OF INDUSTRIAL DESIGNERS\n\nName: Michelle Tang\nAddress: 44 Blake Rd., Melbourne, VIC 3000, Australia\nPhone: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Please check here if this is a change to your contact information.\n\nMembership Level\n[ ] A. Student $20\n[x] B. Professional $60\n[ ] C. Patron $100\n[ ] D. Retired $35\n\nWould you like to receive future communications from the OID by e-mail?\n[x] Yes\n[ ] No\n\nHow would you like to be listed in our online directory?\n[ ] Name only\n[x] Name and e-mail address only\n[ ] Name and complete contact information"
+          },
+          "vi": "Ngày 1 tháng Hai\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nKính gửi bà Tang,\n\nHồ sơ của chúng tôi cho thấy tư cách hội viên Hiệp hội Nhà thiết kế Công nghiệp (OID) của bà sắp hết hạn. Chúng tôi mong rằng bà chỉ quên, và muốn khuyến khích bà gia hạn tư cách hội viên trước khi nó hết hiệu lực.\n\nNăm ngoái là khoảng thời gian sôi động của OID khi chúng tôi ra mắt tạp chí mới, Light and Form. Năm nay chúng tôi sẽ bắt đầu cải tiến trang web. Khi hoàn tất, bà sẽ có thể cập nhật thông tin liên hệ, đăng ký tham dự các cuộc họp và đóng hội phí trực tuyến.\n\nĐể gia hạn ngay, vui lòng điền vào mẫu đơn kèm theo và gửi bằng phong bì được cung cấp sẵn. Chúng tôi đang ghi nhận hạng hội viên hiện tại của bà là Hạng A; vui lòng cho biết nếu hạng hội viên của bà đã thay đổi. Nếu bà vừa gia hạn gần đây, xin bỏ qua thông báo này.\n\nTrân trọng,\nOlujimi Oduya\nGiám đốc phụ trách hội viên\n\n———\n\nHIỆP HỘI NHÀ THIẾT KẾ CÔNG NGHIỆP\n\nTên: Michelle Tang\nĐịa chỉ: 44 Blake Rd., Melbourne, VIC 3000, Úc\nĐiện thoại: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Đánh dấu vào đây nếu đây là thông tin liên hệ thay đổi.\n\nHạng hội viên\n[ ] A. Sinh viên 20 đô\n[x] B. Chuyên nghiệp 60 đô\n[ ] C. Bảo trợ 100 đô\n[ ] D. Đã nghỉ hưu 35 đô\n\nBà có muốn nhận thông tin từ OID qua e-mail trong tương lai không?\n[x] Có\n[ ] Không\n\nBà muốn được liệt kê trong danh bạ trực tuyến như thế nào?\n[ ] Chỉ tên\n[x] Chỉ tên và địa chỉ e-mail\n[ ] Tên và đầy đủ thông tin liên hệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-09",
+          "no": 7,
+          "text": "What did the OID do last year?",
+          "options": {
+            "A": "It created a membership program.",
+            "B": "It updated its Web site.",
+            "C": "It moved to a new location.",
+            "D": "It published a magazine."
+          },
+          "answer": "D",
+          "explain": "“Last year was an exciting time for the OID as we launched our new magazine, Light and Form.” → ra mắt tạp chí. Trang web là việc của năm nay (“This year we will begin making improvements to our Web site”, B sai).",
+          "passage": {
+            "text": "February 1\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nDear Ms. Tang:\n\nOur records show that your Organization of Industrial Designers membership is about to expire. We hope that you simply forgot, and we would like to encourage you to renew your membership before it lapses.\n\nLast year was an exciting time for the OID as we launched our new magazine, Light and Form. This year we will begin making improvements to our Web site. When these changes are completed, you will be able to update your contact information, register for meetings, and pay membership dues online.\n\nTo renew your membership now, please fill out the enclosed form and mail it in the envelope provided. We have your current membership status recorded as at Level A; please indicate if your membership level has changed. If you have recently renewed your membership, please disregard this notice.\n\nSincerely,\nOlujimi Oduya\nMembership Director\n\n———\n\nORGANIZATION OF INDUSTRIAL DESIGNERS\n\nName: Michelle Tang\nAddress: 44 Blake Rd., Melbourne, VIC 3000, Australia\nPhone: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Please check here if this is a change to your contact information.\n\nMembership Level\n[ ] A. Student $20\n[x] B. Professional $60\n[ ] C. Patron $100\n[ ] D. Retired $35\n\nWould you like to receive future communications from the OID by e-mail?\n[x] Yes\n[ ] No\n\nHow would you like to be listed in our online directory?\n[ ] Name only\n[x] Name and e-mail address only\n[ ] Name and complete contact information"
+          },
+          "vi": "Ngày 1 tháng Hai\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nKính gửi bà Tang,\n\nHồ sơ của chúng tôi cho thấy tư cách hội viên Hiệp hội Nhà thiết kế Công nghiệp (OID) của bà sắp hết hạn. Chúng tôi mong rằng bà chỉ quên, và muốn khuyến khích bà gia hạn tư cách hội viên trước khi nó hết hiệu lực.\n\nNăm ngoái là khoảng thời gian sôi động của OID khi chúng tôi ra mắt tạp chí mới, Light and Form. Năm nay chúng tôi sẽ bắt đầu cải tiến trang web. Khi hoàn tất, bà sẽ có thể cập nhật thông tin liên hệ, đăng ký tham dự các cuộc họp và đóng hội phí trực tuyến.\n\nĐể gia hạn ngay, vui lòng điền vào mẫu đơn kèm theo và gửi bằng phong bì được cung cấp sẵn. Chúng tôi đang ghi nhận hạng hội viên hiện tại của bà là Hạng A; vui lòng cho biết nếu hạng hội viên của bà đã thay đổi. Nếu bà vừa gia hạn gần đây, xin bỏ qua thông báo này.\n\nTrân trọng,\nOlujimi Oduya\nGiám đốc phụ trách hội viên\n\n———\n\nHIỆP HỘI NHÀ THIẾT KẾ CÔNG NGHIỆP\n\nTên: Michelle Tang\nĐịa chỉ: 44 Blake Rd., Melbourne, VIC 3000, Úc\nĐiện thoại: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Đánh dấu vào đây nếu đây là thông tin liên hệ thay đổi.\n\nHạng hội viên\n[ ] A. Sinh viên 20 đô\n[x] B. Chuyên nghiệp 60 đô\n[ ] C. Bảo trợ 100 đô\n[ ] D. Đã nghỉ hưu 35 đô\n\nBà có muốn nhận thông tin từ OID qua e-mail trong tương lai không?\n[x] Có\n[ ] Không\n\nBà muốn được liệt kê trong danh bạ trực tuyến như thế nào?\n[ ] Chỉ tên\n[x] Chỉ tên và địa chỉ e-mail\n[ ] Tên và đầy đủ thông tin liên hệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-10",
+          "no": 8,
+          "text": "What is Ms. Tang asked to do?",
+          "options": {
+            "A": "Complete a form",
+            "B": "Send an e-mail message",
+            "C": "Visit the Web site",
+            "D": "Call the OID offices"
+          },
+          "answer": "A",
+          "explain": "“To renew your membership now, please fill out the enclosed form and mail it” → điền mẫu đơn.",
+          "passage": {
+            "text": "February 1\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nDear Ms. Tang:\n\nOur records show that your Organization of Industrial Designers membership is about to expire. We hope that you simply forgot, and we would like to encourage you to renew your membership before it lapses.\n\nLast year was an exciting time for the OID as we launched our new magazine, Light and Form. This year we will begin making improvements to our Web site. When these changes are completed, you will be able to update your contact information, register for meetings, and pay membership dues online.\n\nTo renew your membership now, please fill out the enclosed form and mail it in the envelope provided. We have your current membership status recorded as at Level A; please indicate if your membership level has changed. If you have recently renewed your membership, please disregard this notice.\n\nSincerely,\nOlujimi Oduya\nMembership Director\n\n———\n\nORGANIZATION OF INDUSTRIAL DESIGNERS\n\nName: Michelle Tang\nAddress: 44 Blake Rd., Melbourne, VIC 3000, Australia\nPhone: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Please check here if this is a change to your contact information.\n\nMembership Level\n[ ] A. Student $20\n[x] B. Professional $60\n[ ] C. Patron $100\n[ ] D. Retired $35\n\nWould you like to receive future communications from the OID by e-mail?\n[x] Yes\n[ ] No\n\nHow would you like to be listed in our online directory?\n[ ] Name only\n[x] Name and e-mail address only\n[ ] Name and complete contact information"
+          },
+          "vi": "Ngày 1 tháng Hai\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nKính gửi bà Tang,\n\nHồ sơ của chúng tôi cho thấy tư cách hội viên Hiệp hội Nhà thiết kế Công nghiệp (OID) của bà sắp hết hạn. Chúng tôi mong rằng bà chỉ quên, và muốn khuyến khích bà gia hạn tư cách hội viên trước khi nó hết hiệu lực.\n\nNăm ngoái là khoảng thời gian sôi động của OID khi chúng tôi ra mắt tạp chí mới, Light and Form. Năm nay chúng tôi sẽ bắt đầu cải tiến trang web. Khi hoàn tất, bà sẽ có thể cập nhật thông tin liên hệ, đăng ký tham dự các cuộc họp và đóng hội phí trực tuyến.\n\nĐể gia hạn ngay, vui lòng điền vào mẫu đơn kèm theo và gửi bằng phong bì được cung cấp sẵn. Chúng tôi đang ghi nhận hạng hội viên hiện tại của bà là Hạng A; vui lòng cho biết nếu hạng hội viên của bà đã thay đổi. Nếu bà vừa gia hạn gần đây, xin bỏ qua thông báo này.\n\nTrân trọng,\nOlujimi Oduya\nGiám đốc phụ trách hội viên\n\n———\n\nHIỆP HỘI NHÀ THIẾT KẾ CÔNG NGHIỆP\n\nTên: Michelle Tang\nĐịa chỉ: 44 Blake Rd., Melbourne, VIC 3000, Úc\nĐiện thoại: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Đánh dấu vào đây nếu đây là thông tin liên hệ thay đổi.\n\nHạng hội viên\n[ ] A. Sinh viên 20 đô\n[x] B. Chuyên nghiệp 60 đô\n[ ] C. Bảo trợ 100 đô\n[ ] D. Đã nghỉ hưu 35 đô\n\nBà có muốn nhận thông tin từ OID qua e-mail trong tương lai không?\n[x] Có\n[ ] Không\n\nBà muốn được liệt kê trong danh bạ trực tuyến như thế nào?\n[ ] Chỉ tên\n[x] Chỉ tên và địa chỉ e-mail\n[ ] Tên và đầy đủ thông tin liên hệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-11",
+          "no": 9,
+          "text": "What is suggested about Ms. Tang?",
+          "options": {
+            "A": "She is joining the OID for the first time.",
+            "B": "She has recently retired.",
+            "C": "She was a student last year.",
+            "D": "She has a new telephone number."
+          },
+          "answer": "C",
+          "explain": "Kết hợp hai văn bản: thư ghi “We have your current membership status recorded as at Level A” (Level A = Student $20), còn mẫu đơn bà đánh dấu “B. Professional $60” → trước đây bà là sinh viên, giờ đã đi làm. Bà không đánh dấu ô thay đổi thông tin liên hệ (D sai); đang gia hạn nên không phải mới gia nhập (A sai).",
+          "passage": {
+            "text": "February 1\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nDear Ms. Tang:\n\nOur records show that your Organization of Industrial Designers membership is about to expire. We hope that you simply forgot, and we would like to encourage you to renew your membership before it lapses.\n\nLast year was an exciting time for the OID as we launched our new magazine, Light and Form. This year we will begin making improvements to our Web site. When these changes are completed, you will be able to update your contact information, register for meetings, and pay membership dues online.\n\nTo renew your membership now, please fill out the enclosed form and mail it in the envelope provided. We have your current membership status recorded as at Level A; please indicate if your membership level has changed. If you have recently renewed your membership, please disregard this notice.\n\nSincerely,\nOlujimi Oduya\nMembership Director\n\n———\n\nORGANIZATION OF INDUSTRIAL DESIGNERS\n\nName: Michelle Tang\nAddress: 44 Blake Rd., Melbourne, VIC 3000, Australia\nPhone: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Please check here if this is a change to your contact information.\n\nMembership Level\n[ ] A. Student $20\n[x] B. Professional $60\n[ ] C. Patron $100\n[ ] D. Retired $35\n\nWould you like to receive future communications from the OID by e-mail?\n[x] Yes\n[ ] No\n\nHow would you like to be listed in our online directory?\n[ ] Name only\n[x] Name and e-mail address only\n[ ] Name and complete contact information"
+          },
+          "vi": "Ngày 1 tháng Hai\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nKính gửi bà Tang,\n\nHồ sơ của chúng tôi cho thấy tư cách hội viên Hiệp hội Nhà thiết kế Công nghiệp (OID) của bà sắp hết hạn. Chúng tôi mong rằng bà chỉ quên, và muốn khuyến khích bà gia hạn tư cách hội viên trước khi nó hết hiệu lực.\n\nNăm ngoái là khoảng thời gian sôi động của OID khi chúng tôi ra mắt tạp chí mới, Light and Form. Năm nay chúng tôi sẽ bắt đầu cải tiến trang web. Khi hoàn tất, bà sẽ có thể cập nhật thông tin liên hệ, đăng ký tham dự các cuộc họp và đóng hội phí trực tuyến.\n\nĐể gia hạn ngay, vui lòng điền vào mẫu đơn kèm theo và gửi bằng phong bì được cung cấp sẵn. Chúng tôi đang ghi nhận hạng hội viên hiện tại của bà là Hạng A; vui lòng cho biết nếu hạng hội viên của bà đã thay đổi. Nếu bà vừa gia hạn gần đây, xin bỏ qua thông báo này.\n\nTrân trọng,\nOlujimi Oduya\nGiám đốc phụ trách hội viên\n\n———\n\nHIỆP HỘI NHÀ THIẾT KẾ CÔNG NGHIỆP\n\nTên: Michelle Tang\nĐịa chỉ: 44 Blake Rd., Melbourne, VIC 3000, Úc\nĐiện thoại: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Đánh dấu vào đây nếu đây là thông tin liên hệ thay đổi.\n\nHạng hội viên\n[ ] A. Sinh viên 20 đô\n[x] B. Chuyên nghiệp 60 đô\n[ ] C. Bảo trợ 100 đô\n[ ] D. Đã nghỉ hưu 35 đô\n\nBà có muốn nhận thông tin từ OID qua e-mail trong tương lai không?\n[x] Có\n[ ] Không\n\nBà muốn được liệt kê trong danh bạ trực tuyến như thế nào?\n[ ] Chỉ tên\n[x] Chỉ tên và địa chỉ e-mail\n[ ] Tên và đầy đủ thông tin liên hệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-12",
+          "no": 10,
+          "text": "What did Ms. Tang indicate about her preferences?",
+          "options": {
+            "A": "She wants her home address listed in the Web site directory.",
+            "B": "She wants to become a member at the patron level.",
+            "C": "She wants to receive e-mails from the OID.",
+            "D": "She wants to update her mailing address."
+          },
+          "answer": "C",
+          "explain": "Mẫu đơn: “Would you like to receive future communications from the OID by e-mail?” → đánh dấu “Yes”. Danh bạ chỉ chọn “Name and e-mail address only” (A sai); hạng chọn Professional, không phải Patron (B sai).",
+          "passage": {
+            "text": "February 1\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nDear Ms. Tang:\n\nOur records show that your Organization of Industrial Designers membership is about to expire. We hope that you simply forgot, and we would like to encourage you to renew your membership before it lapses.\n\nLast year was an exciting time for the OID as we launched our new magazine, Light and Form. This year we will begin making improvements to our Web site. When these changes are completed, you will be able to update your contact information, register for meetings, and pay membership dues online.\n\nTo renew your membership now, please fill out the enclosed form and mail it in the envelope provided. We have your current membership status recorded as at Level A; please indicate if your membership level has changed. If you have recently renewed your membership, please disregard this notice.\n\nSincerely,\nOlujimi Oduya\nMembership Director\n\n———\n\nORGANIZATION OF INDUSTRIAL DESIGNERS\n\nName: Michelle Tang\nAddress: 44 Blake Rd., Melbourne, VIC 3000, Australia\nPhone: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Please check here if this is a change to your contact information.\n\nMembership Level\n[ ] A. Student $20\n[x] B. Professional $60\n[ ] C. Patron $100\n[ ] D. Retired $35\n\nWould you like to receive future communications from the OID by e-mail?\n[x] Yes\n[ ] No\n\nHow would you like to be listed in our online directory?\n[ ] Name only\n[x] Name and e-mail address only\n[ ] Name and complete contact information"
+          },
+          "vi": "Ngày 1 tháng Hai\n\nMichelle Tang\n44 Blake Rd.\nMelbourne, VIC 3000\n\nKính gửi bà Tang,\n\nHồ sơ của chúng tôi cho thấy tư cách hội viên Hiệp hội Nhà thiết kế Công nghiệp (OID) của bà sắp hết hạn. Chúng tôi mong rằng bà chỉ quên, và muốn khuyến khích bà gia hạn tư cách hội viên trước khi nó hết hiệu lực.\n\nNăm ngoái là khoảng thời gian sôi động của OID khi chúng tôi ra mắt tạp chí mới, Light and Form. Năm nay chúng tôi sẽ bắt đầu cải tiến trang web. Khi hoàn tất, bà sẽ có thể cập nhật thông tin liên hệ, đăng ký tham dự các cuộc họp và đóng hội phí trực tuyến.\n\nĐể gia hạn ngay, vui lòng điền vào mẫu đơn kèm theo và gửi bằng phong bì được cung cấp sẵn. Chúng tôi đang ghi nhận hạng hội viên hiện tại của bà là Hạng A; vui lòng cho biết nếu hạng hội viên của bà đã thay đổi. Nếu bà vừa gia hạn gần đây, xin bỏ qua thông báo này.\n\nTrân trọng,\nOlujimi Oduya\nGiám đốc phụ trách hội viên\n\n———\n\nHIỆP HỘI NHÀ THIẾT KẾ CÔNG NGHIỆP\n\nTên: Michelle Tang\nĐịa chỉ: 44 Blake Rd., Melbourne, VIC 3000, Úc\nĐiện thoại: 03 8555 5555\nE-mail: mtang@whitestar.com.au\n[ ] Đánh dấu vào đây nếu đây là thông tin liên hệ thay đổi.\n\nHạng hội viên\n[ ] A. Sinh viên 20 đô\n[x] B. Chuyên nghiệp 60 đô\n[ ] C. Bảo trợ 100 đô\n[ ] D. Đã nghỉ hưu 35 đô\n\nBà có muốn nhận thông tin từ OID qua e-mail trong tương lai không?\n[x] Có\n[ ] Không\n\nBà muốn được liệt kê trong danh bạ trực tuyến như thế nào?\n[ ] Chỉ tên\n[x] Chỉ tên và địa chỉ e-mail\n[ ] Tên và đầy đủ thông tin liên hệ",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d25-read4",
+      "code": "read4",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: Komptex e-mail and press release",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "questions": [
+        {
+          "id": "d25-read-13",
+          "no": 11,
+          "text": "What is the main purpose of Lewis Cucuk's e-mail?",
+          "options": {
+            "A": "To plan new collaborations with film studios",
+            "B": "To confirm details of an announcement",
+            "C": "To request employee feedback on a report",
+            "D": "To announce new positions at the company"
+          },
+          "answer": "B",
+          "explain": "“This message confirms our agreement on the main points of the media report Komptex will release to the press” → xác nhận nội dung một thông báo.",
+          "passage": {
+            "text": "Date: Thursday, 23 July 11:45:29\nSubject: Sid Zablonski\nFrom: \"Lewis Cucuk\" <lcucuk@komptex.com>\nTo: jarvisw@komptex.com; sloanet@komptex.com; joanmac@komptex.com; giles@komptex.com\n\nFirst of all, thank you all for a very productive meeting this morning. This message confirms our agreement on the main points of the media report Komptex will release to the press at 4 P.M. this afternoon.\n\nThe report will be brief and to the point. It will announce Sid Zablonski's resignation and the appointment of his replacement. There will be no references to Mr. Zablonski's reasons for resigning his position. Sid has asked us to respect his privacy, and we intend to do that. The media will be asked to contact the vice president of human resources with any follow-up questions.\n\nThank you for your cooperation and support.\n\nLewis Cucuk\nPresident\nKomptex, Inc.\n\n———\n\nChange in Leadership at Komptex, Inc.\nPress Release\nJuly 23, 16:00\n\nKomptex has just announced the resignation of its chief executive officer, Sid Zablonski, effective immediately. Since taking over the leadership of Komptex eight years ago, Mr. Zablonski has been instrumental in building relationships with major film companies and broadcast studios, including Komptex' recent collaborations with Hoorah Filmworks. Jarvis Wang, vice president of human resources at Komptex, said, \"Sid led our company through some major advancements. We owe a lot of the company's current success to him, and we will be forever grateful for his insight and initiative.\"\n\nHarriet Trudeau, the creative director of Camden Entertainment for the past five years, will assume the position vacated by Mr. Zablonski. Prior to her position at Camden Entertainment, Ms. Trudeau was senior vice president of McNamus Brothers' marketing and advertising department. At Komptex, she will focus on expanding the company's television, news, finance, and children's media initiatives. A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site at www.komptex.com/bios."
+          },
+          "vi": "Ngày: Thứ Năm, 23 tháng Bảy, 11:45:29\nTiêu đề: Sid Zablonski\nTừ: Lewis Cucuk\nĐến: jarvisw, sloanet, joanmac, giles (@komptex.com)\n\nTrước hết, cảm ơn tất cả mọi người vì cuộc họp rất hiệu quả sáng nay. Thư này xác nhận những điểm chính chúng ta đã thống nhất cho bản tin truyền thông mà Komptex sẽ công bố với báo chí lúc 4 giờ chiều nay.\n\nBản tin sẽ ngắn gọn và đi thẳng vào vấn đề. Nó sẽ thông báo việc Sid Zablonski từ chức và việc bổ nhiệm người thay thế ông. Sẽ không đề cập đến lý do ông Zablonski từ chức. Sid đã đề nghị chúng ta tôn trọng sự riêng tư của ông, và chúng ta sẽ làm vậy. Giới truyền thông sẽ được đề nghị liên hệ với phó chủ tịch phụ trách nhân sự nếu có câu hỏi tiếp theo.\n\nCảm ơn mọi người đã hợp tác và ủng hộ.\n\nLewis Cucuk\nChủ tịch\nKomptex, Inc.\n\n———\n\nThay đổi lãnh đạo tại Komptex, Inc.\nThông cáo báo chí\n23 tháng Bảy, 16:00\n\nKomptex vừa thông báo việc giám đốc điều hành Sid Zablonski từ chức, có hiệu lực ngay lập tức. Kể từ khi nắm quyền lãnh đạo Komptex tám năm trước, ông Zablonski đã đóng vai trò then chốt trong việc xây dựng quan hệ với các hãng phim và hãng truyền hình lớn, trong đó có các dự án hợp tác gần đây của Komptex với Hoorah Filmworks. Jarvis Wang, phó chủ tịch phụ trách nhân sự của Komptex, nói: “Sid đã dẫn dắt công ty qua nhiều bước tiến lớn. Thành công hiện nay của công ty phần lớn là nhờ ông, và chúng tôi sẽ mãi biết ơn tầm nhìn và sự chủ động của ông.”\n\nHarriet Trudeau, giám đốc sáng tạo của Camden Entertainment trong năm năm qua, sẽ đảm nhận vị trí mà ông Zablonski để lại. Trước khi làm ở Camden Entertainment, bà Trudeau là phó chủ tịch cấp cao của phòng tiếp thị và quảng cáo tại McNamus Brothers. Tại Komptex, bà sẽ tập trung mở rộng các mảng truyền hình, tin tức, tài chính và truyền thông dành cho trẻ em của công ty. Tiểu sử ngắn và danh sách thành tích nghề nghiệp của bà Trudeau có trên trang web của công ty tại www.komptex.com/bios.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-14",
+          "no": 12,
+          "text": "To whom should reporters address follow-up questions?",
+          "options": {
+            "A": "Sid Zablonski",
+            "B": "Lewis Cucuk",
+            "C": "Harriet Trudeau",
+            "D": "Jarvis Wang"
+          },
+          "answer": "D",
+          "explain": "E-mail: “The media will be asked to contact the vice president of human resources”. Thông cáo: “Jarvis Wang, vice president of human resources at Komptex” → Jarvis Wang.",
+          "passage": {
+            "text": "Date: Thursday, 23 July 11:45:29\nSubject: Sid Zablonski\nFrom: \"Lewis Cucuk\" <lcucuk@komptex.com>\nTo: jarvisw@komptex.com; sloanet@komptex.com; joanmac@komptex.com; giles@komptex.com\n\nFirst of all, thank you all for a very productive meeting this morning. This message confirms our agreement on the main points of the media report Komptex will release to the press at 4 P.M. this afternoon.\n\nThe report will be brief and to the point. It will announce Sid Zablonski's resignation and the appointment of his replacement. There will be no references to Mr. Zablonski's reasons for resigning his position. Sid has asked us to respect his privacy, and we intend to do that. The media will be asked to contact the vice president of human resources with any follow-up questions.\n\nThank you for your cooperation and support.\n\nLewis Cucuk\nPresident\nKomptex, Inc.\n\n———\n\nChange in Leadership at Komptex, Inc.\nPress Release\nJuly 23, 16:00\n\nKomptex has just announced the resignation of its chief executive officer, Sid Zablonski, effective immediately. Since taking over the leadership of Komptex eight years ago, Mr. Zablonski has been instrumental in building relationships with major film companies and broadcast studios, including Komptex' recent collaborations with Hoorah Filmworks. Jarvis Wang, vice president of human resources at Komptex, said, \"Sid led our company through some major advancements. We owe a lot of the company's current success to him, and we will be forever grateful for his insight and initiative.\"\n\nHarriet Trudeau, the creative director of Camden Entertainment for the past five years, will assume the position vacated by Mr. Zablonski. Prior to her position at Camden Entertainment, Ms. Trudeau was senior vice president of McNamus Brothers' marketing and advertising department. At Komptex, she will focus on expanding the company's television, news, finance, and children's media initiatives. A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site at www.komptex.com/bios."
+          },
+          "vi": "Ngày: Thứ Năm, 23 tháng Bảy, 11:45:29\nTiêu đề: Sid Zablonski\nTừ: Lewis Cucuk\nĐến: jarvisw, sloanet, joanmac, giles (@komptex.com)\n\nTrước hết, cảm ơn tất cả mọi người vì cuộc họp rất hiệu quả sáng nay. Thư này xác nhận những điểm chính chúng ta đã thống nhất cho bản tin truyền thông mà Komptex sẽ công bố với báo chí lúc 4 giờ chiều nay.\n\nBản tin sẽ ngắn gọn và đi thẳng vào vấn đề. Nó sẽ thông báo việc Sid Zablonski từ chức và việc bổ nhiệm người thay thế ông. Sẽ không đề cập đến lý do ông Zablonski từ chức. Sid đã đề nghị chúng ta tôn trọng sự riêng tư của ông, và chúng ta sẽ làm vậy. Giới truyền thông sẽ được đề nghị liên hệ với phó chủ tịch phụ trách nhân sự nếu có câu hỏi tiếp theo.\n\nCảm ơn mọi người đã hợp tác và ủng hộ.\n\nLewis Cucuk\nChủ tịch\nKomptex, Inc.\n\n———\n\nThay đổi lãnh đạo tại Komptex, Inc.\nThông cáo báo chí\n23 tháng Bảy, 16:00\n\nKomptex vừa thông báo việc giám đốc điều hành Sid Zablonski từ chức, có hiệu lực ngay lập tức. Kể từ khi nắm quyền lãnh đạo Komptex tám năm trước, ông Zablonski đã đóng vai trò then chốt trong việc xây dựng quan hệ với các hãng phim và hãng truyền hình lớn, trong đó có các dự án hợp tác gần đây của Komptex với Hoorah Filmworks. Jarvis Wang, phó chủ tịch phụ trách nhân sự của Komptex, nói: “Sid đã dẫn dắt công ty qua nhiều bước tiến lớn. Thành công hiện nay của công ty phần lớn là nhờ ông, và chúng tôi sẽ mãi biết ơn tầm nhìn và sự chủ động của ông.”\n\nHarriet Trudeau, giám đốc sáng tạo của Camden Entertainment trong năm năm qua, sẽ đảm nhận vị trí mà ông Zablonski để lại. Trước khi làm ở Camden Entertainment, bà Trudeau là phó chủ tịch cấp cao của phòng tiếp thị và quảng cáo tại McNamus Brothers. Tại Komptex, bà sẽ tập trung mở rộng các mảng truyền hình, tin tức, tài chính và truyền thông dành cho trẻ em của công ty. Tiểu sử ngắn và danh sách thành tích nghề nghiệp của bà Trudeau có trên trang web của công ty tại www.komptex.com/bios.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-15",
+          "no": 13,
+          "text": "Where was Harriet Trudeau last employed?",
+          "options": {
+            "A": "At Hoorah Filmworks",
+            "B": "At Komptex, Inc.",
+            "C": "At Camden Entertainment",
+            "D": "At McNamus Brothers"
+          },
+          "answer": "C",
+          "explain": "“Harriet Trudeau, the creative director of Camden Entertainment for the past five years” → nơi làm gần nhất là Camden Entertainment. McNamus Brothers là nơi làm trước đó (“Prior to her position at Camden Entertainment”, D sai).",
+          "passage": {
+            "text": "Date: Thursday, 23 July 11:45:29\nSubject: Sid Zablonski\nFrom: \"Lewis Cucuk\" <lcucuk@komptex.com>\nTo: jarvisw@komptex.com; sloanet@komptex.com; joanmac@komptex.com; giles@komptex.com\n\nFirst of all, thank you all for a very productive meeting this morning. This message confirms our agreement on the main points of the media report Komptex will release to the press at 4 P.M. this afternoon.\n\nThe report will be brief and to the point. It will announce Sid Zablonski's resignation and the appointment of his replacement. There will be no references to Mr. Zablonski's reasons for resigning his position. Sid has asked us to respect his privacy, and we intend to do that. The media will be asked to contact the vice president of human resources with any follow-up questions.\n\nThank you for your cooperation and support.\n\nLewis Cucuk\nPresident\nKomptex, Inc.\n\n———\n\nChange in Leadership at Komptex, Inc.\nPress Release\nJuly 23, 16:00\n\nKomptex has just announced the resignation of its chief executive officer, Sid Zablonski, effective immediately. Since taking over the leadership of Komptex eight years ago, Mr. Zablonski has been instrumental in building relationships with major film companies and broadcast studios, including Komptex' recent collaborations with Hoorah Filmworks. Jarvis Wang, vice president of human resources at Komptex, said, \"Sid led our company through some major advancements. We owe a lot of the company's current success to him, and we will be forever grateful for his insight and initiative.\"\n\nHarriet Trudeau, the creative director of Camden Entertainment for the past five years, will assume the position vacated by Mr. Zablonski. Prior to her position at Camden Entertainment, Ms. Trudeau was senior vice president of McNamus Brothers' marketing and advertising department. At Komptex, she will focus on expanding the company's television, news, finance, and children's media initiatives. A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site at www.komptex.com/bios."
+          },
+          "vi": "Ngày: Thứ Năm, 23 tháng Bảy, 11:45:29\nTiêu đề: Sid Zablonski\nTừ: Lewis Cucuk\nĐến: jarvisw, sloanet, joanmac, giles (@komptex.com)\n\nTrước hết, cảm ơn tất cả mọi người vì cuộc họp rất hiệu quả sáng nay. Thư này xác nhận những điểm chính chúng ta đã thống nhất cho bản tin truyền thông mà Komptex sẽ công bố với báo chí lúc 4 giờ chiều nay.\n\nBản tin sẽ ngắn gọn và đi thẳng vào vấn đề. Nó sẽ thông báo việc Sid Zablonski từ chức và việc bổ nhiệm người thay thế ông. Sẽ không đề cập đến lý do ông Zablonski từ chức. Sid đã đề nghị chúng ta tôn trọng sự riêng tư của ông, và chúng ta sẽ làm vậy. Giới truyền thông sẽ được đề nghị liên hệ với phó chủ tịch phụ trách nhân sự nếu có câu hỏi tiếp theo.\n\nCảm ơn mọi người đã hợp tác và ủng hộ.\n\nLewis Cucuk\nChủ tịch\nKomptex, Inc.\n\n———\n\nThay đổi lãnh đạo tại Komptex, Inc.\nThông cáo báo chí\n23 tháng Bảy, 16:00\n\nKomptex vừa thông báo việc giám đốc điều hành Sid Zablonski từ chức, có hiệu lực ngay lập tức. Kể từ khi nắm quyền lãnh đạo Komptex tám năm trước, ông Zablonski đã đóng vai trò then chốt trong việc xây dựng quan hệ với các hãng phim và hãng truyền hình lớn, trong đó có các dự án hợp tác gần đây của Komptex với Hoorah Filmworks. Jarvis Wang, phó chủ tịch phụ trách nhân sự của Komptex, nói: “Sid đã dẫn dắt công ty qua nhiều bước tiến lớn. Thành công hiện nay của công ty phần lớn là nhờ ông, và chúng tôi sẽ mãi biết ơn tầm nhìn và sự chủ động của ông.”\n\nHarriet Trudeau, giám đốc sáng tạo của Camden Entertainment trong năm năm qua, sẽ đảm nhận vị trí mà ông Zablonski để lại. Trước khi làm ở Camden Entertainment, bà Trudeau là phó chủ tịch cấp cao của phòng tiếp thị và quảng cáo tại McNamus Brothers. Tại Komptex, bà sẽ tập trung mở rộng các mảng truyền hình, tin tức, tài chính và truyền thông dành cho trẻ em của công ty. Tiểu sử ngắn và danh sách thành tích nghề nghiệp của bà Trudeau có trên trang web của công ty tại www.komptex.com/bios.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-16",
+          "no": 14,
+          "text": "In the press release, the word \"assume\" in paragraph 2, line 3 is closest in meaning to",
+          "options": {
+            "A": "take on",
+            "B": "expect",
+            "C": "apply for",
+            "D": "understand"
+          },
+          "answer": "A",
+          "explain": "“will assume the position vacated by Mr. Zablonski” → assume a position = đảm nhận, nhận lấy chức vụ = take on.",
+          "passage": {
+            "text": "Date: Thursday, 23 July 11:45:29\nSubject: Sid Zablonski\nFrom: \"Lewis Cucuk\" <lcucuk@komptex.com>\nTo: jarvisw@komptex.com; sloanet@komptex.com; joanmac@komptex.com; giles@komptex.com\n\nFirst of all, thank you all for a very productive meeting this morning. This message confirms our agreement on the main points of the media report Komptex will release to the press at 4 P.M. this afternoon.\n\nThe report will be brief and to the point. It will announce Sid Zablonski's resignation and the appointment of his replacement. There will be no references to Mr. Zablonski's reasons for resigning his position. Sid has asked us to respect his privacy, and we intend to do that. The media will be asked to contact the vice president of human resources with any follow-up questions.\n\nThank you for your cooperation and support.\n\nLewis Cucuk\nPresident\nKomptex, Inc.\n\n———\n\nChange in Leadership at Komptex, Inc.\nPress Release\nJuly 23, 16:00\n\nKomptex has just announced the resignation of its chief executive officer, Sid Zablonski, effective immediately. Since taking over the leadership of Komptex eight years ago, Mr. Zablonski has been instrumental in building relationships with major film companies and broadcast studios, including Komptex' recent collaborations with Hoorah Filmworks. Jarvis Wang, vice president of human resources at Komptex, said, \"Sid led our company through some major advancements. We owe a lot of the company's current success to him, and we will be forever grateful for his insight and initiative.\"\n\nHarriet Trudeau, the creative director of Camden Entertainment for the past five years, will assume the position vacated by Mr. Zablonski. Prior to her position at Camden Entertainment, Ms. Trudeau was senior vice president of McNamus Brothers' marketing and advertising department. At Komptex, she will focus on expanding the company's television, news, finance, and children's media initiatives. A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site at www.komptex.com/bios."
+          },
+          "vi": "Ngày: Thứ Năm, 23 tháng Bảy, 11:45:29\nTiêu đề: Sid Zablonski\nTừ: Lewis Cucuk\nĐến: jarvisw, sloanet, joanmac, giles (@komptex.com)\n\nTrước hết, cảm ơn tất cả mọi người vì cuộc họp rất hiệu quả sáng nay. Thư này xác nhận những điểm chính chúng ta đã thống nhất cho bản tin truyền thông mà Komptex sẽ công bố với báo chí lúc 4 giờ chiều nay.\n\nBản tin sẽ ngắn gọn và đi thẳng vào vấn đề. Nó sẽ thông báo việc Sid Zablonski từ chức và việc bổ nhiệm người thay thế ông. Sẽ không đề cập đến lý do ông Zablonski từ chức. Sid đã đề nghị chúng ta tôn trọng sự riêng tư của ông, và chúng ta sẽ làm vậy. Giới truyền thông sẽ được đề nghị liên hệ với phó chủ tịch phụ trách nhân sự nếu có câu hỏi tiếp theo.\n\nCảm ơn mọi người đã hợp tác và ủng hộ.\n\nLewis Cucuk\nChủ tịch\nKomptex, Inc.\n\n———\n\nThay đổi lãnh đạo tại Komptex, Inc.\nThông cáo báo chí\n23 tháng Bảy, 16:00\n\nKomptex vừa thông báo việc giám đốc điều hành Sid Zablonski từ chức, có hiệu lực ngay lập tức. Kể từ khi nắm quyền lãnh đạo Komptex tám năm trước, ông Zablonski đã đóng vai trò then chốt trong việc xây dựng quan hệ với các hãng phim và hãng truyền hình lớn, trong đó có các dự án hợp tác gần đây của Komptex với Hoorah Filmworks. Jarvis Wang, phó chủ tịch phụ trách nhân sự của Komptex, nói: “Sid đã dẫn dắt công ty qua nhiều bước tiến lớn. Thành công hiện nay của công ty phần lớn là nhờ ông, và chúng tôi sẽ mãi biết ơn tầm nhìn và sự chủ động của ông.”\n\nHarriet Trudeau, giám đốc sáng tạo của Camden Entertainment trong năm năm qua, sẽ đảm nhận vị trí mà ông Zablonski để lại. Trước khi làm ở Camden Entertainment, bà Trudeau là phó chủ tịch cấp cao của phòng tiếp thị và quảng cáo tại McNamus Brothers. Tại Komptex, bà sẽ tập trung mở rộng các mảng truyền hình, tin tức, tài chính và truyền thông dành cho trẻ em của công ty. Tiểu sử ngắn và danh sách thành tích nghề nghiệp của bà Trudeau có trên trang web của công ty tại www.komptex.com/bios.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-17",
+          "no": 15,
+          "text": "According to the press release, what can be found on the company's Web site?",
+          "options": {
+            "A": "News of future company projects",
+            "B": "Details of the latest advertising campaign",
+            "C": "A statement about Sid Zablonski",
+            "D": "Information about Harriet Trudeau"
+          },
+          "answer": "D",
+          "explain": "“A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site” → thông tin về Harriet Trudeau.",
+          "passage": {
+            "text": "Date: Thursday, 23 July 11:45:29\nSubject: Sid Zablonski\nFrom: \"Lewis Cucuk\" <lcucuk@komptex.com>\nTo: jarvisw@komptex.com; sloanet@komptex.com; joanmac@komptex.com; giles@komptex.com\n\nFirst of all, thank you all for a very productive meeting this morning. This message confirms our agreement on the main points of the media report Komptex will release to the press at 4 P.M. this afternoon.\n\nThe report will be brief and to the point. It will announce Sid Zablonski's resignation and the appointment of his replacement. There will be no references to Mr. Zablonski's reasons for resigning his position. Sid has asked us to respect his privacy, and we intend to do that. The media will be asked to contact the vice president of human resources with any follow-up questions.\n\nThank you for your cooperation and support.\n\nLewis Cucuk\nPresident\nKomptex, Inc.\n\n———\n\nChange in Leadership at Komptex, Inc.\nPress Release\nJuly 23, 16:00\n\nKomptex has just announced the resignation of its chief executive officer, Sid Zablonski, effective immediately. Since taking over the leadership of Komptex eight years ago, Mr. Zablonski has been instrumental in building relationships with major film companies and broadcast studios, including Komptex' recent collaborations with Hoorah Filmworks. Jarvis Wang, vice president of human resources at Komptex, said, \"Sid led our company through some major advancements. We owe a lot of the company's current success to him, and we will be forever grateful for his insight and initiative.\"\n\nHarriet Trudeau, the creative director of Camden Entertainment for the past five years, will assume the position vacated by Mr. Zablonski. Prior to her position at Camden Entertainment, Ms. Trudeau was senior vice president of McNamus Brothers' marketing and advertising department. At Komptex, she will focus on expanding the company's television, news, finance, and children's media initiatives. A short biography of Ms. Trudeau and a list of her professional achievements can be found on the company Web site at www.komptex.com/bios."
+          },
+          "vi": "Ngày: Thứ Năm, 23 tháng Bảy, 11:45:29\nTiêu đề: Sid Zablonski\nTừ: Lewis Cucuk\nĐến: jarvisw, sloanet, joanmac, giles (@komptex.com)\n\nTrước hết, cảm ơn tất cả mọi người vì cuộc họp rất hiệu quả sáng nay. Thư này xác nhận những điểm chính chúng ta đã thống nhất cho bản tin truyền thông mà Komptex sẽ công bố với báo chí lúc 4 giờ chiều nay.\n\nBản tin sẽ ngắn gọn và đi thẳng vào vấn đề. Nó sẽ thông báo việc Sid Zablonski từ chức và việc bổ nhiệm người thay thế ông. Sẽ không đề cập đến lý do ông Zablonski từ chức. Sid đã đề nghị chúng ta tôn trọng sự riêng tư của ông, và chúng ta sẽ làm vậy. Giới truyền thông sẽ được đề nghị liên hệ với phó chủ tịch phụ trách nhân sự nếu có câu hỏi tiếp theo.\n\nCảm ơn mọi người đã hợp tác và ủng hộ.\n\nLewis Cucuk\nChủ tịch\nKomptex, Inc.\n\n———\n\nThay đổi lãnh đạo tại Komptex, Inc.\nThông cáo báo chí\n23 tháng Bảy, 16:00\n\nKomptex vừa thông báo việc giám đốc điều hành Sid Zablonski từ chức, có hiệu lực ngay lập tức. Kể từ khi nắm quyền lãnh đạo Komptex tám năm trước, ông Zablonski đã đóng vai trò then chốt trong việc xây dựng quan hệ với các hãng phim và hãng truyền hình lớn, trong đó có các dự án hợp tác gần đây của Komptex với Hoorah Filmworks. Jarvis Wang, phó chủ tịch phụ trách nhân sự của Komptex, nói: “Sid đã dẫn dắt công ty qua nhiều bước tiến lớn. Thành công hiện nay của công ty phần lớn là nhờ ông, và chúng tôi sẽ mãi biết ơn tầm nhìn và sự chủ động của ông.”\n\nHarriet Trudeau, giám đốc sáng tạo của Camden Entertainment trong năm năm qua, sẽ đảm nhận vị trí mà ông Zablonski để lại. Trước khi làm ở Camden Entertainment, bà Trudeau là phó chủ tịch cấp cao của phòng tiếp thị và quảng cáo tại McNamus Brothers. Tại Komptex, bà sẽ tập trung mở rộng các mảng truyền hình, tin tức, tài chính và truyền thông dành cho trẻ em của công ty. Tiểu sử ngắn và danh sách thành tích nghề nghiệp của bà Trudeau có trên trang web của công ty tại www.komptex.com/bios.",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d25-read5",
+      "code": "read5",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: Internship inquiry letters",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "questions": [
+        {
+          "id": "d25-read-18",
+          "no": 16,
+          "text": "What does Ms. Warren hope to do?",
+          "options": {
+            "A": "Direct an advertising campaign",
+            "B": "Write for a newspaper",
+            "C": "Train at a company",
+            "D": "Manage a human resources department"
+          },
+          "answer": "C",
+          "explain": "“to express my interest in an internship at your company … an internship that will offer training as a focus group discussion moderator” → muốn thực tập, được đào tạo tại công ty.",
+          "passage": {
+            "text": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nMarch 12\n\nDear Ms. Paxton,\n\nI spoke to your assistant on the telephone last Thursday, and she suggested that I write directly to you to express my interest in an internship at your company.\n\nI will graduate soon and I am seeking hands-on experience in market research. Specifically, I am interested in an internship that will offer training as a focus group discussion moderator. I believe that my business degree and my interpersonal skills qualify me for an internship in this area.\n\nAs my enclosed résumé indicates, I served as a part-time assistant to the moderator of focus groups at Mauer Advertising for one academic year. My other related experience includes conducting opinion polls for my university newspaper and observing focus groups for an advertising class at the university. I am extremely interested in working at Advertising Research Group and would welcome an opportunity to speak with you further about the internships you have available.\n\nSincerely yours,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nApril 6\n\nDear Ms. Warren,\n\nThank you for your letter and your résumé. We are always interested in providing opportunities to recent graduates with your experience and qualifications. Unfortunately, at the present time we have no open internships that match your specific interest. On a more positive note, however, we are looking for a trainee to help conduct market research opinion polls. It is a one-year internship that could lead to the offer of permanent employment. If this type of work interests you, I suggest you contact Juan Santos, the head of our human resources department, to discuss the responsibilities of the internship.\n\nYours truly,\nKaren Paxton\nAdvertising Research Group"
+          },
+          "vi": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nNgày 12 tháng Ba\n\nKính gửi bà Paxton,\n\nThứ Năm tuần trước tôi đã nói chuyện điện thoại với trợ lý của bà, và cô ấy gợi ý tôi viết thư trực tiếp cho bà để bày tỏ mong muốn được thực tập tại công ty.\n\nTôi sắp tốt nghiệp và đang tìm kiếm kinh nghiệm thực tế trong nghiên cứu thị trường. Cụ thể, tôi quan tâm đến một kỳ thực tập có đào tạo làm người điều phối thảo luận nhóm tập trung (focus group). Tôi tin rằng bằng kinh doanh và kỹ năng giao tiếp của tôi giúp tôi đủ điều kiện thực tập trong lĩnh vực này.\n\nNhư sơ yếu lý lịch kèm theo cho thấy, tôi đã làm trợ lý bán thời gian cho người điều phối các nhóm tập trung tại Mauer Advertising trong một năm học. Các kinh nghiệm liên quan khác của tôi gồm thực hiện các cuộc thăm dò ý kiến cho tờ báo của trường đại học và quan sát các nhóm tập trung cho một lớp học quảng cáo ở trường. Tôi rất muốn được làm việc tại Advertising Research Group và mong có cơ hội trao đổi thêm với bà về các vị trí thực tập hiện có.\n\nTrân trọng,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nNgày 6 tháng Tư\n\nKính gửi cô Warren,\n\nCảm ơn cô đã gửi thư và sơ yếu lý lịch. Chúng tôi luôn muốn tạo cơ hội cho những người mới tốt nghiệp có kinh nghiệm và trình độ như cô. Đáng tiếc là hiện tại chúng tôi không có vị trí thực tập nào phù hợp với mong muốn cụ thể của cô. Tuy nhiên, về mặt tích cực hơn, chúng tôi đang tìm một thực tập sinh hỗ trợ thực hiện các cuộc thăm dò ý kiến nghiên cứu thị trường. Đây là kỳ thực tập một năm và có thể dẫn đến lời mời làm việc chính thức. Nếu cô quan tâm đến loại công việc này, tôi đề nghị cô liên hệ với Juan Santos, trưởng phòng nhân sự của chúng tôi, để trao đổi về các nhiệm vụ của kỳ thực tập.\n\nTrân trọng,\nKaren Paxton\nAdvertising Research Group",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-19",
+          "no": 17,
+          "text": "What previous experience does Ms. Warren mention?",
+          "options": {
+            "A": "She was an assistant at an advertising agency.",
+            "B": "She taught a marketing course.",
+            "C": "She sold newspaper advertisements.",
+            "D": "She was a telephone marketer."
+          },
+          "answer": "A",
+          "explain": "“I served as a part-time assistant to the moderator of focus groups at Mauer Advertising” → từng làm trợ lý ở một công ty quảng cáo.",
+          "passage": {
+            "text": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nMarch 12\n\nDear Ms. Paxton,\n\nI spoke to your assistant on the telephone last Thursday, and she suggested that I write directly to you to express my interest in an internship at your company.\n\nI will graduate soon and I am seeking hands-on experience in market research. Specifically, I am interested in an internship that will offer training as a focus group discussion moderator. I believe that my business degree and my interpersonal skills qualify me for an internship in this area.\n\nAs my enclosed résumé indicates, I served as a part-time assistant to the moderator of focus groups at Mauer Advertising for one academic year. My other related experience includes conducting opinion polls for my university newspaper and observing focus groups for an advertising class at the university. I am extremely interested in working at Advertising Research Group and would welcome an opportunity to speak with you further about the internships you have available.\n\nSincerely yours,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nApril 6\n\nDear Ms. Warren,\n\nThank you for your letter and your résumé. We are always interested in providing opportunities to recent graduates with your experience and qualifications. Unfortunately, at the present time we have no open internships that match your specific interest. On a more positive note, however, we are looking for a trainee to help conduct market research opinion polls. It is a one-year internship that could lead to the offer of permanent employment. If this type of work interests you, I suggest you contact Juan Santos, the head of our human resources department, to discuss the responsibilities of the internship.\n\nYours truly,\nKaren Paxton\nAdvertising Research Group"
+          },
+          "vi": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nNgày 12 tháng Ba\n\nKính gửi bà Paxton,\n\nThứ Năm tuần trước tôi đã nói chuyện điện thoại với trợ lý của bà, và cô ấy gợi ý tôi viết thư trực tiếp cho bà để bày tỏ mong muốn được thực tập tại công ty.\n\nTôi sắp tốt nghiệp và đang tìm kiếm kinh nghiệm thực tế trong nghiên cứu thị trường. Cụ thể, tôi quan tâm đến một kỳ thực tập có đào tạo làm người điều phối thảo luận nhóm tập trung (focus group). Tôi tin rằng bằng kinh doanh và kỹ năng giao tiếp của tôi giúp tôi đủ điều kiện thực tập trong lĩnh vực này.\n\nNhư sơ yếu lý lịch kèm theo cho thấy, tôi đã làm trợ lý bán thời gian cho người điều phối các nhóm tập trung tại Mauer Advertising trong một năm học. Các kinh nghiệm liên quan khác của tôi gồm thực hiện các cuộc thăm dò ý kiến cho tờ báo của trường đại học và quan sát các nhóm tập trung cho một lớp học quảng cáo ở trường. Tôi rất muốn được làm việc tại Advertising Research Group và mong có cơ hội trao đổi thêm với bà về các vị trí thực tập hiện có.\n\nTrân trọng,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nNgày 6 tháng Tư\n\nKính gửi cô Warren,\n\nCảm ơn cô đã gửi thư và sơ yếu lý lịch. Chúng tôi luôn muốn tạo cơ hội cho những người mới tốt nghiệp có kinh nghiệm và trình độ như cô. Đáng tiếc là hiện tại chúng tôi không có vị trí thực tập nào phù hợp với mong muốn cụ thể của cô. Tuy nhiên, về mặt tích cực hơn, chúng tôi đang tìm một thực tập sinh hỗ trợ thực hiện các cuộc thăm dò ý kiến nghiên cứu thị trường. Đây là kỳ thực tập một năm và có thể dẫn đến lời mời làm việc chính thức. Nếu cô quan tâm đến loại công việc này, tôi đề nghị cô liên hệ với Juan Santos, trưởng phòng nhân sự của chúng tôi, để trao đổi về các nhiệm vụ của kỳ thực tập.\n\nTrân trọng,\nKaren Paxton\nAdvertising Research Group",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-20",
+          "no": 18,
+          "text": "What news does Ms. Paxton give Ms. Warren?",
+          "options": {
+            "A": "Ms. Warren does not have sufficient work experience.",
+            "B": "The company has no openings for work with focus groups.",
+            "C": "Ms. Warren needs more education to qualify for a job.",
+            "D": "The company is not offering internships at present."
+          },
+          "answer": "B",
+          "explain": "“we have no open internships that match your specific interest” — mong muốn cụ thể của cô là làm người điều phối nhóm tập trung → không có chỗ cho công việc với focus group. Công ty vẫn đang tuyển một thực tập sinh làm thăm dò ý kiến (D sai).",
+          "passage": {
+            "text": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nMarch 12\n\nDear Ms. Paxton,\n\nI spoke to your assistant on the telephone last Thursday, and she suggested that I write directly to you to express my interest in an internship at your company.\n\nI will graduate soon and I am seeking hands-on experience in market research. Specifically, I am interested in an internship that will offer training as a focus group discussion moderator. I believe that my business degree and my interpersonal skills qualify me for an internship in this area.\n\nAs my enclosed résumé indicates, I served as a part-time assistant to the moderator of focus groups at Mauer Advertising for one academic year. My other related experience includes conducting opinion polls for my university newspaper and observing focus groups for an advertising class at the university. I am extremely interested in working at Advertising Research Group and would welcome an opportunity to speak with you further about the internships you have available.\n\nSincerely yours,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nApril 6\n\nDear Ms. Warren,\n\nThank you for your letter and your résumé. We are always interested in providing opportunities to recent graduates with your experience and qualifications. Unfortunately, at the present time we have no open internships that match your specific interest. On a more positive note, however, we are looking for a trainee to help conduct market research opinion polls. It is a one-year internship that could lead to the offer of permanent employment. If this type of work interests you, I suggest you contact Juan Santos, the head of our human resources department, to discuss the responsibilities of the internship.\n\nYours truly,\nKaren Paxton\nAdvertising Research Group"
+          },
+          "vi": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nNgày 12 tháng Ba\n\nKính gửi bà Paxton,\n\nThứ Năm tuần trước tôi đã nói chuyện điện thoại với trợ lý của bà, và cô ấy gợi ý tôi viết thư trực tiếp cho bà để bày tỏ mong muốn được thực tập tại công ty.\n\nTôi sắp tốt nghiệp và đang tìm kiếm kinh nghiệm thực tế trong nghiên cứu thị trường. Cụ thể, tôi quan tâm đến một kỳ thực tập có đào tạo làm người điều phối thảo luận nhóm tập trung (focus group). Tôi tin rằng bằng kinh doanh và kỹ năng giao tiếp của tôi giúp tôi đủ điều kiện thực tập trong lĩnh vực này.\n\nNhư sơ yếu lý lịch kèm theo cho thấy, tôi đã làm trợ lý bán thời gian cho người điều phối các nhóm tập trung tại Mauer Advertising trong một năm học. Các kinh nghiệm liên quan khác của tôi gồm thực hiện các cuộc thăm dò ý kiến cho tờ báo của trường đại học và quan sát các nhóm tập trung cho một lớp học quảng cáo ở trường. Tôi rất muốn được làm việc tại Advertising Research Group và mong có cơ hội trao đổi thêm với bà về các vị trí thực tập hiện có.\n\nTrân trọng,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nNgày 6 tháng Tư\n\nKính gửi cô Warren,\n\nCảm ơn cô đã gửi thư và sơ yếu lý lịch. Chúng tôi luôn muốn tạo cơ hội cho những người mới tốt nghiệp có kinh nghiệm và trình độ như cô. Đáng tiếc là hiện tại chúng tôi không có vị trí thực tập nào phù hợp với mong muốn cụ thể của cô. Tuy nhiên, về mặt tích cực hơn, chúng tôi đang tìm một thực tập sinh hỗ trợ thực hiện các cuộc thăm dò ý kiến nghiên cứu thị trường. Đây là kỳ thực tập một năm và có thể dẫn đến lời mời làm việc chính thức. Nếu cô quan tâm đến loại công việc này, tôi đề nghị cô liên hệ với Juan Santos, trưởng phòng nhân sự của chúng tôi, để trao đổi về các nhiệm vụ của kỳ thực tập.\n\nTrân trọng,\nKaren Paxton\nAdvertising Research Group",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-21",
+          "no": 19,
+          "text": "Why should Ms. Warren contact Juan Santos?",
+          "options": {
+            "A": "To set up a training session",
+            "B": "To obtain work documents",
+            "C": "To be included in an opinion poll",
+            "D": "To learn more about an opportunity"
+          },
+          "answer": "D",
+          "explain": "“I suggest you contact Juan Santos … to discuss the responsibilities of the internship” → tìm hiểu thêm về cơ hội thực tập.",
+          "passage": {
+            "text": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nMarch 12\n\nDear Ms. Paxton,\n\nI spoke to your assistant on the telephone last Thursday, and she suggested that I write directly to you to express my interest in an internship at your company.\n\nI will graduate soon and I am seeking hands-on experience in market research. Specifically, I am interested in an internship that will offer training as a focus group discussion moderator. I believe that my business degree and my interpersonal skills qualify me for an internship in this area.\n\nAs my enclosed résumé indicates, I served as a part-time assistant to the moderator of focus groups at Mauer Advertising for one academic year. My other related experience includes conducting opinion polls for my university newspaper and observing focus groups for an advertising class at the university. I am extremely interested in working at Advertising Research Group and would welcome an opportunity to speak with you further about the internships you have available.\n\nSincerely yours,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nApril 6\n\nDear Ms. Warren,\n\nThank you for your letter and your résumé. We are always interested in providing opportunities to recent graduates with your experience and qualifications. Unfortunately, at the present time we have no open internships that match your specific interest. On a more positive note, however, we are looking for a trainee to help conduct market research opinion polls. It is a one-year internship that could lead to the offer of permanent employment. If this type of work interests you, I suggest you contact Juan Santos, the head of our human resources department, to discuss the responsibilities of the internship.\n\nYours truly,\nKaren Paxton\nAdvertising Research Group"
+          },
+          "vi": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nNgày 12 tháng Ba\n\nKính gửi bà Paxton,\n\nThứ Năm tuần trước tôi đã nói chuyện điện thoại với trợ lý của bà, và cô ấy gợi ý tôi viết thư trực tiếp cho bà để bày tỏ mong muốn được thực tập tại công ty.\n\nTôi sắp tốt nghiệp và đang tìm kiếm kinh nghiệm thực tế trong nghiên cứu thị trường. Cụ thể, tôi quan tâm đến một kỳ thực tập có đào tạo làm người điều phối thảo luận nhóm tập trung (focus group). Tôi tin rằng bằng kinh doanh và kỹ năng giao tiếp của tôi giúp tôi đủ điều kiện thực tập trong lĩnh vực này.\n\nNhư sơ yếu lý lịch kèm theo cho thấy, tôi đã làm trợ lý bán thời gian cho người điều phối các nhóm tập trung tại Mauer Advertising trong một năm học. Các kinh nghiệm liên quan khác của tôi gồm thực hiện các cuộc thăm dò ý kiến cho tờ báo của trường đại học và quan sát các nhóm tập trung cho một lớp học quảng cáo ở trường. Tôi rất muốn được làm việc tại Advertising Research Group và mong có cơ hội trao đổi thêm với bà về các vị trí thực tập hiện có.\n\nTrân trọng,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nNgày 6 tháng Tư\n\nKính gửi cô Warren,\n\nCảm ơn cô đã gửi thư và sơ yếu lý lịch. Chúng tôi luôn muốn tạo cơ hội cho những người mới tốt nghiệp có kinh nghiệm và trình độ như cô. Đáng tiếc là hiện tại chúng tôi không có vị trí thực tập nào phù hợp với mong muốn cụ thể của cô. Tuy nhiên, về mặt tích cực hơn, chúng tôi đang tìm một thực tập sinh hỗ trợ thực hiện các cuộc thăm dò ý kiến nghiên cứu thị trường. Đây là kỳ thực tập một năm và có thể dẫn đến lời mời làm việc chính thức. Nếu cô quan tâm đến loại công việc này, tôi đề nghị cô liên hệ với Juan Santos, trưởng phòng nhân sự của chúng tôi, để trao đổi về các nhiệm vụ của kỳ thực tập.\n\nTrân trọng,\nKaren Paxton\nAdvertising Research Group",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-22",
+          "no": 20,
+          "text": "In the second letter, the word \"positive\" in line 4 is closest in meaning to",
+          "options": {
+            "A": "convinced",
+            "B": "plausible",
+            "C": "optimistic",
+            "D": "absolute"
+          },
+          "answer": "C",
+          "explain": "“On a more positive note, however” → sau tin xấu là một tin tốt hơn, mang tính lạc quan = optimistic. “positive” nghĩa “chắc chắn” (convinced/absolute) không hợp ngữ cảnh này.",
+          "passage": {
+            "text": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nMarch 12\n\nDear Ms. Paxton,\n\nI spoke to your assistant on the telephone last Thursday, and she suggested that I write directly to you to express my interest in an internship at your company.\n\nI will graduate soon and I am seeking hands-on experience in market research. Specifically, I am interested in an internship that will offer training as a focus group discussion moderator. I believe that my business degree and my interpersonal skills qualify me for an internship in this area.\n\nAs my enclosed résumé indicates, I served as a part-time assistant to the moderator of focus groups at Mauer Advertising for one academic year. My other related experience includes conducting opinion polls for my university newspaper and observing focus groups for an advertising class at the university. I am extremely interested in working at Advertising Research Group and would welcome an opportunity to speak with you further about the internships you have available.\n\nSincerely yours,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nApril 6\n\nDear Ms. Warren,\n\nThank you for your letter and your résumé. We are always interested in providing opportunities to recent graduates with your experience and qualifications. Unfortunately, at the present time we have no open internships that match your specific interest. On a more positive note, however, we are looking for a trainee to help conduct market research opinion polls. It is a one-year internship that could lead to the offer of permanent employment. If this type of work interests you, I suggest you contact Juan Santos, the head of our human resources department, to discuss the responsibilities of the internship.\n\nYours truly,\nKaren Paxton\nAdvertising Research Group"
+          },
+          "vi": "Karen Paxton\nAdvertising Research Group\n305 Jefferson Avenue\nNew York, NY 10023\n\nNgày 12 tháng Ba\n\nKính gửi bà Paxton,\n\nThứ Năm tuần trước tôi đã nói chuyện điện thoại với trợ lý của bà, và cô ấy gợi ý tôi viết thư trực tiếp cho bà để bày tỏ mong muốn được thực tập tại công ty.\n\nTôi sắp tốt nghiệp và đang tìm kiếm kinh nghiệm thực tế trong nghiên cứu thị trường. Cụ thể, tôi quan tâm đến một kỳ thực tập có đào tạo làm người điều phối thảo luận nhóm tập trung (focus group). Tôi tin rằng bằng kinh doanh và kỹ năng giao tiếp của tôi giúp tôi đủ điều kiện thực tập trong lĩnh vực này.\n\nNhư sơ yếu lý lịch kèm theo cho thấy, tôi đã làm trợ lý bán thời gian cho người điều phối các nhóm tập trung tại Mauer Advertising trong một năm học. Các kinh nghiệm liên quan khác của tôi gồm thực hiện các cuộc thăm dò ý kiến cho tờ báo của trường đại học và quan sát các nhóm tập trung cho một lớp học quảng cáo ở trường. Tôi rất muốn được làm việc tại Advertising Research Group và mong có cơ hội trao đổi thêm với bà về các vị trí thực tập hiện có.\n\nTrân trọng,\nRita Warren\n\n———\n\nRita Warren\n3 Carver Street\nBrooklyn, NY 11201\n\nNgày 6 tháng Tư\n\nKính gửi cô Warren,\n\nCảm ơn cô đã gửi thư và sơ yếu lý lịch. Chúng tôi luôn muốn tạo cơ hội cho những người mới tốt nghiệp có kinh nghiệm và trình độ như cô. Đáng tiếc là hiện tại chúng tôi không có vị trí thực tập nào phù hợp với mong muốn cụ thể của cô. Tuy nhiên, về mặt tích cực hơn, chúng tôi đang tìm một thực tập sinh hỗ trợ thực hiện các cuộc thăm dò ý kiến nghiên cứu thị trường. Đây là kỳ thực tập một năm và có thể dẫn đến lời mời làm việc chính thức. Nếu cô quan tâm đến loại công việc này, tôi đề nghị cô liên hệ với Juan Santos, trưởng phòng nhân sự của chúng tôi, để trao đổi về các nhiệm vụ của kỳ thực tập.\n\nTrân trọng,\nKaren Paxton\nAdvertising Research Group",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d25-read6",
+      "code": "read6",
+      "part": 7,
+      "kind": "choice",
+      "title": "Part 7 — Session 3 Unit 1: Cam & Cornelius moving sale and e-mails",
+      "subtitle": "Translate the passage, choose an answer, and find the supporting evidence.",
+      "sourceDocument": "D16 S3 UNIT1.pdf",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "questions": [
+        {
+          "id": "d25-read-23",
+          "no": 21,
+          "text": "What will happen on Darwin Street?",
+          "options": {
+            "A": "A man will build new chairs.",
+            "B": "A store will have a sale.",
+            "C": "A new furniture shop will open.",
+            "D": "A delivery will be made to a bakery."
+          },
+          "answer": "B",
+          "explain": "Quảng cáo: “Old Address: 1304 Darwin Street” và “we are having a big inventory sale! April 22-27” → đợt bán hàng diễn ra ở địa chỉ cũ trên Darwin Street. Cửa hàng mới ở Pitt Road (C sai).",
+          "passage": {
+            "text": "Moving Sale!\n\nCam & Cornelius is moving! We can't bring everything to our new location, so we are having a big inventory sale!\n\nApril 22-27\nOpen Mon. - Sat. 10 A.M. - 8 P.M.\n\n25% off tables and chairs\n35% off sofas\n40% off bedding\n50% off kitchenware\n\nRemember to visit us starting May 1 at our new place!\nOld Address: 1304 Darwin Street → New Address: 1425 Pitt Road\n\n———\n\nTo: Cornelius Kwon <ckwon@corneliusplace.com>\nFrom: Emily Mancini <emily@mydeliciousbakery.com>\nDate: April 17\nSubject: Product Inquiry\n\nDear Mr. Kwon,\n\nI saw your advertisement and was interested in purchasing some items for my new bakery.\n\nFirst, I would like approximately 75 white porcelain plates of all different sizes and shapes. Also, I will be needing 4 wooden tables and 16 wooden chairs. There should be four seats per table. The table measurements should be 76 centimeters in height, 152 centimeters in length, and 96 centimeters in width.\n\nIf you have any of the requested products in stock, I can visit Cam & Cornelius on the first day of the sale to see the items in person. Thank you.\n\nSincerely,\nEmily Mancini\n\n———\n\nTo: Emily Mancini <emily@mydeliciousbakery.com>\nFrom: Cornelius Kwon <ckwon@corneliusplace.com>\nDate: April 18\nSubject: RE: Product Inquiry\n\nDear Ms. Mancini,\n\nThank you for choosing Cam & Cornelius. I have checked our inventory and listed all the dishware that meets your requirements.\n\nName — Description — Number of items\nRayna — 12 centimeters, square — 15\nChelsea — 18 centimeters, round — 19\nStephano — 46 centimeters long, 38 centimeters wide, rectangular — 23\n\nAs for the tables and chairs, I do not have any that fit your requirements.\n\nI will set aside all the merchandise mentioned above. I look forward to seeing you at the store.\n\nRegards,\nCornelius Kwon"
+          },
+          "vi": "Bán hàng chuyển địa điểm!\n\nCam & Cornelius sắp chuyển nhà! Chúng tôi không thể mang hết mọi thứ đến địa điểm mới, nên chúng tôi tổ chức đợt bán xả hàng tồn kho lớn!\n\n22–27 tháng Tư\nMở cửa thứ Hai – thứ Bảy, 10 giờ sáng – 8 giờ tối\n\nGiảm 25% bàn và ghế\nGiảm 35% ghế sofa\nGiảm 40% chăn ga gối đệm\nGiảm 50% đồ dùng nhà bếp\n\nHãy nhớ ghé thăm chúng tôi tại địa điểm mới từ ngày 1 tháng Năm!\nĐịa chỉ cũ: 1304 Darwin Street → Địa chỉ mới: 1425 Pitt Road\n\n———\n\nĐến: Cornelius Kwon\nTừ: Emily Mancini\nNgày: 17 tháng Tư\nTiêu đề: Hỏi về sản phẩm\n\nKính gửi ông Kwon,\n\nTôi đã xem quảng cáo của ông và muốn mua một số món đồ cho tiệm bánh mới của tôi.\n\nTrước hết, tôi muốn khoảng 75 chiếc đĩa sứ trắng đủ mọi kích cỡ và hình dạng. Ngoài ra, tôi cần 4 bàn gỗ và 16 ghế gỗ, mỗi bàn bốn chỗ ngồi. Kích thước bàn: cao 76 cm, dài 152 cm, rộng 96 cm.\n\nNếu ông có sẵn bất kỳ sản phẩm nào tôi yêu cầu, tôi có thể đến Cam & Cornelius vào ngày đầu tiên của đợt giảm giá để xem trực tiếp. Cảm ơn ông.\n\nTrân trọng,\nEmily Mancini\n\n———\n\nĐến: Emily Mancini\nTừ: Cornelius Kwon\nNgày: 18 tháng Tư\nTiêu đề: Trả lời: Hỏi về sản phẩm\n\nKính gửi bà Mancini,\n\nCảm ơn bà đã chọn Cam & Cornelius. Tôi đã kiểm tra kho và liệt kê tất cả bát đĩa đáp ứng yêu cầu của bà.\n\nTên — Mô tả — Số lượng\nRayna — 12 cm, vuông — 15\nChelsea — 18 cm, tròn — 19\nStephano — dài 46 cm, rộng 38 cm, chữ nhật — 23\n\nVề bàn ghế, tôi không có loại nào phù hợp với yêu cầu của bà.\n\nTôi sẽ giữ lại tất cả hàng hóa nêu trên. Mong được gặp bà tại cửa hàng.\n\nTrân trọng,\nCornelius Kwon",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-24",
+          "no": 22,
+          "text": "What is NOT mentioned as one of Ms. Mancini's requirements for tables?",
+          "options": {
+            "A": "Each one should be made of wood.",
+            "B": "Each one should seat four people.",
+            "C": "Each one should be 76 centimeters high.",
+            "D": "Each one should have a circular shape."
+          },
+          "answer": "D",
+          "explain": "“4 wooden tables” (A), “four seats per table” (B), “76 centimeters in height” (C). Bàn có chiều dài 152 cm và rộng 96 cm, không hề nói hình tròn → D.",
+          "passage": {
+            "text": "Moving Sale!\n\nCam & Cornelius is moving! We can't bring everything to our new location, so we are having a big inventory sale!\n\nApril 22-27\nOpen Mon. - Sat. 10 A.M. - 8 P.M.\n\n25% off tables and chairs\n35% off sofas\n40% off bedding\n50% off kitchenware\n\nRemember to visit us starting May 1 at our new place!\nOld Address: 1304 Darwin Street → New Address: 1425 Pitt Road\n\n———\n\nTo: Cornelius Kwon <ckwon@corneliusplace.com>\nFrom: Emily Mancini <emily@mydeliciousbakery.com>\nDate: April 17\nSubject: Product Inquiry\n\nDear Mr. Kwon,\n\nI saw your advertisement and was interested in purchasing some items for my new bakery.\n\nFirst, I would like approximately 75 white porcelain plates of all different sizes and shapes. Also, I will be needing 4 wooden tables and 16 wooden chairs. There should be four seats per table. The table measurements should be 76 centimeters in height, 152 centimeters in length, and 96 centimeters in width.\n\nIf you have any of the requested products in stock, I can visit Cam & Cornelius on the first day of the sale to see the items in person. Thank you.\n\nSincerely,\nEmily Mancini\n\n———\n\nTo: Emily Mancini <emily@mydeliciousbakery.com>\nFrom: Cornelius Kwon <ckwon@corneliusplace.com>\nDate: April 18\nSubject: RE: Product Inquiry\n\nDear Ms. Mancini,\n\nThank you for choosing Cam & Cornelius. I have checked our inventory and listed all the dishware that meets your requirements.\n\nName — Description — Number of items\nRayna — 12 centimeters, square — 15\nChelsea — 18 centimeters, round — 19\nStephano — 46 centimeters long, 38 centimeters wide, rectangular — 23\n\nAs for the tables and chairs, I do not have any that fit your requirements.\n\nI will set aside all the merchandise mentioned above. I look forward to seeing you at the store.\n\nRegards,\nCornelius Kwon"
+          },
+          "vi": "Bán hàng chuyển địa điểm!\n\nCam & Cornelius sắp chuyển nhà! Chúng tôi không thể mang hết mọi thứ đến địa điểm mới, nên chúng tôi tổ chức đợt bán xả hàng tồn kho lớn!\n\n22–27 tháng Tư\nMở cửa thứ Hai – thứ Bảy, 10 giờ sáng – 8 giờ tối\n\nGiảm 25% bàn và ghế\nGiảm 35% ghế sofa\nGiảm 40% chăn ga gối đệm\nGiảm 50% đồ dùng nhà bếp\n\nHãy nhớ ghé thăm chúng tôi tại địa điểm mới từ ngày 1 tháng Năm!\nĐịa chỉ cũ: 1304 Darwin Street → Địa chỉ mới: 1425 Pitt Road\n\n———\n\nĐến: Cornelius Kwon\nTừ: Emily Mancini\nNgày: 17 tháng Tư\nTiêu đề: Hỏi về sản phẩm\n\nKính gửi ông Kwon,\n\nTôi đã xem quảng cáo của ông và muốn mua một số món đồ cho tiệm bánh mới của tôi.\n\nTrước hết, tôi muốn khoảng 75 chiếc đĩa sứ trắng đủ mọi kích cỡ và hình dạng. Ngoài ra, tôi cần 4 bàn gỗ và 16 ghế gỗ, mỗi bàn bốn chỗ ngồi. Kích thước bàn: cao 76 cm, dài 152 cm, rộng 96 cm.\n\nNếu ông có sẵn bất kỳ sản phẩm nào tôi yêu cầu, tôi có thể đến Cam & Cornelius vào ngày đầu tiên của đợt giảm giá để xem trực tiếp. Cảm ơn ông.\n\nTrân trọng,\nEmily Mancini\n\n———\n\nĐến: Emily Mancini\nTừ: Cornelius Kwon\nNgày: 18 tháng Tư\nTiêu đề: Trả lời: Hỏi về sản phẩm\n\nKính gửi bà Mancini,\n\nCảm ơn bà đã chọn Cam & Cornelius. Tôi đã kiểm tra kho và liệt kê tất cả bát đĩa đáp ứng yêu cầu của bà.\n\nTên — Mô tả — Số lượng\nRayna — 12 cm, vuông — 15\nChelsea — 18 cm, tròn — 19\nStephano — dài 46 cm, rộng 38 cm, chữ nhật — 23\n\nVề bàn ghế, tôi không có loại nào phù hợp với yêu cầu của bà.\n\nTôi sẽ giữ lại tất cả hàng hóa nêu trên. Mong được gặp bà tại cửa hàng.\n\nTrân trọng,\nCornelius Kwon",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-25",
+          "no": 23,
+          "text": "When will Ms. Mancini most likely go to Cam & Cornelius?",
+          "options": {
+            "A": "April 17",
+            "B": "April 18",
+            "C": "April 22",
+            "D": "April 27"
+          },
+          "answer": "C",
+          "explain": "E-mail 1: “I can visit Cam & Cornelius on the first day of the sale”. Quảng cáo: sale “April 22-27” → ngày đầu là 22 tháng Tư.",
+          "passage": {
+            "text": "Moving Sale!\n\nCam & Cornelius is moving! We can't bring everything to our new location, so we are having a big inventory sale!\n\nApril 22-27\nOpen Mon. - Sat. 10 A.M. - 8 P.M.\n\n25% off tables and chairs\n35% off sofas\n40% off bedding\n50% off kitchenware\n\nRemember to visit us starting May 1 at our new place!\nOld Address: 1304 Darwin Street → New Address: 1425 Pitt Road\n\n———\n\nTo: Cornelius Kwon <ckwon@corneliusplace.com>\nFrom: Emily Mancini <emily@mydeliciousbakery.com>\nDate: April 17\nSubject: Product Inquiry\n\nDear Mr. Kwon,\n\nI saw your advertisement and was interested in purchasing some items for my new bakery.\n\nFirst, I would like approximately 75 white porcelain plates of all different sizes and shapes. Also, I will be needing 4 wooden tables and 16 wooden chairs. There should be four seats per table. The table measurements should be 76 centimeters in height, 152 centimeters in length, and 96 centimeters in width.\n\nIf you have any of the requested products in stock, I can visit Cam & Cornelius on the first day of the sale to see the items in person. Thank you.\n\nSincerely,\nEmily Mancini\n\n———\n\nTo: Emily Mancini <emily@mydeliciousbakery.com>\nFrom: Cornelius Kwon <ckwon@corneliusplace.com>\nDate: April 18\nSubject: RE: Product Inquiry\n\nDear Ms. Mancini,\n\nThank you for choosing Cam & Cornelius. I have checked our inventory and listed all the dishware that meets your requirements.\n\nName — Description — Number of items\nRayna — 12 centimeters, square — 15\nChelsea — 18 centimeters, round — 19\nStephano — 46 centimeters long, 38 centimeters wide, rectangular — 23\n\nAs for the tables and chairs, I do not have any that fit your requirements.\n\nI will set aside all the merchandise mentioned above. I look forward to seeing you at the store.\n\nRegards,\nCornelius Kwon"
+          },
+          "vi": "Bán hàng chuyển địa điểm!\n\nCam & Cornelius sắp chuyển nhà! Chúng tôi không thể mang hết mọi thứ đến địa điểm mới, nên chúng tôi tổ chức đợt bán xả hàng tồn kho lớn!\n\n22–27 tháng Tư\nMở cửa thứ Hai – thứ Bảy, 10 giờ sáng – 8 giờ tối\n\nGiảm 25% bàn và ghế\nGiảm 35% ghế sofa\nGiảm 40% chăn ga gối đệm\nGiảm 50% đồ dùng nhà bếp\n\nHãy nhớ ghé thăm chúng tôi tại địa điểm mới từ ngày 1 tháng Năm!\nĐịa chỉ cũ: 1304 Darwin Street → Địa chỉ mới: 1425 Pitt Road\n\n———\n\nĐến: Cornelius Kwon\nTừ: Emily Mancini\nNgày: 17 tháng Tư\nTiêu đề: Hỏi về sản phẩm\n\nKính gửi ông Kwon,\n\nTôi đã xem quảng cáo của ông và muốn mua một số món đồ cho tiệm bánh mới của tôi.\n\nTrước hết, tôi muốn khoảng 75 chiếc đĩa sứ trắng đủ mọi kích cỡ và hình dạng. Ngoài ra, tôi cần 4 bàn gỗ và 16 ghế gỗ, mỗi bàn bốn chỗ ngồi. Kích thước bàn: cao 76 cm, dài 152 cm, rộng 96 cm.\n\nNếu ông có sẵn bất kỳ sản phẩm nào tôi yêu cầu, tôi có thể đến Cam & Cornelius vào ngày đầu tiên của đợt giảm giá để xem trực tiếp. Cảm ơn ông.\n\nTrân trọng,\nEmily Mancini\n\n———\n\nĐến: Emily Mancini\nTừ: Cornelius Kwon\nNgày: 18 tháng Tư\nTiêu đề: Trả lời: Hỏi về sản phẩm\n\nKính gửi bà Mancini,\n\nCảm ơn bà đã chọn Cam & Cornelius. Tôi đã kiểm tra kho và liệt kê tất cả bát đĩa đáp ứng yêu cầu của bà.\n\nTên — Mô tả — Số lượng\nRayna — 12 cm, vuông — 15\nChelsea — 18 cm, tròn — 19\nStephano — dài 46 cm, rộng 38 cm, chữ nhật — 23\n\nVề bàn ghế, tôi không có loại nào phù hợp với yêu cầu của bà.\n\nTôi sẽ giữ lại tất cả hàng hóa nêu trên. Mong được gặp bà tại cửa hàng.\n\nTrân trọng,\nCornelius Kwon",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-26",
+          "no": 24,
+          "text": "In the second e-mail, the word \"meets\" in paragraph 1, line 2, is closest in meaning to",
+          "options": {
+            "A": "greets",
+            "B": "fulfills",
+            "C": "purchases",
+            "D": "competes"
+          },
+          "answer": "B",
+          "explain": "“all the dishware that meets your requirements” → meet requirements = đáp ứng yêu cầu = fulfills.",
+          "passage": {
+            "text": "Moving Sale!\n\nCam & Cornelius is moving! We can't bring everything to our new location, so we are having a big inventory sale!\n\nApril 22-27\nOpen Mon. - Sat. 10 A.M. - 8 P.M.\n\n25% off tables and chairs\n35% off sofas\n40% off bedding\n50% off kitchenware\n\nRemember to visit us starting May 1 at our new place!\nOld Address: 1304 Darwin Street → New Address: 1425 Pitt Road\n\n———\n\nTo: Cornelius Kwon <ckwon@corneliusplace.com>\nFrom: Emily Mancini <emily@mydeliciousbakery.com>\nDate: April 17\nSubject: Product Inquiry\n\nDear Mr. Kwon,\n\nI saw your advertisement and was interested in purchasing some items for my new bakery.\n\nFirst, I would like approximately 75 white porcelain plates of all different sizes and shapes. Also, I will be needing 4 wooden tables and 16 wooden chairs. There should be four seats per table. The table measurements should be 76 centimeters in height, 152 centimeters in length, and 96 centimeters in width.\n\nIf you have any of the requested products in stock, I can visit Cam & Cornelius on the first day of the sale to see the items in person. Thank you.\n\nSincerely,\nEmily Mancini\n\n———\n\nTo: Emily Mancini <emily@mydeliciousbakery.com>\nFrom: Cornelius Kwon <ckwon@corneliusplace.com>\nDate: April 18\nSubject: RE: Product Inquiry\n\nDear Ms. Mancini,\n\nThank you for choosing Cam & Cornelius. I have checked our inventory and listed all the dishware that meets your requirements.\n\nName — Description — Number of items\nRayna — 12 centimeters, square — 15\nChelsea — 18 centimeters, round — 19\nStephano — 46 centimeters long, 38 centimeters wide, rectangular — 23\n\nAs for the tables and chairs, I do not have any that fit your requirements.\n\nI will set aside all the merchandise mentioned above. I look forward to seeing you at the store.\n\nRegards,\nCornelius Kwon"
+          },
+          "vi": "Bán hàng chuyển địa điểm!\n\nCam & Cornelius sắp chuyển nhà! Chúng tôi không thể mang hết mọi thứ đến địa điểm mới, nên chúng tôi tổ chức đợt bán xả hàng tồn kho lớn!\n\n22–27 tháng Tư\nMở cửa thứ Hai – thứ Bảy, 10 giờ sáng – 8 giờ tối\n\nGiảm 25% bàn và ghế\nGiảm 35% ghế sofa\nGiảm 40% chăn ga gối đệm\nGiảm 50% đồ dùng nhà bếp\n\nHãy nhớ ghé thăm chúng tôi tại địa điểm mới từ ngày 1 tháng Năm!\nĐịa chỉ cũ: 1304 Darwin Street → Địa chỉ mới: 1425 Pitt Road\n\n———\n\nĐến: Cornelius Kwon\nTừ: Emily Mancini\nNgày: 17 tháng Tư\nTiêu đề: Hỏi về sản phẩm\n\nKính gửi ông Kwon,\n\nTôi đã xem quảng cáo của ông và muốn mua một số món đồ cho tiệm bánh mới của tôi.\n\nTrước hết, tôi muốn khoảng 75 chiếc đĩa sứ trắng đủ mọi kích cỡ và hình dạng. Ngoài ra, tôi cần 4 bàn gỗ và 16 ghế gỗ, mỗi bàn bốn chỗ ngồi. Kích thước bàn: cao 76 cm, dài 152 cm, rộng 96 cm.\n\nNếu ông có sẵn bất kỳ sản phẩm nào tôi yêu cầu, tôi có thể đến Cam & Cornelius vào ngày đầu tiên của đợt giảm giá để xem trực tiếp. Cảm ơn ông.\n\nTrân trọng,\nEmily Mancini\n\n———\n\nĐến: Emily Mancini\nTừ: Cornelius Kwon\nNgày: 18 tháng Tư\nTiêu đề: Trả lời: Hỏi về sản phẩm\n\nKính gửi bà Mancini,\n\nCảm ơn bà đã chọn Cam & Cornelius. Tôi đã kiểm tra kho và liệt kê tất cả bát đĩa đáp ứng yêu cầu của bà.\n\nTên — Mô tả — Số lượng\nRayna — 12 cm, vuông — 15\nChelsea — 18 cm, tròn — 19\nStephano — dài 46 cm, rộng 38 cm, chữ nhật — 23\n\nVề bàn ghế, tôi không có loại nào phù hợp với yêu cầu của bà.\n\nTôi sẽ giữ lại tất cả hàng hóa nêu trên. Mong được gặp bà tại cửa hàng.\n\nTrân trọng,\nCornelius Kwon",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        },
+        {
+          "id": "d25-read-27",
+          "no": 25,
+          "text": "What is true about the Rayna products in inventory?",
+          "options": {
+            "A": "They are white.",
+            "B": "There are many sizes.",
+            "C": "They are plastic.",
+            "D": "There are 23 available."
+          },
+          "answer": "A",
+          "explain": "Bà Mancini yêu cầu “white porcelain plates”, ông Kwon liệt kê “all the dishware that meets your requirements”, trong đó có Rayna → Rayna là đĩa trắng. Rayna chỉ có một cỡ “12 centimeters, square” (B sai), số lượng là 15 (D sai: 23 là Stephano), là sứ chứ không phải nhựa (C sai).",
+          "passage": {
+            "text": "Moving Sale!\n\nCam & Cornelius is moving! We can't bring everything to our new location, so we are having a big inventory sale!\n\nApril 22-27\nOpen Mon. - Sat. 10 A.M. - 8 P.M.\n\n25% off tables and chairs\n35% off sofas\n40% off bedding\n50% off kitchenware\n\nRemember to visit us starting May 1 at our new place!\nOld Address: 1304 Darwin Street → New Address: 1425 Pitt Road\n\n———\n\nTo: Cornelius Kwon <ckwon@corneliusplace.com>\nFrom: Emily Mancini <emily@mydeliciousbakery.com>\nDate: April 17\nSubject: Product Inquiry\n\nDear Mr. Kwon,\n\nI saw your advertisement and was interested in purchasing some items for my new bakery.\n\nFirst, I would like approximately 75 white porcelain plates of all different sizes and shapes. Also, I will be needing 4 wooden tables and 16 wooden chairs. There should be four seats per table. The table measurements should be 76 centimeters in height, 152 centimeters in length, and 96 centimeters in width.\n\nIf you have any of the requested products in stock, I can visit Cam & Cornelius on the first day of the sale to see the items in person. Thank you.\n\nSincerely,\nEmily Mancini\n\n———\n\nTo: Emily Mancini <emily@mydeliciousbakery.com>\nFrom: Cornelius Kwon <ckwon@corneliusplace.com>\nDate: April 18\nSubject: RE: Product Inquiry\n\nDear Ms. Mancini,\n\nThank you for choosing Cam & Cornelius. I have checked our inventory and listed all the dishware that meets your requirements.\n\nName — Description — Number of items\nRayna — 12 centimeters, square — 15\nChelsea — 18 centimeters, round — 19\nStephano — 46 centimeters long, 38 centimeters wide, rectangular — 23\n\nAs for the tables and chairs, I do not have any that fit your requirements.\n\nI will set aside all the merchandise mentioned above. I look forward to seeing you at the store.\n\nRegards,\nCornelius Kwon"
+          },
+          "vi": "Bán hàng chuyển địa điểm!\n\nCam & Cornelius sắp chuyển nhà! Chúng tôi không thể mang hết mọi thứ đến địa điểm mới, nên chúng tôi tổ chức đợt bán xả hàng tồn kho lớn!\n\n22–27 tháng Tư\nMở cửa thứ Hai – thứ Bảy, 10 giờ sáng – 8 giờ tối\n\nGiảm 25% bàn và ghế\nGiảm 35% ghế sofa\nGiảm 40% chăn ga gối đệm\nGiảm 50% đồ dùng nhà bếp\n\nHãy nhớ ghé thăm chúng tôi tại địa điểm mới từ ngày 1 tháng Năm!\nĐịa chỉ cũ: 1304 Darwin Street → Địa chỉ mới: 1425 Pitt Road\n\n———\n\nĐến: Cornelius Kwon\nTừ: Emily Mancini\nNgày: 17 tháng Tư\nTiêu đề: Hỏi về sản phẩm\n\nKính gửi ông Kwon,\n\nTôi đã xem quảng cáo của ông và muốn mua một số món đồ cho tiệm bánh mới của tôi.\n\nTrước hết, tôi muốn khoảng 75 chiếc đĩa sứ trắng đủ mọi kích cỡ và hình dạng. Ngoài ra, tôi cần 4 bàn gỗ và 16 ghế gỗ, mỗi bàn bốn chỗ ngồi. Kích thước bàn: cao 76 cm, dài 152 cm, rộng 96 cm.\n\nNếu ông có sẵn bất kỳ sản phẩm nào tôi yêu cầu, tôi có thể đến Cam & Cornelius vào ngày đầu tiên của đợt giảm giá để xem trực tiếp. Cảm ơn ông.\n\nTrân trọng,\nEmily Mancini\n\n———\n\nĐến: Emily Mancini\nTừ: Cornelius Kwon\nNgày: 18 tháng Tư\nTiêu đề: Trả lời: Hỏi về sản phẩm\n\nKính gửi bà Mancini,\n\nCảm ơn bà đã chọn Cam & Cornelius. Tôi đã kiểm tra kho và liệt kê tất cả bát đĩa đáp ứng yêu cầu của bà.\n\nTên — Mô tả — Số lượng\nRayna — 12 cm, vuông — 15\nChelsea — 18 cm, tròn — 19\nStephano — dài 46 cm, rộng 38 cm, chữ nhật — 23\n\nVề bàn ghế, tôi không có loại nào phù hợp với yêu cầu của bà.\n\nTôi sẽ giữ lại tất cả hàng hóa nêu trên. Mong được gặp bà tại cửa hàng.\n\nTrân trọng,\nCornelius Kwon",
+          "source": {
+            "text": "pdf",
+            "options": "pdf",
+            "passage": "pdf",
+            "answer": "ai",
+            "explain": "ai",
+            "vi": "ai"
+          }
+        }
+      ]
+    }
+  ]
+}

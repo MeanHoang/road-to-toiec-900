@@ -1,0 +1,772 @@
+{
+  "collection": "vocabulary",
+  "day": "day-25",
+  "title": "Vocabulary",
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "d25-v01",
+      "no": 1,
+      "word": "compact car",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkɑːmpækt kɑːr/",
+        "us": "/ˈkɑːmpækt kɑːr/"
+      },
+      "meaningVi": "xe hạng nhỏ",
+      "image": null,
+      "example": {
+        "en": "Our list can help you find a compact car that meets all your needs."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v01-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v01-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v02",
+      "no": 2,
+      "word": "souvenir shop",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˌsuː.vəˈnɪr ʃɑːp/",
+        "us": "/ˌsuː.vəˈnɪr ʃɑːp/"
+      },
+      "meaningVi": "cửa hàng quà lưu niệm",
+      "image": null,
+      "example": {
+        "en": "After the show, everyone exits through a souvenir shop."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v02-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v02-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v03",
+      "no": 3,
+      "word": "exotic",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ɪɡˈzɑːtɪk/",
+        "us": "/ɪɡˈzɑːtɪk/"
+      },
+      "meaningVi": "kỳ lạ, ngoại lai (tới từ nước ngoài)",
+      "image": null,
+      "example": {
+        "en": "She travels to all kinds of exotic locations all over the world."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v03-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v03-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v04",
+      "no": 4,
+      "word": "facility",
+      "pos": "n",
+      "ipa": {
+        "uk": "/fəˈsɪləti/",
+        "us": "/fəˈsɪləti/"
+      },
+      "meaningVi": "cơ sở (địa điểm), tính năng (chức năng)",
+      "image": null,
+      "example": {
+        "en": "The new sports facility has a swimming pool."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v04-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v04-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v05",
+      "no": 5,
+      "word": "flight attendant",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈflaɪt ətendənt/",
+        "us": "/ˈflaɪt ətendənt/"
+      },
+      "meaningVi": "tiếp viên hàng không",
+      "image": null,
+      "example": {
+        "en": "For planes with up to 19 passenger seats, no flight attendant is needed."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v05-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v05-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v06",
+      "no": 6,
+      "word": "check-in desk",
+      "pos": "n",
+      "ipa": {
+        "uk": "/tʃek ɪn desk/",
+        "us": "/tʃek ɪn desk/"
+      },
+      "meaningVi": "bàn làm thủ tục (tại sân bay)",
+      "image": null,
+      "example": {
+        "en": "I'll meet you at the check-in desk."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v06-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v06-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v07",
+      "no": 7,
+      "word": "breathtaking",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈbreθteɪkɪŋ/",
+        "us": "/ˈbreθteɪkɪŋ/"
+      },
+      "meaningVi": "hấp dẫn, ngoạn mục",
+      "image": null,
+      "example": {
+        "en": "The scene was one of breathtaking beauty."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v07-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v07-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v08",
+      "no": 8,
+      "word": "spectacular",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/spekˈtækjələr/",
+        "us": "/spekˈtækjələr/"
+      },
+      "meaningVi": "hùng vĩ, đẹp mắt",
+      "image": null,
+      "example": {
+        "en": "The waterfall is truly spectacular."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v08-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v08-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v09",
+      "no": 9,
+      "word": "lounge",
+      "pos": "n",
+      "ipa": {
+        "uk": "/laʊndʒ/",
+        "us": "/laʊndʒ/"
+      },
+      "meaningVi": "phòng chờ (ở sân bay…)",
+      "image": null,
+      "example": {
+        "en": "The departure lounge"
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v09-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v09-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v10",
+      "no": 10,
+      "word": "voyage",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈvɔɪɪdʒ/",
+        "us": "/ˈvɔɪɪdʒ/"
+      },
+      "meaningVi": "chuyến đi, hành trình dài bằng tàu thuyền",
+      "image": null,
+      "example": {
+        "en": "The ship began its return voyage to Europe."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v10-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v10-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v11",
+      "no": 11,
+      "word": "eco-tourism",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈiːkəʊtʊrɪzəm/",
+        "us": "/ˈiːkəʊtʊrɪzəm/"
+      },
+      "meaningVi": "du lịch sinh thái",
+      "image": null,
+      "example": {
+        "en": "Ecotourism is financing rainforest preservation."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v11-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v11-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v12",
+      "no": 12,
+      "word": "scuba diving",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈskuːbə daɪvɪŋ/",
+        "us": "/ˈskuːbə daɪvɪŋ/"
+      },
+      "meaningVi": "lặn",
+      "image": null,
+      "example": {
+        "en": "The island has no beaches, but does have fishing and scuba diving."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v12-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v12-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v13",
+      "no": 13,
+      "word": "sky diving",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈskaɪdaɪvɪŋ/",
+        "us": "/ˈskaɪdaɪvɪŋ/"
+      },
+      "meaningVi": "nhảy dù",
+      "image": null,
+      "example": {
+        "en": "She goes skydiving in her spare time."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v13-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v13-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v14",
+      "no": 14,
+      "word": "jet-skiing",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈdʒet skiːɪŋ/",
+        "us": "/ˈdʒet skiːɪŋ/"
+      },
+      "meaningVi": "cưỡi mô tô nước",
+      "image": null,
+      "example": {
+        "en": "A teenage girl died in a jet-skiing accident."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v14-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v14-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v15",
+      "no": 15,
+      "word": "housekeeper",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈhaʊskiːpər/",
+        "us": "/ˈhaʊskiːpər/"
+      },
+      "meaningVi": "nhân viên dọn phòng, quản gia",
+      "image": null,
+      "example": {
+        "en": "Do come in. My housekeeper will make you a cup of tea."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v15-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v15-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v16",
+      "no": 16,
+      "word": "catering service",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈkeɪtərɪŋ ˈsɜːrvɪs/",
+        "us": "/ˈkeɪtərɪŋ ˈsɜːrvɪs/"
+      },
+      "meaningVi": "dịch vụ tiệc, sự kiện (đồ ăn, đồ uống, trang trí, lên menu…)",
+      "image": null,
+      "example": {
+        "en": "The food supplied by the hospital so far has been either dried or frozen, however a special catering service will provide fresh food from today."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v16-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v16-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v17",
+      "no": 17,
+      "word": "tour operator",
+      "pos": "n",
+      "ipa": {
+        "uk": "/ˈtʊr ɑːpəreɪtər/",
+        "us": "/ˈtʊr ɑːpəreɪtər/"
+      },
+      "meaningVi": "nhà tổ chức tour, công ty lữ hành",
+      "image": null,
+      "example": {
+        "en": "She co-founded the nation's largest tour operator for foreigners visiting Viet Nam."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "ai",
+        "meaningVi": "pdf",
+        "ipa": "ai",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v17-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v17-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v18",
+      "no": 18,
+      "word": "attentive",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/əˈtentɪv/",
+        "us": "/əˈtentɪv/"
+      },
+      "meaningVi": "chu đáo, ân cần",
+      "image": null,
+      "example": {
+        "en": "An attentive housekeeper."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v18-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v18-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v19",
+      "no": 19,
+      "word": "costly",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkɔːstli/",
+        "us": "/ˈkɔːstli/"
+      },
+      "meaningVi": "đắt, tốn kém",
+      "image": null,
+      "example": {
+        "en": "The restaurants in town are costly."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v19-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v19-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v20",
+      "no": 20,
+      "word": "beneficial",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌbenɪˈfɪʃl/",
+        "us": "/ˌbenɪˈfɪʃl/"
+      },
+      "meaningVi": "có lợi, có ích",
+      "image": null,
+      "example": {
+        "en": "Tourism has the potential to create beneficial effects on the environment by contributing to environmental protection."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v20-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v20-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v21",
+      "no": 21,
+      "word": "introductory",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌɪntrəˈdʌktəri/",
+        "us": "/ˌɪntrəˈdʌktəri/"
+      },
+      "meaningVi": "giới thiệu, mở đầu",
+      "image": null,
+      "example": {
+        "en": "A special introductory price of just $10"
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v21-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v21-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v22",
+      "no": 22,
+      "word": "multiple",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈmʌltɪpl/",
+        "us": "/ˈmʌltɪpl/"
+      },
+      "meaningVi": "nhiều, đa",
+      "image": null,
+      "example": {
+        "en": "We offer multiple (= many different) payment options."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v22-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v22-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v23",
+      "no": 23,
+      "word": "ideal",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/aɪˈdiːəl/",
+        "us": "/aɪˈdiːəl/"
+      },
+      "meaningVi": "lý tưởng",
+      "image": null,
+      "example": {
+        "en": "This beach is ideal for children."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v23-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v23-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v24",
+      "no": 24,
+      "word": "overdue",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˌəʊvərˈduː/",
+        "us": "/ˌəʊvərˈduː/"
+      },
+      "meaningVi": "quá chậm, quá hạn",
+      "image": null,
+      "example": {
+        "en": "The agents had a hard time getting people to pay bills that were six months overdue."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v24-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v24-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v25",
+      "no": 25,
+      "word": "courteous",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkɜːrtiəs/",
+        "us": "/ˈkɜːrtiəs/"
+      },
+      "meaningVi": "lịch thiệp, lịch sự",
+      "image": null,
+      "example": {
+        "en": "The hotel staff are friendly and courteous."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v25-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v25-uk.mp3"
+      }
+    },
+    {
+      "id": "d25-v26",
+      "no": 26,
+      "word": "conscious",
+      "pos": "adj",
+      "ipa": {
+        "uk": "/ˈkɑːnʃəs/",
+        "us": "/ˈkɑːnʃəs/"
+      },
+      "meaningVi": "nhận thức, biết rõ (về điều gì)",
+      "image": null,
+      "example": {
+        "en": "She's very conscious of the problems involved."
+      },
+      "group": "Travel",
+      "source": {
+        "word": "pdf",
+        "pos": "pdf",
+        "meaningVi": "pdf",
+        "ipa": "pdf",
+        "example": "pdf",
+        "voice": "tts"
+      },
+      "sourceUrl": "https://drive.google.com/file/d/1lhVDcuEmh-K2reUwQlA79v2M3nTnORfs/view",
+      "voice": {
+        "us": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v26-us.mp3",
+        "uk": "https://huggingface.co/datasets/mhoang0000/toeic900-assets/resolve/main/day-25/voice-neural/d25-v26-uk.mp3"
+      }
+    }
+  ],
+  "voiceGeneration": {
+    "provider": "Microsoft Edge TTS",
+    "voices": {
+      "us": "en-US-AriaNeural",
+      "uk": "en-GB-SoniaNeural"
+    },
+    "rate": "-8%",
+    "package": "edge-tts 7.3.1",
+    "textHash": "c1879726b7d79ed7be6995a808be49db11b606c5871b99ff15504a492b8fe6b9"
+  }
+}
